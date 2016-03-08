@@ -76,6 +76,9 @@ function replaceit($filename) {
     $from[] = '/@([^@]+)@/';
     $to[] = '<h2>\1</h2>';
 
+    $from[] = '/(\s)-(\s)/';
+    $to[] = '\1&ndash;\2';
+
     $txt = preg_replace($from, $to, $txt);
 
     global $nextletter;
