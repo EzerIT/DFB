@@ -50,6 +50,9 @@ function replaceit($filename) {
     $from[] = '/JHVHs/i';
     $to[] = '<span class="thenames">JHVHs</span>';
 
+    $from[] = '/JHVHv/i';
+    $to[] = '<span class="thenamev">JHVHv</span>';
+
     $from[] = '/JHVH/i';
     $to[] = '<span class="thename">JHVH</span>';
 

@@ -137,9 +137,15 @@ function pagination($kapitel) {
             <?php if ($_SESSION['godsname']=='HERREN'): ?>
               $('.thename').text('Herren').addClass('smallcap');
               $('.thenames').text('Herrens').addClass('smallcap');
+              $('.thenamev').text('Herre').addClass('smallcap');
+            <?php elseif ($_SESSION['godsname']=='Herren'): ?>
+              $('.thename').text('Herren');
+              $('.thenames').text('Herrens');
+              $('.thenamev').text('Herre');
             <?php else: ?>
               $('.thename').text('<?= $_SESSION['godsname'] ?>');
               $('.thenames').text('<?= $_SESSION['godsname'].'s' ?>');
+              $('.thenamev').text('<?= $_SESSION['godsname'] ?>');
             <?php endif; ?>
 
 
