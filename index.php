@@ -42,12 +42,11 @@
             engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-          <p>Foreløbig er det kun Dommerbogen der foreligger som et udkast til vurdering. Denne
-          udgave er udarbejdet af Trine Tøndering og redigeret af Nicolai Winther-Nielsen i
-          forbindelse med sidstnævntes oversættelsen af Dommerbogen til moderne dansk for
-          Bibelselskabet (udgivelsen ”Frihedskampen”). Forlægget har været den danske oversættelse
-          fra 1871, som er blevet moderniseret og opdateret med nye resultater fra
-          bibelforskningen.</p>
+          <p>Foreløbig er det kun Dommerbogen der foreligger som et udkast til vurdering. Forlægget
+          har været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med
+          nye resultater fra bibelforskningen. (Denne udgave er udarbejdet i forbindelse med
+          Nicolai Winther-Nielsens oversættelse af Dommerbogen til moderne dansk for Bibelselskabet
+          &ndash; udgivelsen »Frihedskampen«.)</p>
 
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af den hebraiske tekst som muligt, også på
@@ -77,7 +76,7 @@
         </div>
    
         <div class="col-sm-3">
-          <div class="panel panel-primary">
+          <div class="panel panel-success">
             <div class="panel-heading">
               <h3 class="panel-title">Ophavsret</h3>
             </div>
@@ -88,14 +87,17 @@
             </div>
           </div>
    
-          <div class="panel panel-warning">
+          <div class="panel panel-info">
             <div class="panel-heading">
-              <h3 class="panel-title">Under udarbejdelse</h3>
+              <h3 class="panel-title">Personer</h3>
             </div>
             <div class="panel-body">
-              Dette websted er stadig under udarbejdelse. Det betyder at man ikke kan regne med
-              at den webadresse (URL) som i dag peger på fx Dommerbogen kapitel 3, også vil fungere i
-              morgen. Endvidere bliver bibeloversættelsen løbende revideret og opdateret.
+              <p>Modernisering af teksten: Trine Tøndering</p>
+              <p>Faglig redaktør: Nicolai Winther-Nielsen</p>
+              <p>Faglig konsulent: Christian Højgaard</p>
+              <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
+
+              <p>Bemærk at bibeloversættelsen løbende bliver revideret og opdateret.</p>
             </div>
           </div>
         </div>
