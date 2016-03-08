@@ -91,16 +91,9 @@ function pagination($kapitel) {
         font-weight: normal;
         line-height: 1.1;
         display: block;
-        min-width: 20em;
-        position: absolute;
-        left: 25px;
-        bottom: 5px ;
         border: 1px solid;
         padding: 5px;
-        background-color: #fff;
-        word-wrap: break-word;
-        z-index: 9999;
-        overflow: auto;
+        background-color: lightgray;
     }
 
     div.paragraph {
