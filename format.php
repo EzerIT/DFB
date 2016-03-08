@@ -69,13 +69,13 @@
 
             <div class="checkbox">
               <label>
-       <input type="checkbox" name="showfna" <?= showchecked('showfna') ?>> Vis fodnotemærker fra 1871-udgaven (1,2,3,...)
+                <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis fodnotemærker fra 1871-udgaven (1,2,3,...)
               </label>
             </div>
 
             <div class="checkbox">
               <label>
-       <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis fodnotemærker for eksegese (a,b,c,...)
+                <input type="checkbox" name="showfna" <?= showchecked('showfna') ?>> Vis fodnotemærker for eksegese (a,b,c,...)
               </label>
             </div>
 
