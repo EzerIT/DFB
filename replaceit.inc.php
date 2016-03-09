@@ -57,7 +57,7 @@ function replaceit($filename) {
     $to[] = '<span class="thename">JHVH</span>';
 
 
-    $from[] = '/([^a-z])v([0-9]+) */';
+    $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno">\2</span>';
 
     $from[] = '/\n *\n/';
