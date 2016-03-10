@@ -48,13 +48,13 @@ function replaceit($filename) {
 
 
     $from[] = '/JHVHs/i';
-    $to[] = '<span class="thenames">JHVHs</span>';
+    $to[] = '<span class="thenames"></span>';
 
     $from[] = '/JHVHv/i';
-    $to[] = '<span class="thenamev">JHVHv</span>';
+    $to[] = '<span class="thenamev"></span>';
 
     $from[] = '/JHVH/i';
-    $to[] = '<span class="thename">JHVH</span>';
+    $to[] = '<span class="thename"></span>';
 
 
     $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
