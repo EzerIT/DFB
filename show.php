@@ -111,6 +111,12 @@ function pagination($kapitel) {
                 $('.verseno').hide();
             <?php endif; ?>
 
+            <?php if ($_SESSION['showchap']=='on'): ?>
+                $('.chapno').show();
+            <?php else: ?>
+                $('.chapno').hide();
+            <?php endif; ?>
+
             <?php if ($_SESSION['showh2']=='on'): ?>
                 $('h2').show();
             <?php else: ?>
@@ -194,7 +200,7 @@ function pagination($kapitel) {
 
       <div class="row">
         <div class="col-xs-12" style="max-width:700px;">
-          <?php echo replaceit(sprintf('tekst/dom%03d.txt',$kap)); ?>
+          <?php echo replaceit(sprintf('tekst/dom%03d.txt',$kap), $kap); ?>
         </div>
       </div>
            

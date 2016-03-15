@@ -63,6 +63,12 @@
 
             <div class="checkbox">
               <label>
+                <input type="checkbox" name="showchap" <?= showchecked('showchap') ?>> Vis kapitelnumre ved hvert vers
+              </label>
+            </div>
+
+            <div class="checkbox">
+              <label>
                 <input type="checkbox" name="showh2" <?= showchecked('showh2') ?>> Vis overskrifter
               </label>
             </div>

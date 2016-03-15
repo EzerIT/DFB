@@ -11,6 +11,7 @@ if (!session_id())
     session_start();
 
 setifpost('showverse');
+setifpost('showchap');
 setifpost('showh2');
 setifpost('showfna');
 setifpost('showfn1');

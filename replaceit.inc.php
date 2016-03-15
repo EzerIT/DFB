@@ -1,6 +1,6 @@
 <?php
 
-function replaceit($filename) {
+function replaceit($filename, $chapter) {
     $txt = file_get_contents($filename);
 
     if (preg_match('/"/',$txt)) {
@@ -58,7 +58,7 @@ function replaceit($filename) {
 
 
     $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
-    $to[] = '\1<span class="verseno">\2</span>';
+    $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
 
     $from[] = '/\n *\n/';
     $to[] = 'QQ';

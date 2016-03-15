@@ -8,6 +8,7 @@
    }
 
    setdefault('showverse', 'on');
+   setdefault('showchap',  'off');
    setdefault('showh2',    'on');
    setdefault('showfna',   'on');
    setdefault('showfn1',   'on');
