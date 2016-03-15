@@ -28,6 +28,7 @@
           <li role="presentation"><a href="format.php">Læseoplevelse</a></li>
           <li role="presentation" class="active"><a href="#">Bibeltekst</a></li>
         </ul>
+      </div>
     </nav>
 
     <div class="container-fluid">
