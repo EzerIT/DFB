@@ -101,6 +101,11 @@ function pagination($kapitel) {
         display: block;
     }
 
+    h2 small {
+      font-size: 85%;
+      color: #333333;
+    }
+
     </style>
 
     <script>
@@ -141,9 +146,9 @@ function pagination($kapitel) {
             <?php endif; ?>
 
             <?php if ($_SESSION['godsname']=='HERREN'): ?>
-              $('.thename').text('Herren').addClass('smallcap');
-              $('.thenames').text('Herrens').addClass('smallcap');
-              $('.thenamev').text('Herre').addClass('smallcap');
+                $('.thename').html('H<small>ERREN</small>');
+                $('.thenames').html('H<small>ERRENS</small>');
+                $('.thenamev').html('H<small>ERRE</small>');
             <?php elseif ($_SESSION['godsname']=='Herren'): ?>
               $('.thename').text('Herren');
               $('.thenames').text('Herrens');
