@@ -56,7 +56,6 @@ function replaceit($filename, $chapter) {
     $from[] = '/JHVH/i';
     $to[] = '<span class="thename"></span>';
 
-
     $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
 
@@ -65,13 +64,15 @@ function replaceit($filename, $chapter) {
 
     $from[] = '/\n/';
     $to[] = ' ';
- 
 
     $from[] = '/QQ/';
     $to[] = "\n";
 
     $from[] = '/^ *([^\n@]+) *$/m';
     $to[] = '<div class="paragraph">\1</div>';
+
+    $from[] = '/\*\*\*/';
+    $to[] = '&nbsp;';
 
     $from[] = '/@@([^@]+)@@/';
     $to[] = '<h1>\1</h1>';
