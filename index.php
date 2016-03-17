@@ -82,9 +82,12 @@
               <h3 class="panel-title">Ophavsret</h3>
             </div>
             <div class="panel-body">
-              Intet indhold i Den Frie Bibel er belagt med ophavsret. Det betyder at alle har ret
+              <p>Intet indhold i Den Frie Bibel er belagt med ophavsret. Det betyder at alle har ret
               til at gøre hvad som helst med teksten: Kopiere den, udskrive den, citere den, lægge
-              den på andre websider, radiotransmittere den, sælge den, prædike over den, osv.
+              den på andre websider, radiotransmittere den, sælge den, prædike over den, osv.</p>
+              <p>Derimod er selve betegnelsen <i>Den Frie Bibel</i> et varemærke, og hvis du ændrer
+              teksten, må du ikke benytte betegnelsen <i>Den Frie Bibel</i> om den ændrede
+              tekst.</p>
             </div>
           </div>
    
