@@ -19,7 +19,7 @@
           <span class="icon-bar"></span><!-- Line on menu toggle button -->
           <span class="icon-bar"></span><!-- Line on menu toggle button -->
         </button>
-        <a class="navbar-brand" href="http://dfb.ezer.dk">Den Frie Bibel</a>
+        <a class="navbar-brand" href="http://denfriebibel.dk">Den Frie Bibel</a>
       </div>
       
       <div class="collapse navbar-collapse" id="navbarCollapse">
