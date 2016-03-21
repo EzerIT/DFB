@@ -1,35 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Den Frie Bibel</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
-  </head>
+<?php
+require_once('head.inc.php');
 
-  <body>
-
-    <nav id="myNavbar" class="navbar navbar-default navbar-static-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
-          <span class="sr-only">Toggle navigation</span><!-- For screen reader -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-        </button>
-        <a class="navbar-brand" href="http://denfriebibel.dk">Den Frie Bibel</a>
-      </div>
-      
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav nav-pills">
-          <li role="presentation"><a href="index.php">Hjem</a></li>
-          <li role="presentation"><a href="format.php">Læseoplevelse</a></li>
-          <li role="presentation" class="active"><a href="#">Bibeltekst</a></li>
-        </ul>
-      </div>
-    </nav>
+makeheadstart('Den Frie Bibel');
+makeheadend();
+makemenus(2);
+?>
 
     <div class="container-fluid">
       <div class="row">
@@ -76,6 +51,7 @@
 
       </div><!--row-->
     </div><!--container-fluid-->
-  </body>
-</html>
+<?php
+endbody();
+?>
 

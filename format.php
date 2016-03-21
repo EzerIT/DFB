@@ -1,49 +1,19 @@
-<!DOCTYPE html>
 <?php
-   require_once('setdefault.inc.php');
+require_once('head.inc.php');
+require_once('setdefault.inc.php');
 
-   function showchecked($ix) {
-       return $_SESSION[$ix]=='on' ? 'checked' : '';
-   }
+function showchecked($ix) {
+    return $_SESSION[$ix]=='on' ? 'checked' : '';
+}
 
-   function showselected($ix,$val) {
-       return $_SESSION[$ix]==$val ? 'selected="selected"' : '';
-   }
+function showselected($ix,$val) {
+    return $_SESSION[$ix]==$val ? 'selected="selected"' : '';
+}
+
+makeheadstart('Den Frie Bibel');
+makeheadend();
+makemenus(1);
 ?>
-     
-
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Den Frie Bibel</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
-
-  </head>
-
-  <body>
-
-    <nav id="myNavbar" class="navbar navbar-default navbar-static-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
-          <span class="sr-only">Toggle navigation</span><!-- For screen reader -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-        </button>
-        <a class="navbar-brand" href="http://denfriebibel.dk">Den Frie Bibel</a>
-      </div>
-      
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav nav-pills">
-          <li role="presentation"><a href="index.php">Hjem</a></li>
-          <li role="presentation" class="active"><a href="#">Læseoplevelse</a></li>
-          <li role="presentation"><a href="tekst.php">Bibeltekst</a></li>
-        </ul>
-      </div>
-    </nav>
 
     <div class="container-fluid">
       <div class="row">
@@ -106,7 +76,7 @@
 
             <p>
               <button type="submit" class="btn btn-primary">OK</button>
-              <a class="btn btn-default" href="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">Annulér</a>
+              <a class="btn btn-default" href="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">Annullér</a>
             </p>
           </form>
 
@@ -114,5 +84,6 @@
       </div><!--row-->
     </div><!--container-fluid-->
 
-  </body>
-</html>
+<?php
+endbody();
+?>

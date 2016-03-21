@@ -1,12 +1,11 @@
 <?php
-if (!isset($_GET['bog']) || $_GET['bog']!='dom' || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
-    echo "<pre>Forkerte parametre</pre>";
-    die;
-}
-$kap = intval($_GET['kap']);
+require_once('head.inc.php');
+require_once('setdefault.inc.php');
+require_once('replaceit.inc.php');
 
 
 function pagination($kapitel) {
+
 ?>
 <nav>
   <ul class="pagination">
@@ -32,23 +31,18 @@ function pagination($kapitel) {
 </nav>
 
 <?php
+
 }
-?>
+
+if (!isset($_GET['bog']) || $_GET['bog']!='dom' || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
+    echo "<pre>Forkerte parametre</pre>";
+    die;
+}
+$kap = intval($_GET['kap']);
 
 
-<!DOCTYPE html>
-<?php
-   require_once('setdefault.inc.php');
-   require_once('replaceit.inc.php');
+makeheadstart("Dommerbogen &ndash; Kapitel $kap");
 ?>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-       <title>Dommerbogen &ndash; Kapitel <?= $kap ?></title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 
     <style type="text/css">
     span.verseno {
@@ -64,7 +58,7 @@ function pagination($kapitel) {
         font-variant:small-caps;
     }
 
-    /* Taken from XKCD */
+    /* Taken in part from XKCD */
     /* the reference tooltips style starts here */
 
     .ref {
@@ -173,29 +167,11 @@ function pagination($kapitel) {
 
     });
     </script>
-  </head>
 
-  <body>
-
-    <nav id="myNavbar" class="navbar navbar-default navbar-static-top">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
-          <span class="sr-only">Toggle navigation</span><!-- For screen reader -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-        </button>
-        <a class="navbar-brand" href="http://denfriebibel.dk">Den Frie Bibel</a>
-      </div>
-      
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav nav-pills">
-          <li role="presentation"><a href="index.php">Hjem</a></li>
-          <li role="presentation"><a href="format.php">Læseoplevelse</a></li>
-          <li role="presentation"><a href="tekst.php">Bibeltekst</a></li>
-        </ul>
-      </div>
-    </nav>
+<?php
+makeheadend();
+makemenus(null);
+?>
 
     <div class="container-fluid">
       <div class="row">
@@ -217,5 +193,6 @@ function pagination($kapitel) {
       </div><!--End of row-->
     </div><!--End of container-fluid-->
 
-</body>
-</html>
+<?php
+endbody();
+?>
