@@ -44,6 +44,25 @@ makemenus(2);
                   <td><a style="width:100%" href="show.php?bog=dom&kap=21" class="btn btn-success">21</a></td>
                 </tr>
               </table>
+
+            </div><!--panel-body-->
+         </div><!--panel-->
+
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title">Salmernes Bog</h3>
+            </div>
+            <div class="panel-body">
+              <p>Vælg salme:</p>
+              <table>
+                <tr>
+                  <td><a style="width:100%" href="show.php?bog=sl&kap=1" class="btn btn-success">1</a></td>
+                  <td><a style="width:100%" href="show.php?bog=sl&kap=2" class="btn btn-success">2</a></td>
+                  <td><a style="width:100%" href="show.php?bog=sl&kap=8" class="btn btn-success">8</a></td>
+                  <td><a style="width:100%" href="show.php?bog=sl&kap=23" class="btn btn-success">23</a></td>
+                  <td><a style="width:100%" href="show.php?bog=sl&kap=24" class="btn btn-success">24</a></td>
+                </tr>
+              </table>
             
             </div><!--panel-body-->
           </div><!--panel-->

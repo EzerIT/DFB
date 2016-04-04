@@ -3,27 +3,71 @@ require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('replaceit.inc.php');
 
+// $minkap: Minimum chapter number
+$minkap = array();
+$minkap['dom'] = 1;
+$minkap['sl'] = 1;
 
-function pagination($kapitel) {
+// $maxkap: Maximum chapter number
+$maxkap = array();
+$maxkap['dom'] = 21;
+$maxkap['sl'] = 24;
+
+
+// $nextkap: Next chapter number, or -1
+$nextkap = array();
+$nextkap['dom'] = array();
+$nextkap['sl'] = array();
+
+for ($k=1; $k<$maxkap['dom']; ++$k)
+    $nextkap['dom'][$k] = $k+1;
+$nextkap['dom'][$maxkap['dom']] = -1;
+
+$nextkap['sl'][1] = 2;
+$nextkap['sl'][2] = 8;
+$nextkap['sl'][8] = 23;
+$nextkap['sl'][23] = 24;
+$nextkap['sl'][24] = -1;
+
+
+// $prevkap: Previous chapter number, or -1
+
+$prevkap = array();
+$prevkap['dom'] = array();
+$prevkap['sl'] = array();
+
+for ($k=2; $k<=$maxkap['dom']; ++$k)
+    $prevkap['dom'][$k] = $k-1;
+$prevkap['dom'][$minkap['dom']] = -1;
+
+$prevkap['sl'][1] = -1;
+$prevkap['sl'][2] = 1;
+$prevkap['sl'][8] = 2;
+$prevkap['sl'][23] = 8;
+$prevkap['sl'][24] = 23;
+
+
+function pagination($bog, $kapitel) {
+global $minkap, $maxkap, $prevkap, $nextkap;
 
 ?>
 <nav>
   <ul class="pagination">
-    <li <?= $kapitel==1 ? 'class="disabled"' : ''?>>
-      <a href="<?= $kapitel==1 ? '#' : sprintf('show.php?bog=dom&kap=%d',$kapitel-1) ?>" aria-label="Previous">
+    <li <?= $kapitel==$minkap[$bog] ? 'class="disabled"' : ''?>>
+      <a href="<?= $prevkap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$prevkap[$bog][$kapitel]) : '#' ?>" aria-label="Previous">
         <span aria-hidden="true">&laquo;</span>
       </a>
     </li>
-    <?php for ($k=1; $k<22; ++$k): ?>
+    <?php for ($k=$minkap[$bog]; $k!=-1; $k=$nextkap[$bog][$k]): ?>
        <?php if ($k==$kapitel): ?>
          <li class="active"><a href="#"><?= $k ?></a></li>
        <?php else: ?>
-         <li><a href="<?= sprintf('show.php?bog=dom&kap=%d',$k) ?>"><?= $k ?></a></li>
+         <li><a href="<?= sprintf('show.php?bog=%s&kap=%d',$bog,$k) ?>"><?= $k ?></a></li>
        <?php endif; ?>
     <?php endfor; ?>
     <li>
-    <li <?= $kapitel==21 ? 'class="disabled"' : ''?>>
-      <a href="<?= $kapitel==21 ? '#' : sprintf('show.php?bog=dom&kap=%d',$kapitel+1) ?>" aria-label="Next">
+    <li <?= $kapitel==$maxkap[$bog] ? 'class="disabled"' : ''?>>
+      <a href="<?= $nextkap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$nextkap[$bog][$kapitel]) : '#' ?>" aria-label="Next">
         <span aria-hidden="true">&raquo;</span>
       </a>
     </li>
@@ -34,14 +78,22 @@ function pagination($kapitel) {
 
 }
 
-if (!isset($_GET['bog']) || $_GET['bog']!='dom' || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
+if (!isset($_GET['bog']) || !isset($minkap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
     echo "<pre>Forkerte parametre</pre>";
     die;
 }
 $kap = intval($_GET['kap']);
+$bog = $_GET['bog'];
 
+switch ($_GET['bog']) {
+  case 'dom':
+        makeheadstart("Dommerbogen &ndash; Kapitel $kap");
+        break;
 
-makeheadstart("Dommerbogen &ndash; Kapitel $kap");
+  case 'sl':
+        makeheadstart("Salmernes Bog &ndash; Salme $kap");
+        break;
+}
 ?>
 
     <style type="text/css">
@@ -176,23 +228,22 @@ makemenus(null);
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
-          <?php pagination($kap); ?>
+          <?php pagination($bog,$kap); ?>
         </div>
       </div>
 
       <div class="row">
         <div class="col-xs-12" style="max-width:700px;">
-          <?php echo replaceit(sprintf('tekst/dom%03d.txt',$kap), $kap); ?>
+          <?php echo replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap); ?>
         </div>
       </div>
            
       <div class="row">
         <div class="col-xs-12">
-          <?php pagination($kap); ?>
+          <?php pagination($bog,$kap); ?>
         </div>
       </div><!--End of row-->
     </div><!--End of container-fluid-->
 
 <?php
 endbody();
-?>

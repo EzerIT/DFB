@@ -17,7 +17,7 @@ makemenus(0);
             engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-          <p>Foreløbig er det kun Dommerbogen der foreligger som et udkast til vurdering. Forlægget
+          <p>Foreløbig er det kun Dommerbogen og noget af Salmernes Bog der foreligger som et udkast til vurdering. Forlægget
           har været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med
           nye resultater fra bibelforskningen. (Denne udgave er udarbejdet i forbindelse med
           Nicolai Winther-Nielsens oversættelse af Dommerbogen til moderne dansk for Bibelselskabet
@@ -70,7 +70,7 @@ makemenus(0);
               <h3 class="panel-title">Personer</h3>
             </div>
             <div class="panel-body">
-              <p>Modernisering af teksten: Trine Tøndering</p>
+              <p>Modernisering af teksten: Trine Tøndering (Dommerbogen), Jørgen Bækgaard Thomsen (Salmernes Bog)</p>
               <p>Faglig redaktør: Nicolai Winther-Nielsen</p>
               <p>Faglig konsulent: Christian Højgaard</p>
               <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
