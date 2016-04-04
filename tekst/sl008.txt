@@ -1,16 +1,16 @@
 ===Salme 8===
 ==Overskrift==
-v1 Til korlederen {T: *lamenaṣṣeaḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder >>lede, dirigere<<.}; al-ha-gittit {T: Det vides ikke, hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.}; en salme af David. 
+v1 Til korlederen {T: *lamenaṣṣeaḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder >>lede, dirigere<<.}; al-ha-gittit {T: Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.}; en salme af David. 
 
 
 ==David lovpriser skaberens herlighed==
-v2 JHVHv, vor Herre! hvor herligt er dit navn over hele jorden, du, som udbreder {T: *tenāh* er omdiskuteret. Det ser ud som imperativ af *ntn* >>giv!<<, men i sammenhængen kan det opfattes som kortform for infinitiven.} din majestæt over himlene! 
-v3 Af spædes og diendes mund har du grundlagt et værn {T: *‛oz* betyder oftest >>magt, styrke<<, men dernæst også >>fæstning, bolværk<<. Endelig kan det betyde >>hæder, lovprisning, lovsang<<, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på >>værn<<.} for dine modstanderes skyld {T: *lema‛an* betyder >>for … skyld<<, men oversættes her ofte >>mod<<.} for at standse fjenden og den, som vil hævne sig.
+v2 JHVHv, vor Herre! hvor herligt er dit navn over hele jorden, du som udbreder {T: *tenāh* er omdiskuteret. Det ser ud som imperativ af *ntn* >>giv!<<, men i sammenhængen kan det opfattes som kortform for infinitiven.} din majestæt over himlene! 
+v3 Af spædes og diendes mund har du grundlagt et værn {T: *‛oz* betyder oftest >>magt, styrke<<, men dernæst også >>fæstning, bolværk<<. Endelig kan det betyde >>hæder, lovprisning, lovsang<<, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på >>værn<<.} for dine modstanderes skyld {T: *lema‛an* betyder >>for … skyld<<, men oversættes her ofte >>mod<<.} for at standse fjenden og den som vil hævne sig.
 
 
 ==I særdeleshed prises Guds godhed mod mennesket, som han satte til hersker over jorden==
 v4 Når jeg ser din himmel, dine fingres gerninger, månen og stjernerne, som du anbragte, 
-v5 hvad er da et menneske, at du husker på det, og et menneskebarn, at du tager dig af det? 
+v5 hvad er da et menneske at du husker på det, og et menneskebarn at du tager dig af det? 
 v6 Og du har gjort det kun lidt ringere end Gud{T: Oversættes oftest >>englene<< (således LXX), jf. Hebr 2,7.}; du kronede det med ære og herlighed. 
 v7 Du gør det til hersker over dine hænders gerninger, du har lagt alting under dets fødder: 
 v8 Får og okser, dem alle sammen, ja, også markens dyr, 
