@@ -43,7 +43,7 @@ function replaceit($filename, $chapter) {
     $from[] = '/\s*{E: *([^}]+)}/';
     $to[] = '<span class="ref refa"><span class="refnum">[REFALET]</span><span class="refbody">\1</span></span>';
 
-    $from[] = '/\s{T: *([^}]+)}/';
+    $from[] = '/\s*{T: *([^}]+)}/';
     $to[] = '<span class="ref ref1"><span class="refnum">[REFANUM]</span><span class="refbody">\1</span></span>';
 
 
