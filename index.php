@@ -70,9 +70,8 @@ makemenus(0);
               <h3 class="panel-title">Personer</h3>
             </div>
             <div class="panel-body">
-              <p>Modernisering af teksten: Trine Tøndering (Dommerbogen), Jørgen Bækgaard Thomsen (Salmernes Bog)</p>
-              <p>Faglig redaktør: Nicolai Winther-Nielsen</p>
-              <p>Faglig konsulent: Christian Højgaard</p>
+              <p>Under hvert kapitel nævnes de personer der har stået for »oversættelsen« (altså
+              modernisering af teksten) og den videnskablige bearbejdning af indholdet.</p>
               <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
 
               <p>Bemærk at bibeloversættelsen løbende bliver revideret og opdateret.</p>

@@ -1,6 +1,6 @@
 <?php
 
-function replaceit($filename, $chapter) {
+function replaceit($filename, $chapter, &$credit) {
     $txt = file_get_contents($filename);
 
     if (preg_match('/"/',$txt)) {
@@ -9,6 +9,11 @@ function replaceit($filename, $chapter) {
         die;
     }
 
+    preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
+    $credit = $meta_matches[1];
+
+    $from[] = '/!!<.*>!!/';
+    $to[] = '';
 
     $from[] = '/===/';
     $to[] = '@@';

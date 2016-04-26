@@ -39,7 +39,7 @@ echo <<<END
           <span class="icon-bar"></span><!-- Line on menu toggle button -->
           <span class="icon-bar"></span><!-- Line on menu toggle button -->
         </button>
-        <a class="navbar-brand" href="http://denfriebibel.dk">Den Frie Bibel</a>
+        <a class="navbar-brand" href="index.php">Den Frie Bibel</a>
       </div>
 
 END;
@@ -65,6 +65,7 @@ echo <<<END
              </a>
              <ul class="dropdown-menu">
                <!--li><a href="faq.php">Hyppigt stillede spørgsmål</a></li-->
+               <li><a href="modenhed.php">Tekstens modenhed</a></li>
                <li><a href="vejledning.php">Vejledning for bidragydere</a></li>
              </ul>
            </li>

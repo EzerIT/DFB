@@ -234,15 +234,34 @@ makemenus(null);
 
       <div class="row">
         <div class="col-xs-12" style="max-width:700px;">
-          <?php echo replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap); ?>
+          <?php echo replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $credit); ?>
         </div>
       </div>
-           
+
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title">Status for dette kapitel</h3>
+            </div>
+            <div class="panel-body">
+              <?php foreach ($credit as $c): ?>
+                <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
+              <?php endforeach; ?>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div class="row">
         <div class="col-xs-12">
           <?php pagination($bog,$kap); ?>
         </div>
       </div><!--End of row-->
+
     </div><!--End of container-fluid-->
 
 <?php
