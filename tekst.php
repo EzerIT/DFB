@@ -76,8 +76,8 @@ makemenus(2);
               <table>
                 <tr>
                   <td><a style="width:100%" href="show.php?bog=es&kap=1" class="btn btn-success">1</a></td>
-                  <td><a style="width:100%" href="show.php?bog=es&kap=6" class="btn btn-success">2</a></td>
-                  <td><a style="width:100%" href="show.php?bog=es&kap=7" class="btn btn-success">8</a></td>
+                  <td><a style="width:100%" href="show.php?bog=es&kap=6" class="btn btn-success">6</a></td>
+                  <td><a style="width:100%" href="show.php?bog=es&kap=7" class="btn btn-success">7</a></td>
                 </tr>
               </table>
             
