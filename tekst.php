@@ -66,6 +66,23 @@ makemenus(2);
             
             </div><!--panel-body-->
           </div><!--panel-->
+
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h3 class="panel-title">Esajas&rsquo; Bog</h3>
+            </div>
+            <div class="panel-body">
+              <p>Vælg kapitel:</p>
+              <table>
+                <tr>
+                  <td><a style="width:100%" href="show.php?bog=es&kap=1" class="btn btn-success">1</a></td>
+                  <td><a style="width:100%" href="show.php?bog=es&kap=6" class="btn btn-success">2</a></td>
+                  <td><a style="width:100%" href="show.php?bog=es&kap=7" class="btn btn-success">8</a></td>
+                </tr>
+              </table>
+            
+            </div><!--panel-body-->
+          </div><!--panel-->
         </div><!--col-->
 
       </div><!--row-->

@@ -7,17 +7,20 @@ require_once('replaceit.inc.php');
 $minkap = array();
 $minkap['dom'] = 1;
 $minkap['sl'] = 1;
+$minkap['es'] = 1;
 
 // $maxkap: Maximum chapter number
 $maxkap = array();
 $maxkap['dom'] = 21;
 $maxkap['sl'] = 24;
+$maxkap['es'] = 7;
 
 
 // $nextkap: Next chapter number, or -1
 $nextkap = array();
 $nextkap['dom'] = array();
 $nextkap['sl'] = array();
+$nextkap['es'] = array();
 
 for ($k=1; $k<$maxkap['dom']; ++$k)
     $nextkap['dom'][$k] = $k+1;
@@ -29,12 +32,17 @@ $nextkap['sl'][8] = 23;
 $nextkap['sl'][23] = 24;
 $nextkap['sl'][24] = -1;
 
+$nextkap['es'][1] = 6;
+$nextkap['es'][6] = 7;
+$nextkap['es'][7] = -1;
+
 
 // $prevkap: Previous chapter number, or -1
 
 $prevkap = array();
 $prevkap['dom'] = array();
 $prevkap['sl'] = array();
+$prevkap['es'] = array();
 
 for ($k=2; $k<=$maxkap['dom']; ++$k)
     $prevkap['dom'][$k] = $k-1;
@@ -45,6 +53,10 @@ $prevkap['sl'][2] = 1;
 $prevkap['sl'][8] = 2;
 $prevkap['sl'][23] = 8;
 $prevkap['sl'][24] = 23;
+
+$prevkap['es'][1] = -1;
+$prevkap['es'][6] = 1;
+$prevkap['es'][7] = 6;
 
 
 function pagination($bog, $kapitel) {
@@ -92,6 +104,10 @@ switch ($_GET['bog']) {
 
   case 'sl':
         makeheadstart("Salmernes Bog &ndash; Salme $kap");
+        break;
+
+  case 'es':
+        makeheadstart("Esajas&rsquo; Bog &ndash; Kapitel $kap");
         break;
 }
 ?>
