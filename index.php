@@ -19,7 +19,7 @@ makemenus(0);
 
           <p>Foreløbig er det kun Dommerbogen, Ruths Bog og nogle få kapitler af andre gammeltestamentlige bøger der foreligger som et udkast til vurdering. Forlægget
           har været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med
-          nye resultater fra bibelforskningen. (Denne udgave er udarbejdet i forbindelse med
+          nye resultater fra bibelforskningen. (Nærværende udgave af Dommerbogen er udarbejdet i forbindelse med
           Nicolai Winther-Nielsens oversættelse af Dommerbogen til moderne dansk for Bibelselskabet
           &ndash; udgivelsen »Frihedskampen«.)</p>
 
