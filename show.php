@@ -6,12 +6,14 @@ require_once('replaceit.inc.php');
 // $minkap: Minimum chapter number
 $minkap = array();
 $minkap['dom'] = 1;
+$minkap['ruth'] = 1;
 $minkap['sl'] = 1;
 $minkap['es'] = 1;
 
 // $maxkap: Maximum chapter number
 $maxkap = array();
 $maxkap['dom'] = 21;
+$maxkap['ruth'] = 4;
 $maxkap['sl'] = 24;
 $maxkap['es'] = 7;
 
@@ -19,12 +21,17 @@ $maxkap['es'] = 7;
 // $nextkap: Next chapter number, or -1
 $nextkap = array();
 $nextkap['dom'] = array();
+$nextkap['ruth'] = array();
 $nextkap['sl'] = array();
 $nextkap['es'] = array();
 
 for ($k=1; $k<$maxkap['dom']; ++$k)
     $nextkap['dom'][$k] = $k+1;
 $nextkap['dom'][$maxkap['dom']] = -1;
+
+for ($k=1; $k<$maxkap['ruth']; ++$k)
+    $nextkap['ruth'][$k] = $k+1;
+$nextkap['ruth'][$maxkap['ruth']] = -1;
 
 $nextkap['sl'][1] = 2;
 $nextkap['sl'][2] = 8;
@@ -41,12 +48,17 @@ $nextkap['es'][7] = -1;
 
 $prevkap = array();
 $prevkap['dom'] = array();
+$prevkap['ruth'] = array();
 $prevkap['sl'] = array();
 $prevkap['es'] = array();
 
 for ($k=2; $k<=$maxkap['dom']; ++$k)
     $prevkap['dom'][$k] = $k-1;
 $prevkap['dom'][$minkap['dom']] = -1;
+
+for ($k=2; $k<=$maxkap['ruth']; ++$k)
+    $prevkap['ruth'][$k] = $k-1;
+$prevkap['ruth'][$minkap['ruth']] = -1;
 
 $prevkap['sl'][1] = -1;
 $prevkap['sl'][2] = 1;
@@ -100,6 +112,10 @@ $bog = $_GET['bog'];
 switch ($_GET['bog']) {
   case 'dom':
         makeheadstart("Dommerbogen &ndash; Kapitel $kap");
+        break;
+
+  case 'ruth':
+        makeheadstart("Ruths Bog &ndash; Kapitel $kap");
         break;
 
   case 'sl':

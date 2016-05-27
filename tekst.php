@@ -50,6 +50,24 @@ makemenus(2);
 
           <div class="panel panel-info">
             <div class="panel-heading">
+              <h3 class="panel-title">Ruths Bog</h3>
+            </div>
+            <div class="panel-body">
+              <p>Vælg kapitel:</p>
+              <table>
+                <tr>
+                  <td><a style="width:100%" href="show.php?bog=ruth&kap=1" class="btn btn-success">1</a></td>
+                  <td><a style="width:100%" href="show.php?bog=ruth&kap=2" class="btn btn-success">2</a></td>
+                  <td><a style="width:100%" href="show.php?bog=ruth&kap=3" class="btn btn-success">3</a></td>
+                  <td><a style="width:100%" href="show.php?bog=ruth&kap=4" class="btn btn-success">4</a></td>
+                </tr>
+              </table>
+
+            </div><!--panel-body-->
+         </div><!--panel-->
+
+          <div class="panel panel-info">
+            <div class="panel-heading">
               <h3 class="panel-title">Salmernes Bog</h3>
             </div>
             <div class="panel-body">
