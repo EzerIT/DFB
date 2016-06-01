@@ -2,87 +2,45 @@
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('replaceit.inc.php');
+require_once('oversigt.inc.php');
 
-// $minkap: Minimum chapter number
-$minkap = array();
-$minkap['dom'] = 1;
-$minkap['ruth'] = 1;
-$minkap['sl'] = 1;
-$minkap['es'] = 1;
+// $minchap: Minimum chapter number
+// $maxchap: Maximum chapter number
+// $nextchap: Next chapter number, or -1
+// $prevchap: Previous chapter number, or -1
+$minchap = array();
+$maxchap = array();
+$nextchap = array();
+$prevchap = array();
 
-// $maxkap: Maximum chapter number
-$maxkap = array();
-$maxkap['dom'] = 21;
-$maxkap['ruth'] = 4;
-$maxkap['sl'] = 24;
-$maxkap['es'] = 7;
+foreach ($chap as $book => $chaps) {
+    $minchap[$book] = min($chaps); 
+    $maxchap[$book] = max($chaps); 
+    $nextchap[$book] = array();
+    $prevchap[$book] = array();
 
-
-// $nextkap: Next chapter number, or -1
-$nextkap = array();
-$nextkap['dom'] = array();
-$nextkap['ruth'] = array();
-$nextkap['sl'] = array();
-$nextkap['es'] = array();
-
-for ($k=1; $k<$maxkap['dom']; ++$k)
-    $nextkap['dom'][$k] = $k+1;
-$nextkap['dom'][$maxkap['dom']] = -1;
-
-for ($k=1; $k<$maxkap['ruth']; ++$k)
-    $nextkap['ruth'][$k] = $k+1;
-$nextkap['ruth'][$maxkap['ruth']] = -1;
-
-$nextkap['sl'][1] = 2;
-$nextkap['sl'][2] = 8;
-$nextkap['sl'][8] = 23;
-$nextkap['sl'][23] = 24;
-$nextkap['sl'][24] = -1;
-
-$nextkap['es'][1] = 6;
-$nextkap['es'][6] = 7;
-$nextkap['es'][7] = -1;
-
-
-// $prevkap: Previous chapter number, or -1
-
-$prevkap = array();
-$prevkap['dom'] = array();
-$prevkap['ruth'] = array();
-$prevkap['sl'] = array();
-$prevkap['es'] = array();
-
-for ($k=2; $k<=$maxkap['dom']; ++$k)
-    $prevkap['dom'][$k] = $k-1;
-$prevkap['dom'][$minkap['dom']] = -1;
-
-for ($k=2; $k<=$maxkap['ruth']; ++$k)
-    $prevkap['ruth'][$k] = $k-1;
-$prevkap['ruth'][$minkap['ruth']] = -1;
-
-$prevkap['sl'][1] = -1;
-$prevkap['sl'][2] = 1;
-$prevkap['sl'][8] = 2;
-$prevkap['sl'][23] = 8;
-$prevkap['sl'][24] = 23;
-
-$prevkap['es'][1] = -1;
-$prevkap['es'][6] = 1;
-$prevkap['es'][7] = 6;
-
+    $lastchap = -1;
+    foreach ($chaps as $ch) {
+        if ($lastchap!=-1)
+            $nextchap[$book][$lastchap] = $ch;
+        $prevchap[$book][$ch] = $lastchap;
+        $lastchap = $ch;
+    }
+    $nextchap[$book][$lastchap] = -1;
+}
 
 function pagination($bog, $kapitel) {
-global $minkap, $maxkap, $prevkap, $nextkap;
+global $minchap, $maxchap, $prevchap, $nextchap;
 
 ?>
 <nav>
   <ul class="pagination">
-    <li <?= $kapitel==$minkap[$bog] ? 'class="disabled"' : ''?>>
-      <a href="<?= $prevkap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$prevkap[$bog][$kapitel]) : '#' ?>" aria-label="Previous">
+    <li <?= $kapitel==$minchap[$bog] ? 'class="disabled"' : ''?>>
+      <a href="<?= $prevchap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$prevchap[$bog][$kapitel]) : '#' ?>" aria-label="Previous">
         <span aria-hidden="true">&laquo;</span>
       </a>
     </li>
-    <?php for ($k=$minkap[$bog]; $k!=-1; $k=$nextkap[$bog][$k]): ?>
+    <?php for ($k=$minchap[$bog]; $k!=-1; $k=$nextchap[$bog][$k]): ?>
        <?php if ($k==$kapitel): ?>
          <li class="active"><a href="#"><?= $k ?></a></li>
        <?php else: ?>
@@ -90,8 +48,8 @@ global $minkap, $maxkap, $prevkap, $nextkap;
        <?php endif; ?>
     <?php endfor; ?>
     <li>
-    <li <?= $kapitel==$maxkap[$bog] ? 'class="disabled"' : ''?>>
-      <a href="<?= $nextkap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$nextkap[$bog][$kapitel]) : '#' ?>" aria-label="Next">
+    <li <?= $kapitel==$maxchap[$bog] ? 'class="disabled"' : ''?>>
+      <a href="<?= $nextchap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$nextchap[$bog][$kapitel]) : '#' ?>" aria-label="Next">
         <span aria-hidden="true">&raquo;</span>
       </a>
     </li>
@@ -102,30 +60,14 @@ global $minkap, $maxkap, $prevkap, $nextkap;
 
 }
 
-if (!isset($_GET['bog']) || !isset($minkap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
+if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
     echo "<pre>Forkerte parametre</pre>";
     die;
 }
 $kap = intval($_GET['kap']);
 $bog = $_GET['bog'];
 
-switch ($_GET['bog']) {
-  case 'dom':
-        makeheadstart("Dommerbogen &ndash; Kapitel $kap");
-        break;
-
-  case 'ruth':
-        makeheadstart("Ruths Bog &ndash; Kapitel $kap");
-        break;
-
-  case 'sl':
-        makeheadstart("Salmernes Bog &ndash; Salme $kap");
-        break;
-
-  case 'es':
-        makeheadstart("Esajas&rsquo; Bog &ndash; Kapitel $kap");
-        break;
-}
+makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap)
 ?>
 
     <style type="text/css">
