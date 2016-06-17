@@ -20,6 +20,6 @@ $chaptype['jer']  = 'kapitel';
 
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
-$style['sl']      = 'btn-warning';
+$style['sl']      = 'btn-success';
 $style['es']      = 'btn-warning';
 $style['jer']     = 'btn-success';

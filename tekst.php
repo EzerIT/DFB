@@ -32,7 +32,8 @@ makemenus(2);
                       <?php for ($j=0; $j<CHAP_PER_LINE; ++$j): ?>
                         <?php if (++$chix >= $chcount) break; ?>
                         <?php $chno = $chap[$book][$chix]; ?>
-                        <td><a style="width:100%" href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>" class="btn <?= $style[$book] ?>"><?= $chno ?></a></td>
+                        <td><a style="width:100%" href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>"
+                             class="btn <?= is_array($style[$book]) ? $style[$book][$chno] : $style[$book] ?>"><?= $chno ?></a></td>
                       <?php endfor; ?>
                     </tr>
                   <?php endfor; ?>

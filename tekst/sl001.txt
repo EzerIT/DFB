@@ -1,19 +1,45 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 04.04.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Dato for denne version: 17.06.2016>!!
 
 ===Salme 1===
-==David beskriver de gudfrygtiges forhold og lyksalighed==
-v1 Salig den mand som ikke vandrer efter ugudeliges råd og ikke går ind på synderes vej eller sidder i spotteres forsamling, 
-v2 men som har behag i JHVHs lov, og som grunder på hans lov dag og nat. 
-v3 Han skal være som et træ der er plantet ved vandløb; det bærer sin frugt til rette tid, og dets blade falder ikke af; og alt hvad han gør, skal han få lykke til.
 
+==David beskriver de gudfrygtiges forhold og lyksalighed==
+
+v1 Salig det menneske som ikke vandrer efter ugudeliges råd
+
+og ikke går ind på synderes vej eller sidder i spotteres forsamling,
+ 
+v2 men som tværtimod har behag i JHVHs lov,
+
+og som grunder på hans lov dag og nat.
+
+v3 Han skal være som et træ
+
+der er plantet ved vandløb;
+
+det bærer sin frugt til rette tid,
+
+og dets blade visner ikke;
+
+alt hvad han gør, skal han lykkes med.
 
 ==Derpå beskrives de ugudeliges undergang==
-v4 Sådan er de ugudelige ikke; de ligner derimod avner som vinden blæser bort. 
-v5 Derfor vil de ugudelige ikke bestå i dommen, ej heller syndere i de retfærdiges menighed.
+
+v4 Sådan er de ugudelige ikke;
+
+de ligner derimod avner,
+
+som vinden blæser bort.
+
+v5 Derfor vil de ugudelige ikke bestå i dommen;
+
+ej heller syndere i de retfærdiges menighed.
 
 
 ==Mennesket må vælge mellem to veje==
-v6 Thi JHVH kendes ved de retfærdiges vej; men de ugudeliges vej skal forgå.
+
+v6 For JHVH anerkender de retfærdiges vej;
+
+men de ugudeliges vej skal forgå.
