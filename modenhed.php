@@ -23,7 +23,7 @@ makemenus(3);
           </ol>
 
           <p>Under hver bibeltekst på disse websider kan man se hvor i processen hvert kapitel
-          befinder sig. Punkt 4 markerer dog ikke end endelig, statisk udgave. De enkelte sider vil
+          befinder sig. Punkt 4 markerer dog ikke en endelig, statisk udgave. De enkelte sider vil
           løbende blive revideret.</p>
 
         </div>
