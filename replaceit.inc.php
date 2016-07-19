@@ -80,7 +80,7 @@ function replaceit($filename, $chapter, &$credit) {
     $to[] = '&nbsp;';
 
     $from[] = '/@@([^@]+)@@/';
-    $to[] = '<h1>\1</h1>';
+    $to[] = '<div class="panel-heading"><h1 class="panel-title">\1</h1></div><div class="panel-body">';
 
     $from[] = '/@([^@]+)@/';
     $to[] = '<h2>\1</h2>';
@@ -107,5 +107,5 @@ function replaceit($filename, $chapter, &$credit) {
                                      return $nextnumber++;
                                  }, $txt);
 
-    return $txt;
+    return  '<div class="panel panel-warning">' . $txt . '</div></div>';
   }

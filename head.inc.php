@@ -39,7 +39,7 @@ END;
     if ($googlefonts) {
         global $allfonts;
         $allfonts2 = array_slice(array_keys($allfonts),1); // Omit Helvetica from fonts
-        $fontlist = implode('|', $allfonts2);
+        $fontlist = implode('%7C', $allfonts2);
      
         echo '    <link href="https://fonts.googleapis.com/css?family=',
             str_replace(' ', '+', $fontlist),
