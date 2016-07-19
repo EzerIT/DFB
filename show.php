@@ -67,10 +67,14 @@ if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap'
 $kap = intval($_GET['kap']);
 $bog = $_GET['bog'];
 
-makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap)
+makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap, true);
 ?>
 
     <style type="text/css">
+    .bibletext {
+        font-family: <?= $allfonts[$_SESSION['font']] ?>;
+    }
+
     span.verseno {
         vertical-align: super;
         font-size: x-small;
@@ -96,7 +100,6 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
         position: relative;
         left: 2px;
         bottom: 1ex;
-        font-family: Verdana, sans-serif;
         color: #005994;
         font-size: .7em;
         font-weight: bold;
@@ -106,7 +109,6 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
 
     .refbody {
         text-indent: 0;
-        font-family: Verdana, sans-serif;
         font-size: .7em;
         font-weight: normal;
         line-height: 1.1;
@@ -207,7 +209,7 @@ makemenus(null);
       </div>
 
       <div class="row">
-        <div class="col-xs-12" style="max-width:700px;">
+        <div class="col-xs-12 bibletext" style="max-width:700px;">
           <?php echo replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $credit); ?>
         </div>
       </div>

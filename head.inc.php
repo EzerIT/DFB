@@ -10,8 +10,20 @@ function menuitem($name, $link, $active) {
         echo "<li role=\"presentation\"><a href=\"$link\">$name</a></li>\n";
 }
 
-function makeheadstart($title) {
-echo <<<END
+
+$allfonts = array(
+    'Helvetica'   => "'Helvetica Neue', Helvetica, Arial, sans-serif",
+    'Prompt'      => "'Prompt', sans-serif",
+    'Amiko'       => "'Amiko', sans-serif",
+    'Merriweather'=> "'Merriweather', serif",
+    'Libre Baskerville' => "'Libre Baskerville', serif",
+    'Roboto Slab' => "'Roboto Slab', serif",
+    'Roboto Mono' => "'Roboto Mono', monospace");
+
+
+
+function makeheadstart($title, $googlefonts=false) {
+    echo <<<END
 <!DOCTYPE html>
 <html>
   <head>
@@ -23,6 +35,16 @@ echo <<<END
     <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 
 END;
+
+    if ($googlefonts) {
+        global $allfonts;
+        $allfonts2 = array_slice(array_keys($allfonts),1); // Omit Helvetica from fonts
+        $fontlist = implode('|', $allfonts2);
+     
+        echo '    <link href="https://fonts.googleapis.com/css?family=',
+            str_replace(' ', '+', $fontlist),
+            '" rel="stylesheet">',"\n";
+    }
 }
 
 function makeheadend() {

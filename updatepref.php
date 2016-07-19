@@ -16,6 +16,7 @@ setifpost('showh2');
 setifpost('showfna');
 setifpost('showfn1');
 setifpost('oneline');
+setifpost('font');
 
 if (isset($_POST['godsname'])) {
     switch ($_POST['godsname']) {

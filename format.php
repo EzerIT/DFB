@@ -6,11 +6,15 @@ function showchecked($ix) {
     return $_SESSION[$ix]=='on' ? 'checked' : '';
 }
 
+function showradiochecked($ix,$val) {
+    return $_SESSION[$ix]==$val ? 'checked' : '';
+}
+
 function showselected($ix,$val) {
     return $_SESSION[$ix]==$val ? 'selected="selected"' : '';
 }
 
-makeheadstart('Den Frie Bibel');
+makeheadstart('Den Frie Bibel',true);
 makeheadend();
 makemenus(1);
 ?>
@@ -71,6 +75,18 @@ makemenus(1);
                 <option <?= showselected('godsname','JHVH') ?>   >JHVH</option>
               </select>
             </div>
+
+
+            <h3>Skrifttype</h3>
+
+            <?php foreach ($allfonts as $val => $fam): ?>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="font" value="<?= $val ?>"  <?= showradiochecked('font',$val) ?>>
+                  <i><?= $val ?>:</i> <span style="font-family: <?= $fam ?>">I begyndelsen skabte Gud himlen og jorden.</span>
+                </label>
+              </div>
+            <?php endforeach; ?>
 
             <p>&nbsp;</p>
 

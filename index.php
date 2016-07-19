@@ -33,7 +33,8 @@ makemenus(0);
 
           <p>Moderne computerteknik gør det muligt at lade læseren have betydlig indflydelse på
             hvorledes teksten skal præsenteres. Under menupunktet »Læseoplevelse« kan man fx vælge om
-            man ønsker teksten vist med eller uden versnumre, med eller uden fodnoter osv.</p>
+            man ønsker teksten vist med eller uden versnumre, med eller uden fodnoter osv. Her kan man
+            også vælge mellem forskellige skrifttyper.</p>
 
           <h2>Kommentarer</h2>
 

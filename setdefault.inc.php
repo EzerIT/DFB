@@ -14,3 +14,4 @@
    setdefault('showfn1',   'on');
    setdefault('oneline',   'off');
    setdefault('godsname',  'HERREN');
+   setdefault('font',      'Helvetica');
