@@ -77,8 +77,8 @@ echo <<<END
 
 END;
     menuitem('Hjem','index.php',$thisnum===0);
-    menuitem('Læseoplevelse','format.php',$thisnum===1);
     menuitem('Bibeltekst','tekst.php',$thisnum===2);
+    menuitem('Læseoplevelse','format.php',$thisnum===1);
 
     $active3 = $thisnum===3 ? "active" : "";
 
