@@ -1,6 +1,6 @@
 <?php
 
-function replaceit($filename, $chapter, &$credit) {
+function replaceit($filename, $chapter, &$title, &$credit) {
     $txt = file_get_contents($filename);
 
     if (preg_match('/"/',$txt)) {
@@ -12,11 +12,14 @@ function replaceit($filename, $chapter, &$credit) {
     preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
     $credit = $meta_matches[1];
 
+    preg_match('/===(.*)===/',$txt,$tit);
+    $title = $tit[1];
+
     $from[] = '/!!<.*>!!/';
     $to[] = '';
 
-    $from[] = '/===/';
-    $to[] = '@@';
+    $from[] = '/===(.*)===/';
+    $to[] = '';
 
     $from[] = '/==/';
     $to[] = '@';
@@ -79,9 +82,6 @@ function replaceit($filename, $chapter, &$credit) {
     $from[] = '/\*\*\*/';
     $to[] = '&nbsp;';
 
-    $from[] = '/@@([^@]+)@@/';
-    $to[] = '<div class="panel-heading"><h1 class="panel-title">\1</h1></div><div class="panel-body">';
-
     $from[] = '/@([^@]+)@/';
     $to[] = '<h2>\1</h2>';
 
@@ -107,5 +107,5 @@ function replaceit($filename, $chapter, &$credit) {
                                      return $nextnumber++;
                                  }, $txt);
 
-    return  '<div class="panel panel-warning">' . $txt . '</div></div>';
+    return  $txt;
   }

@@ -19,17 +19,21 @@ makeheadend();
 makemenus(1);
 ?>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
 
-          <h1>Sæt dine læsepreferencer</h1>
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h1 class="panel-title">Sæt dine læsepreferencer</h1>
+        </div>
+        <div class="panel-body">
 
-
+          <img class="img-responsive pull-right hidden-xs hidden-sm" style="margin-top: 60px" src="img/Community5-400.jpg" alt="">
           <form action="updatepref.php" method="post" accept-charset="utf-8"> 
             <input type="hidden" name="referer"
-               value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">
-
+                   value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">
+                
             <div class="checkbox">
               <label>
                 <input type="checkbox" name="showverse" <?= showchecked('showverse') ?>> Vis versnumre
@@ -76,8 +80,13 @@ makemenus(1);
               </select>
             </div>
 
+            <!--hr class="visible-md-block" style="width:500px; margin-left: 0;">
+            <hr class="visible-lg-block" style="width:700px; margin-left: 0;">
+            <hr class="visible-xs-block visible-sm-block"-->
 
-            <h3>Skrifttype</h3>
+            <p>&nbsp;</p>
+
+            <h4>Skrifttype i bibeltekst:</h4>
 
             <?php foreach ($allfonts as $val => $fam): ?>
               <div class="radio">
@@ -96,9 +105,11 @@ makemenus(1);
             </p>
           </form>
 
-        </div><!--col-->
-      </div><!--row-->
-    </div><!--container-fluid-->
+        </div>
+      </div>
+    </div><!--col-->
+  </div><!--row-->
+</div><!--container-fluid-->
 
 <?php
 endbody();

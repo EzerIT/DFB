@@ -13,24 +13,20 @@ function menuitem($name, $link, $active) {
 
 $allfonts = array(
     'Helvetica'   => "'Helvetica Neue', Helvetica, Arial, sans-serif",
-    'Prompt'      => "'Prompt', sans-serif",
-    'Amiko'       => "'Amiko', sans-serif",
-    'Merriweather'=> "'Merriweather', serif",
-    'Libre Baskerville' => "'Libre Baskerville', serif",
-    'Roboto Slab' => "'Roboto Slab', serif",
-    'Roboto Mono' => "'Roboto Mono', monospace");
+    'Merriweather'=> "'Merriweather', serif");
 
 
 
 function makeheadstart($title, $googlefonts=false) {
     echo <<<END
 <!DOCTYPE html>
-<html>
+<html lang="da">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>$title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
+    <link type="text/css" href="style/dfb.css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 
@@ -39,12 +35,16 @@ END;
     if ($googlefonts) {
         global $allfonts;
         $allfonts2 = array_slice(array_keys($allfonts),1); // Omit Helvetica from fonts
-        $fontlist = implode('%7C', $allfonts2);
-     
-        echo '    <link href="https://fonts.googleapis.com/css?family=',
-            str_replace(' ', '+', $fontlist),
-            '" rel="stylesheet">',"\n";
+        $allfonts2[] = 'Josefin Slab';
     }
+    else 
+        $allfonts2 = array('Josefin Slab');
+
+    $fontlist = implode('%7C', $allfonts2);
+    echo '    <link href="https://fonts.googleapis.com/css?family=',
+        str_replace(' ', '+', $fontlist),
+        '" rel="stylesheet">',"\n";
+
 }
 
 function makeheadend() {
@@ -53,8 +53,11 @@ echo <<<END
 
   <body>
 
+    <div class="brand hidden-xs">Den Frie Bibel</div>
+
+
     <nav id="myNavbar" class="navbar navbar-default navbar-static-top">
-      <div class="navbar-header">
+      <div class="navbar-header visible-xs-block">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
           <span class="sr-only">Toggle navigation</span><!-- For screen reader -->
           <span class="icon-bar"></span><!-- Line on menu toggle button -->
@@ -103,5 +106,14 @@ echo <<<END
   </body>
 </html>
 
+END;
+}
+
+function showsize() {
+    echo <<<END
+      <p class="visible-xs-block">XS</p>
+      <p class="visible-sm-block">SM</p>
+      <p class="visible-md-block">MD</p>
+      <p class="visible-lg-block">LG</p>
 END;
 }

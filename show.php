@@ -4,6 +4,9 @@ require_once('setdefault.inc.php');
 require_once('replaceit.inc.php');
 require_once('oversigt.inc.php');
 
+define('CHAP_PER_LINE', 7);
+
+
 // $minchap: Minimum chapter number
 // $maxchap: Maximum chapter number
 // $nextchap: Next chapter number, or -1
@@ -29,33 +32,29 @@ foreach ($chap as $book => $chaps) {
     $nextchap[$book][$lastchap] = -1;
 }
 
-function pagination($bog, $kapitel) {
-global $minchap, $maxchap, $prevchap, $nextchap;
-
+function pagination($book, $kapitel, $chap_per_line) {
+global $chaptype, $chap;
 ?>
 <nav>
-  <ul class="pagination">
-    <li <?= $kapitel==$minchap[$bog] ? 'class="disabled"' : ''?>>
-      <a href="<?= $prevchap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$prevchap[$bog][$kapitel]) : '#' ?>" aria-label="Previous">
-        <span aria-hidden="true">&laquo;</span>
-      </a>
-    </li>
-    <?php for ($k=$minchap[$bog]; $k!=-1; $k=$nextchap[$bog][$k]): ?>
-       <?php if ($k==$kapitel): ?>
-         <li class="active"><a href="#"><?= $k ?></a></li>
-       <?php else: ?>
-         <li><a href="<?= sprintf('show.php?bog=%s&kap=%d',$bog,$k) ?>"><?= $k ?></a></li>
-       <?php endif; ?>
+  <table style="margin-left: auto; margin-right: auto;">
+    <?php $chcount = count($chap[$book]); ?>
+    <?php $chix = -1; ?>
+    <?php for ($i=0; $i<$chcount; $i+=$chap_per_line): ?>
+      <tr>
+        <?php for ($j=0; $j<$chap_per_line; ++$j): ?>
+          <?php if (++$chix < $chcount): ?>
+            <?php $chno = $chap[$book][$chix]; ?>
+              <td><a style="width:100%" href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>"
+                     class="btn <?= $chno==$kapitel ? 'btn-default' : 'btn-success' ?>"><?= $chno ?></a></td>
+          <?php else: ?>
+            <td></td>
+          <?php endif; ?>
+        <?php endfor; ?>
+      </tr>
     <?php endfor; ?>
-    <li>
-    <li <?= $kapitel==$maxchap[$bog] ? 'class="disabled"' : ''?>>
-      <a href="<?= $nextchap[$bog][$kapitel]!=-1 ? sprintf('show.php?bog=%s&kap=%d',$bog,$nextchap[$bog][$kapitel]) : '#' ?>" aria-label="Next">
-        <span aria-hidden="true">&raquo;</span>
-      </a>
-    </li>
-  </ul>
+  </table>
 </nav>
-
+ 
 <?php
 
 }
@@ -69,10 +68,10 @@ $bog = $_GET['bog'];
 
 makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap, true);
 ?>
-
     <style type="text/css">
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
+        font-size: 110%;
     }
 
     span.verseno {
@@ -81,12 +80,17 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
     }
 
     h2 {
-    font-size: large;
+        font-size: large;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        text-transform: none;
     }
 
-    .smallcap {
-        font-variant:small-caps;
+    h2 small {
+      font-size: 75%;
+      color: #333333;
+      font-weight: 700;
     }
+
 
     /* Taken in part from XKCD */
     /* the reference tooltips style starts here */
@@ -109,23 +113,19 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
 
     .refbody {
         text-indent: 0;
-        font-size: .7em;
+        font-size: small;
         font-weight: normal;
         line-height: 1.1;
         display: block;
         border: 1px solid;
+        border-radius: 4px;
         padding: 5px;
-        background-color: lightgray;
+        background-color: lightblue;
     }
 
     div.paragraph {
         text-indent: 2em;
         display: block;
-    }
-
-    h2 small {
-      font-size: 85%;
-      color: #333333;
     }
 
     </style>
@@ -201,24 +201,52 @@ makeheadend();
 makemenus(null);
 ?>
 
-    <div class="container-fluid">
+    <div class="container">
+
       <div class="row">
-        <div class="col-xs-12">
-          <?php pagination($bog,$kap); ?>
+        <div class="col-md-9 col-lg-8">
+          <?php $text = replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $heading, $credit); ?>
+          <div class="panel panel-warning">
+            <div class="panel-heading">
+              <h1 class="panel-title"><?= $heading ?></h1>
+            </div>
+            <div class="panel-body bibletext">
+              <?= $text ?>
+            </div>
+          </div>
         </div>
+
+        <div class="hidden-md 
+                    col-sm-offset-3 col-sm-6
+                    col-lg-offset-0 col-lg-4
+                    text-center">
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h1 class="panel-title">Vælg <?= $chaptype[$bog] ?></h1>
+            </div>
+            <div class="panel-body">
+              <?php pagination($bog,$kap,7); ?>
+            </div>
+          </div>
+        </div>
+
+        <div class="visible-md-block col-md-3 text-center">
+          <div class="panel panel-info">
+            <div class="panel-heading">
+              <h1 class="panel-title">Vælg <?= $chaptype[$bog] ?></h1>
+            </div>
+            <div class="panel-body">
+              <?php pagination($bog,$kap,4); ?>
+            </div>
+          </div>
+        </div>
+
       </div>
 
       <div class="row">
-        <div class="col-xs-12 bibletext" style="max-width:700px;">
-          <?php echo replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $credit); ?>
-        </div>
-      </div>
-
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-
-      <div class="row">
-        <div class="col-sm-4">
+        <div class="col-lg-offset-2 col-lg-4
+                    col-md-offset-2 col-md-5
+                    col-sm-offset-3 col-sm-6">
           <div class="panel panel-info">
             <div class="panel-heading">
               <h3 class="panel-title">Status for dette kapitel</h3>
@@ -232,11 +260,6 @@ makemenus(null);
         </div>
       </div>
 
-      <div class="row">
-        <div class="col-xs-12">
-          <?php pagination($bog,$kap); ?>
-        </div>
-      </div><!--End of row-->
 
     </div><!--End of container-fluid-->
 
