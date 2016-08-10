@@ -2,9 +2,11 @@
 
 $chap['dom']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21);
 $chap['ruth']     = array(1, 2, 3, 4);
-$chap['sl']       = array(1, 2, 8, 23, 24);
-$chap['es']       = array(1, 2, 3, 4, 5, 6, 7, 8);
+$chap['sl']       = array(1, 2, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30);
+$chap['es']       = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15);
 $chap['jer']      = array(1, 2, 7);
+
+
 
 $title['dom']     = 'Dommerbogen';
 $title['ruth']    = 'Ruths Bog';
@@ -20,6 +22,28 @@ $chaptype['jer']  = 'kapitel';
 
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
-$style['sl']      = 'btn-success';
+$style['sl']      = array( 1 => 'btn-success',
+                           2 => 'btn-success', 
+                           8 => 'btn-success', 
+                          11 => 'btn-warning', 
+                          12 => 'btn-warning', 
+                          13 => 'btn-warning', 
+                          14 => 'btn-warning', 
+                          15 => 'btn-warning', 
+                          16 => 'btn-warning', 
+                          17 => 'btn-warning', 
+                          18 => 'btn-warning', 
+                          19 => 'btn-warning', 
+                          20 => 'btn-warning', 
+                          21 => 'btn-warning', 
+                          22 => 'btn-warning', 
+                          23 => 'btn-success', 
+                          24 => 'btn-success', 
+                          25 => 'btn-warning', 
+                          26 => 'btn-warning', 
+                          27 => 'btn-warning', 
+                          28 => 'btn-warning', 
+                          29 => 'btn-warning', 
+                          30 => 'btn-warning');
 $style['es']      = 'btn-warning';
 $style['jer']     = 'btn-success';

@@ -67,9 +67,6 @@ makemenus(2);
             <img class="img-responsive hidden-xs" src="img/Community1-300.jpg" alt="">
             </div>
           </div>
-          <div>
-          </div>
-
         </div>
 
 
