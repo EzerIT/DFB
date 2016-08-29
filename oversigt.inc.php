@@ -2,7 +2,7 @@
 
 $chap['dom']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21);
 $chap['ruth']     = array(1, 2, 3, 4);
-$chap['sl']       = array(1, 2, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30);
+$chap['sl']       = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30);
 $chap['es']       = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15);
 $chap['jer']      = array(1, 2, 7);
 
@@ -24,7 +24,14 @@ $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 $style['sl']      = array( 1 => 'btn-success',
                            2 => 'btn-success', 
+                           3 => 'btn-success', 
+                           4 => 'btn-success', 
+                           5 => 'btn-success', 
+                           6 => 'btn-success', 
+                           7 => 'btn-success', 
                            8 => 'btn-success', 
+                           9 => 'btn-success', 
+                          10 => 'btn-success', 
                           11 => 'btn-warning', 
                           12 => 'btn-warning', 
                           13 => 'btn-warning', 
