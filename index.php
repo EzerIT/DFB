@@ -20,7 +20,7 @@ makemenus(0);
             engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-          <p>Foreløbig er det kun Dommerbogen, Ruths Bog og nogle få kapitler af andre
+         <p>Foreløbig er det kun Dommerbogen, Ruths Bog, Zakarias&rsquo; Bog og nogle få kapitler af andre
             gammeltestamentlige bøger der foreligger som et udkast til vurdering. Forlægget har
             været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med nye
             resultater fra bibelforskningen. (Nærværende udgave af Dommerbogen er udarbejdet i

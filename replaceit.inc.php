@@ -58,6 +58,9 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/JHVHs/i';
     $to[] = '<span class="thenames"></span>';
 
+    $from[] = '/JHVHvs/i';
+    $to[] = '<span class="thenamevs"></span>';
+
     $from[] = '/JHVHv/i';
     $to[] = '<span class="thenamev"></span>';
 
