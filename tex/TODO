@@ -1,0 +1,6 @@
+Håndtering af fodnoter/slutnoter til kapiteloverskrifter (fx Sl. 9):
+
+\needspace{5\baselineskip}\section[Salme 9]{Salme 9\pagenote{Se note til Sl 10}}
+
+
+Håndtering af Guds navn, skjulning af noter og versnumre m.m.
