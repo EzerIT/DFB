@@ -11,20 +11,17 @@ function replaceittex($filename, $chtype/*, &$title*/) {
         die;
     }
 
-    //preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
-    //$credit = $meta_matches[1];
-
-//    preg_match('/===(.*),.*===/',$txt,$tit);
-//    $title = $tit[1];
-
     $from[] = '/(!!<.*>!!)/';
     $to[] = '%\1'."\n";
 
-    $from[] = '/===.*apitel (.*)===/';
-    $to[] = '\needspace{5\baselineskip}\section{' . $chtype . ' \1}';
+    $from[] = '/===.*(apitel|alme) (.*)===\s*{E:\s*([^}]+)}/';
+    $to[] = '\needspace{5\baselineskip}\section[' . $chtype . ' \2]{' . $chtype. ' \2\pagenote{\3}Z1Z}';
 
-    $from[] = '/===.*alme (.*)===/';
-    $to[] = '\needspace{5\baselineskip}\section{' . $chtype . ' \1}';
+    $from[] = '/===.*(apitel|alme) (.*)===\s*{T:\s*([^}]+)}/';
+    $to[] = '\needspace{7\baselineskip}\section[' . $chtype . ' \2]{' . $chtype. ' \2\footnote{\3}Z1Z}'; // Extra space needed here
+
+    $from[] = '/===.*(apitel|alme) (.*)===/';
+    $to[] = '\needspace{5\baselineskip}\section{' . $chtype . ' \2}';
 
     $from[] = '/==/';
     $to[] = '@';
@@ -53,7 +50,7 @@ function replaceittex($filename, $chtype/*, &$title*/) {
     $from[] = '/\s*{E:\s*([^}]+)}/';
     $to[] = '\\pagenote{\1}Z1Z';
 
-    $from[] = '/\s*{T:\sx*([^}]+)}/';
+    $from[] = '/\s*{T:\s*([^}]+)}/';
     $to[] = '\\footnote{\1}Z1Z';
 
     $from[] = '/(JHVH[sv]*)/i';
