@@ -1,20 +1,20 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.10.2016>!!
 ===Salme 18===
 
-v1 Til korlederen {E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum, der betyder >>dirigere<<}. Af JHVHs tjener. Af David, som talte ordene i denne sang for JHVH den dag, hvor JHVH havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd {E: Salmen står også – med ubetydelige afvigelser – i 2 Sam 22}.
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Af JHVHs tjener. Af David, som talte ordene i denne sang for JHVH den dag hvor JHVH havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd.{E: Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.}
 
 v2 Og han sagde:
 
 ==Lovprisning==
-Jeg elsker dig inderligt, JHVHv, min Styrke!
+Jeg elsker dig inderligt, JHVHv, min styrke!
 
-v3 JHVH er min klippe, min borg og min befrier,
+v3 JHVH er mit fjeld, min borg og min befrier,
 
-min Gud, min højborg, hvor jeg søger tilflugt,
+min Gud, min klippe, hvor jeg søger tilflugt,
 
 mit skjold og min frelses horn, min fæstning.
 
@@ -25,46 +25,46 @@ og bliver frelst fra mine fjender.
 ==David råbte til Gud i sin nød==
 v5 Dødens bånd omspændte mig,
 
-og undergangens {E: Tidligere ofte oversat >>Belials<<, hvor >>Belial<< blev opfattet som synonym for Satan} strømme forfærdede mig.
+og undergangens{E: Tidligere ofte oversat >>Belials<<, hvor >>Belial<< blev opfattet som synonym for Satan.} strømme forfærdede mig.
 
 v6 Dødsrigets bånd omgav mig,
 
 dødens snarer faldt over mig.
 
-v7 Da jeg var i nød, råbte {T: Impf. Skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perf.} jeg til JHVH,
+v7 Da jeg var i nød, råbte{E: Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv} jeg til JHVH,
 
 jeg skreg til min Gud om hjælp.
 
 Han hørte min røst fra sit tempel,
 
-og mit skrig til ham kom i hans ører.
+og mit skrig til ham nåede hans ører.
 
 ==Gud hørte og frelste==
 v8 Da bævede og rystede jorden,
 
 bjergenes grundvolde skælvede,
 
-de rystedes, for han var vred {T: Ordret: >>det brændte for ham<<}.
+de rystedes, for han var vred.{T: Ordret: >>det brændte for ham<<.}
 
-v9 Der steg røg op af hans næse,
+v9 Røg steg op af hans næse,
 
 fortærende ild af hans mund,
 
 kul flammede op fra ham.
 
-v10 Han sænkede himlen og steg ned,
+v10 Han sænkede{T: Kan også oversættes: >>udstrakte<<.} himlen og steg ned,
 
 der var mørke skyer under hans fødder.
 
-v11 Han red på kerub og fløj,
+v11 Han red på en kerub og fløj,
 
 og han svævede på vindens vinger.
 
 v12 Han gjorde mørke til sit skjul omkring sig,
 
-mørke vande og tykke skyer gjorde han til sin hytte {T: Verset er sprogligt knudret. Masoreterne har delt verset, så >>sin hytte<< hører til første halvvers (>>til sin hytte omkring sig<<), men man vælger oftest at se bort fra deres accent her. Ordene >>gjorde han<< står kun i første halvvers, men er for forståelsen skyld gentaget her}.
+mørke vande og tykke skyer gjorde han til sin hytte.{E: Verset er sprogligt knudret. Masoreterne har delt verset, så >>sin hytte<< hører til første halvvers (>>til sin hytte omkring sig<<), men man vælger oftest at se bort fra deres accent her. Ordene >>gjorde han<< står kun i første halvvers, men er for forståelsens skyld gentaget her.}
 
-v13 Fra glansen foran ham fór hans skyer af sted {T: I stedet for *ʕāvᵊrû* (>>fór af sted<<) har 2 Sam 22,13 *bāʕᵃrû*: >>brændte<<},
+v13 Fra glansen foran ham fór hans skyer af sted,{T: I stedet for *ʕāvᵊrû* (>>fór af sted<<) har 2 Sam 22,13 *bāʕᵃrû*: >>brændte<<.}
 
 hagl og glødende kul.
 
@@ -74,11 +74,11 @@ den Højeste lod sin røst høre,
 
 hagl og glødende kul.
  
-v15 Han skød sine pile ud og adspredte dem {T: Fjenderne, sprogligt kan det dog også være pilene},
+v15 Han skød sine pile ud og spredte dem,{T: Fjenderne, sprogligt kan det dog også være pilene.}
 
-han lod det lyne stærkt og forfærdede dem.
+med mange lyn forfærdede han dem.
 
-v16 Havets {T: Ordret: >>vandenes<< (*mayim*), men man vælger oftest med 2 Sam 22,16 at læse *yām*: >>havets<<} bund kom til syne,
+v16 Havets{T: Ordret: >>vandenes<< (*mayim*), men man vælger oftest med 2 Sam 22,16 at læse *yām*: >>havets<<.} bund kom til syne,
 
 jordens grundvolde blottedes
 
@@ -103,7 +103,7 @@ v20 Han førte mig ud i det åbne land,
 han frelste mig, for han holder af mig.
 
 ==Gud er den retfærdiges og den hjælpeløses hjælp==
-v21 JHVH lønnede mig efter min retfærdighed,
+v21 JHVH belønnede mig efter min retfærdighed,
 
 han gengældte mig efter mine hænders renhed.
 
@@ -113,9 +113,9 @@ og jeg er ikke ved synd faldet fra min Gud.
 
 v23 For alle hans domme har jeg foran mig,
 
-og hans love har jeg ikke ladet vige fra mig.
+og hans anordninger har jeg ikke ladet vige fra mig.
  
-v24 Jeg var retskaffen for ham
+v24 Jeg var retsindig for ham,
 
 og jeg vogtede mig for min synd.
 
@@ -139,7 +139,7 @@ v29 Ja, du bringer min lampe til at lyse,
 
 JHVH, min Gud, oplyser mit mørke.
 
-v30 For ved din hjælp stormer jeg imod en skare {T: Mange retter her *gᵊdûd*: >>(hær)skare<< til *gāder*: >>mur, vold<<, især ud fra parallellen i næste linje},
+v30 For ved din hjælp stormer jeg imod en skare,{E: Mange retter her *gᵊdûd*: >>(hær)skare<< til *gāder*: >>mur, vold<<, især ud fra parallellen i næste linje.}
 
 og ved min Guds hjælp springer jeg over en mur.
 
@@ -150,91 +150,92 @@ JHVHs tale er lutret,
 han er skjold for alle, som søger tilflugt hos ham. 
 
 ==Guds frelsende nærvær==
-v32 Ja, hvem er Gud om ikke JHVH?
+v32 Ja, hvem er Gud, hvis ikke JHVH?
 
 Og hvem er en klippe, undtagen vor Gud?
 
-v33 Den Gud, som omgjorder mig med styrke
+v33 Den Gud som ruster mig med styrke
 
-og gjorde min vej fuldkommen.
+og gør min vej fuldkommen.
 
-v34 Han gjorde mine fødder som hindernes
+v34 Han gør mine fødder som hindernes
 
-og stillede mig op på mine høje.
+og stiller mig op på mine høje.
 
-v35 Han trænede mine hænder til striden,
+v35 Han træner mine hænder til krigen,
 
 og mine arme til at spænde kobberbuen.
 
-v36 Du gav mig din frelse som skjold,
+v36 Du giver mig din frelse som skjold,
 
-og din højre hånd støttede mig,
+og din højre hånd støtter mig,
 
-og din bøjen dig ned til mig gjorde mig stor.
+og din ydmyghed{E: Ordet *ʕᵃnāwāʰ* (>>ydmyghed<<) er usædvanligt i sammenhængen, men dog muligt. Sætningen understreger at kongens sejr ikke skyldes hans storhed, men at Gud har bøjet sig ned til ham. Blandt rettelsesforslagene skal især nævnes: *ʕᵃnôtxā*: >>dit svar<< og *ʕezrātᵉxā*: >>din hjælp<<.} gør mig stor.
 
-v37 Du skaffede plads under mig for mine skridt,
+v37 Du skaffer plads under mig for mine skridt,
 
 og mine ankler vaklede ikke.
 
-v38 Jeg forfulgte mine fjender og nåede dem,
+v38 Jeg forfølger mine fjender og når dem,
 
-og jeg vendte ikke tilbage, før jeg havde udryddet dem.
+og jeg vender ikke tilbage før jeg har udryddet dem.
 
-v39 Jeg knuste dem, så de ikke kunne stå op,
+v39 Jeg knuser dem så de ikke kan stå op,
 
-de faldt under mine fødder.
+de falder under mine fødder.
 
-v40 Du har omgjordet mig med styrke til striden,
+v40 Du ruster mig med styrke til krigen,
 
-du bøjede dem, som rejste sig mod mig, under mig.
+du bøjer dem som rejste sig mod mig, under mig.
 
-v41 Og mine fjender – du gav mig deres nakke {E: Meningen er enten: >>Du lod mig se deres ryg (fordi de flygtede)<<, eller måske snarere: >>du lod mig som sejrherre sætte min fod på deres nakke<<},
+v41 Og mine fjender – du gav mig deres nakke,{E: Meningen er enten: >>Du lod mig se deres ryg (fordi de flygtede)<<, eller måske snarere: >>du lod mig som sejrherre sætte min fod på deres nakke<<.}
 
-dem, der hadede mig, udryddede jeg.
+dem der hadede mig, udryddede jeg.
 
-v42 De råbte om hjælp, men der var ingen frelser,
+v42 De råber om hjælp, men der er ingen frelser,
 
-de råbte {T: >>de råbte<< er underforstået fra forrige linje. Det står ikke her i grundteksten}til Herren, men han svarede dem ikke.
+de råbte{T: >>de råbte<< er underforstået fra forrige linje. Det står ikke her i grundteksten.} til Herren, men han svarede dem ikke.
 
-v43 Jeg knuste dem som støv for vinden,
+v43 Jeg knuser dem som støv for vinden,
 
-som gadeskarn kastede jeg dem bort.
+som gadeskarn kaster jeg dem bort.
 
-v44 Du udfriede mig fra folkenes strid,
+v44 Du udfrier mig fra folkenes strid,
 
-du gjorde mig til folkeslags {T: Undertiden oversat >>hedningers<<, men det er næppe meningen her} hoved,
+du gør mig til folkeslags{T: Undertiden oversat >>hedningers<<, men det er næppe meningen her.} hoved,
 
-et folk, som jeg ikke kendte, tjente mig.
+et folk som jeg ikke kendte, skal tjene mig.
 
-v45 Da deres ører hørte om mig, adlød de mig,
+v45 Når de hører om mig.{T: Ordret: >>Ved ørets høren<<.} skal de adlyde mig,
 
-fremmede børn krøb for mig.
+fremmede børn skal krybe for mig.
 
-v46 Fremmede børn sank udmattede sammen,
+v46 Fremmede børn synker udmattede sammen,
 
-de kom skælvende frem fra deres borge.
+de kommer skælvende frem fra deres borge.
 
 ==Lovprisning af den frelsende Gud==
-v47 JHVH lever! Højlovet er min klippe
+v47 JHVH lever! Velsignet er min klippe
 
 og højt ophøjet min frelses Gud!
 
-v48 Han er den Gud, som giver mig hævn,
+v48 Han er den Gud som giver mig hævn
 
 og lægger folk under mig.
 
-v49 Du er den, som udfrier mig fra mine fjender,
+v49 Du er den som udfrier mig fra mine fjender,
 
-du ophøjer mig over mine modstandere,
+du ophøjer mig over mine stolte modstandere,
 
 du redder mig fra voldsmanden.
 
-v50 Derfor vil jeg prise dig blandt folkeslagene {T: Kan også oversættes: >>blandt hedninger<<, men det er næppe meningen her}, JHVHv!
+v50 Derfor vil jeg prise dig blandt folkeslagene,{T: Kan også oversættes: >>blandt hedninger<<, men det er næppe meningen her.} JHVHv!
 
-og jeg vil lovsynge dit navn.
+dit navn vil jeg lovsynge.
 
 v51 Stor hjælp giver han sin konge
 
-og viser nåde {T: Tidligere oversat >>miskundhed<<. Her kunne der også oversættes >>troskab<<} mod sin salvede,
+og viser nåde{T: Tidligere oversat >>miskundhed<<. Her kunne der også oversættes >>troskab<<.} mod sin salvede,
 
 mod David og mod hans sæd til evig tid.
+

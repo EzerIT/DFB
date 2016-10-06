@@ -1,46 +1,47 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.10.2016>!!
 ===Salme 11===
 
-v1 Til korlederen {E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum, der betyder >>dirigere<<}. af David.
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Af David.
 
-==Hos Herren har jeg søgt tilflugt==
+==Hos JHVH har jeg søgt tilflugt==
 Hos JHVH har jeg søgt tilflugt,
 
 hvordan kan I sige til min sjæl:
 
->>Flygt til bjergene {E: Ordret: >>Flygt til jeres bjerg (som en) fugl<<. Der må tænkes på David og hans venner (>>flygt<< er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (>>jeres bjerg<<) til *harîm kᵊ-* (>>til bjergene som<<)} som en fugl<<?
+>>Flygt til bjergene{E: Ordret: >>Flygt til jeres bjerg (som en) fugl<<. Der må tænkes på David og hans venner (>>flygt<< er plur.). Mange håndskrifter har dog sing, fem., så det er Davids sjæl, der tales til. Med støtte i gamle oversættelser retter man også ofte *harxem* (>>jeres bjerg<<) til *harîm kᵊ-* (>>til bjergene som<<).} som en fugl<<?
 
 v2 For se, de ugudelige spænder buen,
 
-de har lagt deres pil på strengen,
+de har lagt deres pil på strengen
 
-for at skyde i mørke mod de oprigtige af hjertet.
+for at skyde i ly af mørket mod de oprigtige af hjertet.
  
 v3 Når grundvoldene nedbrydes,
 
 hvad kan en retfærdig da udrette?
 
-==Herren er retfærdig og bevarer den retfærdige==
+==JHVH er retfærdig og bevarer den retfærdige==
 v4 JHVH er i sit hellige tempel,
 
-JHVH - i himlen er hans trone.
+JHVH - i himlen er hans trone - 
 
 hans øjne iagttager,
 
-hans øjenlåg {T: Meningen formodentlig: >>hans blik<<} prøver menneskets børn.
+hans øjenlåg{T: Meningen formodentlig: >>hans blik<<.} prøver menneskets børn.
 
 v5 JHVH prøver retfærdig og ugudelig,
 
-men den, der elsker vold, hader hans sjæl.
+men hans sjæl hader den der elsker vold.
 
-v6 Han skal lade snarer regne ned over de ugudelige,
+v6 Han skal lade fælder regne ned over de ugudelige,
 
-ild og svovl og glohed vind må blive deres tilmålte bæger {E: Der er usikkerhed i oversættelsen, der også kunne lyde: >>Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger<<. Mange retter *paḥîm* (>>fælder<<) til: *paḥmē*: >>kul<<, der forbindes med det følgende ord (>>ild<<) til >>glødende kul<<}.
+ild og svovl og glohed vind må blive deres tilmålte bæger.{E: Der er usikkerhed i oversættelsen der også kunne lyde: >>Over den uretfærdige lade han regne ild og svovl ned som fælder, og en glohed vind blive deres tilmålte bæger<<. Mange retter *paḥîm* (>>fælder<<) til: *paḥmē*: >>kul<<, der forbindes med det følgende ord (>>ild<<) til >>glødende kul<<.}
 
 v7 For JHVH er retfærdig, han elsker retfærdighedshandlinger,
 
-de retskafne skal se JHVHs ansigt {E: *yāšār* (>>retskaffen<<) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: >>hans ansigt skal iagttage de retskafne<<, men sammenhængen taler for den første mulighed}.
+de retskafne skal se JHVHs ansigt.{E: *yāšār* (>>retskaffen<<) er sing., mens verbet er plur. Man vælger som regel at opfatte *yāšār* kollektivt og oversætte ved plur. Ordret kan der oversættes: >>hans ansigt skal iagttage de retskafne<<, men sammenhængen taler for den første mulighed.}
+

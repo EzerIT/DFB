@@ -1,14 +1,14 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.10.2016>!!
 ===Salme 20===
 
-v1 Til korlederen {E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum, der betyder >>dirigere<<}. Salme af David.
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Salme af David.
 
 ==Guds folk beder for sin konge==
-v2 Må JHVH bønhøre {T: Ordret: >>svare<<} dig på nødens dag!
+v2 Må JHVH svare dig på nødens dag!
 
 Må Jakobs Guds navn ophøje dig!
 
@@ -16,9 +16,9 @@ v3 Må han sende dig hjælp fra helligdommen
 
 og støtte dig fra Zion!
 
-v4 Må han huske alle dine afgrødeofre,
+v4 Må han huske alle dine afgrødeofre
 
-og finde velbehag {T: Ordret: >>erklære for fedt<<} i dit brændoffer! Sela
+og finde velbehag{T: Ordret: >>erklære for fedt<<.} i dit brændoffer! Sela
  
 v5 Må han give dig efter dit hjerte
 
@@ -26,26 +26,26 @@ og opfylde alle dine planer!
 
 v6 Så vil vi juble over din frelse
 
-og løfte banner i vor Guds navn {T: Verset kunne også oversættes som en del af bønnen: >>Må vi juble over din frelse og i vor Guds navn løfte banner!<<};
+og løfte banner i vor Guds navn;{T: Verset kunne også oversættes som en del af bønnen: >>Må vi juble over din frelse og i vor Guds navn løfte banner!<<.}
 
 må JHVH opfylde alle dine bønner!
 
 ==Vished om at Gud hører og svarer==
-v7 Nu ved jeg, at JHVH frelser sin salvede,
+v7 Nu ved jeg at JHVH frelser sin salvede,
 
 han vil svare ham fra sin hellige himmel
 
 med sin højre hånds frelsende, vældige gerninger.
 
-v8 Nogle forlader sig på vogne og nogle på heste {T: Ordret: >>nogle på vogne og nogle på heste<<. Verbet >>forlade sig<< må suppleres fra andet halvvers},
+v8 Nogle stoler på vogne og nogle på heste,{T: Ordret: >>nogle på vogne og nogle på heste<<. Verbet >>stole på<< må suppleres fra andet halvvers.}
 
-men vi, JHVH vor Guds navn forlader vi os på.
+men vi, vi stoler på JHVH vor Guds navn.
 
-v9 De styrter og falder {T: Versets verber i perf. kunne oversættes ved fortid, men de skal udtrykke det, der er Israels erfaring, og som derfor gælder både nutid og fremtid},
+v9 De styrter og falder,{T: Versets verber i perfektiv kunne oversættes ved fortid, men de skal udtrykke det der er Israels erfaring, og som derfor gælder både nutid og fremtid.}
 
-men vi rejser os og holder os oprejste.
+men vi, vi rejser os og holder os oprejste.
 
 ==Afsluttende bøn==
-v10 JHVHv, frels kongen {T: I grundteksten står den skillende accent under versets andet ord, så der egentlig skal oversættes: >>JHVHv, frels! / (Måtte) kongen svare os, den dag vi råber!<< Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her}!
+v10 JHVHv, frels kongen!{E: I grundteksten står den skillende accent under versets andet ord så der egentlig skal oversættes: >>JHVHv, frels!/(Måtte) kongen svare os, den dag vi råber!<< Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her.}
 
-Svar os, den dag vi råber!
+Svar os den dag vi råber!

@@ -1,25 +1,25 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.10.2016>!!
 ===Salme 16===
 
-v1 Miktam {T: Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<, eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 56-60) fastholde en alvorlig situation i folkets erindring}af David
+v1 Miktam{T: Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<, eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 56-60) fastholde en alvorlig situation i folkets erindring.} af David
 
 ==Tilflugt hos Gud==
 Bevar mig, Gud, for jeg søger tilflugt hos dig.
 
 ==Glæden ved at høre til hos Gud==
-v2 Jeg{E: Ordret: >>Du sagde<<. I så fald må man underforstå >>min sjæl<< eller lade v. 2-4a være rettet til en anden person (fem.!). Man vokaliserer oftest som 1. pers. Teksten i v. 2-4 er i det hele taget usikker og til dels uigennemskuelig} sagde til JHVH: >>Du er min Herre,
+v2 Jeg{E: Ordret: >>Du sagde<<. I så fald må man underforstå >>min sjæl<< eller lade v. 2-4a være rettet til en anden person (fem.!). Man vokaliserer oftest som 1. pers. Teksten i v. 2-4 er i det hele taget usikker og til dels uigennemskuelig.} sagde til JHVH: >>Du er min Herre,
 
 jeg har intet gode ud over dig.
 
 v3 De hellige, de som er i landet,
 
-og de ædle, har jeg alt mit velbehag i<<.
+og de ædle har jeg alt mit velbehag i<<.
  
-v4 Mangfoldige bliver deres smerter, som bejler til en anden {T: D.e. >>anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<}.
+v4 Mangfoldige bliver deres smerter, som bejler til en anden.{T: Underforstået >>en anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<}
 
 Jeg vil ikke udgyde deres drikofre af blod
 
@@ -29,30 +29,33 @@ v5 JHVHv, min tilmålte del og mit bæger,
 
 du sikrer min lod.
 
-v6 Målesnorene faldt for mig på de liflige steder,
+v6 Målesnorene faldt for mig på skønne steder,
 
 ja, en dejlig arv tilfaldt mig.
 
 ==Tillid til Herren==
-v7 Jeg vil prise JHVH, som gav mig råd,
+v7 Jeg vil prise{E: Betyder også >>velsigne<<.} JHVH, som gav mig råd,
 
 ja, mine nyrer vejleder mig om natten.
 
 v8 Jeg har altid JHVH for øje,
 
-for han er ved min højre side, jeg skal ikke vakle.
+for han er ved min højre side;
+
+jeg skal ikke vakle.
 
 ==Tryghed over for døden==
-v9 Derfor glæder mit hjerte sig, og min ære {T: D.e. >>sjæl<<}jubler,
+v9 Derfor glæder mit hjerte sig, og min ære jubler,{T: Grundtekstens >>min ære jubler<< skal sandsynligvis forstås som >>min sjæl jubler<<.} 
 
 ja, mit kød skal bo i tryghed.
 
-v10 For du vil ikke overlade min sjæl til dødsriget {T: Hebraisk: >>sheol<<},
+v10 For du vil ikke overlade min sjæl til dødsriget,{E: Hebraisk: *šᵊʔôl*.}
 
-du vil ikke lade din hellige se graven {E: Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX}.
+du vil ikke lade din hellige se graven.{E: Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX}.
 
-v11 Du vil kundgøre mig livets vej,
+v11 Du vil lære mig livets vej,
 
-der er mættelse med glæde for dit ansigt,
+der er fuldendt glæde for dit ansigt,
 
-der er altid liflige ting i din højre hånd.
+der er altid skønne ting i din højre hånd.
+
