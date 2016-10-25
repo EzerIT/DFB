@@ -1,14 +1,14 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.10.2016>!!
 ===Salme 30===
 
-v1 Salme, en sang ved husets {T: Formodentlig templets} indvielse, af David. 
+v1 Salme, en sang ved husets{T: Formodentlig templets.} indvielse, af David. 
 
 ==Lovprisning for frelse fra døden==
-v2 Jeg vil ophøje dig, JHVHv, for du har trukket mig op {T: Som man trækker en spand op fra brøndens dyb},
+v2 Jeg vil ophøje dig, JHVHv, for du har trukket mig op,{T: Som man trækker en spand op fra brøndens dyb.}
 
 og du lod ikke mine fjender glæde sig over mig.
 
@@ -18,18 +18,18 @@ jeg råbte til dig om hjælp, og du helbredte mig.
 
 v4 JHVHv, du løftede min sjæl op fra dødsriget,
 
-du gav mig livet tilbage fra dem, som gik ned i graven {E: Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet, at der skal oversættes: >>Du lod mig leve, så jeg ikke gik i graven<<}.
+du gav mig livet tilbage fra dem som gik ned i graven.{E: Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: >>Du lod mig leve, så jeg ikke gik i graven<<.}
 
 ==Hele menigheden opfordres til at istemme lovsang==
 v5 Lovsyng JHVH, I hans fromme,
 
-og pris hans hellige navn {T: Ordret nærmere: >>ihukommelse / minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<}.
+og pris hans hellige navn.{T: Ordret nærmere: >>ihukommelse/minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<.}
 
 v6 Ja, et øjeblik varer hans vrede,
 
-hans nåde hele livet {Ordret: >>Ja, kun et øjeblik i hans vrede, liv i hans nåde<<. Der skal formodentlig underforstås >>står man<< eller lignende}.
+hans nåde hele livet.{T: Ordret: >>Ja, kun et øjeblik i hans vrede, liv i hans nåde<<. Der skal formodentlig underforstås >>står man<< eller lignende.}
 
-Om aftenen gæster os {T: Ordret: >>vil overnatte<<} gråd,
+Om aftenen gæster{T: Ordret: >>vil overnatte<<.} gråden os,
 
 men om morgenen jubel.
 
@@ -38,7 +38,7 @@ v7 Og jeg sagde i min tryghed:
 
 >>Jeg skal ikke vakle i evighed<<.
 
-v8 JHVHv, ved din gunst har givet mit bjerg {T: d. e. mit rige og min kongemagt}styrke.
+v8 JHVHv, ved din gunst har du givet mit bjerg{T: D.v.s. mit rige og min kongemagt.} styrke.
 
 Du skjulte dit ansigt, jeg blev forfærdet.
 
@@ -61,11 +61,11 @@ JHVHv, vær min hjælper!
 ==Afsluttende lovprisning==
 v12 Du har forvandlet min klage til dans for mig,
 
-du har løst min sæk {T: D. e. >>sørgedragt<<}
+du har løst min sæk{T: D.v.s. >>sørgedragt<<.}
 
-og omgjordet mig med glæde,
+og omgjordet mig med glæde
 
-v13 for at min ære {E: Ordret blot >>ære<<. Normalt tilføjer man med Septuaginta >>min<<. Meningen må være, at det er den ære, Gud har løftet digteren til, der skal prise Gud} må lovsynge dig og ikke tie.
+v13 for at min ære{E: Ordret blot >>ære<<. Normalt tilføjer man med Septuaginta >>min<<. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.} må lovsynge dig og ikke tie.
 
 JHVHv, min Gud, for evigt vil jeg takke dig.
 

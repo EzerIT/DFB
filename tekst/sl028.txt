@@ -1,8 +1,8 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.10.2016>!!
 ===Salme 28===
 
 v1 Af David.
@@ -10,7 +10,7 @@ v1 Af David.
 ==Bøn om hjælp==
 Til dig, JHVHv, vil jeg råbe,
 
-min klippe, vend dig ikke tavs bort fra mig {T: Dvs.: Ignorer mig ikke!},
+min klippe, vend dig ikke tavs bort fra mig{T: D.v.s.: Ignorer mig ikke!}
 
 så du tier imod mig,
 
@@ -22,13 +22,13 @@ når jeg råber til dig om hjælp,
 
 når jeg løfter mine hænder
 
-til din helligdoms inderste rum {T: Templets Allerhelligste}.
+til din helligdoms inderste rum.{T: Templets Allerhelligste.}
 
 v3 Riv mig ikke bort sammen med ugudelige
 
-og med dem, der begår synd,
+og med dem der begår synd,
 
-dem, der taler fred med deres næste,
+dem der taler fred med deres næste,
 
 skønt der er ondt i deres hjerte.
 
@@ -42,7 +42,7 @@ gengæld dem deres handling.
 
 v5 For de giver ikke agt på JHVHs gerninger,
 
-ej heller på hans hænders værk,
+og heller ikke på hans hænders værk,
 
 han skal rive dem ned og ikke bygge dem op.
 
@@ -55,16 +55,17 @@ v7 JHVH er min styrke og mit skjold,
 
 på ham har mit hjerte stolet,
 
-og jeg blev hjulpet, så mit hjerte jublede,
+og jeg blev hjulpet så mit hjerte jublede,
 
-og med min sang {T: Ordret: >>ud af min sang<<} vil jeg takke ham.
+og med min sang{T: Ordret: >>ud af min sang<<.} vil jeg takke ham.
 
-v8 JHVH er styrke for sit folk {E: Den masoretiske tekst har *lāmô*: >>for dem<<. Rettelsen til *lᵊʕammô* (>>for sit folk<<) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje},
+v8 JHVH er styrke for sit folk,{E: Den masoretiske tekst har *lāmô*: >>for dem<<. Rettelsen til *lᵊʕammô* (>>for sit folk<<) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.}
 
-og han er frelsende borg for sin salvede.
+og han er en frelsende borg for sin salvede.
 
 v9 Frels dit folk,
 
 og velsign din arv,
 
 og vogt dem og bær dem til evig tid.
+

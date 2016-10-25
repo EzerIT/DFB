@@ -1,27 +1,27 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.10.2016>!!
 ===Salme 26===
 
 v1 Af David.
 
 ==Bøn om hjælp==
-Skaf mig ret {T: Kan også oversættes: >>Døm mig<< i betydningen: >>Bedøm mig<< parallelt med v. 2}, JHVHv,
+Skaf mig ret,{T: Kan også oversættes: >>Døm mig<< i betydningen: >>Bedøm mig<< parallelt med vers 2.} JHVHv,
 
 for jeg har vandret i min uskyld,
 
 og på JHVH har jeg stolet, 
 
-jeg skal ikke vakle {T: Kan også oversættes: >>uden at vakle<<}.
+jeg skal ikke vakle.{T: Kan også oversættes: >>uden at vakle<<.}
 
 v2 Prøv mig, JHVHv, og test mig,
 
-ransag {T: Ordret: >>prøv ved at smelte << (som metalsmelteren)} mine nyrer og mit hjerte.
+ransag{T: Ordret: >>prøv ved at smelte << (som metalsmelteren).} mine nyrer og mit hjerte.
 
 ==David søger ikke venskab med onde==
-v3 For din nåde {T: Tidligere oversat >>miskundhed<<} har jeg for mine øjne,
+v3 For din nåde{T: Tidligere oversat >>miskundhed<<.} har jeg for mine øjne,
 
 og jeg har vandret i din sandhed.
 
@@ -29,7 +29,7 @@ v4 Jeg har ikke siddet hos løgnagtige mænd,
 
 og jeg vil ikke komme hos lumske.
 
-v5 Jeg har hadet ugerningsmænds forsamling
+v5 Jeg har hadet ugerningsmænds forsamling,
 
 og hos ugudelige vil jeg ikke sidde.
 
@@ -38,7 +38,7 @@ v6 Jeg vil vaske mine hænder i uskyld,
 
 og jeg vil gå omkring dit alter, JHVHv,
 
-v7 for at lade taksigelses røst lyde {E: Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: >>høre<< (>>for at høre lyden af …<<), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her)},
+v7 for at lade taksigelses røst lyde,{E: Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: >>høre<< (>>for at høre lyden af …<<), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).}
 
 og for at fortælle om alle dine undere.
 
@@ -49,18 +49,18 @@ og stedet for din herligheds bolig.
 ==Ny bøn om hjælp==
 v9 Riv ikke min sjæl bort med syndere,
 
-eller mit liv med blodtørstige folk,
+eller mit liv med blodtørstige folk
 
 v10 i hvis hænder der er skændsel,
 
-og hvis højre haand er fuld af bestikkelse.
+og hvis højre hånd er fuld af bestikkelse.
 
 v11 Men jeg vil vandre i min uskyld,
 
 forløs mig og vær mig nådig!
 
 ==Vished om Guds hjælp==
-v12 Min Fod har stået på fast grund,
+v12 Min fod har stået på fast grund,
 
 i forsamlinger vil jeg prise JHVH.
 

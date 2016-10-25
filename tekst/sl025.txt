@@ -1,8 +1,8 @@
-!!<Modenhed: 1 &ndash; Rå oversættelse>!!
+!!<Modenhed: 4 &ndash; Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
-
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.10.2016>!!
 ===Salme 25===
 
 v1 Af David.
@@ -10,31 +10,31 @@ v1 Af David.
 ==Bøn om hjælp og tilgivelse==
 Til dig, JHVHv, løfter jeg min sjæl.
 
-v2 Min Gud {E: Mange flytter versets første ord, *ʔᵉlōhay* (>>Min Gud<<) til v.1. Begrundelsen er dels, at v.1 er kort, dels at salmen er alfabetisk, så v.1 begynder med alfabetets første bogstav, v.2 med det andet osv. Men det gælder kun for v.2, hvis *ʔᵉlōhay* flyttes, så verset begynder med det næste ord, *bᵊxā* (>>på dig<<), der begynder med alfabetets andet bogstav}, jeg har stolet på dig - lad mig ikke blive til skamme,
+v2 Min Gud,{E: Mange flytter versets første ord, *ʔᵉlōhay* (>>Min Gud<<) til vers 1. Begrundelsen er dels, at vers 1 er kort, dels at salmen er alfabetisk, så vers 1 begynder med alfabetets første bogstav, vers 2 med det andet osv. Men det gælder kun for vers 2 hvis *ʔᵉlōhay* flyttes så verset begynder med det næste ord, *bᵊxā* (>>på dig<<), der begynder med alfabetets andet bogstav.} jeg har stolet på dig - lad mig ikke blive til skamme,
 
 mine fjender må ikke fryde sig over mig.
 
-v3 Ja, ingen, som håber på dig, skal blive til skamme,
+v3 Ja, ingen som håber på dig, skal blive til skamme,
 
-beskæmmes skal de, som handler troløst uden årsag.
+skam kommer over dem som handler troløst uden årsag.
 
 v4 JHVHv, lad mig kende dine veje,
 
 lær mig dine stier!
  
-v5 Gør, at jeg vandrer i din sandhed, og belær mig,
+v5 Gør at jeg vandrer i din sandhed, og belær mig,
 
-For du er min frelses Gud,
+for du er min frelses Gud,
 
-Jeg {E: Som regel lader man verset begynde med et *w* (>>og<<), da det er forudsat, hvis salmen skal være alfabetisk} har ventet på dig hele dagen.
+jeg{E: Som regel lader man verset begynde med et *w* (>>og<<), da det er forudsat, hvis salmen skal være alfabetisk.} har ventet på dig hele dagen.
 
-v6 Husk din barmhjertighed, JHVHv, og din nåde [T: Tidligere oversat >>miskundhed<<},
+v6 Husk din barmhjertighed, JHVHv, og din nåde,[T: Tidligere oversat >>miskundhed<<.}
 
 for de har været fra evighed.
 
 v7 Husk ikke min ungdoms synder og mine overtrædelser,
 
-husk mig, du, efter din nåde
+husk du mig efter din nåde
 
 for din godheds skyld, JHVHv!
 
@@ -49,23 +49,23 @@ og han vil lære de ydmyge sin vej.
 
 v10 Alle JHVHs stier er nåde og sandhed
 
-for dem, som holder hans pagt og hans vidnesbyrd.
+for dem som holder hans pagt og hans vidnesbyrd.
 
 v11 For dit navns skyld, JHVHv,
 
 tilgiv mig dog min skyld, for den er stor.
 
-v12 Hvem er da den mand, som frygter JHVH?
+v12 Hvem er da den mand som frygter JHVH?
 
-Ham vil han belære om den vej, han skal vælge {E: Dvs.: Uanset hvem det er, der frygter JHVH, så vil han belære ham …}.
+Ham vil han belære om den vej han skal vælge.{E: D.v.s.: Uanset hvem det er der frygter JHVH, så vil han belære ham.}
 
 v13 Hans sjæl skal bo i lykke,
 
 og hans sæd skal besidde landet.
 
-v14 JHVH har fortroligt fællesskab med dem, der frygter ham,
+v14 JHVH har fortroligt fællesskab med dem der frygter ham,
 
-ja, hans pagt belærer dem {T: Ordret: >>og/ja, hans pagt til at belære dem<<}.
+ja, hans pagt belærer dem.{T: Ordret: >>og/ja, hans pagt til at belære dem<<.}
 
 ==Ny bøn om hjælp og frelse==
 v15 Mine øjne er altid rettet mod JHVH,
@@ -76,11 +76,11 @@ v16 Vend dig til mig, og vær mig nådig,
 
 for jeg er ene og hjælpeløs.
 
-v17 Mit hjertes nød har de {T: D.e. >fjenderne<<} gjort vid,
+v17 Mit hjertes nød har de{T: D.v.s. fjenderne.} gjort vid,
 
 før mig ud af mine trængsler!
 
-v18 Se hen til {E: Da salmen er alfabetisk, burde verset begynde med et *q*. Det kan være faldet ud, så der i stedet for *rᵊʔēʰ* (>>se hen til<<) skal stå *qirʔāʰ*: >>mød<<} min hjælpeløshed og min modgang,
+v18 Se hen til{E: Da salmen er alfabetisk, burde verset begynde med et *q*. Det kan være faldet ud, så der i stedet for *rᵊʔēʰ* (>>se hen til<<) skal stå *qirʔāʰ*: >>mød<<.} min hjælpeløshed og min modgang,
 
 og tilgiv {T: Ordret: >>borttag<<} alle mine synder!
 
@@ -88,9 +88,9 @@ v19 Se hen til mine fjender, for de er mange,
 
 og de hader mig med uretfærdigt had.
 
-v20 Bevar min sjæl og red mig,
+v20 Bevar min sjæl og red mig
 
-så jeg ikke beskæmmes, for jeg har søgt tilflugt hos dig.
+så jeg ikke bliver til skamme, for jeg har søgt tilflugt hos dig.
 
 v21 Lad uskyld og oprigtighed bevare mig,
 
