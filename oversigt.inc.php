@@ -11,12 +11,14 @@ $chap['1thess']      = array(1, 2, 3, 4, 5);
 
 
 
+$title['GT']      = 'Det Gamle Testamente';
 $title['dom']     = 'Dommerbogen';
 $title['ruth']    = 'Ruths Bog';
 $title['sl']      = 'Salmernes Bog';
 $title['es']      = 'Esajas&rsquo; Bog';
 $title['jer']     = 'Jeremias&rsquo; Bog';
 $title['zak']     = 'Zakarias&rsquo; Bog';
+$title['NT']      = 'Det Nye Testamente';
 $title['1thess']  = 'Første Thessalonikerbrev';
 
 $chaptype['dom']  = 'kapitel';

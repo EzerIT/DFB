@@ -28,6 +28,11 @@ makemenus(2);
 
         <div class="col-md-9">
           <?php foreach ($title as $book => $tit): ?>
+            <?php if ($book=='GT' || $book=='NT'): ?>
+                 <h2><?= $tit ?></h2>
+                 <?php continue; ?>
+            <?php endif; ?>
+
             <div class="panel panel-info">
               <div class="panel-heading">
                 <h3 class="panel-title"><?= $tit ?></h3>

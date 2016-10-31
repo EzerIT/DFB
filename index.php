@@ -20,13 +20,15 @@ makemenus(0);
             engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-         <p>Foreløbig er det kun Dommerbogen, Ruths Bog, Zakarias&rsquo; Bog og nogle få kapitler af andre
-            gammeltestamentlige bøger der foreligger som et udkast til vurdering. Forlægget har
+         <p>Af Det Gamle Testamente foreligger Dommerbogen, Ruths Bog, Zakarias&rsquo; Bog og nogle få kapitler af andre
+            bøger. Forlægget har
             været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med nye
             resultater fra bibelforskningen. (Nærværende udgave af Dommerbogen er udarbejdet i
             forbindelse med Nicolai Winther-Nielsens oversættelse af Dommerbogen til moderne dansk
             for Bibelselskabet &ndash; udgivelsen »Frihedskampen«.)</p>
 
+          <p>Af Det Nye Testamente har vi et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
+             
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af den hebraiske tekst som muligt, også på
             steder hvor den hebraiske tekst er vanskelig at forstå. Hvor originalen er tvetydig, bør
