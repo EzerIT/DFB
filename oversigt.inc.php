@@ -7,6 +7,8 @@ $chap['es']       = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15);
 $chap['jer']      = array(1, 2, 7);
 $chap['zak']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14);
 
+$chap['1thess']      = array(1, 2, 3, 4, 5);
+
 
 
 $title['dom']     = 'Dommerbogen';
@@ -15,6 +17,7 @@ $title['sl']      = 'Salmernes Bog';
 $title['es']      = 'Esajas&rsquo; Bog';
 $title['jer']     = 'Jeremias&rsquo; Bog';
 $title['zak']     = 'Zakarias&rsquo; Bog';
+$title['1thess']  = 'Første Thessalonikerbrev';
 
 $chaptype['dom']  = 'kapitel';
 $chaptype['ruth'] = 'kapitel';
@@ -22,6 +25,7 @@ $chaptype['sl']   = 'salme';
 $chaptype['es']   = 'kapitel';
 $chaptype['jer']  = 'kapitel';
 $chaptype['zak']  = 'kapitel';
+$chaptype['1thess'] = 'kapitel';
 
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
@@ -58,3 +62,4 @@ $style['sl']      = array( 1 => 'btn-success',
 $style['es']      = 'btn-warning';
 $style['jer']     = 'btn-success';
 $style['zak']     = 'btn-success';
+$style['1thess']  = 'btn-warning';

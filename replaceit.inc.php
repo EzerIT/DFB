@@ -45,6 +45,9 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/\'/';
     $to[] = '&rsquo;';
 
+    $from[] = '/\*\*\*/';
+    $to[] = '&nbsp;';
+
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '<i>\1</i>';
 
@@ -82,15 +85,18 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/^ *([^\n@]+) *$/m';
     $to[] = '<div class="paragraph">\1</div>';
 
-    $from[] = '/\*\*\*/';
-    $to[] = '&nbsp;';
-
     $from[] = '/@([^@]+)@/';
     $to[] = '<h2>\1</h2>';
+
+    $from[] = '/--/';
+    $to[] = '&ndash;';
 
     $from[] = '/(\s)-(\s)/';
     $to[] = '\1&ndash;\2';
 
+    $from[] = '/\.\.\./';
+    $to[] = '…';
+    
     $txt = preg_replace($from, $to, $txt);
 
     global $nextletter;

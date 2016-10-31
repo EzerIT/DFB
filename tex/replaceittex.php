@@ -44,6 +44,9 @@ function replaceittex($filename, $chtype/*, &$title*/) {
     $from[] = '/</';
     $to[] = '‹';
 
+    $from[] = '/\*\*\*/';
+    $to[] = '\\vspace{\\baselineskip}';
+
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '\\emph{\1}';
 
@@ -76,6 +79,9 @@ function replaceittex($filename, $chtype/*, &$title*/) {
 
     $from[] = '/(\s)-(\s)/';
     $to[] = '\1 -- \2';
+
+    $from[] = '/\.\.\./';
+    $to[] = '…';  // \ldots ?
 
     $txt = preg_replace($from, $to, $txt);
 
