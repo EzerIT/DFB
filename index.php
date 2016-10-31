@@ -30,8 +30,8 @@ makemenus(0);
           <p>Af Det Nye Testamente har vi et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
-            tekst skal være en så præcis gengivelse af den hebraiske tekst som muligt, også på
-            steder hvor den hebraiske tekst er vanskelig at forstå. Hvor originalen er tvetydig, bør
+            tekst skal være en så præcis gengivelse af grundteksten som muligt, også på
+            steder hvor grundteksten er vanskelig at forstå. Hvor originalen er tvetydig, bør
             oversættelsen også være det. Der er altså ikke tale om en gendigtning af den bibelske
             tekst.</p>
 
