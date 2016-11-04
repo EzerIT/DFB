@@ -122,7 +122,7 @@ function fix_hyphenation($txt) {
 
 echo<<<'END'
 
-\documentclass[11pt,oneside,a4paper,draft]{memoir}
+\documentclass[11pt,oneside,a4paper]{memoir}
 \usepackage{fontspec}
 \usepackage{xcolor}
 \usepackage{polyglossia}
@@ -162,6 +162,15 @@ echo<<<'END'
       \or aa\or ab\or ac\or ad\or ae\or af\or ag\or ah\or ai\or aj%
       \or ak\or al\or am\or an\or ao\or ap\or aq\or ar\or as\or at%
       \or au\or av\or aw\or ax\or ay\or az\or aæ\or aø\or aå%
+      \or ba\or bb\or bc\or bd\or be\or bf\or bg\or bh\or bi\or bj%
+      \or bk\or bl\or bm\or bn\or bo\or bp\or bq\or br\or bs\or bt%
+      \or bu\or bv\or bw\or bx\or by\or bz\or bæ\or bø\or bå%
+      \or ca\or cb\or cc\or cd\or ce\or cf\or cg\or ch\or ci\or cj%
+      \or ck\or cl\or cm\or cn\or co\or cp\or cq\or cr\or cs\or ct%
+      \or cu\or cv\or cw\or cx\or cy\or cz\or cæ\or cø\or cå%
+      \or da\or db\or dc\or dd\or de\or df\or dg\or dh\or di\or dj%
+      \or dk\or dl\or dm\or dn\or do\or dp\or dq\or dr\or ds\or dt%
+      \or du\or dv\or dw\or dx\or dy\or dz\or dæ\or dø\or då%
       \else\@ctrerr\fi
 }
 \makeatother

@@ -19,8 +19,9 @@ makemenus(2);
             </div>
             <div class="panel-body">
               <p>Farvekoden angiver <a href="modenhed.php">modenheden</a> af teksten i de enkelte kapitler:</p>
-              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 100px;" class="btn btn-warning">Ikke færdig</span></p>
-              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 100px;" class="btn btn-success">Færdig</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-warning">Rå oversættelse</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-info">Delvis færdig</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-success">Færdig</span></p>
             </div>
           </div>
         </div>
@@ -66,8 +67,9 @@ makemenus(2);
             </div>
             <div class="panel-body">
               <p>Farvekoden angiver <a href="modenhed.php">modenheden</a> af teksten i de enkelte kapitler:</p>
-              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 100px;" class="btn btn-warning">Ikke færdig</span></p>
-              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 100px;" class="btn btn-success">Færdig</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-warning">Rå oversættelse</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-info">Delvis færdig</span></p>
+              <p class="visible-xs-inline visible-sm-inline visible-md-block visible-lg-inline"><span style="width: 125px;" class="btn btn-success">Færdig</span></p>
               <p>&nbsp;</p>
             <img class="img-responsive hidden-xs" src="img/Community1-300.jpg" alt="">
             </div>
