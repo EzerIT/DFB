@@ -1,19 +1,21 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 09.08.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2016>!!
 
-===Esajas' Bog, kapitel 4===
+===Esajas, kapitel 4===
 
-==Esajas taler videre om Guds straf over jøderne.==
+v1 Og syv kvinder skal gribe fat i én mand på den dag og sige:
 
+>>Vi vil spise vores eget brød
 
-v1 Og syv kvinder skal på den dag tage fat i én mand og sige: >>Vi vil spise vores eget brød og klæde os i vores eget tøj, bare vi må kaldes med dit navn; fjern vores vanære!<<
+og klæde os i vores eget tøj,
 
-==Esajas profeterer om Kristi rige og velgerninger imod dem der omvender sig, og om at de ved Guds Ånds Kraft skal renses og beskærmes.==
+bare man må kalde os med dit navn;
 
-v2 På den dag skal skal JHVHs spire være til pryd og herlighed og landets frugt til stolthed og til pragt for de undslupne i Israel.
-v3 Og det skal ske at den der er blevet tilbage i Zion, og den der er blevet til overs i Jerusalem, skal kaldes hellig, enhver i Jerusalem som er indskrevet til livet,
-v4 når Herren har vasket Zions døtres urenhed af og skyllet Jerusalems blodskyld væk fra dens midte ved en Ånd der dømmer, og ved en Ånd der tænder en ild.
-v5 Og over hele boligen på Zions bjerg og over dets forsamlinger skal Herren skabe en sky om dagen og røg og skinnende flamme om natten; for der skal være et dække over alt det der er herligt.
-v6 Og der skal være en hytte til skygge om dagen mod hede og til ly og til skjul mod vandskyl og mod regn.
+fjern vores vanære!<<
+
+==Jerusalem renses og bliver hellig==
+
+v2 På den dag skal JHVHs spire være til pragt og herlighed og landets frugt til stolthed og pryd for Israels undslupne. v3 Den der er blevet tilbage i Zion, og den der er blevet efterladt i Jerusalem, skal kaldes hellig, enhver i Jerusalem som er indskrevet til livet, v4 når{E: Der er forskellige bud på, hvordan v. 3-5 hænger sammen. Nogle oversættelser vælger at knytte v. 3-4 sammen og sætter punktum efter v. 4, mens andre sætter punktum efter v. 3 og dermed knytter v. 4-5 sammen.} Herren har vasket Zions døtres urenhed af og skyllet Jerusalems blodskyld væk fra dens midte ved en Ånd der dømmer, og ved en Ånd der renser ud. v5 Og over hele Zions bjerg og over dets forsamling vil JHVH skabe en sky om dagen og røg og skinnende, flammende ild om natten; for over alt herligt skal der være et dække. v6 Der skal være en hytte til skygge mod hede om dagen og til ly og skjul mod skybrud og regn.

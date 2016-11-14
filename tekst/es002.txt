@@ -1,37 +1,138 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 09.08.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2016>!!
 
-===Esajas' Bog, kapitel 2===
+===Esajas, kapitel 2===
 
-==Esajas profeterer om hedningernes omvendelse og om Kristi riges herlighed i de sidste tider.==
+==Folkeslagenes omvendelse==
 
-v1 Dette er det ord som Esajas, Amoz' søn, så om Juda og Jerusalem.
-v2 Og det skal ske i de sidste dage at JHVHs hus' bjerg skal være grundfæstet oven på bjergene og ophøjet over højene; og alle hedninger skal strømme til det.
-v3 Og mange folkeslag skal komme og sige: >>Kom, og lad os gå op til JHVHs bjerg, til Jakobs Guds hus, så han kan lære os sine veje, for at vi må vandre på hans stier;<< for fra Zion skal der udgå lov og fra Jerusalem JHVHs ord.
-v4 Og han skal dømme imellem hedningerne og holde rettergang over mange folkeslag, og de skal smede deres sværd om til hakker og deres spyd til haveknive; det ene folk skal ikke bruge sværd imod det andet, og de skal ikke længere øve sig i krig.
-v5 Kom, Jakobs hus, og lad os vandre i JHVHs lys!
+v1 Det ord som Esajas, Amos' søn, så om Juda og Jerusalem:
 
-==Forkastelsen af de fleste jøder på grund af deres vantro, hovmodighed og afguderi.==
+v2 Og det skal ske i de sidste dage,
 
-v6 Men du har forskudt dit folk, Jakobs hus; for de er fulde af Østens væsen og er spåmænd som filistrene, og de har det godt med de fremmede.
-v7 Og deres land blev fyldt med sølv og guld, og der er ingen ende på deres skatte; og deres land blev fyldt af heste, og der er ingen ende på deres vogne.
-v8 Og deres land blev fyldt med afguder; de tilbeder det deres hænder har frembragt, det deres fingre har lavet.
-v9 Derfor fornedres mennesket, og manden ydmyges, og du skal ikke tilgive dem det!
+at JHVHs tempelbjerg{T: Ordret: >>hus’ bjerg<<.} skal være grundfæstet på toppen af bjergene
 
-==Esajas formaner alle mennesker til at frygte og ære Gud for hans høje majestæts og magts skyld og forkynder rædsel og dyb fornedrelse for afgudsdyrkerne.==
+og være ophøjet over højene;
 
-v10 Gå ind i klippen og gem dig i støvet af frygt for JHVH og for hans majestæts herligheds skyld.
-v11 Et menneskes stolte øjne skal ydmyges, og mændenes højhed skal fornedres; men JHVH alene skal være høj på den dag.
-v12 For JHVH Zebaoths dag skal komme over enhver hovmodig og stolt og over enhver ophøjet så han skal fornedres,
-v13 og over alle de høje og anselige cedre på Libanon og over alle ege i Basan
-v14 og over alle høje bjerge og over alle anselige høje
-v15 og over hvert højt tårn og over hvert fast mur
-v16 og over alle Tarsis' skibe og over alt hvad der fryder øjet.
-v17 Og mennesket højhed skal nedbøjes, og mændenes højhed skal fornedres; og JHVH alene skal være høj på den dag.
-v18 Og med afguderne skal det være helt og aldeles ude.
-v19 Og de skal gå ind i klippesprækker og i jordhuler af frygt for JHVH og for hans majestæts herligheds skyld når han rejser sig for at forfærde jorden.
-v20 På den dag skal menneskene kaste sine afguder af sølv og guld, som de har lavet sig for at tilbede dem, bort til muldvarpe og flagermus,
-v21 for at søge ind i klippekløfter, i jordhuler af frygt for JHVH og for hans majestæts herligheds skyld når han rejser sig for at forfærde jorden.
-v22 Stol ikke længere på mennesket, som kun har lidt ånde i sin næse; for hvad kan han vel regnes for?
+og alle folkeslag skal strømme til det.
+
+v3 Mange folk skal komme og sige:
+
+>>Kom, lad os drage op til JHVHs bjerg,
+
+til Jakobs Guds hus.
+
+Han skal lære os sine veje,
+
+og vi vil vandre på hans stier;<<
+
+for fra Zion skal der udgå lov og fra Jerusalem JHVHs ord.
+
+v4 Han skal dømme imellem folkeslagene
+
+og holde rettergang over mange folk.
+
+Og de skal smede deres sværd om til hakker
+
+og deres spyd til vingårdsknive;
+
+folkeslag skal ikke løfte sværd mod hinanden,{T: Ordret: >>Et folk skal ikke løfte sværd mod et folk.<<}
+
+og de skal ikke længere øve sig i krig.
+
+v5 Jakobs hus, kom, og lad os vandre i JHVHs lys!
+
+==Straffen over de hovmodige==
+
+v6 Du har forkastet dit folk, Jakobs hus;{E: Verset indledes af det hebraiske *kî*, der oftest oversættes med >>for<<, dvs. som indledning til en begrundelse. En anden mulighed er at oversætte det emfatisk, >>sandelig…<<}
+
+for de er fulde af Østens væsen,
+
+er spåmænd som filistrene,
+
+og de klapper hænder med fremmedes børn.{T: Betydningen må være, at de ukritisk indoptager fremmed kultur i strid med Guds love.}
+
+v7 Deres land er fyldt med sølv og guld,
+
+og der er ingen ende på deres skatte.
+
+Deres land er fyldt af heste,
+
+og der er ingen ende på deres stridsvogne.
+
+v8 Deres land er fyldt med afguder;
+
+de kaster sig ned for deres hænders værk,
+
+det, deres fingre har lavet.
+
+v9 Mennesket skal fornedres, og manden ydmyges -
+
+du må ikke tilgive dem!
+
+ v10 Gå ind i klippen, og gem dig i støvet
+
+i rædsel for JHVH{E: Ordret: >>foran JHVHs rædsel<<. Udtrykket handler ikke bare om den reaktion, JHVH vækker hos mennesker, men om en kvalitet hos JHVH selv. Se også v. 19 og 21.} og for hans majestæts herlighed.
+
+v11 Et menneskes stolte øjne skal ydmyges,
+
+og mændenes hovmod vanæres;
+
+JHVH alene skal være ophøjet på den dag.
+
+v12 For Hærskarers HERRE har en dag mod enhver stolt og hovmodig
+
+og mod enhver knejsende så han vanæres,
+
+v13 mod alle Libanons cedre,
+
+de høje og knejsende,
+
+og mod alle Bashans ege;
+
+v14 mod alle høje bjerge
+
+og mod alle knejsende høje,
+
+v15 mod hvert højt tårn
+
+og mod hver befæstet mur,
+
+v16 mod alle Tarshish-skibe
+
+og mod alle kostbare fartøjer.
+
+v17 Menneskets stolthed skal nedbøjes,
+
+og mændenes hovmod vanæres;
+
+JHVH alene skal være ophøjet på den dag.
+
+v18 Afguderne skal helt forsvinde.
+
+v19 Og de skal gå ind i klippesprækker og i jordhuler
+
+i rædsel for JHVH og for hans majestæts herlighed,
+
+når han rejser sig for at forfærde jorden.
+
+v20 På den dag skal menneskene kaste deres afguder af sølv og guld,
+
+som de har lavet for at kaste sig ned for,
+
+bort til muldvarpe og flagermus
+
+v21 for at søge ind i klippekløfter og i klipperevner 
+
+i rædsel for JHVH og for hans majestæts herlighed
+
+når han rejser sig for at forfærde jorden.
+
+v22 Stop med at stole på mennesket,
+
+som kun har ånde i sin næse;
+
+for hvad kan han vel regnes for?
+

@@ -61,7 +61,24 @@ $style['sl']      = array( 1 => 'btn-success',
                           28 => 'btn-info', 
                           29 => 'btn-info', 
                           30 => 'btn-info');
-$style['es']      = 'btn-warning';
+$style['es']      = array( 1 => 'btn-success',
+                           2 => 'btn-success', 
+                           3 => 'btn-success', 
+                           4 => 'btn-success', 
+                           5 => 'btn-success', 
+                           6 => 'btn-success', 
+                           7 => 'btn-success', 
+                           8 => 'btn-warning', 
+                           9 => 'btn-warning', 
+                          10 => 'btn-warning', 
+                          11 => 'btn-warning', 
+                          12 => 'btn-warning', 
+                          13 => 'btn-warning', 
+                          14 => 'btn-warning', 
+                          15 => 'btn-warning');
+
+
+
 $style['jer']     = 'btn-success';
 $style['zak']     = 'btn-success';
 $style['1thess']  = 'btn-warning';

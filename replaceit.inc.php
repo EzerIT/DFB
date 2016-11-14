@@ -70,6 +70,19 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/JHVH/i';
     $to[] = '<span class="thename"></span>';
 
+
+    $from[] = '/HERRENS/';
+    $to[] = '<span class="thenames"></span>';
+
+    $from[] = '/HERRES/';
+    $to[] = '<span class="thenamevs"></span>';
+
+    $from[] = '/HERRE/';
+    $to[] = '<span class="thenamev"></span>';
+
+    $from[] = '/HERREN/';
+    $to[] = '<span class="thename"></span>';
+
     $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
 

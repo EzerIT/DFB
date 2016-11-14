@@ -1,53 +1,234 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 27.04.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2016>!!
 
-===Esajas' Bog, kapitel 1===
+===Esajas’ Bog, kapitel 1===
 
+v1 Esajas', Amos' søns, syn, som han så om Juda og Jerusalem dengang Uzzija, Jotam, Akaz og Hizkija var konger i Juda.
 
-==Esajas, som profeterede fra kong Usias's til Ezekias's tid, klager over jødernes store utaknemmelighed og ulydighed mod JHVH og over, at de ikke tog hans irettesættelser til sig. De var blevet helt forkvaklede, og der var kun få frelste.==
+==Det syndige folk==
 
+v2 Hør, I himle! Og lyt, du jord!
 
-v1 Esajas', Amoz' søns, syn, som han så om Juda og Jerusalem i de dage da Usias, Jotham, Akas og Ezekias var konger i Juda.
+For JHVH har talt; jeg har opdraget børn og opfostret dem,
+
+men de har gjort oprør imod mig.
+
+v3 En okse kender sin ejermand
+
+og et æsel sin herres krybbe;
+
+men Israel kender ingenting,
+
+mit folk forstår ikke noget.
+
+v4 Ve et syndigt folkeslag,
+
+et folk tynget af skyld,
+
+en slægt af onde mennesker,
+
+vanartede børn!
+
+De forlod JHVH,
+
+de foragtede Israels Hellige,
+
+de har vendt sig væk fra ham.
+
+v5 Hvorfor vil I prygles endnu mere?
+
+Hvorfor vil I fortsætte frafaldet?
+
+Hele hovedet er sygt, og hele hjertet er svagt.
+
+v6 Fra fodsål til hoved er intet uskadt på jer:
+
+Sår og skrammer og friske hug!
+
+De er ikke klemt ud og ikke forbundet,
+
+ikke lindret med olie.
+
+v7 Jeres land er en ørken,
+
+jeres byer er nedbrændte;
+
+fremmede æder jeres land op for øjnene af jer,
+
+det er en ødemark, som når fremmede har hærget.
+
+v8 Og Zions datter er blevet tilbage som en hytte i en vingård,
+
+som et skur{T: Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.} i en agurkehave,
+
+som en belejret by.
+
+v9 Hvis ikke Hærskarers HERRE havde efterladt nogle få overlevende hos os,
+
+havde vi været som Sodoma,
+
+havde lignet Gomorra.
 
 ***
 
-v2 Hør, I himle! Og mærk, du jord! For JHVH har talt; jeg har opdraget børn og opfostret dem, men de har sat sig op imod mig.
-v3 En okse kender sin ejermand og et æsel sin herres krybbe; Israel kender ingenting, mit folk forstår ikke noget.
-v4 Ve et syndigt folk, et folk med stor misgerning, en slægt af onde mennesker, vanartede børn! De forlod JHVH, de foragtede Israels Hellige, de har trukket sig tilbage fra ham.
-v5 Hvorfor vil I prygles endnu mere? Hvorfor vil I øge jeres frafald? Hvert hoved er sygt, og hvert hjerte er svagt.
-v6 Fra fodsål til hoved er intet helt på jer: Sår og skrammer og friske hug! De er ikke klemt ud og ikke forbundet og ikke lindret med olie.
-v7 Jeres land er en ørken, jeres byer er brændt ned med ild; fremmede æder jeres land op for øjnene af jer, og der er en ødemark, som når fremmede har hærget. 
-v8 Og Zions datter er blevet tilbage som en hytte i en vingård, som et natskur i en græskarhave, som en reddet by.
-v9 Hvis ikke JHVH Zebaoth havde ladet en lille rest blive tilbage til os, havde vi været som Sodoma, havde lignet Gomorra.
+v10 Hør JHVHs ord, I Sodomas fyrster!
 
+Lyt til vores Guds lov, I Gomorras folk!
 
-==JHVH forkaster deres hykleriske gudsdyrkelse og formaner dem til en sand og alvorlig omvendelse, så skal de finde nåde og syndernes forladelse; hvis ikke, bliver de straffet hårdt.==
+v11 Hvad skal jeg med alle jeres mange ofre?
 
-v10 I Sodomas fyrster, hør JHVHs ord! I Gomorras folk, lyt til Guds lov! 
-v11 Hvad skal jeg med alle jeres mange ofre? siger JHVH; jeg er mæt af vædder-brændofre og af fedekalves fedt, og blod af okser og lam og bukke har jeg ikke lyst til.
-v12 Når I kommer for at vise jer for mit ansigt, hvem har da forlangt at I skulle trampe mine forgårde ned?
-v13 Kom ikke frem med unyttigt madoffer, det er en modbydelig røgelse for mig; nymåner og sabbatter og festforsamlinger – jeg tåler ikke uret og højtid.
-v14 Min sjæl hader jeres nymåner og jeres højtider; de er blevet en byrde for mig, jeg er træt af at bære dem.
-v15 Og når I strækker jeres hænder ud, skjuler jeg mine øjne for jer; hvor meget I end beder, hører jeg det ikke; jeres hænder er fulde af blod.
-v16 Vask jer, rens jer, fjern jeres gerningers ondskab fra mine øjne, hold op med at handle ondt!
-v17 Lær at gøre godt, søg det rigtige, retled den vanartede, skaf den faderløse ret, før enkens sag!
-v18 Kom dog, og lad os gå i rette med hinanden, siger JHVH. Om jeres synder så var som purpur, skal de blive hvide som sne; selvom de var røde som skarlagen, skal de blive hvide som uld.
-v19 Hvis I er villige og lydige, skal I få landets goder at spise.
-v20 Men hvis I er uvillige og trodsige, skal I fortæres af sværdet; for JHVHs mund har talt.
+siger JHVH;
 
+jeg er mæt af brændofre af væddere
 
-==JHVH klager over deres griskhed, mord og frafald og dømmer dem til en hård straf, men de bodfærdige lover han nåde.==
+og fedtet af fedekvæg;
 
-v21 Hvordan er det gået til, at den trofaste by blevet en luder? Den var fuld af ret, den var hjem for retfærdighed, men nu er der mordere.
-v22 Dit sølv er blevet til slagger, din drik er spædet op med vand.
-v23 Dine fyrster er oprørere og holder til med tyveknægte, alle elsker de bestikkelse og jag efter gaver; de vil ikke skaffe den faderløse ret, og enkens sag må ikke komme for dem.
-v24 Derfor siger Herren, JHVH Zebaoth, den mægtige i Israel: Ve! Jeg vil kølne min vrede på mine modstandere og hævne mig på mine fjender.
-v25 Og jeg vil igen vende min hånd imod dig og smelte dine slagger af som med ludsalt og udskille alt dit tin.
-v26 Og jeg vil igen give dig dommere som i den første tid og rådsherrer som i begyndelsen; derefter skal du kaldes retfærdigheds by, en trofast by.
-v27 Zion skal forløses ved ret og de omvendte i den ved retfærdighed.
-v28 Men alle overtrædere og syndere skal knuses, og de der forlader JHVH, skal omkomme.
-v29 For de skal blive til skamme på grund af de terebinter som I havde lyst til, og I skal beskæmmes på grund af de haver der var jeres glæde.
-v30 I skal nemlig blive som en terebinte der fælder sit blad, og som en have hvor der ikke er vand.
-31 Og den stærke skal blive til blår og hans gerning til en gnist; og begge dele skal brænde sammen, og der skal ikke være nogen der slukker.
+blod af okser og lam og bukke
+
+har jeg ikke lyst til.
+
+v12 Når I kommer for at vise jer for mit ansigt,
+
+hvem har da forlangt af jer
+
+at mine forgårde skulle trampes ned?
+
+v13 Bliv ikke ved med at komme frem med unyttigt madoffer,
+
+røgelsen er afskyelig for mig;
+
+nymåner og sabbatter og festforsamlinger
+
+– jeg tåler ikke uret og højtid.
+
+v14 Min sjæl hader jeres nymåner og jeres højtider;
+
+de er blevet en byrde for mig,
+
+jeg er træt af at bære dem.
+
+v15 Og når I strækker jeres hænder ud,
+
+skjuler jeg mine øjne for jer;
+
+hvor meget I end beder, hører jeg det ikke;
+
+jeres hænder er fulde af blod.
+
+v16 Vask jer, rens jer,
+
+fjern jeres gerningers ondskab fra mine øjne,
+
+hold op med at handle ondt!
+
+v17 Lær at gøre godt,
+
+stræb efter ret,
+
+retled den vanartede,
+
+skaf den faderløse ret,
+
+før enkens sag!
+
+***
+
+v18 Kom dog, og lad os gå i rette med hinanden,
+
+siger JHVH.
+
+Er jeres synder som purpur,
+
+skal de blive hvide som sne;
+
+er de røde som skarlagen,
+
+skal de blive som uld.
+
+v19 Hvis I er villige og lydige,
+
+skal I få landets goder at spise.
+
+v20 Men hvis I er uvillige og trodsige,
+
+skal I fortæres{E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.} af sværdet;
+
+for JHVHs mund har talt.
+
+v21 Hvordan er den trofaste by blevet en luder?
+
+Den var fuld af ret,
+
+retfærdighed boede i den,
+
+men nu er der mordere.
+
+v22 Dit sølv er blevet til slagger,
+
+din drik er fortyndet med vand.
+
+v23 Dine fyrster er genstridige
+
+ og er i ledtog med tyveknægte;
+
+alle elsker de bestikkelse
+
+og jager efter gaver;
+
+de vil ikke skaffe den faderløse ret,
+
+og enkens sag kommer ikke for dem.
+
+v24 Derfor siger Herren,
+
+Hærskarers HERRE, Israels Mægtige:
+
+Ve dem! Jeg vil gøre gengæld mod mine modstandere
+
+og hævne mig på mine fjender.
+
+v25 Og jeg vil vende min hånd imod dig
+
+og smelte dine slagger af med ludsalt
+
+og udskille alt dit tin.
+
+v26 Jeg vil give dig dommere som i den første tid
+
+og rådsherrer som i begyndelsen;
+
+derefter skal du kaldes retfærdigheds by,
+
+en trofast by.
+
+v27 Zion skal forløses ved ret
+
+og de omvendte i den ved retfærdighed.
+
+v28 Men overtræderne og synderne skal knuses,
+
+og de, der forlader JHVH, skal omkomme.
+
+v29 For de skal blive til skamme på grund af de terebinter{T: Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.}
+
+som I begærede,
+
+og I skal blive skamfulde på grund af de haver
+
+der var jeres glæde.
+
+v30 For I skal blive som en terebinte der taber sine blade,
+
+og som en have hvor der ikke er vand.
+
+v31 Og den stærke skal blive til blår,
+
+hans gerning til en gnist;
+
+begge dele skal brænde,
+
+og der skal ikke være nogen der slukker.
+

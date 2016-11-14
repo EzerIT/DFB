@@ -1,27 +1,67 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 27.04.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2016>!!
 
-===Esajas' Bog, kapitel 6===
+===Esajas, kapitel 6===
 
+==Esajas kaldes til profet==
 
-==Esajas ser Guds herlighed, hører englenes lovsang og beklager sin og sit folks urenhed, og en engel trøster ham.==
+v1 I kong Uzzijas dødsår så jeg Herren sidde på en høj og ophøjet trone, og hans slæb fyldte templet. v2 Der stod serafer over ham. Hver af dem havde seks vinger; og med to skjulte de ansigtet, med to skjulte de deres fødder, og med to fløj de. v3 Og de råbte til hinanden og sagde:{T: Ordret: >>Denne råbte til denne og sagde.<<}
 
+>>Hellig, hellig, hellig er Hærskarers HERRE; hele jorden er fuld af hans hærlighed.<<
 
-v1 I det år hvor kong Usias døde, da så jeg JHVH sidde på en høj og ophøjet trone, og slæbet på hans kåbe fyldte templet.
-v2 Seraferne stod over ham. Hver af dem havde seks vinger; med to skjulte hver sit ansigt, og med to skjulte hver side fødder, og med to fløj han.
-v3 Og den ene råbte til den anden og sagde: Hellig, hellig, hellig er JHVH Zebaoth; hele jorden er fuld af hans ære.
-v4 Og dørposterne med dørtærsklerne dirrede ved lyden af den der råbte, og huset blev fuldt af røg.
-v5 Da sagde jeg: Ve mig, for jeg er fortabt! Jeg har jo urene læber og bor midt iblandt et folk der har urene læber; for mine øjne har set Kongen, JHVH Zebaoth.
-v6 Så fløj en af seraferne hen til mig. I sin hånd havde han en en glød han havde taget fra alteret med en tang.
-v7 Og han lod den røre ved min mund og sagde: Se, denne glød har rørt ved dine læber, og din misgerning er fjernet, og din synd skal sones.
+v4 Og dørposterne med dørtærsklerne rystede ved lyden af den der råbte, og huset blev fuldt af røg. v5 Da sagde jeg:
 
-==JHVH kalder ham til fortsat at prædike for det genstridige folk, hvor kun få i det skal frelses.==
+>>Ve mig, for det er ude med mig!
 
-v8 Og jeg hørte JHVHs stemme, som sagde: Hvem skal jeg sende? Og hvem vil gå for os? Da sagde jeg: Se, her er jeg, send mig!
-v9 Og han sagde: Gå hen og sig til dette folk: I skal høre og høre, men ikke forstå, se og se, men ikke indse! 
-v10 Gør dette folks hjerte fedt, og gør dets ører tunghøre, og smør dets øjne ind så det ikke ser med dets øjne og hører med dets ører og forstår med dets hjerte så det omvender sig og bliver helbredt.
-v11 Men jeg sagde: Hvor længe, JHVHv? Og han sagde: Indtil byerne bliver øde uden indbyggere og husene uden beboere, og landet ødelægges helt,
-v12 og JHVH har ført folket langt bort, og tomheden er blevet stor i landet.
-v13 Og bliver der en tiendedel til overs i det, skal også den ødelægges. Men ligesom der bliver en stub tilbage af terebinten og stenegen når de er fældet, sådan skal denne stub være hellig sæd.
+For jeg er en mand med urene læber,
+
+og jeg bor midt iblandt et folk der har urene læber.
+
+Og nu har mine øjne set Kongen, Hærskarers HERRE.<<{T: Ordret: >>For mine øjne har set Kongen…<<.}
+
+v6 Så fløj en af seraferne hen til mig. I sin hånd havde han et stykke glødende kul, han havde taget fra alteret med en tang. v7 Og han berørte min mund og sagde:
+
+>>Se, dette kul har rørt ved dine læber;
+
+ din skyld er fjernet,
+
+og din synd er sonet.<<
+
+***
+
+v8 Og jeg hørte JHVHs stemme, som sagde: >>Hvem skal jeg sende? Og hvem vil gå for os?<< Da sagde jeg: >>Se, her er jeg, send mig!<< v9 Og han sagde:
+
+>>Gå hen og sig til dette folk:
+
+I skal høre og høre, men ikke forstå,
+
+se og se, men ikke erkende!
+
+v10 Gør dette folks hjerte fedt,
+
+gør dets ører tunghøre, og smør dets øjne ind,
+
+så det ikke ser med dets øjne og hører med dets ører
+
+og forstår med dets hjerte,
+
+så det omvender sig, og han må helbrede det.<<
+
+v11 Men jeg spurgte: >>Hvor længe, JHVHv?<< Og han svarede:
+
+>>Indtil byerne ligger øde uden indbyggere,
+
+husene uden beboere,
+
+landet er helt ødelagt,
+
+v12 JHVH har ført folket langt bort,
+
+og der er mange forladte steder i landet.
+
+v13 Og bliver der en tiendedel til overs i det, skal også den ødelægges.{T: Ordret: >>brændes ned<<.}
+
+Men ligesom der bliver en stub tilbage af terebinten og stenegen når de er fældet, sådan skal denne stub være hellig sæd.<<
