@@ -14,7 +14,7 @@ function showselected($ix,$val) {
     return $_SESSION[$ix]==$val ? 'selected="selected"' : '';
 }
 
-makeheadstart('Den Frie Bibel',true);
+makeheadstart('Læseoplevelse',true);
 makeheadend();
 makemenus(1);
 ?>

@@ -4,7 +4,7 @@ require_once('oversigt.inc.php');
 
 define('CHAP_PER_LINE', 7);
 
-makeheadstart('Den Frie Bibel');
+makeheadstart('Bibeltekst');
 makeheadend();
 makemenus(2);
 ?>

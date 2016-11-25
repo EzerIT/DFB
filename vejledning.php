@@ -1,7 +1,7 @@
 <?php
 require_once('head.inc.php');
 
-makeheadstart('Vejledning for bidragydere &ndash; Den Frie Bibel');
+makeheadstart('Vejledning for bidragydere');
 makeheadend();
 makemenus(3);
 ?>
