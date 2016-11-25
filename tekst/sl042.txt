@@ -1,0 +1,104 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.11.2016>!!
+
+===Salme 42===
+{T: Salmen er holdt i samme tone og stil som Sl 43 og hører formentlig nært sammen med den. De to salmer opfattes ofte som én salme.}
+
+==Overskrift==
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
+
+Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Koras sønner. 
+
+==Skilt fra Gud==
+v2 Ligesom en hjort skriger efter vandløb.{E: Vendingen og betydningen af *ʔᵃfîqê-māyim* (>>vandløb<<)er omdiskuteret. Nogle oversættere forstår det som >>rindende vand<<, andre som >>udtørrede vandløb<<. Også forståelsen af præpositionen *ʕal*, der oftest betyder >>på, over<<, men i sjældnere tilfælde betyder >>efter<<, spiller ind. Men da der ikke i sammenhængen er tale om udtørring, synes det nærliggende at forstå hjortens skrig som skrig efter rindende vand.}
+
+sådan skriger min sjæl til dig, o Gud!
+
+v3 Min sjæl har tørstet efter Gud,
+
+efter den levende Gud.
+
+Hvornår skal jeg dog komme
+
+og vise mig{E: Verbet er i den hebraiske tekst vokaliseret som nif’al, hvor det betyder: >>blive set/vise sig<<. Det giver god mening, idet der tænkes på at komme til templet, altså komme frem for Gud (5 Mos 12,12). Nogle få håndskrifter har dog vokaliseret som *qal*, og det følges af mange oversættere: >>og se Guds ansigt<<.} for Guds ansigt?
+
+v4 Tårer er blevet mit brød
+
+dag og nat,
+
+idet man hele dagen siger til mig:
+
+>>Hvor er din Gud?<<
+
+v5 Dette vil jeg huske
+
+og udøse min sjæl over mig:{T: Udøse fortvivlelse over den nuværende tilstand.}
+
+At jeg plejede at gå,
+
+i skaren plejede jeg at vandre med dem
+
+til Guds hus,
+
+med jubelråb og tak
+
+i festskaren.
+
+v6 Hvorfor er du nedbøjet, min sjæl,
+
+og bruser i mig?
+
+Vent på Gud, for jeg skal takke ham på ny
+
+for frelsen for hans ansigt.{E: Ordret: >>hans ansigts frelse<<. Der er formodentlig tænkt på den frelse der udgår fra Guds ansigt, dvs. fra Guds omsorg og opmærksomhed. Ofte flyttes dog første ord i v. 7, *ʔᵉlōhay*: >>min Gud<< til v. 6, hvor det afsluttende *w* (>>hans<<) knyttes til *ʔᵉlōhay* og oversættes: >>og<<. Linjen lyder så: >>mit ansigts frelse og min Gud<< (jf. v. 12 og 43,5). I denne sammenhæng angiver >>ansigt<< muligvis at Gud er digterens personlige frelser.}
+
+==Langt fra Gud==
+v7 Min Gud, min sjæl er nedbøjet i mig,
+
+derfor vil jeg huske på dig
+
+fra Jordans og Hermons land,
+
+fra Miz’ars bjerg.
+
+v8 Havdyb råber til havdyb
+
+til dine vandfalds brusen,{T: Ordret: >>røst<<.}
+
+alle dine brændinger og dine bølger
+
+er gået hen over mig.
+
+v9 Om dagen vil JHVH byde sin nåde
+
+og om natten sin sang at være hos mig,
+
+en bøn til mit livs Gud.
+
+v10 Jeg vil sige til Gud, min klippe:
+
+>>Hvorfor har du glemt mig?
+
+Hvorfor skal jeg gå sørgende,
+
+idet en fjende trænger mig?<<
+
+v11 Det er som om mine knogler knuses,{T: Ordret: >>Ved knusning i mine knogler håner mine fjender mig<<. Men med støtte i en del håndskrifter læser man som regel *kᵊ* (>>som<<) i stedet for *bᵊ* (>>ved<<). De to konsonanter ligner hinanden.}
+
+når mine fjender håner mig,
+
+idet de hele dagen siger til mig:
+
+>>Hvor er din Gud?<<
+
+v12 Hvorfor er du nedbøjet, min sjæl?
+
+Og hvorfor bruser du i mig?
+
+Vent på Gud, for jeg skal takke ham på ny,
+
+mit ansigts frelse og min Gud.
+
+

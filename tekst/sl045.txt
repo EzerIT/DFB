@@ -1,0 +1,103 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 25.11.2016>!!
+
+===Salme 45===
+
+==Overskrift==
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
+
+Al-shoshannim.{E: Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for >>lilje<< (evt. >>efter liljerne<<).}  Af Koras sønner.
+
+Maskil.{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.}
+
+En kærlighedssang.
+
+==Indledning==
+v2 Mit hjerte strømmer over med god tale,
+
+jeg siger: Mine værker er til kongen,
+
+min tunge er en hurtigskrivers pen.
+
+==Lovprisning af brudgommen og hans kongedømme==
+v3 Du er den allersmukkeste{E: Det hebraiske ord *yofyāfîtā* er besynderligt ved tilsyneladende at være sammensat af to ord: *yofî* (>>skønhed<<)og *yāfîtā* (>>du er skøn, smuk<<). Det er helt ualmindeligt i bibelsk hebraisk, men det må regnes til digterisk frihed at danne et så enestående men kraftfuldt ord som der faktisk er tale om her.} blandt menneskenes sønner,
+
+ynde er udgydt på dine læber,
+
+derfor har Gud velsignet dig til evig tid.
+
+v4 Bind dit sværd om hoften, du helt,
+
+i din majestæt og din herlighed,
+
+v5 og hav fremgang i din herlighed,{E: Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (>>og din herlighed<<). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif’il af verbet *drk*: >>spænd (buen)<<.}
+
+drag frem for sandheds skyld, og ydmyghed med retfærdighed,{E: Ordret: >>for sandhed og ydmyghed retfærdighed<<. Mange vælger at flytte >>og<<: >>for sandhed, ydmyghed og retfærdighed<<. Andre retter *wᵊʕanwāʰ*(>>og ydmyghed<<) til *wᵊjaʕan*: >>og for (retfærdigheds) skyld<<. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til >>retfærdighed<<. Derved understreges kongens ansvar som den svages forsvarer.}
+
+og din højre hånd skal lære dig frygtelige gerninger.
+
+v6 Dine pile er hvæssede,
+
+folk skal falde under dig
+
+i hjertet{E: Teksten er omdiskuteret. >>i hjertet<< må her opfattes som: >>midt blandt<<, medmindre man vil flytte den midterste linje ned som sidste linje i verset og underforstå et >>sidder<<: >>Dine hvæssede pile sidder i hjertet på kongens fjender, folk skal falde under dig<<.} af kongens fjender.
+
+v7 Din trone, gud,{E: Det er enestående i GT at kongen tiltales >>gud<< (måske bortset fra Es 9,5-6). Kongen betragtes her som Guds repræsentant og – netop fordi han er indsat af Gud – som ét med Gud.} står evigt og altid,
+
+dit kongescepter er retskaffenheds scepter.
+
+v8 Du har elsket retfærdighed og hadet ugudelighed,
+
+derfor har Gud, din Gud, salvet dig
+
+med glædens olie frem for dine medbrødre.
+
+v9 Alle dine klæder er myrra og aloe og kassia,{T: Dvs.: de dufter af >>myrra og …<<}
+
+fra elfenbenspaladser fryder strengespil dig.
+
+==Lovprisning af bruden==
+v10 Kongedøtre er blandt dine dyrebare,{E: Meningen kan være at fornemme er samlet blandt brudepigerne eller gæsterne (>>dyrebare<<) nu hvor den unge dronning træder hen til kongen. Der kunne også oversættes >>dine elskede<<, men i sammenhængen er der næppe tænkt på at kongen har mange kongedøtre i sit harem. Mange oversættere følger et forslag om at ændre *bᵊyiqqᵊrôteʸxā* (>>blandt dine dyrebare<<) til: *liqrāʔtᵊxā*: >>(går) dig i møde<<, ligesom man ofte vælger at ændre *bᵊnôt mᵊlāxîm* (>>kongedøtre<<) til: *bat-melex*: >>kongedatter<<, så sætningen lyder: >>En kongedatter går dig i møde<<. Det giver god mening, men er i virkeligheden ret vilkårligt.}
+
+ægtefællen står ved din højre hånd i Ofir-guld.
+
+v11 Hør, datter, og se til og bøj dit øre
+
+og glem dit folk og din fars hus!
+
+v12 Så skal kongen begære din skønhed,
+
+for han er din herre,
+
+og du skal kaste dig ned for ham.
+
+v13 Og Tyrus's datter,
+
+med gave søger et folks rigmænd din gunst.{E: Ordret: >>vil blødgøre dit ansigt<<. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (>>datter<<) til *bᵊnôt-* (>>døtre<<), flytte adskillelsen mellem linjerne og underforstå et >>kommer til dig<<: >>Tyrus’ døtre kommer til dig med gave, et folks rigmænd søger din gunst<<.}
+
+v14 En kongedatter er lutter pragt i det indre,{E: Ordret: >>al pragt en kongedatter i det indre/indadtil<<. Der er intet verbum som derfor må underforstås, enten >>er<< eller >>(I al sin pragt) træder (en kongedatter) ind<<.}
+
+hendes gevandt er tilvirket med guld.
+
+v15 I brogede klæder føres til kongen
+
+jomfruerne, hendes veninder, efter hende,
+
+de føres til dig.
+
+v16 De føres frem med glæde og jubel,
+
+de kommer ind i kongens palads.
+
+==Afsluttende ord til brudgommen==
+v17 Dine sønner skal være i dine fædres sted,
+
+du skal sætte dem til fyrster i hele landet.{T: Oversættes undertiden: >>over hele jorden<<, men præpositionen *bᵊ* betyder: >>i<<.}
+
+v18 Jeg vil lade dit navn blive husket i slægt efter slægt,
+
+derfor skal folk prise dig evigt og altid.
+
+

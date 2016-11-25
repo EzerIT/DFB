@@ -92,6 +92,7 @@ echo <<<END
                <!--li><a href="faq.php">Hyppigt stillede spørgsmål</a></li-->
                <li><a href="modenhed.php">Tekstens modenhed</a></li>
                <li><a href="vejledning.php">Vejledning for bidragydere</a></li>
+               <li><a href="forprogrammoerer.php">For programmører</a></li>
              </ul>
            </li>
         </ul>
