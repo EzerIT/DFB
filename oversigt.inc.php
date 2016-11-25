@@ -29,6 +29,10 @@ $title['zak']     = 'Zakarias&rsquo; Bog';
 $title['NT']      = 'Det Nye Testamente';
 $title['1thess']  = 'Første Thessalonikerbrev';
 
+$style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
+$style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
+
+
 $chaptype['dom']  = 'kapitel';
 $chaptype['ruth'] = 'kapitel';
 $chaptype['sl']   = 'salme';

@@ -2,6 +2,8 @@
 
 require_once('../oversigt.inc.php');
 
+$include_status = array('btn-warning','btn-info','btn-success');
+
 function replaceittex($filename, $chtype/*, &$title*/) {
     $txt = file_get_contents($filename);
 
@@ -14,14 +16,14 @@ function replaceittex($filename, $chtype/*, &$title*/) {
     $from[] = '/(!!<.*>!!)/';
     $to[] = '%\1'."\n";
 
-    $from[] = '/===.*(apitel|alme) (.*)===\s*{E:\s*([^}]+)}/';
-    $to[] = '\needspace{5\baselineskip}\section[' . $chtype . ' \2]{' . $chtype. ' \2\pagenote{\3}Z1Z}';
+    $from[] = '/===.*(apitel|alme) (.*){E:\s*([^}]+)}===/';
+    $to[] = '\needspace{7\baselineskip}\section[' . $chtype . ' \2]{' . $chtype. ' \2\pagenote{\3}Z1Z}';
 
-    $from[] = '/===.*(apitel|alme) (.*)===\s*{T:\s*([^}]+)}/';
+    $from[] = '/===.*(apitel|alme) (.*){T:\s*([^}]+)}===/';
     $to[] = '\needspace{7\baselineskip}\section[' . $chtype . ' \2]{' . $chtype. ' \2\footnote{\3}Z1Z}'; // Extra space needed here
 
     $from[] = '/===.*(apitel|alme) (.*)===/';
-    $to[] = '\needspace{5\baselineskip}\section{' . $chtype . ' \2}';
+    $to[] = '\needspace{6\baselineskip}\section{' . $chtype . ' \2}';
 
     $from[] = '/==/';
     $to[] = '@';
@@ -171,6 +173,18 @@ echo<<<'END'
       \or da\or db\or dc\or dd\or de\or df\or dg\or dh\or di\or dj%
       \or dk\or dl\or dm\or dn\or do\or dp\or dq\or dr\or ds\or dt%
       \or du\or dv\or dw\or dx\or dy\or dz\or dæ\or dø\or då%
+      \or ea\or eb\or ec\or ed\or ee\or ef\or eg\or eh\or ei\or ej%
+      \or ek\or el\or em\or en\or eo\or ep\or eq\or er\or es\or et%
+      \or eu\or ev\or ew\or ex\or ey\or ez\or eæ\or eø\or eå%
+      \or fa\or fb\or fc\or fd\or fe\or ff\or fg\or fh\or fi\or fj%
+      \or fk\or fl\or fm\or fn\or fo\or fp\or fq\or fr\or fs\or ft%
+      \or fu\or fv\or fw\or fx\or fy\or fz\or fæ\or fø\or få%
+      \or ga\or gb\or gc\or gd\or ge\or gf\or gg\or gh\or gi\or gj%
+      \or gk\or gl\or gm\or gn\or go\or gp\or gq\or gr\or gs\or gt%
+      \or gu\or gv\or gw\or gx\or gy\or gz\or gæ\or gø\or gå%
+      \or ha\or hb\or hc\or hd\or he\or hf\or hg\or hh\or hi\or hj%
+      \or hk\or hl\or hm\or hn\or ho\or hp\or hq\or hr\or hs\or ht%
+      \or hu\or hv\or hw\or hx\or hy\or hz\or hæ\or hø\or hå%
       \else\@ctrerr\fi
 }
 \makeatother
@@ -192,7 +206,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{02.09.2016}
+\date{25.12.2016}
 
 
 \begin{document}
@@ -207,17 +221,20 @@ echo<<<'END'
 \input{forord.tex}%
 
 
-\part{Det Gamle Testamente}
-
-
-
 END;
 
-foreach ($chap as $bookabb => $chapters) {
-    if (is_array($style[$bookabb]) || $style[$bookabb]==='btn-success') {
+foreach ($title as $bookabb => $tit) {
+    if ($bookabb=='GT' || $bookabb=='NT') {
+        if (in_array($style[$bookabb],$include_status))
+            echo '\part{' . $tit . "}\n\n";
+        continue;
+    }
+
+    if (is_array($style[$bookabb]) || in_array($style[$bookabb],$include_status)) {
         $text = '';
-        foreach ($chapters as $ch) {
-            if (is_array($style[$bookabb]) && $style[$bookabb][$ch]==='btn-success' || $style[$bookabb]==='btn-success') {
+        foreach ($chap[$bookabb] as $ch) {
+            if (is_array($style[$bookabb]) && in_array($style[$bookabb][$ch],$include_status)
+                || in_array($style[$bookabb],$include_status)) {
                 $text .= replaceittex(sprintf('../tekst/%s%03d.txt',$bookabb,$ch), ucfirst($chaptype[$bookabb]));
             }
         }

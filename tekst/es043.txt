@@ -36,7 +36,7 @@ v23 Du kom ikke med får til mig til dine brændofre, du ærede mig heller ikke 
 v24 Du købte ikke kalmus {T: En vellugtende plante, hvis rod også brugtes som lægemiddel} til mig for penge, du gav mig ikke dine slagtofres fedt i overflod; men du plagede mig med dine synder, du gav mig besvær med dine misgerninger.
 v25 Det er mig, det er mig, der udsletter dine overtrædelser for min egen skyld, og jeg vil ikke huske på dine synder.
 v26 Mind mig om det; lad os føre retssag med hinanden; regn det op, så du må stå retfærdiggjort.
-v27 Din første far [T: Jakob} syndede, og dine talsmænd har forbrudt sig imod mig.
+v27 Din første far {T: Jakob} syndede, og dine talsmænd har forbrudt sig imod mig.
 v28 Derfor vil jeg vanhellige de hellige fyrster og overgive Jakob til bandlysning og Israel til spot.
 
 
