@@ -14,6 +14,9 @@ $chap['zak']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14);
 
 $chap['1thess']      = array(1, 2, 3, 4, 5);
 
+$total_chap_ot = 929;
+$total_chap_nt = 260;
+
 
 
 $title['GT']      = 'Det Gamle Testamente';

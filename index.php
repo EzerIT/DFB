@@ -1,5 +1,6 @@
 <?php
 require_once('head.inc.php');
+require_once('oversigt.inc.php');
 
 makeheadstart('Den Frie Bibel');
 makeheadend();
@@ -93,6 +94,30 @@ makemenus(0);
           <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
           
           <p>Bemærk at bibeloversættelsen løbende bliver revideret og opdateret.</p>
+        </div>
+      </div>
+   
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Hvor langt er vi?</h3>
+        </div>
+        <div class="panel-body">
+          <?php
+            $otcount = 0;
+            $ntcount = 0;
+            foreach ($title as $key => $ignore) {
+                if ($key=='GT')
+                    $curcount = &$otcount;
+                elseif ($key=='NT')
+                    $curcount = &$ntcount;
+                else
+                    $curcount += count($chap[$key]);
+            }
+          ?>
+          <p>GT: Vi har <?= $otcount ?> kapitler ud af <?= $total_chap_ot ?>.</p>
+          <p><progress value="<?= $otcount ?>" max="<?= $total_chap_ot ?>"></progress> <?= round($otcount*100/$total_chap_ot) ?>%</p>
+          <p>NT: Vi har <?= $ntcount ?> kapitler ud af <?= $total_chap_nt ?>.</p>
+          <p><progress value="<?= $ntcount ?>" max="<?= $total_chap_nt ?>"></progress> <?= round($ntcount*100/$total_chap_nt) ?>%</p>
         </div>
       </div>
     </div>
