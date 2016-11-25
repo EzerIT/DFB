@@ -2,10 +2,9 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Dato for denne version: 29.08.2016>!!
-===Salme 6===
+===Salme 6{E: Salmen hører til den kristne kirkes syv bodssalmer (32; 38; 51; 102; 130; 143).}===
 
-{E: Salmen hører til den kristne kirkes syv bodssalmer (32; 38; 51; 102; 130; 143).}
-
+==Overskrift==
 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}. Til strengespil. Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. Salme af David.
 
 ==Klage og bøn==

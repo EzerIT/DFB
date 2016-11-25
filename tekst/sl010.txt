@@ -2,9 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Dato for denne version: 29.08.2016>!!
-===Salme 10===
-
-{E: Salmen er uden overskrift. Sl 9 og 10 regnes ofte for én salme. De er begge alfabetiske, Sl 9 når halvt gennem alfabetet, og Sl 10 gennem den anden halvdel, dog med en del uregelmæssigheder.}
+===Salme 10 {E: Salmen er uden overskrift. Sl 9 og 10 regnes ofte for én salme. De er begge alfabetiske, Sl 9 når halvt gennem alfabetet, og Sl 10 gennem den anden halvdel, dog med en del uregelmæssigheder.}===
 
 ==Klage over de ugudeliges ondskab og magt==
 v1 Hvorfor, JHVHv, står du så langt borte?
@@ -60,7 +58,7 @@ v11 Han siger i sit hjerte: >>Gud har glemt det,
 han har skjult sit ansigt, han ser det ikke i evighed<<.
 
 ==Bøn om Guds indgreb==
-V12 Rejs dig, JHVHv! Gud, løft din hånd,
+v12 Rejs dig, JHVHv! Gud, løft din hånd,
 
 glem ikke de elendige!
 

@@ -3,8 +3,7 @@
 !!<Literært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 25.11.2016>!!
 
-===Salme 37===
-{T: Salmen er alfabetisk, så v. 1 begynder med alfabetets første bogstav, og derefter begynder stort set hvert andet vers med det hebraiske alfabets næste bogstav}
+===Salme 37{T: Salmen er alfabetisk, så v. 1 begynder med alfabetets første bogstav, og derefter begynder stort set hvert andet vers med det hebraiske alfabets næste bogstav}===
 
 ==Overskrift==
 v1 Af David.

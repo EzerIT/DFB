@@ -100,7 +100,7 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
         vertical-align: baseline;
     }
 
-    .refnum {
+    .refnum, .refnumhead {
         position: relative;
         left: 2px;
         bottom: 1ex;
@@ -108,10 +108,11 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
         font-size: .7em;
         font-weight: bold;
         text-decoration: underline;
+        text-transform: lowercase;
         cursor: pointer;
     }
 
-    .refbody {
+    .refbody, .refbodyhead {
         text-indent: 0;
         font-size: small;
         font-weight: normal;
@@ -185,12 +186,18 @@ makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap
             <?php endif; ?>
 
 
+        $(".refbodyhead").hide();
         $(".refbody").hide();
         $(".refnum").click(function(event) {
             $(this.nextSibling).toggle();
             event.stopPropagation();
         });
+        $(".refnumhead").click(function(event) {
+            $(".refbodyhead").toggle();
+            event.stopPropagation();
+        });
         $("body").click(function(event) {
+            $(".refbodyhead").hide();
             $(".refbody").hide();
         });
 

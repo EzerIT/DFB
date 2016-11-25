@@ -9,11 +9,29 @@ function replaceit($filename, $chapter, &$title, &$credit) {
         die;
     }
 
+    global $nextletter;
+    $nextletter = 'a';
+    global $nextnumber;
+    $nextnumber = 1;
+
     preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
     $credit = $meta_matches[1];
-
-    preg_match('/===(.*)===/',$txt,$tit);
-    $title = $tit[1];
+    
+    if (preg_match('/===(.*)\s*{T: *([^}]+)}===/',$txt,$tit)) {
+        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead">[1]</span></span>';
+        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        ++$nextnumber;
+    }
+    elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
+        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead">[a]</span></span>';
+        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        ++$nextletter;
+    }
+    else {
+        preg_match('/===(.*)===/',$txt,$tit);
+        $title = $tit[1];
+        $refbodyhead = '';
+    }
 
     $from[] = '/!!<.*>!!/';
     $to[] = '';
@@ -21,8 +39,11 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/===(.*)===/';
     $to[] = '';
 
-    $from[] = '/==/';
-    $to[] = '@';
+    $from[] = '/^\s*==/m';
+    $to[] = "\n@";
+
+    $from[] = '/==\s*$/m';
+    $to[] = "@\n";
 
     $from[] = '/>>>/';
     $to[] = '»›';
@@ -83,7 +104,7 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/HERREN/';
     $to[] = '<span class="thename"></span>';
 
-    $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
+    $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
 
     $from[] = '/\n *\n/';
@@ -97,25 +118,20 @@ function replaceit($filename, $chapter, &$title, &$credit) {
 
     $from[] = '/^ *([^\n@]+) *$/m';
     $to[] = '<div class="paragraph">\1</div>';
-
+ 
     $from[] = '/@([^@]+)@/';
     $to[] = '<h2>\1</h2>';
-
+ 
     $from[] = '/--/';
     $to[] = '&ndash;';
-
+ 
     $from[] = '/(\s)-(\s)/';
     $to[] = '\1&ndash;\2';
-
+ 
     $from[] = '/\.\.\./';
     $to[] = '…';
-    
-    $txt = preg_replace($from, $to, $txt);
 
-    global $nextletter;
-    $nextletter = 'a';
-    global $nextnumber;
-    $nextnumber = 1;
+    $txt = $refbodyhead . preg_replace($from, $to, $txt);
 
     $txt = preg_replace_callback('/REFALET/',
                                  function ($matches) {

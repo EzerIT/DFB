@@ -3,8 +3,7 @@
 !!<Literært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 25.11.2016>!!
 
-===Salme 43===
-{T: Salmen er holdt i samme tone og stil som Sl 42 og hører formentlig nært sammen med den. De to salmer opfattes ofte som én salme.}
+===Salme 43{T: Salmen er holdt i samme tone og stil som Sl 42 og hører formentlig nært sammen med den. De to salmer opfattes ofte som én salme.}===
 
 ==Bøn om at måtte komme til Gud igen==
 v1 Skaf mig ret,{T: Kan også oversættes: >>døm mig<<.} Gud!

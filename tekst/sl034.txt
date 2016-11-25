@@ -3,9 +3,7 @@
 !!<Literært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 25.11.2016>!!
 
-===Salme 34===
-
-{T: Salmen er alfabetisk, så v. 2 begynder med alfabetets første bogstav, v.3 med det andet osv.}
+===Salme 34{T: Salmen er alfabetisk, så v. 2 begynder med alfabetets første bogstav, v.3 med det andet osv.}===
 
 ==Overskrift==
 v1 Af David.
