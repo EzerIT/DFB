@@ -41,6 +41,14 @@ $chaptype['jer']  = 'kapitel';
 $chaptype['zak']  = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
 
+$abbrev['dom']  = 'Dom';
+$abbrev['ruth'] = 'Ruth';
+$abbrev['sl']   = 'Sl';
+$abbrev['es']   = 'Es';
+$abbrev['jer']  = 'Jer';
+$abbrev['zak']  = 'Zak';
+$abbrev['1thess'] = '1 Thess';
+
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 $style['sl']      = array( 1 => 'btn-success',
