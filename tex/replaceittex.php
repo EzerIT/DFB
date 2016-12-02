@@ -2,7 +2,7 @@
 
 require_once('../oversigt.inc.php');
 
-$include_status = array('btn-warning','btn-info','btn-success');
+$include_status = array(/*'btn-warning',*/'btn-info','btn-success');
 
 function replaceittex($filename, $chtype) {
     $txt = file_get_contents($filename);

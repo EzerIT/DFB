@@ -16,11 +16,9 @@ makemenus(4);
             <div class="panel-body">
               <h1>Andre formater</h1>
               
-              <p>Det er tanken at Den Frie Bibel med tiden ikke kun skal være tilgængelig som et
-              antal websider, men også skal kunne downloades i forskellige formater. Således
-              forventer vi snart at have en PDF-version klar.</p>
-    
-              <p>Men allerede nu findes Dommerbogen som lydbog, indtalt af Nicklas Lautrup-Meiner.
+              <p>En PDF-fil med de bibeltekster der er markeret »færdig« eller »delvis færdig« kan downloades <a href="dfb.pdf">her</a>.</p>
+
+              <p>Dommerbogen findes som lydbog, indtalt af Nicklas Lautrup-Meiner.
               Bogen kan hentes gratis hos <a href="https://www.saxo.com/dk/dommerbogen-den-frie-bibel_lydbog-download_9788771960266" target="_blank">Saxo</a>.</p>
               
             </div>
