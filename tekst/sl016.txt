@@ -20,7 +20,7 @@ v3 De hellige, de som er i landet,
 
 og de ædle har jeg alt mit velbehag i<<.
  
-v4 Mangfoldige bliver deres smerter, som bejler til en anden.{T: Underforstået >>en anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<}
+v4 Mangfoldige bliver deres smerter, som bejler til en anden.{T: Underforstået >>en anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<.}
 
 Jeg vil ikke udgyde deres drikofre af blod
 
@@ -52,7 +52,7 @@ ja, mit kød skal bo i tryghed.
 
 v10 For du vil ikke overlade min sjæl til dødsriget,{E: Hebraisk: *šᵊʔôl*.}
 
-du vil ikke lade din hellige se graven.{E: Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX}.
+du vil ikke lade din hellige se graven.{E: Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX.}
 
 v11 Du vil lære mig livets vej,
 

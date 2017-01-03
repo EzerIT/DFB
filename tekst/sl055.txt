@@ -1,0 +1,147 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 03.01.2017>!!
+
+===Salme 55===
+
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.} Med strengespil.
+
+Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<< idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer, der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af David.
+
+==Bøn og klage==
+v2 Hør, Gud, min bøn,
+
+og skjul dig ikke for min tryglen.
+
+v3 Lyt til mig og svar mig,
+
+jeg drives omkring{T: Betydningen af ordet *ʔārîd* er usikker i sammenhængen. Det betyder egtl.: >>vandre frit omkring/vandre frem og tilbage<<, men i hif’il kan betydningen formodentlig være: >>drives omkring<<.} i min fortvivlelse, og jeg må stønne{T: Ordet *wᵊʔāhîmāʰ* (>>jeg må/vil stønne<<) er omdiskuteret. Dels er der usikkerhed om betydningen, dels trækkes ordet ofte over som del af v. 4, og dels foretrækker mange oversættere tekstrettelse til *wᵊʔ ēhômāʰ*: >>jeg er ude af mig selv<< eller *wᵊʔehᵉmeʰ*: >>jeg vil jamre<<.}
+
+v4 over fjendes råb,
+
+over at ugudelig undertrykker,{T: Oversættelsen af ordet er usikker – det forekommer kun her i GT.}
+
+for de vælter uret ned over mig,
+
+og i vrede bekriger de mig.
+
+v5 Mit hjerte skælver i mig,
+
+og dødens rædsler er faldet over mig.
+
+v6 Frygt og bæven kom over mig,
+
+og forfærdelse indhyller mig.
+
+==Ønske om at flygte==
+v7 Så jeg sagde: Gid jeg havde{T: Ordret: >>Hvem vil give mig …<<.} vinger som en due,
+
+så ville jeg flyve bort og fæste bo.
+
+v8 Se, jeg ville flygte langt bort,
+
+jeg ville overnatte i ørkenen. Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+
+v9 Jeg ville haste til et tilflugtssted for mig
+
+som ly for en rasende vind, for en storm.
+
+==Klagebøn==
+v10 Forvir{T: Andre oversætter: >>ødelæg<<.}, Herre, gør dem uenige{T: Ordret: Spalt deres tunger.},
+
+for jeg har set vold
+
+og strid i byen.
+
+v11 Dag og nat går de omkring den
+
+på dens mure,
+
+og uret og fortræd er inden i den,
+
+v12 fordærv er inden i den,
+
+og undertrykkelse og svig viger ikke fra dens torv.
+
+==En ven har svigtet==
+v13 For det er ikke en fjende som forhåner mig,
+
+det kunne jeg bære;
+
+det er ikke en der hader mig, som gør sig stor over mig,
+
+ham kunne jeg skjule mig for.
+
+v14 Men det er dig, et menneske, som var min ligemand,
+
+min ven og min fortrolige,
+
+v15 vi, som sammen nød den søde fortrolighed,
+
+som vandrede i Guds hus i festskaren.{T: Ordet *regeš* forekommer i GT kun her. Ud fra roden må det betyde noget i retning af >>larmende mængde<<. Der kan være tænkt på en jublende skare.}
+
+==Bøn om retfærdig dom over modstanderne==
+v16 Død skal falde{T: Konsonantteksten forudsætter ordet *yᵊšîmôt*: >>Ødelæggelse (over dem)<<. Men vokalteksten og de gamle oversættelser og mange håndskrifter har delt ordet: *yaššî māwet*: >>Død skal falde (over dem<<.} over dem!
+
+De skal fare levende ned i dødsriget,
+
+for der er ondskab i deres forrådskammer, i deres indre.
+
+==Tillid til at Gud hører==
+v17 Jeg vil råbe til Gud,
+
+og JHVH skal frelse mig.
+
+v18 Aften og morgen og middag
+
+vil jeg klage og jamre,
+
+og han vil høre min røst.
+
+v19 Han har forløst min sjæl i fred{E: Det danske ord >>fred<< er egentlig for snævert til at gengive fylden i det hebraiske * šālôm* der omfatter både indre og ydre fred. Grundbetydningen er >>hel, uskadt, sund<<. Freden omfatter i sin fylde også tryghed og frelse.}
+
+fra kampen imod mig,
+
+for mange var imod mig.
+
+v20 Gud skal høre og svare{T: Mange oversættere vælger (med Septuaginta) at ændre vokaliseringen af *yaʕᵃnēm* (>>svare dem<<) til: *yᵊʕᵃnēm*: >>ydmyge dem<<.} dem,
+
+han der troner fra ældgammel tid. Sela
+
+Der er ingen forandring hos dem,
+
+og de frygter ikke Gud.
+
+==Klage over en vens svigt==
+v21 Han har lagt hånd på dem som havde fred med ham,
+
+han har vanhelliget sin pagt.
+
+v22 Hans munds flødeagtige ord var glatte,{T: Ordet *maḥmāʔōt* (>>flødeagtig<< optræder i GT kun her, og betydningen er usikker. Oftest ændrer man vokaliseringen til: *mēḥᵃmāʔōt*: >>end smør<< så oversættelsen bliver: >>Hans mund var glattere end smør<<.}
+
+og hans hjerte er krig;
+
+hans ord er blødere end olie,
+
+og dog er de dragne sværd.
+
+==Opmuntringsord==
+v23 Kast din byrde på JHVH,
+
+så vil han holde dig oppe.
+
+han lader ikke for evigt
+
+den retfærdige rokkes.{T: Ordret: >>Han skal ikke for evigt lægge vaklen hen til den retfærdige<<.}
+
+v24 Men du, Gud, vil lade dem stige ned
+
+i gravens dyb.
+
+Mordere og bedragere{T: Ordret: >>blodets og bedragets mænd<<.}
+
+skal ikke nå halvdelen af deres dage.
+
+Men jeg, jeg stoler på dig.
+
