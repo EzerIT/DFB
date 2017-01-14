@@ -1,0 +1,129 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.01.2017>!!
+
+===Salme 73===
+
+v1 Salme af Asaf.
+
+==Anfægtelsen: De ugudeliges lykke==
+Sandelig, god er Gud mod Israel,
+
+mod de rene af hjertet.
+
+v2 Men jeg - mine fødder var nær snublet,{E: Grundtekstens konsonanttekst har egentlig verbet som participium passiv (*nāṭāʸû*): >>nær snublende angående mine fødder<<, men vokaliseringen angiver qal yiqtol: *nāṭāʸû*: >>var snublet<<.}
+
+mine skridt var lige ved at glide.
+
+v3 For jeg blev misundelig på de overmodige,{T: Formodentlig er der især tænkt på gudløse.}
+
+jeg må se de ugudeliges fred.{E: Ordet *šālôm* (>>fred<<) oversættes ofte ved >>lykke<<, men her angiver det en tilstand der omfatter både velstand, sundhed, venskab, fællesskab og indre harmoni, ubekymrethed.}
+
+v4 For de har ingen kvaler ved deres død,{E: Ordet *lᵊmôtām* (>>for deres død<<) vokaliseres ofte: *lāmô tām*: >>for dem, sund<<, hvor >>sund<< knyttes til næste linje, der kommer til at lyde: >>sund og fed er deres krop<<. *lᵊmôtām* kan eventuelt oversættes: >>til deres død<<.}
+
+og fed er deres krop.
+
+v5 De har ikke del i menneskets{E: Det ord der er brugt om >>menneske<< (*ʔᵉnôš*), bruges især til at understrege menneskets svaghed og dødelighed.} besværligheder,
+
+og de bliver ikke plaget som menneske.
+
+v6 Derfor er hovmod blevet deres halssmykke,
+
+vold indhyller dem som en klædning.
+
+v7 Deres øjne gik ud af fedt,{E: Sætningen er omdiskuteret. I stedet for *ʕênēmô* (>>deres øjne<<) har gamle oversættelser åbenbart læst: *ʕᵃwōnāmô*: >>deres synd<<. Ordet *ḥēlev* (>>fedt<<) er egentlig det fedtrige bindevæv omkring indvoldene. Det oversættes derfor også undertiden: >>indre<<, så oversættelsen kan lyde: >>deres synd kom fra deres indre<<.}
+
+hjertets planer flød over.
+
+v8 De håner og taler i ondskab,
+
+undertrykkelse{E: Accenten i grundteksten lader egentlig >>undertrykkelse<< høre til første linje. Af hensyn til rytmen lader man normalt ordet høre til anden linje.} taler de fra det høje.
+
+v9 De har sat deres mund i himlen,
+
+og deres tunge færdes på jorden.
+
+v10 Derfor vender hans folk sig til dem,{E: Grundteksten egentlig: >>Derfor får han sit folk til at vende sig herhen<<. Konsonantteksten forudsætter at verbet er: *yāšîv*: >>får til at vende sig<<, men vokaliseringen forudsætter: *yāšûv*: >>vender sig<<. Sidste ord: *hᵃlōm*: >>herhen<< kan eventuelt rettes til: *lāhem*: >>til dem<<.}
+
+og vand i fulde drag bliver slubret ind af dem.
+
+v11 Og de siger: >>Hvordan skulle Gud vide det?<<
+
+Og: >>Er der indsigt hos den Højeste?<<
+
+v12 Se, disse er de ugudelige,
+
+og for evigt trygge øger de deres rigdom.
+
+==Salmistens nød og tvivl==
+v13 Helt forgæves har jeg holdt mit hjerte rent
+
+og vasket mine hænder i uskyld.
+
+v14 Og dog blev jeg plaget hele dagen,
+
+og min tugt var der{E: Grundteksten har ikke noget verbum i denne sætning. Enten må det underforstås: >>var der<< eller eventuelt: >begyndte<< - eller også må man rette *wᵊtôxaḥtî* (>>og min tugt<<) til det tilsvarende verbum: *wᵊhûxaḥtî*: >>og jeg blev tugtet<<.} hver morgen.
+
+==Men de ugudelige går en forfærdelig skæbne i møde==
+v15 Hvis jeg havde sagt: >>Jeg vil tale sådan<<,
+
+se, så havde jeg handlet troløst mod dine børns slægt.
+
+v16 Når jeg tænkte efter for at forstå dette,
+
+var det en plage i mine øjne,
+
+v17 indtil jeg gik ind i Guds helligdom{E: Grundteksten har pluralis (>>helligdomme<<) der betegner templets storslåethed og mangfoldighed. Der er næppe tænkt på Guds hellige tanker.}
+
+og gav agt på deres endeligt.
+
+v18 Ja, du satte dem på glatte steder,
+
+du lod dem styrte i ruiner.
+
+v19 Hvordan er de på et øjeblik blevet til rædsel?
+
+De forsvandt, de gik til grunde af skræk.
+
+v20 Som en drøm, når man vågner,
+
+ringeagter du, Herre, når du vågner, deres billede.{E: Ordret oversat lyder grundteksten: >>Herre, i byen ringeagter du deres billede<<. Sådan har Septuaginta i al fald opfattet teksten. *bāʕîr*} (>>i byen<<) kan dog også opfattes som sammentrukket form af *bᵊhāʕîr* (infinitiv hif’il): >>ved opvågnen<<, dvs.: >>når du vågner<<.}
+
+==Bekendelse af tvivl==
+v21 Da mit hjerte var bittert,
+
+og jeg følte mig stukket i mine nyrer,
+
+v22 da var jeg et fæ og kunne ikke forstå noget,
+
+jeg var som et stykke kvæg for dig.
+
+==Troens fællesskab med Gud==
+v23 Men jeg er altid hos dig,
+
+du holder fast ved min højre hånd.
+
+v24 Du leder mig med dit råd,
+
+og siden tager du mig ind i herlighed.{E: Grammatisk er linjen ikke helt gennemskuelig, da præpositionen *ʔaḥar* (>>efter<<, her oversat >>siden<<) i grundteksten står sammen med ordet for >>herlighed<<, men næppe kan være knyttet til det. Man er derfor nødt til at underforstå >>ind i<<.}
+
+v25 Hvem har jeg i himlen?
+
+Og er jeg blot hos dig, har jeg ikke behag i jorden.
+
+v26 Om også mit kød og mit hjerte forgår,
+
+så er Gud mit hjertes klippe og min del for evigt.
+
+v27 For se, de som holder sig fjernt fra dig, vil gå til grunde,
+
+du tilintetgør hver den som er dig utro.
+
+v28 Men jeg – Guds nærhed er et gode for mig,
+
+jeg har taget min tilflugt til Herren, JHVH,
+
+for at fortælle om alle dine gerninger.
+
+

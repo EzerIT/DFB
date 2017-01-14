@@ -1,0 +1,110 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.01.2017>!!
+
+===Salme 74===
+
+v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Asaf.
+
+==Klage over at templet er ødelagt==
+Hvorfor, Gud, har du forkastet for evigt?
+
+Hvorfor{T: Spørgepartiklen >>hvorfor<< står ikke her i grundteksten, men linjen er stadig afhængig af partiklen i første linje, og den er derfor gentaget her af forståelsesmæssige grunde.} ryger din vrede mod din græsgangs hjord?
+
+v2 Husk din menighed som du erhvervede i gammel tid,
+
+som du forløste til at være din arvs stamme,
+
+Zions bjerg, som du har taget bolig på.
+
+v3 Løft dine skridt mod de evige ruiner,
+
+alt har fjenden ødelagt i helligdommen!
+
+v4 Dine modstandere har brølet midt på dit forsamlingssted,{E: Oversættes undertiden: >>åbenbaringssted<<, da ordet *môʕēd* i 2 Mosebog betegner >>Åbenbarings(teltet)<<.}
+
+de har sat deres tegn op til tegn.{E: Det kan være bannere, altre, afgudsbilleder osv.}
+
+v5 Han vil gøre sig kendt,{E: Verset er stærkt omdiskuteret. Problemet er især verbet: *yiwwādaʕ* (>>han vil gøre sig kendt<<). >>Han<< må være fjenden. Oversættelsen: >>det ser ud<< kan forsvares. De fleste oversættere og fortolkere vælger at rette til: *yigdᵉʕû*: >>de fældede<<.} som når man højt hæver
+
+økserne mod et træs tætte grene.
+
+v6 Og nu{E: Versets første ord, *wᵊʕattā*, er omdiskuteret. Konsonanterne forudsætter at det skal være: *wᵊʕēt*: >>og et tidspunkt<<, mens vokalerne angiver: >>og nu<<. Blandt rettelsesforslagene er især: *kittᵊtû*: >>de fældede<< eller: *wᵊʔēt*: >>og<< + akkusativmærket (>>og deres udskårne arbejder …<<).} - deres udskårne arbejder
+
+smadrede de med økser og brækjern.
+
+v7 De satte ild på din helligdom,
+
+de har vanhelliget dit navns bolig helt til grunden.{T: Ordret: >>til jorden<<.}
+
+v8 De sagde i deres hjerte: >>Lad os underkue dem{E: *nînām* betyder ordret: >>deres slægt<<. Men man vokaliserer som regel: *nînēm*: >>lad os underkue dem<<, ellers må der underforstås et verbum.} alle.<<
+
+de har brændt alle Guds forsamlingssteder{E: Oversættes undertiden: >>åbenbaringssteder<<, da ordet *môʕēd* i 2 Mosebog betegner >>Åbenbarings(teltet)<<.} i landet.
+
+v9 Vi så ikke vore egne tegn,
+
+der er ikke mere nogen profet,
+
+der er ingen hos os, som ved, hvor længe det skal vare.
+
+
+v10 Hvor længe, Gud, skal fjenden spotte?
+
+Skal modstanderen foragte dit navn for evigt?
+
+v11 Hvorfor trækker du din hånd tilbage, også din højre hånd?
+
+Tag den ud fra det indre af din kappefold, gør ende på det!{E: Oversættelsen er omdiskuteret. Her er verbet >>tag<< underforstået ud fra sammenhængen (især ud fra præpositionen >>fra<<). Mange retter *xallēʰ* (>>gør ende på det/ødelæg<<) til: *xᵊluʔāʰ*: >>er skjult<<. Man trækker desuden >>din højre hånd<< ind fra foregående linje og retter *miqqerev* (>>fra det indre<<) til: *bᵊqerev*: >>i det indre<<. Linjen kommer til at lyde: >>og holder din højre hånd skjult i det indre af kappefolden?<<}
+
+==Lovprisning af skabelsens Gud==
+v12 Men Gud er min konge fra ældgammel tid
+
+som skaber frelse midt på jorden.
+
+v13 Du bragte havet i oprør{E: Verbet *prr* findes kun denne ene gang i po’el i GT (og i alt kun fire gange). Det foreslås undertiden at oversætte det: >>spalte<<, men denne betydning er ikke godtgjort.} med din styrke,
+
+du knuste havuhyrers hoveder på vandene.
+
+v14 Du smadrede Livjatans hoveder,
+
+du gav dem som føde til et folk, til ørkendyr.{E: Ordene: *lᵊʕām lᵊṣiyyîm* (>>til et folk, til ørkendyrene<<) er omdiskuterede. Oftest griber man til en rettelse: *lᵊʕamlᵊṣê yām*: >>til havets hajer<<. En anden mulighed er at opfatte *ʕām* (>>folk<<) som udtryk for >>hær/stor skare<<, altså: >>til en hær af ørkendyr<<.}
+
+v15 Du lod kilde og bæk bryde frem,
+
+du udtørrede konstant rindende floder.
+
+v16 Din er dagen, din er også natten,
+
+du har anbragt lys{T: Der er formodentlig tænkt på både måne og stjerner.} og sol.
+
+v17 Du har fastlagt alle jordens grænser,
+
+sommer og vinter har du dannet.
+
+==Klage og bøn==
+v18 Husk dette: En fjende spottede, JHVHv,
+
+og et tåbeligt folk foragtede dit navn.
+
+v19 Giv ikke din turteldues liv{T: Ordret: >>sjæl<<.} til et vilddyr,
+
+glem ikke dine hjælpeløses liv{T: Ordret: >>sjæl<<.} for evigt!
+
+v20 Se til pagten!
+
+For landets{T: Kan også oversættes: >>jordens<<.} mørke steder er fulde af voldsboliger.{E: Nogle oversættere sletter *nᵊʔôt* (>>boliger/bosteder/byer<< eller retter til: *ʔᵃnāḥāh*: >>stønnen<< (>>stønnen og vold<<).}
+
+v21 Lad ikke den undertrykte vende skamfuld tilbage,{E: Der kan være tænkt på at den undertrykte ikke skal vende tilbage fra bønner der ikke er blevet hørt. En del oversættere retter vokaliseringen af *yāšōv* (>>vende tilbage<<) til: *yēšēv*: >>sidde<<.}
+
+den hjælpeløse og fattige skal love dit navn!
+
+v22 Rejs dig, Gud, før din sag,
+
+husk hvordan en tåbe håner dig dagen lang.
+
+v23 Glem ikke dine fjenders råb,{T: Ordret:>>røst<<.}
+
+dine modstanderes bulder, som bestandig stiger op.
+
+

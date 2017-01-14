@@ -1,0 +1,97 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.01.2017>!!
+
+===Salme 80===
+
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.} El-Shoshannim.{E: Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for >>lilje<< (evt. >>efter liljerne<<). >>Liljerne<< angiver formodentlig enten en melodi eller et strengeinstrument.} Et vidnesbyrd.
+
+Salme af Asaf.
+
+==Bøn om hjælp==
+v2 Israels hyrde, lyt,
+
+du som leder Josef som en hjord,
+
+du som troner over keruberne,
+
+træd frem i stråleglans
+
+v3 for Efraim og Benjamin og Manasse.
+
+Opbyd din styrke
+
+og kom og frels os!{T: Ordret: >>og kom os til frelse!<<}
+
+v4 Gud, genrejs os{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
+
+og lad dit ansigt lyse så vi bliver frelst!
+
+==Klage==
+v5 JHVHv, Gud Sebaot,{E: Ordet betyder: >>hærskarer<<. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: >>Hærskarers Herre<<). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.}
+
+hvor længe vil du have været vred
+
+trods dit folks bøn?
+
+v6 Du har bespist dem med tårebrød
+
+og givet dem tårer at drikke i rigt mål.{E: *šālîš* betyder egentlig: >>en tredjedel<<. Man går ud fra at det er teknisk udtryk for en tredjedel af et stort mål.}
+
+v7 Du lader vore naboer strides om os,{T: Ordret nærmere: >>Du gør os til stridens æble for vore naboer<<.}
+
+og vore fjender spotter over os.
+
+v8 Gud Sebaot,{E: Se til v.5.} genrejs os{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
+
+og lad dit ansigt lyse så vi bliver frelst!
+
+==Israel er dog Guds vinstok==
+v9 Du rykker en vinstok op fra Egypten, du fordriver folkeslag{T: Kan også oversættes: >>hedninger<<.} og planter den.{E: Verberne i verset står i yiqtol. Meningen er ganske klart ikke at de skal angive fremtid, men at de skal gøre fremstillingen levende og nærværende.}
+
+v10 Du ryddede plads for den,
+
+og den lod sine rødder rodfæstes og fyldte landet.
+
+v11 Bjerge blev skjult af dens skygge,
+
+og de højeste{E: Grundteksten har: *ʔēl* der ofte skal oversættes: >>gud<<, men her er det brugt som superlativ. I enkelte sammenhængen skal det oversættes >>Gud<<, men GTs nomale ord for >>Gud<< er: *ʔᵉlōhîm*.} cedertræer af dens grene.
+
+v12 Den udstrækker sine ranker til havet
+
+og sine spirer til floden.
+
+v13 Hvorfor har du nedrevet dens gærde,
+
+så alle som kommer forbi, kan plukke af den?
+
+v14 Et vildsvin fra skoven afgnaver den,
+
+og markens dyr afæder den.
+
+v15 Gud Sebaot,{E: Se til v.5.} vend dog om,
+
+sku ned fra himlen og se,
+
+og tag dig af denne vinstok
+
+v16 og det skud{E: Ordet: *kannāʰ* findes kun dette ene sted i GT. Betydningen er usikker og omdiskuteret. Septuaginta har læst det som imperativ af *kwn*: >>genopret<<. Andre foreslår at læse: *gannāʰ*: >>have<<. I sammenhængen forekommer >>skud<< dog at være en nærliggende forståelse.} som din højre hånd plantede,
+
+og den søn som du har opfostret.{E: Kan også oversættes: >>som du gav styrke for dig<<. Linjen slettes dog af mange oversættere som formoder at den fejlagtigt er kommet ind her fra v.18b. Det er imidlertid ikke nødvendigvis rigtigt. Udtrykket >>søn<< må i dette vers gå på hele Israels folk, mens der i v.18b formodentlig er tænkt på kongen.}
+
+v17 Den er brændt med ild, skåret af,{E: Ordet: *kᵊsûḥāʰ* læses oftest som verbum (participium passiv): >>skåret af<<. Andre oversætter dog: >>som skarn<<.}
+
+de{T: nemlig dit folk.} går til grunde for dit ansigts trussel.{E: Sætningen kan også oversættes: >>lad dem gå til grunde for dit ansigts trussel<<. I så fald er det en bøn om straf over fjenderne.}
+
+v18 Lad din hånd være over din højre hånds mand,
+
+over den menneskesøn som du har opfostret.{E: Kan også oversættes: >>som du gav styrke for dig<<. Med udtrykket >>menneskesøn<< er der i dette vers formodentlig er tænkt på kongen, mens >>søn<< i v.16b går på hele Israels folk.}
+
+v19 Så vil vi ikke falde fra dig.
+
+Lad os leve, så vil vi påkalde dit navn.
+
+v20 JHVHv, Gud Sebaot,{T: Se til v.5.} genrejs os,{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
+
+lad dit ansigt lyse så vi bliver frelst!

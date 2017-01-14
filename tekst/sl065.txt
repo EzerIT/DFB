@@ -1,0 +1,89 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.01.2017>!!
+
+===Salme 65===
+
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
+
+Salme af David. En sang. 
+
+==Lovprisning for Guds tilgivelse og fællesskab==
+v2 Lovsang tilkommer dig,{E: Ordret: >>For dig er stilhed en lovsang<< eller: >>For dig er der stilhed, lovsang<<. Da der i det følgende ikke er tale om stilhed, men hørlig lovsang, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (>>stilhed<<) til *dōmiyyāʰ*: >>det der tilkommer en<<.}
+
+Gud på Zion,
+
+og til dig indfrier man løfter.
+
+v3 Du som hører bøn,
+
+til dig kan alle mennesker{T: Ordret: >>alt kød<<} komme.
+
+v4 Syndernes byrde{T: Ordret: >>sag, anliggende<<.} er blevet for tung for mig,
+
+vore overtrædelser, dem vil du tilgive!{E: Mange oversættere vælger at dele v.3-4 anderledes, så oversættelsen lyder: >>Du hører bøn. / Til dig kan alle mennesker komme / for deres synders skyld. / Vore overtrædelser er blevet for tunge for os, / men du tilgiver dem<<. Ordet >>skyld<< har dog ikke støtte i den hebraiske tekst. Andre foreslår: >>Du som hører bøn. / Til dig bringer alle mennesker / deres synders byrde. / Vore overtrædelser …<< (men *yāvōʔû* (>>kan komme<<) må da rettes til * yāvîʔû*: >>bringer<<).}
+
+v5 Lykkelig{T: Tidligere oversat: >>salig<<.} er den som du udvælger og lader komme nær,
+
+så han må bo i dine forgårde.
+
+Vi skal mættes med godhed i dit hus,
+
+dit hellige tempel.{T: Ordret: >>dit tempels helligdom<<.}
+
+==Lovsang for Guds skabelse og omsorg==
+v6 Med frygtindgydende gerninger svarer du os i retfærdighed,
+
+vor frelses Gud,
+
+du som er tilflugt for alle jordens ender
+
+og for det fjerneste hav.{E: *yām* (>>hav<<) står i singularis, mens *rᵊḥōqîm* (>>fjerne<<) står i pluralis, der formentlig betegner superlativ. Ellers kan der oversættes: >>for de fjerne egnes hav<<.}
+
+v7 Han som grundfæster bjergene i sin kraft,
+
+væbnet{T: Ordret: >>omgjordet<<.} med styrke;
+
+v8 han som stiller havenes brusen,
+
+deres bølgers brusen og folkenes larm.
+
+v9 Så de som bor ved verdens ender,{T: Ordret: >>de yderste<<.} skal frygte for dine tegn,
+
+du får øst og vest{T: Ordret: >>morgenens og aftenens udgangssted<<.} til at juble.
+
+==Lovsang for frugtbarhed==
+v10 Du har taget dig af landet og givet det overflod,{T: Andre oversætter: >>givet regn<<, men grundbetydningen er formodentlig: >>lade strømme over<<.}
+
+du gør det meget rigt;
+
+Guds bæk er fuld af vand,
+
+du sørger for deres korn,
+
+for sådan lægger du det til rette.
+
+v11 Idet du vander{T: Verberne i verset kan enten læses som infinitiv absolutus (denne oversættelse, ordret: >>vandende<<) eller som imperativ.} dets plovfurer,
+
+jævner pløjejordens klumper,
+
+blødgør du jorden{E: Ordret blot: >>den<<, der viser tilbage til v.10, hvor *hāʔāreṣ* blev oversat: >>landet<<, men også kan betyde: >>jorden<<, om end det ikke specifikt er agerjorden.} med regnskyl,
+
+du velsigner dens afgrøde.
+
+v12 Du har kronet året med dine gode gaver,{T: Ordret: >>Du har kronet din godheds år<<.}
+
+og dine spor skal drive af fedme.
+
+v13 Græsgange i ørken skal dryppe,
+
+og højene skal klæde sig{T: Ordret: >>omgjorde sig<<, jævnfør v.7.} i jubel.
+
+v14 Engene er klædt med småkvæget,
+
+og dalene skal dække sig til med korn.
+
+De skal juble, ja, synge.
+
+

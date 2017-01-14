@@ -1,0 +1,195 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.01.2017>!!
+
+===Salme 68===
+
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
+
+Af David. En salme. En sang.
+
+==Tillid til Guds sejr og omsorg==
+v2 Gud vil rejse sig,{E: Det er omdiskuteret om verberne i v.2-4 skal opfattes som yiqtol (som forudsat her) eller som jussiv der kunne oversættes: >>Gid Gud vil rejse sig, ….} hans fjender skal spredes,
+
+og de som hader ham, skal flygte for ham.{T: Ordret: >>for hans ansigt<<.}
+
+v3 Som røg blæses bort, vil du blæse bort,{E: Undertiden foreslås rettelse af vokaliseringen af *tindōf* (>>vil du blæse bort<<) til: *jinnādēf*: >>blæses bort<<, hvor de to verber forstærker hinanden og oversættes som ét: >>som røg blæses bort<<. Begrundelsen er at man ikke mener at en tiltale til Gud kan stå på dette sted i salmen. Rettelsen er dog unødvendig.}
+
+som voks smelter for ild,
+
+skal de ugudelige gå til grunde for Guds ansigt.
+
+v4 Men de retfærdige skal glæde sig, de skal fryde sig
+
+for Guds ansigt
+
+og juble med glæde.
+
+v5 Syng for Gud, lovsyng hans navn,
+
+ban vej for{E: Andre oversætter det forholdsvis sjældne verbum: >>Ophøj<<. Det kan støttes af at objektet >>vej<< ikke står i grundteksten, men må underforstås som objekt for verbet.} ham som rider frem på stepperne;{E: *ʕᵃrāvôt* kan betegne >>steppeørkner<<. Det er ofte blevet oversat >>ørken<<, men det er betegnelse for områder med vegetation. På baggrund af paralleludtryk i ugaritiske tekster om guden Ba’al som den der rider på skyerne, retter man nu ofte til *ʕāvôt*: >>skyer<<.}
+
+JHVH{E: Sætningen *bᵊyāh šᵊmô* betyder ordret: >>I Jah er hans navn<<. Kortformen >>Jah<< for >>Jahve<< findes en del steder i poetiske tekster. Sætningen må betyde at Guds væsen finder udtryk i hans navn (2 Mos 3,24). Sætningen er dog i alle tilfælde speciel og knudret. Blandt rettelsesforslagene er især enten at slette *bᵊ* (>>i<<) eller at læse: *kî yāh šᵊmô*: >>for Jah er hans navn<<.} er hans navn,
+
+og fryd jer for hans ansigt.
+
+v6 Faderløses fader og enkers forsvarer
+
+er Gud i sin hellige bolig.
+
+v7 Gud lader ensomme bo{T: Det foreslås undertiden at rette *môšîv* (>>lader bo<<) til: *mēšîv*: >>fører tilbage<<. Der er dog ingen tekstmæssig støtte til rettelsen.} i et hjem,
+
+han fører fanger ud til trivsel,{E: Ordet *kôšārāʰ* forekommer kun her i GT. Den præcise betydning er usikker. Det oversættes ofte: >>lykke<<. Andre foreslår: >>musik/jubel<<. Modsætningen i næste linje kan måske tyde på: >>frugtbarhed<<.}
+
+kun genstridige forblev{E: Grundteksten har qatal (fortid). Det er i givet fald en hentydning til at den generation der gjorde oprør i ørkenen mod Gud, måtte blive og dø i ørkenen (4 Mos 14,22-23.27-35). Mange vælger dog at oversætte ved fremtid: >>skal bo<<.} i det tørre område.
+
+==Gud frelser sit folk fra ødemarken==
+v8 Gud, da du drog ud foran dit folk,
+
+da du skred frem gennem ødemarken - Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+
+v9 da skælvede jorden,
+
+og himlen dryppede foran Gud,
+
+den Eneste fra Sinaj,{E: Ordret: >>dette (er) Sinaj<<. Paralleller i ugaritisk og arabisk tyder på at *zeʰ* (>>dette<<) kan betyde: >>den eneste/ham<<. Det parafraseres undertiden: >>Sinajs Herre<<.}
+
+foran Gud, Israels Gud.{T: Kan oversættes: >>foran Guds, Israels Guds ansigt<<.}
+
+v10 Rigelig regn lod du strømme ned, Gud,
+
+din arvelod{E: Nogle oversættere lader – på trods af grundtekstens accent - >>din arvelod<< høre til foregående linje: >>rigelig regn lod du, Gud, strømme ned over din arvelod<<.} og det udpinte styrkede du.
+
+v11 Din skare{E: Betydningen af ordet *ḥayyāʰ* er omdiskuteret. Det skal dog her tydeligvis være synonym for Guds >>folk<<.} bosatte sig der,{T: Ordret: >>i det<<.}
+
+du vil i din godhed tage dig af det for den hjælpeløse, Gud.
+
+v12 Herren lader besked lyde:
+
+>>De kvinder som bringer glædesbudskab, er en stor hær.
+
+v13 Hærenes konger skal flygte, de skal flygte!
+
+Og husets frue{E: Ordet *nāwāʰ* er omdiskuteret. Formodentlig er det enten afledt af et verbum der betyder: >>være smuk<<, eller et enslydende verbum der betyder >>bebo<<. Altså: >>husets kvindelige beboer/husets smukke<<.} skal fordele bytte.
+
+v14 Vil I ligge mellem kvægfoldene?{E: Sandsynligvis et bebrejdende ord mod dem der som Rubens stamme (Dom 5,16) hellere vil >>ligge<< og hygge sig mellem >>kvægfoldene<< end tage del i kampen.}
+
+Duens vinger er dækket med sølv,
+
+og dens svingfjer med guldets gyldengrønne glans<<.{E: >>Duen<< kan være sejrens og fredens budbringer hvis strålende >>svingfjer<< svarer til dens prægtige budskab.}
+
+v15 Når den Almægtige spreder konger der,
+
+falder der sne på Salmon.{E: Meningen med dette vers er usikker. >>Salmon<< er muligvis et bjerg ved Sikem (Dom 9,48). I så fald er det ikke over 1000 m højt, og >>sne<< vil ikke forekomme ret ofte.}
+
+==Guds bjerg==
+v16 Et gudsbjerg{E: Forstavelsen >>guds-<< er her formodentlig en forstærkelse: et imponerende bjerg. Der kan dog også oversættes: >>et Guds bjerg<<.} er Bashans bjerg,
+
+et bjerg med tinder er Bashans bjerg.
+
+v17 Hvorfor skuler I bjerge med tinder
+
+til det bjerg som Gud har ønsket som sit sæde?
+
+Ja, JHVH vil bo der for evigt.
+
+v18 Guds stridsvogne er to gange ti tusind,{E: Ordet *ribbôʔ* (>>ti tusind<<) står i dualis der enten kan angive >>to gange ti tusind<< eller >>ti tusind gange ti tusind<<.}
+
+utallige tusind.{T: Ordret: >>gentagelses tusinde<<.}
+
+Herren er blandt dem, Sinaj er i helligdommen.{E: Ofte rettes *vām sînay* (>>blandt dem, Sinaj<<) til: *bāʔ missînay*: >>(Herren) er kommet fra Sinaj (til helligdommen)<<. Rettelsen har dog hverken støtte i håndskrifter eller gamle oversættelser. Meningen er formodentlig at helligdommen på Zion nu er det Sinaj engang var.}
+
+v19 Du steg op til det høje,
+
+du førte fanger med,
+
+du tog imod gaver hos mennesker{T: Grundteksten har singularis *bāʔādām*: >>hos mennesket<< der er ment kollektivt.}
+
+og endog hos genstridige
+
+for at trone, JHVHv,{T: Grundteksten har kortformen *yāh*.} Gud!{E: Andre opfatter de to linjer som hørende sammen således: >>og endog hos dem som gør oprør mod at JHVH Gud slår sig ned<<.}
+
+==Gud er vor frelse==
+v20 Lovet være Herren dag efter dag!{E: Det er usikkert om >>dag efter dag<< skal høre til denne linje eller indlede den næste (>>dag efter dag vil han bære os<<).}
+
+Han vil bære os, Gud er vor frelse. Sela
+
+v21 Gud er for os en Gud til frelse,
+
+og for JHVH, Herren, er der udveje fra døden.
+
+v22 Ja, Gud skal knuse sine fjenders hoved,
+
+den behårede{E: Det er usikkert hvad der er tænkt på. Måske at soldaterne så håret som tegn på styrke (jf. Samson, Dom 13-16).} isse på den som vandrer omkring i sin skyld.
+
+v23 Herren har sagt: >>Jeg vil hente tilbage fra Bashan,
+
+jeg vil hente tilbage fra havets dyb,
+
+v24 så du kan bade{E: Den hebraiske tekst har: >>så du kan knuse din fod i blod<<. Normalt retter man – med støtte i de gamle oversættelser - *timᵊḥaṣ* (>>du kan knuse<<) til: *tirᵊḥaṣ*: >>du kan bade<<.} din fod i blod,
+
+og dine hundes tunge kan få sin del af fjenderne<<.
+
+==Festprocessionen ind i Guds tempel==
+v25 De så dine processioner, Gud,
+
+min Guds procession, min konge i helligdommen.
+
+v26 Foran gik sangere, bagefter strengespillerne,
+
+imellem unge piger som slog på pauke.
+
+v27 Pris{T: Kan også oversættes: >>velsign<<.} Gud i forsamlinger,
+
+JHVH, Israels kilde!{E: Ordret: >>fra Israels kilde<<. Hvis teksten er rigtig, kan den eventuelt parafraseres: >>Pris Gud … alle I, som er fra Israels kilde<<. Men oftest går man ud fra at der er et *m* for meget i konsonantteksten: *mmqwr*, repræsenterende præpositionen >>fra<<.}
+
+v28 Dér er Benjamin, ung,{T: Kan også oversættes: >>ringe<<.} deres hersker,{E: Ordet *rōdēm* (>>deres hersker<<) er omstridt. Det afledes oftest af roden *rdh*: >>herske, føre an<<. Andre afleder det af *rdm*, der i nif’al betyder: >>falde i dyb søvn/være bedøvet<< og oversætter: >>Dér er Benjamin, ung, i ekstase<<.}
+
+Judas stormænd, deres larmende flok,{T: Betydningen af ordet *rigmātām* (>>deres larmende flok<< er meget usikker og lades uoversat af mange.}
+
+Zebulons stormænd, Naftalis stormænd.
+
+==Bøn om at Gud vil vise sin magt==
+v29 Din Gud har befalet{E: De fleste oversættere retter med de gamle oversættelser i konsonantteksten *k* til *m*: *ʔᵉlōheʸxā* (>>din Gud<<) til: *ʔᵉlōhîm*: >>Gud<<. Udover de ændringer i vokalerne, som dette medfører, retter man også vokaliseringen af *ṣiwwāʰ* (>>har befalet<<) til: *ṣawwēʰ*: >>befal/opbyd<<, så oversættelsen lyder: >>Opbyd din styrke, Gud<<. Den overleverede tekst må være et ord til den sejrende hær, inden der i næste linje bedes om styrke.} din styrke.
+
+Vær stærk,{E: Kan eventuelt oversættes: >>Styrk, Gud, det du har gjort for os<<. Eftersætningen er dog næppe tænkt som objekt for verbet (>>styrk<<), men er knyttet til >>Gud<<.} Gud, i det du har gjort for os
+
+v30 fra dit tempel i Jerusalem.
+
+Konger skal bringe dig gave.
+
+v31 Tru dyret i sivene,{E: Billede på herskerne ved Nilen (Egypten).}
+
+tyreflokken, med folkekalvene,{E: Billede på de hedenske konger med deres folk eller med stormagternes allierede.}
+
+som underkaster sig med sølvstykker.{E: Sætningen er dunkel og omdiskuteret. Verbet: *mitrappēs* (>>underkaster sig<<) oversættes også: >>træder under fode<<. Ofte vælger man at rette til imperativ: *hitrappēs*: >>træd under fode<<. Desuden retter man ofte: *bᵊraṣṣê-xāsef* (>>med sølstykker<<) til: *bᵊrōṣê-xāsef*: >>der elsker sølv<<, altså: >>træd dem under fode, der elsker sølv<<.}
+
+Han adspredte{E: Mange oversættere retter vokaliseringen af: *bizzar* (>>han adspredte<<) til imperativ: *bazzēr*: >>adspred<<.} folkene, som har lyst til kampe.
+
+v32 De kommer med bronzevarer{E: Betydningen af *ḥašmannîm*, der kun forekommer denne ene gang i GT, er højst usikker. De gamle oversættelser har forstået det som: >>fyrster/fornemme/udsendinge<<, men det er sprogligt mindre sandsynligt. Oftest forbindes ordet med >>bronze<<. Andre forslag er bl.a.: >>natron/blåt klæde<<. Hvis man ikke følger de gamle oversættelser, må verbet *yeˀᵉtāʸû* (>>de kommer<<) vokaliseres som hif’il: *yaˀᵃtiyû*: >>de kommer med<<.} fra Egypten,
+
+Kush{E: Formodentlig Nubien eller Etiopien.} skal lade sine hænder ile{T: Ofte retter man: *tārîṣ* (>>skal lade ile<<) til: *tāraṣ*: >>skal løfte<<} til Gud.
+
+==Lovprisning af den vældige, Israels Gud==
+v33 I jordens kongeriger, syng for Gud,
+
+lovsyng Herren. Sela
+
+v34 For han som rider på ældgamle himles himle,
+
+se, han løfter sin røst,{T: Kan eventuelt oversættes: >>han lader sin torden lyde<<.} en mægtig røst.
+
+v35 Giv Gud ære,{T: Ordret: >>magt<<, men i forholdet til Gud er det udtryk for at anerkende hans magt.}
+
+hans højhed er over Israel
+
+og hans magt i skyerne.
+
+v36 Frygtindgydende er du, Gud, fra dine helligdomme,
+
+Israels Gud, han giver folket magt og styrke.
+
+Lovet{T: Kan også oversættes: >>velsignet<<.} være Gud!
+
+
