@@ -242,6 +242,30 @@ if ($with_endnotes) {
     echo '      \or ha\or hb\or hc\or hd\or he\or hf\or hg\or hh\or hi\or hj%',"\n";
     echo '      \or hk\or hl\or hm\or hn\or ho\or hp\or hq\or hr\or hs\or ht%',"\n";
     echo '      \or hu\or hv\or hw\or hx\or hy\or hz\or hæ\or hø\or hå%',"\n";
+    echo '      \or ia\or ib\or ic\or id\or ie\or if\or ig\or ih\or ii\or ij%',"\n";
+    echo '      \or ik\or il\or im\or in\or io\or ip\or iq\or ir\or is\or it%',"\n";
+    echo '      \or iu\or iv\or iw\or ix\or iy\or iz\or iæ\or iø\or iå%',"\n";
+    echo '      \or ja\or jb\or jc\or jd\or je\or jf\or jg\or jh\or ji\or jj%',"\n";
+    echo '      \or jk\or jl\or jm\or jn\or jo\or jp\or jq\or jr\or js\or jt%',"\n";
+    echo '      \or ju\or jv\or jw\or jx\or jy\or jz\or jæ\or jø\or jå%',"\n";
+    echo '      \or ka\or kb\or kc\or kd\or ke\or kf\or kg\or kh\or ki\or kj%',"\n";
+    echo '      \or kk\or kl\or km\or kn\or ko\or kp\or kq\or kr\or ks\or kt%',"\n";
+    echo '      \or ku\or kv\or kw\or kx\or ky\or kz\or kæ\or kø\or kå%',"\n";
+    echo '      \or la\or lb\or lc\or ld\or le\or lf\or lg\or lh\or li\or lj%',"\n";
+    echo '      \or lk\or ll\or lm\or ln\or lo\or lp\or lq\or lr\or ls\or lt%',"\n";
+    echo '      \or lu\or lv\or lw\or lx\or ly\or lz\or læ\or lø\or lå%',"\n";
+    echo '      \or ma\or mb\or mc\or md\or me\or mf\or mg\or mh\or mi\or mj%',"\n";
+    echo '      \or mk\or ml\or mm\or mn\or mo\or mp\or mq\or mr\or ms\or mt%',"\n";
+    echo '      \or mu\or mv\or mw\or mx\or my\or mz\or mæ\or mø\or må%',"\n";
+    echo '      \or oa\or ob\or oc\or od\or oe\or of\or og\or oh\or oi\or oj%',"\n";
+    echo '      \or ok\or ol\or om\or on\or oo\or op\or oq\or or\or os\or ot%',"\n";
+    echo '      \or ou\or ov\or ow\or ox\or oy\or oz\or oæ\or oø\or oå%',"\n";
+    echo '      \or pa\or pb\or pc\or pd\or pe\or pf\or pg\or ph\or pi\or pj%',"\n";
+    echo '      \or pk\or pl\or pm\or pn\or po\or pp\or pq\or pr\or ps\or pt%',"\n";
+    echo '      \or pu\or pv\or pw\or px\or py\or pz\or pæ\or pø\or på%',"\n";
+    echo '      \or qa\or qb\or qc\or qd\or qe\or qf\or qg\or qh\or qi\or qj%',"\n";
+    echo '      \or qk\or ql\or qm\or qn\or qo\or qp\or qq\or qr\or qs\or qt%',"\n";
+    echo '      \or qu\or qv\or qw\or qx\or qy\or qz\or qæ\or qø\or qå%',"\n";
     echo '      \else\@ctrerr\fi',"\n";
     echo '}',"\n";
     echo '\makeatother',"\n";
@@ -301,7 +325,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{3.1.2017}
+\date{14.1.2017}
 
 
 \begin{document}
