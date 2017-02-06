@@ -1,0 +1,98 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+===Salme 88===
+
+v1 En sang. Salme af Koras sønner.
+
+Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.} Al-mahalat-le-annot.{E: Betydningen af *ʕal-māḥᵃlat lᵊʕannôt* er usikker. Det kan evt. betyde: >>at synge på lidende vis/under sygdom<< eller være en melodihenvisning (på melodien >>mahalat<<) eller anvisning om et fløjteinstrument.} Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Heman, ezraitten.
+
+==Første klage==
+v2 JHVHv, min frelses Gud,
+
+om dagen har jeg råbt,
+
+om natten var jeg foran dig.
+
+v3 Lad min bøn komme for dit ansigt,
+
+bøj dit øre til min klageråb!
+
+v4 For min sjæl er mæt af ulykker,
+
+og mit liv er kommet nær til dødsriget.
+
+v5 Jeg agtes lige med dem som går ned{T: Kan også oversættes: >>som er på vej<<.} i graven,
+
+jeg er blevet som en mand uden kraft,
+
+v6 blandt de døde er jeg afsondret,{E: Betydningen af ordet *ḥāfᵊšî* (>>afsondret<<) er omstridt. Normalt betyder det: >>fri/løsladt<<, og nogle fortolkere forstår sætningen som bitter ironi: >>jeg har fået frihed blandt de døde<<. Snarere må det dog i lighed med 2 Kong 15,5 forstås som: >>afsondret<<, evt. >>lukket inde<<.}
+
+som dræbte der ligger i graven,
+
+som du ikke længere husker,
+
+da de er revet ud af din hånd.
+
+v7 Du har lagt mig i dybeste grav,
+
+i mørke, i dybe steder.
+
+v8 På mig har din vrede lagt sig tungt,
+
+og alle dine brændinger lod du skylle over mig.{E: Ordret: >>bøjede/ydmygede/fornedrede du <<. >>Over mig<< er underforstået fra foregående sætning, hvor det står pointeret som første ord.} Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+
+v9 Du har fjernet mine fortrolige langt fra mig,
+
+du har gjort mig til afsky for dem,
+
+lukket inde, så jeg ikke kan gå ud.
+
+v10 Mit øje er sløvet{T: Ordret: >>vansmægter<<.} af elendighed.
+
+==Ny klage==
+Jeg har råbt til dig, JHVHv, hver dag,
+
+jeg har bredt min håndflade ud mod dig.
+
+v11 Gør du under for de døde?
+
+Eller vil dødninge rejse sig, vil de takke dig? Sela
+ 
+v12 Fortælles der i graven om din nåde,
+
+om din sandhed i dødsriget?
+
+v13 Kendes dit under i mørket,
+
+eller din retfærdighed i glemslens land?
+
+==Endnu en klage==
+
+v14 Men jeg har råbt til dig om hjælp, JHVHv,
+
+og om morgenen kommer min bøn til dig.
+
+v15 Hvorfor, JHVH, vil du forkaste min sjæl?
+
+Hvorfor{T: >>hvorfor<< er underforstået fra foregående linje.} vil du skjule dit ansigt for mig?
+
+v16 Hjælpeløs og døende er jeg fra ungdommen af,
+
+jeg har båret på rædsler for dig, jeg bliver fortvivlet.
+
+v17 Din vredes flammer er gået hen over mig,
+
+rædsel for dig har tilintetgjort mig,{E: Verbet har en besynderlig/umulig form (*ṣimmᵊtûtunî*). Man retter som regel til: *ṣimmᵊtûnî* (>>har tilintetgjort mig<<).}
+
+v18 de har omringet mig som vand hele dagen,
+
+de har sammen slået kreds omkring mig.
+
+v19 Du har fjernet elsket ven og kammerat langt fra mig,
+
+mine fortrolige er blevet til mørke.{E: Sætningen har i grundteksten ikke noget verbum der derfor må underforstås. Formodentlig enten: >>er blevet til<< (en uhyggelig, fjendtlig magt) eller >>er blevet borte i<<.}
+
+

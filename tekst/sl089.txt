@@ -1,0 +1,228 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+===Salme 89===
+
+v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Etan, ezraitten.
+
+==Lovprisning af Guds skabermagt og trofasthed==
+v2 Om JHVHs nåde vil jeg evigt synge,
+
+i slægt efter slægt vil jeg prisende forkynde din sandhed med min mund.
+
+v3 For jeg har sagt: Evigt opbygges nåde,
+
+himlen - du grundfæster din sandhed i den:{E: I grundteksten er både >>himlen<< og pronomenet (>>den<<) pluralis, men med singulær betydning. Pluralis er udtryk for storheden og herligheden.}
+
+v4 >>Jeg har sluttet en pagt med min udvalgte,
+
+jeg har tilsvoret David, min tjener:
+
+v5 For evigt vil jeg grundfæste din slægt,{T: Ordret: >>sæd<<}
+
+og jeg bygger din trone i slægt efter slægt.<< Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+
+v6 Og himlen skal prise dit under, JHVHv,
+
+ja, din sandhed i de helliges forsamling.{E: Kan også oversættes: >>menighed<<. Her er der dog tænkt på Guds tjenende engle og åndemagter.}
+
+v7 For hvem i skyhimlen kan være lige med JHVH?
+
+Hvem{T: Spørgepartiklen >>hvem<< er underforstået fra foregående linje.} ligner JHVH blandt gudssønnerne?{T: Det er de himmelske magter.}
+
+v8 En Gud der vækker stor rædsel i de helliges kreds
+
+og er frygtindgydende over alle som er omkring ham!
+
+v9 JHVHv, Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} Gud,
+
+hvem er som du, mægtige JHVH?{E: Grundteksten har kortformen *yāh* (>>Jah<<) der findes en del steder i poetiske tekster.}
+
+Og din trofasthed omgiver dig.
+
+v10 Du hersker over havets overmod,
+
+når dets bølger rejser sig, dæmper du dem.
+
+v11 Du knuste Rahab som en dræbt,
+
+med din stærke arm{T: Ordret: >>din styrkes arm<<.} spredte du dine fjender.
+
+v12 Dig tilhører himlen, dig tilhører også jorden,
+
+verden og alt hvad der fylder den – det har du grundlagt.
+
+v13 Nord og syd – du skabte dem,
+
+Tabor og Hermon jubler i dit navn.
+
+v14 Du har en arm med styrke,
+
+din hånd bliver stærk, du løfter din højre hånd.
+
+v15 Retfærdighed og ret er din trones grundvold,
+
+nåde og sandhed går foran dig.{T: Ordret: >>foran dit ansigt<<.}
+
+v16 Saligt er det folk som kender til jublende hyldest,
+
+JHVHv, i dit ansigts lys kan de vandre.
+
+v17 I dit navn skal de fryde sig hele dagen,
+
+og ved din retfærdighed ophøjes de.
+
+v18 For du er deres styrkes herlighed,
+
+og ved dit velbehag løfter du vort horn.
+
+v19 For vort skjold tilhører JHVH,
+
+ja, vor konge tilhører Israels Hellige.
+
+==Løfterne til og over Davids slægt==
+v20 Dengang talte du i et syn
+
+til dine fromme{T: Mange oversættere vælger at rette til singularis, men der er formodentlig tænkt på profeterne Samuel og Natan og eventuelt flere.} og sagde:
+
+>>Jeg har anbragt hjælp{E: Mange retter: *ʕēzer* (>>hjælp<<) til: *nēzer*: >>et diadem<<. Men det har hverken støtte i håndskrifter eller gamle oversættelser. Meningen med den overleverede tekst må være at Gud har betroet helten (David (og hans efterkommere)) at regere og hjælpe folket på Guds vegne.} på en helt,
+
+jeg har ophøjet en udvalgt{T: Kan også oversættes: >>en yngling<<.} ud af folket.
+
+v21 Jeg har fundet David, min tjener,
+
+med min hellige olie{T: Ordret: >>min helligheds olie<<.} har jeg salvet ham,
+
+v22 ham som min hånd vil holde fast,
+
+ja, min arm skal styrke ham.
+
+v23 Fjenden skal ikke overfalde ham,
+
+og en ond person{T: Ordret: >>søn af uretfærdighed<<} skal ikke mishandle ham.
+
+v24 Men jeg vil{E: I v.23-26 står verberne i qatal, der oftest angiver fortid, men her understreger qatal det der helt sikkert vil ske.} knuse hans fjender for hans ansigt
+
+og dem som hader ham, vil jeg slå ned.
+
+v25 Men min sandhed og min nåde skal være med ham,
+
+i mit navn skal hans horn ophøjes.
+
+v26 Og jeg vil udstrække hans hånd{T: Dvs.: Give ham magt.} over havet,
+
+og hans højre hånd over floderne.
+
+v27 Han skal råbe til mig: >Du er min Fader,
+
+min Gud og min frelses klippe<.
+
+v28 Og jeg vil gøre ham til den førstefødte,
+
+til den øverste blandt jordens konger.
+
+v29 Til evig tid vil jeg bevare min nåde mod ham,
+
+og min pagt er til at stole på for ham.
+
+v30 Jeg har fastsat at hans slægt{T: Ordret: >>sæd<<.} skal bestå til evig tid,
+
+og hans trone så længe som himlens dage varer.
+
+v31 Hvis hans sønner forlader min lov,
+
+og de ikke vandrer efter mine befalinger,
+
+v32 hvis de vanhelliger mine love
+
+og ikke holder mine bud:
+
+v33 Så vil jeg hjemsøge deres overtrædelse med stok
+
+og deres skyld med plager.
+
+v34 Men min nåde mod ham vil jeg ikke bryde{E: Ordret: >>Men min nåde vil jeg ikke bryde fra ham<<.}
+
+og ikke forråde min sandhed.
+
+v35 Jeg vil ikke vanhellige min pagt
+
+og ikke forandre det som er gået over mine læber.
+
+v36 Ét har jeg svoret ved min hellighed:
+
+- jeg vil aldrig lyve for David –
+
+v37 Hans slægt{T: Ordret: >>sæd<<.} skal være til evig tid,
+
+og hans trone som solen foran mig;
+
+v38 som månen skal den befæstes for evigt,
+
+og et vidne på skyhimlen er trofast<<.{E: Meningen må være, at >>skyhimlen<< selv er vidne om Guds trofasthed. Mange retter: *wᵊʕēd baššaḥaq* (>>og et vidne på skyhimlen<<) til: *bᵊʕôd haššaḥaq*: >>så længe skyhimlen er til<<.} Sela
+
+==Klage over folkets og kongens nød==
+v39 Men nu har du forkastet og afvist ham,
+
+du blev vred på din salvede.
+
+v40 Du har forkastet pagten med din tjener,
+
+du har vanhelliget hans krone ned på jorden.
+
+v41 Du har revet alle hans mure ned,
+
+du har lagt hans fæstninger i ruin.
+
+v42 Alle som gik forbi på vejen, udplyndrede ham,
+
+han er blevet til spot for sine naboer.
+
+v43 Du har løftet hans modstanderes højre hånd,
+
+du har glædet alle hans fjender.
+
+v44 Ja, du vendte hans sværds klinge om,{E: Ordret: >>du vendte hans sværds klippe om<<. Ordet: *ṣûr* (>>klippe<<) er problematisk i sammenhængen. Måske betød det dog oprindelig >>flint/flintekniv<< (Jos 5,2), og derfra kan det forstås som noget skarpt og som klinge. Andre foreslår at rette: *ṣûr* til: *miṣṣar*: >>(du vendte hans sværd om) fra fjenden<<, eller: >>(du lod hans sværd vige tilbage) for fjenden<<.}
+
+og du lod ham ikke holde stand i krigen.
+
+v45 Du har gjort ende på hans glans
+
+og kastet hans trone til jorden.
+
+v46 Du har afkortet hans ungdoms dage,
+
+du har hyllet ham i skam. Sela
+
+v47 Hvor længe, JHVHv, vil du evigt skjule dig?
+
+hvor længe{T: Ordene >>hvor længe<< er underforstået fra forrige linje.} skal din harme brænde som ild?
+
+v48 Husk, hvilken livslængde jeg har,{E: Sætningen er vanskelig og omdiskuteret. Ordret kunne den lyde: >>Husk, jeg, hvad livslængden er<<.}
+
+til hvilken intethed du har skabt alle menneskebørn.{T: Ordret: >>Adams sønner<<.}
+
+v49 Hvilken mand kan leve uden at skulle se døden,
+
+kan redde sit liv{T: Ordret: >>sjæl<<.} fra dødsrigets magt?{T: Ordret: >>hånd<<.} Sela
+
+v50 Hvor er dine tidligere nådegerninger, Herre,
+
+som du tilsvor David i dit løfte?
+
+v51 Husk, Herre, spotten mod dine tjenere,
+
+husk,{T: Verbet >>husk<< er underforstået fra forrige linje.} at jeg i mit bryst bærer alle de mange folk,{E: Med støtte i den gamle syriske oversættelse retter man ofte: *kol-rabbîm* (>>alle de mange<<) til: *kᵊlimmat*: >>hån<< (>>husk, at jeg i mit bryst bærer folkenes hån<<).}
+
+v52 husk,{T: Ordet >>husk<< er stadig underforstået fra det foregående vers.} at dine fjender har spottet, JHVHv,
+
+at de har spottet din salvedes fodspor.
+
+==Liturgisk lovprisning==
+v53 Lovet være JHVH til evig tid!
+
+Amen, amen.
+
+

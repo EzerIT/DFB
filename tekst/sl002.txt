@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 17.06.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.02.2017>!!
 
 ===Salme 2===
 
@@ -51,7 +51,7 @@ jordens yderste ender som din ejendom.
 
 v9 Du skal knuse dem med et jernscepter;
 
-som pottemagerkar skal du smadre dem.<<
+som en pottemagers lertøj skal du smadre dem.<<
 
 
 ==Derfor formaner David til omvendelse og lydighed==
