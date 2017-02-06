@@ -1,7 +1,10 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 29.08.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+
 ===Salme 10{E: Salmen er uden overskrift. Sl 9 og 10 regnes ofte for én salme. De er begge alfabetiske, Sl 9 når halvt gennem alfabetet, og Sl 10 gennem den anden halvdel, dog med en del uregelmæssigheder.}===
 
 ==Klage over de ugudeliges ondskab og magt==
@@ -9,13 +12,13 @@ v1 Hvorfor, JHVHv, står du så langt borte?
 
 Hvorfor{T: >>Hvorfor<< er underforstået fra første halvvers.} skjuler du dig i trængselstider?
 
-v2 På grund af den ugudeliges hovmod vil den hjælpeløse brænde{E: I angst. Mange ændrer vokaliseringen af *bᵊgaˀᵃwat’* >>på grund af hovmod<< til *bᵊgaˀᵃût* >>i hovmod<<: >>I hovmod jager den ugudelige den hjælpeløse<<.},
+v2 På grund af den ugudeliges hovmod vil han forfølge den hjælpeløse{E: Mange ændrer vokaliseringen af *bᵊgaˀᵃwat’* >>på grund af hovmod<< til *bᵊgaʔût* >>i hovmod<<: >>I hovmod jager den ugudelige den hjælpeløse<<.},
 
 de{T: hjælpeløse.} vil blive fanget i de rænker disse{T: ugudelige.} har udtænkt{E: En anden mulig oversættelse er: >>Måtte de (de gudløse) blive fanget i de rænker de har udtænkt<<.}.
 
 v3 For den ugudelige jublede over sin sjæls ønske{T: Her i betydningen: >>begær<<},
 
-og bedrageren velsignede han, JHVH foragtede han{E: Jødiske lærde har ment at de to sidste ord i v.3 (>>JHVH foragtede han<<) skal høre til v.4: >>Den ugudelige hånede JHVH i sit hovmod<<.}.
+og bedrageren forbandede og foragtede JHVH{E: Sætningen er omdiskuteret. Andre oversætter: >>og bedrageren velsignede/roste han, men foragtede JHVH<<. Verbet *brk* betyder i de allerfleste sammenhænge >>velsigne/prise/rose<<, men enkelte steder er det opfattet ironisk så det må oversættes: >>forbande<<. Jødiske lærde har ment at de to sidste ord i v.3 (>>JHVH foragtede han<<) skal høre til v.4: >>Den ugudelige hånede JHVH i sit hovmod<<.}.
 
 v4 Den ugudelige tænker{T: >>Tænker<< står ikke i grundteksten, men er underforstået i sammenhængen.} i sit hovmod{T: Ordret: >>efter sin næses højde<<.}:
 
@@ -47,7 +50,7 @@ v9 Han ligger på lur i skjul som en løve i sin hule,
 
 han lurer på at fange en elendig,
 
-han fanger en elendig idet han trækker ham{T: Trækker ham til sig.} med sit garn.
+han fanger en elendig, idet han trækker ham{T: Trækker ham til sig.} med sit  net.
 
 v10 Knust synker han{T: den elendige.} til jorden,
 

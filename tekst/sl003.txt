@@ -1,10 +1,12 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 29.08.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+
 ===Salme 3===
 
-==Overskrift==
 v1 En salme af David, da han flygtede for sin søn Absalom{T: Ordret: >>for sin søn Absaloms ansigt<<.}.
 
 ==Davids nød==
@@ -31,7 +33,7 @@ v6 Jeg lagde mig og sov;
 
 jeg vågnede, for JHVH støtter mig.
 
-v7 Jeg vil ikke frygte for ti tusind folk{T: Ordet *ʕām* (>>folk<<) er her brugt i militær betydning >>krigere<<.}
+v7 Jeg vil ikke frygte for en skare på ti tusind {T: Ordet *ʕām* (>>folk/skare<<) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.}
 
 der har rejst sig imod mig fra alle sider.
 

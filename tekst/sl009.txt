@@ -1,8 +1,11 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 29.08.2016>!!
-===Salme 9{E: Se note til Sl 10}===
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+
+===Salme 9 {E: Se note til Sl 10}===
 
 ==Overskrift==
 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum, der betyder >>dirigere<<.}. Al-muth-labben{T: Musikalsk anvisning af ukendt betydning. Ordret: >>Efter død for sønnen<<.}. Salme af David. 
@@ -20,7 +23,7 @@ v4 Når mine fjender kommer tilbage,
 
 vil de snuble og gå til grunde for dit ansigt.
 
-v5 For du har påtaget dig min ret og min sag,
+v5 For du har påtaget dig min retssag og min ret,
 
 du har sat dig på tronen, retfærdige dommer.
 

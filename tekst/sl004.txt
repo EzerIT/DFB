@@ -1,10 +1,12 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 29.08.2016>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 06.02.2017>!!
+
+
 ===Salme 4===
 
-==Overskrift==
 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}. Med strengespil. En salme af David. 
 
 ==Nødråb==
@@ -26,7 +28,7 @@ v4 Men I skal vide at JHVH har udvalgt{E: Verbet forekommer kun her og i 2 Mos 8
 JHVH hører, når jeg råber til ham.
 
 
-v5 Ryst, men synd ikke{E: Meningen her med verbet *rigzû* (>>ryst<<) er omdiskuteret. Meningen er enten: >>Bliv vrede, (men synd ikke)<<. I det tilfælde er vreden rettet mod salmisten. Eller: >>Skælv (for Gud) (og synd ikke)<<.}!
+v5 Bliv oprørte, men synd ikke{E: Meningen her med verbet *rigzû* (>>bliv oprørte<<, ordret: >>ryst<<) er omdiskuteret. Meningen er enten: >>Bliv vrede, (men synd ikke)<<. I det tilfælde er vreden rettet mod salmisten. Eller: >>Skælv (for Gud) (og synd ikke)<<.}!
 
 Tænk efter{T: Ordret: >>tal i jeres hjerte<<.} på jeres leje, og vær stille! Sela
 
