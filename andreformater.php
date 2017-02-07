@@ -14,7 +14,7 @@ makemenus(4);
                     col-lg-offset-2 col-lg-8">
           <div class="panel panel-default">
             <div class="panel-body">
-              <img class="img-responsive pull-right hidden-xs hidden-sm" style="margin-top: 0px; margin-left: 10px" src="img/Equinox20-300.jpg" alt="">
+              <img class="img-responsive pull-right hidden-xs hidden-sm" style="width: 220px; margin-top: 0px; margin-left: 10px" src="img/Equinox20-300.jpg" alt="">
               <h1>Andre formater</h1>
               
               <p>En PDF-fil med de bibeltekster der er markeret »færdig« eller »delvis færdig«, kan downloades <a href="dfb.pdf">her</a>.</p>
