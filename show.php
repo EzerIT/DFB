@@ -44,8 +44,8 @@ global $chaptype, $chap, $style;
         <?php for ($j=0; $j<$chap_per_line; ++$j): ?>
           <?php if (++$chix < $chcount): ?>
             <?php $chno = $chap[$book][$chix]; ?>
-              <td><a style="width:100%" href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>"
-                     class="btn <?= $chno==$kapitel ? 'btn-default' : (is_array($style[$book]) ? $style[$book][$chno] : $style[$book]) ?>"><?= $chno ?></a></td>
+              <td><a href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>"
+                     class="btn chap-btn <?= $chno==$kapitel ? 'btn-default' : (is_array($style[$book]) ? $style[$book][$chno] : $style[$book]) ?>"><?= $chno ?></a></td>
           <?php else: ?>
             <td></td>
           <?php endif; ?>
