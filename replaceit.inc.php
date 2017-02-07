@@ -16,34 +16,9 @@ function replaceit($filename, $chapter, &$title, &$credit) {
 
     preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
     $credit = $meta_matches[1];
-    
-    if (preg_match('/===(.*)\s*{T: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead">[1]</span></span>';
-        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
-        ++$nextnumber;
-    }
-    elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead">[a]</span></span>';
-        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
-        ++$nextletter;
-    }
-    else {
-        preg_match('/===(.*)===/',$txt,$tit);
-        $title = $tit[1];
-        $refbodyhead = '';
-    }
 
     $from[] = '/!!<.*>!!/';
     $to[] = '';
-
-    $from[] = '/===(.*)===/';
-    $to[] = '';
-
-    $from[] = '/^\s*==/m';
-    $to[] = "\n@";
-
-    $from[] = '/==\s*$/m';
-    $to[] = "@\n";
 
     $from[] = '/>>>/';
     $to[] = '»›';
@@ -66,11 +41,42 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/\'/';
     $to[] = '&rsquo;';
 
-    $from[] = '/\*\*\*/';
-    $to[] = '&nbsp;';
-
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '<i>\1</i>';
+
+    $txt =  preg_replace($from, $to, $txt);
+
+    $from = array();
+    $to = array();
+    
+    
+    if (preg_match('/===(.*)\s*{T: *([^}]+)}===/',$txt,$tit)) {
+        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead">[1]</span></span>';
+        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        ++$nextnumber;
+    }
+    elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
+        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead">[a]</span></span>';
+        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        ++$nextletter;
+    }
+    else {
+        preg_match('/===(.*)===/',$txt,$tit);
+        $title = $tit[1];
+        $refbodyhead = '';
+    }
+
+    $from[] = '/===(.*)===/';
+    $to[] = '';
+
+    $from[] = '/^\s*==/m';
+    $to[] = "\n@";
+
+    $from[] = '/==\s*$/m';
+    $to[] = "@\n";
+
+    $from[] = '/\*\*\*/';
+    $to[] = '&nbsp;';
 
     $from[] = '/\s*{E: *([^}]+)}/';
     $to[] = '<span class="ref refa"><span class="refnum">[REFALET]</span><span class="refbody">\1</span></span>';

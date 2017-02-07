@@ -1,20 +1,13 @@
 <?php
 
-$chap['dom']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21);
-$chap['ruth']     = array(1, 2, 3, 4);
-$chap['sl']       = array( 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-                          21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
-                          41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
-                          61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80,
-                          81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100);
-$chap['es']       = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-                          21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
-                          41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
-                          61, 62, 63, 64, 65, 66);
+$chap['dom']      = range(1,21);
+$chap['ruth']     = range(1,4);
+$chap['sl']       = range(1,110);
+$chap['es']       = range(1,66);
 $chap['jer']      = array(1, 2, 7);
-$chap['zak']      = array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14);
+$chap['zak']      = range(1,14);
 
-$chap['1thess']      = array(1, 2, 3, 4, 5);
+$chap['1thess']   = range(1,5);
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
@@ -76,83 +69,10 @@ $style['sl']      = array( 1 => 'btn-success',
                           21 => 'btn-info', 
                           22 => 'btn-info', 
                           23 => 'btn-success', 
-                          24 => 'btn-success', 
-                          25 => 'btn-info', 
-                          26 => 'btn-info', 
-                          27 => 'btn-info', 
-                          28 => 'btn-info', 
-                          29 => 'btn-info', 
-                          30 => 'btn-info', 
-                          31 => 'btn-info', 
-                          32 => 'btn-info', 
-                          33 => 'btn-info', 
-                          34 => 'btn-info', 
-                          35 => 'btn-info', 
-                          36 => 'btn-info', 
-                          37 => 'btn-info', 
-                          38 => 'btn-info', 
-                          39 => 'btn-info', 
-                          40 => 'btn-info', 
-                          41 => 'btn-info', 
-                          42 => 'btn-info', 
-                          43 => 'btn-info', 
-                          44 => 'btn-info', 
-                          45 => 'btn-info', 
-                          46 => 'btn-info', 
-                          47 => 'btn-info', 
-                          48 => 'btn-info', 
-                          49 => 'btn-info', 
-                          50 => 'btn-info',
-                          51 => 'btn-info', 
-                          52 => 'btn-info', 
-                          53 => 'btn-info', 
-                          54 => 'btn-info', 
-                          55 => 'btn-info', 
-                          56 => 'btn-info', 
-                          57 => 'btn-info', 
-                          58 => 'btn-info', 
-                          59 => 'btn-info', 
-                          60 => 'btn-info',
-                          61 => 'btn-info', 
-                          62 => 'btn-info', 
-                          63 => 'btn-info', 
-                          64 => 'btn-info', 
-                          65 => 'btn-info', 
-                          66 => 'btn-info', 
-                          67 => 'btn-info', 
-                          68 => 'btn-info', 
-                          69 => 'btn-info', 
-                          70 => 'btn-info',
-                          71 => 'btn-info', 
-                          72 => 'btn-info', 
-                          73 => 'btn-info', 
-                          74 => 'btn-info', 
-                          75 => 'btn-info', 
-                          76 => 'btn-info', 
-                          77 => 'btn-info', 
-                          78 => 'btn-info', 
-                          79 => 'btn-info', 
-                          80 => 'btn-info',
-                          81 => 'btn-info', 
-                          82 => 'btn-info', 
-                          83 => 'btn-info', 
-                          84 => 'btn-info', 
-                          85 => 'btn-info', 
-                          86 => 'btn-info', 
-                          87 => 'btn-info', 
-                          88 => 'btn-info', 
-                          89 => 'btn-info', 
-                          90 => 'btn-info',
-                          91 => 'btn-info', 
-                          92 => 'btn-info', 
-                          93 => 'btn-info', 
-                          94 => 'btn-info', 
-                          95 => 'btn-info', 
-                          96 => 'btn-info', 
-                          97 => 'btn-info', 
-                          98 => 'btn-info', 
-                          99 => 'btn-info', 
-                          100 => 'btn-info');
+                          24 => 'btn-success');
+for ($k=25; $k<=110; ++$k)
+    $style['sl'][$k] = 'btn-info';
+
 $style['es']      = array( 1 => 'btn-success',
                            2 => 'btn-success', 
                            3 => 'btn-success', 

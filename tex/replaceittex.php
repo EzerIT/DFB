@@ -103,6 +103,9 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\.\.\./';
     $to[] = '…';  // \ldots ?
 
+    $from[] = '/Sl (\d)/';
+    $to[] = 'Sl~\1';
+    
     $txt = preg_replace($from, $to, $txt);
 
     $txt = preg_replace_callback('/@([^@]+)@/',  // Handles footnotes within headings

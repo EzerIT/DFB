@@ -1,0 +1,186 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 07.02.2017>!!
+
+===Salme 107{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 106 i stedet være indledning til Sl 107.}===
+
+==Opfordring til taksigelse==
+v1 Tak JHVH, for han er god,
+
+for hans nåde{T: *ḥesed* oversættes undertiden: >>trofasthed<<. Tidligere oversat: >>miskundhed<<.} varer til evig tid.
+
+v2 Det skal JHVHs genløste sige,
+
+dem, som han har genløst af fjendes{E: Grundtekstens: *ṣār* (>>fjende<<) kan også oversættes: >>nød<<, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).} hånd,
+
+v3 og som han har samlet fra landene,
+
+fra øst{T: Ordret: >>fra opgang<<.} og fra vest{T: Ordret: >>fra nedgang<<.}, fra nord og fra hav.{E: Mange oversættere vælger at følge en foreslået rettelse af: *miyyām* (>>fra hav<<) til: *miyyāmîn*: >>fra syd<<. Der er dog ingen håndskrifter, der støtter rettelsen.}
+
+==Gud frelste fra ørkenen==
+v4 De flakkede om i ørkenen, på en øde vej,{E: Ofte flytter man masoreternes skillende accent tilbage fra *derex* (>>vej<<) til: *yᵊšîmôn* (>>øde/ødemark<<), så *derex* hører til anden verslinje. Verset lyder så: >>De flakkede om i ørkenen, i en ødemark, / de fandt ikke vej til en by at bo i<<.}
+
+de fandt ikke en by at bo i;
+
+v5 de var sultne og også tørstige,
+
+deres sjæl vansmægtede i dem.
+
+v6 De råbte til JHVH i deres nød,
+
+han reddede dem ud af deres trængsler.
+
+v7 Han førte dem ad rette vej,
+
+så de gik til en by, de kunne bo i.
+
+v8 De skal takke JHVH for hans nåde
+
+og for hans undere mod menneskebørn,
+
+v9 for han har tilfredsstillet{T: Ordret: >>mættet<<.} en tørstig sjæl
+
+og har fyldt en sulten sjæl med godt.
+
+==Gud frelste fra fangehullet==
+v10 De sad i mørke og i dødsskygge,{E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.}
+
+fanger i elendighed og jern,
+
+v11 for de havde været genstridige imod Guds ord
+
+og havde foragtet den Højestes beslutning.
+
+v12 Han ydmygede deres hjerte med plager,
+
+de snublede, og der var ingen hjælper.
+
+v13 De råbte til JHVH i deres nød,
+
+han frelste dem af deres trængsler.
+
+v14 Han førte dem af mørke og dødsskygge{E: Se note til v.10.}
+
+og sønderrev deres lænker.
+
+v15 De skal takke JHVH for hans nåde
+
+og for hans undere mod menneskebørn,
+
+v16 for han har knust metalporte{E: Ordet: *nᵊḥōšet* oversættes både ved: >>kobber, bronze<< og >>metal<<.}
+
+og hugget jernslåer af.
+
+==Gud frelste fra sygdom==
+v17 Dårer, på grund af deres overtrædelser{E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: >>De blev dårer ved deres overtrædelser<<. Fortolkere har foreslået at rette: *ʔᵉwilîm* (>>dårer<<) til enten: *ʔumlālîm*: >>hensygnende<< (>>De sygnede hen på grund af deres overtrædelser<<) eller: * ḥôlîm*: >>syge<< (>>de blev syge …<<).}
+
+og på grund af deres synder blev de plaget.
+
+v18 Deres sjæl afskyede al mad,
+
+og de kom nær til dødens porte.
+
+v19 Da råbte de til JHVH i deres nød,
+
+han frelste dem fra deres trængsler.
+
+v20 Han sendte sit ord for at helbrede dem
+
+og redde fra deres grave.{E: Undertiden retter man: *miššᵊḥîtôtām* (>>fra deres grave<<) til: *miššaḥat ḥayyātām*: >>deres liv fra graven<<. Rettelsen har dog ingen støtte i håndskrifter.}
+
+v21 De skal takke JHVH for hans nåde
+
+og for hans undere mod menneskebørn,
+
+v22 og de skal ofre takofre
+
+og fortælle om hans gerninger med jubel.
+
+==Gud frelste fra druknedøden==
+v23 De, som drog ud på havet i skibe,
+
+som drev handel på store vande,{T: Kan også oversættes: >>mange vande<<.}
+
+v24 de så JHVHs gerninger
+
+og hans undere på dybet.
+
+v25 Han talte, og fik et stormvejr til at rejse sig,
+
+og det rejste dets bølger.
+
+v26 De steg op mod himlen, steg ned i dybet,
+
+deres sjæl tabte modet i ulykken.
+
+v27 De dansede og ravede som den berusede,
+
+og al deres visdom blev forvirret.
+
+v28 Da råbte de til JHVH i deres nød,
+
+han frelste dem fra deres trængsler.
+
+v29 Han fik stormen til at stilne af,
+
+og deres{E: >>deres<< går enten på de >>store vande<< (v.23) eller på søfolkene, som var truet af bølgerne. Mange oversættere følger den syriske oversættelse, der forudsætter: *gallê hayām*: >>havets bølger<<, i stedet for den masoretiske teksts: *gallêhem* (>>deres bølger<<).} bølger lagde sig.
+
+v30 De blev glade, fordi de faldt til ro,
+
+og han førte dem til en havn, som de ønskede.
+
+v31 De skal takke JHVH for hans nåde
+
+og for hans undere mod menneskebørn
+
+v32 og ophøje ham i folkets menighed
+
+og prise ham i de ældstes forsamling.
+
+==Lovprisning af JHVH magt og trofasthed==
+v33 Han kan gøre floder til en ørken
+
+og kildevæld til udtørret jord,
+
+v34 frugtbart land til saltsteppe
+
+på grund af ondskaben hos dem, som bor der.
+
+v35 Han kan gøre ørken til vanddam
+
+og tør jord til kildevæld.
+
+v36 Der lod han de sultne bo,
+
+så de kunne grundlægge en by at bo i.
+
+v37 De tilsåede marker og plantede vingårde,
+
+og fik en frugtbar høst.
+
+v38 Han velsignede dem, og de blev rigtig mange,
+
+og han formindskede ikke deres kvægbestand.
+
+v39{E: Overgangen v.38-39 er meget brat og uformidlet. Man bytter derfor ofte om på v. 39 og v.40. V.39 må da oversættes: >>så de blev få …<<.} De blev få og blev nedbøjede
+
+under tryk af ulykke og plage.
+
+v40 Han, som øser foragt ud over fyrster,
+
+lod dem flakke om i en ørken uden vej.
+
+v41 Men han løftede en fattig op af elendighed
+
+og gjorde slægter frugtbare som småkvæget.{T: Ordret blot: >>han gjorde slægter som småkvæget<<.}
+
+v42 De retskafne skal se det og glæde sig,
+
+mens al uretfærdighed har lukket sin mund til.
+
+v43 Den, som er viis, skal give agt dette,
+
+og de skal reflektere over JHVHs nåde!{T: Tidligere oversat: >>miskundhed<<. Nu oversættes: *ḥesed* ofte ved: >>trofasthed<<.}
+
+
