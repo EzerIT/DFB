@@ -1,10 +1,11 @@
-!!<Modenhed: Delvis færdig>!!
+'!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 14.01.2017>!!
 
 ===Salme 78===
 
+==Overskrift==
 v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Asaf.
 
 == Asaf opmuntrer Guds folk til at agte på hans tale og undervisning==
