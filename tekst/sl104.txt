@@ -1,18 +1,18 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 104===
 
-==JHVH er stor!==
-Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker, når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH!
+== JHVH er stor!==
+Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH!
 
 JHVHv, min Gud, du er meget stor!
 
 Du har iført dig højhed og ære.
 
-v2 Han er hyllet{E: Verberne i v.2-4 står som participier, der understreger skabelsens stadige fortsættelse. Nogle oversættere vælger at se participierne som tæt knyttet til verberne i v.1 og oversætter: >>Du er hyllet …<<, >>du spænder …<< osv.} i lys som kappe,
+v2 Han er hyllet{E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Nogle oversættere vælger at se participierne som tæt knyttet til verberne i v.1 og oversætter: >>Du er hyllet …<<, >>du spænder …<< osv.} i lys som kappe,
 
 han spænder himlen ud som en teltdug.
 
@@ -41,9 +41,9 @@ løb skræmt bort for din tordens skrald.{T: Ordret: >>din tordens røst<<.}
 
 v8 Det steg op over bjerge og ned i dale
 
-til det sted, som du fastsatte for det.
+til det sted som du fastsatte for det.
 
-v9 Du satte en grænse, det ikke må overskride,
+v9 Du satte en grænse det ikke må overskride,
 
 det skal ikke igen dække jorden.
 
@@ -70,7 +70,7 @@ og planter til mennesket at arbejde med{T: Ordret: >>til menneskets arbejde<<. D
 
 for at frembringe brød af jorden
 
-v15 og vin, der glæder et menneskes hjerte,
+v15 og vin der glæder et menneskes hjerte,
 
 så ansigtet kommer til at stråle af olie,{T: Kan også oversættes: >>stråle mere end olie<<.}
 
@@ -78,11 +78,11 @@ og brød styrker et menneskes hjerte.
 
 v16 JHVHs træer mættes,
 
-Libanons cedre, som han har plantet,
+Libanons cedre som han har plantet
 
 v17 der hvor fuglene bygger rede,
 
-storken, hvis bo er cypresser.
+storken hvis bo er cypresser.
 
 v18 De høje bjerge er for stenbukkene,
 
@@ -127,7 +127,7 @@ v26 Der sejler{T: Ordret: >>går<<.} skibene,
 der er{E: Ordene: >>der er<< står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: >>der går/sejler<< styrer også denne linje.} Livjatan, som du skabte til at lege med.{E: Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: >>til at lege deri<<.}
 
 ==Alt liv er afhængigt af Gud==
-v27 De venter alle med håb på dig,
+v27 De venter alle med håb på dig
 
 at du skal give dem deres føde i rette tid.
 
@@ -154,9 +154,9 @@ v32 Han ser på jorden, og den skælver,
 
 han rører ved bjerge, og de ryger.
 
-v33 Jeg vil synge for JHVH, så længe jeg lever,{T: Ordret: >>i mit liv<<.}
+v33 Jeg vil synge for JHVH så længe jeg lever,{T: Ordret: >>i mit liv<<.}
 
-jeg vil lovsynge min Gud, så længe jeg er til.{T: Ordret: >>i min varighed<<.}
+jeg vil lovsynge min Gud så længe jeg er til.{T: Ordret: >>i min varighed<<.}
 
 v34 Gid mit digt{T: Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: >>from, bedende tale<<.} må behage ham,
 

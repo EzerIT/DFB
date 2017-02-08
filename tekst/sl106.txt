@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 106===
 
@@ -16,13 +16,13 @@ v2 Hvem kan fortælle om JHVHs vældige gerninger,
 
 forkynde al hans pris?
 
-v3 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de, som våger over ret,
+v3 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de som våger over ret,
 
-og den, som øver{E: Således den masoretiske tekst. En del håndskrifter har dog pluralis: >>de som øver<< (*ʕōśê* i stedet for *ʕōśēʰ*).} retfærdighed til alle tider.
+og den som øver{E: Således den masoretiske tekst. En del håndskrifter har dog pluralis: >>de som øver<< (*ʕōśê* i stedet for *ʕōśēʰ*).} retfærdighed til alle tider.
 
 v4 Husk mig, JHVHv, med velviljen til dit folk,
 
-tag dig af mig med din frelse,
+tag dig af mig med din frelse
 
 v5 så jeg må se dine udvalgtes lykke,
 
@@ -41,7 +41,7 @@ gav ikke agt på dine undere,
 
 de huskede ikke mængden af dine nådesbevisninger,
 
-men var genstridige ved et hav,{E: Mange går ud fra, at *ʕal-yām* (>>ved et hav<<) er en skrivefejl. Teksten er på ingen måde umulig, men det er bemærkelsesværdigt, at der i sætningen er benyttet to forskellige præpositioner, der begge oversættes: >>ved<< (*ʕal* og *bᵊ*). De fleste går ud fra, at der skulle stå: *ʕelyôn*: >>(mod) den Højeste<<. Det giver god mening: >>men (de) var genstridige mod den Højeste ved Sivhavet<<. Der er dog også andre forslag, og der er ingen afvigelser i håndskrifterne.} ved Sivhavet.
+men var genstridige ved et hav,{E: Mange går ud fra at *ʕal-yām* (>>ved et hav<<) er en skrivefejl. Teksten er på ingen måde umulig, men det er bemærkelsesværdigt at der i sætningen er benyttet to forskellige præpositioner der begge oversættes: >>ved<< (*ʕal* og *bᵊ*). De fleste går ud fra at der skulle stå: *ʕelyôn*: >>(mod) den Højeste<<. Det giver god mening: >>men (de) var genstridige mod den Højeste ved Sivhavet<<. Der er dog også andre forslag, og der er ingen afvigelser i håndskrifterne.} ved Sivhavet.
 
 v8 Dog frelste han dem for sit navns skyld
 
@@ -71,7 +71,7 @@ v14 De fik et voldsomt begær{T: >>de begærede med begær<<.} i ørkenen
 
 og fristede Gud i ødemarken.
 
-v15 Da gav han dem det, de begærede,
+v15 Da gav han dem det de begærede,
 
 men sendte tærende sygdom mod dem.{T: Ordret: >>mod deres sjæl<<. Andre oversætter: >>på halsen<<.}
 
@@ -93,7 +93,7 @@ og tilbad et støbt billede.
 
 v20 De ombyttede deres herlighed
 
-med billedet af en okse, som æder græs.
+med billedet af en okse som æder græs.
 
 v21 De glemte Gud, deres frelser,
 
@@ -103,7 +103,7 @@ v22 undere i Kams land,
 
 frygtindgydende gerninger ved Sivhavet.
 
-v23 Han sagde,{E: Andre oversætter her *wayyōˀmer* ved: >>han havde besluttet<< eller: >>han truede med<<.} at han ville udrydde dem,
+v23 Han sagde{E: Andre oversætter her *wayyōˀmer* ved: >>han havde besluttet<< eller: >>han truede med<<.} at han ville udrydde dem,
 
 hvis ikke Moses, hans udvalgte,
 
@@ -119,7 +119,7 @@ v25 De murrede i deres telte,
 
 de hørte ikke på JHVHs røst.
 
-v26 Da løftede han sin hånd mod dem,{E: Den hebraiske tekst kan både betyde, at Gud aktivt slår folket ned – og at han aflægger ed på, at han vil gøre det.}
+v26 Da løftede han sin hånd mod dem{E: Den hebraiske tekst kan både betyde at Gud aktivt slår folket ned – og at han aflægger ed på at han vil gøre det.}
 
 for at slå dem ned i ørkenen,
 
@@ -159,7 +159,7 @@ v35 De blandede sig med folkene{E: Det hebraiske *gôyim* (>>folkene<<) oversæt
 
 og lærte deres gerninger.
 
-v36 De tilbad deres gudebilleder,
+v36 De tilbad deres gudebilleder
 
 som blev til en snare for dem.
 
@@ -197,22 +197,22 @@ men de var genstridige mod ham med deres beslutning
 
 og sank ned i deres skyld.
 
-v44 Dog så han til dem i nøden,
+v44 Dog så han til dem i nøden
 
 da han hørte deres skrig.
 
-v45 Han huskede for deres skyld sin pagt,
+v45 Han huskede for deres skyld sin pagt
 
 og havde medlidenhed, som hans nåde er stor.
 
 v46 Han lod dem finde barmhjertighed{T: Ordret: >>Han gjorde dem til barmhjertighed<<.}
 
-hos alle dem, som havde ført dem i fangenskab.
+hos alle dem som havde ført dem i fangenskab.
 
 ==Bøn==
 v47 Frels os, JHVHv, vor Gud,
 
-og saml os fra folkene,
+og saml os fra folkene
 
 så vi kan takke dit hellige navn,{T: Ordret: >>din helligheds navn<<.}
 

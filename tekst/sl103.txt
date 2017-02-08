@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 103===
 
@@ -9,7 +9,7 @@
 v1 Af David.
 
 ==Min sjæl, pris JHVH!==
-Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker, når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH,
+Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH,
 
 og hele mit indre skal prise{E: Ordene: >>skal prise<< er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.} hans hellige navn!
 
@@ -17,15 +17,15 @@ v2 Min sjæl, pris JHVH,
 
 og glem ikke alle hans velgerninger,
 
-v3 ham, som tilgiver dig al din skyld,
+v3 ham som tilgiver dig al din skyld,
 
-ham, som helbreder alle dine sygdomme,
+ham som helbreder alle dine sygdomme,
 
-v4 ham, som udløser dit liv fra graven,
+v4 ham som udløser dit liv fra graven,
 
-ham, som kroner dig med nåde{T: Tidligere oversat: >>miskundhed<<, nu ofte oversat: >>godhed<< eller >>trofasthed<<.} og barmhjertighed,
+ham som kroner dig med nåde{T: Tidligere oversat: >>miskundhed<<, nu ofte oversat: >>godhed<< eller >>trofasthed<<.} og barmhjertighed,
  
-v5 ham, som mætter dit liv{E: Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver, der byttes om.} med det gode,
+v5 ham som mætter dit liv{E: Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.} med det gode,
 
 så din ungdom bliver ny igen som ørnen.{T: Grundtekstens ord kan også betyde: >>gribben<<.}
 
@@ -52,7 +52,7 @@ og ikke lønnet os efter vor skyld.
 
 v11 For så høj som himlen er over jorden,
 
-så mægtig har hans nåde været over dem, som frygter ham.
+så mægtig har hans nåde været over dem som frygter ham.
 
 v12 Så langt som øst{T: Ordret: >>opgang<<.} er fra vest,{T: Ordret: >>nedgang<<.}
 
@@ -60,13 +60,13 @@ har han fjernet vore overtrædelser fra os.
 
 v13 Som en far forbarmer sig{T: Ordret: >>som en fars forbarmen sig<<} over børn,
 
-har JHVH forbarmet sig over dem, som frygter ham.
+har JHVH forbarmet sig over dem som frygter ham.
 
-v14 For han ved, at vi er skabt,{T: Ordret: >>kender vor skabning/skabthed<<}
+v14 For han ved at vi er skabt,{T: Ordret: >>kender vor skabning/skabthed<<}
 
-han husker på, at vi er støv.
+han husker på at vi er støv.
 
-v15 Et menneske{T: Grundtekstens ord *ʔᵉnôš* bruges, hvor menneskets svaghed pointeres.} – som græs er dets dage,
+v15 Et menneske{T: Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.} – som græs er dets dage,
 
 som markens blomst blomstrer det.
 
@@ -74,26 +74,26 @@ v16 Når en vind farer over det,{E: På hebraisk er både >>menneske, græs<< og
 
 og dets sted kender det ikke længere.
 
-v17 Men JHVHs nåde er fra evighed og til evighed over dem, som frygter ham,
+v17 Men JHVHs nåde er fra evighed og til evighed over dem som frygter ham,
 
 og hans retfærdighed er med børns børn,
 
-v18 med dem, som holder hans pagt,
+v18 med dem som holder hans pagt,
 
-og med dem, som husker hans befalinger for at gøre derefter.
+og med dem som husker hans befalinger for at gøre derefter.
 
 ==Pris JHVH, alle hans skaberværker==
 v19 JHVH har rejst sin trone i himlen,
 
 og hans kongerige hersker over alle.
 
-v20 Pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker, når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH, I hans engle,
+v20 Pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH, I hans engle,
 
-I stærke krigere, som udfører hans ord, idet I adlyder hans befaling!{T: Ordret: >>hans ords røst<<.}
+I stærke krigere som udfører hans ord, idet I adlyder hans befaling!{T: Ordret: >>hans ords røst<<.}
 
 v21 Pris JHVH, alle hans hærskarer,
 
-I hans tjenere, som udfører hans vilje!
+I hans tjenere som udfører hans vilje!
 
 v22 Pris JHVH, alle hans værker
 

@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 105{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 104 i stedet være indledning til Sl 105}===
 
@@ -10,25 +10,25 @@ v1 Tak JHVH, udråb{E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest 
 
 kundgør hans gerninger blandt folkene!
 
-v2 Syng for ham, spil og syng lovsang{E: I grundteksten er det blot ét ord (*zammᵊrû*), der angiver forherligelse ved spil og sang.} for ham,
+v2 Syng for ham, spil og syng lovsang{E: I grundteksten er det blot ét ord (*zammᵊrû*) der angiver forherligelse ved spil og sang.} for ham,
 
 tal{E: Oversættelsen af verbet *śîḥû* på dette sted er omdiskuteret. Andre oversætter: >>syng<< eller: >>tænk over<<.} om alle hans undere!
 
 v3 Ros jer af hans hellige navn,{T: Ordret: >>hans helligheds navn<<.}
 
-deres hjerte, som søger JHVH, skal glæde sig!
+deres hjerte som søger JHVH, skal glæde sig!
 
 v4 Spørg efter JHVH og hans magt,
 
 søg altid hans ansigt!
 
-v5 Husk hans undere, som han har udført,
+v5 Husk hans undere som han har udført,
 
 hans tegn og hans munds domme.
 
 v6 I efterkommere{T: Ordret: >>sæd<<.} af Abraham, hans tjener,{E: Septuaginta har læst ordet *ʕavdô* (>>hans tjener<<) som pluralis, så det går på >>efterkommere<<: >>I hans tjenere, efterkommere af Abraham<<.}
 
-I hans udvalgte{E: To håndskifter har singularis (>>den udvalgte<<), der da går på Jakob: >>I sønner af Jakob, hans udvalgte<<.} sønner af Jakob!
+I hans udvalgte{E: To håndskifter har singularis (>>den udvalgte<<) der da går på Jakob: >>I sønner af Jakob, hans udvalgte<<.} sønner af Jakob!
 
 ==Guds pagt og løfte==
 v7 Han er JHVH, vor Gud,
@@ -37,7 +37,7 @@ hans domme gælder over hele jorden.
 
 v8 Han husker evigt sin pagt,
 
-det ord, som han har forordnet til tusind slægtled,
+det ord som han har forordnet til tusind slægtled,
 
 v9 som han har indgået med Abraham,
 
@@ -72,7 +72,7 @@ og gør ikke mine profeter noget ondt!<<
 
 v16 Da han kaldte hungersnød over landet,
 
-sønderbrød enhver brødstav,{E: Det er omdiskuteret, om der er tænkt på en stav, hvor de ringformede brød var anbragt, eller figurativt om brødet som støttestav i livet.}
+sønderbrød enhver brødstav,{E: Det er omdiskuteret om der er tænkt på en stav hvor de ringformede brød var anbragt, eller figurativt om brødet som støttestav i livet.}
 
 v17 sendte han en mand forud for dem,
 
@@ -80,21 +80,21 @@ Josef blev solgt som træl.
 
 v18 De tvang hans fødder i fodlænke,
 
-jern gennemtrængte hans sjæl{E: Oversættelsen af linjen er omdiskuteret. Denne oversættelse opfatter sætningen som billedligt udtryk for sjælelig smerte. Det forudsættes, at >>jern<< er brugt som synonym for sværd. Andre forstår *nafšô* (>>hans sjæl<<) som: >>hans hals<<, så linjen oversættes: >>hans hals blev lagt i jern<<.}
+jern gennemtrængte hans sjæl{E: Oversættelsen af linjen er omdiskuteret. Denne oversættelse opfatter sætningen som billedligt udtryk for sjælelig smerte. Det forudsættes at >>jern<< er brugt som synonym for sværd. Andre forstår *nafšô* (>>hans sjæl<<) som: >>hans hals<<, så linjen oversættes: >>hans hals blev lagt i jern<<.}
 
-v19 indtil den tid, da hans ord indtraf,
+v19 indtil den tid da hans ord indtraf,
 
 JHVHs tale havde lutret ham.
 
 v20 Kongen sendte bud og satte ham fri,
 
-folkeslags hersker løslod ham.{E: Sprogligt kan Gud være subjekt i verset: >>Han sendte kongen, som satte ham fri, folkeslags hersker, som løslod ham<<. I v.21 er det dog kongen (Farao), der er subjekt.}
+folkeslags hersker løslod ham.{E: Sprogligt kan Gud være subjekt i verset: >>Han sendte kongen som satte ham fri, folkeslags hersker som løslod ham<<. I v.21 er det dog kongen (Farao) der er subjekt.}
 
 v21 Han satte ham til herre over sit hus
 
-og til hersker over al sin ejendom,
+og til hersker over al sin ejendom
 
-v22 så han kunne vejlede{E: Ordret formodentlig: >>så han kunne binde hans fyrster til sin sjæl<<. Med bl.a. Septuaginta retter man som regel *leˀsōr* (>>binde<<) til: *lᵊyassēr*: >>vejlede<<. Det kan ikke udelukkes, at *ʔsr* blot er en afvigende stavemåde for *ysr*. Den masoretiske tekst kan dog muligvis oversættes: >>Så han (kongen) kunne binde sine fyrster til hans (Josefs) sjæl<<.} hans fyrster efter sin vilje{T: Ordret: >>sjæl<<.}
+v22 så han kunne vejlede{E: Ordret formodentlig: >>så han kunne binde hans fyrster til sin sjæl<<. Med bl.a. Septuaginta retter man som regel *leˀsōr* (>>binde<<) til: *lᵊyassēr*: >>vejlede<<. Det kan ikke udelukkes at *ʔsr* blot er en afvigende stavemåde for *ysr*. Den masoretiske tekst kan dog muligvis oversættes: >>Så han (kongen) kunne binde sine fyrster til hans (Josefs) sjæl<<.} hans fyrster efter sin vilje{T: Ordret: >>sjæl<<.}
 
 og give hans ældste visdom.
 
@@ -115,7 +115,7 @@ v26 Han sendte Moses, sin tjener,
 
 Aron, som han havde udvalgt.
 
-v27 Blandt dem proklamerede blandt de hans tegn{E: Ordret: >>de rejste blandt dem hans tegns ord/ting<<. Meningen må enten være, at Moses og Aron proklamerede Guds underfulde tegn blandt egypterne, eller at de udførte dem. Mange oversættere vælger en rettelse (som dog ikke har støtte i håndskrifter): *bām divrê* (>>blandt dem ord/ting<<) til: *bᵊmiṣrayim*: >>i Egypten<<. Linjen lyder så: >>De gjorde hans tegn i Egypten<<.}
+v27 Blandt dem proklamerede de hans tegn{E: Ordret: >>de rejste blandt dem hans tegns ord/ting<<. Meningen må enten være at Moses og Aron proklamerede Guds underfulde tegn blandt egypterne, eller at de udførte dem. Mange oversættere vælger en rettelse (som dog ikke har støtte i håndskrifter): *bām divrê* (>>blandt dem ord/ting<<) til: *bᵊmiṣrayim*: >>i Egypten<<. Linjen lyder så: >>De gjorde hans tegn i Egypten<<.}
 
 og hans undere i Kams land.
 
@@ -131,7 +131,7 @@ v30 Deres land vrimlede af frøer,
 
 ind i deres kongers kamre.
 
-v31 Han talte, så kom der fluer,{E: Det er usikkert, hvad ordet *ʕārōv* (>>fluer<<) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: >>bremser<<. Andre har opfattet det som >>spyfluer<< eller >>skadedyr<< eller >>sværm af insekter<<. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.}
+v31 Han talte, så kom der fluer,{E: Det er usikkert hvad ordet *ʕārōv* (>>fluer<<) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: >>bremser<<. Andre har opfattet det som >>spyfluer<< eller >>skadedyr<< eller >>sværm af insekter<<. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.}
 
 myg i hele deres landområde.
 
@@ -145,7 +145,7 @@ og knuste træerne i deres landområde.
 
 v34 Han talte, så kom der græshopper
 
-og græshoppelarver{E: Der er usikkerhed om den præcise betydning af ordet *yeleq*. Formodentlig er der her tænkt på endnu ikke udvoksede græshopper; en anden mulighed er, at det er en bestemt græshoppeart.} uden tal.
+og græshoppelarver{E: Der er usikkerhed om den præcise betydning af ordet *yeleq*. Formodentlig er der her tænkt på endnu ikke udvoksede græshopper; en anden mulighed er at det er en bestemt græshoppeart.} uden tal.
 
 v35 De åd alle planter i deres land,
 
@@ -168,7 +168,7 @@ v39 Han bredte en sky ud som et dækken
 
 og ild til at oplyse natten.
 
-v40 De bad,{E: Ordret: >>Han bad<<. Meningen kan være, at Moses bad. Som regel opfatter man dog enten formuleringen som kollektiv: >>man bad<<, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): >>de bad<<} og han bragte vagtler
+v40 De bad,{E: Ordret: >>Han bad<<. Meningen kan være at Moses bad. Som regel opfatter man dog enten formuleringen som kollektiv: >>man bad<<, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): >>de bad<<} og han bragte vagtler
 
 og mættede dem med himmelbrød.
 
@@ -179,7 +179,7 @@ det løb i de tørre områder som en strøm.
 ==Gud husker sit hellige løfte==
 v42 For han huskede sit hellige ord{T: Ordret: >>helligheds ord<<.}
 
-til{E: Ordret: >>med<<. Der er formodentlig tænkt på pagten, som er omtalt i v.8-9.} sin tjener Abraham.
+til{E: Ordret: >>med<<. Der er formodentlig tænkt på pagten som er omtalt i v.8-9.} sin tjener Abraham.
 
 v43 Han førte sit folk ud i glæde,
 
@@ -189,7 +189,7 @@ v44 Han gav dem folks lande,
 
 de tog folkeslags udbytte{T: Ordret: >>frugt af arbejde<<.} i besiddelse,
 
-v45 med det formål, at de skulle holde hans bestemmelser
+v45 med det formål at de skulle holde hans bestemmelser
 
 og overholde hans love.
 

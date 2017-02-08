@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 109===
 
@@ -48,15 +48,15 @@ og hans hustru enke.
 
 v10 Og hans børn skal strejfe om og tigge,
 
-de bliver krævet{E: Den masoretiske tekst har højst usædvanligt vokaliseret verbet som pu’al: *doršû* (>>bliver fordret<<). Som regel går man ud fra, at det skulle have været vokaliseret som qal: *dārᵊšû*: >>de skal søge<<. Andre følger Septuaginta, der har læst ordet som: *jᵊgoršû*: >>de skal fordrives<<.} ud af deres ruiner.
+de bliver krævet{E: Den masoretiske tekst har højst usædvanligt vokaliseret verbet som pu’al: *doršû* (>>bliver fordret<<). Som regel går man ud fra at det skulle have været vokaliseret som qal: *dārᵊšû*: >>de skal søge<<. Andre følger Septuaginta, der har læst ordet som: *jᵊgoršû*: >>de skal fordrives<<.} ud af deres ruiner.
 
-v11 En ågerkarl skal kaste garn ud efter alt det, han ejer,
+v11 En ågerkarl skal kaste garn ud efter alt det han ejer,
 
 og fremmede skal røve frugten af hans arbejde.
 
-v12 Der skal ikke være nogen, som bevarer nåde{T: Kan også oversættes: >> troskab<<.} imod ham,
+v12 Der skal ikke være nogen som bevarer nåde{T: Kan også oversættes: >> troskab<<.} imod ham,
 
-og der skal ikke være nogen, der forbarmer sig over hans faderløse!
+og der skal ikke være nogen der forbarmer sig over hans faderløse!
 
 v13 Hans efterkommere skal udryddes,
 
@@ -70,34 +70,34 @@ v15 De{T: Det er henvisning til fædres skyld og moders synd (v.14).} skal altid
 
 og han skal udrydde mindet om dem fra jorden.
 
-v16 Det sker, fordi han ikke huskede at vise nåde,
+v16 Det sker fordi han ikke huskede at vise nåde,
 
 men forfulgte en hjælpeløs og fattig mand
 
-og en, som var modløs i hjertet, for at dræbe.
+og en som var modløs i hjertet, for at dræbe.
 
 v17 Han elskede forbandelse,
 
-og den skal komme{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>og den kom<<. Sammenhængen tyder dog på, at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal komme<< (*wattᵊvôʔēhû* i stedet for: *ûtᵊvôʔēhû*).} over ham,
+og den skal komme{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>og den kom<<. Sammenhængen tyder dog på at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal komme<< (*wattᵊvôʔēhû* i stedet for: *ûtᵊvôʔēhû*).} over ham,
 
 han havde ikke lyst til velsignelse,
 
-og den skal være langt fra{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den var langt fra<<. Sammenhængen tyder dog på, at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal være langt fra<< (*wᵊtirḥaq* i stedet for: *wattirḥaq*).} ham.
+og den skal være langt fra{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den var langt fra<<. Sammenhængen tyder dog på at det (med Septuaginta) skal vokaliseres som jussiv: >>og den skal være langt fra<< (*wᵊtirḥaq* i stedet for: *wattirḥaq*).} ham.
 
 v18 Han iførte sig forbandelse som sin dragt,
 
-og den skal komme{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den kom<<. Sammenhængen tyder dog på, at det skal vokaliseres som jussiv: >>og den skal komme<< (*wᵊtāvōˀ* i stedet for: *wattāvōˀ*).} ind i hans indre som vand
+og den skal komme{E: Verbet er vokaliseret i den masoretiske tekst som wayyiqtol: >>den kom<<. Sammenhængen tyder dog på at det skal vokaliseres som jussiv: >>og den skal komme<< (*wᵊtāvōˀ* i stedet for: *wattāvōˀ*).} ind i hans indre som vand
 
 og som olie i hans knogler.
 
-v19 Den skal for ham være som en klædning, han hyller sig i,
+v19 Den skal for ham være som en klædning han hyller sig i,
 
-og som et bælte, han altid binder om sig.<<
+og som et bælte han altid binder om sig.<<
 
 ==Klage og bøn==
-v20 Dette skal være lønnen fra JHVH til dem, som anklager mig,
+v20 Dette skal være lønnen fra JHVH til dem som anklager mig,
 
-og dem, som taler ondt imod min sjæl!
+og dem som taler ondt imod min sjæl!
 
 v21 Men du, JHVHv, Herre, handl med mig for dit navns skyld,
 
@@ -107,7 +107,7 @@ v22 For jeg er hjælpeløs og fattig,
 
 og mit hjerte er gennemboret{E: Den masoretiske tekst har: *ḥālal* (>>er gennemboret<<, af verbet *ḥll*). Ofte følger oversættere Septuginta og den syriske oversættelse, der forudsætter vokaliseringen: *ḥôlal*: >>skælver<< (polal af verbet *ḥyl*)} i mit indre.
 
-v23 Jeg svandt bort som en skygge, når den strækker sig,
+v23 Jeg svandt bort som en skygge når den strækker sig,
 
 jeg er rystet af som en græshoppe.
 
@@ -123,7 +123,7 @@ v26 Hjælp mig, JHVHv, min Gud,
 
 frels mig efter din nåde,{T: Kan også oversættes: >>trofasthed<<.}
 
-v27 så de erkender, at dette er din hånd,
+v27 så de erkender at dette er din hånd,
 
 du, JHVHv, du har gjort det.
 
@@ -144,6 +144,6 @@ og blandt mange vil jeg lovprise ham,
 
 v31 for han står ved en fattigs højre side
 
-for at frelse fra dem, som dømmer hans sjæl.
+for at frelse fra dem som dømmer hans sjæl.
 
 

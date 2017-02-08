@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 110===
 
@@ -36,7 +36,7 @@ på Melkisedeks vis.<<
 ==Guds salvede skal overvinde sine fjender==
 v5 Herren er ved din højre side,
 
-han knuser{E: Qatal, der oftest skal oversættes ved fortid, angiver her og i v.6 vished om det, der vil ske.} konger på sin vredes dag.
+han knuser{E: Qatal, der oftest skal oversættes ved fortid, angiver her og i v.6 vished om det der vil ske.} konger på sin vredes dag.
 
 v6 Han vil dømme blandt folkene,{T: Kan også oversættes: >>hedningerne<<.}
 

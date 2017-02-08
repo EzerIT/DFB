@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Dato for denne version: 08.02.2017>!!
 
 ===Salme 101===
 
@@ -9,7 +9,7 @@
 v1 Af David. En salme.
 
 ==Kongen lover renhed i sit personlige liv==
-Om troskab{E: Ordet *ḥesed* er vanskeligt at indfange i et enkelt dansk ord. Ordet >>nåde<< er måske det, der kommer nærmest. Det betegner Guds godhed og mildhed og troskab. Tidligere oversat >>miskundhed<<.} og ret vil jeg synge,
+Om troskab{E: Ordet *ḥesed* er vanskeligt at indfange i et enkelt dansk ord. Ordet >>nåde<< er måske det der kommer nærmest. Det betegner Guds godhed og mildhed og troskab. Tidligere oversat >>miskundhed<<.} og ret vil jeg synge,
 
 dig, JHVHv, vil jeg lovsynge.
 
@@ -25,7 +25,7 @@ v3 Jeg vil ikke sætte mig
 
 en nederdrægtig sag for øje;{T: Ordene: >>for øje<< hører i grundteksten til foregående linje.}
 
-jeg har hadet at begå{E: Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (>>at begå<<) forudsætter: *ʕōśê*: >>dem, der begår<<.} overtrædelser,
+jeg har hadet at begå{E: Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (>>at begå<<) forudsætter: *ʕōśê*: >>dem der begår<<.} overtrædelser,
 
 det skal ikke hænge ved mig.
 
@@ -34,27 +34,27 @@ v4 Et falsk hjerte skal vige fra mig,
 
 en ond vil jeg ikke vide af.
 
-v5 Den, som i hemmelighed bagtaler sin næste,
+v5 Den som i hemmelighed bagtaler sin næste,
 
 ham vil jeg udslette.{T: Kan også oversættes: >>bringe til tavshed<<.}
 
-Den, som har stolte øjne og hovmodigt hjerte,
+Den som har stolte øjne og hovmodigt hjerte,
 
 ham vil jeg ikke tåle.
 
-v6 Mine øjne skal hvile på de trofaste i landet,
+v6 Mine øjne skal hvile på de trofaste i landet
 
 for at de skal bo hos mig.
 
-Den, som vandrer ad fuldkommen vej,
+Den som vandrer ad fuldkommen vej,
 
 han skal tjene mig.
 
-v7 I mit hus skal ingen bo,
+v7 I mit hus skal ingen bo
 
 som handler bedragerisk.{T: Ordret: >>bedrag<<.}
 
-Den, som taler løgn, skal ikke bestå
+Den som taler løgn, skal ikke bestå
 
 for mine øjne.
 
@@ -64,6 +64,6 @@ alle landets ugudelige
 
 for at udrydde fra JHVHs by
 
-alle dem, som begår synd.
+alle dem som begår synd.
 
 
