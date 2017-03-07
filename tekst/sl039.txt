@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 39===
 
@@ -23,7 +24,7 @@ v3 Jeg var stum i tavshed,
 
 jeg tav, uden at det blev godt.{E: Sætningen består på hebraisk kun af to ord. Andet ord, som byder på forståelsesvanskeligheder, er *miṭṭôv*: >>fra godt<<. Linjen kan (let omskrivende) oversættes: >>jeg tav endog om gode ting<<, eller: >>jeg tav – uden held<<, eller: >>jeg tav – uden (at det bragte mig) noget godt<<. Endelig forstår nogle fortolkere det som forkortet udgave af udtrykket >>fra godt til ondt<< = >>fuldstændig, altomfattende<<.}
 
-Men min smerte blev oprørt.
+Men min smerte tiltog.{T: Ordret: >> blev oprørt<<.}
 
 v4 Mit hjerte blev hedt i mit indre,
 
@@ -77,7 +78,7 @@ v13 Hør min bøn, JHVHv, og mit skrig om hjælp,
 
 lyt{E: Mange oversættere vælger at dele verset anderledes end den hebraiske tekst lægger op til. De lader >>lyt<< høre til første linje: >>lyt til mit skrig om hjælp, vær ikke tavs til mine tårer<<} til mine tårer, vær ikke tavs.
 
-For jeg er en fremmed hos dig, en tilflytter som alle mine fædre.
+For jeg er en fremmed{T: Det hebraiske ord *gēr* (>>fremmed<<) betegner en person der har søgt ophold og beskyttelse i landet uden at have borgerret eller rettigheder i det hele taget.} hos dig, en tilflytter som alle mine fædre.
 
 v14 Se bort fra mig så jeg kan blive glad,
 

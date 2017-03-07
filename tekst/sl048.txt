@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 48===
 
@@ -44,7 +45,7 @@ veer som hos en fødende.
 
 v8 Med en østenstorm
 
-smadrer du Tarshish-skibe.{T: Det er store, stolte skibe.}
+smadrer du Tarshish-skibe.{T: Det er store, stolte handelsskibe.}
 
 ==Juda rige priser sin Gud==
 v9 Som vi havde hørt,

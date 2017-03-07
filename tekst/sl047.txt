@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 47===
 
@@ -23,7 +24,7 @@ v4 Han lægger folk under os,
 
 ja, nationer under vore fødder.
 
-v5 Han udvælger vor arv til os,
+v5 Han udvælger vor arvelod til os,
 
 Jakobs stolthed, som han elsker. Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
 

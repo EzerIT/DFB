@@ -46,31 +46,11 @@ $abbrev['1thess'] = '1 Thess';
 
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
-$style['sl']      = array( 1 => 'btn-success',
-                           2 => 'btn-success', 
-                           3 => 'btn-success', 
-                           4 => 'btn-success', 
-                           5 => 'btn-success', 
-                           6 => 'btn-success', 
-                           7 => 'btn-success', 
-                           8 => 'btn-success', 
-                           9 => 'btn-success', 
-                          10 => 'btn-success', 
-                          11 => 'btn-success', 
-                          12 => 'btn-success', 
-                          13 => 'btn-success', 
-                          14 => 'btn-success', 
-                          15 => 'btn-success', 
-                          16 => 'btn-success', 
-                          17 => 'btn-success', 
-                          18 => 'btn-success', 
-                          19 => 'btn-success', 
-                          20 => 'btn-success', 
-                          21 => 'btn-info', 
-                          22 => 'btn-info', 
-                          23 => 'btn-success', 
-                          24 => 'btn-success');
-for ($k=25; $k<=110; ++$k)
+
+$style['sl'] = array();
+for ($k=1; $k<=50; ++$k)
+    $style['sl'][$k] = 'btn-success';
+for ($k=51; $k<=110; ++$k)
     $style['sl'][$k] = 'btn-info';
 
 $style['es']      = array( 1 => 'btn-success',

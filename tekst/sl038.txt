@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 38===
 
@@ -59,7 +60,7 @@ og mine nærmeste stod langt borte.
 
 v13 Og de som stræber efter mit liv,{T: Ordret: >>sjæl<<} satte snarer,
 
-og de som søger min ulykke, talte om misgerning,
+og de som søger min ulykke, drøftede ødelæggelse,
 
 og hele dagen tænkte de på svig.
 
@@ -77,7 +78,7 @@ du vil svare, min Herre, min Gud!
 
 v17 For jeg sagde: Lad dem ikke glæde sig over mig,
 
-de som gjorde sig store imod mig, da min fod vaklede.
+de som var hovmodige over for mig da min fod vaklede.
 
 v18 For jeg er nær ved at snuble,
 
@@ -93,7 +94,7 @@ og talrige er de som hader mig uden grund.
 
 v21 Og de som gengælder godt med ondt{T: Ordret: >>gengælder med ondt for godt<<},
 
-de bekriger mig, fordi jeg stræber efter det gode.
+de bekriger mig fordi jeg stræber efter det gode.
 
 ==Afsluttende bøn==
 v22 Forlad mig ikke, JHVHv!

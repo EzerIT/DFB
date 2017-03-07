@@ -1,7 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.10.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
+
 ===Salme 27===
 
 ==Overskrift==
@@ -14,7 +16,7 @@ hvem skal jeg frygte?
 
 JHVH er mit livs værn,
 
-hvem skal jeg grue for?
+hvem skal jeg frygte for?
 
 v2 Da de onde nærmede sig mig
 
@@ -103,4 +105,5 @@ v14 Vent på JHVH, vær stærk,
 og gør dit hjerte stærkt,
 
 ja, vent på JHVH!
+
 

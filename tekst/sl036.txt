@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 36===
 
@@ -13,13 +14,13 @@ Af JHVHs tjener, af David.
 ==Den ugudeliges ondskab==
 v2 Forbrydelsens udsagn{E: Det hebraiske *nᵊʔum* angiver normalt et ord fra JHVH. Det kan ikke helt udelukkes at det også er tilfældet her, hvor der da må oversættes: >>Et guddommeligt ord om overtrædelse hos den ugudelige har lydt i mit hjerte<<. Problemet er imidlertid at *nᵊʔum* i GT ellers kun står i konstruktforhold (= genitiv) til JHVH eller til et profetnavn, der da bliver medium for Guds-ordet (subjektiv genitiv), mens konstruktforholdet her da skal angive ordets indhold (objektiv genitiv). En anden mulighed er at ændre vokaliseringen af *nᵊʔum* til *nāʔum* og lade det stå alene som en del af overskriften: >>Et gudsord<<. Men det ville være eneste gang dette i GT ofte forekommende ord stod i status absolutus (ikke var i en genitiv). Den tredje mulighed er at opfatte ordet som verbum. Det er den bredest accepterede løsning. Den forudsætter at også *libbî* (>>mit hjerte<<) rettes til *libbô*: >>hans hjerte<<. Oversættelsen bliver da: >>Forbrydelsen taler til den ugudelige i hans hjerte<<} om den ugudelige i mit hjerte:
 
->>Frygt for Gud er der ikke for hans øjne<<.
+>>Frygt for Gud har han ikke for øje<<.
 
 v3 For den indsmigrer sig for meget{E: Ordret lyder verset: >>For den gør glat til ham i hans øjne til/for at finde hans skyld og hade<<. Meningen må enten være at forbrydelsen smigrer og forblinder den ugudelige, så han ikke ser sin skyld og hader den – eller at forbrydelsen forfører den ugudelige, så han forløber sig over for alle, hvorved ethvert menneskeligt fællesskab brydes og bliver til had. En tredje mulighed er dog at det er den gudløse der er subjekt, at han altså smigrer sig selv. Men den første mulighed er sprogligt den sandsynligste} hos ham i hans øjne,
 
 til at han kan finde sin skyld og hade den.
 
-v4 Hans munds ord er løgn og svig,
+v4 Hans munds ord er ondskab og svig,
 
 han er holdt op med at handle klogt, at gøre godt.
 

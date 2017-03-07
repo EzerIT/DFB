@@ -1,7 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.10.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
+
 ===Salme 30===
 
 ==Overskrift==
@@ -23,7 +25,7 @@ du gav mig livet tilbage fra dem som gik ned i graven.{E: Oversættelsen her fø
 ==Hele menigheden opfordres til at istemme lovsang==
 v5 Lovsyng JHVH, I hans fromme,
 
-og pris hans hellige navn.{T: Ordret nærmere: >>ihukommelse/minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<.}
+og pris hans hellige navn.{T: Ordret nærmere: >>ihukommelse / minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<.}
 
 v6 Ja, et øjeblik varer hans vrede,
 
@@ -38,13 +40,13 @@ v7 Og jeg sagde i min tryghed:
 
 >>Jeg skal ikke vakle i evighed<<.
 
-v8 JHVHv, ved din gunst har du givet mit bjerg{T: D.v.s. mit rige og min kongemagt.} styrke.
+v8 JHVHv, ved din gunst har du givet mit bjerg{T: Dvs. mit rige og min kongemagt.} styrke.{E: Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.}
 
 Du skjulte dit ansigt, jeg blev forfærdet.
 
 v9 Til dig, JHVHv, vil jeg råbe,
 
-og Herren vil jeg bønfalde.
+og Herren vil jeg bønfalde om nåde.
 
 v10 Hvilken vinding er der ved mit blod,
 
@@ -61,9 +63,9 @@ JHVHv, vær min hjælper!
 ==Afsluttende lovprisning==
 v12 Du har forvandlet min klage til dans for mig,
 
-du har løst min sæk{T: D.v.s. >>sørgedragt<<.}
+du har løst min sæk{T: Dvs. >>sørgedragt<<.}
 
-og omgjordet mig med glæde
+og omgjordet mig med glæde,
 
 v13 for at min ære{E: Ordret blot >>ære<<. Normalt tilføjer man med Septuaginta >>min<<. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.} må lovsynge dig og ikke tie.
 

@@ -1,7 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.10.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
+
 ===Salme 25===
 
 ==Overskrift==
@@ -57,11 +59,11 @@ tilgiv mig dog min skyld, for den er stor.
 
 v12 Hvem er da den mand som frygter JHVH?
 
-Ham vil han belære om den vej han skal vælge.{E: D.v.s.: Uanset hvem det er der frygter JHVH, så vil han belære ham.}
+Ham vil han belære om den vej han skal vælge.{E: Dvs.: Uanset hvem det er der frygter JHVH, så vil han belære ham.}
 
 v13 Hans sjæl skal bo i lykke,
 
-og hans sæd skal besidde landet.
+og hans efterkommere{T: Ordret: >>sæd<<.} skal besidde landet.
 
 v14 JHVH har fortroligt fællesskab med dem der frygter ham,
 
@@ -76,7 +78,7 @@ v16 Vend dig til mig, og vær mig nådig,
 
 for jeg er ene og hjælpeløs.
 
-v17 Mit hjertes nød har de{T: D.v.s. fjenderne.} gjort vid,
+v17 Mit hjertes nød har de{T: Dvs. >>fjenderne<<.} gjort stor{E: Ordret: >>vid/bred<<. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, >>og<<) og vokaliserer: *harḥêv*: >>gør plads (for mit hjertes nød)<< eller evt.: >>gør (mit hjerte) fri (af nød)<<.}
 
 før mig ud af mine trængsler!
 

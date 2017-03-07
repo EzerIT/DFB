@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 33===
 
@@ -16,10 +17,10 @@ spil for ham på tistrenget harpe.
 
 v3 Syng ham en ny sang,
 
-spil lifligt på strengene med jubelklang.
+spil lifligt på strengene til jubelråb.
 
 ==Lovprisning af JHVHs ords skabende og frelsende magt==
-v4 For JHVHs ord er til at stole på,
+v4 For JHVHs ord er retskaffent,
 
 og al hans gerning er trofast.
 
@@ -54,7 +55,7 @@ hans hjertes tanker i generation efter generation.
 
 v12 Saligt er det folk, hvis Gud JHVH er,
 
-det folkeslag som han udvalgte sig til ejendom.
+folket som han udvalgte sig til ejendom.
 
 ==Lovprisning af JHVHs alvidenhed==
 v13 Fra himlen skuede JHVH ned,

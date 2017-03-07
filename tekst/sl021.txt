@@ -1,7 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.10.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
+
 ===Salme 21===
 
 ==Overskrift==
@@ -16,7 +18,7 @@ og over din frelse - hvor jubler han højt!
 
 v3 Du har givet ham, hvad hans hjerte ønskede,
 
-og ikke nægtet ham det hans læber bad om. Sela.{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse m.fl.}
+og ikke nægtet ham det hans læber bad om. Sela.{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
 
 v4 For du kommer ham i møde med velsignelser, fulde af godhed,{T: Ordret: >>godheds velsignelser<<.}
 

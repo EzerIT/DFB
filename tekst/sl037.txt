@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 37{T: Salmen er alfabetisk, så v. 1 begynder med alfabetets første bogstav, og derefter begynder stort set hvert andet vers med det hebraiske alfabets næste bogstav}===
 
@@ -11,7 +12,7 @@ v1 Af David.
 ==Vælt din vej på JHVH==
 Far ikke op over dem der handler ondt,
 
-bliv ikke ophidset over dem som øver uret,
+bliv ikke misundelig på dem som øver uret,
 
 v2 for de vil hurtigt visne som græs
 
@@ -19,7 +20,7 @@ og falme som en grøn urt.
 
 v3 Stol på JHVH og gør godt,
 
-bo i landet og øv troskab,
+bo i landet og vogt på troskab,
 
 v4 og fryd dig over JHVH,
 
@@ -71,7 +72,7 @@ for at fælde hjælpeløs og fattig,
 
 for at slagte dem som vandrer retskaffent.
 
-v15 Deres sværd skal komme i deres eget hjerte,
+v15 Deres sværd skal ramme i deres eget hjerte,
 
 og deres buer skal sønderbrydes.
 
@@ -105,7 +106,8 @@ v22 For hans velsignede skal arve landet,
 
 men hans forbandede skal udryddes.
 
-v23 Af JHVH styres{T: >>styres<< hører grammatisk i den hebraiske tekst til andet halvvers, men tages af meningsmæssige grunde med her} en mands skridt,
+v23 Fra JHVH kommer det at en mands skridt kan være faste,{E: >>Kan være faste<< hører grammatisk i den hebraiske tekst til andet halvvers, men tages af meningsmæssige grunde med her.
+Oversættelsen af verset er i øvrigt stærkt omdiskuteret. Andre oversætter: >>Af JHVH styres en mands skridt<<, hvor det i så fald er >>styres<< der grammatisk i den hebraiske tekst hører til andet halvvers, men af meningsmæssige grunde tages med her.}
 
 og han har velbehag i hans vej.
 
@@ -153,7 +155,7 @@ og stræber efter at dræbe ham.
 
 v33 JHVH skal ikke overlade ham i hans hånd
 
-og ikke kende ham skyldig når man dømmer ham.
+og ikke kende ham skyldig når han bringes for retten.
 
 v34 Sæt dit håb til JHVH
 
@@ -173,7 +175,7 @@ og jeg søger efter ham, men han findes ikke.
 
 v37 Tag vare på en retsindig, og se på en retskaffen,
 
-for fredens mand har en fremtid.
+for fredens mand har en fremtid.{T: Kan også oversættes: >>efterkommere<<.}
 
 v38 Men overtrædere skal alle sammen tilintetgøres,
 

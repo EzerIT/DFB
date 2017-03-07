@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 45===
 
@@ -79,9 +80,9 @@ med gave søger et folks rigmænd din gunst.{E: Ordret: >>vil blødgøre dit ans
 
 v14 En kongedatter er lutter pragt i det indre,{E: Ordret: >>al pragt en kongedatter i det indre/indadtil<<. Der er intet verbum som derfor må underforstås, enten >>er<< eller >>(I al sin pragt) træder (en kongedatter) ind<<.}
 
-hendes gevandt er tilvirket med guld.
+hendes dragt er tilvirket med guld.
 
-v15 I brogede klæder føres til kongen
+v15 I farvestrålende klæder føres til kongen
 
 jomfruerne, hendes veninder, efter hende,
 

@@ -1,7 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.10.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
+
 ===Salme 28===
 
 ==Overskrift==
@@ -10,9 +12,9 @@ v1 Af David.
 ==Bøn om hjælp==
 Til dig, JHVHv, vil jeg råbe,
 
-min klippe, vend dig ikke tavs bort fra mig{T: D.v.s.: Ignorer mig ikke!}
+min klippe, vend dig ikke tavs bort fra mig{T: Dvs.: Ignorer mig ikke!}
 
-så du tier imod mig,
+så du tier over for mig,
 
 og jeg bliver som dem, der stiger ned i graven.
 
@@ -22,7 +24,7 @@ når jeg råber til dig om hjælp,
 
 når jeg løfter mine hænder
 
-til din helligdoms inderste rum.{T: Templets Allerhelligste.}
+til din helligdoms inderste rum.{T: Telthelligdommens (senere: templets) Allerhelligste.}
 
 v3 Riv mig ikke bort sammen med ugudelige
 

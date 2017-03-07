@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.11.2016>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.03.2016>!!
 
 ===Salme 49===
 
@@ -50,11 +51,11 @@ uden at se graven.
 
 v11 For man vil se at vise dør,
 
-tåbe og fæ omkommer sammen,
+tåbe og uforstandig{T: Grundtekstens *baʕar* betyder: >>kvæg<<. Det bruges her som betegnelse for et dyrisk menneske, et menneske uden ånd.} omkommer sammen,
 
 og de efterlader deres formue til andre.
 
-v12 Deres indre{E: Dvs.: deres tanker. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (>>deres indre<<) til: *qivrām*: >>deres grav<<, dvs.: >>deres grav bliver deres huse for evigt<<.} er dette: deres huse skal stå for evigt,
+v12 Deres inderste tanker{E: Ordret: >>deres indre<<. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (>>deres indre<<) til: *qivrām*: >>deres grav<<, dvs.: >>deres grav bliver deres huse for evigt<<.} er dette: deres huse skal stå for evigt,
 
 deres boliger slægt efter slægt,
 

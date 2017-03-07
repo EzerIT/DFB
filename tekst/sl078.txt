@@ -1,4 +1,4 @@
-'!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 14.01.2017>!!
@@ -142,9 +142,9 @@ v27 Og han lod kød regne ned over dem som støv
 
 og vingede fugle som havets sand.
 
-v28 Og han lod dem falde midt i sin{T: Kan oversættes: >>dets<<, d.v.s. Israels.} lejr,
+v28 Og han lod dem falde midt i sin{T: Kan oversættes: >>dets<<, dvs. Israels.} lejr,
 
-rundt omkring sine{T: Kan oversættes: >>dets<<, d.v.s. Israels.} boliger.
+rundt omkring sine{T: Kan oversættes: >>dets<<, dvs. Israels.} boliger.
 
 v29 Og de spiste og blev meget mætte,
 
