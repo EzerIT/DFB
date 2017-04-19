@@ -1,7 +1,7 @@
 .DELETE_ON_ERROR:
 
-y.pdf:	y.tex
-	rubber -m xelatex $<
+.PHONY: force
 
-y.tex:	replaceittex.php
-	php $< HERREN +v +f +s > $@
+y.pdf:	force
+	php replaceittex.php HERREN +v +f +s > y.tex
+	rubber -m xelatex y.tex
