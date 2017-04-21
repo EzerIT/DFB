@@ -2,8 +2,6 @@
 
 require_once('../oversigt.inc.php');
 
-$include_status = array(/*'btn-warning',*/'btn-info','btn-success');
-
 function replaceittex($filename, $chtype) {
     $txt = file_get_contents($filename);
 
@@ -140,25 +138,43 @@ function fix_hyphenation($txt) {
     return preg_replace($from, $to, $txt);
 }
 
-if ($_SERVER['argc']!=5
+if ($_SERVER['argc']!=7
     || !in_array($_SERVER['argv'][1], array('Jahve', 'JHVH', 'HERREN', 'Herren'))
-    || !in_array($_SERVER['argv'][2], array('+v', '-v'))
-    || !in_array($_SERVER['argv'][3], array('+f', '-f'))
-    || !in_array($_SERVER['argv'][4], array('+s', '-s'))
+    || !in_array($_SERVER['argv'][2], array('r', 'd', 'f'))
+    || !in_array($_SERVER['argv'][3], array('+v', '-v'))
+    || !in_array($_SERVER['argv'][4], array('+f', '-f'))
+    || !in_array($_SERVER['argv'][5], array('+s', '-s'))
+    || !in_array($_SERVER['argv'][6], array('+o', '-o'))
     ) {
-    fwrite(STDERR,"brug: php replaceittex.php <HaShem> [+|-]v [+|-]f [+|-]s\n"
+    fwrite(STDERR,"brug: php replaceittex.php <HaShem> <modenhed> [+|-]v [+|-]f [+|-]s [+|-]o\n"
                 . "      hvor <HaShem> er 'Jahve', 'JHVH', 'HERREN' eller 'Herren'\n"
+                . "      <modenhed> er 'r', 'd' eller 'f' (rå oversættelse, delvis færdig, færdig)\n"
                 . "      +/-v står for med/uden versnumre\n"
                 . "      +/-f står for med/uden fodnoter\n"
-                . "      +/-s står for med/uden slutnoter\n");
+                . "      +/-s står for med/uden slutnoter\n"
+                . "      +/-o står for med/uden overskrifter\n");
     exit(1);
 }
 
 $HaShem = $_SERVER['argv'][1];
 
-$with_verses = $_SERVER['argv'][2] == '+v';
-$with_footnotes = $_SERVER['argv'][3] == '+f';
-$with_endnotes = $_SERVER['argv'][4] == '+s';
+switch ($_SERVER['argv'][2]) {
+  case 'r':
+        $include_status[] = 'btn-warning';
+        // Fall through
+
+  case 'd':
+        $include_status[] = 'btn-info';
+        // Fall through
+
+  case 'f':
+        $include_status[] = 'btn-success';
+}
+        
+$with_verses = $_SERVER['argv'][3] == '+v';
+$with_footnotes = $_SERVER['argv'][4] == '+f';
+$with_endnotes = $_SERVER['argv'][5] == '+s';
+$with_headings = $_SERVER['argv'][6] == '+o';
 
 echo<<<'END'
 
@@ -295,6 +311,10 @@ else {
     echo '\newcommand{\pnote}[1]{}',"\n";
     echo '\newcommand{\pnotehead}[1]{}',"\n";
 }
+
+if (!$with_headings)
+    echo '\renewcommand{\subsection}[2][]{}',"\n";
+
 
 switch ($HaShem) {
   case 'HERREN':
