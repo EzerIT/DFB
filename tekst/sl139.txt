@@ -1,0 +1,123 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 21.04.2017>!!
+
+===Salme 139===
+
+==Overskrift==
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<}
+
+Af David. En salme.
+
+==JHVH er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}==
+JHVH, du har ransaget mig og kender mig.
+
+v2 Du ved om jeg sidder eller står,
+
+du kender min tanke på lang afstand.
+
+v3 Du har rede på om jeg går eller ligger,{E: Ordret: >>min gåen og min liggen ned<<.}
+
+og alle mine veje er du fortrolig med.
+
+v4 For der er ikke et ord på min tunge
+
+uden at{T: Ordret: >>se<<.} du, JHVHv, kender det fuldt ud.
+
+v5 Bagfra og forfra omslutter du mig,
+
+du lægger din hånd på mig.
+
+v6 Det er for vidunderligt til at jeg forstår det,
+
+det er så højt at jeg ikke kan fatte det.
+
+==Gud er allestedsnærværende==
+v7 Hvor skulle jeg gå hen fra din Ånd?
+
+Og hvor skulle jeg flygte hen fra dit ansigt?
+
+v8 Hvis jeg stiger op til himlen, så er du dér,
+
+og reder jeg seng i dødsriget,{T: Ordret: >>gør jeg dødsriget til min seng<<.} se, så er du dér!
+
+v9 Ville jeg tage morgenrødens vinger,
+
+slå mig ned ved det yderste hav,
+
+v10 så ville din hånd også lede mig{E: Nogle oversættere vælger at følge bl.a. Septuaginta, der i stedet for: *tanḥēnî* (>>lede mig<<) forudsætter: *tiqqāḥēnî*: >>gribe mig<<.} dér,
+
+og din højre hånd holde mig fast.
+
+v11 Og ville jeg sige: >>Sandelig, mørke skal dække{E: Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: >>snappe efter<< eller >>knuse<<. Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: >>dække<<, retter man som regel til verbet: *śkk*: >>dække<< (*yᵊśûkkēnî*).} mig
+
+og lys omkring mig blive til nat,<<
+
+v12 så ville mørke ikke være mørke for dig,
+
+og nat være lys som dagen,
+
+mørket er som lyset.
+
+== Gud er den almægtige skaber==
+v13 Ja, det var dig der dannede mine nyrer,
+
+du vævede mig i min mors liv.
+
+v14 Jeg vil takke dig fordi jeg er så forbavsende{E: *nôrāʔôt* (>>forbavsende<<) betyder normalt: >>forfærdende<<. Mange oversættere udelader det, men det skal formodentlig forstærke det følgende: >>vidunderligt skabt<<.} vidunderligt skabt,{T: Ordret blot: >>er vidunderlig<<. Men i sammenhængen er der tale om skabelsen.}
+
+vidunderlige er dine gerninger,
+
+og min sjæl ved det fuldt ud.
+
+v15 Mine knogler{T: Grundteksten har singularis. Det må opfattes kollektivt eller måske som understregning af at det gælder hver eneste knogle.} var ikke skjult for dig
+
+da jeg blev dannet i det skjulte,
+
+blev formet i jordens dybder.{T: Dvs. i moderlivet.}
+
+v16 Da jeg var foster, så dine øjne mig,{T: Ordret blot: >>Dine øjne så mit foster<<.}
+
+og i din bog var de alle skrevet,
+
+dagene, der var bestemte,
+
+da endnu ikke én blandt dem var kommet.{E: Oversættelsen af denne linje er usikker. Ordret blot: >>og ikke én blandt dem<<. Undertiden forstås det som udtryk for at >>ikke én blandt dem mangler<<. Der er foreslået forskellige tekstrettelser, men der er ingen afvigelser i håndskrifterne.}
+
+v17 Og hvad mig angår - hvor vanskelige at fatte{T: Andre oversætter: >>dyrebare<<.} er dine tanker, Gud,
+
+hvor mægtig er dog deres sum!
+
+v18 Vil jeg tælle dem, er de flere end sand,
+
+vågnede jeg,{E: Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (>>vågnede jeg<<) til: *hᵃqîṣṣōtî*: >>blev jeg færdig<<.} var jeg stadig hos dig. 
+
+==Bøn om hjælp mod onde mennesker==
+v19 Gid du, Gud, ville dræbe synderen,{T: Kan også oversættes: >>den ugudelige<<.}
+
+og I blodets mænd,{T: Det kan formodentlig dække over både mordere og blodtørstige mennesker.} vig fra mig!
+
+v20 De som taler om dig med ondskab,
+
+og som forgæves har rejst sig imod dig,{E: Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>har rejst sig<<. Andre oversætter det: >>fór/farer<< og opfatter det følgende: *laššāwᵊʔ* (>>forgæves<<) som: >>med løgn<< (>>og som fór/farer med løgn imod dig<<.
+Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at der skulle stå: *ʕāleʸxā*: >>imod dig<<. Andre opfatter dog: *ʕāreʸxā* (>>dine byer<<) ikke som afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som skulle være en aramaisk form for: *ṣār*: >>fjende<< (>>og som fór/farer med løgn, dine fjender<<). Dette er dog omstridt og usikkert.}
+
+v21 skulle jeg ikke hade dem som hader dig, JHVHv,
+
+og væmmes ved dem som rejser sig mod dig?
+
+v22 Med fuldendt had har jeg hadet dem,
+
+de er blevet mine fjender.
+
+==Skriftemålsbøn==
+v23 Ransag mig, Gud, og kend mit hjerte,
+
+prøv mig, og kend mine tanker!
+
+v24 Og se om jeg er på afgudsvej,{E: Ordret: >>om der er en afgudsvej hos mig<<. Ordet: *ʕōṣev* (>>afgud<<) kan dog også betyde: >>smerte<< (>>og se, om jeg er på smertens vej<<). Der kan være tænkt på en vej til straf eller fortabelse, eller på en smertende syndsbekendelse og helliggørelse.}
+
+og led mig på evigheds vej!
+
+

@@ -2,7 +2,7 @@
 
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
-$chap['sl']       = range(1,130);
+$chap['sl']       = range(1,140);
 $chap['es']       = range(1,66);
 $chap['jer']      = array(1, 2, 7);
 $chap['zak']      = range(1,14);
@@ -50,7 +50,7 @@ $style['ruth']    = 'btn-success';
 $style['sl'] = array();
 for ($k=1; $k<=50; ++$k)
     $style['sl'][$k] = 'btn-success';
-for ($k=51; $k<=130; ++$k)
+for ($k=51; $k<=140; ++$k)
     $style['sl'][$k] = 'btn-info';
 
 $style['es']      = array( 1 => 'btn-success',
