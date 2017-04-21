@@ -284,6 +284,9 @@ if ($with_endnotes) {
     echo '      \or va\or vb\or vc\or vd\or ve\or vf\or vg\or vh\or vi\or vj%',"\n";
     echo '      \or vk\or vl\or vm\or vn\or vo\or vp\or vq\or vr\or vs\or vt%',"\n";
     echo '      \or vu\or vv\or vw\or vx\or vy\or vz\or væ\or vø\or vå%',"\n";
+    echo '      \or wa\or wb\or wc\or wd\or we\or wf\or wg\or wh\or wi\or wj%',"\n";
+    echo '      \or wk\or wl\or wm\or wn\or wo\or wp\or wq\or wr\or ws\or wt%',"\n";
+    echo '      \or wu\or ww\or ww\or wx\or wy\or wz\or wæ\or wø\or wå%',"\n";
     echo '      \else\@ctrerr\fi',"\n";
     echo '}',"\n";
     echo '\makeatother',"\n";
@@ -343,7 +346,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{19.4.2017}
+\date{21.4.2017}
 
 
 \begin{document}
