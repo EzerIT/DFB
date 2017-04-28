@@ -276,6 +276,9 @@ if ($with_endnotes) {
     echo '      \or ma\or mb\or mc\or md\or me\or mf\or mg\or mh\or mi\or mj%',"\n";
     echo '      \or mk\or ml\or mm\or mn\or mo\or mp\or mq\or mr\or ms\or mt%',"\n";
     echo '      \or mu\or mv\or mw\or mx\or my\or mz\or mæ\or mø\or må%',"\n";
+    echo '      \or na\or nb\or nc\or nd\or ne\or nf\or ng\or nh\or ni\or nj%',"\n";
+    echo '      \or nk\or nl\or nm\or nn\or no\or np\or nq\or nr\or ns\or nt%',"\n";
+    echo '      \or nu\or nv\or nw\or nx\or ny\or nz\or næ\or nø\or nå%',"\n";
     echo '      \or oa\or ob\or oc\or od\or oe\or of\or og\or oh\or oi\or oj%',"\n";
     echo '      \or ok\or ol\or om\or on\or oo\or op\or oq\or or\or os\or ot%',"\n";
     echo '      \or ou\or ov\or ow\or ox\or oy\or oz\or oæ\or oø\or oå%',"\n";
@@ -302,7 +305,16 @@ if ($with_endnotes) {
     echo '      \or vu\or vv\or vw\or vx\or vy\or vz\or væ\or vø\or vå%',"\n";
     echo '      \or wa\or wb\or wc\or wd\or we\or wf\or wg\or wh\or wi\or wj%',"\n";
     echo '      \or wk\or wl\or wm\or wn\or wo\or wp\or wq\or wr\or ws\or wt%',"\n";
-    echo '      \or wu\or ww\or ww\or wx\or wy\or wz\or wæ\or wø\or wå%',"\n";
+    echo '      \or wu\or wv\or ww\or wx\or wy\or wz\or wæ\or wø\or wå%',"\n";
+    echo '      \or xa\or xb\or xc\or xd\or xe\or xf\or xg\or xh\or xi\or xj%',"\n";
+    echo '      \or xk\or xl\or xm\or xn\or xo\or xp\or xq\or xr\or xs\or xt%',"\n";
+    echo '      \or xu\or xv\or xw\or xx\or xy\or xz\or xæ\or xø\or xå%',"\n";
+    echo '      \or ya\or yb\or yc\or yd\or ye\or yf\or yg\or yh\or yi\or yj%',"\n";
+    echo '      \or yk\or yl\or ym\or yn\or yo\or yp\or yq\or yr\or ys\or yt%',"\n";
+    echo '      \or yu\or yv\or yw\or yx\or yy\or yz\or yæ\or yø\or yå%',"\n";
+    echo '      \or za\or zb\or zc\or zd\or ze\or zf\or zg\or zh\or zi\or zj%',"\n";
+    echo '      \or zk\or zl\or zm\or zn\or zo\or zp\or zq\or zr\or zs\or zt%',"\n";
+    echo '      \or zu\or zv\or zw\or zx\or zy\or zz\or zæ\or zø\or zå%',"\n";
     echo '      \else\@ctrerr\fi',"\n";
     echo '}',"\n";
     echo '\makeatother',"\n";
@@ -366,7 +378,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{21.4.2017}
+\date{28.4.2017}
 
 
 \begin{document}

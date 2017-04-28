@@ -1,0 +1,99 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 28.04.2017>!!
+
+===Salme 145{E: Salmen er alfabetisk så første vers begynder med alfabetets første bogstav, andet vers med det andet osv. Der mangler dog et vers med bogstavet >>nun<<; det skulle stå mellem v. 13 og v. 14. Det findes imidlertid i et enkelt håndskrift og i Septuaginta og den gamle syriske oversættelse hvor det lyder: >>Trofast er JHVH på alle sine veje, nådig i alle sine gerninger<<. Bortset fra første ord (*neʔᵉmān*: >>trofast<<), er det ordret i grundteksten enslydende med v. 17, der indledes med *ṣaddîq* (>>retfærdig<<). Strofen passer godt ind i sammenhængen, men det er lidt mistænkeligt at den ligner v. 17 så meget.}===
+
+==Overskrift==
+v1 Lovsang af David.
+
+==Jeg vil ophøje dig!==
+Jeg vil ophøje dig, min Gud, du konge,
+
+og jeg vil prise{T: Kan også her og i v. 2 oversættes: >>velsigne<<.} dit navn evigt og altid.
+
+v2 Hver dag vil jeg prise dig,
+
+og jeg vil lovprise dit navn evigt og altid.
+
+v3 JHVH er stor og højt lovprist,
+
+og hans storhed kan ikke udforskes.
+
+==Slægter skal prise dig==
+v4 Slægt skal prise dine gerninger for slægt,
+
+og de skal fortælle om dine mægtige gerninger.
+
+v5 Om din højheds herlige pragt
+
+og om de ting der angår dine undere, vil jeg synge.{E: Med Septuaginta og den gamle syriske oversættelse flytter mange fortolkere og oversættere den skillende accent så: *wᵊdivrê* (>>og de ting/ord der angår<<) kommer til at høre til første halvvers, og det rettes til: *yᵊdabbērû*: >>de taler<<. Oversættelsen bliver da: >>Om din højheds herlige pragt skal de tale, / om dine undere vil jeg synge<<.}
+
+v6 Og de skal tale om dine frygtindgydende gerningers styrke,
+
+og jeg vil fortælle om din storhed.
+
+v7 De skal udbrede mindet om din store godhed
+
+og juble over din retfærdighed.
+
+v8 JHVH er nådig og barmhjertig, sen til vrede{T: Oversættes også: >>langmodig<<.} og rig på nåde.{T: Kan også oversættes: >>troskab, miskundhed<<.}
+ 
+v9 JHVH er god mod alle,
+
+og hans barmhjertighed er over alle hans skabninger.
+
+==Alle dine skabninger skal takke dig!==
+v10 Alle dine skabninger skal takke dig,
+
+og dine fromme skal prise{T: Kan også oversættes: >>velsigne<<.} dig.
+
+v11 De skal fortælle om dit kongedømmes herlighed{T: Kan også oversættes: >>ære<<.}
+
+og tale om din styrke, 
+
+v12 for at kundgøre for menneskebørnene hans{E: Her og i næste linje tales der lidt overraskende om Gud i 3. person (>>hans<<) i stedet for som i de omkringstående vers til Gud i 2. person. Mange oversættere retter til 2. person – med støtte i Septuaginta og den gamle syriske oversættelse, men uden støtte i hebraiske håndskrifter. I digterens skift til 3. person kan der måske spores en vis skyhed over for Gud.} styrke
+
+og hans kongedømmes prægtige{T: Ordrets: >>pragts<<.} herlighed.{T: Kan også oversættes: >>ære<<.}
+
+v13 Dit kongedømme er al evigheds kongedømme,
+
+og dit herredømme varer i hver slægt efter slægt.{E: Se note til salmens nummer.}
+
+v14 JHVH støtter alle som falder,
+
+og rejser alle nedbøjede.
+
+v15 Alles øjne venter med håb på dig,
+
+og du giver dem deres føde i rette tid.{T: Ordret: >>til dets tid<<.}
+
+v16 Du åbner din hånd
+
+og mætter alt levende med velbehag,{T: Oversættes ofte, let omskrivende: >>med hvad det ønsker<<.}
+
+v17 Retfærdig er JHVH på alle sine veje,
+
+nådig i alle sine gerninger.
+ 
+v18 Nær er JHVH hos alle som kalder på ham,
+
+hos alle som kalder på ham i oprigtighed.{T: Kan også oversættes: >>i sandhed<<.}
+
+v19 Han gør hvad de som frygter ham, ønsker,{T: Ordret: >>efter deres ønske/velbehag som frygter ham<<.}
+
+og han hører deres skrig og frelser dem.
+
+v20 Herren beskytter alle dem, som elsker ham,
+
+men han udrydder alle de ugudelige.
+
+==Afslutning==
+v21 Min mund skal udsige JHVHs pris,
+
+og alt kød skal prise{T: Kan også oversættes: >>velsigne<<.} hans hellige navn
+
+evigt og altid.
+
+

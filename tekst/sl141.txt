@@ -1,0 +1,65 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 28.04.2017>!!
+
+===Salme 141===
+
+==Overskrift==
+v1 Salme af David.
+
+==Råb om bønhørelse==
+JHVHv, jeg råber{T: Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.} til dig, skynd dig til mig,
+
+lyt til min røst når jeg kalder på dig.
+
+v2 Lad min bøn gælde{T: Ordret: >>være tilberedt<<.} som et røgelsesoffer for dit ansigt,
+
+mine løftede hænder{T: Ordret: >>min hænders opløften<<.} som et aftenafgrødeoffer.
+
+==Bøn om styrke mod fristelsen==
+v3 JHVHv, sæt vagt ved min mund,
+
+vogt mine læbers dør.
+
+v4 Bøj ikke mit hjerte til en ond sag,
+
+til at udføre gerninger i ugudelighed
+
+med mænd som handler ondt,
+
+og lad mig ikke få smag for deres lækkerbiskener!
+
+==Bøn om at blive befriet fra det ondes magt==
+v5 Lad en retfærdig slå mig i kærlighed{E: Grundteksten har ordet: *ḥesed*, der oversættes lidt forskelligt, især: >>nåde, trofasthed, miskundhed<<.} og revse mig,
+
+sådan olie til hovedet skal mit hoved ikke afvise,{E: Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet >>sådan<< underforstået. Meningen er da at revselsen er som gæstevenskabets olie.
+Septuaginta, som følges af mange, har ikke læst: *rōˀš* (>>hovedet<<), men: *rāšāʕ*: >>gudløs, uretfærdig<<. Samtidig er det nødvendigt at rette verbet: *yānî* (>>afvise<<) til: *yᵊnāʔ*: >>skal smykke<<. Oversættelsen bliver: >>en gudløs’/uretfærdigs olie skal ikke smykke mit hoved<<.
+En tredje mulighed er at *rōˀš* (>>hovedet<<) her skal forstås som: >>toppen, det bedste<<, og verbet: *yānî* (>>afvise<<) også her rettes til: *yᵊnāʔ*: >>skal smykke<<. Det giver oversættelsen: >>Må den fineste olie ikke smykke mit hoved<<.}
+
+for min bøn er stadig rettet mod deres ondskab.{E: Ordret: >>for stadig og min bøn mod/under(i deres ondskab)<<. Tilknytningspartiklen: *wᵊ* (>>og<<) bruges undertiden til at knytte to udtryk nært sammen, her er det: >>stadig<< og: >>min bøn<<. Der kan evt. også oversættes: >>for min bøn varer ved trods deres ondskab<<.}
+
+v6 Deres herskere{T: Ordret: >>dommere<<. Israels dommere var egentlig folkets ledere.} skal styrtes i hænderne på klippen,
+
+og de skal høre at mine ord var liflige.{E: Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden.
+En anden mulig oversættelse er: >>Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige<<. En del oversættere vil slette ordet: *selaʕ* (>>klippe<<). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser.
+En tredje mulighed er at opfatte >>klippe<< som synonym for Gud og *šōfᵊṭêhem* (>>deres herskere/dommere<<) som pluralis majestatis. Det vil give oversættelsen: >>Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige<<.}
+
+v7 Som når en pløjer og bryder jorden op,
+
+er vore knogler{E: Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: >>deres knogler<<, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.} spredte ved Dødsrigets gab.
+
+==Sammenfattende bøn==
+v8 Ja, til dig, JHVHv,{E: Masoreterne har her ikke – som oftest – vokaliseret JHVH som: >>Herre<< (*ʔᵃdōnāʸ*), men som >>Gud<< (*ʔᵊlōhîm*).} Herre, er mine øjne rettet,
+
+hos dig har jeg søgt tilflugt, giv mig ikke hen i døden!{T: Ordret: >>udgyd ikke min sjæl<<.}
+
+v9 Bevar mig fra kraften i den fælde som de har lagt ud for mig,
+
+og fra deres snare som handler syndigt.
+
+v10 Lad de ugudelige{T: Kan også oversættes: >>uretfærdige<<.} falde i egen fælde,{T: Ordret: >>hans/sine fælder<<. Meningen er sandsynligvis: >>hver i sin egen fælde<<.}
+
+mens jeg selv samtidig slipper fri.
+
+

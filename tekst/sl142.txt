@@ -1,0 +1,62 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 28.04.2017>!!
+
+===Salme 142===
+
+==Overskrift==
+v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 32; 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<} af David.
+
+Da han var i hulen. En bøn. 
+
+==Anråbelse==
+v2 Med min røst vil jeg råbe til JHVH,
+
+med min røst vil jeg bede til JHVH om nåde.
+
+v3 Jeg vil udøse min klage for hans ansigt,
+
+jeg vil give min nød til kende for hans ansigt.
+
+==Klagen==
+v4 Når min ånd i mig falder i afmagt,
+
+kender du dog min sti.{E: De to linjer kan også oversættes: >>Da min ånd i mig faldt i afmagt, kendte du dog min sti<<.}
+
+På vejen hvor jeg skal gå,
+
+har de skjult en fælde for mig.
+
+v5 Jeg spejder til højre og ser,{E: Ordret: >>spejd til højre og se!<<. Masoreterne har vokaliseret verberne som imperativ, hvorimod de gamle oversættelser har opfattet dem som infintivus absolutus. For verbet: *habbêṭ* (>>spejd<<) er de to former ens, men for: *rᵊʔēh* (>>se<<) skal infinitivus absolutus vokaliseres: *rāʔōh*. Den masoretiske vokalisering må forstås som opfordring til Gud om at give agt, men hvis man læste teksten uvokaliseret, ville man utvivlsomt læse den som de gamle oversættelser. Hvis verberne var ment som imperativ, måtte man vente en direkte tiltale: >>JHVHv!<< eller lignende.}
+
+men der er ingen som kendes ved mig.
+
+Der er intet tilflugtssted for mig,{T: Ordret: >>Tilflugtssted er forsvundet/fortabt for mig<<.}
+
+ingen bekymrer sig om mig.{T: Ordret: >>om min sjæl<<}
+
+==Bøn om hjælp==
+v6 Jeg råber{E: Dette verbum og verbet i næste linje står i qatal, der oftest angiver fortid, men her må opfattes som deklarative.} til dig, JHVHv,
+
+jeg siger: Du er min tilflugt,
+
+min del i de levendes land.
+
+v7 Giv agt på mit klageråb,
+
+for jeg er blevet meget svag,
+
+red mig fra mine forfølgere,
+
+for de er for stærke for mig.
+
+v8 Før min sjæl af ud fængsel
+
+så jeg kan takke dit navn.
+
+De retfærdige vil samle sig om mig,
+
+når du handler vel imod mig.
+
+
