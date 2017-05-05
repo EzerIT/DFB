@@ -1,5 +1,6 @@
 <?php
 
+$chap['4mos']      = array(6);
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['sl']       = range(1,150);
@@ -15,6 +16,7 @@ $total_chap_nt = 260;
 
 
 $title['GT']      = 'Det Gamle Testamente';
+$title['4mos']    = 'Fjerde Mosebog';
 $title['dom']     = 'Dommerbogen';
 $title['ruth']    = 'Ruths Bog';
 $title['sl']      = 'Salmernes Bog';
@@ -28,6 +30,7 @@ $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
 
 
+$chaptype['4mos'] = 'kapitel';
 $chaptype['dom']  = 'kapitel';
 $chaptype['ruth'] = 'kapitel';
 $chaptype['sl']   = 'salme';
@@ -36,6 +39,7 @@ $chaptype['jer']  = 'kapitel';
 $chaptype['zak']  = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
 
+$abbrev['4mos'] = '4 Mos';
 $abbrev['dom']  = 'Dom';
 $abbrev['ruth'] = 'Ruth';
 $abbrev['sl']   = 'Sl';
@@ -44,6 +48,7 @@ $abbrev['jer']  = 'Jer';
 $abbrev['zak']  = 'Zak';
 $abbrev['1thess'] = '1 Thess';
 
+$style['4mos']    = 'btn-info';
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 
