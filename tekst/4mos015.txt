@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 09.05.2017>!!
+!!<Dato for denne version: 11.05.2017>!!
 
 ===Fjerde Mosebog, kapitel 15===
 
@@ -59,4 +59,4 @@ v37 JHVH talte til Moses:
 v38 >>Tal til israelitterne og sig at de skal lave kvaster{T: Den moderne betegnelse blandt jøder er >>skuesnor<<} på kanterne af deres tøj blandt deres efterkommere, og de skal sætte en blå uldsnor på hver kvast.
 v39 I skal have kvasten, så I kan se den og huske på alle JHVHs bud og holde dem, og I skal ikke forsøge jer med noget efter jeres eget hjerte og efter jeres øjne som I kan være utro med.
 v40 Det skal I huske på og holde alle mine bud, og I skal være hellige for jeres Gud.
-v41 Jeg er JVHV jeres Gud som har ført jer ud af Egyptens land for at være jeres Gud. Jeg er JHVH jeres Gud.
+v41 Jeg er JHVH jeres Gud som har ført jer ud af Egyptens land for at være jeres Gud. Jeg er JHVH jeres Gud.
