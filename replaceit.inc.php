@@ -41,6 +41,9 @@ function replaceit($filename, $chapter, &$title, &$credit) {
     $from[] = '/\'/';
     $to[] = '&rsquo;';
 
+    $from[] = '/^ *\*\*\* *$/m';
+    $to[] = '&nbsp;';
+
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '<i>\1</i>';
 
@@ -74,9 +77,6 @@ function replaceit($filename, $chapter, &$title, &$credit) {
 
     $from[] = '/==\s*$/m';
     $to[] = "@\n";
-
-    $from[] = '/\*\*\*/';
-    $to[] = '&nbsp;';
 
     $from[] = '/\s*{E: *([^}]+)}/';
     $to[] = '<span class="ref refa"><span class="refnum">[REFALET]</span><span class="refbody">\1</span></span>';

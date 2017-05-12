@@ -47,7 +47,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/</';
     $to[] = '‹';
 
-    $from[] = '/\*\*\*/';
+    $from[] = '/^ *\*\*\* *$/m';
     $to[] = '\\vspace{\\baselineskip}';
 
     $from[] = '/\*([^\*]+)\*/';

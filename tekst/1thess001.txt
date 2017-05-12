@@ -1,14 +1,14 @@
 ﻿!!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Ulrik Sandborg-Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 31.10.2016>!!
+!!<Dato for denne version: 12.05.2017>!!
 
 === 1. Thessalonikerbrev, kapitel 1 ===
 
-v1 Fra Paulus, Silvanus og Timotheus. Til Thessalonikernes menighed i Gud Fader og Herren Jesus Kristus. Nåde være med jer, og fred.{T: Mange håndskrifter tilføjer desuden: >>fra Gud, vor Far, og Herren Jesus Kristus.<<}
+v1 Fra Paulus, Silvanus og Timotheus. Til Thessalonikernes menighed i Gud Fader og Herren Jesus Kristus. Nåde være med jer, og fred.{E: Mange håndskrifter tilføjer desuden: >>fra Gud, vor Far, og Herren Jesus Kristus.<<}
 
 v2 Vi takker altid Gud for jer alle, når vi nævner jer i vores bønner.  Uophørligt v3 husker vi, for Guds, vor Faders, ansigt, jeres arbejde i troen, jeres slid i kærligheden, og jeres udholdenhed i håbet til vores Herre, Jesus Kristus.
 
-v4 Vi er jo visse på jeres udvælgelse, brødre, I som er elskede af Gud. v5 For vort evangelium kom ikke til jer med ord alene, men også med kraft og med Helligånden og med fuld forvisning, ligesom I også ved, hvordan vi opførte os over for jer, for jeres skyld.
+v4 Vi er jo forvisset om jeres udvælgelse, brødre, I som er elskede af Gud. v5 For vort evangelium kom ikke til jer med ord alene, men også med kraft og med Helligånden og med fuld forvisning, ligesom I også ved, hvordan vi opførte os over for jer, for jeres skyld.
 
-v6 Og I blev vore efterfølgere, ja, Herrens, da I jo modtog Ordet under mange trængsler og med glæde i Helligånden, v7 så at I er blevet et forbillede for alle de troende i Makedonien og i Akaja. v8 For ud fra jer har Herrens Ord jo lydt klart, ikke alene i Makedonien og Akaja, men alle vegne er jeres tro på Gud kommet ud, så vi ikke behøver sige noget om den. v9 For de fortæller nemlig selv om os, hvilken slags modtagelse{T: Ordret, >>indgang<<.} vi fik hos jer, og hvorledes I omvendte jer fra afguderne til Gud, for at tjene den levende og sande Gud, v10 og for at forvente hans Søn fra himlene, ham som han oprejste fra de døde, Jesus, som frier os fra den vrede, som kommer.
+v6 Og I blev efterlignere af os, ja, af Herren, da I jo modtog Ordet under mange trængsler og med glæde i Helligånden, v7 så at I er blevet et forbillede for alle de troende i Makedonien og i Akaja. v8 For ud fra jer har Herrens Ord jo lydt klart, ikke alene i Makedonien og Akaja, men alle vegne er jeres tro på Gud kommet ud, så vi ikke behøver sige noget om den. v9 For de fortæller nemlig selv om os, hvilken slags modtagelse{T: Ordret, >>indgang<<.} vi fik hos jer, og hvorledes I omvendte jer fra afguderne til Gud, for at tjene den levende og sande Gud, v10 og for at forvente hans Søn fra himlene. Ham som han oprejste fra de døde, Jesus, som frier os fra den vrede, som kommer.
