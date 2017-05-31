@@ -25,6 +25,7 @@ function makeheadstart($title, $googlefonts=false) {
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>$title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="http://localhost/projects/DFB/img/icon.png">
     <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
     <link type="text/css" href="style/dfb.css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
