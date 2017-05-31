@@ -1,14 +1,13 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 08.05.2017>!!
-
+!!<Dato for denne version: 31.05.2017>!!
 
 ===Fjerde Mosebog, kapitel 11===
 
 ==JHVH straffer det utilfredse folk.==
 
-v1 Og folket opførte sig som dem der i ondskab højlydt beklagede sig over JHVH,{T: Ordret: >>blev som dem der beklagede sig ondt for JHVHs ører<<.} og JHVH hørte det, og hans vrede blussede op, og JHVHs ild brød ud iblandt dem og den fortærede noget af udkanten af lejren.
+v1 Men nu gav folket sig til at beklage sig bittert i JHVHs påhør,{T: Ordret: >>Folket blev som dem der vedvarende beklager sig ondt i JHVHs ører<<. Biordet >>ondt<< kan bruges om et forbitret sindelag, men også om bitter eller dårlig situation.} og da JHVH hørte det, blussede hans vrede op, og JHVHs ild brød ud iblandt dem og den fortærede noget af udkanten af lejren.
 v2 Da råbte folket til Moses, og Moses bad til JHVH så ilden døde ud.
 v3 Og han gav stedet navnet Tab’era,{T: Dvs.: En brand.} for JHVHs ild brændte iblandt dem.
 
@@ -32,7 +31,7 @@ v15 Og vil du handle sådan med mig, så slå mig ihjel, hvis jeg har fundet nå
 
 ==JHVH befaler ham at tage 70 ældste til sig og samle folket, så vil han give dem kød. Moses’ tro er skrøbelig, men han adlyder.==
 
-v16 JHVH sagde til Moses: >>Saml 70 mænd af Israels ældste sammen. Mænd om hvem du ved at de er folkets ældste og embedsmænd. Dem skal du føre hen til forsamlingsteltet, og der skal de stille sig op sammen med dig.
+v16 JHVH sagde til Moses: >>Saml 70 mænd af Israels ældste sammen. Mænd om hvem du ved at de er folkets ældste og ledere. Dem skal du føre hen til forsamlingsteltet, og der skal de stille sig op sammen med dig.
 v17 Jeg vil komme ned og tale med dig der, og jeg vil tage af den Ånd som er på dig, og lægge på dem, så de kan bære folkets byrde med dig, og du ikke skal bære den alene.
 v18 Til folket skal du sige: >I skal hellige jer til i morgen, så skal I få kød at spise, for I har grædt i JHVHs påhør og sagt: Hvem vil give os kød at spise? For det gik os godt i Egypten. Derfor vil JHVH give jer kød at spise.
 v19 I skal ikke spise én dag og heller ikke to dage og heller ikke fem dage og heller ikke ti dage og heller ikke tyve dage,
