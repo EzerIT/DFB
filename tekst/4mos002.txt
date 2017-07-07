@@ -1,0 +1,60 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 07.07.2017>!!
+
+===Fjerde Mosebog, kapitel 2===
+
+==JHVH giver yderligere instrukser om hvordan israelitterne skal slå sig ned i fire lejre. Mod øst Judas lejr sammen med Issakar, Zebulon.==
+
+v1 JHVH sagde til Moses og Aron:
+v2 >>Israelitterne skal slå lejr i hver sin hærenhed{E: Teksten beskriver at enhver person skal slå sig ned >>på/ved sin degel<<  >>i/med/ved<< bannerne i deres fædrenehus, Ordet >>degel<< henviser til en særlig militær enhed, formodentlig her gruppen af tre stammer, som ligger lejret på hver sin side af forsamlingsteltet. Blev tidligere oversat >>tegn<< (GT1871) eller >>mærke<< (GT1931), men i DO92 >>fanehær<<. Judas lejr er med sine 186.400 mand lidt større end det der i nutidens militære terminologi kaldes en armé (2 Mos 2,9), og det er sikkert denne enhed som >>degel<< hentyder til. Vi har her valgt udtrykket >>hærenhed<<.} ved deres fædrenehuses bannere. De skal slå lejr foran forsamlingsteltet og rundt omkring det.
+v3 De som skal slå lejr foran mod øst, er Judas lejrs hærenhed efter deres hærafdelinger under judæernes leder, Nakshon, Amminadabs søn,
+v4 og hans hærafdeling, de mønstrede af dem er 74.600.
+v5 De som skal slå lejr hos ham, er Issakars stamme under issakaritternes leder, Netan’el, Suars søn,
+v6 og hans hærafdeling, de mønstrede af dem er 54.400.
+v7 Dernæst Zebulons stamme under zebulonitternes leder, Eliab, Helons søn,
+v8 og hans hærafdeling, de mønstrede af dem er 57.400.
+v9 Alle de mønstrede ved Judas lejr{E: Den hebraiske tekst bruger >>lejr<< både om en enkelt stammes lejrplads, men også om 3 stammers lejrplads, og dermed om det der i v. 3 kaldes for bosættelsen af en >>hærenhed<<.} er 186.400 efter deres hærafdelinger. De skal bryde op som den første afdeling.
+
+==Rubens lejr skal være mod syd sammen med Simeon og Gad.==
+
+v10 Rubens lejrs hærenhed skal være mod syd efter deres hærafdelinger under rubenitternes leder, Elisur, Shede’urs søn,
+v11 og hans hærafdeling, de mønstrede af dem er 46.500.
+v12 De som skal slå lejr hos ham, er Simeons stamme under simeonitternes leder Shelumiel, Surishaddajs søn,
+v13 og hans hærafdeling, de mønstrede af dem er 59.300.
+v14 Dernæst Gads stamme under gaditternes leder, Eljasaf, De’uels søn,
+v15 og hans hærafdeling, de mønstrede af dem er 45.650.
+v16 Alle de mønstrede ved Rubens lejr{T: Se v. 9} er 151.450 efter deres hærafdelinger. De skal bryde op som den anden afdeling.
+
+==Levitterne med forsamlingsteltet skal være i midten.==
+
+v17 Dernæst skal forsamlingsteltet bryde op. Levitternes lejr skal være midt imellem lejrene. Sådan som de slår lejr, skal de også bryde op, hver på sin plads{T: Ordret: >>hver ved sin hånd<<, og her om deres indbyrdes placering.}, efter deres bannere.
+
+==Efraims lejr skal være mod vest sammen med Manasse og Benjamin.==
+
+v18 Efraims lejrs hærenhed efter deres hærafdelinger skal være mod vest under efraimitternes leder Elishama, Ammihuds søn,
+v19 og hans hærafdeling, de mønstrede af dem er 40.500.
+v20 Sammen med ham skal Manasses stamme være under manassitternes leder Gamliel, Pedasurs søn,
+v21 og hans hærafdeling, de mønstrede af dem er 32.200.
+v22 Dernæst Benjamins stamme under benjaminitternes leder Abidan, Gid’onis søn,
+v23 og hans hærafdeling, de mønstrede af dem er 35.400.
+v24 Alle de mønstrede ved Efraims lejr{T: Se v. 9} er 108.100, efter deres hærafdelinger. De skal bryde op som den tredje afdeling.
+
+==Dans lejr skal være mod nord sammen med Asher og Naftali.==
+
+v25 Dans lejrs hærenhed skal være mod nord efter deres hærafdelinger under danitternes leder Akiezer, Ammishaddajs søn,
+v26 og hans hærafdeling, de mønstrede af dem er 62.700.
+v27 De som skal slå lejr hos ham, er Ashers stamme under asheritternes leder Pagiel, Okrans søn,
+v28 og hans hærafdeling, de mønstrede af dem er 41.500.
+v29 Og Naftalis stamme under naftalitternes leder Akira, Enans søn,
+v30 og hans hærafdeling, de mønstrede af dem er 53.400.
+v31 Alle de mønstrede ved Dans lejr{T: Se v. 9} er 157.600. De skal bryde op som sidste afdeling efter deres bannere.<<
+
+==Slutning.==
+
+v32 Dette er de mønstrede israelitter efter deres fædrenehus. Alle de mønstrede i lejrene efter deres hærafdelinger var 603.550.
+v33 Men levitterne blev ikke mønstret sammen med israelitterne, sådan som JHVH havde befalet Moses.
+v34 Israelitterne gjorde det; præcis som JHVH havde befalet Moses sådan slog de lejr i deres hærenheder, og sådan rejste de, hver inden for sin slægt sammen med sit fædrenehus.
+
+
