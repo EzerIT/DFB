@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 114{T: Septuginta, der følges af en del oversættere, indleder salmen med et >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 113.}===
 
@@ -24,11 +25,11 @@ v4 bjergene sprang som væddere,
 høje som kid og lam.{T: Ordret: >>som småkvægs afkom<<.}
 
 ==Hvorfor?==
-v5 Hvad skete med dig, du hav, siden du flygtede,
+v5 Hvad er der med dig, du hav, siden du flygtede,
 
-du Jordan, siden du vendte om og løb baglæns,
+du, Jordan, siden du vendte om og løb baglæns,
 
-v6 I bjerge, siden I sprang som væddere,
+v6 I bjerge, siden I hoppede som væddere,
 
 I høje, som kid og lam?
 
@@ -40,5 +41,6 @@ for Jakobs Guds ansigt,
 v8 ham som forvandler klippen til en vanddam,
 
 flint til et kildevæld!
+
 
 

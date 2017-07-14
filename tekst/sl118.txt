@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 118{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 117, som indledning til Sl 118.}===
 
@@ -44,7 +45,7 @@ end at stole på fyrster.
 
 v10 Alle folk{T: Kan også oversættes: >>hedninger<<; det kan give god mening her.} omringede mig,
 
-i JHVHs navn værgede jeg mig imod{E: Den præcise betydning af verbet her (og i næste vers) er usikker. Grundbetydningen er egentlig: >>jeg lod dem omskære<<. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning.} dem.
+i JHVHs navn slog jeg dem ned.{E: Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: >>jeg lod dem omskære<<. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: >>i JHVHs navn værgede jeg mig imod dem<<.} 
 
 v11 De omringede mig, ja, de omringede mig,
 
@@ -85,7 +86,7 @@ v19 Åben retfærdigheds porte for mig,
 
 jeg vil gå ind ad dem, jeg vil takke JHVH!
 
-v20 Denne er porten til JHVH,
+v20 Denne er porten til JHVH,{T: Kan også oversættes (og er traditionelt oversat): >>Dette er Herrens port<<.}
 
 retfærdige kan gå ind ad den.
 
@@ -106,9 +107,9 @@ v24 Denne er dagen som JHVH har skabt,
 
 lad os juble og glæde os på den!
 
-v25 Ak, JHVHv, frels dog!{T: >>Frels dog!<< hedder på hebraisk: *hôšîʕāʰ nnāˀ*.}
+v25 Oh, JHVHv, frels dog!{T: >>Frels dog!<< hedder på hebraisk: *hôšîʕāʰ nnāˀ*.}
 
-Ak, JHVH, lad det dog lykkes!
+Oh, JHVH, lad det dog lykkes!
 
 v26 Velsignet være han som kommer, i JHVHs navn!{E: Sprogligt kunne ordene: >>i JHVHs navn<< i stedet forbindes med verbet: >>han som kommer<<, så velsignelsen tilsiges den der kommer i tillid til >>JHVHs navn<< eller i JHVHs ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter >>JHVHs navn<< til velsignelsen.}
 
@@ -130,5 +131,6 @@ min Gud, jeg vil ophøje dig.
 v29 Tak JHVH, for han er god,
 
 ja, hans nåde{T: Tidligere oversat: >>miskundhed<<. Oversættes nu ofte: >>trofasthed<<.} varer til evig tid.
+
 
 

@@ -1,12 +1,14 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 116{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 115, som indledning til Sl 116.}===
 
 ==Du har reddet mit liv==
-v1 Jeg elsker, for JHVH har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
+v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for JHVH har hørt<<, men verbet >>elske>> kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>JHVH<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker JHVH, for han har hørt min tryglende røst<<.} at JHVH har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
+
 
 min tryglende røst.{T: Ordret: >>min tryglens røst<<.}
 
@@ -52,7 +54,7 @@ v10 Jeg har troet, derfor kan jeg sige:
 
 v11 Jeg sagde i min angst:
 
->>Hvert menneske er en løgner.<<
+>>Hele menneskeheden er løgnere.<<
 
 ==Jeg vil løfte frelsens bæger==
 v12 Hvordan skal jeg gengælde JHVH
@@ -69,7 +71,7 @@ og det foran hele hans folk.
 
 v15 Kostbar i JHVHs øjne
 
-er hans frommes død.
+er hans frommes død.{T: Oversættes nu ofte: >>liv<<, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes >>liv<< (jf. v. 8). Men grundteksten har: *māwet*: >>død<<.}
 
 v16 Ak, JHVHv, jeg er jo din træl,
 
@@ -77,7 +79,7 @@ jeg er din træl, din trælkvindes søn,
 
 du har løst mine lænker.
 
-v17 Til dig vil jeg ofre slagtoffer som tak
+v17 Til dig vil jeg ofre slagtoffer som takoffer
 
 og påkalde JHVHs navn.
 
@@ -90,5 +92,6 @@ v19 i forgårdene til JHVHs hus,
 i din midte, Jerusalem!
 
 Halleluja!{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 117.}
+
 
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 109===
 
@@ -29,14 +30,17 @@ v5 De gengældte mig med ondt for godt,
 
 og med had til gengæld for min kærlighed:
 
-==Fjendernes forbandelse==
-v6 >>Sæt en ugudelig op imod ham,
+==Fjendernes forbandelse{E: Det er omdiskuteret om v. 6-19 er en central del af salmistens egen bøn eller et citat af modstandernes forbandelse af salmisten, som han beder Gud vende mod dem selv.
+For det første taler at ordene ikke tydeligt er markeret som citat, og det har været dansk oversættelsestradition.
+For det andet taler at modstanderne omtales i flertal i klageversene v. 1-5.20-31, mens det er en enkelt der forbandes i v. 6-19. Videre forudsættes modstandernes forbandelse i v. 28, ligesom salmistens tillidsfulde tro på at Gud vil stå ved hans side (v. 31), synes at være modsætning til modstandernes ord om at en anklage skal stå ved hans side (v. 6).
+En tredje mulighed er dog at kun v. 6-15 er modstandernes forbandelse, mens v. 16-19 er salmistens bøn.}==
+v6 >>Sæt en ugudelig op imod ham,{E: Hvis v. 6-19 opfattes som salmistens bøn (se noten ovenfor), må linjen oversættes: >>Hjemsøg ham for hans gudløshed<<. Det vil dog normalt forudsætte at verbet *fqd* (>>hjemsøge<<) skulle stå i qal; her står det i hif’il. Og vokaliseringen af: *rāšoʕ* (>>ugudelig<<) må rettes til: *rešaʕ*: >>gudløshed<<. Denne oversættelse er absolut mulig.}
 
 og lad en anklager{T: Kan også oversættes: >>Satan<<.} stå ved hans højre side!
 
 v7 Når han bliver dømt, vil han gå ud som skyldig,{T: Kan også oversættes: >>ugudelig<<.}
 
-og hans bøn skal blive til synd!
+og hans bøn skal blive til synd!{E: Meningen kan være at selv salmistens bøn fordrejes så den kan bruges som anklage.}
 
 v8 Hans dage skal blive få,
 
@@ -50,11 +54,11 @@ v10 Og hans børn skal strejfe om og tigge,
 
 de bliver krævet{E: Den masoretiske tekst har højst usædvanligt vokaliseret verbet som pu’al: *doršû* (>>bliver fordret<<). Som regel går man ud fra at det skulle have været vokaliseret som qal: *dārᵊšû*: >>de skal søge<<. Andre følger Septuaginta, der har læst ordet som: *jᵊgoršû*: >>de skal fordrives<<.} ud af deres ruiner.
 
-v11 En ågerkarl skal kaste garn ud efter alt det han ejer,
+v11 En långiver skal kaste garn ud efter alt det han ejer,
 
 og fremmede skal røve frugten af hans arbejde.
 
-v12 Der skal ikke være nogen som bevarer nåde{T: Kan også oversættes: >> troskab<<.} imod ham,
+v12 Der skal ikke være nogen som fortsat viser nåde{T: Kan også oversættes: >>troskab<<.} imod ham,
 
 og der skal ikke være nogen der forbarmer sig over hans faderløse!
 
@@ -113,7 +117,7 @@ jeg er rystet af som en græshoppe.
 
 v24 Mine knæ vaklede på grund af faste,
 
-og mit kød er skrumpet ind, uden fedt.
+og mit kød{T: Dvs.: >>min krop<<.} er skrumpet ind, uden fedt.
 
 v25 Og jeg, jeg er blevet til spot for dem,
 
@@ -145,5 +149,6 @@ og blandt mange vil jeg lovprise ham,
 v31 for han står ved en fattigs højre side
 
 for at frelse fra dem som dømmer hans sjæl.
+
 
 

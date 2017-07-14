@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 111{T: Salmen er alfabetisk, så første linje begynder med alfabetets første bogstav, anden linje med det andet osv.}===
 
@@ -21,7 +22,7 @@ v3 Hans værk er højhed og pragt,
 
 og hans retfærdighed består til evig tid.
 
-v4 Han har skabt et minde for sine undere,{E: Linjen kan også oversættes: >>Han har fastsat en proklamation af sine undere<<. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.}
+v4 Han har frembragt{T: Ordret: >>gjort<<.} et minde for sine undere,{E: Linjen kan også oversættes: >>Han har fastsat en proklamation af sine undere<<. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.}
 
 nådig og barmhjertig er JHVH.
 
@@ -53,5 +54,6 @@ v10 Frygt for JHVH er visdoms begyndelse,
 god indsigt har alle som handler efter dem;{T: Det er en henvisning til >>forordninger<< i v.7.}
 
 hans pris består for altid.
+
 
 

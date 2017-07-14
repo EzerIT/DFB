@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 113===
 
@@ -38,15 +39,16 @@ v7 Han som rejser en ringe op af støvet,
 
 som ophøjer en fattig af skarnet
 
-v8 for at lade ham sidde{E: Den masoretiske tekst har: *lᵊhôšîvî*: >>for at lade mig sidde<<. Som regel følger man her Septuaginta og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*: >>for at lade ham sidde<<.} blandt fyrster,
+v8 for at lade ham sidde{E: Den masoretiske tekst har: *lᵊhôšîvî*: >>for at lade mig sidde<<. Som regel følger man her Septuaginta og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*: >>for at lade ham sidde<<.} blandt fornemme,{T: Kan også oversættes: >>fyrster<<.}
 
-blandt sit folks fyrster.
+blandt sit folks fornemme.
 
 v9 Han som lader en ufrugtbar bo{E: Participiet: *môšîvî* (>>lader bo<<) kan også oversættes: >>lader sidde<<. I dette vers skal det dog understrege kvindens position som husets frue.} i huset
 
 som en glad mor til sønnerne.
 
 Halleluja.{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 114.}
+
 
 
 

@@ -55,7 +55,11 @@ $style['ruth']    = 'btn-success';
 $style['sl'] = array();
 for ($k=1; $k<=50; ++$k)
     $style['sl'][$k] = 'btn-success';
-for ($k=51; $k<=150; ++$k)
+for ($k=51; $k<=102; ++$k)
+    $style['sl'][$k] = 'btn-info';
+for ($k=103; $k<=118; ++$k)
+    $style['sl'][$k] = 'btn-success';
+for ($k=119; $k<=150; ++$k)
     $style['sl'][$k] = 'btn-info';
 
 $style['es']      = array( 1 => 'btn-success',

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 108===
 
@@ -13,11 +14,12 @@ v2 Mit hjerte er trygt, Gud,
 
 jeg vil synge og spille,
 
-ja, min ære.{E: Her formodentlig synonym for >>sjæl<< eller >>personlighed<<. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: >> Vågn op, min ære!<<.}
+ja, min ære.{E: Her formodentlig synonym for >>sjæl<< eller >>personlighed<<. Mange følger dog et betydeligt antal håndskrifter, der har samme tekst som Sl 57,9: >> Vågn op, min ære!<<. Grundtekstens: * kāvôd* kan også oversættes: >>herlighed<<; det er da Gud, der kaldes: >>min herlighed<<.}
+
 
 v3 Vågn op, du harpe og citer!
 
-Jeg vil vække morgenrøden.
+Jeg vil vække morgengryet.
 
 v4 Jeg vil takke dig blandt folkene, JHVHv,
 
@@ -66,10 +68,11 @@ og vil du ikke drage ud, Gud, med vore hære?
 
 v13 Bring os hjælp mod en fjende,
 
-for menneskers hjælp er værdiløs.
+for menneskers frelse{E: Det er overraskende at første linje har ordet: *ʕezrāʰ* (>>hjælp<<), som er det bedste, mennesker i bedste fald formår, mens anden linje har: *tᵊšûʕāʰ* (>>frelse<<), som alene Gud kan give.} er værdiløs.
 
 v14 Ved Guds hjælp vil vi vinde styrke,
 
 og han skal træde vore fjender ned.
+
 
 

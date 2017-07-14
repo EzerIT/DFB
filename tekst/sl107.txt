@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 107{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 106 i stedet være indledning til Sl 107.}===
 
@@ -44,13 +45,13 @@ v9 for han har tilfredsstillet{T: Ordret: >>mættet<<.} en tørstig sjæl
 og har fyldt en sulten sjæl med godt.
 
 ==Gud frelste fra fangehullet==
-v10 De sad i mørke og i dødsskygge,{E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.}
+v10 De{E: Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: >>Nogle var …<<, v17: >>Andre blev dårer …<<, v23: >>Andre drog ud …<<.} sad i mørke og i dødsskygge,{E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.}
 
 fanger i elendighed og jern,
 
 v11 for de havde været genstridige imod Guds ord
 
-og havde foragtet den Højestes beslutning.
+og havde foragtet den Højestes anvisning.
 
 v12 Han ydmygede deres hjerte med plager,
 
@@ -68,12 +69,12 @@ v15 De skal takke JHVH for hans nåde
 
 og for hans undere mod menneskebørn,
 
-v16 for han har knust metalporte{E: Ordet: *nᵊḥōšet* oversættes både ved: >>kobber, bronze<< og >>metal<<.}
+v16 for han har knust kobber{E: Ordet: *nᵊḥōšet* oversættes både ved: >>kobber, bronze<< og >>metal<<.}
 
 og hugget jernslåer af.
 
 ==Gud frelste fra sygdom==
-v17 Dårer, på grund af deres overtrædelser{E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: >>De blev dårer ved deres overtrædelser<<. Fortolkere har foreslået at rette: *ʔᵉwilîm* (>>dårer<<) til enten: *ʔumlālîm*: >>hensygnende<< (>>De sygnede hen på grund af deres overtrædelser<<) eller: * ḥôlîm*: >>syge<< (>>de blev syge …<<).}
+v17 Dårer{T: Se note til v10.} var de på grund af deres overtrædelser{E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: >>De var dårer ved deres overtrædelser<<. Fortolkere har foreslået at rette: *ʔᵉwilîm* (>>dårer<<) til enten: *ʔumlālîm*: >>hensygnende<< (>>De sygnede hen på grund af deres overtrædelser<<) eller: * ḥôlîm*: >>syge<< (>>de blev syge …<<).}
 
 og på grund af deres synder blev de plaget.
 
@@ -98,7 +99,7 @@ v22 og de skal ofre takofre
 og fortælle om hans gerninger med jubel.
 
 ==Gud frelste fra druknedøden==
-v23 De som drog ud på havet i skibe,
+v23 De,{T: Se note til v10.} som drog ud på havet i skibe,
 
 som drev handel på store vande,{T: Kan også oversættes: >>mange vande<<.}
 
@@ -173,7 +174,7 @@ lod dem flakke om i en ørken uden vej.
 
 v41 Men han løftede en fattig op af elendighed
 
-og gjorde slægter frugtbare som småkvæget.{T: Ordret blot: >>han gjorde slægter som småkvæget<<.}
+og gjorde slægter frugtbare som småkvæget.{T: Ordret blot: >>han gjorde slægter som småkvæget<< Småkvæg omfatter får og geder.}
 
 v42 De retskafne skal se det og glæde sig
 
@@ -182,5 +183,6 @@ mens al uretfærdighed har lukket sin mund til.
 v43 Den som er vís, skal give agt dette,
 
 og de skal reflektere over JHVHs nåde!{T: Tidligere oversat: >>miskundhed<<. Nu oversættes: *ḥesed* ofte ved: >>trofasthed<<.}
+
 
 

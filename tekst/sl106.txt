@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 106===
 
@@ -12,7 +13,7 @@ Tak JHVH, for han er god,
 
 for hans nåde varer til evig tid.
 
-v2 Hvem kan fortælle om JHVHs vældige gerninger,
+v2 Hvem kan fremsige JHVHs vældige gerninger,
 
 forkynde al hans pris?
 
@@ -83,17 +84,17 @@ v17 Jorden åbnede sig og opslugte Datan,
 
 og den tildækkede Abirams flok,
 
-v18 ild brændte deres flok,
+v18 ild brændte deres flok,{T: Grundtekstens ord skal i de fleste sammenhænge oversættes: >>forsamling/menighed<<.}
 
 flamme fortærede ugudelige.
 
 v19 De lavede en kalv ved Horeb
 
-og tilbad et støbt billede.
+og tilbad et støbt gudebillede.
 
 v20 De ombyttede deres herlighed
 
-med billedet af en okse som æder græs.
+med en figur af en okse som æder græs.
 
 v21 De glemte Gud, deres frelser,
 
@@ -218,7 +219,7 @@ så vi kan takke dit hellige navn,{T: Ordret: >>din helligheds navn<<.}
 
 rose os af at lovprise dig.{T: Ordret: >>din lovprisning<<.}
 
-==lovprisning==
+==Lovprisning==
 v48 Lovet{T: Kan også oversættes: >>velsignet<<.} være JHVH, Israels Gud,
 
 fra evighed og til evighed,
@@ -226,5 +227,6 @@ fra evighed og til evighed,
 og hele folket skal sige: Amen!
 
 Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 107}
+
 
 

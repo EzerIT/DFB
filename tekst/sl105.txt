@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 105{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 104 i stedet være indledning til Sl 105}===
 
@@ -41,7 +42,7 @@ det ord som han har forordnet til tusind slægtled,
 
 v9 som han har indgået med Abraham,
 
-og sin ed til Isak.
+og sin ed{T: Der er tale om et højtideligt løfte.} til Isak.
 
 v10 Han stadfæstede den for Jakob som bestemmelse,
 
@@ -98,11 +99,11 @@ v22 så han kunne vejlede{E: Ordret formodentlig: >>så han kunne binde hans fyr
 
 og give hans ældste visdom.
 
+==I Egypten==
 v23 Så kom Israel til Egypten,
 
 og Jakob boede som gæst i Kams land.
 
-==I Egypten==
 v24 Da han gjorde sit folk meget frugtbart
 
 og talrigere end dets fjender,
@@ -168,7 +169,7 @@ v39 Han bredte en sky ud som et dækken
 
 og ild til at oplyse natten.
 
-v40 De bad,{E: Ordret: >>Han bad<<. Meningen kan være at Moses bad. Som regel opfatter man dog enten formuleringen som kollektiv: >>man bad<<, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): >>de bad<<} og han bragte vagtler
+v40 De spurgte,{E: Ordret: >>Han spurgte<<. Meningen kan være at Moses spurgte. Som regel opfatter man dog enten formuleringen som kollektiv: >>man spurgte<<, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): >>de spurgte<<. Grundtekstens verbum skal i en del sammenhænge oversættes: >>kræve, forlange<<, hvor det dog som regel har objekt. Men denne betydning klinger med her.} og han bragte vagtler
 
 og mættede dem med himmelbrød.
 
@@ -194,5 +195,6 @@ v45 med det formål at de skulle holde hans bestemmelser
 og overholde hans love.
 
 Halleluja! {T: Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette >>halleluja<<.}
+
 
 

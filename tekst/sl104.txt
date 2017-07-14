@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+﻿!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.07.2017>!!
 
 ===Salme 104===
 
@@ -12,19 +13,20 @@ JHVHv, min Gud, du er meget stor!
 
 Du har iført dig højhed og ære.
 
-v2 Han er hyllet{E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Nogle oversættere vælger at se participierne som tæt knyttet til verberne i v.1 og oversætter: >>Du er hyllet …<<, >>du spænder …<< osv.} i lys som kappe,
+v2 Du som er hyllet{E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: >>Han (som) er hyllet …<<, >>han spænder …<< osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.} i lys som kappe,
 
-han spænder himlen ud som en teltdug.
+som spænder himlen ud som en teltdug,
 
-v3 Han bygger sine højsale i vandene;
+v3 som bygger dine højsale i vandene;
 
-han gør skyerne til sin vogn,
+som gør skyerne til din vogn,
 
-han farer frem på vindens vinger.
+som farer frem på vindens vinger,
 
-v4 Han gør vinde til sine sendebud,{T: Det hebraiske ord oversættes i andre sammenhænge: >>engle<<.}
 
-flammende ild til sine tjenere.
+v4 som gør vinde til dine sendebud,{T: Det hebraiske ord oversættes i andre sammenhænge: >>engle<<.}
+
+flammende ild til dine tjenere.
 
 ==JHVH er jordens skaber==
 v5 Han grundfæstede jorden på dens grundvold,
@@ -101,7 +103,7 @@ v21 De unge løver brøler efter rov
 
 og for at kræve deres føde af Gud.
 
-v22 Når solen står op, trækker de sig tilbage
+v22 Når solen står op, trækker de sig tilbage{T: Kan også oversættes: >>samles de igen<<.}
 
 og lægger sig i deres huler.
 
@@ -127,7 +129,8 @@ v26 Der sejler{T: Ordret: >>går<<.} skibene,
 der er{E: Ordene: >>der er<< står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: >>der går/sejler<< styrer også denne linje.} Livjatan, som du skabte til at lege med.{E: Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: >>til at lege deri<<.}
 
 ==Alt liv er afhængigt af Gud==
-v27 De venter alle med håb på dig
+v27 De venter alle med håb til dig om
+
 
 at du skal give dem deres føde i rette tid.
 
@@ -146,9 +149,9 @@ v30 Du sender din Ånd, og de skabes,{E: Linjen kan også oversætte: >>Hvis du 
 og du fornyer jordens skikkelse.
 
 ==JHVHs herlighed skal vare evigt==
-v31 JHVHs herlighed skal vare evigt,
+v31 Må JHVHs herlighed vare evigt,
 
-JHVH skal glæde sig over sine værker!
+må JHVH glæde sig over sine værker!
 
 v32 Han ser på jorden, og den skælver,
 
@@ -169,5 +172,6 @@ og ugudelige ikke være til længere!
 Min sjæl, pris JHVH!
 
 Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 105}
+
 
 
