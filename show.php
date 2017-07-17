@@ -65,6 +65,9 @@ if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap'
 }
 $kap = intval($_GET['kap']);
 $bog = $_GET['bog'];
+$fra = isset($_GET['fra']) && is_numeric($_GET['fra']) ?  intval($_GET['fra']) : 0;
+$til = isset($_GET['til']) && is_numeric($_GET['til']) ?  intval($_GET['til']) : 0;
+
 
 makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap, true);
 ?>
@@ -215,7 +218,7 @@ makemenus(null);
 
       <div class="row">
         <div class="col-md-9 col-lg-8">
-          <?php $text = replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $heading, $credit); ?>
+          <?php $text = replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $heading, $credit, $fra, $til); ?>
           <div class="panel panel-warning">
             <div class="panel-heading">
               <h1 class="panel-title"><?= $heading ?></h1>

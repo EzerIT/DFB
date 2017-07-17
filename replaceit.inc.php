@@ -1,6 +1,6 @@
 <?php
 
-function replaceit($filename, $chapter, &$title, &$credit) {
+function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_verse) {
     $txt = file_get_contents($filename);
 
     if (preg_match('/"/',$txt)) {
@@ -9,6 +9,16 @@ function replaceit($filename, $chapter, &$title, &$credit) {
         die;
     }
 
+    // Handle verse restriction
+    if ($from_verse>0)
+        $txt = preg_replace("/(===[^=]+===).*(v$from_verse )/s",'\1\2',$txt);
+
+    if ($to_verse>0) {
+        $tv = $to_verse+1;
+        $txt = preg_replace("/(==[^=]+==\\s*)?v$tv .*/s",'',$txt);
+    }
+    
+    
     global $nextletter;
     $nextletter = 'a';
     global $nextnumber;
