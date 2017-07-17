@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 60===
 
@@ -17,7 +18,7 @@ v3 Gud, du har forkastet os, du har nedbrudt os,
 
 du blev vred; genrejs os!{E: Meningen her med verbet *tᵊšôvēv lānû* er omdiskuteret. Andre oversætter: >>vend tilbage til os<<.}
 
-v4 Du har bragt landet{T: Det er usikkert om der her skal oversættes: >>jorden<<. I sammenhængen er der dog tale om Israels folk og derfor formodentlig også om dets land.} til at skælve, du har spaltet det,
+v4 Du har bragt landet{T: Det er usikkert om der her skal oversættes: >>jorden<<. I sammenhængen er der dog tale om Israels folk og derfor formodentlig også om dets land.} til at skælve, du har delt det,
 
 læg dets brud, for det vakler!
 
@@ -48,9 +49,10 @@ Juda er min herskerstav.
 
 v10 Moab er mit vaskefad,
 
-på Edom vil jeg kaste min sko,
+på Edom vil jeg kaste min sandal,
 
-over mig skal du bryde ud i jubel, Filistæa!<< 
+over mig skal du bryde ud i jubel, Filistæa!<<{E: Mange oversættere vælger – med et par af de gamle oversættelser – at følge teksten i Sl 108,10: *ʕᵃlê-fᵊlešet ʔetrôʕāʕ*: >>jeg vil bryde ud i jubel/råbe i triumf over Filistæa!<<, frem for den masoretiske tekst her: *ʕālay pᵊlešet hitrōʕāʕî*}
+ 
 
 ==Klage og bøn==
 v11 Hvem vil føre mig til en befæstet by?
@@ -68,4 +70,5 @@ for menneskers hjælp er værdiløs.
 v14 Ved Guds hjælp vil vi vinde styrke,
 
 og han skal træde vore fjender ned.
+
 

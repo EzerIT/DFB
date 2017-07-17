@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 98===
 
@@ -13,9 +14,9 @@ Syng for JHVH en ny sang,
 
 for han har gjort undere;
 
-hans højre hånd hjalp ham
+hans højre hånd og hans hellige arm{T: Ordret: >>hans helligheds arm<<.}
 
-og hans hellige arm.{T: Ordret: >>hans helligheds arm<<.}
+udøvede frelsen for ham.{T: Kan også oversættes: >>skaffede ham sejr<<. For forståelsens skyld er der her byttet om på linjerne. Egentlig: >>hans højre hånd udøvede frelsen for ham / og hans hellige arm<<.}
 
 v2 JHVH har kundgjort sin frelse,
 
@@ -60,6 +61,7 @@ for at dømme jorden.
 Han skal dømme verden med retfærdighed
 
 og folkeslagene med retskaffenhed.
+
 
 
 

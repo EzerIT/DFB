@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 74===
 
@@ -15,7 +16,7 @@ Hvorfor{T: Spørgepartiklen >>hvorfor<< står ikke her i grundteksten, men linje
 
 v2 Husk din menighed som du erhvervede i gammel tid,
 
-som du forløste til at være din arvs stamme,
+som du forløste til at være stammen på din arvelod,{T: Ordret: >>din arvs stamme<<.}
 
 Zions bjerg, som du har taget bolig på.
 
@@ -37,7 +38,8 @@ smadrede de med økser og brækjern.
 
 v7 De satte ild på din helligdom,
 
-de har vanhelliget dit navns bolig helt til grunden.{T: Ordret: >>til jorden<<.}
+de har vanhelliget dit navns bolig helt til grunden.{T: Ordret: >>til jorden<<. Meningen er formodentlig enten at helligdommen blev totalt vanhelliget, eller at den blev brudt ned til grunden, eller begge dele.}
+
 
 v8 De sagde i deres hjerte: >>Lad os underkue dem{E: *nînām* betyder ordret: >>deres slægt<<. Men man vokaliserer som regel: *nînēm*: >>lad os underkue dem<<, ellers må der underforstås et verbum.} alle.<<
 
@@ -73,7 +75,7 @@ du gav dem som føde til et folk, til ørkendyr.{E: Ordene: *lᵊʕām lᵊṣiy
 
 v15 Du lod kilde og bæk bryde frem,
 
-du udtørrede konstant rindende floder.
+du udtørrede stedserindende floder.
 
 v16 Din er dagen, din er også natten,
 
@@ -92,7 +94,7 @@ v19 Giv ikke din turteldues liv{T: Ordret: >>sjæl<<.} til et vilddyr,
 
 glem ikke dine hjælpeløses liv{T: Ordret: >>sjæl<<.} for evigt!
 
-v20 Se til pagten!
+v20 Tag hensyn til pagten!
 
 For landets{T: Kan også oversættes: >>jordens<<.} mørke steder er fulde af voldsboliger.{E: Nogle oversættere sletter *nᵊʔôt* (>>boliger/bosteder/byer<< eller retter til: *ʔᵃnāḥāh*: >>stønnen<< (>>stønnen og vold<<).}
 
@@ -107,5 +109,6 @@ husk hvordan en tåbe håner dig dagen lang.
 v23 Glem ikke dine fjenders råb,{T: Ordret:>>røst<<.}
 
 dine modstanderes bulder, som bestandig stiger op.
+
 
 

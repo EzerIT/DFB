@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 61===
 
@@ -11,7 +12,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Af David. 
 
 ==Klage og tillidsfuld bøn==
-v2 Hør min klage, Gud!
+v2 Hør min klage,{E: Det er omdiskuteret om *rinnāʰ* her betegner jubelråb eller klageråb.} Gud!
 
 Lyt opmærksomt til min bøn!
 
@@ -21,7 +22,8 @@ råber jeg til dig
 
 når mit hjerte bliver svagt.
 
-Du skal føre mig op på en klippe som bliver for høj for mig.
+Du skal føre mig op på en klippe som er for høj for mig.{T: Andre oversætter: >>som er højere end mig<<.}
+
 
 v4 For du har været min tilflugt,
 
@@ -48,5 +50,6 @@ fastsæt at nåde{T: Tidligere oversat >>miskundhed<<. Det oversættes undertide
 v9 Så vil jeg lovsynge dit navn til evig tid,
 
 indfri mine løfter dag for dag.
+
 
 

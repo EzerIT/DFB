@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 68===
 
@@ -52,7 +53,7 @@ da du skred frem gennem ødemarken - Sela{E: Betydningen af dette musikudtryk, d
 
 v9 da skælvede jorden,
 
-og himlen dryppede foran Gud,
+og himlen silede af regn{T: Ordret blot: >>himlen silede/dryppede<<.} foran Gud,
 
 den Eneste fra Sinaj,{E: Ordret: >>dette (er) Sinaj<<. Paralleller i ugaritisk og arabisk tyder på at *zeʰ* (>>dette<<) kan betyde: >>den eneste/ham<<. Det parafraseres undertiden: >>Sinajs Herre<<.}
 
@@ -130,7 +131,7 @@ jeg vil hente tilbage fra havets dyb,
 
 v24 så du kan bade{E: Den hebraiske tekst har: >>så du kan knuse din fod i blod<<. Normalt retter man – med støtte i de gamle oversættelser - *timᵊḥaṣ* (>>du kan knuse<<) til: *tirᵊḥaṣ*: >>du kan bade<<.} din fod i blod,
 
-og dine hundes tunge kan få sin del af fjenderne<<.
+og dine hundes tunge kan få sin andel blandt fjenderne<<.
 
 ==Festprocessionen ind i Guds tempel==
 v25 De så dine processioner, Gud,
@@ -139,7 +140,7 @@ min Guds procession, min konge i helligdommen.
 
 v26 Foran gik sangere, bagefter strengespillerne,
 
-imellem unge piger som slog på pauke.
+imellem unge piger som spillede på pauke.
 
 v27 Pris{T: Kan også oversættes: >>velsign<<.} Gud i forsamlinger,
 
@@ -162,7 +163,7 @@ Konger skal bringe dig gave.
 
 v31 Tru dyret i sivene,{E: Billede på herskerne ved Nilen (Egypten).}
 
-tyreflokken, med folkekalvene,{E: Billede på de hedenske konger med deres folk eller med stormagternes allierede.}
+tyreflokken, med folkene som kalve,{E: Billede på de hedenske konger med deres folk eller med stormagternes allierede.}
 
 som underkaster sig med sølvstykker.{E: Sætningen er dunkel og omdiskuteret. Verbet: *mitrappēs* (>>underkaster sig<<) oversættes også: >>træder under fode<<. Ofte vælger man at rette til imperativ: *hitrappēs*: >>træd under fode<<. Desuden retter man ofte: *bᵊraṣṣê-xāsef* (>>med sølstykker<<) til: *bᵊrōṣê-xāsef*: >>der elsker sølv<<, altså: >>træd dem under fode, der elsker sølv<<.}
 
@@ -192,5 +193,6 @@ v36 Frygtindgydende er du, Gud, fra dine helligdomme,
 Israels Gud, han giver folket magt og styrke.
 
 Lovet{T: Kan også oversættes: >>velsignet<<.} være Gud!
+
 
 

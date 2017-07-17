@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 66===
 
@@ -40,7 +41,7 @@ v7 Han hersker evigt i sin magt,
 
 hans øjne overvåger folkene;{T: Kan også oversættes: >>hedningerne<<, men det er næppe der vægten ligger i sammenhængen.}
 
-de genstridige skal ikke rejse sig overlegent. Sela
+de genstridige skal ikke ophøje sig selv. Sela
 ==Lovsang==
 v8 Pris{T: Kan også oversættes: >>velsign<<.} vor Gud, I folkeslag!
 
@@ -87,7 +88,7 @@ hvad han har gjort for min sjæl.
 
 v17 Til ham råbte jeg med min mund,
 
-men der var lovsang under min tunge.
+og der var lovsang under min tunge.
 
 v18 Hvis jeg havde haft ondt i sinde,{T: Ordret: >>hvis jeg havde haft ondt for øje i mit hjerte<<.}
 
@@ -100,5 +101,6 @@ han lyttede til min bøn.{T: Ordret: >>min bøns røst<<.}
 v20 Lovet{T: Kan også oversættes: >>velsignet<<.} være Gud,
 
 som ikke afviste min bøn eller vendte sin nåde{T: Tidligere oversat >>miskundhed<<, oversættes nu ofte >>trofasthed<<.} fra mig!
+
 
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 57===
 
@@ -33,7 +34,7 @@ Gud skal sende sin nåde og sin sandhed.
 
 v5 Jeg, ja, jeg{T: Ordret: >>Min sjæl<<.} må ligge blandt løver
 
-som brænder efter{E: Meningen må være at modstanderne som rovgriske løver hungrer efter menneskekød.} menneskets børn,
+som fortærer{E: Meningen må være at modstanderne som rovgriske løver hungrer efter menneskekød.} menneskets børn,
 
 deres tænder er spyd og pile,
 
@@ -76,4 +77,5 @@ og din sandhed{T: Eller: >>troskab<<.} indtil skyerne.
 v12 Ophøj dig over himlene, Gud!
 
 din herlighed komme over hele jorden!
+
 

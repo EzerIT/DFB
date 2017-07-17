@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 58===
 
@@ -35,17 +36,17 @@ den øvede slangetæmmer.
 ==Bøn om dom==
 v7 Gud! Knus deres tænder i deres mund,
 
-sønderbryd de unge løvers gebis, JHVHv!
+sønderbryd de unge løvers kæber, JHVHv!
 
 v8 Lad dem flyde ud som vand der løber bort,
 
 han skal skyde sine pile af som om de er uden kraft,{E: Ordret: >>han rette sine pile som om de er afskårne/afstumpede/uden kraft<<. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: >>de skal visne som græs ved vejen<<. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.}
 
-v9 som en snegl der opløses, idet den vandrer af sted,
+v9 som en snegl der opløses, idet den bevæger sig af sted,
 
 som en kvindes dødfødte barn, som de der ikke har set solen.
 
-v10 Før jeres gryder mærker tjørnen,
+v10 Før jeres gryder mærker tjørnen,{T: Underforstået formodentlig: >>varmen fra tjørnen<<.}
 
 som frisk eller som glød, blæser han ham bort.{E: Oversættelsen af v. 9-10 er højst usikker. Der er mange forslag til rettelser, men de bliver alle vilkårlige.}
 
@@ -59,4 +60,5 @@ v12 og mennesker{T: Ordret: >>et menneske<<, men det må opfattes kollektivt<<.}
 >>Ja, der er løn til den retfærdige,
 
 Ja, der er en Gud, som dømmer på jorden!<<
+
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 81===
 
@@ -27,7 +28,8 @@ v5 For det er bestemmelse i Israel,
 
 forordning fra Jakobs Gud.
 
-v6 Han gjorde det til et vidnesbyrd{T: Kan også oversættes: >>en vedtægt<<.} i Josef
+v6 Han gjorde det til et vidnesbyrd{T: Kan også oversættes: >>et pagtsvilkår/en vedtægt<<.} i Josef,
+
 
 da han drog ud imod{E: Præpositionen *ʕal* kan også oversættes: >>over<<. Ofte retter man til præpositionen *min*: >>fra<<, men det passer ikke specielt godt med at Gud er subjekt i sætningen. Meningen må enten være at Gud >>drog ud imod Egypten<< for at befri Israel, eller at han >>drog ud<< i spidsen for sit folk >>over<< det slagne >>Egypten<<.} Egyptens land.
 
@@ -81,5 +83,6 @@ og deres{T: Nemlig Guds folks.} tid skal vare evigt.{E: Hele verset er omdiskute
 v17 Og jeg{T: Den hebraiske tekst har *wayyaˀᵃxîlēhû*: >>og han vil bespise<<. I sammenhængen retter man til: *wāʔaˀᵃxîlēhû*: >>og jeg vil …<<.} vil bespise det med hvedens fedme,
 
 ja, jeg vil mætte dig med honning fra en klippe<<.
+
 
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 78===
 
@@ -31,7 +32,7 @@ og de undere han har gjort.
 
 v5 Han oprettede et vidnesbyrd i Jakob
 
-og satte en lov{E: Grundteksten har her ordet: *tôrāʰ* der i GT oftest anvendes om Guds >>lov/vejledning<<, men i nogle sammenhænge anvendes det om menneskers belæring (v.1).} i Israel
+og gav en vejledning{E: Grundteksten har her ordet: *tôrāʰ* der i GT oftest anvendes om Guds >>lov/vejledning<<, men i nogle sammenhænge anvendes det om menneskers belæring (v.1).} i Israel
 
 som han befalede vore fædre
 
@@ -80,7 +81,7 @@ og rejste vandet som en vold.
 
 v14 Han ledte dem ved skyen om dagen
 
-og hele natten ved ilds lys.
+og hele natten ved flammende lys.{T: Ordret: >>ilds lys<<.}
 
 v15 Han kløvede klipper i ørkenen
 
@@ -192,13 +193,13 @@ ofte vendte han sin vrede bort
 
 og lod ikke hele sin harme blive virksom.
 
-v39 Han huskede på at de var kød,
+v39 Han huskede på at de var kød,{T: De var bare mennesker.}
 
 et vindpust som forsvinder og ikke vender tilbage.
 
 v40 Hvor ofte var de ikke genstridige mod ham i ørkenen,
 
-krænkede ham i ødemarken.
+optændte hans vrede i ødemarken.
 
 v41 Og de fristede på ny Gud
 
@@ -338,5 +339,6 @@ og sin arv, Israel.
 v72 Han vogtede dem efter sit hjertes oprigtighed
 
 og ledte dem med kyndig hånd.
+
 
 

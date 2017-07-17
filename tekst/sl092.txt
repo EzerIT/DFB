@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 92===
 
@@ -30,7 +31,7 @@ v6 Hvor store er dine gerninger, JHVHv,
 
 dine tanker er meget dybe!
 
-v7 En dyrisk{T: Grundtekstens *baʕar* betyder: >>kvæg<<. Det bruges her som betegnelse for et menneske uden ånd.} person kender det ikke,
+v7 En stupid{T: Grundtekstens *baʕar* betyder: >>kvæg<<. Det bruges her som betegnelse for et menneske uden ånd.} person kender det ikke,
 
 og en tåbe forstår ikke dette.
 
@@ -71,5 +72,6 @@ de skal være saftige og grønne,
 v16 så de kan forkynde at JHVH er retskaffen,
 
 min klippe, og der er ingen uret hos ham.
+
 
 

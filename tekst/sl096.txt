@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 96===
 
@@ -23,7 +24,7 @@ v4 For JHVH er stor og højt lovprist,
 
 han er frygtindgydende overfor alle guder.
 
-v5 For alle folkeslagenes guder er tomme afguder,
+v5 For alle folkeslagenes guder er tomme afguder,{T: Grundteksten har blot et ord, der betegner >>afguder<<, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.}
 
 men JHVH har skabt himlen.
 
@@ -66,5 +67,6 @@ for han kommer for at dømme jorden;
 han skal dømme verden med retfærdighed
 
 og folkeslagene med sin sandhed.{T: Kan også oversættes: >>trofasthed<<.}
+
 
 

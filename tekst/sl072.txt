@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 72===
 
@@ -40,7 +41,7 @@ v7 Må en retfærdig{E: Med enkelte håndskrifter og gamle oversættelser retter
 og freden være stor, indtil månen ikke er mere!
 
 ==Gud give kongen herredømme over hele jorden==
-v8 Og han skal herske fra hav til hav,
+v8 Ja, han skal herske fra hav til hav,
 
 og fra floden til jordens ender!
 
@@ -105,5 +106,6 @@ Amen, ja, amen!
 
 ==Efterskrift==
 v20 Her er Davids, Isajs søns, bønner bragt til ende.
+
 
 

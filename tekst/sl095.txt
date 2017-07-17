@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 95===
 
@@ -43,9 +44,9 @@ v8 Forhærd ikke jeres hjerte som ved Meriba,
 
 som den dag ved Massa i ørkenen,
 
-v9 hvor{T: Kan også oversættes: >>da<<.} jeres fædre fristede mig,
+v9 hvor{T: Kan også oversættes: >>da<<.} jeres fædre udfordrede mig,
 
-de satte mig på prøve, skønt de havde set min gerning.
+de satte mig på prøve,{T: Verbet brugtes egentlig om at prøve eller lutre metal. I GT bruges det dog især om Gud der prøver mennesker.}  skønt de havde set min gerning.
 
 v10 I fyrre år væmmedes jeg ved denne slægt,{E: Ordret blot: >>ved en slægt<<. Meningen kan være: >>ved en sådan slægt<<. Men man følger som regel Septuaginta og tilføjer: *hahûʔ*: >>denne<< (og vokaliserer *bᵊdôr* (>>ved en slægt<<) med bestemt artikel: *baddôr*), som er nødvendig i forbindelse med *hahûʔ*.}
 
@@ -54,5 +55,6 @@ og jeg sagde: >>De er et folk med vildfaret hjerte,
 og de har ikke erkendt mine veje.<<
 
 v11 Så svor jeg i min vrede: >>De skal aldrig komme ind til min hvile!<<
+
 
 

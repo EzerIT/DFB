@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 86===
 
@@ -13,9 +14,9 @@ Bøj dit øre, JHVHv, svar mig,
 
 for jeg er hjælpeløs og elendig.
 
-v2 Bevar min liv,{T: Ordret: >>sjæl<<.}
+v2 Bevar mit liv,{T: Ordret: >>sjæl<<.}
 
-for jeg er trofast,
+for jeg er from,
 
 frels din tjener, du min Gud,
 
@@ -70,7 +71,8 @@ og jeg vil ære dit navn til evig tid.
 
 v13 For din nåde{T: Tidligere oversat: >>miskundhed<<.} er stor over mig,
 
-og du har reddet min sjæl fra det dybe dødsrige.
+og du har reddet min sjæl fra det dybe dødsrige.{T: På hebraisk: *šᵊʔôl*. Det er ofte tænkt som liggende under jorden som opholdssted for de døde, men først og fremmest er det himlens modsætning.}
+
 
 ==Klage==
 v14 Gud, overmodige{T: Ordet har også klang af >>gudløse<<.} har rejst sig imod mig,
@@ -89,10 +91,11 @@ giv din styrke til din tjener,
 
 og frels din trælkvindes søn!
 
-v17 Giv mig et tegn på en god udgang,
+v17 Giv mig et tegn på noget godt,
 
-så de som hader mig, må se det og ydmyges.
+så de, som hader mig, må se det og ydmyges.
 
 For du, JHVHv, har hjulpet mig og trøstet mig.
+
 
 

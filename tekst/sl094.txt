@@ -1,14 +1,15 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 94===
 
 ==Kollektiv klage==
-v1 Hævnens{T: Både her og i næste linje står grundtekstens ord for >>hævn<< i pluralis, der formodentlig skal understrege styrken i Guds hævn.} Gud, JHVH,
+v1 Du hævnens{T: Både her og i næste linje står grundtekstens ord for >>hævn<< i pluralis, der formodentlig skal understrege styrken i Guds hævn.} Gud, JHVHv,
 
-hævnens Gud er trådt frem i stråleglans!{E: Ud fra sammenhængen og flere af de gamle oversættelser vælger man ofte at vokalisere verbet som imperativ: *hôfîʕāh*: >>træd frem i stråleglans<< i stedet for: *hôfîaʕ* (>>er trådt frem i stråleglans<<). I så fald må hele verset regnes for rettet til Gud, så oversættelsen kan lyde: >>Du hævnens Gud, JHVHv, du hævnens Gud, træd frem i stråleglans!<<}
+du hævnens Gud, træd frem i stråleglans!{E: Verbet: *hôfîaʕ* kan også opfattes som hif’il perfektum: >>er trådt frem i stråleglans<<. I så fald kan oversættelsen lyde: >>Hævnens Gud, JHVH, hævnens Gud, er trådt frem i stråleglans!<<}
 
 v2 Rejs dig, du jordens dommer,
 
@@ -75,7 +76,7 @@ Hvem står mig bi imod dem som udøver synd?
 
 v17 Hvis ikke JHVH havde været en hjælp for mig,
 
-havde min sjæl næsten boet i tavshed.{T: Det er betegnelse for dødsriget.}
+havde min sjæl næsten boet i stilhed.{T: Det er betegnelse for dødsriget.}
 
 v18 Hvis jeg sagde: >>Min fod vaklede,<<
 
@@ -102,5 +103,6 @@ v23 Han vil lade deres synd vende tilbage over dem selv
 og vil udslette dem i deres ondskab.
 
 JHVH, vor Gud, vil udslette dem.
+
 
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 99===
 
@@ -19,7 +20,7 @@ v3 De skal prise dit navn som stort og frygtindgydende.
 Hellig er han!
 
 ==Hellig som retfærdighedens garant==
-v4 Og en kongens magt,{E: Formuleringen er speciel og omdiskuteret. Der er foreslået flere rettelser. Mindst indgribende er at læse substantivet: *ʕōz* (>>magt<<) som adjektiv: *ʕaz*: >>mægtig<< og opfatte hele verset som rettet til Gud, så der oversættes: >>Og mægtige konge, som elsker ret, du har grundfæstet retskaffenhed<<. Normalt skal adjektivet dog stå efter substantivet, så det forudsættes at versets to første ord bytter plads: *wᵊʕōz melex* (egentlig: >>Og konges magt<<) til: *ûmelex ʕaz* (>>og mægtige konge<<). Andre retter *wᵊʕōz melex* til: *wᵊʕaz mālax*: >>Og en stærk er konge. (Han elsker ret. Du har befæstet retskaffenhed)<<.} der elsker ret,
+v4 Og en kong med magt,{E: Formuleringen er speciel og omdiskuteret. Der er foreslået flere rettelser. Mindst indgribende er at læse substantivet: *ʕōz* (>>magt<<) som adjektiv: *ʕaz*: >>mægtig<< og opfatte hele verset som rettet til Gud, så der oversættes: >>Og mægtige konge, som elsker ret, du har grundfæstet retskaffenhed<<. Normalt skal adjektivet dog stå efter substantivet, så det forudsættes at versets to første ord bytter plads: *wᵊʕōz melex* (egentlig: >>Og konges magt<<) til: *ûmelex ʕaz* (>>og mægtige konge<<). Andre retter *wᵊʕōz melex* til: *wᵊʕaz mālax*: >>Og en stærk er konge. (Han elsker ret. Du har befæstet retskaffenhed)<<.} der elsker ret,
 
 har du grundfæstet i retskaffenhed,
 
@@ -57,5 +58,6 @@ v9 Ophøj JHVH, vor Gud,
 og kast jer ned for hans hellige bjerg,
 
 for hellig er JHVH, vor Gud!
+
 
 

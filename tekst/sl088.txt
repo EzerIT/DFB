@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 88===
 
@@ -23,7 +24,7 @@ bøj dit øre til min klageråb!
 
 v4 For min sjæl er mæt af ulykker,
 
-og mit liv er kommet nær til dødsriget.
+og mit liv er kommet nær til gravens rand.{T: Hebraisk: *šᵊʔôl*, der traditionelt er blevet oversat: >>dødsriget<<.}
 
 v5 Jeg agtes lige med dem som går ned{T: Kan også oversættes: >>som er på vej<<.} i graven,
 
@@ -95,5 +96,6 @@ de har sammen slået kreds omkring mig.
 v19 Du har fjernet elsket ven og kammerat langt fra mig,
 
 mine fortrolige er blevet til mørke.{E: Sætningen har i grundteksten ikke noget verbum der derfor må underforstås. Formodentlig enten: >>er blevet til<< (en uhyggelig, fjendtlig magt) eller >>er blevet borte i<<.}
+
 
 

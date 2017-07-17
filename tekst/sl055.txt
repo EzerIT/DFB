@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 55===
 
@@ -23,7 +24,7 @@ v4 over fjendes råb,
 
 over at ugudelig undertrykker,{T: Oversættelsen af ordet er usikker – det forekommer kun her i GT.}
 
-for de vælter uret ned over mig,
+for de vælter lidelse ned over mig,
 
 og i vrede bekriger de mig.
 
@@ -87,7 +88,8 @@ v16 Død skal falde{T: Konsonantteksten forudsætter ordet *yᵊšîmôt*: >>Ød
 
 De skal fare levende ned i dødsriget,
 
-for der er ondskab i deres forrådskammer, i deres indre.
+for der er ondskab i kammeret i deres indre.{E: Sætningen er omdiskuteret. Ordret: >>for der er ondskab i deres kammer, i deres indre<<. Mange oversættere sletter: >>i deres indre<< (*bᵊqirbām*) som ikke-oprindelig tilføjelse. Andre opfatter det som forklaring til kammeret, så der kan oversættes: >>i deres hjertekammer<<. Ordet: *mᵊgûrāʰ* (>>kammer<<) forekommer kun her og i Hagg 2,19, hvor det oversættes: >>lade/lager<<. Her kunne det eventuelt oversættes: >>lager/forrådskammer<<.}
+
 
 ==Tillid til at Gud hører==
 v17 Jeg vil råbe til Gud,
@@ -121,11 +123,12 @@ han har vanhelliget sin pagt.
 
 v22 Hans munds flødeagtige ord var glatte,{T: Ordet *maḥmāʔōt* (>>flødeagtig<< optræder i GT kun her, og betydningen er usikker. Oftest ændrer man vokaliseringen til: *mēḥᵃmāʔōt*: >>end smør<< så oversættelsen bliver: >>Hans mund var glattere end smør<<.}
 
-og hans hjerte er krig;
+og hans hjerte ville krig;{T: Ordret: >>hans hjerte krig<<. Der må være underforstået et verbum (>>ville/ønskede<<).}
 
-hans ord er blødere end olie,
 
-og dog er de dragne sværd.
+hans ord var blødere end olie,
+
+og dog var de dragne sværd.
 
 ==Opmuntringsord==
 v23 Kast din byrde på JHVH,
@@ -145,4 +148,5 @@ Mordere og bedragere{T: Ordret: >>blodets og bedragets mænd<<.}
 skal ikke nå halvdelen af deres dage.
 
 Men jeg, jeg stoler på dig.
+
 

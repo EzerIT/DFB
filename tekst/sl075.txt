@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 75===
 
@@ -16,7 +17,7 @@ v2 Vi takker dig, Gud, vi takker,
 og dit navn er nært,{E: I stedet for: *wᵊqārôv šᵊmexā* (>>og dit navn er nært<<) har bl.a. Septuaginta åbenbart læst: *wᵊqārōʔ bišᵊmexā*: >>og den der påkalder dit navn, (fortæller om dine undere)<<. Bredere accepteret er dog forslag om at læse: *wᵊqōrʔeʸ bišᵊmexā*: >>og vi påkalder dit navn<<.} dine undere fortæller om det.{T: Kan også oversættes: >>de/man fortæller om dine undere<<.}
 
 ==Guds tale==
-v3 >>Når jeg vil gribe den fastsatte tid,
+v3 >>Når jeg griber den fastsatte tid,
 
 vil jeg dømme retfærdigt,
 
@@ -57,5 +58,6 @@ jeg vil lovsynge Jakobs Gud.
 v11 Og jeg vil hugge alle de ugudeliges horn af,
 
 en retfærdigs horn skal ophøjes.
+
 
 

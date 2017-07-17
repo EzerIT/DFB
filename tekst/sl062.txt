@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 62===
 
@@ -21,7 +22,7 @@ min fæstning; jeg skal ikke rokkes meget.
 
 v4 Hvor længe vil I storme{E: Det er omdiskuteret om roden i *tᵊhôttû* er *hwt* (>>storme imod<<) eller *htt* (>>overdænge med bebrejdelser<<. Det første er dog sandsynligst.} ind på en mand
 
-- I vil alle myrde -{T: Den masoretiske tekst er tilsyneladende vokaliseret som passiv: >>I skal alle myrdes<<. Men det er næppe meningen her.}
+- I vil alle myrde -
 
 der er som en hældende væg,
 
@@ -76,5 +77,6 @@ At styrke tilhører Gud.
 v13 Og: Hos dig, Herre, er der nåde.{T: Tidligere oversat >>miskundhed<<. Det oversættes undertiden: >>troskab<<.}
 
 For du vil gengælde et menneske efter hans gerning.
+
 
 

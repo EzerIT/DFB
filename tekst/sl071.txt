@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 71===
 
@@ -50,7 +51,7 @@ forlad mig ikke, når min kraft forlader mig!
 
 v10 For mine fjender talte om mig,
 
-og de som lurede{T: Ordret: >>overvågede<<, men i sammenhængen i ond hensigt.} på mit liv,{Ordret: >>min sjæl<<.} rådførte sig med hinanden,
+og de som lurede{T: Ordret: >>overvågede<<, men i sammenhængen i ond hensigt.} på mit liv,{T: Ordret: >>min sjæl<<.} rådførte sig med hinanden,
 
 v11 idet de sagde: >>Gud har forladt ham,
 

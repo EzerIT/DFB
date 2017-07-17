@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 63===
 
@@ -32,7 +33,7 @@ v5 ja, jeg vil velsigne dig hele mit liv,{T: Ordret: >>i mit liv<<.}
 i dit navn vil jeg løfte mine hænder.
 
 ==Trygheden hos Gud==
-v6 Min sjæl skal mættes som af fedt og marv,{E: Det er festmåltidets hovedretter.}
+v6 Min sjæl skal mættes som af fede og gode retter,{E: Festmåltidets hovedretter var fede. Grundteksten har to ord der begge betyder: >>fedt<<; det ene oversættes dog undertiden: >>marv<<.}
 
 og min mund skal lovprise dig med jublende læber{T: Ordret: >>jubels læber<<.}
 
@@ -62,5 +63,6 @@ v12 Men kongen skal glæde sig i Gud,
 alle som sværger ved ham,{E: Meningen kan også være: >>Alle, som sværger ham (kongen) troskab, skal ….} skal rose sig,
 
 for munden skal lukkes på dem som taler løgn.
+
 
 

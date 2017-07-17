@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 65===
 
@@ -10,8 +11,8 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 
 Salme af David. En sang. 
 
-==Lovprisning for Guds tilgivelse og fællesskab==
-v2 Lovsang tilkommer dig,{E: Ordret: >>For dig er stilhed en lovsang<< eller: >>For dig er der stilhed, lovsang<<. Da der i det følgende ikke er tale om stilhed, men hørlig lovsang, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (>>stilhed<<) til *dōmiyyāʰ*: >>det der tilkommer en<<.}
+==Lovsangprisning for Guds tilgivelse og fællesskab==
+v2 Lovprisning tilkommer dig,{E: Ordret: >>For dig er stilhed en lovprisning<< eller: >>For dig er der stilhed, lovprisning<<. Da der i det følgende ikke er tale om stilhed, men hørlig lovprisning, følger man oftest Septuaginta og den gamle syriske oversættelse og retter vokaliseringen af *dumiyyāʰ* (>>stilhed<<) til *dōmiyyāʰ*: >>det der tilkommer en<<.}
 
 Gud på Zion,
 
@@ -86,5 +87,6 @@ v14 Engene er klædt med småkvæget,
 og dalene skal dække sig til med korn.
 
 De skal juble, ja, synge.
+
 
 

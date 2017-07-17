@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 101===
 
@@ -13,7 +14,7 @@ Om troskab{E: Ordet *ḥesed* er vanskeligt at indfange i et enkelt dansk ord. O
 
 dig, JHVHv, vil jeg lovsynge.
 
-v2 Jeg vil indprente mig fuldkommen vej –
+v2 Jeg vil indprente mig en fuldkommen vej –
 
 hvornår vil du komme til mig?
 
@@ -65,5 +66,6 @@ alle landets ugudelige
 for at udrydde fra JHVHs by
 
 alle dem som begår synd.
+
 
 

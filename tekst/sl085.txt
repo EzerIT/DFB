@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 85===
 
@@ -11,9 +12,9 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Af Koras sønner. En salme.
 
 ==Gud var nådig==
-v2 Du benådede, JHVHv, dit land,
+v2 Du har haft lyst, JHVHv, til dit land,
 
-du vendte Jakobs skæbne.{E: Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: >>vending<<, der i forbindelse med verbum af samme rod (*šwb*) betyder>>vende ens skæbne<<. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: >>fangenskab<<.}
+du vendte Jakobs situation.{E: Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: >>vending<<, der i forbindelse med verbum af samme rod (*šwb*) betyder>>vende ens situation/lod<<. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: >>fangenskab<<.}
 
 v3 Du borttog dit folks skyld,
 
@@ -26,7 +27,7 @@ du vendte om fra din vredes glød.
 ==Gud, vær os nådig==
 v5 Genrejs os,{E: Ordret blot: >>vend os<<. Meningen må enten være: >>genrejs os<<, eller: >>bring os tilbage<<, eller måske: >>vend tilbage til os<<. Andre foreslår at rette: *šûvēnû* (>>vend os<<) til: *šûv nāˀ*: >>vend dog tilbage<<.} vor frelses Gud,
 
-og tilintetgør din vrede mod os.
+og opgiv din vrede mod os.
 
 v6 Vil du være vred på os for evigt?
 
@@ -67,6 +68,7 @@ og vort land vil give sin afgrøde.
 
 v14 Retfærdighed skal gå foran ham{T: Ordret: >>foran hans ansigt<<.}
 
-og fred i hans skridts spor!{E: Den masoretiske tekst ordret: >>og han/den sætter sine skridt på en vej/i et spor<<. Det er foreslået at oversætte: >>og den bereder vej for hans skridt<<, med >>retfærdighed<< som subjekt. Sådan som præpositionen *lᵊ* (>>på/for<<) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (>>og han sætter<<) til: *wᵊšālôm*: >>og fred<< eller: *wᵊyēšaʕ*: >>og frelse<<.}
+og fred i hans skridts spor!{E: Den masoretiske tekst ordret: >>og han/den gør sine skridt til en vej/til et spor<<. Det er foreslået at oversætte: >>og den bereder vej for hans skridt<<, med >>retfærdighed<< som subjekt. Sådan som præpositionen *lᵊ* (>>på/for<<) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (>>og han sætter<<) til: *wᵊšālôm*: >>og fred<< eller: *wᵊyēšaʕ*: >>og frelse<<.}
+
 
 

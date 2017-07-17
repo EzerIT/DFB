@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 80===
 
@@ -63,7 +64,7 @@ v12 Den udstrækker sine ranker til havet
 
 og sine spirer til floden.
 
-v13 Hvorfor har du nedrevet dens gærde,
+v13 Hvorfor har du nedrevet dens mure,
 
 så alle som kommer forbi, kan plukke af den?
 
@@ -81,7 +82,7 @@ v16 og det skud{E: Ordet: *kannāʰ* findes kun dette ene sted i GT. Betydningen
 
 og den søn som du har opfostret.{E: Kan også oversættes: >>som du gav styrke for dig<<. Linjen slettes dog af mange oversættere som formoder at den fejlagtigt er kommet ind her fra v.18b. Det er imidlertid ikke nødvendigvis rigtigt. Udtrykket >>søn<< må i dette vers gå på hele Israels folk, mens der i v.18b formodentlig er tænkt på kongen.}
 
-v17 Den er brændt med ild, skåret af,{E: Ordet: *kᵊsûḥāʰ* læses oftest som verbum (participium passiv): >>skåret af<<. Andre oversætter dog: >>som skarn<<.}
+v17 Den er brændt med ild, skåret af,{E: Ordet: *kᵊsûḥāʰ* læses oftest som verbum (participium passiv): >>skåret af<<. Andre oversætter dog: >>som affald/skarn<<.}
 
 de{T: nemlig dit folk.} går til grunde for dit ansigts trussel.{E: Sætningen kan også oversættes: >>lad dem gå til grunde for dit ansigts trussel<<. I så fald er det en bøn om straf over fjenderne.}
 
@@ -96,3 +97,4 @@ Lad os leve, så vil vi påkalde dit navn.
 v20 JHVHv, Gud Sebaot,{T: Se til v.5.} genrejs os,{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
 
 lad dit ansigt lyse så vi bliver frelst!
+

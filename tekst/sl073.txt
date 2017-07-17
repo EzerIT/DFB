@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 73===
 
@@ -15,7 +16,7 @@ mod de rene af hjertet.
 
 v2 Men jeg - mine fødder var nær snublet,{E: Grundtekstens konsonanttekst har egentlig verbet som participium passiv (*nāṭāʸû*): >>nær snublende angående mine fødder<<, men vokaliseringen angiver qal yiqtol: *nāṭāʸû*: >>var snublet<<.}
 
-mine skridt var lige ved at glide.
+mine skridt var lige ved at glide ud.
 
 v3 For jeg blev misundelig på de overmodige,{T: Formodentlig er der især tænkt på gudløse.}
 
@@ -33,7 +34,7 @@ v6 Derfor er hovmod blevet deres halssmykke,
 
 vold indhyller dem som en klædning.
 
-v7 Deres øjne gik ud af fedt,{E: Sætningen er omdiskuteret. I stedet for *ʕênēmô* (>>deres øjne<<) har gamle oversættelser åbenbart læst: *ʕᵃwōnāmô*: >>deres synd<<. Ordet *ḥēlev* (>>fedt<<) er egentlig det fedtrige bindevæv omkring indvoldene. Det oversættes derfor også undertiden: >>indre<<, så oversættelsen kan lyde: >>deres synd kom fra deres indre<<.}
+v7 Deres øjne stak ud af fedt,{E: Sætningen er omdiskuteret. I stedet for *ʕênēmô* (>>deres øjne<<) har gamle oversættelser åbenbart læst: *ʕᵃwōnāmô*: >>deres synd<<. Ordet *ḥēlev* (>>fedt<<) er egentlig det fedtrige bindevæv omkring indvoldene. Det oversættes derfor også undertiden: >>indre<<, så oversættelsen kan lyde: >>deres synd kom fra deres indre<<.}
 
 hjertets planer flød over.
 
@@ -41,7 +42,7 @@ v8 De håner og taler i ondskab,
 
 undertrykkelse{E: Accenten i grundteksten lader egentlig >>undertrykkelse<< høre til første linje. Af hensyn til rytmen lader man normalt ordet høre til anden linje.} taler de fra det høje.
 
-v9 De har sat deres mund i himlen,
+v9 De har rettet deres mund mod himlen,
 
 og deres tunge færdes på jorden.
 
@@ -64,7 +65,7 @@ og vasket mine hænder i uskyld.
 
 v14 Og dog blev jeg plaget hele dagen,
 
-og min tugt var der{E: Grundteksten har ikke noget verbum i denne sætning. Enten må det underforstås: >>var der<< eller eventuelt: >begyndte<< - eller også må man rette *wᵊtôxaḥtî* (>>og min tugt<<) til det tilsvarende verbum: *wᵊhûxaḥtî*: >>og jeg blev tugtet<<.} hver morgen.
+og min tugt begyndte{E: Grundteksten har ikke noget verbum i denne sætning. Enten må der underforstås: >>var der<< eller: >begyndte<< - eller også må man rette *wᵊtôxaḥtî* (>>og min tugt<<) til det tilsvarende verbum: *wᵊhûxaḥtî*: >>og jeg blev tugtet<<.} hver morgen.
 
 ==Men de ugudelige går en forfærdelig skæbne i møde==
 v15 Hvis jeg havde sagt: >>Jeg vil tale sådan<<,
@@ -89,12 +90,12 @@ De forsvandt, de gik til grunde af skræk.
 
 v20 Som en drøm, når man vågner,
 
-ringeagter du, Herre, når du vågner, deres billede.{E: Ordret oversat lyder grundteksten: >>Herre, i byen ringeagter du deres billede<<. Sådan har Septuaginta i al fald opfattet teksten. *bāʕîr* (>>i byen<<) kan dog også opfattes som sammentrukket form af *bᵊhāʕîr* (infinitiv hif’il): >>ved opvågnen<<, dvs.: >>når du vågner<<.}
+ringeagter du, Herre, når du vågner, dem som et fantasibillede.{E: Ordret oversat lyder grundteksten: >>Herre, i byen ringeagter du deres billede<<. Sådan har Septuaginta i al fald opfattet teksten. *bāʕîr* (>>i byen<<) kan dog også opfattes som sammentrukket form af *bᵊhāʕîr* (infinitiv hif’il): >>ved opvågnen<<, dvs.: >>når du vågner<<.}
 
 ==Bekendelse af tvivl==
 v21 Da mit hjerte var bittert,
 
-og jeg følte mig stukket i mine nyrer,
+og jeg følte mig stukket i mine nyrer,{T: Meningen: >>det nagede i mit indre<<.}
 
 v22 da var jeg et fæ og kunne ikke forstå noget,
 
@@ -126,5 +127,6 @@ v28 Men jeg – Guds nærhed er et gode for mig,
 jeg har taget min tilflugt til Herren, JHVH,
 
 for at fortælle om alle dine gerninger.
+
 
 

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.01.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 69===
 
@@ -11,7 +12,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 ==Klage i nød og bøn om frelse==
 v2 Frels mig, Gud,
 
-for vandet er kommet til halsen,{T: Ordret: >>sjælen<<.}
+for vandet når mig til halsen,{T: Ordret: >>sjælen<<.}
 
 v3 jeg er sunket i dybets dynd,
 
@@ -93,7 +94,7 @@ v16 Lad ikke vandstrømmene skylle over mig,
 
 og lad ikke dybet opsluge mig,
 
-og lad ikke en brønd lukke sin mund over mig!
+og lad ikke en brønd{T: Ordet: >>brønd<< er her muligvis brugt som synonym for >>grav<<} lukke sin mund over mig!
 
 v17 Svar mig, JHVHv, for din nåde er god,
 
@@ -148,7 +149,7 @@ og de øger{E: Grundteksten har: >>de fortæller til smerten hos dem, som du har
 
 v28 Læg skyld til deres skyld,
 
-og lad dem ikke komme til din retfærdighed!
+og lad dem ikke komme ind i din retfærdighed!
 
 v29 Lad dem blive slettet af de levendes bog,
 
@@ -188,5 +189,6 @@ og de skal bo der og eje det,
 v37 og hans tjeneres efterkommere{T: Ordret: >>sæd<<.} skal arve det,
 
 og de som elsker hans navn, skal bo i det.
+
 
 

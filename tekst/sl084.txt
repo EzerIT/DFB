@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 84===
 
@@ -15,7 +16,7 @@ v2 Hvor elskelige er dine boliger,
 
 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} JHVHv!
 
-v3 Min sjæl længtes efter, ja hentæredes
+v3 Min sjæl længtes, ja, var ved at gå til af længsel{T: Ordret: >>hentæredes<<.}
 
 efter JHVHs forgårde,
 
@@ -81,5 +82,6 @@ som vandrer i oprigtighed.
 v13 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} JHVHv,
 
 saligt er det menneske som stoler på dig!
+
 
 

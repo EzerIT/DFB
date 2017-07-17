@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 17.07.2017>!!
 
 ===Salme 89===
 
@@ -29,7 +30,7 @@ v6 Og himlen skal prise dit under, JHVHv,
 
 ja, din sandhed i de helliges forsamling.{E: Kan også oversættes: >>menighed<<. Her er der dog tænkt på Guds tjenende engle og åndemagter.}
 
-v7 For hvem i skyhimlen kan være lige med JHVH?
+v7 For hvem i skyerne kan være lige med JHVH?
 
 Hvem{T: Spørgepartiklen >>hvem<< er underforstået fra foregående linje.} ligner JHVH blandt gudssønnerne?{T: Det er de himmelske magter.}
 
@@ -71,7 +72,7 @@ v16 Saligt er det folk som kender til jublende hyldest,
 
 JHVHv, i dit ansigts lys kan de vandre.
 
-v17 I dit navn skal de fryde sig hele dagen,
+v17 Over dit navn skal de fryde sig hele dagen,
 
 og ved din retfærdighed ophøjes de.
 
@@ -88,7 +89,8 @@ v20 Dengang talte du i et syn
 
 til dine fromme{T: Mange oversættere vælger at rette til singularis, men der er formodentlig tænkt på profeterne Samuel og Natan og eventuelt flere.} og sagde:
 
->>Jeg har anbragt hjælp{E: Mange retter: *ʕēzer* (>>hjælp<<) til: *nēzer*: >>et diadem<<. Men det har hverken støtte i håndskrifter eller gamle oversættelser. Meningen med den overleverede tekst må være at Gud har betroet helten (David (og hans efterkommere)) at regere og hjælpe folket på Guds vegne.} på en helt,
+>>Jeg har sørget for hjælp{E: Mange retter: *ʕēzer* (>>hjælp<<) til: *nēzer*: >>et diadem<<. Men det har hverken støtte i håndskrifter eller gamle oversættelser. Meningen med den overleverede tekst må være at Gud har betroet helten (David (og hans efterkommere)) at regere og hjælpe folket på Guds vegne.} ved en helt,{T: Ordret: >>Jeg har lagt hjælpen på en helt<<. Meningen må være, at hjælpen er pålagt ham som en betroet opgave.}
+
 
 jeg har ophøjet en udvalgt{T: Kan også oversættes: >>en yngling<<.} ud af folket.
 
@@ -142,7 +144,7 @@ og ikke holder mine bud:
 
 v33 Så vil jeg hjemsøge deres overtrædelse med stok
 
-og deres skyld med plager.
+og deres skyld med slag.
 
 v34 Men min nåde mod ham vil jeg ikke bryde{E: Ordret: >>Men min nåde vil jeg ikke bryde fra ham<<.}
 
@@ -162,7 +164,7 @@ og hans trone som solen foran mig;
 
 v38 som månen skal den befæstes for evigt,
 
-og et vidne på skyhimlen er trofast<<.{E: Meningen må være, at >>skyhimlen<< selv er vidne om Guds trofasthed. Mange retter: *wᵊʕēd baššaḥaq* (>>og et vidne på skyhimlen<<) til: *bᵊʕôd haššaḥaq*: >>så længe skyhimlen er til<<.} Sela
+og et vidne på skyerne er trofast<<.{E: Meningen må være, at >>skyerne<< selv er vidne om Guds trofasthed. Mange retter: *wᵊʕēd baššaḥaq* (>>og et vidne på skyerne<<) til: *bᵊʕôd haššaḥaq*: >>så længe skyerne er til<<.} Sela
 
 ==Klage over folkets og kongens nød==
 v39 Men nu har du forkastet og afvist ham,
@@ -203,7 +205,7 @@ hvor længe{T: Ordene >>hvor længe<< er underforstået fra forrige linje.} skal
 
 v48 Husk, hvilken livslængde jeg har,{E: Sætningen er vanskelig og omdiskuteret. Ordret kunne den lyde: >>Husk, jeg, hvad livslængden er<<.}
 
-til hvilken intethed du har skabt alle menneskebørn.{T: Ordret: >>Adams sønner<<.}
+til hvilken flygtighed{T: Ordret: >>tomhed/intethed<<.} du har skabt alle menneskebørn.{T: Ordret: >>Adams sønner<<.}
 
 v49 Hvilken mand kan leve uden at skulle se døden,
 
@@ -225,5 +227,6 @@ at de har spottet din salvedes fodspor.
 v53 Lovet være JHVH til evig tid!
 
 Amen, amen.
+
 
 
