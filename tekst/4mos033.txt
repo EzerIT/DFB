@@ -1,0 +1,68 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.07.2017>!!
+===Fjerde Mosebog, kapitel 33===
+
+==Moses beskriver israelitternes rejser fra de rejste ud af Egypten til de kom til Kana’ans grænser.==
+
+v1 Dette er israelitternes rejser, da de var rejst ud af Egypten, efter deres hære, under Moses og Aron.
+v2 Moses nedskrev de steder hvorfra de på deres rejser efter JHVHs ord brød op, og dette er deres rejser efter de steder de brød op fra.
+v3 De rejste fra Ramses i den første måned, på den femtende dag i den første måned, på den anden dag i påsken rejste israelitterne med løftet hånd for alle egypternes øjne.
+v4 Da var egypterne ved at begrave alle førstefødte som JHVH havde slået ihjel blandt dem, og JHVH havde holdt dom over deres guder.
+v5 Israelitterne brød op fra Ramses og slog lejr i Sukkot.
+v6 De brød op fra Sukkot og slog lejr i Etam på grænsen til ørkenen.
+v7 De brød op fra Etam og vendte om til Pi-ha-Kirot, som er lige over for Ba’al-Sefon, og de slog lejr lige foran Migdol.
+v8 De brød op fra Pi-ha-Kirot og gik midt igennem Sivhavet ind i ørkenen, og de gik tre dagsrejser ind i Etams ørken og slog lejr i Mara.
+v9 De brød op fra Mara og kom til Elim. I Elim var der 12 vandkilder og 70 palmetræer, og de slog lejr der.
+v10 De brød op fra Elim og slog lejr ved Det Røde Hav.
+v11 De brød op fra Det Røde Hav og slog lejr i Sins ørken.
+v12 De brød op fra Sins ørken og slog lejr i Dofka.
+v13 De brød op fra Dofka og slog lejr i Alush.
+v14 De brød op fra Alush og slog lejr i Refidim. Der havde folket ikke vand at drikke.
+v15 De brød op fra Refidim og slog lejr i Sinajs ørken.
+v16 De brød op fra Sinajs ørken og slog lejr i Kibrot-ha-Ta’ava.
+v17 De brød op fra Kibrot-ha-Ta’ava og slog lejr i Haserot.
+v18 De brød op fra Haserot og slog lejr i Ritma.
+v19 De brød op fra Ritma og slog lejr i Rimmon-Peres.
+v20 De brød op fra Rimmon-Peres og slog lejr i Libna.
+v21 De brød op fra Libna og slog lejr i Rissa.
+v22 De brød op fra Rissa og slog lejr i Kehelata.
+v23 De brød op fra Kehelata og slog lejr ved Har-Shefer.
+v24 De brød op fra Har-Shefer og slog lejr i Harada.
+v25 De brød op fra Harada og slog lejr i Makhelot.
+v26 De brød op fra Makhelot og slog lejr i Tahat.
+v27 De brød op fra Tahat og slog lejr i Tara.
+v28 De brød op fra Tara og slog lejr i Mitka.
+v29 De brød op fra Mitka og slog lejr i Hashmona.
+v30 De brød op fra Hashmona og slog lejr i Moserot.
+v31 De brød op fra Moserot og slog lejr i Bene-Ja’akan.
+v32 De brød op fra Bene-Ja’akan og slog lejr i Hor-ha-Gidgad.
+v33 De brød op fra Hor-ha-Gidgad og slog lejr i Jotbata.
+v34 De brød op fra Jotbata og slog lejr i Abrona.
+v35 De brød op fra Abrona og slog lejr i Esjongeber.
+v36 De brød op fra Esjongeber og slog lejr i Zins ørken, det er Kadesh.
+v37 De brød op fra Kadesh og slog lejr ved bjerget Hor på grænsen til Edom.
+v38 Da gik præsten Aron op på bjerget Hor, efter JHVHs ord, og døde der i det 40. år efter at israelitterne var gået ud af Egypten, i den femte måned på den første dag i måneden.
+v39 Aron var 123 år gammel da han døde på bjerget Hor.
+v40 Den kana’anæiske konge i Arad, som boede i den sydlige del af Kana’an, hørte om israelitternes komme.
+v41 De brød op fra bjerget Hor og slog lejr i Salmona.
+v42 De brød op fra Salmona og slog lejr i Punon.
+v43 De brød op fra Punon og slog lejr i Obot.
+v44 De brød op fra Obot og slog lejr i Ijje-ha-Abarim ved Moabs landegrænse.
+v45 De brød op fra Ijjim og slog lejr i Dibon-Gad.
+v46 De brød op fra Dibon-Gad og slog lejr i Almon-Diblatajim.
+v47 De brød op fra Almon-Diblatajim og slog lejr i Abarimbjergene foran Nebo.
+v48 De brød op fra Abarimbjergene og slog lejr på Moabs sletter ved Jordan over for Jeriko.
+v49 De slog lejr ved Jordan i området fra Bet-ha-Jeshimot til Abel-Shittim på Moabs sletter.
+
+==JHVH befaler dem atter at uddrive alle landets indbyggere og at uddele landet ved lodkastning.==
+
+v50 JHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:
+v51 >>Tal til israelitterne og sig til dem: >Når I er gået over Jordan ind i Kana’an,
+v52 da skal I uddrive alle landets indbyggere foran jer og tilintetgøre alle deres billedstøtter, og I skal tilintetgøre alle deres støbte billeder og ødelægge alle deres høje.
+v53 I skal indtage landet og bo i det, for jeg har givet jer landet i eje.
+v54 I skal tage landet til arv ved lodkastning efter jeres slægter, den som er mange, hans arv skal I gøre stor, og den som er få, hans arv skal du gøre lille. Der hvor loddet falder ud for ham, det skal tilhøre ham. Efter jeres fædres stammer skal I tage det til arv.
+v55 Hvis I ikke uddriver landets indbyggere foran jer, da skal de som I lader blive tilbage af dem, blive som torne i øjnene på jer og som brod i jeres sider, og de skal plage jer i det land I bor i.
+v56 Det skal ske således at det jeg tænkte at gøre ved dem, det vil jeg gøre ved jer.<<<
+
