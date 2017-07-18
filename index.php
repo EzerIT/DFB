@@ -24,9 +24,7 @@ makemenus(0);
           <p>Af Det Gamle Testamente foreligger 4. Mosebog, Dommerbogen, Ruths Bog, Salmernes bog, Zakarias&rsquo; Bog og nogle få kapitler af andre
             bøger. Forlægget har
             været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med nye
-            resultater fra bibelforskningen. (Nærværende udgave af Dommerbogen er udarbejdet i
-            forbindelse med Nicolai Winther-Nielsens oversættelse af Dommerbogen til moderne dansk
-            for Bibelselskabet &ndash; udgivelsen »Frihedskampen«.)</p>
+            resultater fra bibelforskningen.</p>
 
           <p>Af Det Nye Testamente har vi et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
              
