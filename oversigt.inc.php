@@ -53,10 +53,11 @@ $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 
 $style['sl'] = array();
-for ($k=1; $k<=118; ++$k)
+for ($k=1; $k<=135; ++$k)
     $style['sl'][$k] = 'btn-success';
-for ($k=119; $k<=150; ++$k)
+for ($k=136; $k<=150; ++$k)
     $style['sl'][$k] = 'btn-info';
+$style['sl'][119] = 'btn-info';
 
 $style['es']      = array( 1 => 'btn-success',
                            2 => 'btn-success', 

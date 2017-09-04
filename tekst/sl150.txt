@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 150===
 
@@ -30,6 +30,6 @@ v5 lovpris ham med klingende cymbler,
 lovpris ham med rungende cymbler!
 
 ==Alle skal lovprise JHVH==
-v6 Alt som har ånde, skal lovprise JHVH!{T: Guds navn (JHVH) står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
+v6 Alt som har ånde, skal lovprise JHVH!{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
 
 Halleluja!

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 125===
 
@@ -34,7 +35,7 @@ v4 Gør vel, JHVHv, mod de gode
 
 og mod dem der er oprigtige i deres hjerter.
 
-v5 Men dem som bøjer deres krogveje,
+v5 Men dem som slår ind på deres krogede veje,
 
 skal JHVH lade fare bort med dem som begår synd.
 

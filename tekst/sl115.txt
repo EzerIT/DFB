@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 115===
 
@@ -81,7 +81,7 @@ v16 Himlen er JHVHs himmel,
 
 men jorden gav han menneskene.{T: Ordret: >>Adams/menneskets børn<<.}
 
-v17 De døde lovpriser ikke JHVH,{E: På hebraisk: *lōˀ yᵊhalᵊlû-yāh*: >>de lovpriser ikke<< - i modsætning til menighedens evige halleluja. Guds navn (JHVH) står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
+v17 De døde lovpriser ikke JHVH,{E: På hebraisk: *lōˀ yᵊhalᵊlû-yāh*: >>de lovpriser ikke<< - i modsætning til menighedens evige halleluja. Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
 
 heller ikke de som gik ned i stilheden.
 

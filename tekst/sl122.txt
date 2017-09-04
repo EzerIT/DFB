@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 122===
 
@@ -24,9 +25,9 @@ som en by der er stærkt sammenføjet,{E: Ordret: >>som en by der er sammenføje
 
 v4 hvortil stammerne drog op,
 
-JHVHs{T: Guds navn (JHVH) står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}  stammer.
+JHVHs{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}  stammer.
 
-Det er en vedtægt for Israel,
+Det er en vedtægt{E: Ordet: *ʕēdût* må i en del sammenhænge oversættes: >>vidnesbyrd<<, men her angiver det formodentlig en højtidelig givet og modtaget forordning.} for Israel,
 
 takkende at prise JHVHs navn.
 
@@ -41,7 +42,7 @@ v6 Bed om Jerusalems fred:
 
 v7 Må der være fred på din ringmur,
 
-tryghed i dine paladser!<<
+tryghed i dine paladser!<<{T: Det hebraiske ord, der står her (*ʔarmôn*), bruges om store, sikre boliger, hvorfor det undertiden oversættes: >>borge<<.}
 
 v8 For mine brødres og mine venners skyld
 

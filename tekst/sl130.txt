@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 130===
 
@@ -17,7 +18,7 @@ lad dine ører være opmærksomme
 
 på min tryglende røst.{T: Ordret: >>på min tryglens (pluralis) røst<<}
 
-v3 Hvis du, JHVHv,{T: Guds navn (JHVH) står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} vil vogte på skyld,
+v3 Hvis du, JHVHv,{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} vil vogte på skyld,
 
 Herre, hvem kan så bestå?
 

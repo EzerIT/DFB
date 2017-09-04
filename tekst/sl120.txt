@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 120===
 
@@ -26,7 +27,7 @@ v3 Hvad giver han dig, og hvad giver han dig yderligere,
 
 du svigefulde tunge?{E: Svaret kommer i næste vers. Verset oversættes undertiden: >>Gid han må ramme dig og gøre det yderligere, du svigefulde tunge<<. Det er dog tvivlsomt om: *māʰ* (normalt: >>hvad<<) kan betyde: >>gid<<.}
 
-v4 Krigerens skærpede pile
+v4 Krigerens skarpe pile
 
 med gyvelgrenes glødende kul!
 

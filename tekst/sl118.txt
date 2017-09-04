@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 118{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 117, som indledning til Sl 118.}===
 
@@ -23,7 +23,7 @@ v4 De som frygter JHVH, skal sige:
 >>Ja, hans nåde varer til evig tid.<<
 
 ==Personlig takkesalme==
-v5 Fra trængslen råbte jeg til JHVH,{T: Guds navn (JHVH) står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
+v5 Fra trængslen råbte jeg til JHVH,{T: Guds navn står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
 
 JHVH svarede mig ved at føre mig ud i åbent land.{T: Ordret blot: >>JHVH svarede mig ved åbent land<<.}
 
@@ -59,7 +59,7 @@ v13 Du stødte{E: I stedet for qal: *dᵊḥîtanî* (>>du stødte til mig<<) fo
 
 men JHVH hjalp mig.
 
-v14 JHVH{T: Guds navn (JHVH) står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.} er min styrke og min lovsang,{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.}
+v14 JHVH{T: Guds navn står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.} er min styrke og min lovsang,{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.}
 
 og han blev mig til frelse.
 
@@ -75,7 +75,7 @@ JHVHs højre hånd handler med kraft.<<
 
 v17 Jeg skal ikke dø, men jeg skal leve,
 
-og jeg skal fortælle om JHVHs{T: Guds navn (JHVH) står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.} gerninger.
+og jeg skal fortælle om JHVHs{T: Guds navn står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.} gerninger.
 
 v18 JHVH tugtede mig hårdt,
 

@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 04.09.2017>!!
 
 ===Salme 22===
 
@@ -82,7 +82,7 @@ v17 For hunde har omringet mig,
 
 en flok af ugerningsmænd har slået kreds omkring mig,
 
-de har gennemboret{E: Den hebraiske tekst har *kāˀᵃrî*: >>som en løve<<. Hvis den er rigtig, må meningen være at fjenderne har slået kreds omkring ham og >>som en løve<< holder hans >>hænder og fødder<< fast. Med støtte bl.a. i de gamle oversættelser retter man oftest til *kāˀᵃrû*: >>de har gennemboret<<.} mine hænder og mine fødder.
+de har gennemboret{E: Den hebraiske tekst har *kāˀᵃrî*: >>som en løve<<. Hvis den er rigtig, må meningen være at fjenderne har slået kreds omkring ham og >>som en løve<< holder hans >>hænder og fødder<< fast. Med støtte bl.a. i de gamle oversættelser retter man oftest til *kāˀᵃrû*: >>de har gennemboret<< idet man forudsætter at de har oversat den originale tekst. Denne forståelse støttes nu også af en stump af et hebraisk manuskript der er fundet i en hule Nahal Hever nær Det Døde Hav. Manuskriptstumpen dateres til 1. århundrede e.Kr. (oftest) eller 1. århundrede f.Kr. Den er i alle tilfælde ca. 1000 år ældre end det ældste eksisterende hebraiske manuskript – det ældste, Codex Aleppo fra ca. 930 e.Kr., mangler bl.a. Sl 22, og det samme gælder Salmerullen fra Qumran.} mine hænder og mine fødder.
 
 v18 Jeg kan tælle alle mine knogler,
 
