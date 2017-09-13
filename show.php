@@ -69,7 +69,7 @@ $fra = isset($_GET['fra']) && is_numeric($_GET['fra']) ?  intval($_GET['fra']) :
 $til = isset($_GET['til']) && is_numeric($_GET['til']) ?  intval($_GET['til']) : 0;
 
 
-makeheadstart($title[$bog] . ' &ndash; ' . ucfirst($chaptype[$bog]) . ' ' . $kap, true);
+makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 ?>
     <style type="text/css">
     .bibletext {
