@@ -26,7 +26,9 @@ makemenus(0);
             været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med nye
             resultater fra bibelforskningen.</p>
 
-          <p>Af Det Nye Testamente har vi et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
+          <p>Af Det Nye Testamente har vi en rå modernisering af Markusevangeliet ud fra den autoriserede
+             oversættelse fra 1907 samt
+             et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af grundteksten som muligt, også på

@@ -9,6 +9,7 @@ $chap['jer']      = array(1, 2, 7);
 $chap['obad']     = array(1);
 $chap['zak']      = range(1,14);
 
+$chap['mark']     = range(1,16);
 $chap['1thess']   = range(1,5);
 
 $total_chap_ot = 929;
@@ -26,6 +27,7 @@ $title['jer']     = 'Jeremias&rsquo; Bog';
 $title['obad']    = 'Obadias&rsquo; Bog';
 $title['zak']     = 'Zakarias&rsquo; Bog';
 $title['NT']      = 'Det Nye Testamente';
+$title['mark']    = 'Markusevangeliet';
 $title['1thess']  = 'Første Thessalonikerbrev';
 
 $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
@@ -40,6 +42,7 @@ $chaptype['es']   = 'kapitel';
 $chaptype['jer']  = 'kapitel';
 $chaptype['obad'] = 'kapitel';
 $chaptype['zak']  = 'kapitel';
+$chaptype['mark'] = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
 
 $abbrev['4mos'] = '4 Mos';
@@ -50,6 +53,7 @@ $abbrev['es']   = 'Es';
 $abbrev['jer']  = 'Jer';
 $abbrev['obad'] = 'Obad';
 $abbrev['zak']  = 'Zak';
+$abbrev['mark'] = 'Mark';
 $abbrev['1thess'] = '1 Thess';
 
 $style['4mos']    = 'btn-info';
@@ -76,4 +80,5 @@ for ($k=8; $k<=66; ++$k)
 $style['jer']     = 'btn-success';
 $style['obad']    = 'btn-info';
 $style['zak']     = 'btn-success';
+$style['mark']    = 'btn-warning';
 $style['1thess']  = 'btn-warning';
