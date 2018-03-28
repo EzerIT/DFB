@@ -207,7 +207,7 @@ du gør mig til folkeslags{T: Undertiden oversat >>hedningers<<, men det er næp
 
 et folk som jeg ikke kendte, skal tjene mig.
 
-v45 Når de hører om mig.{T: Ordret: >>Ved ørets høren<<.} skal de adlyde mig,
+v45 Når de hører om mig,{T: Ordret: >>Ved ørets høren<<.} skal de adlyde mig,
 
 fremmede børn skal krybe for mig.
 
