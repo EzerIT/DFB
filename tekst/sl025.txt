@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 14.04.2018>!!
 
 ===Salme 25===
 
@@ -78,7 +78,7 @@ v16 Vend dig til mig, og vær mig nådig,
 
 for jeg er ene og hjælpeløs.
 
-v17 Mit hjertes nød har de{T: Dvs. >>fjenderne<<.} gjort stor{E: Ordret: >>vid/bred<<. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, >>og<<) og vokaliserer: *harḥêv*: >>gør plads (for mit hjertes nød)<< eller evt.: >>gør (mit hjerte) fri (af nød)<<.}
+v17 Mit hjertes nød har de{T: Dvs. >>fjenderne<<.} gjort stor{E: Ordret: >>vid/bred<<. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, >>og<<) og vokaliserer: *harḥêv*: >>gør plads (for mit hjertes nød)<< eller evt.: >>gør (mit hjerte) fri (af nød)<<.};
 
 før mig ud af mine trængsler!
 
