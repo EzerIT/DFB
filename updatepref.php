@@ -33,4 +33,19 @@ if (isset($_POST['godsname'])) {
     }
 }
 
+if (isset($_POST['usecookie'])) {
+    if ($_SERVER['HTTP_HOST']==='localhost') { // We are testing
+        $host = 'localhost';
+        $use_https = false;
+    }
+    else  { // Production system
+        $host = 'denfriebibel.dk';
+        $use_https = true;
+    }
+
+    foreach (['showverse', 'showchap', 'showh2', 'showfna', 'showfn1', 'oneline', 'godsname', 'font'] as $key)
+        setcookie($key, $_SESSION[$key], time()+60*60*24*365*2 /* 2 years */, '/', $host, $use_https, true);
+}
+
+
 header('location: ' . $_POST['referer']);

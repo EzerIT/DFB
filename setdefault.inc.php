@@ -4,7 +4,7 @@
 
    function setdefault($ix,$val) {
        if (!isset($_SESSION[$ix]))
-           $_SESSION[$ix] = $val;
+           $_SESSION[$ix] = isset($_COOKIE[$ix]) ? $_COOKIE[$ix] : $val;
    }
 
    setdefault('showverse', 'on');

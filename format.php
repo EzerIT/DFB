@@ -30,10 +30,10 @@ makemenus(1);
         <div class="panel-body">
 
           <img class="img-responsive pull-right hidden-xs hidden-sm" style="margin-top: 60px" src="img/Community5-400.jpg" alt="">
-          <form action="updatepref.php" method="post" accept-charset="utf-8"> 
+          <form action="updatepref.php" method="post" accept-charset="utf-8">
             <input type="hidden" name="referer"
                    value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">
-                
+
             <div class="checkbox">
               <label>
                 <input type="checkbox" name="showverse" <?= showchecked('showverse') ?>> Vis versnumre
@@ -96,6 +96,16 @@ makemenus(1);
                 </label>
               </div>
             <?php endforeach; ?>
+
+            <p>&nbsp;</p>
+
+            <h4>Bevar præferencer:</h4>
+
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" name="usecookie"> Benyt også disse indstillinger ved dit næste besøg. (Gemmes som cookies i din browswer.)
+              </label>
+            </div>
 
             <p>&nbsp;</p>
 
