@@ -7,12 +7,11 @@ makemenus(3);
 ?>
 
     <div class="container">
-      <div class="row">
+      <div class="row justify-content-center">
 
-        <div class="col-md-offset-1 col-md-10
-                    col-lg-offset-2 col-lg-8">
-          <div class="panel panel-default">
-            <div class="panel-body">
+        <div class="col-lg-10 col-xl-8">
+          <div class="card mt-4">
+            <div class="card-body">
               <h1>Vejledning for bidragydere</h1>
 
               <p>Som bidragyder til Den Frie Bibel er det vigtigt at du har kendskab til følgende
@@ -144,7 +143,7 @@ makemenus(3);
         </div>
  
       </div><!--End of row-->
-    </div><!--End of container-fluid-->
+    </div><!--End of container-->
 <?php
 endbody();
 ?>

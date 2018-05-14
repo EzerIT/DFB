@@ -21,15 +21,13 @@ makemenus(1);
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12">
+    <div class="col-md-12">
 
-      <div class="panel panel-info">
-        <div class="panel-heading">
-          <h1 class="panel-title">Sæt dine læsepreferencer</h1>
-        </div>
-        <div class="panel-body">
+      <div class="card mt-4">
+        <h1 class="card-header bg-info text-light">Sæt dine læsepreferencer</h1>
+        <div class="card-body">
 
-          <img class="img-responsive pull-right hidden-xs hidden-sm" style="margin-top: 60px" src="img/Community5-400.jpg" alt="">
+          <img class="img-fluid float-right d-none d-lg-block" style="margin-top: 60px" src="img/Community5-400.jpg" alt="">
           <form action="updatepref.php" method="post" accept-charset="utf-8">
             <input type="hidden" name="referer"
                    value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">
@@ -71,7 +69,7 @@ makemenus(1);
             </div>
 
             <div class="form-group">
-              <label for="godsname">Guds navn</label>
+              <label for="godsname">Guds navn:</label>
               <select name="godsname" id="godsname">
                 <option <?= showselected('godsname','Herren') ?> >Herren</option>
                 <option <?= showselected('godsname','HERREN') ?> >HERREN</option>
@@ -79,10 +77,6 @@ makemenus(1);
                 <option <?= showselected('godsname','JHVH') ?>   >JHVH</option>
               </select>
             </div>
-
-            <!--hr class="visible-md-block" style="width:500px; margin-left: 0;">
-            <hr class="visible-lg-block" style="width:700px; margin-left: 0;">
-            <hr class="visible-xs-block visible-sm-block"-->
 
             <p>&nbsp;</p>
 
@@ -111,7 +105,7 @@ makemenus(1);
 
             <p>
               <button type="submit" class="btn btn-primary">OK</button>
-              <a class="btn btn-default" href="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">Annullér</a>
+              <a class="btn btn-secondary" href="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">Annullér</a>
             </p>
           </form>
 
@@ -119,7 +113,7 @@ makemenus(1);
       </div>
     </div><!--col-->
   </div><!--row-->
-</div><!--container-fluid-->
+</div><!--container-->
 
 <?php
 endbody();

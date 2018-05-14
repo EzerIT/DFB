@@ -5,9 +5,9 @@ ini_set("display_errors", 1);
 function menuitem($name, $link, $active) {
     echo '          ';
     if ($active)
-        echo "<li role=\"presentation\" class=\"active\"><a href=\"#\">$name</a></li>\n";
+        echo "<li class=\"nav-item active\"><a class=\"nav-link pt-3 pb-3 pl-3 pr-3\" href=\"#\">$name</a></li>\n";
     else
-        echo "<li role=\"presentation\"><a href=\"$link\">$name</a></li>\n";
+        echo "<li class=\"nav-item\"><a class=\"nav-link pt-3 pb-3 pl-3 pr-3\" href=\"$link\">$name</a></li>\n";
 }
 
 
@@ -15,21 +15,28 @@ $allfonts = array(
     'Helvetica'   => "'Helvetica Neue', Helvetica, Arial, sans-serif",
     'Merriweather'=> "'Merriweather', serif");
 
+function stat_attr($file) {
+    $file_stat = stat($file); // We need this to modify the href attribute on $file. Otherwise
+                                 // the browser may not reload the file, even if it has changed.
+
+    return "stat=$file_stat[9]";
+}
 
 
 function makeheadstart($title, $googlefonts=false) {
+    $stat_dfb_css = stat_attr('style/dfb.css');
     echo <<<END
 <!DOCTYPE html>
 <html lang="da">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>$title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" type="image/png" href="https://denfriebibel.dk/img/icon.png">
-    <link type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet" />
-    <link type="text/css" href="style/dfb.css" rel="stylesheet" />
+    <link type="text/css" href="bootstrap-4.1.1-dist/css/bootstrap.css" rel="stylesheet" />
+    <link type="text/css" href="style/dfb.css?$stat_dfb_css" rel="stylesheet" />
     <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript" src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bootstrap-4.1.1-dist/js/bootstrap.min.js"></script>
 
 END;
 
@@ -53,28 +60,22 @@ echo <<<END
   </head>
 
   <body>
+    <div class="brand d-none d-md-block">Den Frie Bibel</div>
 
-    <div class="brand hidden-xs">Den Frie Bibel</div>
-
-
-    <nav id="myNavbar" class="navbar navbar-default navbar-static-top">
-      <div class="navbar-header visible-xs-block">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
-          <span class="sr-only">Toggle navigation</span><!-- For screen reader -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-          <span class="icon-bar"></span><!-- Line on menu toggle button -->
-        </button>
-        <a class="navbar-brand" href="index.php">Den Frie Bibel</a>
-      </div>
+    <nav class="navbar navbar-expand-md navbar-light bg-light pt-0 pb-0">
+      <div class="mx-md-auto divnavbar">
+      <a class="navbar-brand d-md-none" href="index.php">Den Frie Bibel</a>
+      <button class="navbar-toggler mt-1 mb-1" type="button" data-toggle="collapse" data-target="#mainMenu" aria-controls="mainMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
 END;
 }
 
 function makemenus($thisnum) {
 echo <<<END
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav navbar-nav">
+      <div class="collapse navbar-collapse" id="mainMenu">
+        <ul class="navbar-nav mr-auto">
 
 END;
     menuitem('Hjem','index.php',$thisnum===0);
@@ -85,28 +86,24 @@ END;
     $active3 = $thisnum===3 ? "active" : "";
 
 echo <<<END
-
-           <li role="presentation" class="dropdown $active3" >
-             <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-               Om Den Frie Bibel <span class="caret"></span>
-             </a>
-             <ul class="dropdown-menu">
-               <!--li><a href="faq.php">Hyppigt stillede spørgsmål</a></li-->
-               <li><a href="maalsaetning.php">Målsætning med oversættelsen</a></li>
-               <li><a href="modenhed.php">Tekstens modenhed</a></li>
-               <li><a href="vejledning.php">Vejledning for bidragydere</a></li>
-               <li><a href="forprogrammoerer.php">For programmører</a></li>
-             </ul>
-           </li>
+          <li class="nav-item dropdown $active3">
+            <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Om Den Frie Bibel</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="maalsaetning.php">Målsætning med oversættelsen</a>
+              <a class="dropdown-item" href="modenhed.php">Tekstens modenhed</a>
+              <a class="dropdown-item" href="vejledning.php">Vejledning for bidragydere</a>
+              <a class="dropdown-item" href="forprogrammoerer.php">For programmører</a>
+            </div>
+          </li>
         </ul>
-      </div>
+      </div></div>
     </nav>
 
 END;
 }
 
 function endbody() {
-echo <<<END
+    echo <<<END
   </body>
 </html>
 
@@ -115,9 +112,10 @@ END;
 
 function showsize() {
     echo <<<END
-      <p class="visible-xs-block">XS</p>
-      <p class="visible-sm-block">SM</p>
-      <p class="visible-md-block">MD</p>
-      <p class="visible-lg-block">LG</p>
+      <p class="d-xs-block d-sm-none">XS</p>
+      <p class="d-none d-sm-block d-md-none">SM</p>
+      <p class="d-none d-md-block d-lg-none">MD</p>
+      <p class="d-none d-lg-block d-xl-none">LG</p>
+      <p class="d-none d-xl-block">XL</p>
 END;
 }

@@ -3,17 +3,17 @@ require_once('head.inc.php');
 
 makeheadstart('Målsætning');
 makeheadend();
-makemenus(4);
+makemenus(3);
 ?>
 
 
 <div class="container">
-  <div class="row">
+    <div class="row justify-content-center">
 
-    <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img class="img-responsive pull-right hidden-xs hidden-sm" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/Meticulous-09-400.jpg" alt="">
+    <div class="col-lg-10 col-xl-8">
+      <div class="card mt-4">
+        <div class="card-body">
+          <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/Meticulous-09-400.jpg" alt="">
           <h1>Målsætning med oversættelsen</h1>
               
           <p>Den Frie Bibel bliver skabt ud fra disse oversættelsesprincipper:</p>
@@ -23,7 +23,7 @@ makemenus(4);
             <li>Oversættelsen skal være <i>tekstnær.</i> Det betyder at der lægges vægt på at den
               danske tekst skal være en så præcis gengivelse af grundteksten som muligt, også på
               steder hvor grundteksten er vanskelig at forstå. Hvor originalen er tvetydig, bør
-              oversættelsen også være det. Der er altså ikke tale om en gendigtning af den bibelske
+    oversættelsen også være det. Der er altså ikke tale om en gendigtning af den bibelske
               tekst.</li>
             <li>Oversættelsen skal være så forståelig at den almindelige bibellæser uden
               specialuddannelse kan have glæde af den.</li>
@@ -43,7 +43,7 @@ makemenus(4);
     </div>
  
   </div><!--End of row-->
-</div><!--End of container-fluid-->
+</div><!--End of container-->
 
 <?php
 endbody();

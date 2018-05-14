@@ -6,7 +6,7 @@
  */
 
 body {
-    background: url('../img/woven-basket-seamless-texture-1656.png') repeat fixed; 
+    background: url('../img/woven-basket-seamless-texture-1656.png') repeat fixed;
 }
 
 h1,
@@ -21,19 +21,14 @@ h6 {
     letter-spacing: 1px;
 }
 
+h1 {
+    font-size: 2.25rem;
+}
+
 h2 {
-    margin-top: 1.5em;
+    margin-top: 1.5rem;
 }
 
-p, li {
-    font-size: 1.15em;
-    line-height: 1.6;
-    color: black;
-}
-
-.nav li {
-    font-size: 16px;
-}
 
 .brand {
     display: inherit;
@@ -42,7 +37,7 @@ p, li {
     text-align: center;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
     font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 5em;
+    font-size: 4.375rem;
     font-weight: 700;
     line-height: normal;
     color: black;
@@ -52,16 +47,19 @@ hr {
     border-color: #888;
 }
 
+.nav-item.active {
+    background-color: #e7e7e7;
+}
 
-@media screen and (min-width:768px) {
-    /* Size small and up */
+/*@media screen and (min-width:768px) {
+    / * Size small and up * /
     .navbar-nav {
         display: table;
         float: none;
         margin: 0 auto;
         table-layout: fixed;
     }
-}
+}*/
 
 .chap-btn {
     width: 46px;
@@ -69,8 +67,23 @@ hr {
 }
 
 
+@media screen and (max-width:767px) {
+.divnavbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 100%;
+}
+}
 
-.panel {
+
+.card {
     background: rgba(255,255,255,0.9);
 } 
 
@@ -78,10 +91,15 @@ hr {
 
 div.credit {
     margin-left: 20px;
-    font-size: 11px;
+    font-size: 0.8rem;
 }
 
 div.credit p {
     padding: 0;
     line-height: 0.6;
+    margin-bottom: 0.625rem;
+}
+
+.card-header {
+    font-size: 1rem;
 }

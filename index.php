@@ -9,10 +9,11 @@ makemenus(0);
 <div class="container-fluid">
   <div class="row">
 
-    <div class="col-sm-9">
-      <div class="panel panel-default">
-        <div class="panel-body">
-          <img class="img-responsive pull-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/Community6-300.jpg" alt="">
+    <div class="col-md-9">
+      <div class="card mt-4">
+        <div class="card-body">
+          <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/Community6-300.jpg" alt="">
+    
           <h1>Vel&shy;kommen til Den Frie Bibel</h1>
 
           <p>Den Frie Bibel udspringer af ønsket om at skabe en tekstnær dansk bibeloversættelse som
@@ -69,12 +70,10 @@ makemenus(0);
       </div>
     </div>
    
-    <div class="col-sm-3">
-      <div class="panel panel-success">
-        <div class="panel-heading">
-          <h3 class="panel-title">Ophavsret</h3>
-        </div>
-        <div class="panel-body">
+    <div class="col-md-3">
+      <div class="card mt-4">
+        <h1 class="card-header bg-info text-light">Ophavsret</h1>
+        <div class="card-body">
           <p>Intet indhold i Den Frie Bibel er belagt med ophavsret. Det betyder at alle har ret
             til at gøre hvad som helst med teksten: Kopiere den, udskrive den, citere den, lægge
             den på andre websider, radiotransmittere den, sælge den, prædike over den, osv.</p>
@@ -84,11 +83,9 @@ makemenus(0);
         </div>
       </div>
    
-      <div class="panel panel-info">
-        <div class="panel-heading">
-          <h3 class="panel-title">Personer</h3>
-        </div>
-        <div class="panel-body">
+      <div class="card mt-3">
+        <h1 class="card-header bg-success text-light">Personer</h1>
+        <div class="card-body">
           <p>Under hvert kapitel nævnes de personer der har stået for »oversættelsen« (altså
             modernisering af teksten) og den videnskablige bearbejdning af indholdet.</p>
           <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
@@ -97,11 +94,9 @@ makemenus(0);
         </div>
       </div>
    
-      <div class="panel panel-info">
-        <div class="panel-heading">
-          <h3 class="panel-title">Hvor langt er vi?</h3>
-        </div>
-        <div class="panel-body">
+      <div class="card mt-3">
+        <h1 class="card-header bg-success text-light">Hvor langt er vi?</h1>
+        <div class="card-body">
           <?php
             $otcount = 0;
             $ntcount = 0;
@@ -126,7 +121,7 @@ makemenus(0);
 
   <div class="row">
     <div class="col-sm-6">
-      <div class="credit">
+      <div class="credit mt-3">
         <p>Idé til website-design: <a target="_blank" href="http://startbootstrap.com/">Start Bootstrap</a></p>
         <p>Baggrund: <a target="_blank" href="http://backgroundlabs.com/">Background Labs</a></p>
         <p>Foto: <a target="_blank" href="http://deathtothestockphoto.com/">Death to the Stock Photo</a></p>

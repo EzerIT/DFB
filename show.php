@@ -32,31 +32,25 @@ foreach ($chap as $book => $chaps) {
     $nextchap[$book][$lastchap] = -1;
 }
 
-function pagination($book, $kapitel, $chap_per_line) {
-global $chaptype, $chap, $style;
-?>
-<nav>
-  <table style="margin-left: auto; margin-right: auto;">
-    <?php $chcount = count($chap[$book]); ?>
-    <?php $chix = -1; ?>
-    <?php for ($i=0; $i<$chcount; $i+=$chap_per_line): ?>
-      <tr>
-        <?php for ($j=0; $j<$chap_per_line; ++$j): ?>
-          <?php if (++$chix < $chcount): ?>
-            <?php $chno = $chap[$book][$chix]; ?>
-              <td><a href="show.php?bog=<?= $book ?>&kap=<?= $chno ?>"
-                     class="btn chap-btn <?= $chno==$kapitel ? 'btn-default' : (is_array($style[$book]) ? $style[$book][$chno] : $style[$book]) ?>"><?= $chno ?></a></td>
-          <?php else: ?>
-            <td></td>
-          <?php endif; ?>
-        <?php endfor; ?>
-      </tr>
-    <?php endfor; ?>
-  </table>
-</nav>
- 
-<?php
+function pagination($book, $kapitel) {
+    global $chaptype, $chap, $style;
 
+    $outline_style = is_array($style[$book]) ? $style[$book][$kapitel] : $style[$book];
+    $outline_style = str_replace('btn','btn-outline',$outline_style);
+
+//    echo "<nav>\n";
+    echo "  <div style=\"margin-left: auto; margin-right: auto;\">\n";
+
+    $chcount = count($chap[$book]);
+    for ($chix=0; $chix < $chcount; ++$chix) {
+        $chno = $chap[$book][$chix];
+        echo "    <a href=\"show.php?bog=$book&kap=$chno\" "
+            . "class=\"mt-1 mb-1 ml-0 mr-0 btn chap-btn "
+            . ($chno==$kapitel ? $outline_style : (is_array($style[$book]) ? $style[$book][$chno] : $style[$book]))
+            . "\">$chno</a>\n";
+    }
+    echo "  </div>\n";
+//    echo "</nav>\n";
 }
 
 if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
@@ -74,7 +68,6 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     <style type="text/css">
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
-        font-size: 110%;
     }
 
     span.verseno {
@@ -215,56 +208,48 @@ makemenus(null);
 ?>
 
     <div class="container">
-
       <div class="row">
-        <div class="col-md-9 col-lg-8">
+        <div class="col-lg-9 col-xl-8">
           <?php $text = replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $heading, $credit, $fra, $til); ?>
-          <div class="panel panel-warning">
-            <div class="panel-heading">
-              <h1 class="panel-title"><?= $heading ?></h1>
-            </div>
-            <div class="panel-body bibletext">
+          <div class="card mt-4">
+              <h1 class="card-header bg-warning"><?= $heading ?></h1>
+            <div class="card-body bibletext">
               <?= $text ?>
             </div>
           </div>
         </div>
 
-        <div class="hidden-md 
-                    col-sm-offset-3 col-sm-6
-                    col-lg-offset-0 col-lg-4
-                    text-center">
-          <div class="panel panel-info">
-            <div class="panel-heading">
-              <h1 class="panel-title">Vælg <?= $chaptype[$bog] ?></h1>
-            </div>
-            <div class="panel-body">
-              <?php pagination($bog,$kap,7); ?>
+        <!-- Chapter chooser displayed at right for size lg and xl -->
+        <div class="d-none d-lg-block col-lg-3 col-xl-4">
+          <div class="card mt-4">
+            <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
+            <div class="card-body pl-xl-4 pl-lg-1 pr-0">
+              <?php pagination($bog,$kap); ?>
             </div>
           </div>
         </div>
-
-        <div class="visible-md-block col-md-3 text-center">
-          <div class="panel panel-info">
-            <div class="panel-heading">
-              <h1 class="panel-title">Vælg <?= $chaptype[$bog] ?></h1>
-            </div>
-            <div class="panel-body">
-              <?php pagination($bog,$kap,4); ?>
-            </div>
-          </div>
-        </div>
-
       </div>
 
-      <div class="row">
-        <div class="col-lg-offset-2 col-lg-4
-                    col-md-offset-2 col-md-5
-                    col-sm-offset-3 col-sm-6">
-          <div class="panel panel-info">
-            <div class="panel-heading">
-              <h3 class="panel-title">Status for dette kapitel</h3>
+      <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
+      <div class="row justify-content-center d-flex d-lg-none">
+        <div class="col-sm-8 col-md-6">
+          <div class="card mt-3">
+            <h1 class="card-header bg-info text-light">bVælg <?= $chaptype[$bog] ?></h1>
+            <div class="card-body pl-1 pl-sm-3 pr-0">
+              <?php pagination($bog,$kap); ?>
             </div>
-            <div class="panel-body">
+          </div>
+        </div>
+            </div>
+
+      <div class="row">
+        <div class="offset-xl-2 col-xl-4
+                    offset-lg-2 col-lg-5
+                    offset-md-3 col-md-6
+                    offset-sm-2 col-sm-8">
+          <div class="card mt-3">
+            <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
+            <div class="card-body">
               <?php foreach ($credit as $c): ?>
                 <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
               <?php endforeach; ?>
@@ -273,8 +258,7 @@ makemenus(null);
         </div>
       </div>
 
-
-    </div><!--End of container-fluid-->
+    </div><!--End of container-->
 
 <?php
 endbody();
