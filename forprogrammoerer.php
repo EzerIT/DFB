@@ -12,7 +12,7 @@ makemenus(3);
         <div class="col-lg-10 col-xl-8">
           <div class="card mt-4">
             <div class="card-body">
-              <h1>For programmører</h1>
+              <h1>For pro&shy;gram&shy;mø&shy;rer</h1>
 
               <p>Kildeteksten til dette websted samt alle bibelteksterne kan downloades fra
                 <a target="_blank" href="https://github.com/EzerIT/DFB">GitHub</a>.

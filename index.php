@@ -14,7 +14,7 @@ makemenus(0);
         <div class="card-body">
           <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/Community6-300.jpg" alt="">
     
-          <h1>Vel&shy;kommen til Den Frie Bibel</h1>
+          <h1>Vel&shy;kom&shy;men til Den Frie Bibel</h1>
 
           <p>Den Frie Bibel udspringer af ønsket om at skabe en tekstnær dansk bibeloversættelse som
             er fri for enhver form for copyright. Altså en tekst som alle og enhver har lov til at

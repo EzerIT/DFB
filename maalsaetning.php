@@ -14,7 +14,7 @@ makemenus(3);
       <div class="card mt-4">
         <div class="card-body">
           <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/Meticulous-09-400.jpg" alt="">
-          <h1>Målsætning med oversættelsen</h1>
+          <h1>Mål&shy;sæt&shy;ning med over&shy;sæt&shy;tel&shy;sen</h1>
               
           <p>Den Frie Bibel bliver skabt ud fra disse oversættelsesprincipper:</p>
 

@@ -57,7 +57,7 @@ makemenus(3);
                 som er begrundet <a href="http://ebible.org/web/webfaq.htm#WhyNoCopyright"
                                     target="_blank">her</a>.</p>
 
-              <h2>Fremgangsmåde</h2>
+              <h2>Frem&shy;gangs&shy;måde</h2>
 
               <p>For det Gamle Testamentes vedkommende er fremgangsmåden denne: Den danske udgave af GT
                 fra 1871 »oversættes« til moderne dansk. Derefter vil moderniseringen blive gennemgået af
@@ -66,7 +66,7 @@ makemenus(3);
                 hebraiske tekst som muligt. Til sidst bliver det hele læst igennem af de endelige
                 ansvarshavende.</p>
 
-              <h2>Oversættelsesmæssige retningslinjer</h2>
+              <h2>Over&shy;sæt&shy;tel&shy;ses&shy;mæs&shy;sige ret&shy;nings&shy;lin&shy;jer</h2>
 
               <p>Det danske sprog skal være så nutidigt og letlæst som muligt, hvis dette kan ske uden
                 at det går ud over oversættelsens nøjagtighed.</p>
