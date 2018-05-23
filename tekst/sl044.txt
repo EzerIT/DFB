@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 23.05.2018>!!
 
 ===Salme 44===
 
@@ -14,7 +14,7 @@ Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) 
 ==Lovsang for Guds gerninger for folket==
 v2 Gud, med vore ører har vi hørt det,
 
-vore fædre have fortalt os det,
+vore fædre har fortalt os det,
 
 den gerning du udførte i deres dage,
 
