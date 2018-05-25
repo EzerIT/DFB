@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 25.05.2018>!!
 
 ===Salme 45===
 
@@ -33,7 +33,7 @@ v4 Bind dit sværd om hoften, du helt,
 
 i din majestæt og din herlighed,
 
-v5 og hav fremgang i din herlighed,{E: Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (>>og din herlighed<<). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif’il af verbet *drk*: >>spænd (buen)<<.}
+v5 og hav fremgang i din herlighed,{E: Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (>>og din herlighed<<). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif'il af verbet *drk*: >>spænd (buen)<<.}
 
 drag frem for sandheds skyld, og ydmyghed med retfærdighed,{E: Ordret: >>for sandhed og ydmyghed retfærdighed<<. Mange vælger at flytte >>og<<: >>for sandhed, ydmyghed og retfærdighed<<. Andre retter *wᵊʕanwāʰ*(>>og ydmyghed<<) til *wᵊjaʕan*: >>og for (retfærdigheds) skyld<<. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til >>retfærdighed<<. Derved understreges kongens ansvar som den svages forsvarer.}
 
@@ -74,9 +74,9 @@ for han er din herre,
 
 og du skal kaste dig ned for ham.
 
-v13 Og Tyrus's datter,
+v13 Og Tyrus' datter,
 
-med gave søger et folks rigmænd din gunst.{E: Ordret: >>vil blødgøre dit ansigt<<. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (>>datter<<) til *bᵊnôt-* (>>døtre<<), flytte adskillelsen mellem linjerne og underforstå et >>kommer til dig<<: >>Tyrus’ døtre kommer til dig med gave, et folks rigmænd søger din gunst<<.}
+med gave søger et folks rigmænd din gunst.{E: Ordret: >>vil blødgøre dit ansigt<<. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (>>datter<<) til *bᵊnôt-* (>>døtre<<), flytte adskillelsen mellem linjerne og underforstå et >>kommer til dig<<: >>Tyrus' døtre kommer til dig med gave, et folks rigmænd søger din gunst<<.}
 
 v14 En kongedatter er lutter pragt i det indre,{E: Ordret: >>al pragt en kongedatter i det indre/indadtil<<. Der er intet verbum som derfor må underforstås, enten >>er<< eller >>(I al sin pragt) træder (en kongedatter) ind<<.}
 
