@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 29.05.2018>!!
 
 ===Salme 46===
 
@@ -37,7 +37,7 @@ v7 Folkeslag{T: Kunne også oversættes: >>hedninger<, men det er der næppe tæ
 
 han lod sin røst lyde - jorden ryster.{T: Betydningen er usikker. Andre oversætter: >>smelter<<.}
 
-v8 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVH er med os,
+v8 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
 
 Jakobs Gud er en borg for os. Sela
 
@@ -56,7 +56,7 @@ v11 >>Hold inde, og du skal vide at jeg er Gud,
 
 ophøjet blandt folkene, ophøjet på jorden!<<
 
-v12 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVH er med os,
+v12 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
 
 Jakobs Gud er en borg for os. Sela
 
