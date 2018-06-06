@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.04.2017>!!
+!!<Dato for denne version: 06.06.2018>!!
 
 ===Salme 137===
 
@@ -18,7 +18,7 @@ v3 For dér krævede
 
 vore fangevogtere{T: Ordret: >>de som holdt os fangne<<.} at vi skulle synge,
 
-og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulde være glade:{T: Ordret blot: >>(krævede) glæde<<.}
+og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
 
 >>Syng for os
 
