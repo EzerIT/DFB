@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 05.07.2018>!!
 
 ===Salme 59===
 
@@ -78,6 +78,7 @@ v14 Udryd dem i vrede, udryd dem, så de ikke er mere;
 og de skal vide at Gud hersker i Jakob,
 
 indtil jordens ender.{T: Denne linje er formodentlig nærmere bestemmelse til >>de skal vide<<.} Sela
+
 v15 De kommer tilbage om aftenen,
 
 de hyler som hunde
