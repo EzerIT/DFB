@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 06.06.2018>!!
 
 ===Salme 48===
 
@@ -52,7 +52,7 @@ v9 Som vi havde hørt,
 
 således så vi det
 
-i hærskarers{T: Tidligere uoversat: >> Zebaoth<<.} JHVHs by,
+i hærskarers{T: Tidligere uoversat: >> Zebaoth<<.} JHVHvs by,
 
 i vor Guds by;
 

@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Dato for denne version: 06.06.2018>!!
 
 ===Salme 49===
 
@@ -12,7 +12,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Af Koras sønner. En salme.
 
 ==Opfordring til at lytte til salmistens vidnesbyrd==
-v2 Hører dette, alle folkeslag,
+v2 Hør dette, alle folkeslag,
 
 lyt, alle verdens indbyggere,
 
@@ -29,7 +29,7 @@ v5 Jeg vil bøje mit øre til ordsprog,{T: Kan også oversættes: >>billedtale, 
 jeg vil åbne min gådetale til strengespil.
 
 ==Rigdom sikrer ikke mod døden==
-v6 Hvorfor skulde jeg frygte i onde dage,
+v6 Hvorfor skulle jeg frygte i onde dage,
 
 når mine efterstræberes{T: Det er omdiskuteret, om grundtekstens *ʕāqēv* kan betyde: >>en der efterstræber<<. I andre sammenhænge betyder det: >>hæl<<. Men den der griber efter næstens >>hæl<<, >>efterstræber<< ham netop. En del fortolkere ændrer vokaliseringen af *ʕᵃqēvay* til *ʕoqᵊvay*: >>de der bedrager mig<<.} ondskab omgiver mig,
 

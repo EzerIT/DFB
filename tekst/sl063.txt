@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 09.07.2018>!!
 
 ===Salme 63===
 
@@ -50,7 +50,7 @@ v9 Min sjæl hang ved dig,
 din højre hånd holdt mig fast.
 
 ==Modstandernes skæbne==
-v10 Men de der til fordærv stræber mig livet,{T: Kan også oversættes: >>Men til (eget) fordærv stræber de mig efter livet<<.}
+v10 Men de der til fordærv stræber mig efter livet,{T: Kan også oversættes: >>Men til (eget) fordærv stræber de mig efter livet<<.}
 
 skal gå ned i jordens nederste dybder.{E: Det er dødsriget.}
 
@@ -63,6 +63,3 @@ v12 Men kongen skal glæde sig i Gud,
 alle som sværger ved ham,{E: Meningen kan også være: >>Alle, som sværger ham (kongen) troskab, skal ….} skal rose sig,
 
 for munden skal lukkes på dem som taler løgn.
-
-
-

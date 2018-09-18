@@ -33,7 +33,8 @@ makemenus(3);
                 target="_blank">World English Bible</a>, som er skabt ved at modernisere sproget i
                 American Standard Version fra 1901 og derpå opdatere teksten med nye resultater fra
                 bibelforskningen. På samme måde bliver Den Frie Bibel baseret på 1871-oversættelse af
-                Det Gamle Testmente. (Et grundlag for Det Nye Testamente er endnu ikke valgt.)</p>
+                Det Gamle Testmente og 1907-oversættelsen af Det Nye testamente (medmindre oversætteren
+                ønsker at arbejde direkte ud fra den hebraiske eller græske tekst).</p>
               
               <h2>Ophavsret</h2>
 
@@ -60,10 +61,10 @@ makemenus(3);
               <h2>Frem&shy;gangs&shy;måde</h2>
 
               <p>For det Gamle Testamentes vedkommende er fremgangsmåden denne: Den danske udgave af GT
-                fra 1871 »oversættes« til moderne dansk. Derefter vil moderniseringen blive gennemgået af
-                hebraiskkyndige eksegesefolk, der sammenholder den med den nyeste bibelforskning. I
-                fællesskab når oversætter og teolog så frem til et resultat der ligger så tæt på den
-                hebraiske tekst som muligt. Til sidst bliver det hele læst igennem af de endelige
+                fra 1871 eller NT fra 1907 »oversættes« til moderne dansk. Derefter vil moderniseringen blive gennemgået af
+                hebraisk- eller græskkyndige eksegesefolk, der sammenholder den med den nyeste bibelforskning. I
+                fællesskab når oversætter og teolog så frem til et resultat der ligger så tæt på
+                grundteksten som muligt. Til sidst bliver det hele læst igennem af de endelige
                 ansvarshavende.</p>
 
               <h2>Over&shy;sæt&shy;tel&shy;ses&shy;mæs&shy;sige ret&shy;nings&shy;lin&shy;jer</h2>
@@ -71,7 +72,7 @@ makemenus(3);
               <p>Det danske sprog skal være så nutidigt og letlæst som muligt, hvis dette kan ske uden
                 at det går ud over oversættelsens nøjagtighed.</p>
           
-              <p>Hvor den hebraiske original er uklar eller tvetydig, skal man tilstræbe en tilsvarende
+              <p>Hvor den hebraiske eller græske original er uklar eller tvetydig, skal man tilstræbe en tilsvarende
                 uklarhed og tvetydighed i den danske tekst. Hvis dette ikke er muligt, indsættes en
                 fodnote der angiver andre mulige oversættelser. Oversættelsen bør så vidt muligt undgå at
                 støtte en bestemt fortolkning af teksten hvis andre fortolkninger er mulige.</p>
@@ -82,7 +83,7 @@ makemenus(3);
                     target="_blank">Retskrivningsordbogen §49-50</a>). Er man ikke selv fortrolig med disse
                 regler, rettes det til ved den endelige korrektur.</p>
 
-              <p>Når der arbejdes ud fra 1871-oversættelsen, skal man især være opmærksom på de drilske,
+              <p>Når der arbejdes ud fra 1871- eller 1907-oversættelsen, skal man især være opmærksom på de drilske,
                 gamle stavemåder af danske modalverber:</p>
 
               <ul>
@@ -134,8 +135,8 @@ makemenus(3);
                 ligger tættest op ad originalteksten. Af ophavsretslige grunde bør man undgå direkte at
                 kopiere tekst fra andre oversættelser.</p>
 
-              <p>Interlineare tekster: Disse kan være noget udfordrende at bruge for
-                ikke-hebraiskkyndige, men kan være en hjælp til at forstå hvordan de forskellige
+              <p>Interlineare tekster: Disse kan være noget udfordrende at bruge for folk der ikke er 
+                hebraisk- eller græskkyndige, men kan være en hjælp til at forstå hvordan de forskellige
                 oversættelser er opstået.</p>
 
             </div>
