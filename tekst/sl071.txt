@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 23.09.2018>!!
 
 ===Salme 71===
 
@@ -65,7 +65,7 @@ min Gud, skynd dig at komme mig til hjælp!
 
 v13 De skal blive til skamme, gå til grunde,{E: Mange vælger at rette: *yixlû* (>>skal gå til grunde<<) til: *yikkālᵊmû*: >>skal blive til skændsel<<.}
 
-de som forfølger min liv;{T: Ordret: <<min sjæl<<}
+de som forfølger mit liv;{T: Ordret: <<min sjæl<<}
 
 lad dem som søger min ulykke, klæde sig i hån og skændsel.
 
