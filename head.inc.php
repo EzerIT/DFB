@@ -84,17 +84,28 @@ END;
     menuitem('Andre formater','andreformater.php',$thisnum===4);
 
     $active3 = $thisnum===3 ? "active" : "";
+    $active5 = $thisnum===5 ? "active" : "";
 
 echo <<<END
           <li class="nav-item dropdown $active3">
-            <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Om Den Frie Bibel</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Om Den Frie Bibel</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
               <a class="dropdown-item" href="maalsaetning.php">Målsætning med oversættelsen</a>
               <a class="dropdown-item" href="modenhed.php">Tekstens modenhed</a>
               <a class="dropdown-item" href="vejledning.php">Vejledning for bidragydere</a>
               <a class="dropdown-item" href="forprogrammoerer.php">For programmører</a>
             </div>
           </li>
+
+          <li class="nav-item dropdown $active5">
+            <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Andre oversættelser</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+              <a class="dropdown-item" href="tekst1871.php">Autoriseret GT 1871</a>
+              <a class="dropdown-item" href="tekst1907.php">Autoriseret NT 1907</a>
+              <a class="dropdown-item" href="https://www.bibelselskabet.dk/bibelen-online" target="_blank">Autoriseret 1992<br>(hos Bibelselskabet)</a>
+            </div>
+          </li>
+
         </ul>
       </div></div>
     </nav>
