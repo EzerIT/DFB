@@ -1,0 +1,153 @@
+<?php
+$inxml['matt']   = 'Matt';
+$inxml['mark']   = 'Mark';
+$inxml['luk']    = 'Luke';
+$inxml['joh']    = 'John';
+$inxml['apg']    = 'Acts';
+$inxml['rom']    = 'Rom';
+$inxml['1kor']   = '1Cor';
+$inxml['2kor']   = '2Cor';
+$inxml['gal']    = 'Gal';
+$inxml['ef']     = 'Eph';
+$inxml['fil']    = 'Phil';
+$inxml['kol']    = 'Col';
+$inxml['1thess'] = '1Thess';
+$inxml['2thess'] = '2Thess';
+$inxml['1tim']   = '1Tim';
+$inxml['2tim']   = '2Tim';
+$inxml['tit']    = 'Titus';
+$inxml['filem']  = 'Phlm';
+$inxml['hebr']   = 'Heb';
+$inxml['jak']    = 'Jas';
+$inxml['1pet']   = '1Pet';
+$inxml['2pet']   = '2Pet';
+$inxml['1joh']   = '1John';
+$inxml['2joh']   = '2John';
+$inxml['3joh']   = '3John';
+$inxml['jud']    = 'Jude';
+$inxml['aab']    = 'Rev';
+
+
+$chap['matt']   = range(1,28);
+$chap['mark']   = range(1,16);
+$chap['luk']    = range(1,24);
+$chap['joh']    = range(1,21);
+$chap['apg']    = range(1,28);
+$chap['rom']    = range(1,16);
+$chap['1kor']   = range(1,16);
+$chap['2kor']   = range(1,13);
+$chap['gal']    = range(1,6);
+$chap['ef']     = range(1,6);
+$chap['fil']    = range(1,4);
+$chap['kol']    = range(1,4);
+$chap['1thess'] = range(1,5);
+$chap['2thess'] = range(1,3);
+$chap['1tim']   = range(1,6);
+$chap['2tim']   = range(1,4);
+$chap['tit']    = range(1,3);
+$chap['filem']  = range(1,1);
+$chap['hebr']   = range(1,13);
+$chap['jak']    = range(1,5);
+$chap['1pet']   = range(1,5);
+$chap['2pet']   = range(1,3);
+$chap['1joh']   = range(1,5);
+$chap['2joh']   = range(1,1);
+$chap['3joh']   = range(1,1);
+$chap['jud']    = range(1,1);
+$chap['aab']    = range(1,22);
+
+
+
+$total_chap_ot = 929;
+$total_chap_nt = 260;
+
+
+$description     = 'Autoriseret dansk oversættelse fra 1907';
+
+$title['NT']     = 'Det Nye Testamente';
+$title['matt']   = 'Matthæus-Evangeliet';
+$title['mark']   = 'Markus-Evangeliet';
+$title['luk']    = 'Lukas-Evangeliet';
+$title['joh']    = 'Johannes-Evangeliet';
+$title['apg']    = 'Apostlenes Gerninger';
+$title['rom']    = 'Paulus&rsquo;s Brev til Romerne';
+$title['1kor']   = 'Paulus&rsquo;s første Brev til Korinthierne';
+$title['2kor']   = 'Paulus&rsquo;s andet Brev til Korinthierne';
+$title['gal']    = 'Paulus&rsquo;s Brev til Galaterne';
+$title['ef']     = 'Paulus&rsquo;s Brev til Efeserne';
+$title['fil']    = 'Paulus&rsquo;s Brev til Filippenserne';
+$title['kol']    = 'Paulus&rsquo;s Brev til Kolossenserne';
+$title['1thess'] = 'Paulus&rsquo;s første Brev til Thessalonikerne';
+$title['2thess'] = 'Paulus&rsquo;s andet Brev til Thessalonikerne';
+$title['1tim']   = 'Paulus&rsquo;s første Brev til Timotheus';
+$title['2tim']   = 'Paulus&rsquo;s andet Brev til Timotheus';
+$title['tit']    = 'Paulus&rsquo;s brev til Titus';
+$title['filem']  = 'Paulus&rsquo;s brev til Filemon';
+$title['hebr']   = 'Brevet til Hebræerne';
+$title['jak']    = 'Jakobs Brev';
+$title['1pet']   = 'Peters første Brev';
+$title['2pet']   = 'Peters andet Brev';
+$title['1joh']   = 'Johannes&rsquo;s første Brev';
+$title['2joh']   = 'Johannes&rsquo;s andet Brev';
+$title['3joh']   = 'Johannes&rsquo;s tredje Brev';
+$title['jud']    = 'Judas&rsquo;s Brev';
+$title['aab']    = 'Johannes&rsquo;s Aabenbaring';
+
+
+
+$chaptype['matt']   = 'kapitel';
+$chaptype['mark']   = 'kapitel';
+$chaptype['luk']    = 'kapitel';
+$chaptype['joh']    = 'kapitel';
+$chaptype['apg']    = 'kapitel';
+$chaptype['rom']    = 'kapitel';
+$chaptype['1kor']   = 'kapitel';
+$chaptype['2kor']   = 'kapitel';
+$chaptype['gal']    = 'kapitel';
+$chaptype['ef']     = 'kapitel';
+$chaptype['fil']    = 'kapitel';
+$chaptype['kol']    = 'kapitel';
+$chaptype['1thess'] = 'kapitel';
+$chaptype['2thess'] = 'kapitel';
+$chaptype['1tim']   = 'kapitel';
+$chaptype['2tim']   = 'kapitel';
+$chaptype['tit']    = 'kapitel';
+$chaptype['filem']  = 'kapitel';
+$chaptype['hebr']   = 'kapitel';
+$chaptype['jak']    = 'kapitel';
+$chaptype['1pet']   = 'kapitel';
+$chaptype['2pet']   = 'kapitel';
+$chaptype['1joh']   = 'kapitel';
+$chaptype['2joh']   = 'kapitel';
+$chaptype['3joh']   = 'kapitel';
+$chaptype['jud']    = 'kapitel';
+$chaptype['aab']    = 'kapitel';
+
+
+$abbrev['matt']   = 'Matt';
+$abbrev['mark']   = 'Mark';
+$abbrev['luk']    = 'Luk';
+$abbrev['joh']    = 'Joh';
+$abbrev['apg']    = 'ApG';
+$abbrev['rom']    = 'Rom';
+$abbrev['1kor']   = '1 Kor';
+$abbrev['2kor']   = '2 Kor';
+$abbrev['gal']    = 'Gal';
+$abbrev['ef']     = 'Ef';
+$abbrev['fil']    = 'Fil';
+$abbrev['kol']    = 'Kol';
+$abbrev['1thess'] = '1 Thess';
+$abbrev['2thess'] = '2 Thess';
+$abbrev['1tim']   = '1 Tim';
+$abbrev['2tim']   = '2 Tim';
+$abbrev['tit']    = 'Tit';
+$abbrev['filem']  = 'Filem';
+$abbrev['hebr']   = 'Hebr';
+$abbrev['jak']    = 'Jak';
+$abbrev['1pet']   = '1 Pet';
+$abbrev['2pet']   = '2 Pet';
+$abbrev['1joh']   = '1 Joh';
+$abbrev['2joh']   = '2 Joh';
+$abbrev['3joh']   = '3 Joh';
+$abbrev['jud']    = 'Jud';
+$abbrev['aab']    = 'Åb';
