@@ -94,6 +94,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/\s*{T: *([^}]+)}/';
     $to[] = '<span class="ref ref1"><span class="refnum">[REFANUM]</span><span class="refbody">\1</span></span>';
 
+    $from[] = '/\s*{K: *([^}]+)}/';
+    $to[] = '';
 
     $from[] = '/JHVHs/i';
     $to[] = '<span class="thenames"></span>';

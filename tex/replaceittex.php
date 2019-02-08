@@ -53,6 +53,9 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '\\emph{\1}';
 
+    $from[] = '/\s*{K:\s*([^}]+)}/';
+    $to[] = '';
+
     $from[] = '/\s*{E:\s*([^}]+)}/';
     $to[] = '\\pnote{\1}';
 
