@@ -45,7 +45,7 @@ makemenus(4);
               filen <a href="logos/DA1907-Logos-20190204.zip">DA1907-Logos-20190204.zip</a> og udpak
               den i en mappe. Den indeholder filerne <em>DA1907.docx</em> og <em>DA1907.jpg</em>.
 
-              <p class="card-text">Åbn Logos Bible Software</p>
+              <p class="card-text">Åbn Logos Bible Software.</p>
 
               <p class="card-text">I menuen <em>Tools</em> vælges <em>Personal Books</em>. Herved
               åbnes en fane med Personal Books.</p>
