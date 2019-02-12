@@ -26,7 +26,7 @@ makemenus(4);
 
 
               <p class="card-text">Bogen er lavet som en <em>Personal Book</em>. Det betyder, at den er lavet i Word,
-                hvori der er indsat diverse koder for at få den til at opføre sig som var bogven
+                hvori der er indsat diverse koder for at få den til at opføre sig som var bogen
                 købt i Logos Bible Shop. Det betyder at bogen kan linkes til andre bibler, der er
                 indeks, bibler kan sammenlignes med <em>Text Comparison</em> og der er forklarende
                 noter i nogle af bøgerne. Personal Books kan kun benyttes i pc-versionen. Det
