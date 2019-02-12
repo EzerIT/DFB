@@ -81,12 +81,20 @@ END;
     menuitem('Hjem','index.php',$thisnum===0);
     menuitem('Bibeltekst','tekst.php',$thisnum===2);
     menuitem('Læseoplevelse','format.php',$thisnum===1);
-    menuitem('Andre formater','andreformater.php',$thisnum===4);
 
     $active3 = $thisnum===3 ? "active" : "";
+    $active4 = $thisnum===4 ? "active" : "";
     $active5 = $thisnum===5 ? "active" : "";
 
 echo <<<END
+          <li class="nav-item dropdown $active4">
+            <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Andre formater</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+              <a class="dropdown-item" href="andreformater.php">PDF og lydbøger</a>
+              <a class="dropdown-item" href="logos.php">Logos Bible Software</a>
+            </div>
+          </li>
+
           <li class="nav-item dropdown $active3">
             <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Om Den Frie Bibel</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
