@@ -1,5 +1,6 @@
 <?php
 
+$chap['2mos']     = range(1,10);
 $chap['4mos']     = range(1,36);
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
@@ -23,6 +24,7 @@ $total_chap_nt = 260;
 
 
 $title['GT']      = 'Det Gamle Testamente';
+$title['2mos']    = 'Anden Mosebog';
 $title['4mos']    = 'Fjerde Mosebog';
 $title['dom']     = 'Dommerbogen';
 $title['ruth']    = 'Ruths Bog';
@@ -44,6 +46,7 @@ $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
 
 
+$chaptype['2mos'] = 'kapitel';
 $chaptype['4mos'] = 'kapitel';
 $chaptype['dom']  = 'kapitel';
 $chaptype['ruth'] = 'kapitel';
@@ -60,6 +63,7 @@ $chaptype['1kor'] = 'kapitel';
 $chaptype['2kor'] = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
 
+$abbrev['2mos'] = '2 Mos';
 $abbrev['4mos'] = '4 Mos';
 $abbrev['dom']  = 'Dom';
 $abbrev['ruth'] = 'Ruth';
@@ -76,6 +80,7 @@ $abbrev['1kor'] = '1 Kor';
 $abbrev['2kor'] = '1 Kor';
 $abbrev['1thess'] = '1 Thess';
 
+$style['2mos']    = 'btn-info';
 $style['4mos']    = 'btn-info';
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';

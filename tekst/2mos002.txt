@@ -1,0 +1,40 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.07.2019>!!
+===Anden Mosebog, kapitel 2===
+
+==Moses’ fødsel==
+v1 Og en mand af Levis slægt{T: *bayit* betyder ordret både >>hus<< og >>familie/slægt<<. Her er det det sidste, der er tale om.} gik hen og tog en Levi-datter.{E: Underforstået: >>til ægte<<.}
+v2 Kvinden blev gravid og fødte en søn, og hun så at han var dejlig, og hun skjulte ham i tre måneder.
+v3 Men da hun ikke længere kunne skjule ham, tog hun en kurv{E: Samme hebraiske ord bruges om Noas ark (1 Mos 6,14ff). *tēvāʰ* er egentlig et egyptisk ord som bruges om >>kurv<< eller >>kasse/æske<<.} af siv og klinede den med asfalt og beg, og hun lagde barnet i den og anbragte den mellem sivene ved bredden af Nilen.
+v4 Men hans søster stillede sig på afstand for at finde ud af, hvad der skete med ham.
+
+==Faraos datter finder Moses==
+v5 Så gik Faraos datter ned til Nilen for at bade mens hendes unge piger gik ved bredden af Nilen. Da så hun kurven midt i sivene, og hun sendte sin slavinde hen for at tage den.
+v6 Da hun åbnede den, så hun babyen, og se: en dreng der græd; og hun ynkedes over ham og sagde: >>Dette er en af hebræernes babyer.<<
+v7 Da sagde hans søster til Faraos datter: >>Skal jeg gå hen og hente dig en kvinde til amme, af de hebraiske, så hun kan amme babyen for dig?<<
+v8 Faraos datter sagde til hende: >>Gå!<< Og den unge pige gik hen og kaldte på babyens mor.
+v9 Faraos datter sagde til hende: >>Tag denne baby med og am ham for mig, så vil jeg give dig din løn.<< Og kvinden tog babyen og ammede ham.
+v10 Da drengen var blevet stor, bragte hun ham til Faraos datter, og han blev hendes søn. Hun gav ham navnet Moses{T: Ordret: >>hun kaldte hans navn Moses<<} idet hun sagde: >>For jeg har trukket ham op af vandet.<<{E: Denne bemærkning er omdiskuteret. >>Moses<< var et almindeligt egyptisk navn som betyder: >>søn<<. Det indgår fx i mange faraoners navne. Den almindeligst accepterede forklaring er at det for det hebraiske øre har haft en anden, dybere mening: At Faraos datter kom til at profetere om Moses’ indsats: Han skal *trække* sit folk *op af vandet*. Den jødiske historiker Josefus hævdede at egypterne kaldte vand for *mo*, og den der redder fra vand, for *uses*.}
+
+==Moses’ flugt til Midjan==
+v11  Da Moses var blevet voksen, skete det en dag at han gik ud til sine brødre{T: Ordet >>brødre<< skal her ikke forstås bogstaveligt, men dækker over folkefæller.} og så på deres tvangsarbejde, og han så en egyptisk mand i færd med at slå{T: Verbet *nkh* i hif’il kan både betyde: >>slå<< og: >>slå ihjel<<. Brugen af samme ord i næste vers betyder dog nok at der her må være tænkt på det sidste, mens der i vers 13 er tænkt på det første. I vers 14 er der brugt et andet ord.} en hebraisk mand af hans brødre ihjel.
+v12 Da vendte han sig fra side til side{T: Ordret: >>således og således<<.} og så at der intet menneske var, og han slog egypteren ihjel og skjulte ham i sandet.
+v13 Næste{T: Ordet: >>anden<<.} dag gik han ud, og se, to hebraiske mænd sloges; da sagde han til ham som havde uret: >>Hvorfor slår du din modpart?<<
+v14 Men han sagde: >>Hvem har sat dig til hersker og dommer over os? Tænker du på at dræbe mig, ligesom du dræbte egypteren?<< Da blev Moses bange og sagde: >>Sandelig, gerningen er blevet kendt.<<
+v15 Da Farao hørte om denne gerning, søgte han at dræbe Moses; men Moses flygtede bort fra Farao{T: Ordret: >>fra Faraos ansigt<<.} og slog sig ned i landet Midjan og slog sig ned ved brønden.
+v16 Præsten i Midjan havde syv døtre, og de kom og trak vand op og fyldte trugene for at vande deres fars småkvæg.
+v17 Da kom hyrderne og jog dem væk; men Moses rejste sig og hjalp dem og vandede deres småkvæg.
+v18 Da de kom til Re’uel, deres far, sagde han: >>Hvorfor har I skyndt jer at komme i dag?<<
+v19 De sagde: >>En egyptisk mand reddede os fra hyrdernes hånd og trak desuden flittigt vand op for os og vandede småkvæget.<<
+v20 Han sagde til sine døtre: >>Og hvor er han? Hvorfor forlod I dog den mand? Kald på ham, så han kan få noget at spise.<<{T: Ordret: >>så han kan spise brød<<.}
+v21 Moses besluttede sig for at slå sig ned hos manden; og han gav Sippora, sin datter, til Moses.{E: Underforstået: >>til ægte<<.}
+v22 Hun fødte en søn, og han gav ham navnet Gershom, for han sagde: >>Jeg er blevet fremmed{E: På hebraisk er der ordspil mellem >>Gershom<< (*gēršōm*) og >>fremmed<< (*gēr*).} i et fremmed land.<<
+
+==Gud vil se til sit folk==
+v23 I løbet af al den tid{T: Ordret: >>de mange dage<<.} døde kongen af Egypten, og Israels børn sukkede under arbejdet og klagede højlydt, og deres råb om hjælp på grund af arbejdet steg op til Gud. 
+v24 Gud hørte deres jamren, og Gud huskede på sin pagt med Abraham, med Isak og med Jakob. 
+v25 Og Gud så Israels børn, og Gud kendtes ved dem.
+

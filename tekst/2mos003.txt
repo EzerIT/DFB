@@ -1,0 +1,35 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.07.2019>!!
+===Anden Mosebog, kapitel 3===
+
+==Moses’ kaldelse==
+v1 Moses vogtede småkvæg for sin svigerfar Jetro,  Midjans præst, og han drev småkvæget om på den anden side af ørkenen og kom til Guds-bjerget Horeb.
+v2 JHVHs engel viste sig for ham i en ildflamme{T: Betydningen af ordet: *labbat* er usikker og omdiskuteret. Ordet optræder i GT kun her. Oftest regner man det for en forkortelse/skrivefejl for: *lahevet*: >>flamme<<. Forskellen er mindre end den ser ud på dansk. Det drejer sig om bogstaverne: *lhbt* og: *lbt*.} fra midt i tornebusken, han så, og bemærk: tornebusken brændte i ilden, men tornebusken blev ikke fortæret.
+v3 Moses sagde: >>Jeg vil gå over og se dette store syn. Hvorfor brænder tornebusken ikke op?<< 
+v4 Da JHVH så at han gik over for at se, råbte Gud til ham fra midten af tornebusken og sagde: >>Moses! Moses!<< Og han sagde: >>Se, her er jeg.<<
+v5 Han sagde: >>Kom ikke nærmere herhen. Tag dine sandaler af dine fødder, for det sted du står på, er hellig jord.<<
+v6 Og han sagde: >>Jeg er din faders Gud, Abrahams Gud, Isaks Gud og Jakobs Gud.<< Da skjulte Moses sit ansigt, for han frygtede for at se på Gud.
+
+==Moses’ opgave==
+v7 Så sagde JHVH: >>Jeg har i høj grad{T: Den hebraiske tekst har verbet *rʔh* (>>se<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} set mit folks elendighed i Egypten, og jeg har hørt dets{T: Ordret: >>deres<<.} klageskrig over dets slavefogeder. Jo, jeg har kendt dets smerter.
+v8 Jeg er steget ned for at redde det fra Egyptens hånd og for at føre det op fra dette land til et godt og vidtstrakt land, til et land der flyder med mælk og honning,{E: Med >>honning<< er der formodentlig tænkt bredere end på dansk. Det omfatter også frugtsaft af især dadler og figner.} til kana’anæernes og hittitternes og amoritternes og perizzitternes og hivvitternes og jebusitternes sted.
+v9 Og nu, se, Israels børns klagekrig er kommet til mig, og jeg har også set den trængsel, hvormed egypterne undertrykker dem.
+v10 Så gå nu! Jeg vil sende dig til Farao, og du skal føre mit folk, Israels børn, ud af Egypten.<<
+v11 Moses sagde til Gud: >>Hvem er jeg at jeg skulle gå til Farao, og at jeg skulle føre Israels børn ud af Egypten?<<
+v12 Men han sagde: >>Sandelig, jeg vil være med dig. Og dette{T: Den hebraiske tekst kan dog muligvis også forstås sådan at det er selve det at Gud er med Moses, der er tegnet. Moses vil opleve at ting lægger sig til rette. Og derfor skal han og folket >>tjene Gud på dette bjerg<<.} skal være tegnet for dig på at det er mig der har sendt dig: Når du fører folket ud af Egypten, skal I tjene Gud på dette bjerg.<<
+v13 Moses sagde til Gud: >>Se, når jeg kommer til Israels børn og siger til dem: >Jeres fædres Gud har sendt mig til jer,< og de siger til mig: >Hvad er hans navn?<{E: Når spørgepartiklen *māʰ* forbindes med *šēm* (>>navn<<), spørges der først og fremmest til navnets indhold og betydning, personens væsen og karakter.} Hvad skal jeg så sige til dem?<<
+v14 Men Gud sagde til Moses: >>Jeg er den, jeg er.<<{E: det hebraiske: *ʔehᵊyeʰ ʔᵃšer ʔehᵊyeʰ* er overordentlig vanskeligt at oversætte og fange ind. Traditionelt oversættes det: >>Jeg er den, jeg er.<<. Denne oversættelse kan meget let forstås sådan at Gud er statisk. I sammenhængen er der tale om det modsatte. Med et: *ʔehᵊyeʰ* tilkendegiver Gud i vers 12 at han vil være med Moses. Det må også klinge med i formuleringen her: Gud vil være nærværende og aktiv som den han vil være. Det sidste er så også udtryk for at Gud ikke er bundet til altid at være til stede som mennesker forventer eller ønsker – eller frygter.} Og han sagde: >>Sådan skal du sige til Israels børn: >Jeg Er<{T: Sprogligt kunne der måske bedre oversættes: >>jeg vil være<<, jf. overstående note.} har sendt mig til jer.<< 
+
+==Instruktioner til Moses==
+v15 Gud sagde endvidere til Moses: >>Sådan skal du sige til Israels børn: >JHVH, jeres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har sendt mig til jer.< Dette er mit navn til evig tid, og sådan skal jeg huskes{T: Ordret: >>dette er mit minde<<.} fra slægt til slægt.
+v16 Gå, og du skal samle Israels ældste og sige til dem: >JHVH, jeres fædres Gud, har vist sig for mig, Abrahams, Isaks og Jakobs Gud, og har sagt: >Jeg har nøje{T: Den hebraiske tekst har verbet *pqd* (>>være opmærksom på<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} været opmærksom på jer og på det der er sket jer i Egypten. 
+v17 Og jeg har sagt at jeg vil føre jer op fra Egyptens elendighed til kana’anæernes og hittitternes og amoritternes og perizzitternes og hivvitternes og jebusitternes land, til et land der flyder med mælk og honning.<
+v18 De vil høre på dig,{T: Ordret: >>på din røst<<.} og du skal gå, du og Israels ældste, til Egyptens konge, og I skal sige til ham: >JHVH, hebræernes Gud, har mødt os, og nu, tillad os gå tre dages rejse ud i ørkenen og ofre til JHVH vor Gud.<
+v19 Men jeg ved at Egyptens konge ikke vil give jer lov til at gå, heller ikke under en stærk hånd.{T: Meningen må være: >>heller ikke selv om han mærker en stærk hånd <<. Andre oversættelser følger Septuaginta og Vulgata: >>medmindre det er under en stærk hånd.<< Den masoretiske tekst har: *wᵊlōʔ*, Septuaginta forudsætter: *ʔim lōʔ*.}
+v20 Men jeg vil række min hånd ud og slå Egypten med alle mine undere som jeg vil gøre midt i det, og derefter vil han lade jer rejse.
+v21 Og jeg vil give{E: Den masoretiske tekst har et ordspil med verbet *ntn* (>>give<<): Egypternes konge vil ikke *give lov* (vers 19), men Gud vil *give* egypterne gunst for dette folk. Farao vil ikke *give*, men Gud vil sørge for, at hans folk *giver* rigeligt.} dette folk gunst i egypternes øjne, og det skal ske, når I skal rejse at I ikke skal rejse tomhændede.
+v22 Men en kvinde skal bede sin naboerske og den der bor i hendes hus, om ting af sølv og ting af guld og klæder, og dem skal I lægge på jeres sønner og på jeres døtre, og så har I plyndret Egypten.<<
+

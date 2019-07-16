@@ -1,0 +1,49 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.07.2019>!!
+===Anden Mosebog, kapitel 4===
+
+==Fortsat instruktion til Moses==
+v1 Moses svarede og sagde: >>Men se,{T: I en del oversættelser indledes Moses’ svar med: >>hvad nu, hvis …<< eller lignende. Men det er næppe en dækkende oversættelse af det hebraiske *wᵊhēn* (>>men se<<). Meningen er formodentlig at Moses direkte modsiger det, Gud lige har sagt i 3,18.} de vil ikke tro mig og ikke lytte til min røst; de vil helt sikkert sige: >JHVH har ikke vist sig for dig.<<<
+v2 Men JHVH sagde til ham: >>Hvad er det der er i din hånd?<< Og han sagde: >>En stav.<<
+v3 Han sagde: >>Kast den på jorden!<< Så kastede han den på jorden, og den blev til en slange, og Moses flygtede for den.
+v4 Da sagde JHVH til Moses: >>Ræk din hånd ud og grib den i halen.<< Så rakte han hånden ud og greb fast om den, og den blev til en stav i hans hånd.
+v5 >>For at de skal tro at JHVH, deres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har vist sig for dig.<<
+v6 JHVH sagde endvidere til ham: >>Stik nu hånden ind i din brystfold.<<{T: Ofte oversat: >>på dit bryst<<. Men det hebraiske ord (*ḥêq*) er nærmere en betegnelse for klædningens brystfold, hvor man kunne opbevare værdigenstande, og mange gik også med hænderne i brystfolden.} Han stak sin hånd i sin brystfold, og han tog den ud, men se, hans hånd var spedalsk som sne.
+v7 Men han sagde: >>Stik din hånd i brystfolden igen.<< Og han stak igen hånden i brystfolden. Og han trak den ud af brystfolden, og se, da var den igen blevet som hans hud.{T: Ordret: >>kød<<.}
+v8 >>Men{T: Ordret: >>Og det skal ske<<} hvis de ikke vil tro dig eller adlyde dig{T: Ordret: >>din røst<< i dette og næste vers.} ved det første tegn, så vil de tro dig ved det sidste tegn. 
+v9 Og{T: Ordret: >>Og det skal ske<<} hvis de end ikke vil tro disse to tegn og ikke adlyder dig, så skal du tage af Nilens vand og øse det ud på den tørre jord; så bliver det vand, som du tager fra Nilen, så bliver det til blod på den tørre jord.<<
+
+==Moses vægrer sig==
+v10 Men Moses sagde til JHVH: >>Tillad mig, Herre: Jeg er ikke en ordenes mand, var det hverken i går eller i forgårs, ej heller siden du begyndte at tale til din tjener; for jeg har en tung tale og en tung tunge.<<
+v11 Da sagde JHVH til ham: >>Hvem har givet{T: Ordret: >>anbragt på<<.} mennesket mund? Eller hvem gør stum eller døv eller seende eller blind? Mon ikke jeg, JHVH?
+v12 Så gå nu! Jeg vil være med din mund og lære dig hvad du skal sige.<<
+v13 Men han sagde: >>Tillad mig, Herre! Send bud ved den som du vil sende.<<{E: Meningen med sætningen er omdiskuteret. Oftest er den opfattet som afslag fra Moses’ side og frit oversat: >>send dog en anden!<< En anden mulighed er at Moses i virkeligheden accepterer sendelsen, men så præciserer at det er på Guds ansvar.}
+v14 Da flammede JHVHs vrede op mod Moses, og han sagde: >>Er der ikke Aron, din bror, levitten? Jeg ved at han er dygtig til at tale.{T: Den hebraiske tekst har verbet *dbr* (>>tale<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} Og se, han på vej ud for at møde dig, og når han ser dig, vil han glæde sig i sit hjerte.
+v15 Du skal tale til ham og lægge ordene i hans mund. Og jeg vil være med din mund og med hans mund, og jeg vil lære jer hvad I skal gøre.
+v16 Han skal tale for dig til folket, han{T: Ordret: >>og det skal ske at han<<.} skal være mund for dig, og du skal være gud for ham. 
+v17 Og tag i din hånd denne stav med hvilken du skal gøre tegnene.<<
+
+==Moses vender tilbage til Egypten==
+v18 Moses gik og kom igen til Jeter,{T: Navnet her må betragtes som en grammatisk variant af *Jetro*, som han kaldes anden gang i samme vers.} sin svigerfar, og sagde til ham: >>Lad mig gå, så vil jeg vende tilbage til mine brødre som er i Egypten, og se om de stadig er i live.<< Jetro sagde til Moses: >>Gå med fred.<<
+v19 JHVH sagde til Moses i Midjan: >>Gå, vend tilbage til Egypten, for alle de mænd som stræbte dig efter livet, er døde.<<
+v20 Så tog Moses sin hustru og sine sønner{E: I vers 25 er der kun tale om én søn, ligesom der i det foregående kun er nævnt én søn, Gershom (2,22). Det er dog muligt at begge de to sønner der er nævnt i 18,3-4, allerede var født. En anden mulighed er at der er tale om afskriverfejl, så der skulle stå: *bᵊnô* (>>sin søn<<)i stedet for: *bānāʸw* (>>sine sønner<<). Alle håndskrifter støtter dog det sidste.} og lod dem ride på et æsel, og han vendte tilbage til Egyptens land, og Moses tog Guds stav i sin hånd.
+v21 JHVH sagde til Moses: >>Når du går for at vende tilbage til Egypten, skal du se til at du gør alle de tegn som jeg har givet i din hånd, for Faraos ansigt; men jeg vil forhærde hans hjerte så han ikke lader folket gå. 
+v22 Så skal du sige til Farao: >Så siger JHVH: Israel er min søn, min førstefødte. 
+v23 Og jeg har sagt til dig: Lad min søn gå, så han kan tjene mig, men du har nægtet at lade ham gå. Se, jeg slår din søn, din førstefødte, ihjel.<<<
+
+==Blodbrudgom==
+v24Undervejs, i herberget, mødte JHVH ham{E: Moses’ navn er ikke nævnt i dette lille afsnit, men ud fra sammenhængen går man ud fra at det er Moses der blev overfaldet. Han var ansvarlig for sønnens omskærelse. En anden mulighed er dog at det er Moses’ førstefødte, Gershom.} og søgte at slå ham ihjel. 
+v25 Da tog Sippora en flintesten og skar sin søns forhud af og lod den berøre hans fødder,{T: Oversættelsen og forståelsen er omdiskuteret. Meningen er enten at Sippora berørte sønnens fødder med forhuden og kaldte ham sin >>blodbrudgom<<, eller (nærmere) at hun berørte Moses’ fødder med sønnens forhud for derved at tilkendegive at sønnens omskærelse og blod skulle redde Moses; og derved blev Moses hendes >>blodbrudgom<<. En tredje (måske mindre sandsynlig) mulighed er at hun kalder Gud for sin egen >>blodbrudgom<<, idet sønnen ved omskærelsen blev adopteret af Gud, og at hun som hans mor så må være Guds brud, der nu også får del i pagtens velsignelse.
+Andre oversættere forstår *raglāʸw* (>>fødder<<) som eufemisme for kønsdele og oversætter: >>hun berørte hans kønsdele<<. Denne oversættelse modsiges dog af at verbet står i hif’il og bør oversættes: >>lod berøre<<.} og hun sagde: >>Du er mig en blodbrudgom.<<
+v26 Så slap han ham; da sagde hun blodbrudgom om omskærelsen.
+
+==Moses og Aron går til folket==
+v27 JHVH sagde til Aron: >>Gå Moses i møde i ørkenen.<< Og han gik og mødte ham ved Guds bjerg og kyssede ham.
+v28 Moses fortalte Aron om alle de ord hvormed JHVH havde sendt ham, og alle de tegn som han havde befalet ham. 
+v29 Så gik{T: Verbet her står i singularis modsat verbet i anden halvdel af verset. Men meningen må være at de begge gik.} Moses og Aron, og de samlede alle Israels børns ældste. 
+v30 Aron talte alle de ord som JHVH havde talt til Moses; og han gjorde tegnene for folkets øjne. 
+v31 Og folket troede, og da de hørte at JHVH var opmærksom på Israels børn, og at han havde set deres elendighed, faldt de på knæ og bøjede sig dybt.
+
