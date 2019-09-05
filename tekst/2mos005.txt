@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.07.2019>!!
+!!<Dato for denne version: 05.09.2019>!!
 ===Anden Mosebog, kapitel 5===
 
 ==Moses og Aron hos Farao==
@@ -26,7 +26,7 @@ v17 Men han sagde: >>I er dovne, dovne. Derfor siger I: >Lad os gå, lad os ofre
 v18 Men gå nu hen og arbejd. Ingen strå bliver givet til jer, men I skal give det fastsatte kvantum teglsten.<<
 v19 Da så Israels børns arbejdsformænd at de var i en ond situation,{E: Grundteksten har ordet: *rāʕ* (>>ond situation<<, ofte oversat: >>knibe<<). Den egyptiske hovedgud hed Ra, og Farao var personificering af netop Ra. Formændene så sig selv i *rāʕ*, en ond situation; de var udleveret til dem der dyrkede Ra.} idet der blev sagt: >>I må intet formindske i antallet af jeres teglsten, dag for dags opgave.<<
 v20 Da traf de Moses og Aron der kom den i møde, da de gik ud fra Farao.
-v21 De sagde til dem: >>JHVH skal se på jer og skal dømme jer{T: >>jer<< er ikke gentaget i grundteksten, men er underforstået, idet det efterfølgende *ʔᵃšer* (>>som<<) henviser til Moses og Aron.} som har gjort vores lugt stinkende i Faraos øjne og i hans tjeneres øjne, så I har givet et sværd i deres hånd til at slå os ihjel.<< 
+v21 De sagde til dem: >>JHVH skal se på jer og skal dømme jer{T: >>jer<< er ikke gentaget i grundteksten, men er underforstået, idet det efterfølgende *ʔᵃšer* (>>som<<) henviser til Moses og Aron.} som{T: I sammenhængen kan *ʔᵃšer* også oversættes: >>siden (I har gjort ...)<<.} har gjort vores lugt stinkende i Faraos øjne og i hans tjeneres øjne, så I har givet et sværd i deres hånd til at slå os ihjel.<< 
 v22 Da vendte Moses sig igen til JHVH og sagde: >>Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig?
 v23 For siden jeg gik til Farao for at tale i dit navn, har han handlet ondt mod dette folk, og du har ingenlunde{T: Den hebraiske tekst har verbet *nṣl* (>>befri<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} befriet dit folk<<.
 

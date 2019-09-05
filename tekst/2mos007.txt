@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.07.2019>!!
+!!<Dato for denne version: 05.09.2019>!!
 ===Anden Mosebog, kapitel 7===
 
 v1 Da sagde JHVH til Moses: >>Se, jeg har gjort dig til en gud for Farao, og Aron, din bror, skal være din profet.
@@ -27,7 +27,7 @@ v15 Gå til Farao om morgenen, se, han går ud til vandet, og du skal stille dig
 v16 Og du skal sige til ham: >JHVH, hebræernes Gud, har sendt mig til dig for at sige: >Lad mit folk gå så de kan dyrke mig i ørkenen.< Men indtil nu har du ikke villet høre!
 v17 Således har JHVH sagt: >Ved dette vil du vide at jeg er JHVH: Se, jeg slår med staven som er i min hånd, på vandet som er i Nilen, og det vil blive forvandlet til blod,
 v18 og fiskene som er i Nilen, vil dø, og Nilen vil stinke så Egypten ikke kan drikke vand fra Nilen.<<<
-v19 Og JHVH sagde til Moses: >>Sig til Aron: >Tag din stav og ræk din hånd ud over Egyptens vand, over deres floder, over deres kanaler og over deres damme og over alle deres vandsamlinger, så vil det blive til blod, og der skal være blod i hele Egyptens land, både i træ- og i stenkarrene.<<<{T: Ordret blot: >>både i træerne og stenene<<.}
+v19 Og JHVH sagde til Moses: >>Sig til Aron: >Tag din stav og ræk din hånd ud over Egyptens vand, over deres floder, over deres kanaler og over deres damme og over alle deres vandsamlinger{T: Der er formodentlig tænkt på vandreservoirer.}, så vil det blive til blod, og der skal være blod i hele Egyptens land, både i træ- og i stenkarrene.<<<{T: Ordret blot: >>både i træerne og stenene<<.}
 v20 Moses og Aron gjorde sådan som JHVH havde befalet. Han løftede staven og slog vandet som var i Nilen, for Faraos øjne og for hans tjeneres øjne, og alt vandet som var i Nilen, blev forvandlet til blod.
 v21 Fiskene som var i Nilen, døde, og Nilen stank så Egypten ikke kunne drikke vand fra Nilen. Der var blod i hele Egyptens land.
 v22 Men Egyptens mirakelmagere{T: Se note til v.11.} gjorde det samme med deres hemmelige kunster. Men Faraos hjerte blev hårdt så han ikke hørte på dem, som JHVH havde talt.
