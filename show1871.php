@@ -1,4 +1,7 @@
 <?php
+  // TODO: Tjek at $book er lovlig, så det bliver vanskeligere at misbruge fx bog="../../../../etc/passwd"
+  // Hacket slipper ikke igennem i øjeblikket, men det er mere held end forstand.
+
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('replaceit_xml.inc.php');
