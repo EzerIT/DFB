@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 21.11.2017>!!
+!!<Dato for denne version: 24.03.2020>!!
 
 ===Habakkuks Bog, kapitel 1===
 
@@ -70,7 +70,7 @@ v12 Er du ikke fra gammel tid, JHVHv, min Gud, min hellige?
 
 Du er udødelig!{E: Den hebraiske grundtekst lyder egentlig >>lad os ikke dø, JHVHv<<, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.}
 
-JVHVv, har du ikke bestemt ham{T: kaldæernes konge.} til dom?{E: Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.}
+JHVHv, har du ikke bestemt ham{T: kaldæernes konge.} til dom?{E: Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.}
 
 O klippe, har du ikke grundfæstet ham til straf?
 
