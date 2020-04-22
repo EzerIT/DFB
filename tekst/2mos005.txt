@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 05.09.2019>!!
+!!<Dato for denne version: 22.04.2020>!!
 ===Anden Mosebog, kapitel 5===
 
 ==Moses og Aron hos Farao==
@@ -19,7 +19,7 @@ v10 Da gik folkets slavefogeder og dets formænd ud og sagde til folket: >>Såle
 v11 Gå selv, tag jeres strå, hvor I kan finde det; men der bliver ikke skåret ned på jeres arbejde.<<< 
 v12 Så spredte folket sig over hele Egyptens land for at samle stubbe som erstatning for strå.
 v13 Slavefogederne skyndede på dem idet de sagde: >>Fuldfør jeres arbejde, dag for dags opgave, ligesom da der var strå.<<
-v14 Og Israels børns arbejdsformænd, som Faraos slavefogeder havde sat over dem, blev pryglet idet de{E: Det er slavefogedernes udsagn der er refereret.} sagde: >>Hvorfor har I ikke opfyldt jeres kvantum med at lave teglsten i går og i dag som i går og i forgårs?{E: Det sidste er et stående hebraisk udtryk for: *tidligere*. Ordret virker det selvmodsigende her.}
+v14 Og Israels børns arbejdsformænd, som Faraos slavefogeder havde sat over dem, blev pryglet idet de{E: Det er slavefogedernes udsagn der er refereret.} sagde: >>Hvorfor har I ikke opfyldt jeres kvantum med at lave teglsten i går og i dag som i går og i forgårs?{E: Det sidste er et stående hebraisk udtryk for: *tidligere*. Ordret virker det selvmodsigende her.}<<
 v15 Da kom Israels børns arbejdsformænd og råbte til Farao: >>Hvorfor gør du sådan med dine trælle? 
 v16 Der bliver ikke givet strå til dine trælle, og >teglsten<, siger de til os, >skal I lave!< Og se: dine trælle bliver pryglet; men det er dit folk der har syndet.<<{T: Formuleringen i den masoretiske tekst er omdiskuteret. Som der er vokaliseret, står verbet *ḥṭˀ* (>>synde<<) som qatal 2. pers. fem. sing., men opfattes – medmindre man foreslår rettelser – oftest som uregelmæssig 3. pers. fem. sing.; *ʕam*  (>>folk<<) er dog normalt mask. Septuaginta og Vulgata har tilsyneladende læst (eller rettet til): *wᵊḥāṭāˀtā lᵊʕammexā*: >>men du har forsyndet dig mod dit folk<<).}
 v17 Men han sagde: >>I er dovne, dovne. Derfor siger I: >Lad os gå, lad os ofre til JHVH.< 

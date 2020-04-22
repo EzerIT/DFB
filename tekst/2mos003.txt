@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 05.09.2019>!!
+!!<Dato for denne version: 22.04.2020>!!
 ===Anden Mosebog, kapitel 3===
 
 ==Moses’ kaldelse==
@@ -25,7 +25,7 @@ v14 Men Gud sagde til Moses: >>Jeg vil være den jeg vil være.<<{E: Det hebrais
 
 ==Instruktioner til Moses==
 v15 Gud sagde endvidere til Moses: >>Sådan skal du sige til Israels børn: >JHVH, jeres fædres Gud, Abrahams Gud, Isaks Gud og Jakobs Gud, har sendt mig til jer.< Dette er mit navn til evig tid, og sådan skal jeg huskes{T: Ordret: >>dette er mit minde<<.} fra slægt til slægt.
-v16 Gå, og du skal samle Israels ældste og sige til dem: >JHVH, jeres fædres Gud, har vist sig for mig, Abrahams, Isaks og Jakobs Gud, og har sagt: >Jeg har nøje{T: Den hebraiske tekst har verbet *pqd* (>>være opmærksom på<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} været opmærksom på jer og på det der er sket jer i Egypten. 
+v16 Gå, og du skal samle Israels ældste og sige til dem: >JHVH, jeres fædres Gud, har vist sig for mig, Abrahams, Isaks og Jakobs Gud, og har sagt: Jeg har nøje{T: Den hebraiske tekst har verbet *pqd* (>>være opmærksom på<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} været opmærksom på jer og på det der er sket jer i Egypten. 
 v17 Og jeg har sagt at jeg vil føre jer op fra Egyptens elendighed til kana’anæernes og hittitternes og amoritternes og perizzitternes og hivvitternes og jebusitternes land, til et land der flyder med mælk og honning.<
 v18 De vil høre på dig,{T: Ordret: >>på din røst<<.} og du skal gå, du og Israels ældste, til Egyptens konge, og I skal sige til ham: >JHVH, hebræernes Gud, har mødt os, og nu, tillad os gå tre dages rejse ud i ørkenen og ofre til JHVH vor Gud.<
 v19 Men jeg ved at Egyptens konge ikke vil give jer lov til at gå, heller ikke under en stærk hånd.{T: Meningen må være: >>heller ikke selv om han mærker en stærk hånd <<. Andre oversættelser følger Septuaginta og Vulgata: >>medmindre det er under en stærk hånd.<< Den masoretiske tekst har: *wᵊlōʔ*, Septuaginta forudsætter: *ʔim lōʔ*.}

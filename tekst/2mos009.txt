@@ -2,11 +2,11 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.07.2019>!!
+!!<Dato for denne version: 22.04.2020>!!
 ===Anden Mosebog, kapitel 9===
 
 ==Femte plage: Kvægpest==
-v1 JHVH sagde til Moses: >>Kom til Farao og tal til ham: >Således har JHVH, hebræernes Gud, sagt: >Lad mit folk gå så de kan dyrke mig.<
+v1 JHVH sagde til Moses: >>Kom til Farao og tal til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.
 v2 Men hvis du vægrer dig ved at lade dem gå, og du fremdeles holder fast på dem,
 v3 se, så skal JHVHs hånd komme over dit kvæg som er på marken, over hestene, over æslerne, over kamelerne, over hornkvæget og over småkvæget, en meget tung pest.
 v4 Og JHVH skal gøre forskel mellem Israels kvæg og Egypternes kvæg, og der skal intet dø af alt det der tilhører Israels børn.<<<
@@ -22,11 +22,11 @@ v11 Og mirakelmagerne kunne ikke møde op{T: Ordret: >>kunne ikke stå<<. Det ka
 v12 Men JHVH gjorde Faraos hjerte hårdt så at han ikke hørte på dem, sådan som JHVH havde talt til Moses.
 
 ==Syvende plage: Hagl==
-v13 Da sagde JHVH til Moses: >>Stå tidligt op om morgenen og stil dig foran Faraos ansigt og sig til ham: >Således har JHVH, hebræernes Gud, sagt: >Lad mit folk gå så de kan dyrke mig.<
+v13 Da sagde JHVH til Moses: >>Stå tidligt op om morgenen og stil dig foran Faraos ansigt og sig til ham: >Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.
 v14 Ja, denne gang vil jeg sende alle mine plager mod dit hjerte{E: Meningen er formodentlig dels at de skal ramme Farao selv, og dels at de skal ramme ham meget dybt.} og over dine tjenere og over dit folk for at du skal vide at der er ingen som mig på hele jorden.{T: Der kunne også oversættes: >>i hele landet<<, men det er næppe meningen her eller i vers 16.}
 v15 Hvis jeg allerede havde rakt min hånd ud og slået dig og dit folk med pest, så havde du været udslettet fra jorden;
 v16 men derimod for dette har jeg rejst dig op: for at vise dig min magt og for at kundgøre mit navn over hele jorden.
-v17 Du ophøjer dig stadig over mit folk så du ikke vil lade dem gå.{T: Nogle fortolkere mener at der må være underforstået et: >>hvis<<: >Hvis du stadig ophøjer dig over mit folk …<<, hvor vers 18 giver Guds svar.}
+v17 Du ophøjer dig stadig over mit folk så du ikke vil lade dem gå.{T: Nogle fortolkere mener at der må være underforstået et: >>hvis<<: >>Hvis du stadig ophøjer dig over mit folk …<<, hvor vers 18 giver Guds svar.}
 v18 Derfor{T: Ordret: >>Se!<<} vil jeg i morgen på denne tid lade det regne med meget tung hagl hvis lige ikke har været i Egypten fra den dag det blev grundlagt, og til nu.
 v19 Så send nu bud ud, bring dine kreaturer og alt det du har på marken, i sikkerhed. Hvert menneske og kvæget som findes på marken og ikke bliver samlet i hus, over dem vil haglen falde, og de vil dø.<<<
 v20 Den af Faraos tjenere som frygtede JHVHs ord, lod sine tjenere og sit kvæg flygte til husene,

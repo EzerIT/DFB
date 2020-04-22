@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.07.2019>!!
+!!<Dato for denne version: 22.04.2020>!!
 ===Anden Mosebog, kapitel 10===
 
 ==Ottende plage: Græshopper==
@@ -11,8 +11,8 @@ v2 og for at du kan fortælle din søn og sønnesøn{T: Ordret: >>i din søns og
 v3 Så gik Moses og Aron ind til Farao og sagde til ham: >>Sådan har JHVH, hebræernes Gud, sagt: >Hvor længe nægter du at ydmyge dig for mit ansigt? Lad mit folk gå så de kan dyrke mig!
 v4 For hvis du nægter at lade mit folk gå, se, så vil jeg i morgen lade græshopper{T: Grundtekstens ord er singularis, men det må opfattes kollektivt.} komme i dit landområde,
 v5 og de skal dække jordens{T: Kan også oversættes: >>landets<<, men det er samme ord i næste sætning.} overflade{T: Grundbetydningen af: *ʕayin* er: >>øje<<.} så man ikke skal kunne se jorden, og de skal æde den rest som er reddet, det der er blevet tilbage til jer fra haglen, og de skal æde hvert træ som vokser op hos jer af marken.
-v6 Dine huse skal fyldes og alle dine tjeneres huse og alle Egyptens huse, som hverken dine fædre eller dine fædres fædre har set fra den dag de blev til på jorden, og til denne dag.<< Så vendte han sig og gik ud fra Farao.
-v7 Da sagde Faraos tjenere til ham: >>Hvor længe skal denne{E: Underforstået enten: <<denne mand<< eller: >>denne situation<<.} være en snare for os? Lad de mænd gå så de kan dyrke JHVH, deres Gud. Kan du endnu ikke forstå{T: Se note til 8,6.} at Egypten er ruineret?<<
+v6 Dine huse skal fyldes og alle dine tjeneres huse og alle Egyptens huse, som hverken dine fædre eller dine fædres fædre har set fra den dag de blev til på jorden, og til denne dag.<<< Så vendte han sig og gik ud fra Farao.
+v7 Da sagde Faraos tjenere til ham: >>Hvor længe skal denne{E: Underforstået enten: >>denne mand<< eller: >>denne situation<<.} være en snare for os? Lad de mænd gå så de kan dyrke JHVH, deres Gud. Kan du endnu ikke forstå{T: Se note til 8,6.} at Egypten er ruineret?<<
 v8 Så blev Moses og Aron bragt tilbage til Farao, og han sagde til dem: >>Gå, dyrk JHVH, jeres Gud. Hvem{T: Ordret: >>Hvem og hvem<<.} er det som går?<<
 v9 Moses sagde: >>Vi vil gå med vore unge og vore gamle, med vore sønner og vore døtre; med vort småkvæg og med vort hornkvæg vil vi gå, for det er JHVHs fest for os.<<
 v10 Da sagde han til dem: >>Må JHVH være med jer, om jeg vil lade jer og jeres små børn{T: Det hebraiske ord er singularis, men det må opfattes kollektivt.} gå! Se der, I har ondt i sinde.{T: Ordret: >>der er ondt over for jeres ansigt<<.}

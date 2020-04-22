@@ -1,0 +1,38 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 22.04.2020>!!
+===Anden Mosebog, kapitel 18===
+
+==Jetros besøg hos Moses==
+v1 Jetro, præst i Midjan, Moses’ svigerfar, hørte alt det Gud havde gjort for Moses og for sit folk Israel, at JHVH havde ført Israel ud af Egypten.
+v2 Da tog Jetro, Moses’ svigerfar, Sippora, Moses hustru, som han havde sendt tilbage,{T: I senere hebraisk kan grundtekstens *šillûḥîm* (egentlig: >>bortsendelse<<) betegne >>skilsmisse<<. Her er der dog tydeligvis blot tale om at Sippora var midlertidigt sendt hjem.}
+v3 og hendes to sønner, af hvilke den enes navn var Gershom;{T: Se note til 2,22} for han havde sagt: >>Jeg har været fremmed i et fremmed land<<.
+v4 Og den andens navn var Eliezer{T: Navnet betyder: >>min Gud er hjælp.<<}; >>for min fars Gud var min hjælp og har reddet mig fra Faraos sværd.<<
+v5 Og Jetro, Moses’ svigerfar, kom med hans sønner og hans hustru til Moses i ørkenen, hvor han havde slået lejr ved Guds bjerg.
+v6 Han lod sige{T: Ordret blot: >>han sagde<<, men der er tydeligvis tale om at han sendte bud fra indgangen til lejren.} til Moses: >>Jeg, din svigerfar Jetro, kommer til dig sammen med din hustru og hendes to sønner med hende.<<
+v7 Da gik Moses sin svigerfar i møde, kastede sig ned og kyssede ham, og den ene hilste{T: Ordret: >>ønskede (den anden) fred<<.} den anden, og de gik ind i teltet.
+v8 Moses fortalte sin svigerfar alt det JHVH havde gjort mod Farao og mod Egypten for Israels skyld, om al den trængsel der havde mødt dem på vejen, men JHVH havde reddet dem.
+v9 Jetro glædede sig over alt det gode JHVH havde gjort Israel, som han havde reddet af Egyptens hånd.
+v10 Og Jetro sagde: >>Lovet være JHVH, som reddede jer ud af Egyptens hånd og ud af Faraos hånd, og som reddede folket fra at være under Egyptens hånd.
+v11 Nu ved jeg at JHVH er stor frem for alle guder i det som de er overmodigt stolte af.<<{T: Oversættelsen af og meningen med sidste halvdel af verset er omdiskuteret og usikker. Ordret kunne den oversættes: >>for/netop i sagen, hvor de handlede mod dem i overmod.<< Som den står, er det formodentlig *guderne* der er subjekt. Den givne oversættelse forekommer rimelig, men må dog tages med forbehold. Mange oversættere opgiver helt at tage sidste halvdel af verset med.}
+v12 Så bragte Jetro, Moses’ svigerfar, brændoffer og slagtofre til Gud, Aron og alle Israels ældste kom for at holde måltid{T: Ordret: >>spise brød<<.} sammen med Moses’ svigerfar for Guds ansigt.
+
+==Jetro rådgiver Moses==
+v13 Og det skete den næste dag at Moses satte sig for at holde rettergang for folket, og folket stod foran Moses fra morgenen til aftenen.
+v14 Da Moses’ svigerfar så alt det han gjorde for folket, sagde han: >>Hvad er det du gør for folket? Hvorfor sidder du alene mens hele folket står foran dig fra morgen til aften?<<
+v15 Moses sagde til sin svigerfar: >>Fordi folket kommer til mig for at adspørge Gud.
+v16 Når de har en sag, kommer de til mig, så jeg dømmer mellem en mand og hans næste; og jeg kundgør dem Guds forordninger og hans love.<<
+v17 Da sagde Moses’ svigerfar til ham: >>Det du gør, er ikke godt.
+v18 Du bliver fuldstændig udmattet,{T: Den hebraiske tekst har verbet *נבל* (>>blive udmattet<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.}  både du og dette folk, som er med dig; for den opgave er for tung for dig, du kan ikke løse den alene.
+v19 Lyt nu til min røst, jeg vil give dig råd, og Gud skal være med dig: Du skal være for folket over for Gud, og du skal føre sagerne frem for Gud.
+v20 Og du skal indskærpe{T: Ordret: >>advare<<.} dem forordningerne og lovene og kundgøre dem vejen, de skal vandre på, og den gerning, de skal gøre.
+v21 Du skal af hele folket se dig om efter dygtige mænd som frygter Gud, pålidelige mænd, som hader uretmæssig vinding, og sætte dem over dem som førere over tusind, førere over hundred, førere over halvtreds og førere over grupper på ti.
+v22 De skal holde rettergang for folket til enhver tid, men det skal være sådan: Hver stor sag skal de bringe for dig, men hver lille sag skal de selv dømme i. Gør byrden let for dig, de skal bære den sammen med dig.
+v23 Hvis du vil gøre dette, og Gud befaler dig det, så kan du holde ud; og hele dette folk kan komme med fred til sit sted.<<{E: Det er uklart, om >>sted<< er betegnelse for deres hjem/telt eller for det sted, hvor deres sag skal pådømmes.}
+v24 Moses lyttede sin svigerfars røst og gjorde alt det, som han sagde.
+v25 Og Moses udvalgte dygtige mænd fra hele Israel og satte dem som overhoveder over folket, førere over tusind, førere over hundred, førere over halvtreds og førere over grupper på ti.
+v26 De holdt rettergang for folket til enhver tid; hver vanskelig sag skulle de bringe til Moses, og hver lille sag skulle de selv dømme.
+v27 Så lod Moses sin svigerfar tage af sted, og denne rejste til sit eget land.
+
