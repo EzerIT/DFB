@@ -17,10 +17,6 @@ makemenus(4);
               <h1 class="card-title">Andre formater</h1>
               
               <p class="card-text">En PDF-fil med de bibeltekster der er markeret »færdig« eller »delvis færdig«, kan downloades <a href="dfb.pdf">her</a>.</p>
-
-              <p class="card-text">Hos Saxo kan man gratis downloade <a href="https://www.saxo.com/dk/dommerbogen-den-frie-bibel_lydbog-download_9788771960266" target="_blank">Dommerbogen</a>
-              og <a href="https://www.saxo.com/dk/ruths-bog_lydbog-download_9788771960327" target="_blank">Ruths Bog</a>
-              som lydbøger, indtalt af Nicklas Lautrup-Meiner.</p>
             </div>
           </div>
         </div>

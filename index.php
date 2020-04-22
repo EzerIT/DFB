@@ -22,14 +22,11 @@ makemenus(0);
             engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-            <p>Af Det Gamle Testamente foreligger Fjerde Mosebog, Dommerbogen, Ruths Bog, Salmernes bog, Obadias&rsquo; Bog, Zakarias&rsquo; Bog og nogle få kapitler af andre
-            bøger. Forlægget har
-            været den danske oversættelse fra 1871, som er blevet moderniseret og opdateret med nye
-            resultater fra bibelforskningen.</p>
-
-                                                                                                                                         <p>Af Det Nye Testamente har vi en rå modernisering af Markusevangeliet, Første og Andet Korintherbrev ud fra den autoriserede
-             oversættelse fra 1907 samt
-             et forslag til en nyoversættelse af 1. Thessalonikerbrev direkte fra grundteksten.</p>
+            <p>Foreløbig er det kun nogle få kapitler der foreligger i mere eller mindre færdiggjort
+            grad. Forlægget har for det Gamle Testamentes vedkommende været den danske oversættelse
+            fra 1871, som er blevet moderniseret og opdateret med nye resultater fra bibelforskningen.
+            Den Nye Testamentes er blevet til ud fra den autoriserede oversættelse fra 1907
+            eller (for 1. Thessalonikerbrevs vedkommende) direkte fra grundteksten.</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af grundteksten som muligt, også på
