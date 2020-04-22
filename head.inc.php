@@ -90,7 +90,7 @@ echo <<<END
           <li class="nav-item dropdown $active4">
             <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Andre formater</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
-              <a class="dropdown-item" href="andreformater.php">PDF og lydbøger</a>
+              <a class="dropdown-item" href="andreformater.php">PDF-version</a>
               <a class="dropdown-item" href="logos.php">Logos Bible Software</a>
             </div>
           </li>
