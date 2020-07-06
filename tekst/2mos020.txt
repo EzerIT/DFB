@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.04.2020>!!
+!!<Dato for denne version: 07.06.2020>!!
 ===Anden Mosebog, kapitel 20===
 
 ==De ti bud{E: Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.}==
@@ -10,7 +10,7 @@ v1 Gud talte alle disse ord{E: I Mosebøgerne tales der strengt ikke om *de ti b
 v2 >>Jeg er JHVH din Gud,{T: Grundteksten kan også oversættes: >>Jeg, JHVH, er din Gud<<. Da Guds navn (JHVH) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.} som førte dig ud af Egyptens land, af trællehuset.
 v3 Du må ikke{T: Når nægtelsen *lōʔ* (>>ikke<<) efterfølges af verbum i wayyiqtol (imperfektum), kan det udtrykke stærkest muligt forbud når Gud taler til mennesker. Sådan må det opfattes her i buddene/ordene. Samtidig kan det dog ikke helt udelukkes at der også ligger en forjættelse i formuleringen om det som skal opfyldes i samlivet med Gud. En oversættelse kunne være: >>Du skal ikke have andre guder end mig!<< Tilsvarende gælder for de andre bud.} have andre guder end mig!{T: Ordret: >>Der må ikke for dig være andre guder foran mit ansigt / i mit nærvær<<. Meningen er enten som det er oversat her, eller: >>ved siden af mig<<.}
 v4 Du må ikke lave dig et gudebillede eller nogen som helst afbildning af det som er i himlen oventil, eller det som er på jorden nedentil, eller det som er i vandet under jorden.
-v5 Du må ikke tilbede dem og ikke dyrke dem; for jeg, JHVH din Gud, er en nidkær Gud som hjemsøger fædres skyld på børn, på dem i tredje og på dem i fjerde led af dem som hader mig;
+v5 Du må ikke tilbede dem og ikke tillade dig at tjene dem;{T: Kan også oversættes: >>ikke lade dig lede til at tjene dem<<.} for jeg, JHVH din Gud, er en nidkær Gud som hjemsøger fædres skyld på børn, på dem i tredje og på dem i fjerde led af dem som hader mig;
 v6 men viser nåde i tusind led mod dem som elsker mig, og mod dem som holder mine bud.
 v7 Du må ikke bruge{T: Ordret: >>løfte<<. Det er formodentlig underforstået: >>løfte op på læberne<<, altså bruge Guds navn.} JHVH din Guds navn til falskhed;{T: Ordret: >>intethed<<. Der er i sammenhængen tænkt både på falsk ed, løgn og på ligegyldig brug af Guds navn.} for JHVH vil ikke lade den ustraffet{T: Eller: >>erklære uskyldig<<} som bruger hans navn til falskhed.
 v8 Husk sabbatsdagen så du holder den hellig.
