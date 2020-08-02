@@ -392,7 +392,7 @@ echo<<<'END'
 \markright{}
 \tableofcontents*
 
-\chapter[Forord]{Fordord}\setcounter{footnote}{0}\setcounter{pagenote}{0}
+\chapter[Forord]{Forord}\setcounter{footnote}{0}\setcounter{pagenote}{0}
 \input{forord.tex}%
 
 
