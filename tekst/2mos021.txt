@@ -1,0 +1,53 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.08.2020>!!
+===Anden Mosebog, kapitel 21===
+
+==Retsregler for samfundslivet (21,1 – 23,19)==
+
+==Love om hebraiske trælle==
+v1 Dette er de retsregler som du skal forelægge dem:
+v2 >>Når du køber en hebraisk træl,{E: Der er ikke tale om almindelig slavehandel, men om at en israelit kunne komme i økonomiske vanskeligheder eller i gæld så han måtte sælge sig selv som >>træl<< - så at sige på en seksårig kontrakt.} skal han trælle i seks år, men i det syvende skal han gives fri for intet.
+v3 Hvis han kommer som enlig, skal han frigives{T: Ordret: >>gå ud<<.} som enlig; hvis han er en kvindes mand, skal hans hustru frigives sammen med ham.
+v4 Hvis hans herre giver ham en hustru, og hun føder ham sønner eller døtre, skal kvinden og hendes børn tilhøre hendes herre, og han selv skal frigives alene.{E: Der er formodentlig enten tale om at hun som hebraisk træl skal fuldende sin seksårs-kontrakt, eller at der er tale om en kana’anæisk kvinde der ikke er omfattet af lovene her.}
+v5 Men hvis trællen beslutsomt siger:{T: Den hebraiske tekst har verbet *ʔmr* (>>sige<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: >>beslutsomt<<.} >Jeg elsker min herre, min hustru og mine børn, jeg vil ikke gives fri,<
+v6 så skal hans herre føre ham frem for Gud{T: I den hebraiske tekst er der bestemt artikel foran >>Gud<< (*hāˀᵉlōhîm*). Der er to mulige forståelser: Enten kan det oversættes: >>dommerne<<, eller også (valgt her) som pointering af at der er tale om den sande Gud.} og føre ham hen til døren eller til dørstolpen, og hans herrer skal stikke en syl gennem hans øre; og han skal være hans træl for altid.
+v7 Men når en mand sælger sin datter til at være trælkvinde,{E: Der er i dette afsnit tale om en datter der bliver medhustru for ejeren eller hans søn. Hun er en del af familien og hendes børn får arveret. Derfor gælder lovene i vers 2-6 ikke for hende. Hun har status som gift kvinde. Bestemmelserne er en beskyttelse af hende. Når det drejer sig om en kvinde der bliver >>trælkvinde<< uden at blive hustru eller medhustru, gælder reglen i 5 Mos 15,12, hvor hun stilles lige med den mandlige træl (vers 2-6).} skal hun ikke frigives som trællene frigives.
+v8 Hvis hun vækker mishag i sin herres øjne, som har bestemt hende for sig selv, skal han lade hende købe fri; han har ikke ret til at sælge hende til et fremmed folk,{T: Det hebraiske *ʕam* (>>folk<<) bruges i en del sammenhænge generelt om >>mennesker<<. Det er absolut en mulighed her.} da han har handlet troløst mod hende.
+v9 Men hvis han bestemmer hende for sin søn, skal han behandle hende med døtrenes rettighed.
+v10 Hvis han tager sig en anden, må han ikke skære ned på hendes mad,{T: Ordret: >>kød<<. Bestemmelsen går formodentlig på, at hun skal have del i familiens mad og ikke nøjes med trællenes ringere mad.} hendes klædning eller ægteskabelige omgang.
+v11 Men hvis han ikke yder hende disse tre ting, skal hun frigives for intet, uden betaling.<<
+
+==Love om dødsstraf==
+v12 >>Den som slår et menneske så det dør, skal afgjort{T: Se note til vers 5.} lide døden.
+v13 Har han imidlertid ikke ligget på lur efter ham, men Gud har ladet det ske ved hans hånd, så vil jeg anvise dig et sted, hvor han skal flygte hen.
+v14 Men hvis en mand behandler sin næste overmodigt for at slå ham ihjel med list, så skal du tage ham bort fra mit alter for at han skal lide døden.
+v15 Den som slår sin far eller mor, skal afgjort lide døden.
+v16 Den som stjæler et menneske og sælger det eller det findes i hans varetægt, skal afgjort lide døden.
+v17 Den som forbander sin far eller sin mor, skal afgjort lide døden.<<
+
+==Love om legemsbeskadigelse==
+v18 >>Når mennesker strides, og den ene slår sin næste med en sten eller med knytnæve,{T: Betydningen af *ʔegrōf* er omdiskuteret. De fleste opfatter det som >>knytnæve<<, andre oversætter ved: >>jordknold<<.} og han ikke dør, men må holde sengen – 
+v19 hvis han kommer op igen og går omkring udenfor ved sin stok, så skal den som slog, være fri for straf; dog skal han betale for hans tabte tid, og han skal sørge for hans fuldkomne helbredelse.
+v20 Når en mand slår sin træl eller sin trælkvinde med sin stok{T: Ordret: >>med stokken<<.} så de dør under hans hånd, skal det afgjort hævnes.
+v21 Men hvis vedkommende lever{T: Ordret: >>står op<<, måske i modsætning til at ligge eller at dø. } en dag eller to, skal det ikke hævnes; for vedkommende er hans penge.
+v22 Når mænd kommer op at slås og skubber til en gravid kvinde så hendes barn{T: Den hebraiske tekst har flertal: >>børn<<.} fødes, men der ikke sker ulykke, skal der betales en bøde som kvindens mand pålægger ham, og han skal betale hos dommerne.
+v23 Men hvis der sker ulykke, skal du give liv for liv,
+v24 øje for øje, tand for tand, hånd for hånd, fod for fod,
+v25 brandsår for brandsår, sår for sår, flænge for flænge.
+v26 Når en mand slår sin træls øje eller sin trælkvindes øje og ødelægger det, skal han give vedkommende fri som erstatning for øjet.
+v27 Og hvis han slår sin træls tand eller sin trælkvindes tand ud, skal han give vedkommende fri som erstatning for tanden.<<
+
+==Love om ansvar for okser og brønde==
+>>v28 Når en okse stanger en mand eller en kvinde så vedkommende dør, skal oksen afgjort{T: Se note til vers 5.} stenes til døde, og dens kød må ikke spises; men oksens ejer skal være uden skyld.
+v29 Men hvis oksen forud{T: Ordret: >>i går og i forgårs<<.} var stangende, og dens ejer var blevet advaret, men ikke havde passet på den, og den så dræber en mand eller en kvinde, så skal oksen stenes, og dens ejer skal også lide døden.
+v30 Men hvis der bliver pålagt ham en bod, skal han betale løsepenge for sit liv, alt efter hvad der pålægges ham.
+v31 Hvad enten den stanger en søn, eller den stanger en datter, skal man handle med ham efter denne retsregel.
+v32 Hvis oksen stanger en træl eller trælkvinde, skal han{E: Det er oksens ejer.} give vedkommendes herre tredive sekel sølv, og oksen skal stenes til døde.
+v33 Når en mand åbner en brønd, eller når en mand graver en brønd, men ikke dækker den til, og der falder en okse eller et æsel i den,
+v34 skal brøndens ejer yde erstatning, han skal give penge til dets ejer, og det døde dyr skal være hans.
+v35 Når en mands okse stanger en anden mands okse så den dør, skal de sælge den levende okse og dele pengene for den, og de skal også dele den døde.
+v36 Hvis det var kendt at oksen forud{T: Ordret: >>i går og i forgårs<<.} var stangende uden at dens ejer passede på den, skal han afgjort betale en okse for oksen, og den døde skal være hans.<<
+

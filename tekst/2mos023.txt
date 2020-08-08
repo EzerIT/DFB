@@ -1,0 +1,46 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.08.2020>!!
+===Anden Mosebog, kapitel 23===
+
+==Love om retfærdighed for alle==
+v1 >>Du må ikke tage en løgn op;{T: Der kan også oversættes: >>du må ikke starte en løgn<<. Verset forstås ofte som forbud mod at sprede falsk rygte.} du må ikke række din hånd ud til en skyldig{T: Det hebraiske *rāšāʕ* kan også oversættes: >>ugudelig<<.} ved at være et falsk{T: Det hebraiske *ḥāmās* skal i mange sammenhænge oversættes: >>vold/uret<<. Det må spille med i betegnelsen >>falsk<<.} vidne.
+v2 Du må ikke følge mængden i at øve ondt, og du må ikke svare i en retssag for at rette ind efter mængden i at bøje retten,
+v3 og en fattig må du ikke begunstige i hans retssag.
+v4 Når du møder din fjendes okse eller hans æsel, som er på afveje, skal du afgjort bringe{T: Den hebraiske tekst har verbet *šwb* (>>bringe tilbage<<) to gange: Først som infinitiv og derefter som hif’il yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: >>afgjort<<.} dem tilbage til ham.
+v5 Når du ser din uvens æsel segne{T: Ordret: >>ligge<<.} under sin byrde, så lad være med at overlade det til ham; du skal afgjort befri det for ham.
+v6 Du må ikke bøje retten for den fattige hos dig i hans retssag.
+v7 Du skal holde dig langt væk fra en løgnagtig sag, og en uskyldig og retfærdig må du ikke dræbe;{E: Underforstået: Ved en uretfærdig retssag.} for jeg erklærer ikke den skyldige retfærdig.
+v8 Du må ikke tage imod bestikkelse, for bestikkelsen gør klartseende blinde og fordrejer de retfærdiges ord.{T: *dāvār* kan også oversættes: >>sag<<.}
+v9 Du må ikke undertrykke en fremmed. I kendte selv den fremmedes kår da I var fremmede i Egyptens land.<<
+
+==Love om det religiøse år==
+v10 >>Seks år skal du tilså dit land{E: Det hebraiske *ʔereṣ* kan betyde både >>jord<< og >>land<<. Denne dobbelthed kan vanskeligt fremgå på dansk. Men buddet sigter både på den enkelte (>>jord<<) og på hele folket (>>land<<).} og samle dets afgrøde;
+v11 men i det syvende skal du lade det ubenyttet og lade det være, men dit folks fattige må få føde af det, og hvad der levnes, må markens vilde dyr æde. Sådan skal du også gøre med din vingård og med dit oliventræ.
+v12 Seks dage skal du gøre dit arbejde, men på den syvende dag skal du hvile,{E: Roden i verbet *šbt* er den samme som i >>sabbat<<. Der kunne også oversættes: >>skal du holde sabbat<<.} for at din okse og dit æsel kan hvile, og din trælkvindes søn og den fremmede kan rekreere.
+v13 Alt det jeg har sagt til jer, skal I holde; I må ikke nævne andre guders navn, det må ikke høres fra din mund.
+v14 Tre gange{T: Det er omdiskuteret, om *rᵊgālîm* kan betyde >>gange<<. Ordet *regel* (egentlig: >>fod<<) optræder kun her og i 4 Mos 22,28.32.33 i pluralis, men ofte i GT i singularis og dualis, og da om fod/fødder eller eventuelt eufemistisk om kønsdele. Her kunne man overveje at oversætte: >>tre vandrefester/valfartsfester skal du fejre for mig hvert år<<. I parallellen v. 17 er der brugt det normale *pᵊʕāmîm* (>>gange<<).} om året skal du fejre fest for mig. 
+v15 Du skal holde de usyrede brøds fest; syv dage skal du spise usyrede brød, sådan som jeg befalede dig om den fastsatte tid i måneden abib, for i den drog du ud af Egypten; og ingen må{T: Ordret: >>de må ikke vise sig<<.} vise sig tomhændet for mit ansigt.
+v16 Og kornhøstfesten, førstegrøden af dit arbejde som du har sået på marken, og frugthøstfesten ved årets udgang, når du har samlet dit arbejdes frugt af marken.
+v17 Tre gange om året skal alt dit mandkøn vise sig{T: Nogle oversættere vælger ud fra parallellen i 34,23 en tekstrettelse: *yērāʔeh* (>>vise sig<<) til: *yirʔeh*: >>se<<.} for Herrens, JHVHs, ansigt.
+v18 Du må ikke ofre mit slagtoffers blod sammen med syrnet brød, og fedtet fra min fest må ikke blive liggende natten over til om morgenen.
+v19 Det første af din jords førstegrøde skal du bringe til JHVH din Guds hus. Du må ikke koge et kid i dets mors mælk.<<
+
+==Løfte om indtagelse af landet==
+v20 >>Se, jeg sender en engel foran dig til at bevare dig på din vej og til at føre dig til det sted som jeg har beredt.
+v21 Giv agt på ham{T: Ordret: >>vogt dig foran hans ansigt<<.} og adlyd hans røst, du må ikke forbitre{T: Ofte foretages der en mindre ændring i vokaliseringen af grundtekstens: *tammer* (>>forbitre<<) til *temer*: >>trodse<<. Ændringen kan understøttes af, at verbet følges af præpositionen *bᵊ* (>>ved/med/mod<<).} ham, for han vil ikke tilgive jeres overtrædelser, for mit navn er i ham.
+v22 Men hvis du omhyggeligt adlyder{T: Den hebraiske tekst har verbet *šmʕ* (>>lytte/adlyde<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: >>omhyggeligt<<.} hans røst og gør alt det jeg siger, så vil jeg være fjende for dine fjender, og jeg vil være modstander for dine modstandere.
+v23 For min engel skal gå foran dig{T: Ordret: >>foran dit ansigt<<.} og føre dig til amoritterne og hittitterne og perizzitterne og kana’anæerne og hivvitterne og jebusitterne; og jeg vil udslette dem.
+v24 Du må ikke tilbede deres guder og ikke tillade dig at tjene dem{T: Kan også oversættes: >>ikke lade dig lede til at tjene dem<<.} og ikke gøre som de gør;{T: Ordret: >>gøre som deres handlinger<<.} men du skal omhyggeligt rive dem ned og knuse deres stenstøtter.
+v25 Men I skal tjene JHVH jeres Gud, så vil han velsigne dit brød og dit vand; og jeg vil fjerne sygdom fra dig. 
+v26 Der skal ikke være nogen som aborterer eller er ufrugtbar i dit land. Jeg vil fylde dine dages tal.
+v27 Jeg vil sende rædsel for mig foran dig{T: Ordret: >>foran dit ansigt<<.} og forvirre hvert folk, som du kommer til, og jeg vil få alle dine fjender til at vende nakken til dig.
+v28 Jeg vil sende modløsheden foran dig, som skal fordrive hivvitterne, kana’anæerne og hittitterne foran dig. 
+v29 Jeg vil ikke fordrive dem fra dit ansigt på ét år, for at landet ikke skal blive øde og markens vilde dyr blive for talrige for dig.
+v30 Lidt efter lidt vil jeg fordrive dem fra dit ansigt, indtil du bliver mangfoldig og har taget landet i besiddelse.
+v31 Jeg sætter din grænse fra Sivhavet til filistrenes hav og fra ørkenen{E: I syd.} til floden;{E: Det er Eufratfloden.} for jeg vil give landets indbyggere i jeres magt{T: Ordret: >>hånd<<.} og du skal fordrive dem fra dit ansigt.
+v32 Du må ikke slutte pagt med dem eller med deres guder. 
+v33 De må ikke bo i dit land for at de ikke skal få dig til at synde mod mig så du tjener deres guder, for det ville blive en snare for dig.<<
+

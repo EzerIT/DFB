@@ -1,0 +1,34 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.08.2020>!!
+===Anden Mosebog, kapitel 27===
+
+==Forordning om brændofferalteret==
+v1 >>Du skal lave alteret af akacietræ, fem alen langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.
+v2 Du skal lave dets horn på dets fire hjørner, dets horn skal være i ét med det; og du skal beklæde det med bronze.
+v3 Og du skal lave dets spande til dets fedtaske{T: Grundstammen i det hebraiske ord er roden: *dšn*, der oftest angiver >>fedt<<, men også bruges om den fede aske, der er tilbage efter at et offer er brændt.} og dets skovle, dets stænkeskåle, dets gafler og dets fyrbækkener: Alle dets redskaber skal du lave af bronze.
+v4 Du skal lave et gitterværk til det, lavet som et bronzenetværk; og på netværket skal du anbringe fire bronzeringe i dets fire hjørner.
+v5 Du skal anbringe det forneden, under alterets indfatning, og netværket skal nå indtil midt på alteret.
+v6 Du skal også lave bærestænger til alteret, bærestænger af akacietræ, og du skal beklæde dem med bronze.
+v7 Dets bærestænger skal anbringes i ringene, og bærestængerne skal være på begge sider af alteret når det bliver båret.
+v8 Det skal være hult, du skal lave det af brædder; som du fik det at se{T: Ordret: >>som han lod dig se<<, men verbet er her brugt upersonligt.} på bjerget, skal de lave det.<<
+
+==Forordning om forgården==
+v9 >>Du skal også lave en forgård til boligen: Ved den søndre side, mod syd, forhæng til forgården af tvundet, fint linned, hundred alen langt på den ene side;
+v10 og deres{E: Henviser til >>forhæng<<, der er pluralis. Det gælder også i de følgende vers.} stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.
+v11 Og ligeledes med længden ved den nordre side: forhæng hundred alen{T: Ordet: *ʔammāʰ * (>>alen<<) står ikke her i den hebraiske tekst, men er underforstået.} langt, og dets{T: Her er muligvis en skrivefejl i den hebraiske tekst, så der skulle oversættes: >>deres<<. I alle de andre vers henvises der til, at >>forhæng<< er pluralis} stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.
+v12 Forgårdens bredde ved den vestre side skal have forhæng på halvtreds alen; deres ti stolper og deres ti fodstykker.
+v13 Og forgårdens bredde ved den østre side, mod øst, skal være halvtreds alen.
+v14 Femten alen skal forhængene være til den ene side, med deres tre stolper og deres tre fodstykker,
+v15 og til den anden side forhæng på femten alen, med deres tre stolper og deres tre fodstykker.{E: Den østlige side har altså en åbning i midten på 20 alen og forhæng til begge sider på 15 alen.}
+v16 Men for forgårdens port skal der være et tæppe, tyve alen langt, af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, lavet af en der laver broget vævning, med dets fire stolper og deres fire fodstykker. 
+v17 Alle stolperne i forgården hele vejen rundt skal være forbundne med sølv;{T: Det er ikke i grundteksten angivet, om det skal være med tværstænger eller bånd.} deres kroge af sølv og deres fodstykker af bronze. 
+v18 Forgårdens længde skal være hundred alen og bredden halvtreds og halvtreds, højden fem alen, af tvundet, fint linned, og fodstykkerne dertil af bronze. 
+v19 Alle boligens redskaber til alt arbejdet ved den og alle dens pløkker og alle forgårdens pløkker skal være af bronze.<<
+
+==Forordning om olien til lysestagen==
+v20 >>Og du skal pålægge Israels børn at de skal skaffe dig ren, knust{E: Af knuste oliven i modsætning til presset olie.} olivenolie til lysestagen, så man kan sætte en evig lampe frem.{T: Ordret: >>løfte en evig lampe op<<. Dermed menes der enten, at man tænder den, eller at man sætter lamperne op på den syvarmede lysestage.}
+v21 I Åbenbaringsteltet{E: Ordret: >>mødeteltet<<. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: >>møde/komme sammen<<, men om Gud oversættes det oftest: >>åbenbare sig<< (25,22).} uden for forhænget som hænger foran Vidnesbyrdet, skal Aron og hans sønner gøre den i stand fra aften til morgen for Herrens ansigt; det skal være en evig forordning for deres efterkommere hos Israels børn.<<
+

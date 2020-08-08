@@ -83,7 +83,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/HERREN/';
     $to[] = '\\JHVH{}';
     
-    $from[] = '/([^a-z])v([0-9]+)[\n ]*/';
+    $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1\\bverse{\2}';
 
     $from[] = '/\n *\n/';
@@ -381,7 +381,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{02.08.2020}
+\date{08.08.2020}
 
 
 \begin{document}

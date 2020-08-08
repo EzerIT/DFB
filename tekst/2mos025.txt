@@ -1,0 +1,60 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.08.2020>!!
+===Anden Mosebog, kapitel 25===
+
+==Forordninger om helligdommen (25,1-27,21)==
+
+
+==Afgifter til helligdommen==
+v1 JHVH talte til Moses og sagde:
+v2 >>Sig til Israels børn at de skal udtage en afgift til mig; fra hver mand, hvis hjerte ansporer ham dertil, skal I modtage afgiften til mig.
+v3 Og dette er den afgift, som I skal modtage fra dem: guld og sølv og bronze
+v4 og purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, fint linned og gedeuld,
+v5 rødfarvede vædderskind og delfinskind{T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<} og akacietræ,
+v6 olie til lampen, balsam til salvningsolien og til vellugtende røgelse,
+v7 shoham-sten{T: Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord antyder, at stenen må være rødlig; karneol er måske det bedste bud.} og sten til at sætte på efoden og til brystskjoldet.
+v8 De skal lave mig en helligdom, og så vil jeg bo iblandt dem.
+v9 Efter alt det jeg viser dig, modellen af boligen{E: Tidligere oversat: >>tabernakel<<. Det hebraiske ord *miškān* betyder egentlig: >>telt/opholdssted<<.} og modellen af alle dens redskaber – netop sådan skal I lave den.<<
+
+==Pagtens ark==
+v10 >>De skal lave en ark af akacietræ, to og en halv alen lang{T: Ordret: >>dens længde to og en halv alen, …<<} og halvanden alen bred og halvanden alen høj.
+v11 Og du skal beklæde den med purt guld; indeni og udenpå skal du beklæde den, og på den skal du lave en guldkant rundt om den.
+v12 Du skal støbe fire guldringe til den og sætte dem på dens fire fødder, nemlig to ringe på dens ene side og to ringe på dens anden side.
+v13 Og du skal lave bærestænger af akacietræ og beklæde dem med guld,
+v14 og du skal stikke bærestængerne ind i ringene på siderne af arken, så man kan bære arken med dem.
+v15 Bærestængerne skal blive i arkens ringe, de må ikke vige fra den.
+v16 Og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.<<
+
+==Sonedækket==
+v17 >>Så skal du lave et sonedække{E: Tidligere oversat: >>nådestol<<.} af purt guld, to og en halv alen langt og halvanden alen bredt,
+v18 og du skal lave to keruber af guld; du skal lave dem som udhamret arbejde ud fra de to ender af sonedækket.
+v19 Lav altså én kerub på den ene ende og én kerub på den anden ende; i ét med sonedækket skal I lave keruberne i begge dets ender.
+v20 Keruberne skal brede vinger opad, så de dækker over sonedækket med deres vinger, og deres ansigter skal vende den ene mod den anden: mod sonedækket skal kerubernes ansigter være vendt.
+v21 Du skal anbringe sonedækket oven på arken, og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.
+v22 Og der vil jeg åbenbare mig for dig og tale med dig fra over sonedækket, fra mellem de to keruber som er oven på Vidnesbyrdets ark, alt det jeg vil befale dig angående Israels børn.<<
+
+==Skuebrødsbordet==
+v23 >>Du skal lave et bord af akacietræ, to alen langt{T: Ordret: >>to alen dets længde<<.} og en alen bredt og halvanden alen højt
+v24 og beklæde det med purt guld, og til det skal du lave en guldkant rundt om det.
+v25 Og på det skal du lave en liste på en håndsbredde rundt om det og lave en guldkrans om dets liste rundt om det. 
+v26 Du skal også lave fire ringe af guld til det og sætte ringene i de fire hjørner som er ved dets fire fødder.
+v27 Ringene skal være tæt ved listen som holdere for bærestængerne til at bære bordet.
+v28 Du skal lave bærestængerne af akacietræ og beklæde dem med guld, og med dem skal bordet bæres.
+v29 Du skal lave dets fade, dets skåle, dets kander og dets offerskåle, ved hvilke der skal udgydes drikoffer;{T: Ordet >>drikoffer<< står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen >>offerskåle<<.} af purt guld skal du lave dem.
+v30 Og på bordet skal du til stadighed lægge skuebrød for mit ansigt.<<
+
+==Lysestagen==
+v31 >>Og du skal lave en lysestage af purt guld; som udhamret arbejde skal du lave lysestagen, dens fod og selve stagen,{T: Ordret: >>dens rør<< (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.} dens bægre, dens knopper og dens blomster skal gå i ét med den.{T: Ordret: >>skal være fra den<<. Hele stagen skal laves ud af ét stykke guld.}
+v32 Og der skal gå seks arme{T: Ordret: >>rør<<.} ud fra dens sider; tre af lysestagens arme fra dens ene side og tre af lysestagens arme fra dens anden side.
+v33 Der skal være tre bægre formede som mandelblomster på den første arm, knop og blomst, og tre bægre formede som mandelblomster på den anden arm, knop og blomst; sådan skal det være på de seks arme der går ud fra lysestagen.
+v34 Men på lysestagen skal der være fire bægre formede som mandelblomster med dens knopper og dens blomster;
+v35 nemlig en knop under de to arme på den og en knop under de to andre arme på den og en knop under de to øvrige arme på den; ved de seks arme, som går ud fra lysestagen.
+v36 Deres knopper og deres arme skal være i ét med den; det hele skal være ét udhamret arbejde af purt guld.
+v37 Du skal lave dens lamper, syv, og man skal sætte dens lamper op så den lyser ud foran den.{T: Ordret: >>på den modsatte side foran den<<.}
+v38 Dens lysesakse og dens fyrbækkener skal være af purt guld.
+v39 Af en talent purt guld skal man lave den med alle disse redskaber.
+v40 Og se til og lav tingene efter det forbillede for dem, som du fik vist på bjerget.<<
+

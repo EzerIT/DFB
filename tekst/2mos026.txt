@@ -1,0 +1,52 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.08.2020>!!
+===Anden Mosebog, kapitel 26===
+
+==Pagtsteltets indre==
+v1 >>Men boligen{E: Se note til 25,9.} skal du lave af ti teltduge; af tvundet, fint linned og purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, med{T: Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.} kunstfærdigt forarbejdede keruber skal du lave dem.
+v2 Hver teltdug skal være otteogtyve alen lang, og hver teltdug skal være fire alen bred; alle teltduge skal have samme mål.
+v3 De fem teltduge skal fæstes sammen, én til den anden; og atter fem teltduge skal fæstes sammen, én til den anden.
+v4 Og du skal lave løkker af purpurblå uld på den ene teltdugs kant, for enden af rækken; og du skal gøre ligesådan i den yderste teltdugs kant i den anden samling.
+v5 Du skal lave halvtreds løkker på den ene teltdug og lave halvtreds løkker yderst på den teltdug, der er i den anden samling; stropperne skal være den ene overfor den anden.
+v6 Og du skal lave halvtreds guldhager og fæste teltdugene, den ene til den anden, med hagerne, så boligen bliver en helhed.<<{T: Ordret: >>bliver ét<<.}
+
+==Pagtsteltets ydre==
+v7 >>Du skal lave teltduge af gedehår til et telt over boligen; som elleve teltduge skal du lave dem. 
+v8 Hver teltdug skal være tredive alen lang, og hver teltdug skal være fire alen bred; de elleve teltduge skal have ét mål.
+v9 Du skal sætte de fem teltduge sammen for sig og de seks teltduge for sig, og den sjette teltdug skal du lægge dobbelt ved forsiden af boligen.
+v10 Du skal lave halvtreds løkker i kanten af den ene teltdug som er yderst i rækken, og halvtreds løkker i kanten af teltdugen i den anden række.
+v11 Du skal lave halvtreds bronzehager og spænde hagerne i løkkerne; og du skal sammenføje teltet, så det bliver en helhed.
+v12 Men det overskydende nedhæng af teltets teltduge, den halve teltdug som er tilovers, skal du lade hænge ned over boligens bagside,
+v13 og den alen på den ene side og den alen på den anden side, som er tilovers i længden af teltets teltdug, skal hænge ned over hver sin side{T: Ordret: >>på den side og den side<<.} af teltet for at dække det.
+v14 Du skal lave et dække over teltet af rødfarvede vædderskind og et dække derover af delfinskind.<<{T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<}
+
+==Pagtsteltets planker==
+v15 >>Du skal lave plankerne til boligen af akacietræ, de skal være lodrette.
+v16 Hver planke skal være ti alen lang og halvanden alen bred.
+v17 Der skal være to tappe i hver planke, den ene forbunden med den anden; sådan skal du lave alle boligens planker.
+v18 Du skal lave plankerne til boligen; tyve planker til sydsiden, mod syd,
+v19 og du skal lave fyrre fodstykker af sølv under de tyve planker, to fodstykker under den ene planke til dens to tappe, og to fodstykker under den anden planke til dens to tappe.
+v20 Og til boligens anden side, til nordsiden, tyve planker
+v21 og deres fyrre fodstykker af sølv, to fodstykker under den ene planke og to fodstykker under den anden planke.
+v22 Til bagsiden af boligen, mod vest, skal du lave seks planker. 
+v23 Og du skal lave to planker til boligens hjørner i bagsiden,
+v24 og de skal være tvillinger{E: Der er formodentlig tale om et teknisk udtryk. Meningen er nok, at det skal være dobbeltplanker med én dobbeltplanke i hvert hjørne.} forneden og samtidig samlede foroven i én ring; sådan skal det være med dem begge, de skal være til de to hjørner.
+v25 Der skal være otte planker og deres fodstykker af sølv, seksten fodstykker; to fodstykker under den ene planke og to fodstykker under den anden planke.
+v26 Du skal lave tværlægter af akacietræ: fem til plankerne i boligens ene side, 
+v27 og fem tværlægter til plankerne i boligens anden side, og fem tværlægter til plankerne i boligens side bagtil, mod vest.
+v28 Den midterste tværlægte, midt på plankerne, skal gå tværs over fra den ene ende til den anden.
+v29 Du skal beklæde plankerne med guld og lave deres ringe af guld til holdere for tværlægterne; og du skal beklæde tværlægterne med guld.
+v30 Så skal du rejse boligen efter dens forskrift, som blev vist dig på bjerget.<<
+
+==Pagtsteltets forhæng==
+v31 >>Og du skal lave et forhæng af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber skal man{T: Eller: >>han<<, nemlig kunstneren.} lave det.
+v32 Du skal anbringe det på fire stolper af akacietræ, som er beklædt med guld og har kroge af guld og står på fire fodstykker af sølv.
+v33 Og du skal hænge forhænget under hagerne. Så skal du bringe Vidnesbyrdets ark derhen, inden for forhænget, og forhænget skal danne skel for jer mellem det Hellige og det Allerhelligste,
+v34 og du skal lægge sonedækket på Vidnesbyrdets ark i det Allerhelligste.
+v35 Men du skal sætte bordet uden for forhænget, og lysestagen over for bordet, ved boligens side mod syd; men bordet skal du sætte ved siden mod nord.
+v36 Du skal lave et tæppe til teltets indgang af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, lavet af en der laver broget vævning.
+v37 Du skal lave fem stolper af akacietræ til tæppet og beklæde dem med guld, deres kroge skal være af guld; og du skal støbe fem fodstykker af bronze til dem.<<
+

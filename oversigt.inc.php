@@ -1,6 +1,6 @@
 <?php
 
-$chap['2mos']     = range(1,20);
+$chap['2mos']     = range(1,30);
 $chap['4mos']     = range(1,36);
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
