@@ -41,6 +41,21 @@ makemenus(0);
             man ønsker teksten vist med eller uden versnumre, med eller uden fodnoter osv. Her kan man
             også vælge mellem forskellige skrifttyper.</p>
 
+
+          <h2>Direkte links</h2>
+
+          <p>Det er muligt at linke direkte til et kapitel eller et antal vers i teksten. Følgende
+          eksempler viser hvordan en URL konstrueres:</p>
+
+          <p>Link til Dommerbogen kapitel 5:</p>
+          <pre>     https://denfriebibel.dk/show.php?bog=dom&kap=5</pre>
+
+          <p>Link til Dommerbogen kapitel 5 vers 8-10:</p>
+          <pre>     https://denfriebibel.dk/show.php?bog=dom&kap=5&fra=8&til=10</pre>
+
+          <p>De bogforkortelser der benyttes i disse URL'er, finder man nemmest ved at åbne et bestemt
+              kapitel på normal vis og iagttage sidens URL.</p>
+          
           <h2>Kommentarer</h2>
 
           <p>Kommentarer og spørgsmål kan sendes til Claus Tøndering (<span id="cloak6668">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
