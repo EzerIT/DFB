@@ -60,7 +60,7 @@ makemenus(3);
 
               <h2>Frem&shy;gangs&shy;måde</h2>
 
-              <p>For det Gamle Testamentes vedkommende er fremgangsmåden denne: Den danske udgave af GT
+              <p>For det Gamle Testamentes (og visse dele af det Nye Testamentes) vedkommende er fremgangsmåden denne: Den danske udgave af GT
                 fra 1871 eller NT fra 1907 »oversættes« til moderne dansk. Derefter vil moderniseringen blive gennemgået af
                 hebraisk- eller græskkyndige eksegesefolk, der sammenholder den med den nyeste bibelforskning. I
                 fællesskab når oversætter og teolog så frem til et resultat der ligger så tæt på
