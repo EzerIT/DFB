@@ -80,6 +80,7 @@ echo <<<END
 END;
     menuitem('Hjem','index.php',$thisnum===0);
     menuitem('Bibeltekst','tekst.php',$thisnum===2);
+    menuitem('Prædikentekster','praed.php',$thisnum===6);
     menuitem('Læseoplevelse','format.php',$thisnum===1);
 
     $active3 = $thisnum===3 ? "active" : "";
