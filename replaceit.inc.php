@@ -14,17 +14,19 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $txt = preg_replace("/(===[^=]+===).*(v$from_verse )/s",'\1\2',$txt);
 
 
-    // Find first verse > $to_verse
-    $matches=array();
-    $offset=0;
-    while ($found = preg_match('/v([0-9]+)/',$txt,$matches,PREG_OFFSET_CAPTURE,$offset)) {
-        $offset = $matches[1][1];
-        if (intval($matches[1][0]>$to_verse))
-            break;
+    if ($to_verse>0) {
+        // Find first verse > $to_verse
+        $matches=array();
+        $offset=0;
+        while ($found = preg_match('/v([0-9]+)/',$txt,$matches,PREG_OFFSET_CAPTURE,$offset)) {
+            $offset = $matches[1][1];
+            if (intval($matches[1][0]>$to_verse))
+                break;
             
+        }
+        if ($found)
+            $txt = substr($txt,0,$offset-1);
     }
-    if ($found)
-        $txt = substr($txt,0,$offset-1);
     
     global $nextletter;
     $nextletter = 'a';
