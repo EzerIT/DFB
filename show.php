@@ -238,7 +238,7 @@ makemenus(null);
       <div class="row justify-content-center d-flex d-lg-none">
         <div class="col-sm-8 col-md-6">
           <div class="card mt-3">
-            <h1 class="card-header bg-info text-light">bVælg <?= $chaptype[$bog] ?></h1>
+            <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
             <div class="card-body pl-1 pl-sm-3 pr-0">
               <?php pagination($bog,$kap); ?>
             </div>
