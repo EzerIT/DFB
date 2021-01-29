@@ -13,10 +13,12 @@ $chap['sef']      = range(1,3);
 $chap['hab']      = range(1,3);
 $chap['zak']      = range(1,14);
 
+$chap['matt']     = array(3);
 $chap['mark']     = range(1,16);
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
+$chap['1pet']     = array(3);
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
@@ -37,10 +39,12 @@ $title['sef']     = 'Sefanias&rsquo; Bog';
 $title['hab']     = 'Habakkuks Bog';
 $title['zak']     = 'Zakarias&rsquo; Bog';
 $title['NT']      = 'Det Nye Testamente';
+$title['matt']    = 'Matthæusevangeliet';
 $title['mark']    = 'Markusevangeliet';
 $title['1kor']    = 'Første Korintherbrev';
 $title['2kor']    = 'Andet Korintherbrev';
 $title['1thess']  = 'Første Thessalonikerbrev';
+$title['1pet']    = 'Første Petersbrev';
 
 $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
@@ -58,10 +62,12 @@ $chaptype['nah']  = 'kapitel';
 $chaptype['sef']  = 'kapitel';
 $chaptype['hab']  = 'kapitel';
 $chaptype['zak']  = 'kapitel';
+$chaptype['matt'] = 'kapitel';
 $chaptype['mark'] = 'kapitel';
 $chaptype['1kor'] = 'kapitel';
 $chaptype['2kor'] = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
+$chaptype['1pet'] = 'kapitel';
 
 $abbrev['2mos'] = '2 Mos';
 $abbrev['4mos'] = '4 Mos';
@@ -75,15 +81,19 @@ $abbrev['nah']  = 'Nah';
 $abbrev['sef']  = 'Sef';
 $abbrev['hab']  = 'Hab';
 $abbrev['zak']  = 'Zak';
+$abbrev['matt'] = 'Matt';
 $abbrev['mark'] = 'Mark';
 $abbrev['1kor'] = '1 Kor';
-$abbrev['2kor'] = '1 Kor';
+$abbrev['2kor'] = '2 Kor';
 $abbrev['1thess'] = '1 Thess';
+$abbrev['1pet'] = '1 Pet';
 
 $style['2mos']    = 'btn-info';
 $style['4mos']    = 'btn-info';
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
+$style['matt']    = 'btn-secondary';
+$style['1pet']    = 'btn-secondary';
 
 $style['sl'] = array();
 for ($k=1; $k<=135; ++$k)

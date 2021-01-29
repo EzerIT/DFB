@@ -17,6 +17,7 @@ makemenus(2);
             <h1 class="card-header bg-success text-light">Farvekoden</h1>
             <div class="card-body">
               <p>Farvekoden angiver <a href="modenhed.php">modenheden</a> af teksten i de enkelte kapitler:</p>
+              <p class="d-inline"><span style="width: 130px;" class="btn btn-sm btn-secondary">Ufuldstændigt</span></p>
               <p class="d-inline"><span style="width: 130px;" class="btn btn-sm btn-warning">Rå oversættelse</span></p>
               <p class="d-inline"><span style="width: 130px;" class="btn btn-sm btn-info">Delvis færdig</span></p>
               <p class="d-inline"><span style="width: 130px;" class="btn btn-sm btn-success">Færdig</span></p>
@@ -59,6 +60,7 @@ makemenus(2);
             <h1 class="card-header bg-success text-light">Farvekoden</h1>
             <div class="card-body">
               <p>Farvekoden angiver <a href="modenhed.php">modenheden</a> af teksten i de enkelte kapitler:</p>
+              <p><span style="width: 130px;" class="btn btn-sm btn-secondary">Ufuldstændigt</span></p>
               <p><span style="width: 130px;" class="btn btn-sm btn-warning">Rå oversættelse</span></p>
               <p><span style="width: 130px;" class="btn btn-sm btn-info">Delvis færdig</span></p>
               <p><span style="width: 130px;" class="btn btn-sm btn-success">Færdig</span></p>

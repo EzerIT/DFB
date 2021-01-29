@@ -41,22 +41,26 @@ function refg($book,$chap,$from=0,$to=0) {
               kirkeårets prædikentekster i den danske folkekirke.</p>
           <p>Et klik på Ⓗ eller Ⓖ giver adgang til den hebraiske eller græske grundtekst.</p>
 
-          <table class="table table-striped">
-              <tr>
-                  <th>Dato<br>2021</th><th>Dag</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
-              </tr>
-              <tr>
-                  <td>7.2</td><td>Søndag seksagesima</td>
-                  <td><?= ref('Es 55,6-11','es',55,6,11) ?> <?= refh('Jesaia',55,6,11) ?></td>
-                  <td><?= ref('1 Kor 1,18-21[25]','1kor',1,18,25) ?> <?= refg('I_Corinthians',1,18,25) ?></td>
-                  <td><?= ref('Mark 4,1-20','mark',4,1,20) ?> <?= refg('Mark',4,1,20) ?></td>
-              </tr>
-              <tr>
-                  <td>14.2</td><td>Fastelavns søndag</td>
-                  <td><?= ref('Sl 2','sl',2) ?> <?= refh('Psalmi',2) ?></td>
-                  <td>&nbsp;</td><td>&nbsp;</td>
-              </tr>
-          </table>
+          <p><b>Første tekstrække:</b></p>
+          <div class="table-responsive">
+              <table class="table table-striped">
+                  <tr>
+                      <th>Dato<br>2021</th><th>Dag</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                  </tr>
+                  <tr>
+                      <td>7.2</td><td>Søndag seksagesima</td>
+                      <td><?= ref('Es 55,6-11','es',55,6,11) ?> <?= refh('Jesaia',55,6,11) ?></td>
+                      <td><?= ref('1 Kor 1,18-21[25]','1kor',1,18,25) ?> <?= refg('I_Corinthians',1,18,25) ?></td>
+                      <td><?= ref('Mark 4,1-20','mark',4,1,20) ?> <?= refg('Mark',4,1,20) ?></td>
+                  </tr>
+                  <tr>
+                      <td>14.2</td><td>Fastelavns søndag</td>
+                      <td><?= ref('Sl 2','sl',2) ?> <?= refh('Psalmi',2) ?></td>
+                      <td><?= ref('1 Pet 3,18-22','1pet',3,18,22) ?> <?= refg('I_Peter',3,18,22) ?></td>
+                      <td><?= ref('Matt 3,13-17','matt',3,13,17) ?> <?= refg('Matthew',3,13,17) ?></td>
+                  </tr>
+              </table>
+          </div>
 
         </div>
       </div>
