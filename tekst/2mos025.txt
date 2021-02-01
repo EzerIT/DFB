@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 01.02.2021>!!
 ===Anden Mosebog, kapitel 25===
 
 ==Forordninger om helligdommen (25,1-27,21)==
@@ -39,7 +39,7 @@ v22 Og der vil jeg åbenbare mig for dig og tale med dig fra over sonedækket, f
 ==Skuebrødsbordet==
 v23 >>Du skal lave et bord af akacietræ, to alen langt{T: Ordret: >>to alen dets længde<<.} og en alen bredt og halvanden alen højt
 v24 og beklæde det med purt guld, og til det skal du lave en guldkant rundt om det.
-v25 Og på det skal du lave en liste på en håndsbredde rundt om det og lave en guldkrans om dets liste rundt om det. 
+v25 Og på det skal du lave en liste på en håndsbredde rundt om det og lave en guldkant om dets liste rundt om det.
 v26 Du skal også lave fire ringe af guld til det og sætte ringene i de fire hjørner som er ved dets fire fødder.
 v27 Ringene skal være tæt ved listen som holdere for bærestængerne til at bære bordet.
 v28 Du skal lave bærestængerne af akacietræ og beklæde dem med guld, og med dem skal bordet bæres.

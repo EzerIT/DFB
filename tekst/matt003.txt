@@ -1,13 +1,21 @@
 !!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 29.01.2021>!!
+!!<Dato for denne version: 01.02.2021>!!
 
 ===Matthæusevangeliet, kapitel 3===
 
-v13 Da kommer Jesus fra Galilæa til Jordan til Johannes for at blive døbt af ham.
-v14 Men Johannes prøvede at hindre ham i det og sagde: >>Jeg har behov for at blive døbt af dig, og du kommer til mig!<<
-v15 Men Jesus svarede ham: >>Lad det nu ske; for sådan passer det sig for os at vi gør for at opfylde al retfærdighed.<< Da går han med til det.
-v16 Men da Jesus var blevet døbt, steg han straks op af vandet, og se, himlene åbnedes over ham, og han så Guds Ånd dale ned som en due og komme over ham.
-v17 Og se, der lød en røst fra himlene som sagde: >>Dette er min Søn, den elskede, ham glæder jeg mig over.<<
+v13 Da kommer Jesus fra Galilæa til Jordan til Johannes for at blive døbt af ham. v14 Men Johannes
+søgte at hindre ham og sagde: >>Jeg har brug for at blive døbt af dig, og du kommer til mig?<<
+v15 Men Jesus svarede og sagde til ham: >>Lad det nu ske! For på den måde sømmer det sig{E: Normen for
+det, som sømmer sig, er Guds vilje} for os at opfylde hele retfærdigheden.<< Så tillader han ham
+det. v16 Men da Jesus var blevet døbt af ham{E: Johannesdåben er for syndere (Matt 3,6; Mark 1,4),
+Jesus er Guds Søn og hellig (Matt 1,23; 2,15; Luk 1,35), og i dåben identificerer Jesus sig
+stedfortrædende med syndere. Dåben fuldendes på korset}, steg han straks op af vandet, og se,
+himlene blev åbnet for ham, og han så Guds Ånd stige ned som en due og komme over ham{E: Åndens
+komme er salvingen til Messias (Luk 4,18 og ApG 10,38)}. v17 Og se, der lød en røst fra himlene som
+sagde{T: Sl 2,7. Es 42,1}: >>Denne er min Søn{E: >>Denne er min Søn<< er en identifikation af Jesus
+og en bekræftelse af hans identitet}, den elskede, ham har jeg udvalgt{E: >>Ham har jeg udvalgt<< er
+en bekræftelse af Jesu opgave som vores stedfortræder}.<<
+
