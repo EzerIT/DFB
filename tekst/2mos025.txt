@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 01.02.2021>!!
+!!<Dato for denne version: 02.02.2021>!!
 ===Anden Mosebog, kapitel 25===
 
 ==Forordninger om helligdommen (25,1-27,21)==
@@ -31,7 +31,7 @@ v16 Og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.<<
 ==Sonedækket==
 v17 >>Så skal du lave et sonedække{E: Tidligere oversat: >>nådestol<<.} af purt guld, to og en halv alen langt og halvanden alen bredt,
 v18 og du skal lave to keruber af guld; du skal lave dem som udhamret arbejde ud fra de to ender af sonedækket.
-v19 Lav altså én kerub på den ene ende og én kerub på den anden ende; i ét med sonedækket skal I lave keruberne i begge dets ender.
+v19 Lav altså én kerub fra den ene ende og én kerub fra den anden ende; i ét med sonedækket skal I lave keruberne i begge dets ender.
 v20 Keruberne skal brede vinger opad, så de dækker over sonedækket med deres vinger, og deres ansigter skal vende den ene mod den anden: mod sonedækket skal kerubernes ansigter være vendt.
 v21 Du skal anbringe sonedækket oven på arken, og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.
 v22 Og der vil jeg åbenbare mig for dig og tale med dig fra over sonedækket, fra mellem de to keruber som er oven på Vidnesbyrdets ark, alt det jeg vil befale dig angående Israels børn.<<
