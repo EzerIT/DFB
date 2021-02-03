@@ -128,7 +128,10 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $to[] = $_SESSION['godsname'];
 
     $from[] = '/JHVH/i';
-    $to[] = $_SESSION['godsname'];
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERREN</small>';
+    else
+        $to[] = $_SESSION['godsname'];
 
 
     $from[] = '/HERRENS/';
