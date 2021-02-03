@@ -73,19 +73,16 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     
     
     if (preg_match('/===(.*)\s*{T: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead">[1]</span></span>';
-        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead" data-toggle="tooltip" data-placement="bottom" title="' . $tit[2]. '" data-html="true">[1]</span></span>';
         ++$nextnumber;
     }
     elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead">[a]</span></span>';
-        $refbodyhead = '<div class="paragraph"><span class="refbodyhead">' . $tit[2] . '</span></div>';
+        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead" data-toggle="tooltip" data-placement="bottom" title="' . $tit[2] . '" data-html="true">[a]</span></span>';
         ++$nextletter;
     }
     else {
         preg_match('/===(.*)===/',$txt,$tit);
         $title = $tit[1];
-        $refbodyhead = '';
     }
 
     $from[] = '/===(.*)===/';
@@ -98,38 +95,73 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $to[] = "@\n";
 
     $from[] = '/\s*{E: *([^}]+)}/';
-    $to[] = '<span class="ref refa"><span class="refnum">[REFALET]</span><span class="refbody">\1</span></span>';
+    $to[] = '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-placement="bottom" title="\1" data-html="true">[REFALET]</span></span>';
 
     $from[] = '/\s*{T: *([^}]+)}/';
-    $to[] = '<span class="ref ref1"><span class="refnum">[REFANUM]</span><span class="refbody">\1</span></span>';
+    $to[] = '<span class="ref ref1"><span class="refnum" data-toggle="tooltip" data-placement="bottom" title="\1" data-html="true">[REFANUM]</span></span>';
 
     $from[] = '/\s*{K: *([^}]+)}/';
     $to[] = '';
 
     $from[] = '/JHVHs/i';
-    $to[] = '<span class="thenames"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRENS</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herrens';
+    else
+        $to[] = $_SESSION['godsname'].'s';
 
     $from[] = '/JHVHvs/i';
-    $to[] = '<span class="thenamevs"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRES</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herres';
+    else
+        $to[] = $_SESSION['godsname'].'s';
 
     $from[] = '/JHVHv/i';
-    $to[] = '<span class="thenamev"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRE</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herre';
+    else
+        $to[] = $_SESSION['godsname'];
 
     $from[] = '/JHVH/i';
-    $to[] = '<span class="thename"></span>';
+    $to[] = $_SESSION['godsname'];
 
 
     $from[] = '/HERRENS/';
-    $to[] = '<span class="thenames"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRENS</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herrens';
+    else
+        $to[] = $_SESSION['godsname'].'s';
 
     $from[] = '/HERRES/';
-    $to[] = '<span class="thenamevs"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRES</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herres';
+    else
+        $to[] = $_SESSION['godsname'].'s';
 
     $from[] = '/HERRE/';
-    $to[] = '<span class="thenamev"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRE</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herre';
+    else
+        $to[] = $_SESSION['godsname'];
 
     $from[] = '/HERREN/';
-    $to[] = '<span class="thename"></span>';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRE</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herre';
+    else
+        $to[] = $_SESSION['godsname'];
 
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
@@ -158,7 +190,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/\.\.\./';
     $to[] = '…';
 
-    $txt = $refbodyhead . preg_replace($from, $to, $txt);
+    $txt = preg_replace($from, $to, $txt);
 
     $txt = preg_replace_callback('/REFALET/',
                                  function ($matches) {

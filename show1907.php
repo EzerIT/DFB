@@ -139,24 +139,6 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
-            <?php if ($_SESSION['godsname']=='HERREN'): ?>
-                $('.thename').html('H<small>ERREN</small>');
-                $('.thenames').html('H<small>ERRENS</small>');
-                $('.thenamev').html('H<small>ERRE</small>');
-                $('.thenamevs').html('H<small>ERRES</small>');
-            <?php elseif ($_SESSION['godsname']=='Herren'): ?>
-              $('.thename').text('Herren');
-              $('.thenames').text('Herrens');
-              $('.thenamev').text('Herre');
-              $('.thenamevs').text('Herres');
-            <?php else: ?>
-              $('.thename').text('<?= $_SESSION['godsname'] ?>');
-              $('.thenames').text('<?= $_SESSION['godsname'].'s' ?>');
-              $('.thenamev').text('<?= $_SESSION['godsname'] ?>');
-              $('.thenamevs').text('<?= $_SESSION['godsname'].'s' ?>');
-            <?php endif; ?>
-
-
         $(".refbodyhead").hide();
         $(".refbody").hide();
         $(".refnum").click(function(event) {
