@@ -83,16 +83,8 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
         cursor: pointer;
     }
 
-    .refbody, .refbodyhead {
-        text-indent: 0;
-        font-size: small;
-        font-weight: normal;
-        line-height: 1.1;
-        display: block;
-        border: 1px solid;
-        border-radius: 4px;
-        padding: 5px;
-        background-color: lightblue;
+    .tooltip-inner {
+        text-align: left;
     }
 
     div.paragraph {
@@ -139,23 +131,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
-        $(".refbodyhead").hide();
-        $(".refbody").hide();
-        $(".refnum").click(function(event) {
-            $(this.nextSibling).toggle();
-            event.stopPropagation();
-        });
-        $(".refnumhead").click(function(event) {
-            $(".refbodyhead").toggle();
-            event.stopPropagation();
-        });
-        $("body").click(function(event) {
-            $(".refbodyhead").hide();
-            $(".refbody").hide();
-        });
-
-
-
+        $('[data-toggle="tooltip"]').tooltip();
     });
     </script>
 

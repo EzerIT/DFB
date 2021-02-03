@@ -71,7 +71,7 @@ class replaceit_XML {
 
           case 'note':
                 if (self::$collecting==2) {
-                    self::$collect .= "<span class=\"ref ref1\"><span class=\"refnum\">[" . ++self::$refnum . "]</span><span class=\"refbody\">";
+                    self::$collect .= "<span class=\"ref ref1\"><span class=\"refnum\" data-toggle=\"tooltip\" data-placement=\"bottom\" data-html=\"true\" title=\"";
                 }
                 break;
 
@@ -99,7 +99,7 @@ class replaceit_XML {
 
           case 'note':
                 if (self::$collecting==2) {
-                    self::$collect .= '</span></span>';
+                    self::$collect .= "\">[" . ++self::$refnum . "]</span></span>";
                 }
                 break;
         }
