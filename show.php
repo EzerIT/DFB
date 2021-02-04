@@ -161,7 +161,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
-         $('[data-toggle="tooltip"]').tooltip({trigger:'hover click'});
+         $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
     });
     </script>
 
