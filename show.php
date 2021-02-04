@@ -114,7 +114,8 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 
     .tooltip-inner {
         text-align: left;
-    }
+        max-width: 70%;
+     }
      
     div.paragraph {
         text-indent: 2em;
@@ -160,7 +161,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
-         $('[data-toggle="tooltip"]').tooltip();
+         $('[data-toggle="tooltip"]').tooltip({trigger:'hover click'});
     });
     </script>
 
