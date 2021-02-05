@@ -26,7 +26,7 @@ makemenus(0);
             grad. Forlægget har for det Gamle Testamentes vedkommende været den danske oversættelse
             fra 1871, som er blevet moderniseret og opdateret med nye resultater fra bibelforskningen.
             Den Nye Testamentes er blevet til ud fra den autoriserede oversættelse fra 1907
-            eller (for 1. Thessalonikerbrevs vedkommende) direkte fra grundteksten.</p>
+            eller direkte fra grundteksten.</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af grundteksten som muligt, også på
@@ -98,9 +98,9 @@ makemenus(0);
       <div class="card mt-3">
         <h1 class="card-header bg-success text-light">Personer</h1>
         <div class="card-body">
-          <p>Under hvert kapitel nævnes de personer der har stået for »oversættelsen« (altså
+          <p>Under hvert kapitel nævnes de personer der har stået for »oversættelsen« (eller
             modernisering af teksten) og den videnskablige bearbejdning af indholdet.</p>
-          <p>Programmering: Claus Tøndering, <a href="http://www.ezer.dk" target="_blank">Ezer IT Consulting</a></p>
+          <p>Programmering: Claus Tøndering</p>
           
           <p>Bemærk at bibeloversættelsen løbende bliver revideret og opdateret.</p>
         </div>
