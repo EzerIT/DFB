@@ -88,6 +88,11 @@ $abbrev['2kor'] = '2 Kor';
 $abbrev['1thess'] = '1 Thess';
 $abbrev['1pet'] = '1 Pet';
 
+$deabbrev = [];
+foreach ($abbrev as $k => $v)
+    $deabbrev[$v] = $k;
+
+
 $style['2mos']    = 'btn-info';
 $style['4mos']    = 'btn-info';
 $style['dom']     = 'btn-success';
@@ -122,3 +127,5 @@ $style['mark']    = 'btn-warning';
 $style['1kor']    = 'btn-warning';
 $style['2kor']    = 'btn-warning';
 $style['1thess']  = 'btn-warning';
+
+

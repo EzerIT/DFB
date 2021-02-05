@@ -167,7 +167,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $to[] = $_SESSION['godsname'];
 
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
-    $to[] = '\1<span class="verseno"><span class="chapno">'.$chapter.':</span>\2</span>';
+    $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$chapter.':</span>\2</span>';
 
     $from[] = '/\n *\n/';
     $to[] = 'QQ';
@@ -194,6 +194,32 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $to[] = '…';
 
     $txt = preg_replace($from, $to, $txt);
+
+    
+    global $current_verse, $references;
+    $current_verse = 0;
+    $references = [];
+
+    $txt = preg_replace_callback_array(
+        [ '/<span class="verseno" data-verse="([^"]+)">/' =>
+            function ($matches) {
+                global $current_verse;
+                $current_verse = $matches[1];
+                return $matches[0];
+            },
+          '/\s*{H: *([^}]+)}/' =>
+              function ($matches) {
+                  global $current_verse, $references;
+                  
+                  if (isset($references[$current_verse]))
+                      $references[$current_verse] .= ' ' . $matches[1];
+                  else
+                      $references[$current_verse] = $matches[1];
+                  return '';
+              }
+        ],
+        $txt);
+
 
     $txt = preg_replace_callback('/REFALET/',
                                  function ($matches) {

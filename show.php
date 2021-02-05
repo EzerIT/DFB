@@ -42,7 +42,6 @@ function pagination($book, $kapitel) {
     $outline_style = is_array($style[$book]) ? $style[$book][$kapitel] : $style[$book];
     $outline_style = str_replace('btn','btn-outline',$outline_style);
 
-//    echo "<nav>\n";
     echo "  <div style=\"margin-left: auto; margin-right: auto;\">\n";
 
     $chcount = count($chap[$book]);
@@ -54,8 +53,34 @@ function pagination($book, $kapitel) {
             . "\">$chno</a>\n";
     }
     echo "  </div>\n";
-//    echo "</nav>\n";
 }
+
+function formatref($ref) {
+    global $deabbrev;
+
+    $links = '';
+    
+    $offset = 0;
+    while (preg_match('/(([A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+))([;\.]\s*)/',
+                      $ref,
+                      $matches,
+                      PREG_OFFSET_CAPTURE,
+                      $offset)) {
+
+        $links .= '<a href="show.php?bog='
+                . $deabbrev[$matches[2][0]]
+                . "&kap=" . $matches[3][0]
+                . "&fra=" . $matches[4][0]
+                . "&til=" . $matches[4][0]
+                . '">'
+                . $matches[1][0] . '</a>'
+                . $matches[5][0];
+        
+        $offset = $matches[5][1];
+    }
+    return $links;
+}
+
 
 if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
     echo "<pre>Forkerte parametre</pre>";
@@ -193,6 +218,25 @@ makemenus(null);
         </div>
       </div>
 
+      <?php if (!empty($references)): ?>
+          <div class="row">
+              <div class="offset-xl-2 col-xl-4
+                          offset-lg-2 col-lg-5
+                          offset-md-3 col-md-6
+                          offset-sm-2 col-sm-8">
+                  <div class="card mt-3">
+                      <h1 class="card-header bg-info text-light">Henvisninger</h1>
+                      <div class="card-body">
+                          <?php foreach ($references as $v => $ref): ?>
+                              <?php $format_ref = formatref($ref); ?>
+                              <small>v<?= $v?>: <?= $format_ref ?></small>
+                          <?php endforeach; ?>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      <?php endif; ?>
+      
       <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
       <div class="row justify-content-center d-flex d-lg-none">
         <div class="col-sm-8 col-md-6">
@@ -203,21 +247,21 @@ makemenus(null);
             </div>
           </div>
         </div>
-            </div>
+      </div>
 
       <div class="row">
         <div class="offset-xl-2 col-xl-4
                     offset-lg-2 col-lg-5
                     offset-md-3 col-md-6
                     offset-sm-2 col-sm-8">
-          <div class="card mt-3">
-            <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
-            <div class="card-body">
-              <?php foreach ($credit as $c): ?>
-                <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
-              <?php endforeach; ?>
+            <div class="card mt-3">
+                <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
+                <div class="card-body">
+                    <?php foreach ($credit as $c): ?>
+                        <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
+                    <?php endforeach; ?>
+                </div>
             </div>
-          </div>
         </div>
       </div>
 
