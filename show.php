@@ -140,6 +140,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     .tooltip-inner {
         text-align: left;
         max-width: 70%;
+        min-width: 100px;
      }
      
     div.paragraph {
