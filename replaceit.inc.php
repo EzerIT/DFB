@@ -20,9 +20,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $offset=0;
         while ($found = preg_match('/v([0-9]+)/',$txt,$matches,PREG_OFFSET_CAPTURE,$offset)) {
             $offset = $matches[1][1];
-            if (intval($matches[1][0]>$to_verse))
+            if (intval($matches[1][0])>intval($to_verse))
                 break;
-            
         }
         if ($found)
             $txt = substr($txt,0,$offset-1);
@@ -150,15 +149,15 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     else
         $to[] = $_SESSION['godsname'].'s';
 
-    $from[] = '/HERRE/';
+    $from[] = '/HERREN/';
     if ($_SESSION['godsname']=='HERREN')
-        $to[] = 'H<small>ERRE</small>';
+        $to[] = 'H<small>ERREN</small>';
     elseif ($_SESSION['godsname']=='Herren')
-        $to[] = 'Herre';
+        $to[] = 'Herren';
     else
         $to[] = $_SESSION['godsname'];
 
-    $from[] = '/HERREN/';
+    $from[] = '/HERRE/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRE</small>';
     elseif ($_SESSION['godsname']=='Herren')
