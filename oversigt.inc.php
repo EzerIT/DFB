@@ -1,5 +1,6 @@
 <?php
 
+$chap['1mos']     = array(3);
 $chap['2mos']     = range(1,30);
 $chap['4mos']     = range(1,36);
 $chap['dom']      = range(1,21);
@@ -13,7 +14,7 @@ $chap['sef']      = range(1,3);
 $chap['hab']      = range(1,3);
 $chap['zak']      = range(1,14);
 
-$chap['matt']     = array(3);
+$chap['matt']     = array(3,4);
 $chap['mark']     = range(1,16);
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
@@ -26,6 +27,7 @@ $total_chap_nt = 260;
 
 
 $title['GT']      = 'Det Gamle Testamente';
+$title['1mos']    = 'Første Mosebog';
 $title['2mos']    = 'Anden Mosebog';
 $title['4mos']    = 'Fjerde Mosebog';
 $title['dom']     = 'Dommerbogen';
@@ -50,6 +52,7 @@ $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
 
 
+$chaptype['1mos'] = 'kapitel';
 $chaptype['2mos'] = 'kapitel';
 $chaptype['4mos'] = 'kapitel';
 $chaptype['dom']  = 'kapitel';
@@ -69,6 +72,7 @@ $chaptype['2kor'] = 'kapitel';
 $chaptype['1thess'] = 'kapitel';
 $chaptype['1pet'] = 'kapitel';
 
+$abbrev['1mos'] = '1 Mos';
 $abbrev['2mos'] = '2 Mos';
 $abbrev['4mos'] = '4 Mos';
 $abbrev['dom']  = 'Dom';
@@ -93,6 +97,7 @@ foreach ($abbrev as $k => $v)
     $deabbrev[$v] = $k;
 
 
+$style['1mos']    = 'btn-secondary';
 $style['2mos']    = 'btn-info';
 $style['4mos']    = 'btn-info';
 $style['dom']     = 'btn-success';
