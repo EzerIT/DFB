@@ -113,7 +113,7 @@ $til = isset($_GET['til']) && is_numeric($_GET['til']) ?  intval($_GET['til']) :
 
 makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 ?>
-    <style type="text/css">
+    <style>
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
     }
