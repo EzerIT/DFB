@@ -58,7 +58,7 @@ makemenus(0);
           
           <h2>Kommentarer</h2>
 
-          <p>Kommentarer og spørgsmål kan sendes til Claus Tøndering (<span id="cloak6668">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+          <p>Kommentarer og spørgsmål kan sendes til Claus Tøndering (<span id="cloak6668">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script>
  //<!--
  document.getElementById('cloak6668').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
@@ -67,7 +67,7 @@ makemenus(0);
  addy6668 = addy6668 + 'ez&#101;r' + '&#46;' + 'd&#107;';
  document.getElementById('cloak6668').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6668 + '\'>' +addy6668+'<\/a>';
  //-->
- </script>) eller Nicolai Winther-Nielsen (<span id="cloak6663">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+ </script>) eller Nicolai Winther-Nielsen (<span id="cloak6663">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script>
  //<!--
  document.getElementById('cloak6663').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
