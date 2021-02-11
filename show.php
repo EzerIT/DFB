@@ -56,27 +56,46 @@ function pagination($book, $kapitel) {
 }
 
 function formatref($ref) {
-    global $deabbrev;
+    global $deabbrev, $chap;
 
     $links = '';
     
     $offset = 0;
-    while (preg_match('/(([A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+))([;\.]\s*)/',
+    while (preg_match('/((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)([;\.]\s*)?/',
+                      // Matches:
+                      // 0: Everything
+                      // 1: ((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
+                      // 2: (([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)
+                      // 3: ([1-5]+ )?
+                      // 4: ([0-9]+)  - Chapter
+                      // 5: ([0-9]+)  - 'From' verse
+                      // 6: (-([0-9]+))?
+                      // 7: ([0-9]+)  - 'To' verse
+                      // 8: ([;\.]\s*)?
                       $ref,
                       $matches,
                       PREG_OFFSET_CAPTURE,
                       $offset)) {
 
-        $links .= '<a href="show.php?bog='
-                . $deabbrev[$matches[2][0]]
-                . "&kap=" . $matches[3][0]
-                . "&fra=" . $matches[4][0]
-                . "&til=" . $matches[4][0]
-                . '">'
-                . $matches[1][0] . '</a>'
-                . $matches[5][0];
-        
-        $offset = $matches[5][1];
+        if (!isset($deabbrev[$matches[2][0]]) || !in_array($matches[4][0],$chap[$deabbrev[$matches[2][0]]]))
+            $links .= $matches[0][0];
+        else {
+            $links .= '<a href="show.php?bog='
+                    . $deabbrev[$matches[2][0]]
+                    . "&kap=" . $matches[4][0];
+
+            if (!empty($matches[5][0])) {
+                // 'From' verse is set
+                $links .=  "&fra=" . $matches[5][0]
+                         . "&til=" . (!empty($matches[7][0]) ? $matches[7][0] : $matches[5][0]);
+            }
+            
+            $links .= '">'
+                    . $matches[1][0] . '</a>'
+                    . (isset($matches[8]) && !empty($matches[8][0]) ? $matches[8][0] : '.');
+        }
+        $offset = $matches[4][1];
+                
     }
     return $links;
 }
@@ -228,10 +247,12 @@ makemenus(null);
                   <div class="card mt-3">
                       <h1 class="card-header bg-info text-light">Henvisninger</h1>
                       <div class="card-body">
+                          <small>
                           <?php foreach ($references as $v => $ref): ?>
                               <?php $format_ref = formatref($ref); ?>
-                              <small>v<?= $v?>: <?= $format_ref ?></small>
+                              v<?= $v?>: <?= $format_ref ?><br>
                           <?php endforeach; ?>
+                          </small>
                       </div>
                   </div>
               </div>

@@ -199,26 +199,21 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $current_verse = 0;
     $references = [];
 
-    $txt = preg_replace_callback_array(
-        [ '/<span class="verseno" data-verse="([^"]+)">/' =>
-            function ($matches) {
-                global $current_verse;
-                $current_verse = $matches[1];
-                return $matches[0];
-            },
-          '/\s*{H: *([^}]+)}/' =>
-              function ($matches) {
-                  global $current_verse, $references;
-                  
-                  if (isset($references[$current_verse]))
-                      $references[$current_verse] .= ' ' . $matches[1];
-                  else
-                      $references[$current_verse] = $matches[1];
-                  return '';
-              }
-        ],
-        $txt);
-
+    $txt = preg_replace_callback('/(<span class="verseno" data-verse="([^"]+)">)|(\s*{H: *([^}]+)})/',
+                                 function ($matches) {
+                                     global $current_verse, $references;
+                                     if (!empty($matches[2])) {
+                                         $current_verse = $matches[2];
+                                         return $matches[0];
+                                     }
+                                     else {
+                                         if (isset($references[$current_verse]))
+                                             $references[$current_verse] .= ' ' . $matches[4];
+                                         else
+                                             $references[$current_verse] = $matches[4];
+                                         return '';
+                                     }
+                                 }, $txt);
 
     $txt = preg_replace_callback('/REFALET/',
                                  function ($matches) {
