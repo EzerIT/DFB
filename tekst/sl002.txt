@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Dato for denne version: 11.02.2021>!!
 
 ===Salme 2===
 
@@ -22,7 +22,7 @@ v3 >>Lad os sønderrive deres lænker
 
 og kaste deres reb af os!<<
 
-v4 Han som bor i Himlen, ler;
+v4 Han som troner i Himlen, ler;
 
 JHVH spotter dem.
 
