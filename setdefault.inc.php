@@ -7,11 +7,12 @@
            $_SESSION[$ix] = isset($_COOKIE[$ix]) ? $_COOKIE[$ix] : $val;
    }
 
-   setdefault('showverse', 'on');
-   setdefault('showchap',  'off');
-   setdefault('showh2',    'on');
-   setdefault('showfna',   'on');
-   setdefault('showfn1',   'on');
-   setdefault('oneline',   'off');
-   setdefault('godsname',  'HERREN');
-   setdefault('font',      'Helvetica');
+   setdefault('showverse',  'on');
+   setdefault('showchap',   'off');
+   setdefault('showh2',     'on');
+   setdefault('showfna',    'on');
+   setdefault('showfn1',    'on');
+   setdefault('showfnblock','off');
+   setdefault('oneline',    'off');
+   setdefault('godsname',   'HERREN');
+   setdefault('font',       'Helvetica');

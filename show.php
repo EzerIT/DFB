@@ -206,6 +206,24 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
+         <?php if ($_SESSION['showfna']=='on'): ?>
+         $('[data-let]').each(function( index ) {
+             $(this).text("[" + $(this).data('let') + "]");
+             <?php if ($_SESSION['showfnblock']=='on'): ?>
+             $('#footnotes').append("<b>" + $(this).data('let') + ":</b> " + $(this).attr('title') + "<br>");
+             <?php endif; ?>
+         });
+         <?php endif; ?>
+         
+         <?php if ($_SESSION['showfn1']=='on'): ?>
+         $('[data-num]').each(function( index ) {
+             $(this).text("[" + $(this).data('num') + "]");
+             <?php if ($_SESSION['showfnblock']=='on'): ?>
+             $('#footnotes').append("<b>" + $(this).data('num') + ":</b> " + $(this).attr('title') + "<br>");
+             <?php endif; ?>
+         });
+         <?php endif; ?>
+         
          $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
     });
     </script>
@@ -238,12 +256,19 @@ makemenus(null);
         </div>
       </div>
 
-      <?php if (!empty($references)): ?>
-          <div class="row">
-              <div class="offset-xl-2 col-xl-4
-                          offset-lg-2 col-lg-5
-                          offset-md-3 col-md-6
-                          offset-sm-2 col-sm-8">
+      <?php
+      $show_ref = !empty($references);
+      $show_note = $_SESSION['showfnblock']=='on'
+                && ($_SESSION['showfna']=='on' || $_SESSION['showfn1']=='on')
+                && ($nextnumber>1 || $nextletter>'a');
+      ?>
+      
+      <div class="row">
+          <?php if ($show_ref): ?>
+              <div class="offset-xl-<?= $show_note ? 0 : 2 ?> col-xl-4
+                          offset-lg-<?= $show_note ? 0 : 2 ?> col-lg-<?= $show_note ? 4 : 5 ?>
+                          offset-md-<?= $show_note ? 0 : 3 ?> col-md-6
+                          offset-sm-<?= $show_note ? 1 : 2 ?> col-sm-<?= $show_note ? 10 : 8 ?>">
                   <div class="card mt-3">
                       <h1 class="card-header bg-info text-light">Henvisninger</h1>
                       <div class="card-body">
@@ -254,10 +279,26 @@ makemenus(null);
                           <?php endforeach; ?>
                           </small>
                       </div>
+                    </div>
+                  </div>
+          <?php endif; ?>
+
+          <?php if ($show_note): ?>
+              <div class="offset-xl-<?= $show_ref ? 0 : 1 ?> col-xl-<?= $show_ref ? 4 : 6 ?>
+                          offset-lg-<?= $show_ref ? 0 : 1 ?> col-lg-<?= $show_ref ? 5 : 7 ?>
+                          offset-md-<?= $show_ref ? 0 : 2 ?> col-md-<?= $show_ref ? 6 : 8 ?>
+                          offset-sm-1 col-sm-10">
+                  <div class="card mt-3">
+                      <h1 class="card-header bg-info text-light">Fodnoter</h1>
+                      <div class="card-body">
+                          <small id="footnotes">
+                          </small>
+                      </div>
                   </div>
               </div>
-          </div>
-      <?php endif; ?>
+          <?php endif; ?>
+      </div>
+
       
       <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
       <div class="row justify-content-center d-flex d-lg-none">
@@ -289,5 +330,16 @@ makemenus(null);
 
     </div><!--End of container-->
 
+    <!-- For debugging window sizes:
+    <div class="container">
+        <p class="       d-block     d-sm-none ">Window size: XS</p>
+        <p class="d-none d-sm-block  d-md-none ">Window size: SM</p>
+        <p class="d-none d-md-block  d-lg-none ">Window size: MD</p>
+        <p class="d-none d-lg-block  d-xl-none ">Window size: LG</p>
+        <p class="d-none d-xl-block  d-xxl-none">Window size: XL</p>
+        <p class="d-none d-xxl-block           ">Window size: XXL</p>
+    </div>
+    -->
+    
 <?php
 endbody();

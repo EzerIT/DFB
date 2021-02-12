@@ -35,7 +35,10 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
     $credit = $meta_matches[1];
 
-    $from[] = '/!!<.*>!!/';
+
+    // First collection of substitutions:
+
+    $from[] = '/!!<.*>!!/';  // Credits have been handled above
     $to[] = '';
 
     $from[] = '/>>>/';
@@ -67,16 +70,14 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 
     $txt =  preg_replace($from, $to, $txt);
 
-    $from = array();
-    $to = array();
-    
-    
+
+    // Handle footnotes in titles
     if (preg_match('/===(.*)\s*{T: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead" data-toggle="tooltip" data-placement="bottom" title="' . $tit[2]. '" data-html="true">[1]</span></span>';
+        $title = $tit[1] . '<span class="ref ref1"><span class="refnumhead" data-toggle="tooltip" data-num="1" data-placement="bottom" title="' . $tit[2]. '" data-html="true"></span></span>';
         ++$nextnumber;
     }
     elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
-        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead" data-toggle="tooltip" data-placement="bottom" title="' . $tit[2] . '" data-html="true">[a]</span></span>';
+        $title = $tit[1] . '<span class="ref refa"><span class="refnumhead" data-toggle="tooltip" data-let="a" data-placement="bottom" title="' . $tit[2] . '" data-html="true">[a]</span></span>';
         ++$nextletter;
     }
     else {
@@ -84,7 +85,13 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $title = $tit[1];
     }
 
-    $from[] = '/===(.*)===/';
+
+    // Second collection of substitutions:
+
+    $from = array();
+    $to = array();
+    
+    $from[] = '/===(.*)===/';  // Titles have been handled above
     $to[] = '';
 
     $from[] = '/^\s*==/m';
@@ -94,10 +101,10 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $to[] = "@\n";
 
     $from[] = '/\s*{E: *([^}]+)}/';
-    $to[] = '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-placement="bottom" title="\1" data-html="true">[REFALET]</span></span>';
+    $to[] = '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-let="REFALET" data-placement="bottom" title="\1" data-html="true"></span></span>';
 
     $from[] = '/\s*{T: *([^}]+)}/';
-    $to[] = '<span class="ref ref1"><span class="refnum" data-toggle="tooltip" data-placement="bottom" title="\1" data-html="true">[REFANUM]</span></span>';
+    $to[] = '<span class="ref ref1"><span class="refnum" data-toggle="tooltip" data-num="REFANUM" data-placement="bottom" title="\1" data-html="true"></span></span>';
 
     $from[] = '/\s*{K: *([^}]+)}/';
     $to[] = '';
@@ -194,7 +201,9 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 
     $txt = preg_replace($from, $to, $txt);
 
-    
+
+    // Generate references
+
     global $current_verse, $references;
     $current_verse = 0;
     $references = [];
@@ -215,6 +224,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
                                      }
                                  }, $txt);
 
+    // Generate footnote marks
+    
     $txt = preg_replace_callback('/REFALET/',
                                  function ($matches) {
                                      global $nextletter;

@@ -64,6 +64,12 @@ makemenus(1);
 
             <div class="checkbox">
               <label>
+                <input type="checkbox" name="showfnblock" <?= showchecked('showfnblock') ?>> Vis fodnoter under bibeltekst
+              </label>
+            </div>
+
+            <div class="checkbox">
+              <label>
                 <input type="checkbox" name="oneline" <?= showchecked('oneline') ?>> Ét vers per linje
               </label>
             </div>
