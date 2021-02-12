@@ -10,7 +10,7 @@ makemenus(3);
 <div class="container">
     <div class="row justify-content-center">
 
-    <div class="col-lg-10 col-xl-8">
+    <div class="col-lg-10 col-xl-9">
       <div class="card mt-4">
         <div class="card-body">
           <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/Meticulous-09-400.jpg" alt="">
