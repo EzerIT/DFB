@@ -114,12 +114,6 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('h2').hide();
             <?php endif; ?>
 
-            <?php if ($_SESSION['showfna']=='on'): ?>
-                $('.refa').show();
-            <?php else: ?>
-                $('.refa').hide();
-            <?php endif; ?>
-
             <?php if ($_SESSION['showfn1']=='on'): ?>
                 $('.ref1').show();
             <?php else: ?>
@@ -131,6 +125,14 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
+         <?php if ($_SESSION['showfn1']=='on'): ?>
+             $('[data-num]').each(function( index ) {
+                 $(this).text("[" + $(this).data('num') + "]");
+                 <?php if ($_SESSION['showfnblock']=='on'): ?>
+                     $('#footnotes').append("<b>" + $(this).data('num') + ":</b> " + $(this).attr('title') + "<br>");
+                 <?php endif; ?>
+             });
+         <?php endif; ?>
          $('[data-toggle="tooltip"]').tooltip();
     });
     </script>
@@ -163,6 +165,30 @@ makemenus(null);
         </div>
       </div>
 
+      <?php
+      $show_note = $_SESSION['showfnblock']=='on'
+                && $_SESSION['showfn1']=='on'
+                && replaceit_XML::$refnum>0;
+      ?>
+
+      <?php if ($show_note): ?>
+          <div class="row">
+              <div class="offset-xl-1 col-xl-6
+                          offset-lg-1 col-lg-7
+                          offset-md-2 col-md-8
+                          col-sm-10">
+                  <div class="card mt-3">
+                      <h1 class="card-header bg-info text-light">Fodnoter</h1>
+                      <div class="card-body">
+                          <small id="footnotes">
+                          </small>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      <?php endif; ?>
+
+      
       <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
       <div class="row justify-content-center d-flex d-lg-none">
         <div class="col-sm-8 col-md-6">

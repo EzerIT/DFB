@@ -15,7 +15,7 @@ class replaceit_XML {
     static private $collect = '';       // Currently collected text
     static private $in_chapter = false; // True if we are currently in a chapter
     static private $collecting = 0;     // 0 = not collecting, 1 = not collecting but in correct chapter, 2 = collecting
-    static private $refnum = 0;         // Footnote number
+    static public $refnum = 0;         // Footnote number
 
     
     static private function tagStart($parser, $tagname, $attributes = null) {
@@ -71,7 +71,8 @@ class replaceit_XML {
 
           case 'note':
                 if (self::$collecting==2) {
-                    self::$collect .= "<span class=\"ref ref1\"><span class=\"refnum\" data-toggle=\"tooltip\" data-placement=\"bottom\" data-html=\"true\" title=\"";
+                    self::$collect .= "<span class=\"ref ref1\"><span class=\"refnum\" data-toggle=\"tooltip\" data-num=\""
+                    . ++self::$refnum . "\" data-placement=\"bottom\" data-html=\"true\" title=\"";
                 }
                 break;
 
@@ -99,7 +100,7 @@ class replaceit_XML {
 
           case 'note':
                 if (self::$collecting==2) {
-                    self::$collect .= "\">[" . ++self::$refnum . "]</span></span>";
+                    self::$collect .= "\"></span></span>";
                 }
                 break;
         }
