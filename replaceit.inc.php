@@ -23,8 +23,14 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
             if (intval($matches[1][0])>intval($to_verse))
                 break;
         }
-        if ($found)
+        if ($found) {
             $txt = substr($txt,0,$offset-1);
+
+            // Remove a possible final heading
+            if (preg_match('/[^=]==[^=]+==\s*$/',$txt,$matches,PREG_OFFSET_CAPTURE,0)) {
+                $txt = substr($txt,0,$matches[0][1]);
+            }
+        }
     }
     
     global $nextletter;
