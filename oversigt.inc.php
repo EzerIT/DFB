@@ -14,7 +14,7 @@ $chap['sef']      = range(1,3);
 $chap['hab']      = range(1,3);
 $chap['zak']      = range(1,14);
 
-$chap['matt']     = array(3,4);
+$chap['matt']     = array(3,4,15);
 $chap['mark']     = range(1,16);
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
