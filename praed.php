@@ -38,7 +38,7 @@ function refg($book,$chap,$from=0,$to=0) {
           <h1>Kirkeårets prædikentekster</h1>
 
           <p>På denne side vil der gradvis opstå links til Den Frie Bibels oversættelse af
-              kirkeårets prædikentekster i den danske folkekirke.</p>
+              kirkeårets læsninger i den danske folkekirke.</p>
           <p>Et klik på Ⓗ eller Ⓖ giver adgang til den hebraiske eller græske grundtekst.</p>
 
           <p><b>Første tekstrække:</b></p>
@@ -70,6 +70,12 @@ function refg($book,$chap,$from=0,$to=0) {
                       <td><?= ref('Sl 42,2-6','sl',42,2,6) ?> <?= refh('Psalmi',42,2,6) ?></td>
                       <td><?= ref('1 Thess 4,1-7','1thess',4,1,7) ?> <?= refg('I_Thessalonians',4,1,7) ?></td>
                       <td><?= ref('Matt 15,21-28','matt',15,21,28) ?> <?= refg('Matthew',15,21,28) ?></td>
+                  </tr>
+                  <tr>
+                      <td>7.3</td><td>3. søndag i fasten</td>
+                      <td><?= ref('5 Mos 18,9-15','5mos',18,9,15) ?> <?= refh('Deuteronomium',18,9,15) ?></td>
+                      <td><?= ref('Ef 5,[1]6-9','ef',5,1,9) ?> <?= refg('Ephesians',5,1,9) ?></td>
+                      <td><?= ref('Luk 11,14-28','luk',11,14,28) ?> <?= refg('Luke',11,14,28) ?></td>
                   </tr>
               </table>
           </div>
