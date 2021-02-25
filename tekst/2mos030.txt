@@ -23,13 +23,13 @@ v12 >>Når du tæller{T: Ordret: >>tager summen/hovedet på<<.} Israels sønner 
 v13 Dette skal de give, enhver som går over til de mønstrede: En halv sekel efter helligdommens vægt;{T: Det hebraiske ord: *šeqel* betyder egentligt: >>vægt<<, men det bruges også om møntenheden: >>sekel<<.} sekelen er tyve gera, den halve sekel er afgift til JHVH.
 v14 Enhver som går over til de mønstrede, fra tyve år og opefter, skal give JHVHs afgift.
 v15 Den rige skal ikke give mere, og den fattige skal ikke give mindre end den halve sekel når I giver JHVHs afgift for at sone for jeres sjæle.
-v16 Du skal tage sonepengene fra Israels sønner og give dem til tjenesten ved Åbenbaringsteltet; og det skal bringe Israels sønner i erindring for JHVHs ansigt for at sone for jeres sjæle.<<
+v16 Du skal tage sonepengene fra Israels sønner og give dem til tjenesten ved forsamlingsteltet; og det skal bringe Israels sønner i erindring for JHVHs ansigt for at sone for jeres sjæle.<<
 
 ==Forordning om bronzebækkenet==
 v17 JHVH talte til Moses og sagde: 
-v18 >>Du skal lave et bækken af bronze og dets sokkel af bronze til at vaske sig i; og du skal sætte det mellem Åbenbaringsteltet og alteret og komme vand i det.
+v18 >>Du skal lave et bækken af bronze og dets sokkel af bronze til at vaske sig i; og du skal sætte det mellem forsamlingsteltet og alteret og komme vand i det.
 v19 Aron og hans sønner skal vaske deres hænder og deres fødder deri.
-v20 Når de går ind i Åbenbaringsteltet skal de vaske sig med vand, så de ikke skal dø; eller når de nærmer sig alteret for at gøre tjeneste, for at bringe offer til JHVH.
+v20 Når de går ind i forsamlingsteltet skal de vaske sig med vand, så de ikke skal dø; eller når de nærmer sig alteret for at gøre tjeneste, for at bringe offer til JHVH.
 v21 De skal vaske deres hænder og deres fødder så de ikke skal dø; og det skal være en evig bestemmelse for dem, for ham og for hans efterkommere i deres generationer.<<
 
 ==Forordning om salvningsolien ==
@@ -37,7 +37,7 @@ v22 JHVH talte til Moses og sagde:
 v23 >>Og du, tag dig de bedste vellugtende stoffer,{T: Ordret: >>vellugtende stoffers hoved<<.} af flydende myrra fem hundrede sekel,{E: >>sekel<< er her vægtenhed, ca. 16 g.} halvt så meget vellugtende kanelbark, to hundrede og halvtreds, og af vellugtende kalmus to hundrede og halvtreds,
 v24 og kassia, fem hundrede efter helligdommens sekel, og en hin olivenolie.
 v25 Du skal lave det til en hellig salvningsolie, en krydret salveblanding som salvefremstillerens arbejde; det skal være en hellig salvningsolie.
-v26 Med den skal du salve Åbenbaringsteltet, Vidnesbyrdets ark,
+v26 Med den skal du salve forsamlingsteltet, Vidnesbyrdets ark,
 v27 bordet og alle dets redskaber, lysestagen og dens redskaber, røgelsesofferalteret,
 v28 brændofferalteret og alle dets redskaber og bækkenet med dets sokkel.
 v29 Du skal hellige dem, så de bliver højhellige; enhver den som rører ved dem, bliver hellig.
@@ -49,7 +49,7 @@ v33 Det menneske som blander salve som den, eller som lader noget deraf komme p�
 ==Forordning om røgelsen==
 v34 Og JHVH sagde til Moses: >>Tag dig velduftende stoffer:{T: Det hebraiske *sammîm* (>>velduftende stoffer<<) er omdiskuteret på dette sted; de nævnte stoffer er ikke alle velduftende. Nogle oversættere foreslår det neutrale: >>krydderier<<.} stakte-dråber og mollusk-pulver og galban-gummi, velduftende stoffer og ren røgelse; der skal være lige meget af hvert.{T: Ordret: >>del og del skal det være<<.}
 v35 Du skal lave det til en krydret røgelse som salvefremstillerens arbejde; saltet, ren og hellig.
-v36 Du skal støde noget af det til pulver og lægge noget af det foran Vidnesbyrdet i Åbenbaringsteltet, dér hvor jeg vil åbenbare mig for dig; det skal være højhelligt for jer.
+v36 Du skal støde noget af det til pulver og lægge noget af det foran Vidnesbyrdet i forsamlingsteltet, dér hvor jeg vil åbenbare mig for dig; det skal være højhelligt for jer.
 v37 Den røgelse som du laver efter dette forhold, må I ikke lave til jer selv; I skal regne den hellig for JHVH.{E: Ordret: >>hellig skal den være for jer for JHVH<<} 
 v38 Et menneske som laver noget som det for at nyde duften af det, skal udryddes af sit folk.<<
 

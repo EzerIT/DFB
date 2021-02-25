@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.05.2018>!!
+!!<Dato for denne version: 25.02.2021>!!
 
 ===Salme 42{T: Salmen er holdt i samme tone og stil som Sl 43 og hører formentlig nært sammen med den. De to salmer opfattes ofte som én salme.}===
 
@@ -12,7 +12,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Koras sønner. 
 
 ==Skilt fra Gud==
-v2 Ligesom en hjort skriger efter vandløb,{E: Vendingen og betydningen af *ʔᵃfîqê-māyim* (>>vandløb<<) er omdiskuteret. Nogle oversættere forstår det som >>rindende vand<<, andre som >>udtørrede vandløb<<. Også forståelsen af præpositionen *ʕal*, der oftest betyder >>på, over<<, men i sjældnere tilfælde betyder >>efter<<, spiller ind. Men da der ikke i sammenhængen er tale om udtørring, synes det nærliggende at forstå hjortens skrig som skrig efter rindende vand.}
+v2 Ligesom en hjort skriger efter vandløb med vand,{E: Vendingen og betydningen af *ʔᵃfîqê-māyim* (>>vandløb<<) er omdiskuteret. Nogle oversættere forstår det som >>rindende vand<<, andre som >>udtørrede vandløb<<. Også forståelsen af præpositionen *ʕal*, der oftest betyder >>på, over<<, men i sjældnere tilfælde betyder >>efter<<, spiller ind. Men da der ikke i sammenhængen er tale om udtørring, synes det nærliggende at forstå hjortens skrig som skrig efter et vandløb hvor der er rindende vand.}
 
 sådan skriger min sjæl til dig, o Gud!
 
@@ -32,7 +32,7 @@ idet man hele dagen siger til mig:
 
 >>Hvor er din Gud?<<
 
-v5 Dette vil jeg huske
+v5 Disse ting vil jeg huske
 
 og udøse min sjæl over mig:{T: Udøse fortvivlelse over den nuværende tilstand.}
 
@@ -48,7 +48,7 @@ i festskaren.
 
 v6 Hvorfor er du nedbøjet, min sjæl,
 
-og bruser i mig?
+og er i oprør i mig?
 
 Vent på Gud, for jeg skal takke ham på ny
 
@@ -95,7 +95,7 @@ idet de hele dagen siger til mig:
 
 v12 Hvorfor er du nedbøjet, min sjæl?
 
-Og hvorfor bruser du i mig?
+Og hvorfor er du i oprør i mig?
 
 Vent på Gud, for jeg skal takke ham på ny,
 
