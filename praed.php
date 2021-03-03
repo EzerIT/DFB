@@ -77,6 +77,12 @@ function refg($book,$chap,$from=0,$to=0) {
                       <td><?= ref('Ef 5,[1]6-9','ef',5,1,9) ?> <?= refg('Ephesians',5,1,9) ?></td>
                       <td><?= ref('Luk 11,14-28','luk',11,14,28) ?> <?= refg('Luke',11,14,28) ?></td>
                   </tr>
+                  <tr>
+                      <td>14.3</td><td>Midfaste søndag</td>
+                      <td><?= ref('5 Mos 8,1-3','5mos',8,1,3) ?> <?= refh('Deuteronomium',8,1,3) ?></td>
+                      <td><?= ref('2 Kor 9,6-11','2kor',9,6,11) ?> <?= refg('II_Corinthians',9,6,11) ?></td>
+                      <td><?= ref('Joh 6,1-15','joh',6,1,15) ?> <?= refg('John',6,1,15) ?></td>
+                  </tr>
               </table>
           </div>
 
