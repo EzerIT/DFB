@@ -17,13 +17,14 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = [3,4,15];
 $chap['mark']     = range(1,16);
-$chap['luk']      = [11];
+$chap['luk']      = [1,11];
 $chap['joh']      = [6];
 $chap['ef']       = [5];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
 $chap['1pet']     = [3];
+$chap['1joh']     = [1];
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
@@ -55,6 +56,7 @@ $title['2kor']    = 'Andet Korintherbrev';
 $title['ef']      = 'Efeserbrevet';
 $title['1thess']  = 'Første Thessalonikerbrev';
 $title['1pet']    = 'Første Petersbrev';
+$title['1joh']    = 'Første Johannesbrev';
 
 $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
@@ -88,6 +90,7 @@ $abbrev['2kor'] = '2 Kor';
 $abbrev['ef']   = 'Ef';
 $abbrev['1thess'] = '1 Thess';
 $abbrev['1pet'] = '1 Pet';
+$abbrev['1joh'] = '1 Joh';
 
 $deabbrev = [];
 foreach ($abbrev as $k => $v)
@@ -102,6 +105,7 @@ $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 $style['matt']    = 'btn-secondary';
 $style['1pet']    = 'btn-secondary';
+$style['1joh']    = 'btn-secondary';
 
 $style['sl'] = array();
 for ($k=1; $k<=135; ++$k)
