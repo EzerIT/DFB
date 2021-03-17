@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.08.2016>!!
+!!<Dato for denne version: 17.03.2021>!!
 
 ===Zakarias' Bog, kapitel 9===
 
@@ -71,7 +71,7 @@ Se, din konge kommer til dig,
 
 han er retfærdig og sejrrig,
 
-fattig{T: Eller ydmyg.} og ridende på et æsel;
+ydmyg og ridende på et æsel;
 
 på en æselhoppes føl.
 
