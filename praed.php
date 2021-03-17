@@ -89,6 +89,12 @@ function refg($book,$chap,$from=0,$to=0) {
                       <td><?= ref('1 Joh 1,1-3','1joh',1,1,3) ?> <?= refg('I_John',1,1,3) ?></td>
                       <td><?= ref('Luk 1,26-38','luk',1,26,38) ?> <?= refg('Luke',1,26,38) ?></td>
                   </tr>
+                  <tr>
+                      <td>28.3</td><td>Palmesøndag</td>
+                      <td><?= ref('Zak 9,9-10','zak',9,9,10) ?> <?= refh('Sacharia',9,9,10) ?></td>
+                      <td><?= ref('Fil 2,5-11','fil',2,5,11) ?> <?= refg('Philippians',2,5,11) ?></td>
+                      <td><?= ref('Matt 21,1-9','matt',21,1,9) ?> <?= refg('Matthew',21,1,9) ?></td>
+                  </tr>
               </table>
           </div>
 
