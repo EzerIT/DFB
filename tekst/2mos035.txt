@@ -1,0 +1,52 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 35===
+
+==Overholdelse af sabbatten==
+v1 Moses samlede hele Israels børns menighed og sagde til dem: >>Dette er de ting,{E: Grundtekstens: *dāvār* kan – alt efter sammenhængen – oversættes både: >>ord<< og: >>ting<<. Her spilles der på begge betydninger.} som JHVH befalede at gøre:
+v2 I seks dage må der udføres arbejde, men på den syvende dag skal der være hellighed{E: Man skal muligvis underforstå >>dag<<, altså >>en hellig dag<<.} for jer, en sabbat med fuldstændig hvile{E: På hebraisk: *šabbat šabbātôn*. Roden/verbet: *šbt* betyder: >>hvile<<. Tilføjelsen: *šabbātôn* understreger at hviledagen (sabbatten) skal være fuldstændig hviledag.} for JHVH; enhver som udfører arbejde på den, skal lide døden.
+v3 I må ikke tænde ild noget sted hvor I bor på sabbatsdagen.<<
+
+== Offergaver til helligdommen==
+v4 Moses sagde til hele Israels børns menighed således:{T: Ordret: >>ved at sige<<.} >>Dette er den ting{T: Se note til vers 1.} som JHVH befalede ved at sige:
+v5 Af det som tilhører jer, skal I tage en afgift til JHVH; enhver som har et villigt hjerte, skal bringe en afgift til JHVH: guld, sølv og bronze,
+v6 purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, fint linned og gedeuld,
+v7 rødfarvede vædderskind og delfinskind{T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<} og akacietræ,
+v8 olie til lampen, balsam til salvningsolien og til vellugtende røgelse,
+v9 shoham-sten{T: Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord (*šōham*) antyder at stenen må være rødlig; karneol er måske det bedste bud.} og sten til at sætte på efoden og på brystskjoldet.
+
+==Arbejdet der skal udføres==
+v10 Og enhver blandt jer som har kunstnerisk færdighed,{T: Ordret: >>har et vist hjerte<<} de skal komme og lave alt det som JHVH har befalet: 
+v11 Boligen, dens telt og dets dække, dens hager og dens planker, dens tværlægter, dens stolper og dens fodstykker;
+v12 arken med dens bærestænger, sonedækket og forhænget;{T: Ordret: >>dækkets forhæng<</>>forhænget der dækker<<. Der er tænkt på forhænget mellem det Hellige og det Allerhelligste.}
+v13 bordet med dets bærestænger og alle dets redskaber og skuebrødet;
+v14 lampe-lysestagen og dens redskaber, dens lamper og lampeolien;
+v15 røgelsesalteret med dets stænger og salvningsolien og vellugtende røgelse, og tæppet for indgangen, for boligens indgang;
+v16 brændofferalteret med dets bronzegitter, dets bærestænger og alle dets redskaber, bækkenet og dets sokkel;
+v17 forhængene til forgården, dens stolper og dens fodstykker, og tæppet til forgårdens port;
+v18 pløkkene til boligen og pløkkene til forgården og deres barduner;
+v19 vævede klæder{T: Se note til 31,30.} til tjeneste i helligdommen; hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i.<<
+
+==Offergaverne samles ind==
+v20 Så gik de, hele Israels børns menighed, bort fra Moses’ nærhed.{T: Ordret: >>bort fra Moses’ ansigt<<.}
+v21 Og de kom, enhver{T: Ordret: >>hver mand<<.} hvis hjerte opmuntrede{T: Ordret: >>hvis hjerte løftede ham<<.} ham, og hver den, hvis ånd tilskyndede ham, de bragte JHVHs offergave til arbejdet på forsamlingsteltet og til hele tjenesten ved det og til de hellige klæder.
+v22 De kom, mændene såvel som kvinderne,{E: Den masoretiske tekst har en ret speciel konstruktion: *wayyāvōʔû hāˀᵃnāšîm ʕal-hannāšîm*. Spørgsmålet er, hvad præpositionen *ʕal* angiver her, normalt: >>på<<. Formodentlig skal den enten oversættes: >>såvel som<< eller: >>ved siden af<<.} alle med villigt hjerte bragte spænder,{T: Det hebraiske ord: *ḥāḥ* bruges andre steder om kroge, hvormed man holder dyr fangne. Her er der formodentlig tale om et spænde eller en broche. Men der er usikkerhed om hvilke smykker der præcist er ment i verset. De står alle i singularis der må opfattes som kollektiv betegnelse.} ringe{T: Der er formodentlig tænkt på øre- og/eller næseringe.} og fingerringe{T: Muligvis: >>seglringe<<.} og kugleformede smykker, alle ting af guld; enhver som foretog svingning med et svingningsoffer{T: Hermed menes: >>indviede et offer<<.} af guld for JHVH,
+v23 og enhver hos hvem der fandtes purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld og fint linned og gedeuld, rødfarvede vædderskind og delfinskind{T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<}, bragte det.
+v24 Enhver som gav en afgift af sølv og bronze, bragte afgiften til JHVH; og enhver hos hvem der fandtes akacietræ til noget af tjenestens arbejde, bragte det.
+v25 Enhver kvinde som havde kunstnerisk færdighed,{T: Ordret: >>et víst hjerte<<.} spandt med sine hænder, og de bragte det spundne: det purpurblå, purpurrøde og karminrøde{T: Ordret: >>karminrød orm<<.} uld og det fine linned.
+v26 Og alle kvinderne, hvis hjerte opmuntrede dem med visdom, spandt gedeulden.
+v27 Og overhovederne bragte shoham-sten{T: Se note til vers 9.} og stenene til at indfatte på efoden og på brystskjoldet,
+v28 balsammen og olien til lampen og til salvningsolien og til den vellugtende røgelse.
+v29 Hver mand og kvinde hvis hjerte tilskyndede til at bringe noget til alt det arbejde som JHVH ved Moses havde befalet at gøre, det bragte Israels børn som frivillig gave til JHVH.
+
+==Udpegning af håndværkerne==
+v30 Moses sagde til Israels børn: >>Se, JHVH har kaldet Besal’el ved navn; han er søn af Uri, søn af Hur, af Juda stamme.
+v31 Og han har fyldt ham med Guds ånd, med visdom, med forstand, med viden og evne til al slags håndværk,
+v32 til at lave kunstnerisk design,{T: Ordret: >>tænke tanker<<.} til at arbejde i guld, sølv og bronze,
+v33 til at skære sten, til at indfatte, til at udskære træ, til at udføre al slags kunstnerisk arbejde;
+v34 og han har i hans hjerte givet evnen til at undervise, ham og Oholiab, Akisamaks søn af Dans stamme.
+v35 Han har fyldt dem med visdom i hjertet til at udføre al slags arbejde med indgravering, med design, med kunstvævning i purpurblå, purpurrød og karminrød uld og fint linned, og vævning; de skal udføre al slags arbejde og lave kunstnerisk design.
+

@@ -1,0 +1,52 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 34===
+
+==De nye stentavler. Pagten fornyes==
+v1 JHVH sagde til Moses: >>Tilhug dig to stentavler ligesom de første, så vil jeg på tavlerne skrive de ord som var på de første tavler som du knuste.
+v2 Du skal være parat til i morgen; du skal om morgenen stige op på Sinajs bjerg og stille dig dér hos mig på bjergets top.
+v3 Ingen må stige op sammen med dig, og heller ikke må nogen vise sig på hele bjerget; hverken småkvæg eller hornkvæg må græsse hen imod dette bjerg.<<
+v4 Så tilhuggede han to stentavler ligesom de første, og Moses stod op tidligt om morgenen og steg op på Sinajs bjerg, som JHVH havde befalet ham, og han tog de to stentavler i hånden.
+v5 JHVH kom ned i skyen og stillede sig der hos ham og udråbte JHVHs navn.{T: Sidste del af sætningen oversættes forskelligt. Nogle vælger at supplere med Moses’ navn og oversætte: >>Moses påkaldte JHVHs navn<<. Problemet er at Moses ikke er nævnt. Andre oversætter: >>udråbte sit navn: JHVH<<. Problemet her er at den hebraiske tekst ikke har det personlige pronomen: >>sit<<. Meningen er formodentlig at de følgende vers specificerer det JHVH udråber.}
+v6 JHVH gik forbi ham{T: Ordret: >>for hans ansigt<<.} og råbte: >>JHVH, JHVH{T: Man kan overveje, om der er tale om en nominalsætning så der skulle oversættes: >>JHVH er JHVH<<. Verbet >>er<< bruges ikke i præsens i hebraisk.} er en barmhjertig og nådig Gud, sen til vrede og mægtig i nåde og sandhed,
+v7 som bevarer nåde mod tusinder, tilgiver skyld og overtrædelse og synd, men som afgjort{T: Den hebraiske tekst har verbet *nqh* (>>lade ustraffet<<) to gange: Først som infinitiv absolutus og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} ikke lader ustraffet, som hjemsøger fædrenes skyld på børn og på børnebørn, på dem i tredje og på dem i fjerde led.<<
+v8 Moses skyndte sig at knæle på jorden og tilbad,
+v9 og han sagde: >>Hvis jeg virkelig har fundet nåde for dine øjne, Herre, så beder jeg, Herre, gå nu blandt os; for det er et stivnakket folk, men tilgiv os vor skyld og vor synd, og gør os til din arvelod!<<{T: Sætningen kan også oversættes: >>men du har tilgivet os vor skyld og synd og gjort os til din arvelod.<< I sammenhængen er det dog rimeligere at opfatte den som ydmyg bøn.}
+v10 Han sagde: >>Se, jeg vil slutte en pagt – foran hele dit folk vil jeg gøre undere som ikke er skabt på hele jorden eller hos noget folkeslag; og hele det folk, i hvis midte du er, skal se JHVHs gerning; for frygtindgydende er det som jeg skal gøre med dig.{T: Mange oversætter: >>for dig<<, men *ʕim* angiver her, hvad der vil ske når JHVH går med Moses og folket.}
+
+==Advarsel mod at blive som andre==
+v11 Hold du det, som jeg befaler dig i dag. Se, jeg vil drive amoritterne, kana’anæerne, hittitterne, perizzitterne, hivvitterne og jebusitterne bort foran dig.{T: Ordret: >>bort fra dit ansigt<<.}
+v12 Vogt dig for at slutte pagt med nogen indbygger i landet{T: Ordret: >>med en landets indbygger<<.}  du kommer ind i, for at han ikke skal blive en snare i din midte.
+v13 Derimod skal I bryde deres altre ned og sønderbryde deres stenstøtter og hugge deres Ashera-pæle{T: I den hebraiske tekst tales der blot om >>ashera’er<<. Det er usikkert om det drejer sig om >>pæle<< eller gudebilleder.} om –  
+v14 for du skal ikke tilbede en anden gud; for JHVH, hans navn er >>Skinsyg<<, han er en skinsyg Gud.
+v15 – så at du ikke slutter pagt med nogen indbygger i landet,{T: Ordret: >>med en landets indbygger<<.}  de horer med deres guder og ofrer til deres guder, og så indbyder en dig, så du spiser af hans offer; 
+v16 og du tager af hans døtre til dine sønner, og hans døtre horer med deres guder, og de får dine sønner til at hore med deres guder.
+v17 Du må ikke lave dig støbte guder.
+
+==Forordninger om, hvordan pagten skal overholdes==
+v18 Du skal holde de usyrede brøds fest, i syv dage skal du spise usyrede brød som jeg har befalet dig med hensyn til den fastsatte tid i abib måned; for i abib måned drog du ud af Egypten.
+v19 Alt det som åbner moderliv, tilhører mig, også hvert handyr{T: Grundteksten har: *tizzāxār* der skulle oversættes: >>bliver husket<<. Det er i øvrigt femininum der er vanskeligt at indplacere i sammenhængen. Normalt går man ud fra at der skulle stå: *hāzzāxār*: >>handyr<<. Denne forståelse støttes af de gamle oversættelser.} af dit kvæg, førstefødt okse eller småkvæg.
+v20 Det førstefødte æsel kan du løskøbe med et stykke småkvæg, men hvis du ikke vil frikøbe det, skal du brække halsen på det. Enhver førstefødt blandt dine sønner skal du løskøbe, og ingen må vise sig for mig{T: Ordret: >>for mit ansigt<<.} tomhændet.
+v21 Seks dage skal du arbejde, og på den syvende dag skal du hvile; med pløjningen og med høsten skal du hvile.
+v22 Du skal holde ugefesten med førstegrøden af hvedehøsten, og frugthøstfesten ved årsskiftet.
+v23 Tre gange om året skal alt dit mandkøn vise sig for Herren JHVH, Israels Gud.{T: Ordret: >>Guds ansigt<<, ligesom i det følgende vers.}
+v24 For jeg vil drive folkeslag bort fra dig og udvide din grænse; og ingen skal begære din jord{T: Kan også oversættes: >>dit land<<.} når du drager op for at vise dig for JHVH, din Gud, tre gange om året.
+v25 Du må ikke ofre mit slagtoffers blod sammen med syret brød, og påskefestens slagtoffer må ikke ligge natten over til om morgenen.
+v26 Det bedste af din jords første afgrøde skal du bringe til JHVHs, din Guds, hus; du må ikke koge et kid i dets mors mælk.<<
+
+==De nye lovtavler==
+v27 JHVH sagde til Moses: >>Skriv dig disse ord; for på grundlag af disse ord har jeg sluttet en pagt med dig og med Israel.<<
+v28 Og han var dér hos JHVH fyrre dage og fyrre nætter, han spiste ikke brød og drak ikke vand; og han{E: Ifølge vers 1 og 5 Mos. 4, 13 er meningen at det er JHVH der skriver på tavlerne.} skrev pagtens ord, de ti ord på tavlerne.
+
+==Moses’ skinnende ansigt==
+v29 Men da Moses kom ned fra Sinajs bjerg, og vidnesbyrdets to tavler var i Moses’ hånd, da han kom ned fra bjerget, da vidste Moses ikke at hans ansigts hud skinnede fordi han havde talt med ham.{E: det er JHVH.}
+v30 Aron og alle Israels børn så Moses, og se, hans ansigts hud skinnede, og de var bange for at komme tæt på ham.
+v31 Men Moses kaldte på dem, og de kom tilbage til ham, Aron og alle overhovederne i menigheden, og Moses talte til dem.
+v32 Derefter nærmede alle Israels børn sig, og han pålagde dem alt det som JHVH havde talt med ham om på Sinajs bjerg.
+v33 Da Moses var færdig med at tale med dem, lagde han et slør over sit ansigt.
+v34 Men når Moses gik ind for JHVHs ansigt for at tale med ham, tog han sløret af, indtil han gik ud igen; så gik han ud og fortalte Israels børn, hvad der var pålagt ham.
+v35 Israels børn så Moses’ ansigt, at huden på Moses’ ansigts skinnede; så lagde Moses igen sløret over sit ansigt indtil han gik ind igen for at tale med ham.
+

@@ -1,0 +1,48 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 37===
+
+==Arken fremstilles==
+v1 Besal’el lavede arken af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.
+v2 Han beklædte den med purt guld indeni og udenpå, og han lavede en guldkant rundt om den.
+v3 Han støbte fire guldringe til dens fire fødder, nemlig to ringe på dens ene side og to ringe på dens anden side.
+v4 Han lavede bærestænger af akacietræ og beklædte dem med guld. 
+v5 Og han stak bærestængerne ind i ringene på arkens sider til at bære arken med.
+
+==Sonedækket{E: Tidligere oversat: >>nådestol<<.} fremstilles==
+v6 Han lavede et sonedækken af purt guld, to og en halv alen lang og halvanden alen bred.
+v7 Og han lavede to keruber af guld, som udhamret arbejde lavede han dem fra de to ender af sonedækket, 
+v8 én kerub fra den ene ende og én kerub fra den anden ende; i ét med sonedækket lavede han keruberne fra begge dets ender.
+v9 Keruberne bredte vingerne opad og dækkede over sonedækket med deres vinger; og deres ansigter vendte den ene mod den anden, kerubernes ansigter vendte mod sonedækket.
+
+==Skuebrødsbordet fremstilles==
+v10 Han lavede bordet af akacietræ, to alen langt og en alen bredt og halvanden alen højt.
+v11 Han beklædte det med purt guld, og han lavede en guldkant om det.
+v12 Han lavede en liste på en håndsbredde rundt om det og lavede en guldkant om dets liste rundt om det. 
+v13 Han støbte fire guldringe til det og satte ringene i de fire hjørner ved dets fire fødder.
+v14 Tæt ved listen sad ringene som holdere{T: Ordret: >>hjem<<.} for bærestængerne til at bære bordet med.
+v15 Han lavede bærestængerne af akacietræ og beklædte dem med guld, de var til at bære bordet.
+v16 Og han lavede redskaberne som skulle være på bordet, dets fade, dets skåle, dets offerskåle og kanderne, med hvilke der skulle udgydes drikoffer;{T: Ordet >>drikoffer<< står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen >>offerskåle<<.}  af purt guld.
+
+==Lysestagen fremstilles==
+v17 Han lavede lysestagen af purt guld; som udhamret arbejde lavede han lysestagen; dens fod og selve stagen;{T: Ordret: >>dens rør<< (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.} dens bægre, dens knopper og dens blomster gik i ét med den.{T: Ordret: >>var fra den<<. Hele stagen blev lavet ud af ét stykke guld.}
+v18 Seks arme{T: Ordret: >>rør<<.}  gik ud fra dens sider, tre af lysestagens arme fra dens ene side og tre af lysestagens arme fra dens anden side.
+v19 Der var tre bægre formede som mandelblomster på den første arm, knop og blomst, og tre bægre formede som mandelblomster på en anden arm, knop og blomst; sådan var det på de seks arme der gik ud fra lysestagen.
+v20 Men på lysestagen var der fire bægre formede som mandelblomster med dens knopper og dens blomster;
+v21 nemlig en knop under de to arme på den og en knop under de to andre arme på den og en knop under de to øvrige arme på den; ved de seks arme som går ud fra lysestagen.
+v22 Deres knopper og deres arme var i ét med den; det hele var ét udhamret arbejde af purt guld.
+v23 Han lavede dens lamper, syv, og dens lysesakse og dens fyrbækkener af purt guld.
+v24 Af en talent purt guld lavede han den og alle dens redskaber.
+
+==Røgelsesalteret fremstilles==
+v25 Han lavede røgelsesalteret af akacietræ, én alen langt og én alen bredt,{T: Ordret: >>én alen dets længde og én alen dets bredde<<.} kvadratisk, og to alen højt; dets horn var i ét med det.
+v26 Han beklædte det med purt guld, dets overdel og rundt om dets sider{T: Det hebraiske ord: *qîr* skal i de fleste sammenhænge oversættes: >>mur<<. I det næste vers er der brugt to andre hebraiske ord.} og dets horn; og han lavede en kant af guld hele vejen rundt.
+v27 Han lavede to guldringe til det under dets kant på to af dets sider, på to af dets sider, som holdere for bærestængerne, så man kunne bære det med dem.
+v28 Han lavede bærestængerne af akacietræ og beklædte dem med guld.
+
+==Salvningsolien og røgelsen fremstilles==
+v29 Han lavede den hellige salvningsolie og den rene, vellugtende røgelse som salvefremstillerens arbejde.
+

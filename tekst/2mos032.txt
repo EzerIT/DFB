@@ -1,0 +1,50 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 32===
+
+== Guldkalven==
+v1 Da folket indså at Moses tøvede med at komme ned fra bjerget, samlede folket sig mod{E: Når verbet *qhl* i GT forbindes med præpositionen *ʕal*, er meningen at man samler sig >>imod<< en.} Aron og sagde til ham: >>Rejs dig, lav os guder{E: Grundteksten anvender her og i vers 4, 8, 23, 31 (og på græsk ApG 7,40) ordet: *ʔᵉlōhîm*, der er pluralis. Ordet anvendes om Israels Gud med singulær betydning, og i de allerfleste tilfælde også med verbum og eventuelt prædikat i singularis. Her står verbet i pluralis, så det er nærliggende at oversætte ved pluralis, eventuelt: >>gudebilleder<<. Mange oversætter dog: >>en gud<<.} som kan gå foran os; for denne Moses, manden som førte os op fra Egyptens land – vi ved ikke, hvad der er sket med ham.<<
+v2 Aron sagde til dem: >>Tag{T: Verbet *prq* betyder egentlig: >>rive af/plyndre<<. Verbet skal formodentlig angive at det skal ske resolut og straks.} de guldringe, som er i jeres hustruers, jeres sønners og jeres døtres ører, og bring dem til mig.<<
+v3 Så tog hele folket guldringene ud af deres ører, og de bragte dem til Aron.
+v4 Han tog imod dem af deres hånd og formede guldet med mejslen{T: Ordet: *ḥereṭ* er omdiskuteret. Det optræder kun her og Es 8,1, hvor det oftest oversættes: >>griffel<<. Mange retter til: *ḥereś*: >>(i en) lerform<<. Det har dog ikke støtte i håndskrifterne.} og lavede det til en støbt tyrekalv. Da sagde de: >>Dette er dine guder, Israel, som førte dig op fra Egyptens land.<<{E: Se note til vers 1.}
+v5 Da Aron så det, byggede han et alter foran den; og Aron råbte: >>I morgen er der fest for JHVH.<<
+v6 De stod tidligt op den næste dag og ofrede brændofre og bragte måltidsofre, og folket satte sig ned for at spise og drikke, og de rejste sig for at lege.
+
+==På Sinaj bjerg==
+v7 Da sagde JHVH til Moses: >>Gå straks ned,{T: Ordret: >>gå, stig ned<<. De to imperativer angiver tilsammen at det skal ske straks og hurtigt.} for dit folk, som du førte op fra Egyptens land, har handlet slet.
+v8 De har hastigt vendt sig fra den vej som jeg bød dem, de har lavet sig en støbt tyrekalv, og de har tilbedt den og ofret til den og sagt: >Dette er dine guder, Israel, som førte dig op fra Egyptens land.<<<
+v9 Og JHVH sagde til Moses: >>Jeg har set dette folk, og se, det er et stivnakket folk.
+v10 Lad mig derfor tage mig af dem,{T: Der kunne også oversættes: >>Lad mig derfor være i fred<<.} så skal min vrede brænde mod dem og udslette dem. Men jeg vil gøre dig til et stort folk.<<
+v11 Men Moses bønfaldt{T: Ordret: >>søgte at gøre (JHVHs) ansigt blødt<<.} JHVH, sin Gud, og sagde: >>Hvorfor,{E: Hebraisk har to ord der oftest oversættes: >>hvorfor?<<. *lāmāʰ*, der er brugt her, peger hovedsagelig fremad: >>med hvilket formål?<<. Det andet, *maddûₐʕ*, peger tilbage: >>med hvilken begrundelse?<<. Moses spørger her ikke efter begrundelsen for Guds straf – den er klar nok – men efter formålet.} JHVH, brænder din vrede mod dit folk som du førte ud af Egyptens land med stor kraft og med en stærk hånd?
+v12 Hvorfor skal egypterne kunne sige: >Han har i ondskab ført dem ud for at dræbe dem i bjergene og udrydde dem fra jordens overflade<? Vend om fra din brændende vrede og fortryd det onde mod dit folk!
+v13 Husk på Abraham, Isak og Israel, dine tjenere, som du har tilsvoret ved dig selv og sagt til dem: >Jeg vil gøre jeres efterkommere{T: Ordret: >>sæd<<.} talrige som himlens stjerner; og hele dette land vil jeg, som jeg har sagt, give jeres efterkommere, og de skal have det som evig arvelod.<<<
+v14 Da fortrød JHVH det onde som han havde talt om at ville gøre mod sit folk.
+
+==Moses i aktion==
+v15 Så vendte Moses sig og gik ned ad bjerget med vidnesbyrdets to tavler i sin hånd, tavler beskrevne på begge sider, både på den ene og den anden side var der skrevet.
+v16 Tavlerne var Guds arbejde; og skriften var Guds skrift, indgraveret i tavlerne.
+v17 Da Josva hørte lyden af folket der råbte, sagde han til Moses: >>Der er krigslarm i lejren.<<
+v18 Men denne{T: Oversættelsen er omdiskuteret. Der kan også oversættes: >>og han sagde<<, så det er en fortsættelse af Josvas tale.} sagde: >>Det er ikke lyd af sejrsråb{T: Der kan også oversættes: >>sejrssang<< og >>sang om nederlag<<. Men der er sandsynligvis tale om at verbet *ʕnh* her optræder i to betydninger: >>råbe<< (i qal) og >>synge<< (i pi’el); de lyder ens, men staves lidt forskelligt.} og ikke lyd af nederlagsråb; lyd af sang hører jeg.<<
+v19 Men da Moses kom tæt på lejren og så tyrekalven og dansen, da optændtes hans vrede, og han kastede tavlerne fra sig {T: Ordret: >>ud af sine hænder<< Konsonantteksten har singularis: >>sin hånd<<, men masoreterne har vokaliseret som pluralis.} og knuste dem neden for bjerget.
+v20 Og han tog tyrekalven, som de havde lavet, og brændte den op med ild og knuste den til støv og strøede det ud over vandet og gav Israels børn det at drikke.
+v21 Moses sagde til Aron: >>Hvad har dette folk gjort dig, siden du har bragt så stor en synd over det?<<
+v22 Aron svarede: >>Min herres vrede må ikke brænde; du kender folket, at det er tilbøjeligt til ondt.
+v23 De sagde til mig: >Lav os guder,{E: Se note til vers 1.} som kan gå foran os; for denne Moses, manden som førte os op fra Egyptens land – vi ved ikke, hvad der er sket med ham.<
+v24 Da sagde jeg til dem: >For de som har guldsmykker{T: Ordret blot: >>guld<<. Tilsvarende i det følgende: >>tog det af og gav mig det … kastede det.<<} – I skal tage dem af,< og de gav mig dem; jeg kastede dem i ilden, og ud kom denne tyrekalv.<<
+v25 Da Moses så at folket var tøjlesløst – for Aron havde givet det frie tøjler til skadefryd{T: Ordet: *šimṣāʰ* forekommer i Bibelen kun her. Roden betyder formodentlig: >>hviske<<. Meningen er måske at hviske hånligt om israelitterne.} for deres fjender – 
+v26 da stillede Moses sig i lejrens port og sagde: >>Den der er for JHVH, kom til mig!<< Og alle Levis børn samlede sig hos ham.
+v27 Han sagde til dem: >>Sådan har JHVH, Israels Gud, sagt: >Enhver skal binde sit sværd om sin lænd; gå frem og tilbage, fra den ene port til den anden i lejren, og dræb hver især sin bror og hver især sin ven og hver især sin slægtning.<<<
+v28 Og Levis børn gjorde som Moses havde sagt, og på den dag faldt der henved tre tusind mand af folket. 
+v29 Da sagde Moses: >>Gå i dag i JHVHs tjeneste{T: Ordret: >>Fyld i dag jeres hånd for JHVH<<. Udtrykket >>fylde hånd<< betegner indsættelse i tjeneste, normalt i præstetjeneste. Det er dog omdiskuteret hvordan grundtekstens *milʔû* skal forstås. Det er vokaliseret som imperativ qal. Andre vil dog vokalisere som pi’el 3. person qatal: *millᵊʔû*, da verbet normalt optræder i pi’el i forbindelse med indsættelse. Oversættelsen vil da blive: >>I er i dag blevet indsat i JHVHs tjeneste<<.} – for enhver var imod sin søn og imod sin bror – så han kan bringe velsignelse over jer i dag.<<
+
+==Moses’ bøn og JHVHs svar==
+v30 Næste dag sagde Moses til folket: >>I har begået en stor synd,{T: Ordret: >>syndet en stor synd<<.} men nu vil jeg gå op til JHVH; måske kan jeg skabe forsoning for jeres synd.<<
+v31 Så vendte Moses tilbage til JHVH, og han sagde: >>Ak, dette folk har begået en stor synd, og de har lavet sig guder af guld.
+v32 Men nu: Gid du vil tilgive dem deres synd;{T: Sprogligt er denne sætning egentlig ufuldendt: >>Hvis du tilgiver dem deres synd – (men hvis ikke …).<<} men hvis ikke, så  beder jeg dig, slet mig af din bog, som du har skrevet!<<
+v33 Men JHVH sagde til Moses: >>Hver den som har syndet imod mig, vil jeg slette af min bog. 
+v34 Gå nu, før folket til det sted som jeg sagde til dig: >Se, min engel skal gå foran dig!< Men på den dag da jeg straffer,{T: Ordret: >>hjemsøger<<.} vil jeg straffe dem for deres synd.<<
+v35 Og JHVH slog folket fordi de havde lavet kalven, den Aron havde lavet.
+

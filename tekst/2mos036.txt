@@ -1,0 +1,52 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 36===
+
+v1 Besal’el og Oholiab og hver mand med kunstforstand,{T: Ordret: >>víst hjerte<<.} til hvem JHVH har givet visdom og forstand til at vide at udføre alt arbejdet til tjenesten ved helligdommen, skal gøre efter alt det som JHVH har befalet.<<
+v2 Så tilkaldte Moses Besal’el og Oholiab og hver mand med kunstforstand som JHVH havde givet visdom i hjertet, enhver hvis hjerte opmuntrede{T: Ordret: >>hvis hjerte løftede ham<<.} ham til at komme til arbejdet for at udføre det.
+v3 Og de modtog af Moses{T: Ordret: >>fra foran Moses<<.  Meningen kan være at det skete under opsyn af Moses.} hele afgiften som Israels børn bragte til at udføre arbejdet omkring tjenesten ved helligdommen. Men de bragte ham endnu flere frivillige gaver morgen efter morgen,
+v4 og alle de kunstforstandige som udførte alt arbejdet ved helligdommen, kom, hver mand fra det arbejde han udførte,
+v5 og de talte til Moses og sagde: >>Folket bringer mere frem end nødvendigt til tjenesten, til det arbejde, som JHVH har befalet at udføre.<<
+v6 Så befalede Moses, og de fik bragt bud ud i lejren med besked om at ingen,  hverken mand eller kvinde, skulle arbejde mere for afgiften til helligdommen; og folket holdt op med at bringe ting.
+v7 Arbejdsmaterialet{T: Ordret: >>arbejdet<<} var tilstrækkeligt til at gøre alt arbejdet færdigt, og mere end det.
+
+==Indretningen af helligdommen==
+v8 Så lavede alle der havde forstand på det, blandt dem som udførte arbejdet, boligen af ti teltduge af tvundet, fint linned og purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, med {T: Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være at de der lavede teltdugene, vævede dem, så der fremstod billeder af keruber.} kunstfærdigt forarbejdede keruber lavede de dem.
+v9 Hver teltdug var otteogtyve alen lang, og hver teltdug var fire alen bred, alle teltduge havde samme mål.
+v10 Man forbandt{T: Kan også oversættes: >>han forbandt<<, underforstået: >>Besal’el<<.} de fem teltduge, den ene til den anden, og forbandt de andre fem teltduge, den ene til den anden.
+v11 Og man lavede løkker af purpurblå uld på den ene teltdugs kant, for enden af det sammensyede; det samme lavede man på kanten af den yderste teltdug af det andet sammensyede.
+v12 Halvtreds løkker lavede man på den første teltdug, og halvtreds løkker lavede man for enden af teltdugen på det andet sammensyede stykke; løkkerne sad overfor hinanden, en overfor en.
+v13 Man lavede halvtreds guldhager og forbandt teltdugene, den ene til den anden, med hagerne, så boligen blev en enhed.
+v14 Man lavede teltduge af gedeuld til et telt over boligen; elleve teltduge lavede man.
+v15 Længden af en teltdug var tredive alen, og fire alen var bredden af en teltdug; de elleve teltduge havde ét mål.
+v16 De fem teltduge fæstede man sammen for sig og de seks teltduge for sig.
+v17 Man lavede halvtreds løkker på kanten af den yderste teltdug i det sammensyede stykke, og man lavede halvtreds løkker på kanten af teltdugen i den anden række.
+v18 Man lavede halvtreds bronzehager til at føje teltet sammen med, så det blev ét.
+v19 Og man lavede et dække over teltet af rødfarvede vædderskind og et dække af delfinskind{T: Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: >>delfin<< eller: >>søko<<} derover.
+
+==Træskelettet fremstilles==
+v20 Man lavede plankerne til boligen af akacietræ, så de var lodrette.
+v21 Hver planke var ti alen lang, og hver planke var halvanden alen bred.
+v22 På hver planke var der to tappe, den ene forbunden med den anden; sådan lavede man alle boligens planker.
+v23 Man lavede plankerne til boligen, tyve planker til sydsiden, mod syd.
+v24 Og man lavede fyrre fodstykker af sølv under de tyve planker, to fodstykker under den ene planke til dens to tappe og to fodstykker under den anden planke til dens to tappe.
+v25 Til boligens anden side, mod nord, lavede man tyve planker
+v26 og deres fyrre fodstykker af sølv, to fodstykker under den ene planke og to fodstykker under den anden planke.
+v27 Til boligens bagside mod vest lavede man seks planker,
+v28 man lavede to planker til boligens hjørner på bagsiden,
+v29 og de var ”tvillinger” {E: Der er formodentlig tale om et teknisk udtryk. Meningen er nok, at det skal være dobbeltplanker med én dobbeltplanke i hvert hjørne.} forneden og samtidig samlede foroven i én ring; sådan lavede dem begge, til de to hjørner.
+v30 Der var otte planker med deres fodstykker af sølv, seksten fodstykker, to fodstykker{T: Ordret: >>to fodstykker, to fodstykker<<.} under hver planke.
+v31 Man lavede tværlægter af akacietræ; fem til plankerne ved boligens ene side,
+v32 og fem tværlægter til plankerne ved boligens anden side, og fem tværlægter til boligens planker til bagsiden, mod vest.
+v33 Man lavede den midterste tværlægte til at gå tværs over fra midt på plankerne, fra den ene side til den anden. 
+v34 Man beklædte plankerne med guld, deres ringe lavede man af guld til holdere for tværlægterne, og man beklædte tværlægterne med guld.
+
+==De to forhæng fremstilles==
+v35 Man lavede forhænget af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber lavede man det.
+v36 Og man lavede fire stolper til det af akacietræ og beklædte dem med guld, deres kroge var af guld; og man støbte fire fodstykker af sølv til dem.
+v37 Man lavede tæppet til teltets indgang af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, lavet af en der laver broget vævning,
+v38 og  man lavede fem stolper og deres kroge til det,  og man beklædte deres toppe og deres tværstænger med guld og deres fem fodstykker med bronze.
+

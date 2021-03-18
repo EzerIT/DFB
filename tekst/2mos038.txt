@@ -1,0 +1,46 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 38===
+
+==Brændofferalteret fremstilles==
+v1 Han lavede brændofferalteret af akacietræ, fem alen langt og fem alen bredt, kvadratisk og tre alen højt.
+v2 Han lavede horn på dets fire hjørner, dets horn gik i ét med det;{T: Ordret: >>dets horn gik ud fra det<<.} og han beklædte det med bronze.
+v3 Han lavede alle alterets redskaber, spandene, skovlene, stænkeskålene, gaflerne og fyrbækkenerne; alle dets redskaber lavede han af bronze.
+v4 Til alteret lavede han et gitterværk, lavet som et bronzenetværk, under dets indfatning, og det nåede nedefra op til midt på det.
+v5 Han støbte fire ringe i de fire hjørner på bronzegitteret som holdere for bærestængerne,
+v6 og han lavede bærestængerne af akacietræ og beklædte dem med bronze.
+v7 Så han stak bærestængerne i ringene på alterets sider så man kunne bære det med dem; han lavede det hult, af brædder.
+
+==Fremstilling af bronzebækkenet==
+v8 Han lavede bækkenet af bronze og dets sokkel af bronze af de spejle,{T: Ordet: *marʔāʰ* skal alle andre steder i GT oversættes: >>syn/ansigt/tilsynekomst<<, men her må det formodentlig oversættes: >>spejl<<.} som tilhørte de tjenstgørende kvinder der gjorde tjeneste ved forsamlingsteltets indgang.
+
+==Forgårdens forhæng fremstilles==
+v9 Han lavede forgården: ved den søndre side, mod syd, var forgårdens forhæng af tvundet, fint linned, hundred alen langt,
+v10 med tyve stolper dertil med deres tyve fodstykker af bronze, og stolpernes kroge og deres tværstænger,{T: Det er i grundteksten strengt taget ikke angivet om det skal være med tværstænger eller bånd.} af sølv;
+v11 ved den nordre side var der hundred alen, dertil tyve stolper og deres tyve fodstykker af bronze; stolpernes kroge og deres tværstænger af sølv;
+v12 ved den vestre side var forhængene halvtreds alen, dertil ti stolper og deres ti fodstykker; stolpernes kroge og deres tværstænger var af sølv.
+v13 Ved den østre side, mod øst, var der halvtreds alen;
+v14 forhængene til den ene side var femten alen med tre stolper og deres tre fodstykker;
+v15 og til den anden side, på begge sider af forgårdens port, var forhængene femten alen med tre stolper og deres tre fodstykker.
+v16 Alle forhængene omkring forgården var af tvundet, fint linned.
+v17 Fodstykkerne til stolperne var af bronze, mens stolpernes kroge og deres tværstænger var af sølv, og deres toppe var beklædt med sølv, og disse var forbundne med tværstænger af sølv, det gjaldt alle forgårdens stolper.
+v18 Tæppet for forgårdens port var lavet af en der laver broget vævning, af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, tyve alen langt, og i hele dets bredde var det fem alen højt i lighed med forgårdens forhæng;
+v19 dertil var der fire stolper med fire fodstykker af bronze, med kroge af sølv og toppe beklædt med sølv og tværstænger{T: Se note til vers 10.} af sølv.
+v20 Alle pløkkene til boligen og til forgården hele vejen rundt var af bronze.
+
+==Regnskabet for helligdommen==
+v21 Dette er opgørelsen for boligen, Vidnesbyrdets bolig, som det blev opgjort efter Moses’ befaling{T: Ordret: >>mund<<}, levitternes arbejde, under tilsyn{T: Ordret: >>hånd<<.} af Itamar, søn af Aron, præsten.
+v22 Besal’el, søn af Uri, søn af Hur, af Juda stamme, lavede alt det som JHVH havde befalet Moses,
+v23 og sammen med ham Oholiab, søn af Akisamak, af Dans stamme, der arbejdede med indgravering, med design, med broget vævning i purpurblå, purpurrød og karminrød uld og fint linned.
+v24 Alt guldet, som blev brugt til arbejdet, til alt arbejdet på helligdommen, svingningens{E: Hermed menes: >>det indviede<<.} guld, var 29 talenter og 730 sekel efter helligdommens sekel.{T: Kan også oversættes: >>efter helligdommens vægt<< eller: >>efter den hellige sekel<<.}
+v25 Sølvet fra dem som var mønstret i menigheden, var 100 talenter og 1775 sekel efter helligdommens sekel,
+v26 en beka for hvert hoved – det er en halv sekel efter helligdommens sekel – af hver den som gik over til de mønstrede, fra tyve år og derover, af 603.550 .
+v27 Der var 100 talenter sølv til at støbe helligdommens fodstykker og forhængets fodstykker; 100 fodstykker lavet af 100 talenter, en talent til et fodstykke.
+v28 Af de 1775 sekel lavede han kroge til stolperne og overtrak deres toppe og forbandt dem.
+v29 Svingningens bronze var 70 talenter og 2400 sekel.
+v30 Deraf lavede man fodstykkerne til forsamlingsteltets indgang, bronzealteret og bronzegitteret til det, alle redskaberne til alteret, 
+v31 fodstykkerne rundt om forgården, fodstykkerne til forgårdens port og alle pløkkene til boligen og alle pløkkene rundt om forgården.
+

@@ -1,0 +1,31 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.03.2021>!!
+===Anden Mosebog, kapitel 31===
+
+==Håndværkerne til arbejdet på helligdommen==
+v1 JHVH talte til Moses og sagde:
+v2 >>Se, jeg har  kaldet Besal’el ved navn, han er søn af Uri, søn af Hur, fra Juda stamme,
+v3 og jeg har fyldt ham med Guds Ånd, med visdom, med forstand, med viden og evne til al slags håndværk,
+v4 til at lave kunstnerisk design,{T: Ordret: >>tænke tanker<<.} til at arbejde i guld, sølv og bronze,
+v5 til at skære sten, til at indfatte, til at udskære træ, til at udføre al slags arbejde.
+v6 Og jeg, se, jeg har givet ham Oholiab, Akisamaks søn fra Dans stamme, og i hvert menneske med kunstnerisk færdighed{T: Ordret: >>I hvert vist hjertes hjerte<<.} har jeg givet visdom, så de kan lave alt det, som jeg har befalet dig:
+v7 Forsamlingsteltet, Vidnesbyrdets ark, sonedækket som er på den, alle redskaber i teltet,
+v8 bordet og dets redskaber, lysestagen af purt guld{T: Ordret blot: >>den rene/pure lysestage<<.} og alle dens redskaber, røgelsesalteret,
+v9 brændofferalteret og alle dets redskaber, bækkenet og dets sokkel,
+v10 de vævede klæder,{T: Oversættelsen af: *bigdê haśśᵊrād* er usikker og omdiskuteret. Det oversættes ofte: >>tjenestedragter<<, men de egentlige tjenestedragter omtales umiddelbart efter. Ordene bruges også i 35,19; 39,1.41; alle tre steder med tilføjelsen: >>til tjenesten i helligdommen<<. Ordet: *śᵊrād* betyder formodentlig: >>flettet/vævet<<. } de hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i,
+v11 salvningsolien og den vellugtende røgelse til helligdommen; sådan som jeg har befalet dig, skal de lave det<<.
+
+==Forordning om sabbatten==
+v12 JHVH talte til Moses og sagde: 
+v13 >>Og du – tal til Israels børn og sig: >Men I skal holde mine sabbatter, for den er et tegn mellem mig og jer gennem jeres slægtled, så I ved at jeg er JHVH som helliger jer.
+v14 I skal holde sabbatten, for den er hellig for jer; den der vanhelliger den, skal bestemt dræbes,{E: Den hebraiske tekst har verbet *mwt* (>>dø<<) to gange: Først som infinitiv absolutus og derefter som yiqtol hof’al. Det er en almindelig måde i hebraisk til forstærkelse af verbet, her gengivet med: >>bestemt<<. I hof’al skal det oversættes: >>dræbes<<.} for enhver som udfører arbejde på den, den sjæl skal udryddes fra sit folks midte.
+v15 I seks dage skal der udføres arbejde, men på den syvende dag er der fuldstændig sabbatshvile, hellig for JHVH. Enhver som udfører arbejde på sabbatsdagen, skal bestemt dræbes.
+v16 Israels børn skal overholde sabbatten, så de højtideligholder sabbatten i deres slægtled, en evig pagt. 
+v17 Mellem mig og Israels børn er den et evigt tegn; for på seks dage skabte JHVH himlen og jorden, men på den syvende dag hvilede han og rekreerede sig.<<<
+
+==Moses får lovens tavler==
+v18 Og  da han var færdig med at tale med Moses på Sinajs bjerg, gav han ham Vidnesbyrdets to tavler, stentavler beskrevne med Guds finger.
+

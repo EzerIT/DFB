@@ -1,7 +1,7 @@
 <?php
 
 $chap['1mos']     = [3];
-$chap['2mos']     = range(1,30);
+$chap['2mos']     = range(1,40);
 $chap['4mos']     = range(1,36);
 $chap['5mos']     = [8,18];
 $chap['dom']      = range(1,21);
