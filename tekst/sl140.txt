@@ -21,7 +21,7 @@ hver dag ansporer{E: Den masoretiske tekst har vokaliseret: *yāgûrû* (af verb
 
 v4 De har skærpet deres tunge som en slange,
 
-der er slangegift{T: Det er usikkert hvilken slange der er ment med grundtekstens ord (*ʕaxšûv*). Men formodentlig en bestemt giftslange. I jødisk tradition er der dog tænkt på en giftig edderkop.} under deres læber. Sela.{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+der er slangegift{T: Det er usikkert hvilken slange der er ment med grundtekstens ord (*ʕaxšûv*). Men formodentlig en bestemt giftslange. I jødisk tradition er der dog tænkt på en giftig edderkop.} under deres læber. Sela{N: Sela}
 
 v5 Vogt mig, JHVHv, mod synderes{T: Kan også oversættes: >>ugudeliges<<.} hænder,
 
@@ -33,7 +33,7 @@ v6 De hovmodige har skjult en fælde for mig
 
 og ondskabsfulde{E: Den masoretiske tekst har: *waḥᵃvālîm*: >>og snore<<. Oversættelsen må i givet fald lyde: >>og med snore spændt net ud langs stien<<. Men sprogligt er det ikke oplagt. Man retter derfor oftest nu vokaliseringen til: *wᵊḥōvlîm*: >>og ondskabsfulde<< eller med indgreb i konsonantteksten: *mᵊḥabbᵊlîm*: >>de der ødelægger<<.} har udspændt net langs stien,
 
-de har lagt snarer for mig. Sela.
+de har lagt snarer for mig. Sela
 
 
 v7 Jeg har sagt til JHVH: >>Du er min Gud,
@@ -46,7 +46,7 @@ du har skærmet mit hoved på kampens dag.
 
 v9 Opfyld ikke, JHVHv, en ugudeligs begæringer,
 
-lad ikke hans onde anslag lykkes, de vil vise sig overlegne.<<{E: Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: >>de løfter sig<<), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at >>Sela<< fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: >>de (der omgiver mig) løfter (hovedet)<<. V. 10 kan dog så også opfattes konditionalt: >>Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem<<.} Sela.
+lad ikke hans onde anslag lykkes, de vil vise sig overlegne.<<{E: Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: >>de løfter sig<<), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at >>Sela<< fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: >>de (der omgiver mig) løfter (hovedet)<<. V. 10 kan dog så også opfattes konditionalt: >>Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem<<.} Sela
 
 ==Bøn om tilintetgørelse af de onde==
 v10 De som omgiver mig, deres hoved

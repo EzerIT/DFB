@@ -25,7 +25,7 @@ v3 Gud kommer fra Teman;
 
 den hellige fra Parans bjerg.
 
-Sela
+Sela{N: Sela}
 
 Hans majestæt dækker himlen,
 
@@ -63,7 +63,7 @@ v9 Din bue tages frem;{E: Ordret >>din bue blotlægges<<.}
 
 du mætter koggeret med pile.{E: Den midterste del af verset er meget vanskelig, og der er forslået en lang række forskellige oversættelser.}
 
-Sela.
+Sela
 
 Du kløver jorden med floder.
 
@@ -90,7 +90,7 @@ Du knuste hovedet af den ugudeliges hus,
 
 idet du blottede det fra grundvolden op til halsen.
 
-Sela.
+Sela
 
 v14 Med hans spyd{E: Ordret >>stav<<.} gennemborede du hovederne på hans krigere
 

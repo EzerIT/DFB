@@ -41,7 +41,7 @@ jeg tænker over dine hænders værk.
 
 v6 Jeg har bredt mine hænder ud mod dig,
 
-min sjæl er som udtørret land for dig.{T: Det er underforstået at sjælen tørster efter Gud.} Sela.{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+min sjæl er som udtørret land for dig.{T: Det er underforstået at sjælen tørster efter Gud.} Sela{N: Sela}
 
 ==Bøn==
 v7 Skynd dig, svar{T: Kan også oversættes: >>bønhør<<.} mig, JHVHv,

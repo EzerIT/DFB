@@ -20,7 +20,7 @@ v3 hans hytte blev sat i Salem, og hans bolig på Zion.
 
 v4 Dér knuste han brændende pile,{T: Ordret: >>buens lyn/brand<<.}
 
-skjold og sværd og krig. Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+skjold og sværd og krig. Sela{N: Sela}
 
 ==Gud sejrer==
 v5 Glansfuld{E: Oftest formoder man at konsonanterne er byttet om så der ikke skal stå: *nāʔôr* (>>glansfuld/lysende<<), men: *nôrāʔ*: >>frygtelig/frygtindgydende<<.} er du,
@@ -47,7 +47,7 @@ jorden frygtede og blev stille,
 
 v10 da Gud rejste sig til dom
 
-for at frelse alle jordens{T: Kan med lige så god ret oversættes: >>landets<<. Det er dog samme ord som i v.9.} ydmyge. Sela{E: Betydningen af dette musikudtryk, der forekommer i 39 salmer, er ukendt. Det angiver muligvis et mellemspil. Andre forslag er: gentagelse, doxologi, højere toneleje, stilhed for tilbedelse o.a.}
+for at frelse alle jordens{T: Kan med lige så god ret oversættes: >>landets<<. Det er dog samme ord som i v.9.} ydmyge. Sela{N: Sela}
 
 ==Tilbed den almægtige Gud==
 v11 For menneskets vrede skal prise dig,

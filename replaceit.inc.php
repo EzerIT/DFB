@@ -115,6 +115,9 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/\s*{K: *([^}]+)}/';
     $to[] = '';
 
+    $from[] = '/\s*{N: *([^}]+)}/';
+    $to[] = '<a href="ordforklaring.php?ord=\1">°</a>';
+
     $from[] = '/JHVHs/i';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRENS</small>';
