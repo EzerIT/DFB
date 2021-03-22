@@ -14,7 +14,7 @@ mb_internal_encoding('UTF-8');
         <div class="col-lg-10 col-xl-9">
           <div class="card mt-4">
             <div class="card-body">
-              <h1 class="card-title">Ordforklaring</h1>
+              <h1 class="card-title">Ord­for­kla­ring</h1>
 
               <?php if (!isset($_GET['ord'])): ?>
                   <p class="card-text bg-warning">Manglende parameter.</p>
