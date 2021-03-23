@@ -24,7 +24,7 @@ ham som helbreder alle dine sygdomme,
 
 v4 ham som udløser dit liv fra graven,
 
-ham som kroner dig med nåde{T: Tidligere oversat: >>miskundhed<<, nu ofte oversat: >>godhed<< eller >>trofasthed<<.} og barmhjertighed,
+ham som kroner dig med nåde{N: nåde} og barmhjertighed,
  
 v5 ham som mætter dit liv{E: Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.} med det gode,
 
@@ -41,7 +41,7 @@ og Israels børn sine gerninger.
 
 v8 JHVH er barmhjertig og nådig,
 
-sen til vrede og rig på nåde{T: Kan også oversættes: >>troskab<<. Tidligere oftest oversat >>miskundhed<<.}
+sen til vrede og rig på nåde{N: nåde}
  
 v9 Han vil ikke gå i rette for evigt
 

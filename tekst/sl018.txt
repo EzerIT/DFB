@@ -236,7 +236,7 @@ dit navn vil jeg lovsynge.
 
 v51 Stor hjælp giver han sin konge
 
-og viser nåde{T: Tidligere oversat >>miskundhed<<. Her kunne der også oversættes >>troskab<<.} mod sin salvede,
+og viser nåde{N: nåde} mod sin salvede,
 
 mod David og mod hans sæd til evig tid.
 

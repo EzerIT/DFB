@@ -54,7 +54,7 @@ v10 Ja, hans frelse er nær hos dem som frygter ham,
 
 så herlighed kan bo i vort land.
 
-v11 Nåde{T: Tidligere oversat: >>miskundhed<<.} og sandhed har mødt hinanden,
+v11 Nåde{N: nåde} og sandhed har mødt hinanden,
 
 retfærdighed og fred har kysset.
 

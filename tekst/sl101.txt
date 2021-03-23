@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 23.03.2021>!!
 
 ===Salme 101===
 
@@ -10,7 +10,7 @@
 v1 Af David. En salme.
 
 ==Kongen lover renhed i sit personlige liv==
-Om troskab{E: Ordet *ḥesed* er vanskeligt at indfange i et enkelt dansk ord. Ordet >>nåde<< er måske det der kommer nærmest. Det betegner Guds godhed og mildhed og troskab. Tidligere oversat >>miskundhed<<.} og ret vil jeg synge,
+Om nåde{N: nåde} og ret vil jeg synge,
 
 dig, JHVHv, vil jeg lovsynge.
 

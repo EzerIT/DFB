@@ -82,7 +82,7 @@ v14 Men jeg - min bøn er til dig,
 
 JHVHv, om en velbehagelig tid,
 
-Gud, i din store nåde:{T: Tidligere oversat >>miskundhed<<. Ordet *ḥesed* er vanskeligt at oversætte direkte til dansk. Overordnet er det et udtryk for Guds ufortjente, trofaste og kærlige forhold til mennesket indenfor pagten.}
+Gud, i din store nåde{N: nåde}:
 
 Bønhør mig for din frelses sandheds{T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes >>sandhed<<. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det ofte må oversættes: >>trofasthed<<.} skyld!
 

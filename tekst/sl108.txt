@@ -25,7 +25,7 @@ v4 Jeg vil takke dig blandt folkene, JHVHv,
 
 og jeg vil lovsynge dig blandt folkeslagene.
 
-v5 For din nåde{T: Tidligere oversat >>miskundhed<<.} er stor op over himlene,
+v5 For din nåde{N: nåde} er stor op over himlene,
 
 og din sandhed{T: Eller: >>troskab<<.} op til skyerne.
 

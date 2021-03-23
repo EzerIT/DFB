@@ -69,7 +69,7 @@ v10 Jeg vil takke dig blandt folkene, Herre,
 
 jeg vil lovsynge dig blandt folkeslagene.
 
-v11 For din nåde{T: Tidligere oversat >>miskundhed<<.} er stor indtil himlene,
+v11 For din nåde{N: nåde} er stor indtil himlene,
 
 og din sandhed{T: Eller: >>troskab<<.} indtil skyerne.
 

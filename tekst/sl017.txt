@@ -43,7 +43,7 @@ v6 Jeg har råbt til dig, for du vil svare{E: Imperfektiv angiver her, at Gud pl
 
 Bøj dit øre til mig, hør mine ord!{T: Ordret: >>min tale<<}
 
-v7 Vis din underfulde nåde,{T: Oprindeligt oversat >>miskundhed<<. Ordet er vanskeligt at oversætte direkte til dansk. Overordnet er det et udtryk for Guds ufortjente, trofaste og kærlige forhold til mennesket indenfor pagten.}
+v7 Vis din underfulde nåde{N: nåde},
 
 du som med din højre hånd frelser dem som søger tilflugt for modstandere.{E: Versets sidste fire ord oversættes forskelligt. Umiddelbart oplagt på grund af ordenes rækkefølge er: >>du frelser dem der søger tilflugt for dem der rejser sig mod din højre hånd (= mod din magt/mod din frelse)<<. Oftere oversættes som her eller: >>du frelser dem som søger tilflugt i din højre hånd for modstandere<<.}
 

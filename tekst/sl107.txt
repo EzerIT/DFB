@@ -9,7 +9,7 @@
 ==Opfordring til taksigelse==
 v1 Tak JHVH, for han er god,
 
-for hans nåde{T: *ḥesed* oversættes undertiden: >>trofasthed<<. Tidligere oversat: >>miskundhed<<.} varer til evig tid.
+for hans nåde{N: nåde} varer til evig tid.
 
 v2 Det skal JHVHs genløste sige,
 
@@ -182,7 +182,7 @@ mens al uretfærdighed har lukket sin mund til.
 
 v43 Den som er vís, skal give agt dette,
 
-og de skal reflektere over JHVHs nåde!{T: Tidligere oversat: >>miskundhed<<. Nu oversættes: *ḥesed* ofte ved: >>trofasthed<<.}
+og de skal reflektere over JHVHs nåde{N: nåde}!
 
 
 

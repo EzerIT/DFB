@@ -44,7 +44,7 @@ hans år skal være som mange slægtled!{T: Ordret: >>som slægt og slægt<<.}
 
 v8 Han skal trone evigt for Guds ansigt,
 
-fastsæt at nåde{T: Tidligere oversat >>miskundhed<<. Det oversættes undertiden: >>troskab<<.} og trofasthed{T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes >>sandhed<<. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: >>trofasthed<<.} skal beskytte ham!
+fastsæt at nåde{N: nåde} og trofasthed{T: Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes >>sandhed<<. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det måske ofte bedst oversættes: >>trofasthed<<.} skal beskytte ham!
 
 ==Løfte om lovsang==
 v9 Så vil jeg lovsynge dit navn til evig tid,

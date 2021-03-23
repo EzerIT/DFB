@@ -24,7 +24,7 @@ v3 Således skuede jeg dig i helligdommen,
 
 da jeg så din magt og din herlighed.{E: Verset kan også oversættes: >>Således spejdede jeg efter dig i helligdommen for at se din magt og din herlighed<<.}
 
-v4 For din nåde{T: Tidligere oversat >>miskundhed<<. Det oversættes undertiden: >>troskab<<.} er bedre end liv.
+v4 For din nåde{N: nåde} er bedre end liv.
 
 Mine læber skal prise dig,
 

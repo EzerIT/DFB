@@ -11,7 +11,7 @@ v1 Ikke os, JHVHv, ikke os,
 
 men dit navn skal du give ære
 
-for din nådes,{T: Tidligere oversat: >>miskundhed<<, oversættes nu ofte: >>godhed<<.} for din sandheds{T: Kan også oversættes: >>troskab<<.} skyld.
+for din nådes{N: nåde}, for din sandheds{T: Kan også oversættes: >>troskab<<.} skyld.
 
 v2 Hvorfor skal folkene{T: Kan også oversættes: >>hedningerne<<. Her kan det give god mening.} sige:
 

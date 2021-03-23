@@ -45,7 +45,7 @@ v7 Jeg har hadet dem som dyrker falske guder,{E: I den hebraiske tekst ligger at
 
 men jeg har stolet på JHVH.
 
-v8 Jeg vil juble og glæde mig over din nåde,{T: Kan oversættes >>miskundhed<<}
+v8 Jeg vil juble og glæde mig over din nåde{N: nåde},
 
 du, som har set min hjælpeløshed,
 
@@ -101,7 +101,7 @@ Red mig fra mine fjenders hånd og fra mine forfølgere!
 
 v17 Lad dit ansigt lyse over din tjener,
 
-frels mig ved din nåde.{T: Tidligere oversat >>miskundhed<<}
+frels mig ved din nåde{N: nåde}.
 
 v18 JHVHv, lad mig ikke blive til skamme,
 

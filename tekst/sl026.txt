@@ -23,7 +23,7 @@ v2 Prøv mig, JHVHv, og test mig,
 ransag{T: Ordret: >>prøv ved at smelte << (som metalsmelteren).} mine nyrer og mit hjerte.
 
 ==David søger ikke venskab med onde==
-v3 For din nåde{T: Tidligere oversat >>miskundhed<<.} har jeg for mine øjne,
+v3 For din nåde{N: nåde} har jeg for mine øjne,
 
 og jeg har vandret i din sandhed.
 

@@ -100,7 +100,7 @@ han lyttede til min bøn.{T: Ordret: >>min bøns røst<<.}
 
 v20 Lovet{T: Kan også oversættes: >>velsignet<<.} være Gud,
 
-som ikke afviste min bøn eller vendte sin nåde{T: Tidligere oversat >>miskundhed<<, oversættes nu ofte >>trofasthed<<.} fra mig!
+som ikke afviste min bøn eller vendte sin nåde{N: nåde} fra mig!
 
 
 

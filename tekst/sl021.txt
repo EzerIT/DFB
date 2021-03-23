@@ -38,7 +38,7 @@ du fylder ham med glæde{T: Ordret: >>du glæder ham med glæde<<.} for dit ansi
 
 v8 For kongen stoler på JHVH,
 
-og ved den Højestes nåde{T: Tidligere oversat >>miskundhed<<.} skal han ikke rokkes.
+og ved den Højestes nåde{N: nåde} skal han ikke rokkes.
 
 ==Med Guds hjælp skal kongen også fremover besejre sine og folkets fjender==
 v9 Din hånd skal finde alle dine fjender,

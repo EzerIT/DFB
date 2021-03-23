@@ -69,7 +69,7 @@ v12 Jeg vil takke dig, Herre min Gud, af hele mit hjerte,
 
 og jeg vil ære dit navn til evig tid.
 
-v13 For din nåde{T: Tidligere oversat: >>miskundhed<<.} er stor over mig,
+v13 For din nåde{N: nåde} er stor over mig,
 
 og du har reddet min sjæl fra det dybe dødsrige.{T: På hebraisk: *šᵊʔôl*. Det er ofte tænkt som liggende under jorden som opholdssted for de døde, men først og fremmest er det himlens modsætning.}
 

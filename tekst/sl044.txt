@@ -128,7 +128,7 @@ vor krop er klæbet til jorden.
 
 v27 Rejs dig som hjælp for os
 
-og forløs os for din nådes{T: Tidligere oversat: >>miskundhed<<.} skyld!
+og forløs os for din nådes{N: nåde} skyld!
 
 
 

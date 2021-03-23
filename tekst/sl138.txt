@@ -17,7 +17,7 @@ v2 Jeg vil kaste mig ned hen imod dit hellige tempel{T: Ordret: >>din helligheds
 
 og takke dit navn
 
-for din nåde,{T: Tidligere oversat: >>miskundhed<<, nu oversættes det ofte: >>trofasthed/godhed<<.} og for din sandhed,{T: Oversættes ofte: >>troskab<<.}
+for din nåde{N: nåde} og for din sandhed,{T: Oversættes ofte: >>troskab<<.}
 
 for du har gjort dit ord{T: Grundtekstens ord (*ʔimrāʰ*) har en biklang af: >>løfte<<.} stort ud over hele dit navn.{E: Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (>>hele dit navn<<), men: *kol-šēm*: >>hvert navn<<. Mange oversættere retter: *šimxā* (>>dit navn<<) til: *šāmeʸxā*: >>din himmel<<. En tredje mulighed er at ændre vokaliseringen af: *kol-* (>>hele<<, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (>>og<<) foran: >>dit navn<<. Oversættelsen lyder da: >>for du har ladet dit ord og dit navn overgå alt andet<<.}
 
@@ -47,7 +47,7 @@ og din højre frelser mig.
 
 v8 JHVH skal fuldføre det for mig.
 
-JHVHv, din nåde{T: Tidligere oversat: >>miskundhed<<. Oversættes nu ofte: >>trofasthed<<.} varer til evig tid,
+JHVHv, din nåde{N: nåde} varer til evig tid,
 
 opgiv ikke dine hænders værker.
 

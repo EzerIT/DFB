@@ -11,7 +11,7 @@ v1 Lovpris JHVH, alle folk!{T: Kan også oversættes: >>hedninger<<, men det er 
 
 Pris ham, alle folkeslag!
 
-v2 For hans nåde{T: Tidligere oversat: >>miskundhed<<, nu oftest: >>godhed/trofasthed<<.} mod os har været mægtig,
+v2 For hans nåde{N: nåde} mod os har været mægtig,
 
 og JHVHs troskab{T: Kan også oversættes: >>sandhed<<.} varer til evig tid.
 

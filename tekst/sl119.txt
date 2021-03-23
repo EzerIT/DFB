@@ -365,7 +365,7 @@ v87 De havde nær udryddet mig fra jorden,{T: Kan også oversættes: >>af landet
 
 men jeg forlod ikke dine forordninger.
 
-v88 Giv mig liv efter din nåde,{T: Tidligere oversat: >>miskundhed<<. Oversættes nu ofte: >>godhed<<.}
+v88 Giv mig liv efter din nåde{N: nåde},
 
 så vil jeg holde din munds vedtægt.
 

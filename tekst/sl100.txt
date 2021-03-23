@@ -31,7 +31,7 @@ tak ham, pris{T: Kan også oversættes: >>velsign<<.} hans navn!
 
 v5 For JHVH er god,
 
-hans nåde{T: Kan også oversættes: >>trofasthed<<, tidligere oversat >>miskundhed<<.} varer til evig tid,
+hans nåde{N: nåde} varer til evig tid,
 
 og hans troskab{T: Kan også oversættes: >>sandhed<<.} fra slægt til slægt.
 
