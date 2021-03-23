@@ -52,7 +52,8 @@ makemenus(1);
 
             <div class="checkbox">
               <label>
-                <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis forklarende fodnoter (1,2,3,...)
+                <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis forklarende
+                fodnoter (1,2,3,...) og ordforklaringsmærket (°).
               </label>
             </div>
 

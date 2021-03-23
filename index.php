@@ -41,6 +41,9 @@ makemenus(0);
             man ønsker teksten vist med eller uden versnumre, med eller uden fodnoter osv. Her kan man
             også vælge mellem forskellige skrifttyper.</p>
 
+          <p>I teksten markeres visse ord med tegnet °. Det betyder at det pågældende ord har en
+          nærmere forklaring, som kan findes ved at klikke på den lille cirkel. Cirklen vises ikke
+          hvis man fravælger de forklarende fodnoter.</p>
 
           <h2>Direkte links</h2>
 

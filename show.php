@@ -196,9 +196,9 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
             <?php endif; ?>
 
             <?php if ($_SESSION['showfn1']=='on'): ?>
-                $('.ref1').show();
+                $('.ref1, .explain').show();
             <?php else: ?>
-                $('.ref1').hide();
+                $('.ref1, .explain').hide();
             <?php endif; ?>
 
             <?php if ($_SESSION['oneline']=='on'): ?>
