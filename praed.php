@@ -1,11 +1,91 @@
 <?php
 require_once('head.inc.php');
+require_once('oversigt.inc.php');
 
 makeheadstart('Prædikentekster');
 makeheadend();
 makemenus(6);
 
-function ref($refname,$book,$chap,$from=0,$to=0) {
+$hebbooks = [
+    '1mos' => 'Genesis',
+    '2mos' => 'Exodus',
+    '3mos' => 'Leviticus',
+    '4mos' => 'Numeri',
+    '5mos' => 'Deuteronomium',
+            //Josua
+    'dom' => 'Judices',
+            //Samuel_I
+            //Samuel_II
+            //Reges_I
+            //Reges_II
+    'es' => 'Jesaia',
+    'jer' => 'Jeremia',
+            //Ezechiel
+            //Hosea
+            //Joel
+            //Amos
+    'obad' => 'Obadia',
+            //Jona
+            //Micha
+    'nah' => 'Nahum',
+    'hab' => 'Habakuk',
+    'sef' => 'Zephania',
+            //Haggai
+    'zak' => 'Sacharia',
+            //Maleachi
+    'sl' => 'Psalmi',
+            //Iob
+            //Proverbia
+    'ruth' => 'Ruth',
+            //Canticum
+            //Ecclesiastes
+            //Threni
+            //Esther
+            //Daniel
+            //Esra
+            //Nehemia
+            //Chronica_I
+            //Chronica_II
+];
+
+$grbooks = [
+    'matt' => 'Matthew',
+    'mark' => 'Mark',
+    'luk' => 'Luke',
+    'joh' => 'John',
+            //Acts
+            //Romans
+    '1kor' => 'I_Corinthians',
+    '2kor' => 'II_Corinthians',
+            //Galatians
+    'ef' => 'Ephesians',
+    'fil' => 'Philippians',
+            //Colossians
+    '1thess' => 'I_Thessalonians',
+            //II_Thessalonians
+            //I_Timothy
+            //II_Timothy
+            //Titus
+            //Philemon
+            //Hebrews
+            //James
+    '1pet' => 'I_Peter',
+            //II_Peter
+    '1joh' => 'I_John',
+            //II_John
+            //III_John
+            //Jude
+            //Revelation
+];
+
+
+function ref($book,$chap,$from=0,$to=0,$alt_refname=null) {
+    global $abbrev;
+
+    $refname = !is_null($alt_refname) ? $alt_refname :
+               ($from==0 ? "$abbrev[$book] $chap" :
+               "$abbrev[$book] $chap,$from-$to");
+    
     if ($from==0)
         return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chap\">$refname</a>";
 
@@ -13,18 +93,33 @@ function ref($refname,$book,$chap,$from=0,$to=0) {
 }
 
 function refh($book,$chap,$from=0,$to=0) {
-    if ($from==0)
-        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$book/$chap\">Ⓗ</a>";
+    global $hebbooks;
+    $hbook = $hebbooks[$book];
 
-    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$book/$chap/$from/$to\">Ⓗ</a>";
+    if ($from==0)
+        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$hbook/$chap\">Ⓗ</a>";
+
+    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$hbook/$chap/$from/$to\">Ⓗ</a>";
 }
 
 function refg($book,$chap,$from=0,$to=0) {
-    if ($from==0)
-        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$book/$chap\">Ⓖ</a>";
+    global $grbooks;
+    $gbook = $grbooks[$book];
 
-    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$book/$chap/$from/$to\">Ⓖ</a>";
+    if ($from==0)
+        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$gbook/$chap\">Ⓖ</a>";
+
+    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$gbook/$chap/$from/$to\">Ⓖ</a>";
 }
+
+function ref_refh($book,$chap,$from=0,$to=0,$alt_refname=null) {
+    return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refh($book,$chap,$from,$to);
+}
+
+function ref_refg($book,$chap,$from=0,$to=0,$alt_refname=null) {
+    return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refg($book,$chap,$from,$to);
+}
+
 ?>
 
 
@@ -49,51 +144,69 @@ function refg($book,$chap,$from=0,$to=0) {
                   </tr>
                   <tr>
                       <td>7.2</td><td>Søndag seksagesima</td>
-                      <td><?= ref('Es 55,6-11','es',55,6,11) ?> <?= refh('Jesaia',55,6,11) ?></td>
-                      <td><?= ref('1 Kor 1,18-21[25]','1kor',1,18,25) ?> <?= refg('I_Corinthians',1,18,25) ?></td>
-                      <td><?= ref('Mark 4,1-20','mark',4,1,20) ?> <?= refg('Mark',4,1,20) ?></td>
+                      <td><?= ref_refh('es',55,6,11)?></td>
+                      <td><?= ref_refg('1kor',1,18,25,'1 Kor 1,18-21[25]') ?></td>
+                      <td><?= ref_refg('mark',4,1,20) ?></td>
                   </tr>
                   <tr>
                       <td>14.2</td><td>Fastelavns søndag</td>
-                      <td><?= ref('Sl 2','sl',2) ?> <?= refh('Psalmi',2) ?></td>
-                      <td><?= ref('1 Pet 3,18-22','1pet',3,18,22) ?> <?= refg('I_Peter',3,18,22) ?></td>
-                      <td><?= ref('Matt 3,13-17','matt',3,13,17) ?> <?= refg('Matthew',3,13,17) ?></td>
+                      <td><?= ref_refh('sl',2) ?></td>
+                      <td><?= ref_refg('1pet',3,18,22) ?></td>
+                      <td><?= ref_refg('matt',3,13,17) ?></td>
                   </tr>
                   <tr>
                       <td>21.2</td><td>1. søndag i fasten</td>
-                      <td><?= ref('1 Mos 3,1-19','1mos',3,1,19) ?> <?= refh('Genesis',3,1,19) ?></td>
-                      <td><?= ref('2 Kor 6,1-2[10]','2kor',6,1,10) ?> <?= refg('II_Corinthians',6,1,10) ?></td>
-                      <td><?= ref('Matt 4,1-11','matt',4,1,11) ?> <?= refg('Matthew',4,1,11) ?></td>
+                      <td><?= ref_refh('1mos',3,1,19) ?></td>
+                      <td><?= ref_refg('2kor',6,1,10,'2 Kor 6,1-2[10]') ?></td>
+                      <td><?= ref_refg('matt',4,1,11) ?></td>
                   </tr>
                   <tr>
                       <td>28.2</td><td>2. søndag i fasten</td>
-                      <td><?= ref('Sl 42,2-6','sl',42,2,6) ?> <?= refh('Psalmi',42,2,6) ?></td>
-                      <td><?= ref('1 Thess 4,1-7','1thess',4,1,7) ?> <?= refg('I_Thessalonians',4,1,7) ?></td>
-                      <td><?= ref('Matt 15,21-28','matt',15,21,28) ?> <?= refg('Matthew',15,21,28) ?></td>
+                      <td><?= ref_refh('sl',42,2,6) ?></td>
+                      <td><?= ref_refg('1thess',4,1,7) ?></td>
+                      <td><?= ref_refg('matt',15,21,28) ?></td>
                   </tr>
                   <tr>
                       <td>7.3</td><td>3. søndag i fasten</td>
-                      <td><?= ref('5 Mos 18,9-15','5mos',18,9,15) ?> <?= refh('Deuteronomium',18,9,15) ?></td>
-                      <td><?= ref('Ef 5,[1]6-9','ef',5,1,9) ?> <?= refg('Ephesians',5,1,9) ?></td>
-                      <td><?= ref('Luk 11,14-28','luk',11,14,28) ?> <?= refg('Luke',11,14,28) ?></td>
+                      <td><?= ref_refh('5mos',18,9,15) ?></td>
+                      <td><?= ref_refg('ef',5,1,9,'Ef 5,[1]6-9') ?></td>
+                      <td><?= ref_refg('luk',11,14,28) ?></td>
                   </tr>
                   <tr>
                       <td>14.3</td><td>Midfaste søndag</td>
-                      <td><?= ref('5 Mos 8,1-3','5mos',8,1,3) ?> <?= refh('Deuteronomium',8,1,3) ?></td>
-                      <td><?= ref('2 Kor 9,6-11','2kor',9,6,11) ?> <?= refg('II_Corinthians',9,6,11) ?></td>
-                      <td><?= ref('Joh 6,1-15','joh',6,1,15) ?> <?= refg('John',6,1,15) ?></td>
+                      <td><?= ref_refh('5mos',8,1,3) ?></td>
+                      <td><?= ref_refg('2kor',9,6,11) ?></td>
+                      <td><?= ref_refg('joh',6,1,15) ?></td>
                   </tr>
                   <tr>
                       <td>21.3</td><td>Mariæ bebudelses dag</td>
-                      <td><?= ref('Es 7,10-14','es',7,10,14) ?> <?= refh('Jesaia',7,10,14) ?></td>
-                      <td><?= ref('1 Joh 1,1-3','1joh',1,1,3) ?> <?= refg('I_John',1,1,3) ?></td>
-                      <td><?= ref('Luk 1,26-38','luk',1,26,38) ?> <?= refg('Luke',1,26,38) ?></td>
+                      <td><?= ref_refh('es',7,10,14) ?></td>
+                      <td><?= ref_refg('1joh',1,1,3) ?></td>
+                      <td><?= ref_refg('luk',1,26,38) ?></td>
                   </tr>
                   <tr>
                       <td>28.3</td><td>Palmesøndag</td>
-                      <td><?= ref('Zak 9,9-10','zak',9,9,10) ?> <?= refh('Sacharia',9,9,10) ?></td>
-                      <td><?= ref('Fil 2,5-11','fil',2,5,11) ?> <?= refg('Philippians',2,5,11) ?></td>
-                      <td><?= ref('Matt 21,1-9','matt',21,1,9) ?> <?= refg('Matthew',21,1,9) ?></td>
+                      <td><?= ref_refh('zak',9,9,10) ?></td>
+                      <td><?= ref_refg('fil',2,5,11) ?></td>
+                      <td><?= ref_refg('matt',21,1,9) ?></td>
+                  </tr>
+                  <tr>
+                      <td>1.4</td><td>Skærtorsdag</td>
+                      <td><?= ref_refh('2mos',12,1,11) ?></td>
+                      <td><?= ref_refg('1kor',10,15,17) ?></td>
+                      <td><?= ref_refg('matt',26,17,30) ?></td>
+                  </tr>
+                  <tr>
+                      <td>2.4</td><td>Langfredag</td>
+                      <td><?= ref_refh('es',52,13,15) ?><br>og <?= ref_refh('es',53) ?></td>
+                      <td>&nbsp;</td>
+                      <td><?= ref_refg('matt',27,31,56) ?></td>
+                  </tr>
+                  <tr>
+                      <td>4.4</td><td>Påskedag</td>
+                      <td><?= ref_refh('sl',118,19,29) ?></td>
+                      <td><?= ref_refg('1kor',5,7,8) ?></td>
+                      <td><?= ref_refg('mark',16,1,8) ?></td>
                   </tr>
               </table>
           </div>
