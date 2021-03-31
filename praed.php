@@ -1,6 +1,7 @@
 <?php
 require_once('head.inc.php');
 require_once('oversigt.inc.php');
+require_once('holiday.inc.php');
 
 makeheadstart('Prædikentekster');
 makeheadend();
@@ -53,7 +54,7 @@ $grbooks = [
     'mark' => 'Mark',
     'luk' => 'Luke',
     'joh' => 'John',
-            //Acts
+    'apg' => 'Acts',
             //Romans
     '1kor' => 'I_Corinthians',
     '2kor' => 'II_Corinthians',
@@ -120,6 +121,14 @@ function ref_refg($book,$chap,$from=0,$to=0,$alt_refname=null) {
     return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refg($book,$chap,$from,$to);
 }
 
+$holidays = new Holiday(2021);
+
+function make_holiday($hn) {
+    global $holidays;
+    
+    return "<td>" . $holidays->format_date($holidays->get_holiday_from_number($hn)) . "</td>" .
+           "<td>" . $holidays->get_holiday_name_from_number($hn) . "</td>";
+}
 ?>
 
 
@@ -140,73 +149,85 @@ function ref_refg($book,$chap,$from=0,$to=0,$alt_refname=null) {
           <div class="table-responsive">
               <table class="table table-striped">
                   <tr>
-                      <th>Dato<br>2021</th><th>Dag</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                      <th>Dato<br><?= $holidays->get_year() ?></th><th>Dag</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
                   </tr>
                   <tr>
-                      <td>7.2</td><td>Søndag seksagesima</td>
+                      <?= make_holiday(9) ?>
                       <td><?= ref_refh('es',55,6,11)?></td>
                       <td><?= ref_refg('1kor',1,18,25,'1 Kor 1,18-21[25]') ?></td>
                       <td><?= ref_refg('mark',4,1,20) ?></td>
                   </tr>
                   <tr>
-                      <td>14.2</td><td>Fastelavns søndag</td>
+                      <?= make_holiday(10) ?>
                       <td><?= ref_refh('sl',2) ?></td>
                       <td><?= ref_refg('1pet',3,18,22) ?></td>
                       <td><?= ref_refg('matt',3,13,17) ?></td>
                   </tr>
                   <tr>
-                      <td>21.2</td><td>1. søndag i fasten</td>
+                      <?= make_holiday(11) ?>
                       <td><?= ref_refh('1mos',3,1,19) ?></td>
                       <td><?= ref_refg('2kor',6,1,10,'2 Kor 6,1-2[10]') ?></td>
                       <td><?= ref_refg('matt',4,1,11) ?></td>
                   </tr>
                   <tr>
-                      <td>28.2</td><td>2. søndag i fasten</td>
+                      <?= make_holiday(12) ?>
                       <td><?= ref_refh('sl',42,2,6) ?></td>
                       <td><?= ref_refg('1thess',4,1,7) ?></td>
                       <td><?= ref_refg('matt',15,21,28) ?></td>
                   </tr>
                   <tr>
-                      <td>7.3</td><td>3. søndag i fasten</td>
+                      <?= make_holiday(13) ?>
                       <td><?= ref_refh('5mos',18,9,15) ?></td>
                       <td><?= ref_refg('ef',5,1,9,'Ef 5,[1]6-9') ?></td>
                       <td><?= ref_refg('luk',11,14,28) ?></td>
                   </tr>
                   <tr>
-                      <td>14.3</td><td>Midfaste søndag</td>
+                      <?= make_holiday(14) ?>
                       <td><?= ref_refh('5mos',8,1,3) ?></td>
                       <td><?= ref_refg('2kor',9,6,11) ?></td>
                       <td><?= ref_refg('joh',6,1,15) ?></td>
                   </tr>
                   <tr>
-                      <td>21.3</td><td>Mariæ bebudelses dag</td>
+                      <?= make_holiday(15) ?>
                       <td><?= ref_refh('es',7,10,14) ?></td>
                       <td><?= ref_refg('1joh',1,1,3) ?></td>
                       <td><?= ref_refg('luk',1,26,38) ?></td>
                   </tr>
                   <tr>
-                      <td>28.3</td><td>Palmesøndag</td>
+                      <?= make_holiday(16) ?>
                       <td><?= ref_refh('zak',9,9,10) ?></td>
                       <td><?= ref_refg('fil',2,5,11) ?></td>
                       <td><?= ref_refg('matt',21,1,9) ?></td>
                   </tr>
                   <tr>
-                      <td>1.4</td><td>Skærtorsdag</td>
+                      <?= make_holiday(17) ?>
                       <td><?= ref_refh('2mos',12,1,11) ?></td>
                       <td><?= ref_refg('1kor',10,15,17) ?></td>
                       <td><?= ref_refg('matt',26,17,30) ?></td>
                   </tr>
                   <tr>
-                      <td>2.4</td><td>Langfredag</td>
+                      <?= make_holiday(18) ?>
                       <td><?= ref_refh('es',52,13,15) ?><br>og <?= ref_refh('es',53) ?></td>
                       <td>&nbsp;</td>
                       <td><?= ref_refg('matt',27,31,56) ?></td>
                   </tr>
                   <tr>
-                      <td>4.4</td><td>Påskedag</td>
+                      <?= make_holiday(19) ?>
                       <td><?= ref_refh('sl',118,19,29) ?></td>
                       <td><?= ref_refg('1kor',5,7,8) ?></td>
                       <td><?= ref_refg('mark',16,1,8) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(20) ?>
+                      <td><?= ref_refh('sl',22,22,32,'Sl 22,22b-32') ?></td>
+                      <td><?= ref_refg('apg',10,34,41) ?></td>
+                      <td><?= ref_refg('luk',24,13,35) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(21) ?>
+                      <td><?= ref_refh('sl',30) ?></td>
+                      <td><?= ref_refg('1joh',5,1,5) ?></td>
+                      <td><?= ref_refg('joh',20,19,31) ?></td>
                   </tr>
               </table>
           </div>
