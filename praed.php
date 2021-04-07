@@ -14,27 +14,27 @@ $hebbooks = [
     '4mos' => 'Numeri',
     '5mos' => 'Deuteronomium',
             //Josua
-    'dom' => 'Judices',
+    'dom'  => 'Judices',
             //Samuel_I
             //Samuel_II
             //Reges_I
             //Reges_II
-    'es' => 'Jesaia',
-    'jer' => 'Jeremia',
-            //Ezechiel
+    'es'   => 'Jesaia',
+    'jer'  => 'Jeremia',
+    'ez'   => 'Ezechiel',
             //Hosea
             //Joel
             //Amos
     'obad' => 'Obadia',
             //Jona
             //Micha
-    'nah' => 'Nahum',
-    'hab' => 'Habakuk',
-    'sef' => 'Zephania',
+    'nah'  => 'Nahum',
+    'hab'  => 'Habakuk',
+    'sef'  => 'Zephania',
             //Haggai
-    'zak' => 'Sacharia',
+    'zak'  => 'Sacharia',
             //Maleachi
-    'sl' => 'Psalmi',
+    'sl'   => 'Psalmi',
             //Iob
             //Proverbia
     'ruth' => 'Ruth',
@@ -228,6 +228,12 @@ function make_holiday($hn) {
                       <td><?= ref_refh('sl',30) ?></td>
                       <td><?= ref_refg('1joh',5,1,5) ?></td>
                       <td><?= ref_refg('joh',20,19,31) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(22) ?>
+                      <td><?= ref_refh('ez',34,11,16) ?></td>
+                      <td><?= ref_refg('1pet',2,20,25) ?></td>
+                      <td><?= ref_refg('joh',10,11,16) ?></td>
                   </tr>
               </table>
           </div>
