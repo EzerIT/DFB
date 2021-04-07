@@ -37,13 +37,13 @@ makemenus(4);
 
               <h2 class="card-title">Installation</h2>
 
-              <p class="card-text">I det følgende forudsættes det at Logos Bibel Software (version 7
-              eller 8) allerede er installeret på computeren. Hvis det ikke er tilfældet, kan du
+              <p class="card-text">I det følgende forudsættes det at Logos Bibel Software (version 7, 8 eller 9)
+              allerede er installeret på computeren. Hvis det ikke er tilfældet, kan du
               nederst på siden læse mere om hvordan du får programmet.</p>
               
               <p class="card-text">Download
-              filen <a href="logos/DA1907-Logos-20190204.zip">DA1907-Logos-20190204.zip</a> og udpak
-              den i en mappe. Den indeholder filerne <em>DA1907.docx</em> og <em>DA1907.jpg</em>.
+              filen <a href="logos/DA1907-Logos-20201019.zip">DA1907-Logos-20201019.zip</a> og udpak
+              den i en mappe. Den indeholder filerne <em>DA1907.docx, DA1907.jpg</em> og <em>Bibel1912.jpg</em>.
 
               <p class="card-text">Åbn Logos Bible Software.</p>
 
@@ -61,7 +61,8 @@ makemenus(4);
                 <li><em>Language</em> sættes til <em>Danish</em>.</li>
                 <li><em>Description</em> sættes til »GT 1871 / NT 1907«.</li>
                 <li>Klik på <em>Change</em> under bog-ikonen og vælg filen <em>DA1907.jpg</em> fra
-                  den ZIP-fil du downloadede og udpakkede ovenfor.</li>
+                    den ZIP-fil du downloadede og udpakkede ovenfor. (Alternativt kan du vælge filen <em>Bibel1912.jpg</em>
+                    hvis du ønsker et andet billede.)</li>
                 <li>Klik på <em>Add file...</em> og vælg filen <em>DA1907.docx</em> fra den ZIP-fil
                   du downloadede udpakkede ovenfor.</li>
               </ul>
@@ -80,10 +81,10 @@ makemenus(4);
 
               <p class="card-text">Det er ikke noget problem. Du kan nøjes med den gratis version
             til Windows eller Mac. Gå ind på <a href="https://www.logos.com/"
-            target="_blank">www.logos.com</a>. I <em>Search Products</em> skriver du: »logos basic«.
-            Tryk <em>Search</em>. Nu finder den programmet:</p>
+            target="_blank">www.logos.com</a>. I feltet <em>Search</em> skriver du: »logos basic«.
+            Tryk på retur-tasten. Nu kan du se programmet:</p>
 
-              <img class="img-fluid" style="width: 100%; margin-top: 0px; margin-bottom: 10px" src="logos/logos8basic.png" alt="">
+              <img class="img-fluid" style="width: 100%; margin-top: 0px; margin-bottom: 10px" src="logos/logos9basic.png" alt="">
 
               <p class="card-text">Klik på <em>Add to cart</em>. Køb produktet og installér det.
                 Herefter kan du installere den gamle danske bibeloversættelse. Men hvorfor ikke lige
