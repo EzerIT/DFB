@@ -1,14 +1,47 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 24.03.2021>!!
-
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.04.2021>!!
 ===Matthæusevangeliet, kapitel 26===
 
+==Beslutningen om Jesu død==
+
+v1 Menda Jesus havde afsluttet alle disse ord, sagde han til sine disciple: v2 >>I ved at om to dage er det påske, og Menneskesønnen skal udleveres til at korsfæstes.<< v3 Da samledes ypperstepræsterne og folkets ældste i ypperstepræstens gård; han hed Kajfas. v4 Og de rådslog om at gribe Jesus med list og dræbe ham, v5 men de sagde: >>Ikke under festen, for at der ikke skal blive oprør blandt folket.<<
+
+==Salvingen i Betania==
+
+v6 Men da Jesus var i Betania, i Simon den Spedalskes hus, v7 kom en kvinde til ham som havde en alabastkrukke med meget kostbar olie, og hun hældte den ud over hans hoved mens han lå til bords. v8 Men da disciplene så det, harmedes de og sagde: >>Hvorfor sådan et spild? v9 For den kunne være blevet solgt for meget og givet til de fattige.<< v10 men da Jesus vidste det, sagde han til dem: >>Hvorfor volder I kvinden besvær? For hun har gjort en god gerning mod mig, v11 for de fattige har I altid hos jer, men mig har I ikke altid, v12 for da hun hældte denne olie over mit legeme, forberedte hun mig til begravelsen. v13 Sandelig siger jeg jer: Hvor som helst i hele verden dette evangelium forkyndes, skal der også tales om det hun har gjort, til erindring om hende.<< 
+
+==Judas’ forræderi==
+
+v14 Da gik en af de tolv, som hed Judas Iskariot, til ypperstepræsterne, v15 og han sagde: >>Hvad vil I give mig, så jeg forråder ham?<< Og de betalte ham tredive sølvmønter. v16 Fra da af søgte han en gunstig lejlighed til at forråde ham.
 
 ==Nadveren==
-v17 På den første dag i de usyrede brøds fest kom disciplene til Jesus og sagde: >>Hvor vil du have at vi forbereder påskemåltidet for dig?<< v18 Og han sagde: >>Gå til byen til den og den og sig til ham: >Mesteren{T: Grundbetydningen er: læreren.} siger: Min tid er nær, hos dig vil jeg fejre påskemåltid sammen med mine disciple.<<< v19 Og disciplene gjorde som Jesus havde befalet dem, og de forberedte påskemåltidet. v20 Da det var blevet aften, lå han til bords sammen med de tolv. v21 Mens de spiste, sagde han: >>Sandelig siger jeg jer: En af jer skal forråde{T: Grundbetydningen af grundtekstens ord er: >>udlevere/overgive<<.} mig.<< v22 De blev meget bedrøvede og begyndte hver især at sige: >>Det er vel ikke mig, Herre?<< v23 Han svarede: >>Den som dyppede hånden i fadet sammen med mig, han vil forråde mig. v24 Menneskesønnen går bort, som der står skrevet om ham, men ve det menneske ved hvem Menneskesønnen forrådes. Det var bedre for det menneske hvis han ikke var blevet født.<< v25 Men Judas, som forrådte ham, svarede: >>Det er vel ikke mig, rabbi?<< Han siger til ham: >>Du har sagt det.<< v26 Og mens de spiste, tog Jesus et brød, velsignede det, brød det og gav det til sine disciple og sagde: >>Tag det og spis det, dette er mit legeme.<< v27 Og han tog bægeret, takkede og gav dem det og sagde: >>Drik alle af det, v28 for dette er mit blod, pagtens, som udgydes for mange til syndernes tilgivelse. v29 Og jeg siger jer: Fra nu af skal jeg ikke mere drikke af denne vintræets frugt før den dag, da jeg skal drikke den ny sammen med jer i min Fars rige.<<
+
+v17 På den første dag i de usyrede brøds fest kom disciplene til Jesus og sagde: >>Hvor vil du have at vi forbereder påskemåltidet for dig?<< v18 Og han sagde: >>Gå til byen til den og den og sig til ham: >Læreren siger: Min tid er nær, hos dig vil jeg fejre påskemåltid sammen med mine disciple.<<< v19 Og disciplene gjorde som Jesus havde befalet dem, og de forberedte påskemåltidet. v20 Da det var blevet aften, lå han til bords sammen med de tolv. v21 Mens de spiste, sagde han: >>Sandelig siger jeg jer: En af jer skal forråde{T: Grundbetydningen af grundtekstens ord er: >>udlevere/overgive<<.} mig.<< v22 De blev meget bedrøvede og begyndte hver især at sige: >>Det er vel ikke mig, Herre?<< v23 Han svarede: >>Den som dyppede hånden i fadet sammen med mig, han vil forråde mig. v24 Menneskesønnen går bort, som der står skrevet om ham, men ve det menneske ved hvem Menneskesønnen forrådes. Det var bedre for det menneske hvis han ikke var blevet født.<< v25 Men Judas, som forrådte ham, svarede: >>Det er vel ikke mig, rabbi?<< Han siger til ham: >>Du har sagt det.<< v26 Og mens de spiste, tog Jesus et brød, velsignede det, brød det og gav det til sine disciple og sagde: >>Tag det og spis det, dette er mit legeme.<< v27 Og han tog bægeret, takkede og gav dem det og sagde: >>Drik alle af det, v28 for dette er mit blod, pagtens, som udgydes for mange til syndernes tilgivelse. v29 Og jeg siger jer: Fra nu af skal jeg ikke mere drikke af denne vintræets frugt før den dag, da jeg skal drikke den ny sammen med jer i min Fars rige.<<
 
 ==Forudsigelse af frafald og fornægtelse==
-v30 Da de have sunget, gik de ud til Oliebjerget.{T: Ordret: >>oliventræernes bjerg<<.}
+
+v30 Da de have sunget, gik de ud til Oliebjerget. v31 Da siger Jesus til dem: >>I skal alle tage anstød af mig i denne nat, for der står skrevet{H: Zak 13,7}:
+	Jeg vil slå hyrden,
+
+	og hjordens får skal spredes.
+v32 Men efter at jeg er blevet oprejst, vil jeg gå forud for jer til Galilæa.<< v33 Men Peter sagde til ham: >>Hvis alle vil tage anstød af dig, vil jeg aldrig tage anstød.<< v34 Jesus sagde til ham: >>Sandelig siger jeg dig: I denne nat før hanen galer, skal du fornægte mig tre gange.<< v35 Peter sagde til ham: >>Selv hvis jeg skal dø sammen med dig, vil jeg aldrig fornægte dig.<< Det samme sagde også alle disciplene.  
+
+==Jesus i Getsemane==
+
+v36 Da kom Jesus med dem til et sted som hedder Getsemane, og han sagde til disciplene: >>Sæt jer her mens jeg går bort for at bede her.<< v37 Og han tog Peter og de to Zebedæussønner med sig, og han begyndte at blive bedrøvet og angst. v38 Da sagde han til dem{H: Sl 42,6}: >>Min sjæl er bedrøvet til døden, bliv her og våg sammen med mig.<< v39 Og han gik lidt videre, faldt på ansigtet og bad: >>Min Far, hvis det er muligt, så tag dette bæger fra mig, dog ikke som jeg vil, men som du vil.<< v40 Og han kom hen til disciplene og fandt dem sovende, og han sagde til Peter: >>Så magtede I ikke at våge en time med mig? v41 Våg og bed for at I ikke skal falde i fristelse, Ånden er villig, men kødet er svagt.<< v42 Igen gik han bort for anden gang og bad: >>Min Far, hvis dette ikke kan gå mig forbi uden jeg drikker det, så ske din vilje.<< v43 Og da han igen kom hen til dem, fandt han dem sovende, for deres øjne var tunge. v44 Og han forlod dem igen, gik bort og bad for tredje gang den samme bøn igen. v45 Så kom han hen til disciplene og sagde til dem: >>Sover I stadig og hviler jer. Se, timen er kommet nær, og Menneskesønnen skal udleveres i synderes hænder. v46 Rejs jer, lad os gå, se han som forråder mig, er kommet nær.<<
+
+==Tilfangetagelsen==
+
+v47 Endnu mens han talte, se da kom Judas, en af de tolv, og med ham en stor skare med sværd og knipler fra ypperstepræsterne og folkets ældste. v48 Og han som forrådte ham, havde givet dem et tegn og sagt: >>Det er ham som jeg kysser, grib ham.<< v49 Straks gik han hen til Jesus og sagde: >>Vær hilset, rabbi!<< Og han kyssede ham. v50 Men Jesus sagde til ham: >>Ven, hvorfor er du her?<< Da gik de hen til ham, lagde hænderne på Jesus og greb ham. v51 Og se, en af dem som var sammen med Jesus, rakte hånden ud, trak sit sværd, slog ypperstepræstens tjener og huggede hans øre af. v52 Da sagde Jesus: >>Stik dit sværd tilbage på dets plads, for alle som griber deres sværd, skal omkomme ved sværd. v53 Eller mener du at jeg ikke kan bede min Far, så han nu vil stille til tolv legioner engle til rådighed for mig? v54 Hvordan skulle da skrifterne blive opfyldt, at det skal ske således?<< v55 I den time sagde Jesus til skarerne: >>Som mod en røver drog I ud  med sværd og knipler for at fange mig; daglig sad jeg i templet og lærte, og I greb mig ikke. v56 Men alt dette er sket for at profeternes skrifter skulle blive opfyldt.<< Da forlod alle disciplene ham og flygtede. 
+
+==Processen mod Jesus om natten i Rådet==
+
+v57 Men de som havde grebet Jesus, førte ham til ypperstepræsten Kajfas, hvor de skriftlærde og de ældste var samlede. v58 Men Peter fulgte ham på afstand til ypperstepræstens gård, og han gik indenfor og satte sig hos tjenerne for at se hvad der blev udgangen. v59 Ypperstepræsterne og hele Rådet søgte efter falsk vidnesbyrd mod Jesus for at få ham dømt til døden, v60 og de fandt intet, skønt mange kom og vidnede falsk. Men til sidst kom to, v61 og de sagde: >>Han har sagt: Jeg kan nedbryde Guds tempel og bygge det op på tre dage.<< v62 Ypperstepræsten rejste sig  og sagde til ham: >>Du svarer ikke på hvad disse vidner mod dig?<< v63 Men Jesus tav. Ypperstepræsten sagde til ham: >>Jeg tager dig i ed ved den levende Gud, at du siger os om du er Kristus, Guds Søn.<< v64 Jesus sagde til ham: >>Du har sagt det. Men jeg siger jer: Fra nu af skal I se Menneskesønnen sidde ved kraftens højre hånd og komme på himlens skyer.<< v65 Da sønderrev ypperstepræsten sine klæder og sagde: >>Han har spottet Gud! Hvad har vi endnu brug for af vidner? Se, I har nu hørt bespottelsen. v66 Hvad mener I?<< Og de svarede: >>Han er skyldig til døden.<< v67 Så spyttede de ham i ansigtet, og de slog ham med knytnæver, og de slog ham med stokke, v68 og de sagde: >>Profeter for os, Kristus, hvem er det som slog dig?<<
+
+==Peters fornægtelse==
+
+v68 Men Peter sad udenfor i gården, og en tjenestepige kom til ham og sagde: >>Du var også sammen med Jesus fra Galilæa.<< v70 Men han nægtede overfor alle og sagde: >>Jeg ved ikke hvad du taler om.<< v71 Og da han gik ud til porten, så en anden pige ham, og hun sagde til dem der var dér: >>Han var sammen med Jesus fra Nazaret.<< v72 Og igen nægtede han med en ed: >>Jeg kender ikke det menneske.<< v73 Men lidt efter kom de som stod der, hen og sagde til Peter: >>Sandelig, du er også en af dem, for din talemåde afslører dig.<< v74 Da begyndte han at forbande sig og sværge: >>Jeg kender ikke det menneske.<< v72 Og Peter huskede det ord Jesus havde sagt: >>Før hanen galer, har du fornægtet mig tre gange.<< Og han gik udenfor og græd bittert. 
+

@@ -16,7 +16,7 @@ $chap['sef']      = range(1,3);
 $chap['hab']      = range(1,3);
 $chap['zak']      = range(1,14);
 
-$chap['matt']     = [3,4,15,21,26];
+$chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
 $chap['luk']      = [1,11,24];
 $chap['joh']      = [6,10,20];
@@ -137,7 +137,7 @@ $style['nah']     = 'btn-info';
 $style['sef']     = 'btn-info';
 $style['hab']     = 'btn-info';
 $style['zak']     = 'btn-success';
-$style['matt']    = 'btn-secondary';
+$style['matt']    = 'btn-info';
 $style['mark']    = 'btn-warning';
 $style['luk']     = 'btn-secondary';
 $style['joh']     = 'btn-secondary';

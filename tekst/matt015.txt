@@ -1,10 +1,23 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 18.02.2021>!!
-
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.04.2021>!!
 ===Matthæusevangeliet, kapitel 15===
 
-v21 Og Jesus gik ud derfra og drog bort til Tyrus’ og Sidons egne. v22 Og se, en kana’anæisk kvinde kom fra disse egne og råbte: >>Forbarm dig over mig, Davids søn. Min datter plages slemt af en dæmon.<< v23 Men Jesus svarede hende ikke med et ord. Hans disciple kom og bad ham: >>Send hende bort, for hun råber efter os.<< v24 Men han svarede: >>Jeg er ikke udsendt til andre end de fortabte får af Israels hus.<< v25 Men hun kom, knælede ned for ham og sagde: >>Herre, hjælp mig.<< v26 Men han svarede: >>Det er ikke rigtigt at tage børnenes brød og kaste det for de små hunde.<< v27 Men hun sagde: >>Jo, Herre, for de små hunde spiser også af smulerne som falder ned fra deres herrers bord.<< v28 Da svarede Jesus hende: >>Kvinde, din tro er stor! Det skal ske dig som du vil.<< Og datteren blev helbredt i den time.
+==Om rent og urent==
+
+v1 Da kommer farisæere og skriftlærde fra Jerusalem til Jesus, og de siger: v2 >>Hvorfor overtræder dine disciple de gamles overlevering? For de vasker ikke deres hænder, når de spiser.{E: Der er tænkt på en rituel vask af hænderne før måltidet}<< v3 Men han svarede dem: >>Hvorfor overtræder I selv Guds bud på grund af de gamles overlevering? v4 For Gud har sagt: Ær din far og mor, og den som forbander far eller mor, skal virkelig dø. v5 Men I siger: Den som siger til far eller mor: Det du skal have som hjælp af mig, er tempelgave, v6 han behøver ikke at ære sin far, og I sætter Guds ord ud af kraft på grund af jeres overlevering. Hyklere! Hvor rigtigt har Esajas profeteret om jer{T: Es 29,13}: v7 Dette folk ærer mig med læberne, men deres hjerte er langt borte fra mig; v9 og forgæves dyrker de mig, idet de lærer det som er menneskebud.<< v10 Og han tilkaldte skaren og sagde til dem: >>Hør og forstå! Det er ikke det som kommer ind i munden, som gør mennesket urent, men det er det som udgår fra munden, som gør mennesket urent.<< v12 Da kom hans disciple til ham og sagde til ham: >>Du ved at da farisæerne hørte dette ord, tog de anstød?<< v13 Men Jesus svarede: >>Enhver plante som min himmelske Far ikke har plantet, skal rykkes op med rode. v14 Lad dem være,{T: Kan også oversættes: >>Lad det ske<<} de er blinde vejledere for blinde, og når en blind leder en blind, falder de begge i grøften.<< v15 Men Peter sagde til ham: >>Forklar den lignelse for os.<< v16 Han sagde: >>Er også I endnu uforstandige? v17 Forstår I ikke at alt det som kommer ind i munden, kommer ned i maven og udskilles i toilettet? v18 Men det som udgår fra hjertet, kommer ud fra hjertet, og det gør mennesket urent. v19 For fra hjertet udgår de onde tanker: Mord, ægteskabsbrud, utugt, tyveri, falsk vidnesbyrd, bespottelse. v20 Det er dette som gør mennesket urent, men at spise med uvaskede hænder gør ikke mennesket urent.<<
+
+==Den kana’anæiske kvinde==
+
+v21 Og Jesus gik ud derfra og drog bort til Tyrus’ og Sidons egne. v22 Og se, en kana’anæisk kvinde kom fra disse egne og råbte: >>Forbarm dig over mig, Davids søn. Min datter plages slemt af en dæmon.<< v23 Men Jesus svarede hende ikke med et ord. Hans disciple kom og bad ham: >>Send hende bort, for hun råber efter os.<< v24 Men han svarede: >>Jeg er ikke udsendt til andre end de fortabte får af Israels hus.<< v25 Men hun kom, knælede for ham og sagde: >>Herre, hjælp mig.<< v26 Men han svarede: >>Det er ikke rigtigt at tage børnenes brød og kaste det for de små hunde.<< v27 Men hun sagde: >>Jo, Herre, for de små hunde spiser også af smulerne, som falder ned fra deres herrers bord.<< v28 Da svarede Jesus hende: >>Kvinde, din tro er stor. Det skal ske dig, som du vil.<< Og datteren blev helbredt i den time.
+
+==Helbredelser ved Galilæas sø==
+
+v29 Jesus gik videre derfra og gik langs Galilæas sø, og han steg op på bjerget og satte sig dér. v30 Store skarer kom til ham med deres lamme, blinde, vanføre, døve, og mange andre, og de lagde dem for hans fødder, og han helbredte dem, v31 så skarerne undrede sig, da de så stumme tale, lamme raske, vanføre gå omkring og blinde se, og de priste Israels Gud.
+
+==Det andet bespisningsunder==
+
+v32 Jesus tilkaldte sine disciple og sagde: >>Jeg har medlidenhed med skaren fordi de allerede har været tre dage hos mig, og de har ikke noget at spise, og jeg vil ikke sende dem fastende bort for at de ikke skal blive udmattede på vejen.<< v33 Disciplene siger til ham: >>Hvor i ødemarken skal vi få så mange brød fra så vi kan mætte så stor en skare?<< Jesus siger til dem: >>Hvor mange brød har I?<< De sagde: >>Syv og få småfisk.<< v35 Han befalede skaren at sætte sig på jorden, v36 og han tog de syv brød og fiskene, og han takkede, brød dem og gav dem til disciplene, og disciplene gav dem til skarerne. v37 Og alle spiste og blev mætte. Og det, der var tilovers af resterne, syv kurve fulde, samlede de. v38 Der var fire tusind mænd foruden kvinder og børn, som havde spist. v39 Han sendte skarerne bort, steg ombord i båden og kom til egnen ved Magadan.
+

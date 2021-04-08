@@ -1,10 +1,23 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 10.02.2021>!!
-
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.04.2021>!!
 ===Matthæusevangeliet, kapitel 4===
 
-v1 Da blev Jesus af Ånden ført til ørkenen for at blive fristet af Djævelen. v2 Og da han havde fastet i fyrre dage og fyrre nætter, sultede han til sidst. v3 Og fristeren kom og sagde til ham: >>Når du er Guds Søn, så sig, at disse sten dér skal blive til brød.<< v4 Men han svarede: >>Der står skrevet:{H: 5 Mos 8,3.} >Mennesket skal ikke leve af brød alene, men af hvert ord, som udgår af Guds mund.<<< v5 Da tager Djævelen ham med sig til den hellige by og stillede ham på templets tinde, v6 og han siger til ham: >>Når du er Guds Søn, så kast dig ned, for der står skrevet:{H: Sl 91,11-12.} >Han skal befale sine engle med henblik på dig, og de skal bære dig på hænder, for at du ikke skal støde din fod mod en sten.<<< v7 Jesus sagde til ham: >>Der står også skrevet:{H: 5 Mos 6,16.} >Du må ikke friste Herren, din Gud.<<< v8 Igen tager Djævelen ham med sig op på et meget højt bjerg og viser ham alle verdens riger og deres herlighed, v9 og han sagde til ham: >>Alt dette vil jeg give dig, hvis du kaster dig ned og tilbeder mig.<< v10 Så siger Jesus til ham: >>Gå bort, Satan, for der står skrevet{H: 5 Mos 6,13.}: >Du skal tilbede din Herren Gud og tjene ham alene.<<< v11 Da forlader Djævelen ham, og se, engle kom og tjente ham.
+==Jesu fristelse==
+ 
+v1 Da blev Jesus af Ånden ført til ørkenen for at blive fristet af Djævelen. v2 Da han havde fastet i fyrre dage og fyrre nætter, sultede han til sidst. v3 Og fristeren kom og sagde til ham: >>Når du er Guds Søn, så sig at disse sten dér skal blive til brød.<< v4 Men han svarede: >>Der står skrevet:{H: 5 Mos 8,3.} >Mennesket skal ikke leve af brød alene, men af hvert ord som udgår af Guds mund.<<< v5 Da tog Djævelen ham med sig til den hellige by og stillede ham på templets tinde, v6 og han sagde til ham: >>Når du er Guds Søn, så kast dig ned, for der står skrevet:{H: Sl 91,11-12.} >Han skal befale sine engle med henblik på dig, og de skal bære dig på hænder for at du ikke skal støde din fod mod en sten.<<< v7 Jesus sagde til ham: >>Der står også skrevet:{H: 5 Mos 6,16.} >Du må ikke friste Herren, din Gud.<<< v8 Igen tog Djævelen ham med sig op på et meget højt bjerg og viste ham alle verdens riger og deres herlighed, v9 og han sagde til ham: >>Alt dette vil jeg give dig, hvis du kaster dig ned og tilbeder mig.<< v10 Så sagde Jesus til ham: >>Gå bort, Satan, for der står skrevet:{H: 5 Mos 6,13.} >Du skal tilbede din Herren Gud og tjene ham alene.<<< v11. Da forlod Djævelen ham, og se, engle kom og tjente ham.
+
+==Jesu mission i Galilæa==
+
+v12 Men da han hørte at Johannes var blevet udleveret som fange, drog han bort til Galilæa. v13 Og han forlod Nazaret og kom og bosatte sig i Kapernaum ved Søen i Zebulons og Naftalis områder, v14 for at det skulle opfyldes som er blevet talt ved Esajas, profeten, som sagde:{H: Es 8,23; Es 9,1.} v15 >>Zebulons land og Naftalis land, vejen til søen, på den anden side Jordan, hedningernes Galilæa, v16 det folk som sad i mørke, har set et stort lys, og for dem som sidder i dødens land og skygge, for dem er et lys steget op.<< v17 Fra da af begyndte Jesus at forkynde, og han sagde: >>Omvend jer, for Himlenes rige er kommet nær.<<
+
+==Kaldelsen af de første disciple==
+
+v18 Mens han vandrede langs Galilæas Sø, så han to brødre, Simon, som kaldes Peter, og Andreas, hans bror, i færd med at kaste net i søen, for de var fiskere. v19 Og han sagde til dem: >>Kom, følg mig, for jeg vil gøre jer til menneskefiskere.<< v20 Straks forlod de garnene og fulgte ham. v21 Da han gik videre derfra, så han to andre brødre, Jakob, Zebedæus’ søn, og Johannes, hans bror, i båden sammen med Zebedæus, deres far, i færd med at ordne deres garn, og han kaldte dem. v22 Straks forlod de båden og deres far og fulgte ham.
+
+==Forkyndelse og helbredelser i Galilæa==
+
+v23 Han gik omkring i hele Galilæa idet han underviste i deres synagoger, og idet han forkyndte evangeliet om Riget, og idet han helbredte enhver sygdom og enhver svaghed i folket. v24 Og rygtet om ham kom ud i hele Syrien, og alle deres syge som led af forskellige sygdomme og lidelser, bragte de til ham, og de kom også med besatte og månesyge og lamme, og han helbredte dem. v25 Og store skarer fulgte ham fra Galilæa, Dekapolis, Jerusalem, Judæa og fra den anden side af Jordan.
+

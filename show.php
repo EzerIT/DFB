@@ -61,17 +61,18 @@ function formatref($ref) {
     $links = '';
     
     $offset = 0;
-    while (preg_match('/((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)([;\.]\s*)?/',
+    while (preg_match('/((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+)(,([0-9]+)(-([0-9]+))?)?)([;\.]\s*)?/',
                       // Matches:
                       // 0: Everything
                       // 1: ((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
                       // 2: (([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)
                       // 3: ([1-5]+ )?
                       // 4: ([0-9]+)  - Chapter
-                      // 5: ([0-9]+)  - 'From' verse
-                      // 6: (-([0-9]+))?
-                      // 7: ([0-9]+)  - 'To' verse
-                      // 8: ([;\.]\s*)?
+                      // 5: (,([0-9]+)(-([0-9]+))?)?
+                      // 6: ([0-9]+)  - 'From' verse
+                      // 7: (-([0-9]+))?
+                      // 8: ([0-9]+)  - 'To' verse
+                      // 9: ([;\.]\s*)?
                       $ref,
                       $matches,
                       PREG_OFFSET_CAPTURE,
@@ -84,15 +85,15 @@ function formatref($ref) {
                     . $deabbrev[$matches[2][0]]
                     . "&kap=" . $matches[4][0];
 
-            if (!empty($matches[5][0])) {
+            if (!empty($matches[6][0])) {
                 // 'From' verse is set
-                $links .=  "&fra=" . $matches[5][0]
-                         . "&til=" . (!empty($matches[7][0]) ? $matches[7][0] : $matches[5][0]);
+                $links .=  "&fra=" . $matches[6][0]
+                         . "&til=" . (!empty($matches[8][0]) ? $matches[8][0] : $matches[6][0]);
             }
             
             $links .= '">'
                     . $matches[1][0] . '</a>'
-                    . (isset($matches[8]) && !empty($matches[8][0]) ? $matches[8][0] : '.');
+                    . (isset($matches[9]) && !empty($matches[9][0]) ? $matches[9][0] : '.');
         }
         $offset = $matches[4][1];
                 

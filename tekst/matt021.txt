@@ -1,14 +1,40 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 17.03.2021>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.04.2021>!!
 ===Matthæusevangeliet, kapitel 21===
 
-v1 Da de nærmede sig Jerusalem og kom til Betfage på Oliebjerget,{T: Ordret: >>oliventræernes bjerg<<.} sendte Jesus to disciple af sted v2 og sagde til dem: >>Gå til landsbyen overfor jer, og straks vil I finde et æsel som står bundet, og et føl sammen med det; løs dem og før dem til mig. v3 Og hvis nogen siger noget til jer, så sig: >Herren har brug for dem,< og straks vil han sende dem.<< v4 Men dette er sket for at det skulle opfyldes som er blevet talt ved profeten, som sagde:
+==Indtoget i Jerusalem==
+v1 Da de nærmede sig Jerusalem og kom til Betfage på Oliebjerget, sendte Jesus to disciple af sted v2 og sagde til dem: >>Gå til landsbyen overfor jer, og straks vil I finde et æsel som står bundet, og et føl sammen med det; løs dem og før dem til mig. v3 Og hvis nogen siger noget til jer, så sig: >Herren har brug for dem,< og straks vil han sende dem. v4 Men dette er sket for at det skulle opfyldes, som er blevet talt ved profeten, som sagde:
+
 v5 >>Sig til Zions datter: 
+
 se din konge kommer til dig,  
-ydmyg{T: Kan også oversættes: >>mild<< eller >>sagtmodig<<.} og ridende på et æsel
+
+ydmyg{T: Kan også oversættes >>mild<< eller >>sagtmodig<<.} og ridende på et æsel
+
 og på et trældyrs føl.<<
-v6 Disciplene gik hen og gjorde som Jesus havde pålagt dem, v7 og de bragte æslet og føllet, de lagde deres kapper på dem, og han satte sig på dem. v8 Og den meget store skare strøede deres kapper på vejen, mens andre skar grene af træerne, og de strøede dem på vejen. v9 Skarerne, som gik foran ham og som fulgte ham, råbte: >>Hosianna, Davids søn, velsignet er han som kommer i Herrens navn, Hosianna i det højeste!<<
+
+v6 Disciplene gik hen og gjorde som Jesus havde pålagt dem, v7 og de bragte æslet og føllet, de lagde deres kapper på dem, og han satte sig på dem. v8 Og den meget store skare strøede deres kapper på vejen, mens andre skar grene af træerne, og de strøede dem på vejen. v9 Skarerne, som gik foran ham og som fulgte ham, råbte: >>Hosianna, Davids søn, velsignet er han som kommer i Herrens navn, Hosianna i det højeste!<< v10 Og da han kom ind i byen, kom den i bevægelse, og man sagde: >>Hvem er han?<< v11 Men skarerne sagde: >>Han er profeten Jesus fra Nazaret i Galilæa.<<
+
+==Tempelaktionen==
+
+v12 Jesus gik ind i templet, og han jog alle dem ud som solgte og købte i templet, og han væltede vekselerernes borde og duesælgernes bænke, v13 og han sagde til dem: >>Der står skrevet{H: Es 56,7; Jer 7,11}: Min Fars hus skal kaldes et bedehus, men I har gjort det til en røverhule.<< v14 Blinde og lamme kom til ham i templet, og han helbredte dem. v15 Men da ypperstepræsterne og de skriftlærde så de undere han gjorde, og børnene som råbte i templet og sagde: >>Hosianna, Davids søn!<<, harmedes de, v16 og de sagde: >>Hører du hvad de siger?<< Men Jesus sagde til dem: >>Jo, har I aldrig læst{H: Sl 8,3} at >af umyndiges og spædes mund har jeg beredt lovsang?<<< v17 Og han forlod dem og gik udenfor byen til Betania og overnattede dér.
+
+==Forbandelsen af figentræet==
+
+v18 Men om morgenen da han var på vej mod byen, blev han sulten, v19 og da han så et figentræ ved vejen og kom til det, fandt han intet andet end blade, og han sagde til det: >>Aldrig mere skal der blive frugt af dig.<< Og straks visnede figentræet. v20 Da disciplene så det, blev de forundrede og sagde: >>Hvordan kunne figentræet straks visne?<< v21 Men Jesus svarede dem: >>Sandelig siger jeg jer, hvis I har tro og ikke tvivler, kan I ikke alene gøre dette med figentræet, men hvis I siger til dette bjerg: Løft dig op og kast dig i havet, så vil det ske, v22 og alt hvad I beder om i jeres bøn, skal I modtage når I tror.<<
+
+==Spørgsmålet om Jesu fuldmagt==
+
+v23 Da han kom til templet, kom ypperstepræsterne og folkets ældste til ham mens han underviste, og de sagde: >>Med hvilken fuldmagt gør du dette? Og hvem har givet dig denne fuldmagt?<< v24 Jesus svarede dem: >>Jeg vil spørge jer om en ting, og hvis I svarer mig, vil jeg sige jer med hvilken fuldmagt jeg gør dette. v25 Hvorfra var Johannes’ dåb? Fra himlen eller fra mennesker?<< Men de overvejede indbyrdes: >>Hvis vi siger: Fra himlen, så vil han sige til os: Hvorfor troede I så ikke på ham? v26 Men hvis vi siger: Fra mennesker, så frygter vi for folket, for alle holder Johannes for at være en profet.<< v27 De svarede Jesus: >>Vi ved det ikke.<< Og han sagde til dem: >>Så siger jeg heller ikke til jer med hvilken fuldmagt jeg gør dette.<<
+
+==Lignelsen om de to sønner==
+
+v28 >>Men hvad mener I? En mand havde to sønner. Han gik til den første og sagde: >Søn, gå i dag hen og arbejd i min vingård<. v29 Og han svarede: >Jeg vil ikke<, men senere angrede han og gik derhen. v30 Men han gik til den anden og sagde det samme. Han svarede: >Ja, herre,< men han gik ikke derhen. v31 Hvem af de to udførte farens vilje?<< De sagde: >>Den første.<< Jesus sagde til dem: >>Sandelig siger jeg jer: Toldere og skøger skal gå ind i Guds rige før jer. v32 For Johannes kom til jer med vejen til retfærdighed, og I troede ham ikke, men toldere og skøger troede ham, og skønt I så det, angrede I ikke senere så I troede ham.<<
+
+==Lignelsen om de onde vinbønder==
+
+v33 Hør en anden lignelse: Der var en husherre som plantede en vingård, satte et gærde om den, gravede en perse i den og byggede et tårn, og han lejede den ud til vinbønder og drog udenlands. v34 Da frugttiden nærmede sig, sendte han sine tjenere til vinbønderne for at få sine frugter. v35 Vinbønderne greb hans tjenere, en slog de, en anden dræbte de, og en tredje stenede de. v36 Han sendte igen andre tjenere, flere end de første, og de gjorde det samme med dem. v37 Men sidst sendte han sin søn til dem og sagde: >De vil respektere min søn<. v38 Men da vinbønderne så sønnen, sagde de til hinanden: >Han er arvingen, kom, lad os dræbe ham, og vi vil få hans arv,< v39 og de greb ham, kastede ham ud uden for vingården og dræbte ham. v40 Men når vingårdens herre kommer, hvad vil han så gøre ved disse vinbønder?<< v41 De sagde til ham: >>Han vil berede et ondt endeligt for de onde og leje sin vingård ud til andre som vil give ham frugterne til rette tid.<< v42 Jesus sagde til dem: >>Har I aldrig læst i skrifterne{H: Sl 118,22-23}: >Den sten som murerne forkastede, den er blevet hjørnestenen; fra Herren er dette kommet, og det er underfuldt for vore øjne.< v43 Derfor siger jeg jer: Fra jer skal Guds riges tages og gives til et folk som bringer dets frugter. v44 Og den som falder på denne sten, skal slås i stykker, og den som den falder på, ham skal den knuse.<< v45 Da ypperstepræsterne og farisæerne hørte hans lignelser, forstod de at han talte om dem, og de søgte at gribe ham, men de frygtede skarerne, for de mente at han var en profet.
+
