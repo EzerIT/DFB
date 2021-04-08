@@ -8,8 +8,6 @@ require_once('setdefault.inc.php');
 require_once('replaceit.inc.php');
 require_once('oversigt.inc.php');
 
-define('CHAP_PER_LINE', 7);
-
 
 // $minchap: Minimum chapter number
 // $maxchap: Maximum chapter number

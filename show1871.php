@@ -7,8 +7,6 @@ require_once('setdefault.inc.php');
 require_once('replaceit_xml.inc.php');
 require_once('oversigt_1871.inc.php');
 
-define('CHAP_PER_LINE', 7);
-
 
 function pagination($book, $kapitel) {
     global $chaptype, $chap;
