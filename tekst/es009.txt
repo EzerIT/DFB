@@ -1,35 +1,33 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
+!!<Dato for denne version: 08.04.2021>!!
 
 ===Esajas' Bog, kapitel 9===
-
-v1 For se, der skal ikke være mørke over det land, hvor der er trængsel nu; ligesom han i den første tid bragte vanære over Sebulons land og Naftalis land, sådan skal han gøre det herligt i den sidste tid, over landet ad vejen ved havet, på den anden side af Jordan, hedningernes Galilæa.
 
 
 ==Esajas trøster det jødiske folk med løftet om evangeliets ord og om forløsningen gennem Messias, og han beskriver hans fødsel, person, virke og evige rige.==
 
-v2 Det folk der vandrede i mørket, ser et stort lys; over dem der boede i dødens skygges land, skinner et lys.
-v3 Du formerer det folk hvis glæde du ikke havde gjort stor; de glæder sig for dit ansigt ligesom glæden er om høsten, ligesom man fryder sig når man uddeler bytte,
-v4 for dets byrdes åg og kæppen over dets ryg, dets drivers stav, har du bræket som på Midjans dag;
-v5 for hver krigsstøvle der blev båret i krigstummelen, og uniformen der var sølet til i blod, skal brændes og blive føde for ilden;
-v6 for et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og han skal kaldes Under, Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste;
-v7 for at herredømmet må blive stort, og at der må blive fred uden ende over Davids trone og over hans rige til at gøre det stærkt og til at bevare det ved ret og retfærdighed fra nu og til evig tid; JHVH Zebaoths brændende iver skal gøre dette.
+v1 Det folk der vandrede i mørket, ser et stort lys; over dem der boede i dødens skygges land, skinner et lys.
+v2 Du formerer det folk hvis glæde du ikke havde gjort stor; de glæder sig for dit ansigt ligesom glæden er om høsten, ligesom man fryder sig når man uddeler bytte,
+v3 for dets byrdes åg og kæppen over dets ryg, dets drivers stav, har du bræket som på Midjans dag;
+v4 for hver krigsstøvle der blev båret i krigstummelen, og uniformen der var sølet til i blod, skal brændes og blive føde for ilden;
+v5 for et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og han skal kaldes Under, Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste;
+v6 for at herredømmet må blive stort, og at der må blive fred uden ende over Davids trone og over hans rige til at gøre det stærkt og til at bevare det ved ret og retfærdighed fra nu og til evig tid; JHVH Zebaoths brændende iver skal gøre dette.
 
 ==Esajas forudsiger, hvordan filistrene og syrerne skal angribe og straffe Israels kongerige på grund af deres hovmod, hårdnakkethed og ugudelighed.==
 
-v8 Herren har sendt et ord mod Jakob, og det er slået ned i Israel.
-v9 Og hele folket skal høre det, Efraim og indbyggerne i Samaria, med deres hovmodighed og hjerters stolthed; de siger:
-v10 >>Murstenene er faldet, men vi vil bygge med kvadersten; morbærtræerne er hugget om, men vi vil sætte cedertræer i stedet!<<
-v11 Og JHVH skal rejse Rezins modstandere imod ham, og han vil ruste hans fjender.
-v12 Syrerne forfra og filistrene bagfra åd Israel i én mundfuld. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
-v13 Og folket har ikke omvendt sig til ham der slog det, og har ikke søgt JHVH Zebaoth.
-v14 Derfor vil JHVH hugge hoved og hale, palmegran og siv af Israel på én og samme dag.
-v15 Den gamle og den ansete, han er hovedet; men den profet der lærer løgn, han er halen.
-v16 Og dette folks førere forfører det, og de i folket der lader sig føre, er fortabt.
-v17 Derfor kan Herren ikke glæde sig over dets unge mænd og ikke forbarme sig over dets faderløse og over dets enker; for hver eneste er vanhellig og handler ondt, og hver en mund taler dumhed. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
-v18 For ugudelighed brænder som en ild der fortærer torn og tidsler og antænder skovens tykninger, og de skal hvirvle højt op i røg.
-v19 Landet er sat i brand i JHVH Zebaoths vrede; og folket er som det der fortæres af ild, de skåner ikke hinanden.
-v20 Og man bider til højre og sulter alligevel, og man æder om sig til venstre og mættes ikke; enhver æder kødet af sin egen arm.
-v21 Manasse er imod Efraim og Efraim imod Manasse: Begge er sammen imod Juda.  Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt. 
+v7 Herren har sendt et ord mod Jakob, og det er slået ned i Israel.
+v8 Og hele folket skal høre det, Efraim og indbyggerne i Samaria, med deres hovmodighed og hjerters stolthed; de siger:
+v9 >>Murstenene er faldet, men vi vil bygge med kvadersten; morbærtræerne er hugget om, men vi vil sætte cedertræer i stedet!<<
+v10 Og JHVH skal rejse Rezins modstandere imod ham, og han vil ruste hans fjender.
+v11 Syrerne forfra og filistrene bagfra åd Israel i én mundfuld. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
+v12 Og folket har ikke omvendt sig til ham der slog det, og har ikke søgt JHVH Zebaoth.
+v13 Derfor vil JHVH hugge hoved og hale, palmegran og siv af Israel på én og samme dag.
+v14 Den gamle og den ansete, han er hovedet; men den profet der lærer løgn, han er halen.
+v15 Og dette folks førere forfører det, og de i folket der lader sig føre, er fortabt.
+v16 Derfor kan Herren ikke glæde sig over dets unge mænd og ikke forbarme sig over dets faderløse og over dets enker; for hver eneste er vanhellig og handler ondt, og hver en mund taler dumhed. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
+v17 For ugudelighed brænder som en ild der fortærer torn og tidsler og antænder skovens tykninger, og de skal hvirvle højt op i røg.
+v18 Landet er sat i brand i JHVH Zebaoths vrede; og folket er som det der fortæres af ild, de skåner ikke hinanden.
+v19 Og man bider til højre og sulter alligevel, og man æder om sig til venstre og mættes ikke; enhver æder kødet af sin egen arm.
+v20 Manasse er imod Efraim og Efraim imod Manasse: Begge er sammen imod Juda.  Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt. 

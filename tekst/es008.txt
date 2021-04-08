@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 09.08.2016>!!
+!!<Dato for denne version: 08.04.2021>!!
 
 ===Esajas' Bog, kapitel 8===
 
@@ -32,5 +32,7 @@ v19 Og når de vil sige til jer:  >>Opsøg åndemanerkvinderne og spåmændene d
 v20 >>Til loven og til vidnesbyrdet!<<  - Hvis de ikke siger sådan når der ikke er nogen morgenrøde for dem,
 v21, så skal de drage igennem landet, hårdt plagede og sultne; og når nogen sulter, skal han blive vred og forbande sin konge og sin Gud og vende sit ansigt imod det høje,
 v22 og han skal se ned mod jorden, men se, der skal være angstens mørke, trængslens mørke, og han er stødt ud i natten.
+v23 For se, der skal ikke være mørke over det land, hvor der er trængsel nu; ligesom han i den første tid bragte vanære over Sebulons land og Naftalis land, sådan skal han gøre det herligt i den sidste tid, over landet ad vejen ved havet, på den anden side af Jordan, hedningernes Galilæa.
+
 
 
