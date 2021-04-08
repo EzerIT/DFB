@@ -62,7 +62,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\s*{Q:\s*([^}]+)}/';
     $to[] = '\\pnotehead{\1}';
 
-    $from[] = '/\s*{T:\s*([^}]+)}/';
+    $from[] = '/\s*{[TH]:\s*([^}]+)}/';
     $to[] = '\\footnote{\1}Z1Z';
 
     $from[] = '/(JHVH[sv]*)/i';
@@ -381,7 +381,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{08.08.2020}
+\date{08.04.2021}
 
 
 \begin{document}

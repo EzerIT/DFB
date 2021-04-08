@@ -65,7 +65,7 @@ $title['1pet']    = 'Første Petersbrev';
 $title['1joh']    = 'Første Johannesbrev';
 
 $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
-$style['NT'] = 'btn-warning'; // Bedste værdi for NT's kapitler
+$style['NT'] = 'btn-info'; // Bedste værdi for NT's kapitler
 
 
 foreach ($chap as $k => $v)

@@ -1,4 +1,4 @@
-!!<Modenhed: Delvis færdig>!!
+        !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
@@ -27,7 +27,7 @@ v12 og tilgiv os vor skyld,
 
 ligesom også vi har tilgivet vore skyldnere,
 
-v.13 og før os ikke ind i fristelse,
+v13 og før os ikke ind i fristelse,
 
 men befri os fra den onde.
 
@@ -41,7 +41,7 @@ v16 Men når I faster, så vis ikke et mørkt udseende{T: Mørkt udseende er udt
 
 ==Om skatte== 
 
-v.19 I skal ikke samle jer skatte på jorden, hvor møl og insekter fortærer, og hvor tyve bryder ind og stjæler. v20 Men I skal samle jer skatte i himlen, hvor hverken møl eller insekter fortærer, og hvor tyve ikke bryder ind og stjæler. v21 For hvor din skat er, dér vil også dit hjerte være.
+v19 I skal ikke samle jer skatte på jorden, hvor møl og insekter fortærer, og hvor tyve bryder ind og stjæler. v20 Men I skal samle jer skatte i himlen, hvor hverken møl eller insekter fortærer, og hvor tyve ikke bryder ind og stjæler. v21 For hvor din skat er, dér vil også dit hjerte være.
 
 ==Om legemets lys==
 
