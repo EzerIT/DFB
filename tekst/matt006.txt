@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.04.2021>!!
+!!<Dato for denne version: 09.04.2021>!!
 ===Matthæusevangeliet, kapitel 6===
 
 ==Om almisse==
@@ -15,7 +15,7 @@ v5 Og når I beder, skal I ikke være som hyklerne, for de elsker at stå og bed
 
 Vor far, du som er i himlene,
 
-helligt blive dit navn 
+helliget blive dit navn 
 
 v10 komme dit rige,
  
