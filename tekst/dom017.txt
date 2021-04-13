@@ -1,13 +1,13 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 10.03.2016>!!
+!!<Dato for denne version: 13.04.2021>!!
 
 ===Dommerbogen, kapitel 17===
 
 ==Mika har stjålet sølv fra sin mor, giver hende det tilbage; hun får lavet et afgudsbillede af det==
 
-v1 Der var en mand fra Efraims Bjerge, hans navn var Mika. v2 Han sagde til sin mor: >>De v1100
+v1 Der var en mand fra Efraims Bjerge, hans navn var Mika. v2 Han sagde til sin mor: >>De 1100
 sekel sølv som er blevet røvet fra dig, og som du udtalte en forbandelse over mens jeg hørte på det,
 se, de sølvpenge er hos mig. Jeg har taget dem.<<
 
