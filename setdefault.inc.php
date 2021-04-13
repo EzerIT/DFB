@@ -14,5 +14,6 @@
    setdefault('showfn1',    'on');
    setdefault('showfnblock','off');
    setdefault('oneline',    'off');
+   setdefault('linespace',  'off');
    setdefault('godsname',   'HERREN');
    setdefault('font',       'Helvetica');

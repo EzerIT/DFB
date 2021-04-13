@@ -205,6 +205,10 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
+            <?php if ($_SESSION['linespace']=='on'): ?>
+                $('.paragraph').css('line-height','2');
+            <?php endif; ?>
+
          <?php if ($_SESSION['showfna']=='on'): ?>
          $('[data-let]').each(function( index ) {
              $(this).text("[" + $(this).data('let') + "]");

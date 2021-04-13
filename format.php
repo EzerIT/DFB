@@ -75,6 +75,12 @@ makemenus(1);
               </label>
             </div>
 
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" name="linespace" <?= showchecked('linespace') ?>> Ekstra linjeafstand
+              </label>
+            </div>
+
             <div class="form-group">
               <label for="godsname">Guds navn:</label>
               <select name="godsname" id="godsname">

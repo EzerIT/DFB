@@ -17,6 +17,7 @@ setifpost('showfna');
 setifpost('showfn1');
 setifpost('showfnblock');
 setifpost('oneline');
+setifpost('linespace');
 setifpost('font');
 
 if (isset($_POST['godsname'])) {
@@ -44,7 +45,7 @@ if (isset($_POST['usecookie'])) {
         $use_https = true;
     }
 
-    foreach (['showverse', 'showchap', 'showh2', 'showfna', 'showfn1', 'showfnblock', 'oneline', 'godsname', 'font'] as $key)
+    foreach (['showverse', 'showchap', 'showh2', 'showfna', 'showfn1', 'showfnblock', 'oneline', 'linespace', 'godsname', 'font'] as $key)
         setcookie($key, $_SESSION[$key], time()+60*60*24*365*2 /* 2 years */, '/', $host, $use_https, true);
 }
 
