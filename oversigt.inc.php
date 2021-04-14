@@ -19,13 +19,14 @@ $chap['zak']      = range(1,14);
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
 $chap['luk']      = [1,11,24];
-$chap['joh']      = [6,10,20];
+$chap['joh']      = [6,10,16,20];
 $chap['apg']      = [10];
 $chap['ef']       = [5];
 $chap['fil']      = [2];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
+$chap['hebr']     = [8,13];
 $chap['1pet']     = [2,3];
 $chap['1joh']     = [1,5];
 
@@ -61,6 +62,7 @@ $title['2kor']    = 'Andet Korintherbrev';
 $title['ef']      = 'Efeserbrevet';
 $title['fil']     = 'Filipperbrevet';
 $title['1thess']  = 'Første Thessalonikerbrev';
+$title['hebr']    = 'Hebræerbrevet';
 $title['1pet']    = 'Første Petersbrev';
 $title['1joh']    = 'Første Johannesbrev';
 
@@ -98,6 +100,7 @@ $abbrev['2kor'] = '2 Kor';
 $abbrev['ef']   = 'Ef';
 $abbrev['fil']  = 'Fil';
 $abbrev['1thess'] = '1 Thess';
+$abbrev['hebr'] = 'Heb';
 $abbrev['1pet'] = '1 Pet';
 $abbrev['1joh'] = '1 Joh';
 
@@ -147,6 +150,7 @@ $style['2kor']    = 'btn-warning';
 $style['ef']      = 'btn-secondary';
 $style['fil']     = 'btn-secondary';
 $style['1thess']  = 'btn-warning';
+$style['hebr']    = 'btn-secondary';
 $style['1pet']    = 'btn-secondary';
 $style['1joh']    = 'btn-secondary';
 

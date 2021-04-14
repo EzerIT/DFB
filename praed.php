@@ -68,7 +68,7 @@ $grbooks = [
             //II_Timothy
             //Titus
             //Philemon
-            //Hebrews
+    'hebr' => 'Hebrews',
             //James
     '1pet' => 'I_Peter',
             //II_Peter
@@ -234,6 +234,18 @@ function make_holiday($hn) {
                       <td><?= ref_refh('ez',34,11,16) ?></td>
                       <td><?= ref_refg('1pet',2,20,25) ?></td>
                       <td><?= ref_refg('joh',10,11,16) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(23) ?>
+                      <td><?= ref_refh('es',54,7,10) ?></td>
+                      <td><?= ref_refg('hebr',13,12,16) ?></td>
+                      <td><?= ref_refg('joh',16,16,22) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(24) ?>
+                      <td><?= ref_refh('sl',51,3,19) ?> <br>eller <?= ref_refh('sl',67) ?></td>
+                      <td><?= ref_refg('hebr',8,10,12) ?></td>
+                      <td><?= ref_refg('matt',3,1,10) ?></td>
                   </tr>
               </table>
           </div>
