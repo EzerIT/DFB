@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 13.09.2017>!!
+!!<Dato for denne version: 29.04.2021>!!
 
 ===Markusevangeliet, kapitel 16===
 
@@ -14,8 +14,9 @@ v9 [Men da han var opstået tidligt den første dag i ugen, blev han først åbe
 ==Jesus åbenbarer sig for de to på vejen==
 v12 Men derefter blev han åbenbaret i en anden skikkelse for to af dem på vejen, mens de gik ud på landet. v13 Og de gik hen og forkyndte det for de andre. Heller ikke dem troede de. 
 
-==Jesus åbenbarer sig for de elleve, befaler dem at prædike og lover sin hjælp==
-v14 Senere blev han åbenbaret for de elleve selv, mens de sad til bords, og han bebrejdede dem deres vantro og hårde hjerter, fordi de ikke havde troet dem, der havde set ham opstået. v15 Og han sagde til dem: >>Gå ud i hele verden og prædik evangeliet for hele skabningen! v16 Den, der tror og bliver døbt, skal blive frelst; men den, der ikke tror, skal blive fordømt. v17 Men de her tegn skal følge dem, der tror: I mit navn skal de drive onde ånder ud; de skal tale med nye tunger; v18 de skal tage på slanger, og hvis de drikker nogen gift, skal det ikke skade dem; på syge skal de lægge hænder, og de skal blive helbredt.<<
+==Jesus viser sig for de elleve, befaler dem at prædike og lover sin hjælp==
+v14 Senere viste han sig for de elleve selv, mens de lå til bords, og han bebrejdede dem deres vantro og hårdhjertethed fordi de ikke havde troet dem der havde set ham opstået. v15 Og han sagde til dem: >>Gå ud i hele verden og prædik evangeliet for hele skabningen! v16 Den der tror og bliver døbt, skal blive frelst; men den der ikke tror, skal blive fordømt. v17 Men disse tegn skal følge dem der tror: I mit navn skal de uddrive onde ånder; de skal tale med nye tunger; v18 de skal tage slanger op, og hvis de drikker dødbringende gift, skal det ikke skade dem; på syge skal de lægge hænder, og de skal blive helbredt.<<
 
 ==Jesus tages op til himlen, men er med apostlene i evangeliets tjeneste==
-v19 Og så blev Herren, efter at han havde talt med dem, taget op til himlen og satte sig ved Guds højre hånd. v20 Men de gik ud og prædikede alle vegne, idet Herren arbejdede med og bekræftede ordet gennem de medfølgende tegn.]{T: Versene 9-20 findes ikke i de ældste håndskrifter}
+v19 Og så blev Herren Jesus, efter at han havde talt til dem, taget op til himlen og satte sig ved Guds højre hånd. v20 Men de gik ud og prædikede alle vegne idet Herren arbejdede med og bekræftede ordet gennem de medfølgende tegn.]{T: Versene 9-20 findes ikke i de ældste håndskrifter.}
+

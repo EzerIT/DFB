@@ -253,6 +253,18 @@ function make_holiday($hn) {
                       <td><?= ref_refg('jak',1,17,21) ?></td>
                       <td><?= ref_refg('joh',16,5,15) ?></td>
                   </tr>
+                  <tr>
+                      <?= make_holiday(26) ?>
+                      <td><?= ref_refh('1mos',32,25,32) ?></td>
+                      <td><?= ref_refg('jak',1,22,25) ?></td>
+                      <td><?= ref_refg('joh',16,23,28,'Joh 16,23b-28') ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(27) ?>
+                      <td><?= ref_refh('sl',110,1,4) ?></td>
+                      <td><?= ref_refg('apg',1,1,11) ?></td>
+                      <td><?= ref_refg('mark',16,14,20) ?></td>
+                  </tr>
               </table>
           </div>
 

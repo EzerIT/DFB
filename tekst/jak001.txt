@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket >!!
-!!<Dato for denne version: 21.04.2021>!!
+!!<Dato for denne version: 29.04.2021>!!
 
 ===Jakobsbrevet, kapitel 1===
 
@@ -11,3 +11,8 @@ v18 Efter sin vilje fødte han os ved sandheds ord for at vi skulle være en fø
 v19 I skal vide, mine elskede brødre: Hvert menneske skal være hurtig til at høre, langsom til at tale, langsom til vrede;
 v20 for en mands vrede udretter ikke det som er retfærdigt for Gud.
 v21 Derfor, aflæg al urenhed og megen{T: Ordret: >>overflod af<<.} ondskab og modtag med ydmyghed{T: Kan også oversættes med sagtmodighed} ordet som er indplantet i jer, og som formår at frelse jeres sjæle.
+
+v22 Men vær ordets gørere og ikke kun dets hørere, hvorved I bedrager jer selv.
+v23 For hvis nogen er ordets hører og ikke dets gører, ligner han en mand der betragter sit naturlige{T: Dermed understreges at spejlet kun viser det ydre.} ansigt i et spejl;
+v24 for han betragter sig selv og går væk og glemmer straks hvordan han var.
+v25 Men den som ser ind i frihedens fuldkomne lov og holder ved den så han ikke bliver en glemsom tilhører, men en gerningens gører, han skal være salig i sin gerning.

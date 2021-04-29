@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 14.04.2021>!!
+!!<Dato for denne version: 29.04.2021>!!
 
 ===Johannesevangeliet, kapitel 16===
 
@@ -24,4 +24,10 @@ v18 De sagde altså: >>Hvad er det han siger: Om en kort tid? Vi forstår ikke h
 v19 Jesus vidste at de ville spørge ham, og han sagde til dem: >>I spørger hinanden om det jeg sagde: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig.
 v20 Sandelig, sandelig, siger jeg jer: I skal græde og jamre,{T: Det græske ord bruges især om dødsklage.} men verden skal glæde sig; I skal sørge, men jeres sorg skal blive til glæde.
 v21 Når kvinden skal føde, sørger hun fordi hendes time er kommet; men når hun har født barnet, husker hun ikke længere sin trængsel af glæde over at et menneske er født til verden.
-v22 Også I sørger jo nu, men jeg skal se jer igen, og jeres hjerte skal glædes, og ingen skal tage jeres glæde fra jer.<<
+v22 Også I sørger jo nu, men jeg skal se jer igen, og jeres hjerte skal glædes, og ingen skal tage jeres glæde fra jer.
+v23 På den dag skal I ikke spørge mig om noget. Sandelig, sandelig, siger jeg jer: hvis I beder Faderen om noget, skal han give jer det i mit navn.
+v24 Hidtil har I ikke bedt om noget i mit navn; bed, og I skal få for at jeres glæde må blive fuldkommen.
+v25 Dette har jeg sagt til jer i lignelser; der kommer en tid hvor jeg ikke mere skal tale til jer i lignelser, men frit ud forkynde jer om Faderen.
+v26 Den dag skal I bede i mit navn, og jeg siger ikke til jer at jeg vil bede Faderen for jer;
+v27 for Faderen selv elsker jer fordi I har elsket mig og troet at jeg er udgået fra Gud.
+v28 Jeg udgik fra Faderen og er kommen til verden; jeg forlader verden igen og går til Faderen.<<
