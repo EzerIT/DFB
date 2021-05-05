@@ -2,11 +2,16 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 29.04.2021>!!
+!!<Dato for denne version: 05.05.2021>!!
 
 ===Johannesevangeliet, kapitel 16===
 
-v5 >>Men nu går jeg til ham som sendte mig, og ingen af jer spørger mig: >Hvor går du hen?<
+v1 Dette har jeg talt til jer for at I ikke skal falde fra.
+v2 De skal udelukke jer af synagogerne, ja, den tid skal komme hvor enhver som slår jer ihjel, skal mene at han dyrker Gud.
+v3 Og det skal de gøre fordi de hverken kender Faderen eller mig.
+v4 Men dette har jeg talt til jer for at I, når timen kommer, skal huske at jeg har sagt jer det; men dette sagde jeg ikke til jer fra begyndelsen af fordi jeg var hos jer.
+
+v5 Men nu går jeg til ham som sendte mig, og ingen af jer spørger mig: >Hvor går du hen?<
 v6 Men fordi jeg har sagt dette til jer, har sorgen fyldt jeres hjerte.
 v7 Men jeg siger jer sandheden: Det er godt for jer at jeg går bort, for går jeg ikke bort, kommer Talsmanden ikke til jer; men går jeg bort, så vil jeg sende ham til jer.
 v8 Og når han kommer, skal han overbevise verden om synd og om retfærdighed og om dom.

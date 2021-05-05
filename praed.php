@@ -31,7 +31,7 @@ $hebbooks = [
     'nah'  => 'Nahum',
     'hab'  => 'Habakuk',
     'sef'  => 'Zephania',
-            //Haggai
+    'hagg' => 'Haggai',
     'zak'  => 'Sacharia',
             //Maleachi
     'sl'   => 'Psalmi',
@@ -243,7 +243,7 @@ function make_holiday($hn) {
                   </tr>
                   <tr>
                       <?= make_holiday(24) ?>
-                      <td><?= ref_refh('sl',51,3,19) ?> <br>eller <?= ref_refh('sl',67) ?></td>
+                      <td><?= ref_refh('sl',51,3,19) ?><br>eller <?= ref_refh('sl',67) ?></td>
                       <td><?= ref_refg('hebr',8,10,12) ?></td>
                       <td><?= ref_refg('matt',3,1,10) ?></td>
                   </tr>
@@ -264,6 +264,12 @@ function make_holiday($hn) {
                       <td><?= ref_refh('sl',110,1,4) ?></td>
                       <td><?= ref_refg('apg',1,1,11) ?></td>
                       <td><?= ref_refg('mark',16,14,20) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(28) ?>
+                      <td><?= ref_refh('hagg',2,4,9,'Hagg 2,4b-9') ?></td>
+                      <td><?= ref_refg('1pet',4,7,11,'1 Pet 4,7b-11') ?></td>
+                      <td><?= ref_refg('joh',15,26,27) ?><br>og <?= ref_refg('joh',16,1,4) ?></td>
                   </tr>
               </table>
           </div>
