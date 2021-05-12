@@ -271,6 +271,18 @@ function make_holiday($hn) {
                       <td><?= ref_refg('1pet',4,7,11,'1 Pet 4,7b-11') ?></td>
                       <td><?= ref_refg('joh',15,26,27) ?><br>og <?= ref_refg('joh',16,1,4) ?></td>
                   </tr>
+                  <tr>
+                      <?= make_holiday(29) ?>
+                      <td><?= ref_refh('1mos',11,1,9) ?></td>
+                      <td><?= ref_refg('apg',2,1,11) ?></td>
+                      <td><?= ref_refg('joh',14,22,31) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(30) ?>
+                      <td><?= ref_refh('sl',104,24,30) ?></td>
+                      <td><?= ref_refg('apg',10,42,48,'ApG 10,42-48a') ?></td>
+                      <td><?= ref_refg('joh',3,16,21) ?></td>
+                  </tr>
               </table>
           </div>
 

@@ -1,8 +1,8 @@
 !!<Modenhed: Ufuldstændigt>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Claus Tøndering>!!
-!!<Dato for denne version: 31.03.2021>!!
+!!<Litterært tjek: Endnu ikke sket>!!
+!!<Dato for denne version: 12.05.2021>!!
 
 ===Apostlenes Gerninger, kapitel 10===
 
@@ -16,3 +16,11 @@ v38 det om Jesus fra Nazaret: Hvordan Gud salvede ham med Helligånd og kraft, h
 v39 Vi er vidner om alt det som han har gjort både i jødernes land og i Jerusalem, han som de også slog ihjel, idet de hængte ham på et træ.
 v40 Ham oprejste Gud på den tredje dag og lod ham åbenbare sig,
 v41 ikke for hele folket, men for de vidner som var forud udvalgte af Gud, for os som spiste og drak med ham efter at han var opstået fra de døde.
+
+v42 Og han har påbudt os at prædike for folket og højtideligt vidne om at han er den af Gud bestemte dommer over levende og døde.
+v43 Om ham vidner profeterne at enhver som tror på ham, skal få syndernes forladelse ved hans navn.<<
+v44 Endnu mens Peter talte disse ord, faldt Helligånden på alle dem som hørte ordet.
+v45 Og de omskårne troende som var kommet sammen med Peter, blev meget forbavsede over at Helligåndens gave var blevet udgydt også over hedningerne;
+v46 for de hørte dem tale i tunger og prise Gud. Da svarede Peter:
+v47 >>Mon nogen kan nægte dem vandet så de ikke bliver døbt, de som dog har fået Helligånden lige så vel som vi?<<
+v48 Og han befalede at de skulle døbes i Jesu Kristi navn. Da bad de ham om at blive der nogle dage.
