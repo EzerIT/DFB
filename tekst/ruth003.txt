@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 27.05.2016>!!
+!!<Dato for denne version: 19.05.2021>!!
 
 ===Ruths bog, kapitel 3===
 
@@ -11,14 +11,14 @@
 v1 Hendes svigermor No'omi sagde nu til hende: >>Min datter, mon ikke jeg skulle sørge for et hjem til dig, så det må gå dig godt? 
 v2 Vi er i familie med Boaz hvis unge piger du har fulgtes med. I nat tærsker han byg på tærskepladsen. 
 v3 Tag nu et bad, smør dig med salve og klæd dig på og gå ned til tærskepladsen. Du skal ikke give dig til kende for manden før han er færdig med at spise og drikke.
-v4 Når han lægger sig, skal du lægge mærke til hvor han lægger sig. Gå så hen og fjern kappen{E: *wᵊgillît margᵊlōtāʸw* betyder ordret >>afdæk benene<<. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.} fra hans ben og læg dig. Han skal så give dig besked om hvad du skal gøre.<< 
+v4 Når han lægger sig, skal du lægge mærke til hvor han lægger sig. Gå så hen og fjern kappen{E: *wᵊgillît margᵊlōtāʸw* betyder ordret >>afdæk fødderne<<. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.} fra hans fødder og læg dig. Han skal så give dig besked om hvad du skal gøre.<< 
 v5 Hun sagde til hende: >>Jeg vil gøre alt det du siger.<<
 v6 Hun gik ned til tærskepladsen og gjorde alt det som hendes svigermor havde givet hende besked på. 
 v7 Da Boaz havde spist og drukket og følte sig godt tilpas, gik han hen og lagde sig ved en dynge korn. Hun listede hen og fjernede kappen fra hans ben og lagde sig.
 
 ==Boaz roser hende for det og lover at han vil finde ud af om den anden arving, som er nærmere i familie med Elimelek, vil gifte sig med hende, ellers vil han. ==
 
-v8 Midt på natten begyndte manden at ryste af kulde og lænede sig frem, og se, der lå en kvinde ved hans ben. 
+v8 Midt på natten begyndte manden at ryste af kulde og lænede sig frem, og se, der lå en kvinde ved hans fødder. 
 v9 Han sagde: >>Hvem er du?<< Hun svarede: >>Jeg er Ruth, din tjenestepige, giv din tjenestepige ly under dine vinger{E:*ûfāraśtā xᵊnāfexā* >>du skal sprede dine vinger<< er en allusion til 2,12, hvor det siges om Ruth at hun søgte beskyttelse under Guds vinger. I Ezek 16,8 og andre steder kan det være en vending som refererer til ægteskab.}, for du er løser.<< 
 v10 Han sagde: >>Velsignet være du for JHVH, min datter. Du har denne gang bevist at din kærlighed er bedre end første gang, for du er ikke gået efter en af de unge mænd, hvad enten han var fattig eller rig. 
 v11 Og nu, min datter, frygt ikke. Alt det du siger, vil jeg gøre for dig, for hele byen ved at du er en dygtig kvinde. 
