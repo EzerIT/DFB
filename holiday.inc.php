@@ -137,15 +137,18 @@ class Holiday {
     }
     
 
+    // Returns true if the n'th Sunday after Trinity is really All Saints' Sunday
+    function sunday_after_trinity_is_all_saints($n) {
+        return $n>=20 &&
+               $this->get_all_saints_sunday_number()==$this->get_easter_with_offset_number(56 + $n*7);
+    }
+    
     // Returns n'th Sunday after Trinity
     function get_sunday_after_trinity($n) {
         if ($n>$this->sundays_after_trinity)
             return null;
 
-        $all_saints_sunday = $this->get_all_saints_sunday_number();
-        $dayno = $this->get_easter_with_offset_number(56 + $n*7);
-
-        return $dayno==$all_saints_sunday ? null : $this->day2daymonth($dayno);
+        return $this->day2daymonth($this->get_easter_with_offset_number(56 + $n*7));
     }
 
     function format_date(Date2 $d2, bool $with_year=false) {
@@ -223,17 +226,15 @@ class Holiday {
             case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49: case 50: case 51:
             case 52: case 53: case 54: case 55: case 56: case 57: case 58:
                 return $this->get_sunday_after_trinity($hn-31);
-            case 59:
-                return $this->get_all_saints_sunday();
-            case 60: case 61: case 62: case 63: case 64:
-                return $this->get_advent($hn-60);
-            case 65:
+            case 59: case 60: case 61: case 62: case 63:
+                return $this->get_advent($hn-59);
+            case 64:
                 return $this->get_christmas_eve();
-            case 66:
+            case 65:
                 return $this->get_christmas_day();
-            case 67:
+            case 66:
                 return $this->get_st_stephens_day();
-            case 68:
+            case 67:
                 return $this->get_christmas_sunday();
             default:
                 return null;
@@ -305,24 +306,25 @@ class Holiday {
             case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49: case 50: case 51:
             case 52: case 53: case 54: case 55: case 56: case 57: case 58:
                 $n = $hn-31;
-                return "$n. søndag efter trinitatis";
+                if ($this->sunday_after_trinity_is_all_saints($n))
+                    return "Alle helgens søndag";
+                else
+                    return "$n. søndag efter trinitatis";
             case 59:
-                return "Alle helgens søndag";
-            case 60:
                 return "Sidste søndag i kirkeåret";
+            case 60:
             case 61:
             case 62:
             case 63:
-            case 64:
-                $n = $hn-61;
+                $n = $hn-59;
                 return "$n. søndag i advent";
-            case 65:
+            case 64:
                 return "Juleaften";
-            case 66:
+            case 65:
                 return "Juledag";
-            case 67:
+            case 66:
                 return "Anden juledag / Sankt Stefans dag";
-            case 68:
+            case 67:
                 return "Julesøndag";
             default:
                 return null;
