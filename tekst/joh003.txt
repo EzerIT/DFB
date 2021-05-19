@@ -2,13 +2,27 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 12.05.2021>!!
+!!<Dato for denne version: 19.05.2021>!!
 
 ===Johannesevangeliet, kapitel 3===
-
+v1 Der var en mand af farisæerne, hans navn var Nikodemus, en af jødernes rådsherrer.
+v2 Han kom til ham om natten og sagde til ham: >>Rabbi! Vi ved at du er en lærer der er kommet fra Gud; for ingen kan gøre de tegn du gør, medmindre Gud er med ham.<<
+v3 Jesus svarede ham: >>Sandelig,{T: Græsk: *amen*.} sandelig, siger jeg dig, medmindre nogen bliver født på ny,{T: Kan også oversættes: >>ovenfra<<.} kan han ikke se Guds rige.<<
+v4 Nikodemus sagde til ham: >>Hvorledes kan et menneske blive født når det er gammelt? Kan det for anden gang komme ind i sin mors liv og blive født?<<
+v5 Jesus svarede: >>Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født af vand og Ånd, kan han ikke komme ind i Guds rige.
+v6 Hvad der er født af kødet, er kød; og hvad der er født af Ånden, er ånd.
+v7 Du skal ikke undre dig over at jeg sagde til dig: I må fødes på ny.{T: Se note til vers 3.}
+v8 Vinden blæser hvorhen den vil, og du hører dens susen,{T: Ordret: >>dens lyd<<.} men du ved ikke hvorfra den kommer, og hvor den farer hen; således er enhver som er født af Ånden.<<
+v9 Nikodemus svarede ham: >>Hvorledes kan disse ting ske?<<
+v10 Jesus svarede ham: >>Du er Israels lærer og forstår ikke disse ting?
+v11 Sandelig, sandelig, siger jeg dig: Vi taler om det vi ved, og vidner om det vi har set; og I tager ikke imod vores vidnesbyrd.
+v12 Når jeg har talt med jer om de jordiske ting, og I ikke tror det, hvordan skal I da tro når jeg taler med jer om de himmelske?
+v13 Ingen er steget op til himlen, undtagen han som steg ned fra himlen, Menneskesønnen.{T: Nogle manuskripter tilføjer: >>som er i himlen<<.}
+v14 Og ligesom Moses ophøjede slangen i ørkenen, således må{T: Med guddommelig nødvendighed.} Menneskesønnen ophøjes
+v15 for at enhver som tror, skal have evigt liv i ham.
 v16 For således elskede Gud verden at han gav Den enbårne søn for at enhver som tror på ham, ikke skal fortabes, men have evigt liv.
 v17 For Gud sendte ikke sønnen til verden for at dømme verden, men for at verden skal frelses ved ham.
 v18 Den som tror på ham, dømmes ikke; men den som ikke tror, er allerede dømt fordi han ikke har troet på Guds enbårne søns navn.
 v19 Dette er dommen, at lyset er kommet til verden, og menneskene elskede mørket mere end lyset; for deres gerninger var onde.
 v20 For enhver som øver ondt, hader lyset og kommer ikke til lyset for at hans gerninger ikke skal afsløres.
-v21 Men den som gør sandheden, kommer til lyset for at hans gerninger må blive åbenbaret; for de er gjort i Gud.
+v21 Men den som gør sandheden, kommer til lyset for at hans gerninger må blive åbenbaret; for de er gjort i Gud.<<

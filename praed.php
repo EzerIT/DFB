@@ -55,7 +55,7 @@ $grbooks = [
     'luk' => 'Luke',
     'joh' => 'John',
     'apg' => 'Acts',
-            //Romans
+    'rom' => 'Romans',
     '1kor' => 'I_Corinthians',
     '2kor' => 'II_Corinthians',
             //Galatians
@@ -282,6 +282,12 @@ function make_holiday($hn) {
                       <td><?= ref_refh('sl',104,24,30) ?></td>
                       <td><?= ref_refg('apg',10,42,48,'ApG 10,42-48a') ?></td>
                       <td><?= ref_refg('joh',3,16,21) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(31) ?>
+                      <td><?= ref_refh('4mos',21,4,9) ?></td>
+                      <td><?= ref_refg('rom',11,32,36) ?></td>
+                      <td><?= ref_refg('joh',3,1,15) ?></td>
                   </tr>
               </table>
           </div>
