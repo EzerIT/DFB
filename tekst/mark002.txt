@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Ulrik Sandborg-Petersen og Bent Houmaa Jørgensen>!!
-!!<Dato for denne version: 18.09.2018>!!
+!!<Dato for denne version: 28.05.2021>!!
 
 ===Markusevangeliet, kapitel 2===
 
@@ -15,7 +15,7 @@ bar ham. v4 Og da de ikke kunne komme helt hen til ham på grund af
 folkemængden, tog de taget af der, hvor han var; og da de havde lavet
 hul, sænkede de båren ned, som den lamme lå på. v5 Og da Jesus så
 deres tro, sagde han til den lamme: >>Søn! Dine synder er dig
-tilgivet.<< v6 Men nogle af de skriftkloge, som sad der, tænkte i
+tilgivet.<< v6 Men nogle af de skriftlærde{N: Skriftlærd}, som sad der, tænkte i
 deres hjerter: v7 >>Hvorfor taler denne mand på den måde? Han taler
 bespotteligt.{T: De fleste håndskrifter læser: >>Hvorfor taler denne
 mand bespottelser på den måde?<<.} Hvem kan tilgive synder undtagen
@@ -36,8 +36,8 @@ søn, sidde ved toldboden, og han sagde til ham: >>Følg mig!<< Og han
 stod op og fulgte ham. v15 Og det skete, da han sad til bords i hans
 hus, at mange toldere og syndere sad til bords sammen med Jesus og
 hans disciple; de var nemlig mange, og de fulgte ham. v16 Og da de
-skriftkloge af farisæerne{T: De aller fleste håndskrifter læser: >>Og
-da de skriftkloge og farisæerne<<.} så, at han spiste sammen med
+skriftlærde{N: Skriftlærd} af farisæerne{T: De aller fleste håndskrifter læser: >>Og
+da de skriftlærde og farisæerne<<.} så, at han spiste sammen med
 synderne og tolderne, sagde de til hans disciple: >>Hvordan kan han
 spise{T: De fleste håndskrifter tilføjer: >>og drikke<<.} sammen med
 tolderne og synderne?<< v17 Og da Jesus hørte det, sagde han til dem:

@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Ulrik Sandborg-Petersen og Bent Houmaa Jørgensen>!!
-!!<Dato for denne version: 18.09.2018>!!
+!!<Dato for denne version: 28.05.2021>!!
 
 ===Markusevangeliet, kapitel 1===
 
@@ -52,7 +52,7 @@ sammen med de hyrede folk og fulgte efter ham.
 v21 Og de gik ind i Kapernaum. Og straks på sabbatten gik han ind i
 synagogen og underviste, v22 og de blev slået af forundring over hans
 undervisning; for han underviste dem som en, der havde myndighed, og
-ikke som de skriftkloge. v23 Og der var i deres synagoge et menneske
+ikke som de skriftlærde{N: Skriftlærd}. v23 Og der var i deres synagoge et menneske
 med en uren ånd, og han skreg op v24 og sagde: >>{T: De fleste
 håndskrifter tilføjer her: >>Åh!<<, et udråbsord, der på græsk
 udtrykker overraskelse, frygt eller foragt.}Hvad har vi med dig at

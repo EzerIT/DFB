@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.04.2021>!!
+!!<Dato for denne version: 28.05.2021>!!
 ===Matthæusevangeliet, kapitel 7===
 
 ==Om fordømmelse af andre==
@@ -35,5 +35,5 @@ v24 Derfor, enhver som hører disse mine ord og gør dem, vil ligne en klog mand
 
 ==Afslutning==
 
-v28 Da Jesus havde afsluttet disse ord, var skarerne slået af forundring over hans undervisning, v29 for han underviste dem som en der havde myndighed, og ikke som deres skriftlærde.
+v28 Da Jesus havde afsluttet disse ord, var skarerne slået af forundring over hans undervisning, v29 for han underviste dem som en der havde myndighed, og ikke som deres skriftlærde{N: Skriftlærd}.
 

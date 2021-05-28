@@ -2,11 +2,11 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.04.2021>!!
+!!<Dato for denne version: 28.05.2021>!!
 ===Matthæusevangeliet, kapitel 2=== 
 
 ==De vise mænd==
-v1 Men da Jesus var blevet født i Betlehem i Judæa i kong Herodes’ dage, se, vise mænd fra østen kom til Jerusalem, v2 og de sagde: >>Hvor er jødernes konge, som er blevet født? For vi har set hans stjerne i østen, og vi er kommet for at tilbede ham.<< v3 Men da kong Herodes hørte det, blev han forfærdet og hele Jerusalem med ham, v4 og han samlede alle ypperstepræsterne og folkets skriftlærde og udspurgte dem: >>Hvor skal Kristus fødes?<< v5 Og de sagde til ham: >>I Betlehem i Judæa, for således står der skrevet ved profeten:{H: Mika 5,1; 2 Sam 5,2.} 
+v1 Men da Jesus var blevet født i Betlehem i Judæa i kong Herodes’ dage, se, vise mænd fra østen kom til Jerusalem, v2 og de sagde: >>Hvor er jødernes konge, som er blevet født? For vi har set hans stjerne i østen, og vi er kommet for at tilbede ham.<< v3 Men da kong Herodes hørte det, blev han forfærdet og hele Jerusalem med ham, v4 og han samlede alle ypperstepræsterne og folkets skriftlærde{N: Skriftlærd} og udspurgte dem: >>Hvor skal Kristus fødes?<< v5 Og de sagde til ham: >>I Betlehem i Judæa, for således står der skrevet ved profeten:{H: Mika 5,1; 2 Sam 5,2.} 
 v6 Og du Betlehem i Judæa land, 
 
 du er slet ikke den ringeste blandt Judæas fyrster, 

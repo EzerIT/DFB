@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.04.2021>!!
+!!<Dato for denne version: 28.05.2021>!!
 ===Matthæusevangeliet, kapitel 17===
 
 ==Forklarelsen på bjerget==
@@ -11,7 +11,7 @@ v1 Seks dage efter tog Jesus Peter, Jakob og Johannes, hans bror, og førte dem 
 
 ==Identifikation af Elias==
 
-v10 Disciplene spurgte ham: >>Hvorfor siger de skriftlærde da: Elias skal komme først?<< v11 Men han svarede: >>Elias kommer og genopretter alt, v12 men jeg siger jer: Elias er allerede kommet, og de kendte ham ikke, og de gjorde med ham alt hvad de ville. Således skal også Menneskesønnen lide under dem.<< v13 Så forstod disciplene at han havde talt til dem om Johannes Døber.
+v10 Disciplene spurgte ham: >>Hvorfor siger de skriftlærde{N: Skriftlærd} da: Elias skal komme først?<< v11 Men han svarede: >>Elias kommer og genopretter alt, v12 men jeg siger jer: Elias er allerede kommet, og de kendte ham ikke, og de gjorde med ham alt hvad de ville. Således skal også Menneskesønnen lide under dem.<< v13 Så forstod disciplene at han havde talt til dem om Johannes Døber.
 
 ==Drengen med den onde ånd==
 

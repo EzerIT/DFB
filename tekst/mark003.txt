@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Ulrik Sandborg-Petersen og Bent Houmaa Jørgensen>!!
-!!<Dato for denne version: 18.09.2018>!!
+!!<Dato for denne version: 28.05.2021>!!
 
 ===Markusevangeliet, kapitel 3===
 
@@ -48,7 +48,7 @@ og Simon Kananæeren v19 og Judas Iskariot, ham som forrådte ham.
 v20 Og han{T: >>han<<: De fleste håndskrifter læser: >>de<<.} kom
 hjem, og der samledes igen en folkemængde, så de ikke engang kunne få
 mad. v21 Og da hans nærmeste hørte det, gik de ud for at tvinge ham
-med sig. For de sagde: >>Han er forrykt.<< v22 Og de skriftkloge, som
+med sig. For de sagde: >>Han er forrykt.<< v22 Og de skriftlærde{N: Skriftlærd}, som
 var kommet ned fra Jerusalem, sagde: >>Han har Beelzebul,<< og >>det
 er ved dæmonernes hersker, at han uddriver dæmonerne.<< v23 Og han
 kaldte dem til sig og sagde til dem i lignelser: >>Hvordan kan Satan

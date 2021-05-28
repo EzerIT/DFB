@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 13.09.2017>!!
+!!<Dato for denne version: 28.05.2021>!!
 
 ===Markusevangeliet, kapitel 10===
 
@@ -17,7 +17,7 @@ v23 Og Jesus så sig omkring og sagde til sine disciple: >>Hvor er det dog vansk
 
 v28 Peter tog ordet og sagde til ham: >>Se, vi har forladt alle ting og fulgt dig.<< v29 Jesus sagde: >>Sandelig, siger jeg jer, der er ingen, der har forladt hus eller brødre eller søstre eller mor eller far eller børn eller marker for min og for evangeliets skyld, v30 uden at han skal få hundrede fold igen, nu her i tiden huse og brødre og søstre og mødre og børn og marker sammen med forfølgelser og i den kommende verden et evigt liv, v31 men mange af de første skal blive de sidste og af de sidste de første.
 
-v32 Men de var på vej op til Jerusalem, og Jesus gik foran dem, og de var forfærdede, og de, der fulgte med, var bange. Og han tog igen de tolv til sig og begyndte at sige til dem, hvad der skulle ske med ham: v33 >>Se, vi går op til Jerusalem, og Menneskesønnen skal udleveres til ypperstepræsterne og de skriftkloge, og de skal dømme ham til døden og udlevere ham til hedningerne; v34 og de skal håne ham og spytte på ham og piske ham og slå ham ihjel, og tre dage efter skal han opstå.<<
+v32 Men de var på vej op til Jerusalem, og Jesus gik foran dem, og de var forfærdede, og de, der fulgte med, var bange. Og han tog igen de tolv til sig og begyndte at sige til dem, hvad der skulle ske med ham: v33 >>Se, vi går op til Jerusalem, og Menneskesønnen skal udleveres til ypperstepræsterne og de skriftlærde{N: Skriftlærd}, og de skal dømme ham til døden og udlevere ham til hedningerne; v34 og de skal håne ham og spytte på ham og piske ham og slå ham ihjel, og tre dage efter skal han opstå.<<
 
 v35 Og Jakob og Johannes, Zebedæus’ sønner, gik hen til ham og sagde: >>Mester! Vi vil gerne, at du skal gøre det for os, som vi vil bede dig om.<< v36 Og han sagde til dem: >>Hvad vil I gerne, at jeg skal gøre for jer?<< v37 Men de sagde til ham: >>Lad os få lov til at sidde, den ene ved din højre side og den anden ved din venstre side i din herlighed.<< v38 Men Jesus sagde til dem: >>I ved ikke, hvad I beder om. Kan I drikke det bæger, som jeg drikker, eller døbes med den dåb, som jeg døbes med?<< v39 Men de sagde til ham: >>Det kan vi.<< Men Jesus sagde til dem: >>Det bæger, som jeg drikker, skal I drikke, og den dåb, som jeg døbes med, skal I døbes med; v40 men det at sidde ved min højre eller ved min venstre side tilkommer det ikke mig at give; men det gives til dem, det er forberedt til.<< v41 Og da de ti hørte det, begyndte de at blive vrede på Jakob og Johannes. v42 Og Jesus kaldte dem til sig og sagde til dem: >>I ved, at de, der regnes for folkenes fyrster, hersker over dem, og de store iblandt dem bruger deres myndighed over for dem. v43 Men sådan er det ikke iblandt jer; men den, der vil blive stor iblandt jer, skal være jeres tjener; v44 og den, der vil blive den første af jer, skal være alles tjener; v45 for heller ikke Menneskesønnen er kommet for at lade sig tjene, men for at tjene og give sit liv som løsesum for mange.<<
 
