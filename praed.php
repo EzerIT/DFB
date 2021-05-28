@@ -289,9 +289,18 @@ function make_holiday($hn) {
                       <td><?= ref_refg('rom',11,32,36) ?></td>
                       <td><?= ref_refg('joh',3,1,15) ?></td>
                   </tr>
+                  <tr>
+                      <?= make_holiday(32) ?>
+                      <td><?= ref_refh('es',58,5,12) ?></td>
+                      <td><?= ref_refg('1joh',4,16,21,'1 Joh 4,16b-21') ?></td>
+                      <td><?= ref_refg('luk',16,19,31) ?></td>
+                  </tr>
               </table>
           </div>
 
+          <p><b>Bemærk: Redaktionen bag disse prædikentekster holder sommerferie frem til september 2021. I den periode kommer
+              der ingen nye prædikentekster.</b></p>
+          
         </div>
       </div>
     </div>

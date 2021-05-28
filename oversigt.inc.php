@@ -19,7 +19,7 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,11,24];
+$chap['luk']      = [1,11,16,24];
 $chap['joh']      = [3,6,10,14,15,16,20];
 $chap['apg']      = [1,2,10];
 $chap['ef']       = [5];
@@ -31,7 +31,7 @@ $chap['1thess']   = range(1,5);
 $chap['hebr']     = [8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4];
-$chap['1joh']     = [1,5];
+$chap['1joh']     = [1,4,5];
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
