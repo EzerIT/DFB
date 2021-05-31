@@ -34,8 +34,8 @@ makemenus(3);
               grundtekstens betydning.</li>
             <li>Kristne betegnelser som fx »nåde«, »barmhjertighed«, »engel«, »synd« benyttes
               når de er en dækkende oversættelse af grundtekstens ord.</li>
-            <li>Der skelnes mellem to former for fodnoter: Tal-fodnoter giver oplysninger som den
-              almindelige bibellæser kan have nytte af. Bogstav-fodnoter giver oplysninger som den
+            <li>Der skelnes mellem to former for fodnoter: Generelle fodnoter (markeret med et tal) giver oplysninger som den
+              almindelige bibellæser kan have nytte af. Faglige fodnoter (markeret med et bogstav) giver oplysninger som den
               sprogligt og teologisk kyndige læser kan have nytte af.</li>
           </ul>
         </div>

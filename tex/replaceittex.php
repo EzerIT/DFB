@@ -232,7 +232,7 @@ if ($with_endnotes) {
     echo '\renewcommand\pagenotesubheadstarred[3]{}  % No section heading in exegetical notes',"\n";
     echo "\n";
     echo '\makepagenote',"\n";
-    echo '\renewcommand*{\notedivision}{\clearpage\section{Eksegetiske noter}}',"\n";
+    echo '\renewcommand*{\notedivision}{\clearpage\section{Faglige noter}}',"\n";
     echo "\n";
     echo '\makeatletter',"\n";
     echo '\renewcommand*{\@alph}[1]{%    Define what \alph means',"\n";

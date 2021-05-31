@@ -52,14 +52,14 @@ makemenus(1);
 
             <div class="checkbox">
               <label>
-                <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis forklarende
+                <input type="checkbox" name="showfn1" <?= showchecked('showfn1') ?>> Vis generelle
                 fodnoter (1,2,3,...) og ordforklaringsmærket (°).
               </label>
             </div>
 
             <div class="checkbox">
               <label>
-                <input type="checkbox" name="showfna" <?= showchecked('showfna') ?>> Vis eksegetiske fodnoter (a,b,c,...)
+                <input type="checkbox" name="showfna" <?= showchecked('showfna') ?>> Vis faglige fodnoter (a,b,c,...)
               </label>
             </div>
 
