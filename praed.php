@@ -58,7 +58,7 @@ $grbooks = [
     'rom' => 'Romans',
     '1kor' => 'I_Corinthians',
     '2kor' => 'II_Corinthians',
-            //Galatians
+    'gal' => 'Galatians',
     'ef' => 'Ephesians',
     'fil' => 'Philippians',
             //Colossians
@@ -295,12 +295,15 @@ function make_holiday($hn) {
                       <td><?= ref_refg('1joh',4,16,21,'1 Joh 4,16b-21') ?></td>
                       <td><?= ref_refg('luk',16,19,31) ?></td>
                   </tr>
+                  <tr><td colspan="5"><hr></td></tr>
+                  <tr>
+                      <?= make_holiday(45) ?>
+                      <td><?= ref_refh('sl',103,1,22,'Sl 103,1-13[22]') ?></td>
+                      <td><?= ref_refg('gal',5,16,25,'Gal 5,[16]22-25') ?></td>
+                      <td><?= ref_refg('luk',17,11,19) ?></td>
+                  </tr>
               </table>
           </div>
-
-          <p><b>Bemærk: Redaktionen bag disse prædikentekster holder sommerferie frem til september 2021. I den periode kommer
-              der ingen nye prædikentekster.</b></p>
-          
         </div>
       </div>
     </div>
