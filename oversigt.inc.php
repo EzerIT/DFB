@@ -1,11 +1,12 @@
 <?php
 
-$chap['1mos']     = [3,11,32];
+$chap['1mos']     = [3,8,9,11,32];
 $chap['2mos']     = range(1,40);
 $chap['4mos']     = range(1,36);
 $chap['5mos']     = [8,18];
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
+$chap['job']      = [19];
 $chap['sl']       = range(1,150);
 $chap['es']       = range(1,66);
 $chap['jer']      = [1, 2, 7];
@@ -19,11 +20,11 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,11,16,17,24];
+$chap['luk']      = [1,7,11,16,17,24];
 $chap['joh']      = [3,6,10,14,15,16,20];
 $chap['apg']      = [1,2,10];
-$chap['gal']      = [5];
-$chap['ef']       = [5];
+$chap['gal']      = [5,6];
+$chap['ef']       = [3,5];
 $chap['fil']      = [2];
 $chap['rom']      = [11];
 $chap['1kor']     = range(1,16);
@@ -46,6 +47,7 @@ $title['4mos']    = 'Fjerde Mosebog';
 $title['5mos']    = 'Femte Mosebog';
 $title['dom']     = 'Dommerbogen';
 $title['ruth']    = 'Ruths Bog';
+$title['job']     = 'Jobs Bog';
 $title['sl']      = 'Salmernes Bog';
 $title['es']      = 'Esajas&rsquo; Bog';
 $title['jer']     = 'Jeremias&rsquo; Bog';
@@ -89,6 +91,7 @@ $abbrev['4mos'] = '4 Mos';
 $abbrev['5mos'] = '5 Mos';
 $abbrev['dom']  = 'Dom';
 $abbrev['ruth'] = 'Ruth';
+$abbrev['job']  = 'Job';
 $abbrev['sl']   = 'Sl';
 $abbrev['es']   = 'Es';
 $abbrev['jer']  = 'Jer';
@@ -127,6 +130,7 @@ $style['4mos']    = 'btn-info';
 $style['5mos']    = 'btn-secondary';
 $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
+$style['job']     = 'btn-secondary';
 
 $style['sl'] = array();
 for ($k=1; $k<=135; ++$k)

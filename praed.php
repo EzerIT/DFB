@@ -35,7 +35,7 @@ $hebbooks = [
     'zak'  => 'Sacharia',
             //Maleachi
     'sl'   => 'Psalmi',
-            //Iob
+    'job'  => 'Iob',
             //Proverbia
     'ruth' => 'Ruth',
             //Canticum
@@ -301,6 +301,18 @@ function make_holiday($hn) {
                       <td><?= ref_refh('sl',103,1,22,'Sl 103,1-13[22]') ?></td>
                       <td><?= ref_refg('gal',5,16,25,'Gal 5,[16]22-25') ?></td>
                       <td><?= ref_refg('luk',17,11,19) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(46) ?>
+                      <td><?= ref_refh('1mos',8,20,22) ?><br>og <?= ref_refh('1mos',9,12,16) ?> </td>
+                      <td><?= ref_refg('gal',5,25,26) ?><br>og <?= ref_refg('gal',6,1,8) ?></td>
+                      <td><?= ref_refg('matt',6,24,34) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(47) ?>
+                      <td><?= ref_refh('job',19,23,27,'Job 19,23-27a') ?> </td>
+                      <td><?= ref_refg('ef',3,13,21) ?></td>
+                      <td><?= ref_refg('luk',7,11,17) ?></td>
                   </tr>
               </table>
           </div>
