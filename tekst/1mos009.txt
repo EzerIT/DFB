@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 31.08.2021>!!
+!!<Dato for denne version: 10.09.2021>!!
 
 ===Første Mosebog, kapitel 9===
 
@@ -11,3 +11,4 @@ v13 Jeg har sat min bue i skyen, og den skal være pagtstegn mellem mig og jorde
 v14 Når jeg fører en sky over jorden, da skal buen ses i skyen. 
 v15 Og jeg vil huske på min pagt som er mellem mig og jer og hver levende sjæl i alt kød, så vandene ikke igen skal blive til en vandflod der udsletter alt kød. 
 v16 Når buen er i skyen, vil jeg se den for at mindes den evige pagt mellem Gud og hver levende sjæl i alt kød som er på jorden.<< 
+v17 Og Gud sagde til Noa: >>Dette er tegnet på den pagt som jeg opretter mellem mig og alt kød som er på jorden.<<
