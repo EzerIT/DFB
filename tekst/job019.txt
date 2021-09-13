@@ -1,13 +1,13 @@
 !!<Modenhed: Ufuldstændigt>!!
 !!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen og Christian Canu Højgaard>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 31.08.2021>!!
+!!<Dato for denne version: 13.09.2021>!!
 
 ===Jobs Bog, kapitel 19===
 
 v23 Gid mine ord dog måtte blive skrevet ned. Gid de måtte blive nedfældet i en bog.
 v24 Måtte de med en jerngriffel og med bly blive indhugget i klippen til evig tid! 
-v25 Men jeg ved at min løser lever, og til sidst skal han stå op over støvet.{T: Ordet *ʕāfār* er omdiskuteret i sammenhængen. Det kan også oversættes: >>jorden<< eller: >>graven<<.}
+v25 Men jeg ved at min løser lever, og til sidst skal han stå op{E: Ordet *qwm* bruges både i retslig sammenhæng om et vidne, der træder frem i en retssag, og som betegnelse for en teofani (fx Sef 3,8). Måske er begge motiver underforstået her.} over støvet.{E: Ordet *ʕāfār* er omdiskuteret i sammenhængen. Det kan også oversættes: >>jorden<< eller: >>graven<<.}
 v26 Og når min hud således er skrællet af,{E: Oversættelsen er stærkt omdiskuteret. Problemet knytter sig især til verbet: *niqqᵊf*, der er pi’el pluralis, skønt >>hud<< er singularis. Nogle vælger at forstå det ud fra hif’il formen, så oversættelsen kan blive: >>Herefter skal dette være omgivet med min hud, og jeg skal ud fra mit kød skue Gud<<.} skal jeg ud fra mit kød skue Gud, 
-v27 som jeg skal skue som den der er for mig, og som mine øjne skal se, og han er ikke en fremmed.{T: En anden mulighed er at oversætte: >>og det er ikke en fremmed<<, underforstået: det er Job og ikke en anden, der skal se Gud.} Mit indre fortæres af længsel!{T: Ordret: >>Mine nyrer forgår i mit indre<<.} 
+v27 som jeg skal skue som den der er på min side, og som mine øjne skal se, og han er ikke en fremmed.{T: En anden mulighed er at oversætte: >>og det er ikke en fremmed<<, underforstået: det er Job og ikke en anden, der skal se Gud.} Mit indre fortæres af længsel!{T: Ordret: >>Mine nyrer forgår i mit indre<<.} 
