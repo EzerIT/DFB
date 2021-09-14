@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.10.2016>!!
+!!<Dato for denne version: 14.09.2021>!!
 ===Salme 19===
 
 ==Overskrift==
@@ -34,7 +34,7 @@ og dens omløb når den anden ende,
 ja, intet er skjult for dens glød. 
 
 ==Lovprisning af JHVHs lov==
-v8 JHVHs lov er fuldkommen,
+v8 JHVHs lov{N: Lov} er fuldkommen,
 
 den styrker sjælen.{T: Ordret: >>den bringer sjælen tilbage<<.}
 
@@ -42,11 +42,11 @@ JHVHs vidnesbyrd er pålideligt,
 
 det giver den enfoldige visdom.
 
-v9 JHVHs befalinger er rette,
+v9 JHVHs bestemmelser er rette,
 
 de glæder hjertet.
 
-JHVHs bud er purt,
+JHVHs befaling er pur,
 
 det giver øjnene lys.
 
