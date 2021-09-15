@@ -20,11 +20,11 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,7,11,16,17,24];
+$chap['luk']      = [1,7,11,14,16,17,24];
 $chap['joh']      = [3,6,10,14,15,16,20];
 $chap['apg']      = [1,2,10];
 $chap['gal']      = [5,6];
-$chap['ef']       = [3,5];
+$chap['ef']       = [3,4,5];
 $chap['fil']      = [2];
 $chap['rom']      = [11];
 $chap['1kor']     = range(1,16);

@@ -314,6 +314,12 @@ function make_holiday($hn) {
                       <td><?= ref_refg('ef',3,13,21) ?></td>
                       <td><?= ref_refg('luk',7,11,17) ?></td>
                   </tr>
+                  <tr>
+                      <?= make_holiday(48) ?>
+                      <td><?= ref_refh('sl',19,2,7) ?> </td>
+                      <td><?= ref_refg('ef',4,1,6) ?></td>
+                      <td><?= ref_refg('luk',14,1,11) ?></td>
+                  </tr>
               </table>
           </div>
         </div>
