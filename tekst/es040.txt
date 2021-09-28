@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 22.09.2021>!!
+!!<Dato for denne version: 28.09.2021>!!
 
 ===Esajas, kapitel 40===
 
@@ -27,14 +27,14 @@ v14 Har han spurgt nogen rådgiver, der har givet ham forstand og lært ham rett
 v15 Se, folkeslag regnes af ham for en dråbe i en spand og for et støvgran i vægtskålen; se, øer hæver han op som fint støv.
 v16 Og Libanon er ikke nok til brændsel og dets dyr ikke nok til brændoffer.
 v17 Alle folkeslag er som intet for ham; de regnes af ham for intet og for tomhed.
-v18 Hvem vil I da sammenligne Gud med? Eller hvilken skikkelse vil I stille ham lige med?
-v19 En mester har støbt et gudebillede; en guldsmed beslår det med guld og en sølvsmed med sølvkæder.
-v20 Den der er for fattig til sådan en gave, udvælger træ der ikke rådner; han finder sig en dygtig mester til at lave et gudebillede der ikke vakler.
-v21 Vil I ikke vide? Vil I ikke høre? Er det ikke forkyndt for jer fra begyndelsen? Har I ikke forstået jordens grundlæggelse?
-v22 Han er den der troner oven over hele jorden,{T: Ordret: >>over jordens kreds<<.} og de der bor på den, er som græshopper; han der spænder himle ud som et forhæng og breder dem ud som et telt til at bo i;
-v23 han der gør fyrster til intet, gjorde jordens dommere til tomhed.
-v24 Knap er de plantet, knap er de sået, og knap har deres stamme slået rod i jorden, så blæser han på dem så de bliver tørre, og en storm fører dem bort som halm.
-v25 Hvem vil I da sammenligne mig med så jeg skulle være hans lige? siger den Hellige.
+v18 Med hvem vil I da sammenligne Gud, og hvilken sammenligning vil I anvende om ham? 
+v19 Gudebilledet har en håndværker støbt; en guldsmed hamrer guld på det og en sølvsmed sølvkæder. 
+v20 Rosentræ til offergave{E: Hebraisk *hamᵊsukkān* forklares bedst i sammenhængen som en træsort, der kan bruges til fremstilling af et afgudsbillede}, træ der ikke rådner, udvælger han; en dygtig håndværker udsøger sig det for at opsætte et gudebillede der ikke vælter. 
+v21 Ved I da ikke noget? Hører I da ikke? Er det ikke forkyndt for jer fra begyndelsen? Har I ikke forstået jordens grundlæggelse?
+v22 Han er den der troner oven over jordens halvkugle{E: Ordret *ʕal-ḥûg hāʔāreṣ*, »over jordens krumning.« Det kan tolkes som den synlige himmel, jordens atmosfære, horisonten eller osteklokken, afhængigt af hvilket verdensbillede teksten tolkes ud fra. Der kan meget vel være tænkt på himmelhvælvingen i 1 Mos 1,6-8.} mens de der bor på den, er som græshopper; han der spænder himlen ud som et slør og har slået den op som et telt til at bo i;
+v23 han der gør fyrster til intet, har gjort jordens dommere golde.
+v24 Knap er de plantet, knap er de sået, og knap har deres stilk slået rod i jorden, så blæser han på dem så de bliver tørre, og en storm fører dem bort som halm.
+v25 >>Med hvem vil I sammenligne mig så jeg skulle være hans lige?<< siger den Hellige.
 
 v26 Løft jeres øjne imod det høje og se: Hvem skabte disse ting {T: Stjernerne}? Han, der fører deres hær frem efter tal; han kalder dem alle ved navn; på grund af hans vældige magt og store kraft mangler der ikke én.
 v27 Hvorfor vil du, Jakob, sige, og du, Israel, sige sådan: >>Min vej er skjult for JHVH, og min ret går forbi min Gud.<<
