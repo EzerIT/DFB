@@ -142,7 +142,12 @@ class Holiday {
         return $n>=20 &&
                $this->get_all_saints_sunday_number()==$this->get_easter_with_offset_number(56 + $n*7);
     }
-    
+
+    // Returns true if the n'th holiday number is really All Saints' Sunday
+    function holiday_is_all_saints($n) {
+        return $this->sunday_after_trinity_is_all_saints($n-31);
+    }
+
     // Returns n'th Sunday after Trinity
     function get_sunday_after_trinity($n) {
         if ($n>$this->sundays_after_trinity)
