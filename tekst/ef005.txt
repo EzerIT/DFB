@@ -1,6 +1,6 @@
 !!<Modenhed: Ufuldstændigt>!!
 !!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Delvis>!!
 !!<Litterært tjek: Claus Tøndering>!!
 !!<Dato for denne version: 24.02.2021>!!
 
@@ -23,3 +23,12 @@ v6 Ingen må bedrage jer med tomme ord, for af den grund kommer Guds vrede over 
 v7 Gør derfor ikke fælles sag med dem!
 v8 For tidligere var I mørke, men nu er I lys i Herren. I skal vandre som lysets børn, 
 v9 for lysets frugt består i al godhed og retfærdighed og sandhed.
+
+
+v15 Se derfor nøje til hvordan I lever, ikke som uvise, men som vise,
+v16 så I bruger{T: Ordret: >>løskøber/frikøber<<.} det gunstige øjeblik, for dagene er onde.
+v17 Vær derfor ikke uforstandige,{T: Det græske ord har i NT en undertone af religiøs mangel, af vantro.} men forstå hvad der er Herrens vilje.
+v18 Og drik jer ikke fulde i vin, som fører til udsvævelse, men lad jer fylde med Ånden,
+v19 idet I taler til hinanden med salmer og hymner og åndelige sange, og idet I synger og spiller i jeres hjerte for Herren,
+v20 og idet I altid takker Gud og Faderen for alle ting i vor Herres Jesu Kristi navn,
+v21 og idet I underordner jer under hinanden i ærefrygt for Kristus.{T: Kan også oversættes: >>i Kristi ærefrygt<<, altså: >>i den ærefrygt, som Kristus indgiver<<.}

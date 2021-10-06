@@ -9,7 +9,7 @@ $chap['ruth']     = range(1,4);
 $chap['job']      = [19];
 $chap['sl']       = range(1,150);
 $chap['es']       = range(1,66);
-$chap['jer']      = [1, 2, 7];
+$chap['jer']      = [1, 2, 7, 18];
 $chap['ez']       = [34,36];
 $chap['obad']     = [1];
 $chap['nah']      = range(1,3);
@@ -149,7 +149,11 @@ $style['es']      = [ 1 => 'btn-success',
 for ($k=8; $k<=66; ++$k)
     $style['es'][$k] = 'btn-warning';
 
-$style['jer']     = 'btn-success';
+$style['jer']     = [ 1  => 'btn-success',
+                      2  => 'btn-success', 
+                      7  => 'btn-success', 
+                      18 => 'btn-secondary'];
+
 $style['ez']      = 'btn-secondary';
 $style['obad']    = 'btn-info';
 $style['nah']     = 'btn-info';
