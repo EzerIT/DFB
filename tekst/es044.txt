@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 29.09.2021>!!
+!!<Dato for denne version: 07.10.2021>!!
 
 ===Esajas, kapitel 44===
 
@@ -29,11 +29,11 @@ v19 Og ingen tager det til hjerte, og der er hverken indsigt eller forstand til 
 v20 Han satser på aske, hans hjerte er bedraget, og det har ført ham vild; og han redder ikke sin sjæl og siger ikke: >>Er det ikke et bedrageri, jeg holder i min højre hånd?<<
 
 v21 Husk disse ting, Jakob og Israel! for du er min tjener; jeg har dannet dig, du er min tjener, Israel! Du skal ikke glemmes af mig.
-v22 Jeg har udslettet dine overtrædelser som en sky og dine synder som en tåge; vend om til mig, for jeg har løskøbt dig.
-v23 Syng med jubel, I himle! for HERREN har gjort det; råb højt, I jordens dybder! I bjerge, stem i, du skov og hvert træ i den! For HERREN har løskøbt Jakob og viser sin herlighed i Israel.
-v24 Sådan siger HERREN der har løskøbt dig og dannet dig fra moders liv af: >>Jeg er HERREN der gør alting, den der alene spænder himlen ud og breder jorden ud; – hvem er mon sammen med mig? –
-v25 den der gør løgnerens tegn til intet og gør spåmændene til tåber; den der driver de vise tilbage og gør deres klogskab til dårskab;
-v26 den der bekræfter sin tjeners ord og fører sine sendebuds råd ud i livet, den der siger til Jerusalem: >Du skal bebos,< og til Judas byer: >I skal bygges op, og jeg vil genrejse jeres ruiner;<
-v27 den der siger til dybet: >Bliv tør, og dine floder vil jeg udtørre;<
-v28 den der siger til Kyros: >Han er min hyrde, og han skal føre hele min beslutning ud i livet,< ved at sige til Jerusalem: >Du skal bygges,< og til templet: >Din grundsten skal lægges.<<<
+v22 Jeg har fjernet dine overtrædelser som en sky og dine synder som en tåge; vend om til mig, for jeg har løskøbt dig.
+v23 Syng med jubel, I himle! for HERREN har handlet; råb højt, I jordens dybder! Råb med fryd, I bjerge, syng med jubel, du skov og hvert træ i den! For HERREN har løskøbt Jakob og viser sin herlighed i Israel.
+v24 Sådan siger HERREN der har løskøbt dig og dannet dig fra moders liv: >>Jeg er HERREN der har skabt alt, den der alene har spændt himlen ud; den der har bredt jorden ud; – hvem var mon sammen med mig? –
+v25 den der gør sandsigernes tegn til intet og gør spåmændene til tåber; den der driver de vise tilbage og gør deres klogskab til dårskab;
+v26 den der bekræfter sin tjeners ord og fører sine sendebuds råd{T: Kan også oversættes med >>engles råd<<.} ud i livet, den der siger om Jerusalem: >Den skal bebos,< og om Judas byer: >De skal bygges op; jeg vil genrejse deres ruiner;<
+v27 den der siger om dybet: >Bliv tør; dine floder vil jeg udtørre;<
+v28 den der siger om Kyros: >Min hyrde; han skal udføre alt hvad jeg vil,< ved at sige om Jerusalem: >Det skal bygges,< og om templet: >Din grundsten skal lægges.<<<
 
