@@ -18,7 +18,7 @@ $hebbooks = [
             //Samuel_I
             //Samuel_II
             //Reges_I
-            //Reges_II
+    '2kong' => 'Reges_II',
     'es'   => 'Jesaia',
     'jer'  => 'Jeremia',
     'ez'   => 'Ezechiel',
@@ -337,6 +337,12 @@ function make_holiday($hn) {
                       <td><?= ref_refh('jer',18,1,6) ?> </td>
                       <td><?= ref_refg('ef',5,15,21) ?></td>
                       <td><?= ref_refg('matt',22,1,14) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(52) ?>
+                      <td><?= ref_refh('2kong',5,1,5) ?> og <?= ref_refh('2kong',5,9,15)?> </td>
+                      <td><?= ref_refg('ef',6,10,17) ?></td>
+                      <td><?= ref_refg('joh',4,46,53) ?></td>
                   </tr>
               </table>
           </div>
