@@ -340,9 +340,15 @@ function make_holiday($hn) {
                   </tr>
                   <tr>
                       <?= make_holiday(52) ?>
-                      <td><?= ref_refh('2kong',5,1,5) ?> og <?= ref_refh('2kong',5,9,15)?> </td>
+                      <td><?= ref_refh('2kong',5,1,5) ?> og <?= ref_refh('2kong',5,9,15) ?> </td>
                       <td><?= ref_refg('ef',6,10,17) ?></td>
                       <td><?= ref_refg('joh',4,46,53) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(53) ?>
+                      <td><?= ref_refh('1mos',50,15,21) ?> </td>
+                      <td><?= ref_refg('fil',1,6,11) ?></td>
+                      <td><?= ref_refg('matt',18,21,35) ?></td>
                   </tr>
               </table>
           </div>

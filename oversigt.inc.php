@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [3,8,9,11,32];
+$chap['1mos']     = [3,8,9,11,32,50];
 $chap['2mos']     = range(1,40);
 $chap['4mos']     = range(1,36);
 $chap['5mos']     = [8,18];
@@ -26,7 +26,7 @@ $chap['joh']      = [3,4,6,10,14,15,16,20];
 $chap['apg']      = [1,2,10];
 $chap['gal']      = [5,6];
 $chap['ef']       = [3,4,5,6];
-$chap['fil']      = [2];
+$chap['fil']      = [1,2];
 $chap['rom']      = [11];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
