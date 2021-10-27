@@ -76,7 +76,7 @@ $grbooks = [
             //II_John
             //III_John
             //Jude
-            //Revelation
+    'åb' => 'Revelation'
 ];
 
 
@@ -129,6 +129,15 @@ function make_holiday($hn) {
     return "<td>" . $holidays->format_date($holidays->get_holiday_from_number($hn)) . "</td>" .
            "<td>" . $holidays->get_holiday_name_from_number($hn) . "</td>";
 }
+
+// Alle helgens søndag - 1. tekstrække
+function text_all_saints_1() {
+    echo "<td>",ref_refh("es",60,18,22),"</td>\n";
+    echo "<td>",ref_refg("åb",7,1,17,"Åb 7,1-12[17]"),"</td>\n";
+    echo "<td>",ref_refg("matt",5,1,12),"</td>\n";
+}
+
+
 ?>
 
 
@@ -349,6 +358,14 @@ function make_holiday($hn) {
                       <td><?= ref_refh('1mos',50,15,21) ?> </td>
                       <td><?= ref_refg('fil',1,6,11) ?></td>
                       <td><?= ref_refg('matt',18,21,35) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(54) ?>
+                      <?php if ($holidays->holiday_is_all_saints(54)):
+                          text_all_saints_1();
+                      else: ?>
+                          <td colspan="3">Mangler</td>
+                      <?php endif; ?>
                   </tr>
               </table>
           </div>

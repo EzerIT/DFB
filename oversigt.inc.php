@@ -35,6 +35,7 @@ $chap['hebr']     = [8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4];
 $chap['1joh']     = [1,4,5];
+$chap['åb']       = [7];
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
@@ -77,6 +78,7 @@ $title['hebr']    = 'Brevet til Hebræerne';
 $title['jak']     = 'Jakobs Brev';
 $title['1pet']    = 'Peters Første Brev';
 $title['1joh']    = 'Johannes&rsquo; Første Brev';
+$title['åb']      = 'Johannes&rsquo; Åbenbaring';
 
 $style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
 $style['NT'] = 'btn-info'; // Bedste værdi for NT's kapitler
@@ -121,6 +123,7 @@ $abbrev['hebr'] = 'Heb';
 $abbrev['jak']  = 'Jak';
 $abbrev['1pet'] = '1 Pet';
 $abbrev['1joh'] = '1 Joh';
+$abbrev['åb']   = 'Åb';
 
 $deabbrev = [];
 foreach ($abbrev as $k => $v)
@@ -181,5 +184,6 @@ $style['hebr']    = 'btn-secondary';
 $style['jak']     = 'btn-secondary';
 $style['1pet']    = 'btn-secondary';
 $style['1joh']    = 'btn-secondary';
+$style['åb']      = 'btn-secondary';
 
 

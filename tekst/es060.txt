@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Oversættelse: Svend Erik Petersen og Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Dato for denne version: 27.10.2021>!!
 
 ===Esajas, kapitel 60===
 
@@ -26,11 +26,8 @@ v14 Og børnene af dem, der plagede dig, skal komme og bøje sig for dig, og all
 v15 I stedet for, at du var forladt og forhadt, så ingen gik igennem der, vil jeg gøre dig til en evig herlighed, til en fryd fra slægt til slægt.
 v16 Og du skal die hedningers mælk og die kongers bryst, og du skal forstå, at jeg, JHVH, er din frelser og Jakobs Mægtige din løskøber.
 v17 Jeg vil sætte guld i stedet for kobber og sætte sølv i stedet for jern og kobber i stedet for træ og jern i stedet for sten; og jeg vil give dig overhoveder til fred og herskere til retfærdighed.
-v18 Der skal ikke mere høres om vold i dit land eller om ødelæggelse og hærværk inden for dine grænser; men du skal kalde frelsen for dine mure og lovsangen for dine porte.
-v19 Solen skal ikke mere være dit lys om dagen, og månen skal ikke skinne for dig med sin glans; men JHVH skal være et evigt lys for dig og din Gud din herlighed. 
-v20 Din sol skal ikke mere gå ned og din måne ikke miste sit skin; for JHVH skal være et evig lys for dig og dine sørgedage være endt.
-v21 Og dit folk, de skal alle sammen være retfærdige, de skal eje landet for evigt som de, de er et skud af min plantning, et værk af mine hænder, til min herlighed.
-v22 Den lille skal blive til tusinde og den ringe til et stærkt folk; jeg er JHVH, jeg vi lade det ske hurtigt, når tiden er inde.
-
-
-
+v18 Der skal ikke længere høres om vold i dit land eller om ødelæggelse og fordærv inden for dine grænser; men du skal kalde dine mure Frelse og dine porte Lovsang.
+v19 Solen skal ikke længere været dit lys om dagen, og som lys skal månen ikke lyse for dig; men JHVH skal være dig et evigt lys, og din Gud skal være din herlighed.
+v20 Din sol skal ikke mere gå ned, din måne skal ikke tage af; for JHVH skal være dig et evigt lys, og dine sørgedage skal være til ende.
+v21 Og dit folk, de er alle retfærdige, til evig tid skal de eje landet, et skud af min plante,{T: Den hebraiske konsonanttekst skal oversættes: >>et skud af hans plante<<, men man følger normalt gamle oversættelser der passer i sammenhængen.} mine hænders værk, mig til ære. 
+v22 Den mindste skal blive til tusinde, og den ringe til et mægtigt folk; jeg JHVH, jeg vil lade det ske hastigt til sin tid.
