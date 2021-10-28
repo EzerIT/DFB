@@ -62,7 +62,7 @@ I bogrullen er der skrevet om mig.
 
 v9 Jeg har lyst til at gøre din vilje, min Gud,
 
-og din lov er midt i mit indre.<<
+og din lov{N: lov} er midt i mit indre.<<
 
 v10 Jeg har forkyndt godt budskab om retfærdighed
 

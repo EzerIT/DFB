@@ -145,7 +145,7 @@ v30 En retfærdigs mund skal forkynde visdom,
 
 og hans tunge skal sige hvad der er ret.
 
-v31 Hans Guds lov er i hans hjerte,
+v31 Hans Guds lov{N: lov} er i hans hjerte,
 
 hans skridt skal ikke vakle.
 

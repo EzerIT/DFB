@@ -8,7 +8,7 @@
 ==I.==
 v1 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de hvis færd{T: Ordret: >>vej<<.} er fuldkommen,
 
-de som vandrer efter{T: Ordret: >>i<<.} JHVHs lov.
+de som vandrer efter{T: Ordret: >>i<<.} JHVHs lov.{N: lov}
 
 v2 Salige er de som overholder hans vedtægter,
 

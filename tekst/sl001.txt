@@ -11,7 +11,7 @@ v1 Salig det menneske som ikke vandrer efter ugudeliges råd
 
 og ikke går ind på synderes vej eller sidder i spotteres forsamling,
  
-v2 men som tværtimod har behag i JHVHs lov,
+v2 men som tværtimod har behag i JHVHs lov,{N: lov}
 
 og som grunder på hans lov dag og nat.
 

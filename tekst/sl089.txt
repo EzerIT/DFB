@@ -134,7 +134,7 @@ v30 Jeg har fastsat at hans slægt{T: Ordret: >>sæd<<.} skal bestå til evig ti
 
 og hans trone så længe som himlens dage varer.
 
-v31 Hvis hans sønner forlader min lov,
+v31 Hvis hans sønner forlader min lov,{N: lov}
 
 og de ikke vandrer efter mine befalinger,
 

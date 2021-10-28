@@ -192,7 +192,7 @@ de tog folkeslags udbytte{T: Ordret: >>frugt af arbejde<<.} i besiddelse,
 
 v45 med det formål at de skulle holde hans bestemmelser
 
-og overholde hans love.
+og overholde hans love.{N: lov}
 
 Halleluja! {T: Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette >>halleluja<<.}
 

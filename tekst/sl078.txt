@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 28.10.20211>!!
 
 ===Salme 78===
 
@@ -10,7 +10,7 @@
 v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Asaf.
 
 == Asaf opmuntrer Guds folk til at agte på hans tale og undervisning==
-Mit folk, lyt til min belæring,{E: Grundteksten har her ordet: *tôrāʰ*, der ellers oftest anvendes om Guds >>lov/vejledning<<, således i v.5.}
+Mit folk, lyt til min lov,{N: lov}
 
 bøj jeres ører til min munds tale!
 
@@ -32,7 +32,7 @@ og de undere han har gjort.
 
 v5 Han oprettede et vidnesbyrd i Jakob
 
-og gav en vejledning{E: Grundteksten har her ordet: *tôrāʰ* der i GT oftest anvendes om Guds >>lov/vejledning<<, men i nogle sammenhænge anvendes det om menneskers belæring (v.1).} i Israel
+og gav en lov i Israel
 
 som han befalede vore fædre
 

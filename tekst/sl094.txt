@@ -55,7 +55,7 @@ for de er vindpust.{E: Det er mennesker, ikke tankerne, der betegnes som et vind
 ==Opmuntring til de fromme==
 v12 Salig er den mand som du, JHVH, {T: Grundteksten har kortformen: *yāh* (>>Jah<<), der findes en del steder i poetiske tekster.} opdrager,
 
-og den du underviser efter din lov
+og den du underviser efter din lov{N: lov}
 
 v13 for at skaffe ham ro for onde dage,
 
