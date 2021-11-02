@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen og Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 27.10.2021>!!
+!!<Dato for denne version: 02.11.2021>!!
 
 ===Esajas, kapitel 60===
 
@@ -27,7 +27,7 @@ v15 I stedet for, at du var forladt og forhadt, så ingen gik igennem der, vil j
 v16 Og du skal die hedningers mælk og die kongers bryst, og du skal forstå, at jeg, JHVH, er din frelser og Jakobs Mægtige din løskøber.
 v17 Jeg vil sætte guld i stedet for kobber og sætte sølv i stedet for jern og kobber i stedet for træ og jern i stedet for sten; og jeg vil give dig overhoveder til fred og herskere til retfærdighed.
 v18 Der skal ikke længere høres om vold i dit land eller om ødelæggelse og fordærv inden for dine grænser; men du skal kalde dine mure Frelse og dine porte Lovsang.
-v19 Solen skal ikke længere været dit lys om dagen, og som lys skal månen ikke lyse for dig; men JHVH skal være dig et evigt lys, og din Gud skal være din herlighed.
-v20 Din sol skal ikke mere gå ned, din måne skal ikke tage af; for JHVH skal være dig et evigt lys, og dine sørgedage skal være til ende.
-v21 Og dit folk, de er alle retfærdige, til evig tid skal de eje landet, et skud af min plante,{T: Den hebraiske konsonanttekst skal oversættes: >>et skud af hans plante<<, men man følger normalt gamle oversættelser der passer i sammenhængen.} mine hænders værk, mig til ære. 
+v19 Solen skal ikke længere været dit lys om dagen, og som lys skal månen ikke skinne for dig; men JHVH skal være dit evige lys, og din Gud skal være din herlighed.
+v20 Din sol skal ikke mere gå ned, din måne skal ikke tage af; for JHVH skal være dit evige lys, og dine sørgedage skal være til ende.
+v21 Og dit folk, de er alle retfærdige, til evig tid skal de eje landet, et skud af min plante,{E: Den hebraiske konsonanttekst oversættes ordret med >>et skud af hans plante<<. De antikke oversættelser, herunder den aramæiske targum og den syriske Peshitta, oversætter med >>et skud af min plante<<.} mine hænders værk, mig til ære. 
 v22 Den mindste skal blive til tusinde, og den ringe til et mægtigt folk; jeg JHVH, jeg vil lade det ske hastigt til sin tid.
