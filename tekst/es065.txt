@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Dato for denne version: 06.11.2021>!!
 
 ===Esajas, kapitel 65===
 
@@ -27,9 +27,9 @@ v14 se, mine tjenere skal synge med glæde af hjertet, men I skal skrige i hjert
 v15 Og I skal efterlade jeres navn til mine udvalgte til at sværge ved, og Herren JHVH skal dræbe jer; men mine tjenere skal han give et nyt navn.
 v16 Hver den, der velsigner sig i landet, skal velsigne sig i den trofaste Gud, og hver den, der sværger i landet, skal sværge ved den trofaste Gud; for de tidligere trængsler er glemt, og de er forsvundet for mine øjne.
 
-v17 For se, jeg skaber nye himle og en ny jord; og det fra før skal ikke huskes og ingen heller komme i tanke om det.
-v18 Men glæd jer, og fryd jer til evig tid ved det, som jeg skaber; for se, jeg skaber Jerusalem til fryd og dets folk til glæde.
-v19 Og jeg vil fryde mig over Jerusalem og glæde mig over mit folk, og der skal ikke mere høres stemmer af gråd eller stemmer af skrig der.
+v17 For se, jeg skaber nye himle og en ny jord; og de tidligere ting skal ikke huskes og ikke komme op i tankerne.
+v18 Men glæd jer og fryd jer til evig tid over det jeg skaber; for se, jeg skaber Jerusalem til fryd og dens folk til glæde.
+v19 Og jeg vil fryde mig over Jerusalem og glæde mig over mit folk, og der skal ikke mere høres gråd eller skrig der.{T: Ordret: >>i den<<, der henviser til Jerusalem.}
 v20 Fra byen skal der skal ikke mere komme noget barn, der kun lever få dage, eller nogen gammel, der ikke når sine levedages tal; for drengen skal dø hundrede år gammel, og synderen, der er hundrede år gammel, skal kaldes forbandet.
 v21 Og de skal bygge huse og bo i dem og plante vingårde og spise dens frugt.
 v22 De skal ikke bygge, for at en anden skal bo der, og ikke plante, for at en anden skal spise det; for som træets levedage skal mit folks levedage være, og mine udvalgte skal fuldt og helt nyde deres hænders arbejde.

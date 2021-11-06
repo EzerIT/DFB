@@ -63,7 +63,7 @@ $grbooks = [
     'fil' => 'Philippians',
     'kol' => 'Colossians',
     '1thess' => 'I_Thessalonians',
-            //II_Thessalonians
+    '2thess' => 'II_Thessalonians',
             //I_Timothy
             //II_Timothy
             //Titus
@@ -372,6 +372,12 @@ function text_all_saints_1() {
                       <td><?= ref_refh('ez',37,1,14) ?> </td>
                       <td><?= ref_refg('kol',1,9,14,'Kol 1,9b-14') ?></td>
                       <td><?= ref_refg('matt',9,18,26) ?></td>
+                  </tr>
+                  <tr>
+                      <?= make_holiday(59) ?>
+                      <td><?= ref_refh('es',65,17,19) ?> </td>
+                      <td><?= ref_refg('2thess',2,13,17) ?></td>
+                      <td><?= ref_refg('matt',25,31,46) ?></td>
                   </tr>
               </table>
           </div>
