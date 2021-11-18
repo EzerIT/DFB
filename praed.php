@@ -86,7 +86,7 @@ function ref($book,$chap,$from=0,$to=0,$alt_refname=null) {
     $refname = !is_null($alt_refname) ? $alt_refname :
                ($from==0 ? "$abbrev[$book] $chap" :
                "$abbrev[$book] $chap,$from-$to");
-    
+
     if ($from==0)
         return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chap\">$refname</a>";
 
@@ -121,25 +121,299 @@ function ref_refg($book,$chap,$from=0,$to=0,$alt_refname=null) {
     return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refg($book,$chap,$from,$to);
 }
 
-$holidays = new Holiday(2021);
+function make_holiday($holidays,$hn) {
+    $date = $holidays->get_holiday_from_number($hn);
 
-function make_holiday($hn) {
-    global $holidays;
-    
-    return "<td>" . $holidays->format_date($holidays->get_holiday_from_number($hn)) . "</td>" .
-           "<td>" . $holidays->get_holiday_name_from_number($hn) . "</td>";
+    return "<td>" . Holiday::get_holiday_name_from_number($hn) . "</td>"
+         . "<td class=\"text-center\">" . (is_null($date) || $holidays->holiday_is_all_saints($hn) ? "⛔" : $holidays->format_date($holidays->get_holiday_from_number($hn))) . "</td>";
 }
 
-// Alle helgens søndag - 1. tekstrække
-function text_all_saints_1() {
-    echo "<td>",ref_refh("es",60,18,22),"</td>\n";
-    echo "<td>",ref_refg("åb",7,1,17,"Åb 7,1-12[17]"),"</td>\n";
-    echo "<td>",ref_refg("matt",5,1,12),"</td>\n";
+function make_all_saints_holiday($holidays) {
+    return "<td>" . Holiday::get_holiday_name_from_number(99) . "</td>"
+         . "<td class=\"text-center\">" . $holidays->format_date($holidays->get_all_saints_sunday()) . "</td>";
 }
 
 
+
+$lessons1 = [
+    // Nytårsdag
+    0 => null,
+
+    // Hellig tre kongers søndag
+    1 => null,
+
+    // 1. søndag efter helligtrekonger
+    2 => null,
+
+    // 2. søndag efter helligtrekonger
+    3 => null,
+
+    // 3. søndag efter helligtrekonger
+    4 => null,
+
+    // 4. søndag efter helligtrekonger
+    5 => null,
+
+    // 5. søndag efter helligtrekonger
+    6 => null,
+
+    // Sidste søndag efter helligtrekonger
+    7 => null,
+
+    // Søndag septuagesima
+    8 => null,
+
+    // Søndag seksagesima
+    9 => [ ref_refh('es',55,6,11),
+           ref_refg('1kor',1,18,25,'1 Kor 1,18-21[25]'),
+           ref_refg('mark',4,1,20) ],
+
+    // Fastelavns søndag
+    10 => [ ref_refh('sl',2),
+            ref_refg('1pet',3,18,22),
+            ref_refg('matt',3,13,17) ],
+
+    // 1. søndag i fasten
+    11 => [ ref_refh('1mos',3,1,19),
+            ref_refg('2kor',6,1,10,'2 Kor 6,1-2[10]'),
+            ref_refg('matt',4,1,11) ],
+
+    // 2. søndag i fasten
+    12 => [ ref_refh('sl',42,2,6),
+            ref_refg('1thess',4,1,7),
+            ref_refg('matt',15,21,28) ],
+
+    // 3. søndag i fasten
+    13 => [ ref_refh('5mos',18,9,15),
+            ref_refg('ef',5,1,9,'Ef 5,[1]6-9'),
+            ref_refg('luk',11,14,28) ],
+
+    // Midfaste søndag
+    14 => [ ref_refh('5mos',8,1,3),
+            ref_refg('2kor',9,6,11),
+            ref_refg('joh',6,1,15) ],
+
+    // Mariæ bebudelses dag
+    15 => [ ref_refh('es',7,10,14),
+            ref_refg('1joh',1,1,3),
+            ref_refg('luk',1,26,38) ],
+
+    // Palmesøndag
+    16 => [ ref_refh('zak',9,9,10),
+            ref_refg('fil',2,5,11),
+            ref_refg('matt',21,1,9) ],
+
+    // Skærtorsdag
+    17 => [ ref_refh('2mos',12,1,11),
+            ref_refg('1kor',10,15,17),
+            ref_refg('matt',26,17,30) ],
+
+    // Langfredag
+    18 => [ ref_refh('es',52,13,15) ."<br>og ". ref_refh('es',53),
+            "",
+            ref_refg('matt',27,31,56) ],
+
+    // Påskedag
+    19 => [ ref_refh('sl',118,19,29),
+            ref_refg('1kor',5,7,8),
+            ref_refg('mark',16,1,8) ],
+
+    // Anden påskedag
+    20 => [ ref_refh('sl',22,22,32,'Sl 22,22b-32'),
+            ref_refg('apg',10,34,41),
+            ref_refg('luk',24,13,35) ],
+
+    // 1. søndag efter påske
+    21 => [ ref_refh('sl',30),
+            ref_refg('1joh',5,1,5),
+            ref_refg('joh',20,19,31) ],
+
+    // 2. søndag efter påske
+    22 => [ ref_refh('ez',34,11,16),
+            ref_refg('1pet',2,20,25),
+            ref_refg('joh',10,11,16) ],
+
+    // 3. søndag efter påske
+    23 => [ ref_refh('es',54,7,10),
+            ref_refg('hebr',13,12,16),
+            ref_refg('joh',16,16,22) ],
+
+    // Bededag
+    24 => [ ref_refh('sl',51,3,19) ."<br>eller ". ref_refh('sl',67),
+            ref_refg('hebr',8,10,12),
+            ref_refg('matt',3,1,10) ],
+
+    // 4. søndag efter påske
+    25 => [ ref_refh('ez',36,26,28),
+            ref_refg('jak',1,17,21),
+            ref_refg('joh',16,5,15) ],
+
+    // 5. søndag efter påske
+    26 => [ ref_refh('1mos',32,25,32),
+            ref_refg('jak',1,22,25),
+            ref_refg('joh',16,23,28,'Joh 16,23b-28') ],
+
+    // Kristi himmelfarts dag
+    27 => [ ref_refh('sl',110,1,4),
+            ref_refg('apg',1,1,11),
+            ref_refg('mark',16,14,20) ],
+
+    // 6. søndag efter påske
+    28 => [ ref_refh('hagg',2,4,9,'Hagg 2,4b-9'),
+            ref_refg('1pet',4,7,11,'1 Pet 4,7b-11'),
+            ref_refg('joh',15,26,27) ."<br>og ". ref_refg('joh',16,1,4) ],
+
+    // Pinsedag
+    29 => [ ref_refh('1mos',11,1,9),
+            ref_refg('apg',2,1,11),
+            ref_refg('joh',14,22,31) ],
+
+    // Anden pinsedag
+    30 => [ ref_refh('sl',104,24,30),
+            ref_refg('apg',10,42,48,'ApG 10,42-48a'),
+            ref_refg('joh',3,16,21) ],
+
+    // Trinitatis søndag
+    31 => [ ref_refh('4mos',21,4,9),
+            ref_refg('rom',11,32,36),
+            ref_refg('joh',3,1,15) ],
+
+    // 1. søndag efter trinitatis
+    32 => [ ref_refh('es',58,5,12),
+            ref_refg('1joh',4,16,21,'1 Joh 4,16b-21'),
+            ref_refg('luk',16,19,31) ],
+
+    // 2. søndag efter trinitatis
+    33 => null,
+
+    // 3. søndag efter trinitatis
+    34 => null,
+
+    // 4. søndag efter trinitatis
+    35 => null,
+
+    // 5. søndag efter trinitatis
+    36 => null,
+
+    // 6. søndag efter trinitatis
+    37 => null,
+
+    // 7. søndag efter trinitatis
+    38 => null,
+
+    // 8. søndag efter trinitatis
+    39 => null,
+
+    // 9. søndag efter trinitatis
+    40 => null,
+
+    // 10. søndag efter trinitatis
+    41 => null,
+
+    // 11. søndag efter trinitatis
+    42 => null,
+
+    // 12. søndag efter trinitatis
+    43 => null,
+
+    // 13. søndag efter trinitatis
+    44 => null,
+
+    // 14. søndag efter trinitatis
+    45 => [ ref_refh('sl',103,1,22,'Sl 103,1-13[22]'),
+            ref_refg('gal',5,16,25,'Gal 5,[16]22-25'),
+            ref_refg('luk',17,11,19) ],
+
+    // 15. søndag efter trinitatis
+    46 => [ ref_refh('1mos',8,20,22) ."<br>og ". ref_refh('1mos',9,12,16),
+            ref_refg('gal',5,25,26) ."<br>og ". ref_refg('gal',6,1,8),
+            ref_refg('matt',6,24,34) ],
+
+    // 16. søndag efter trinitatis
+    47 => [ ref_refh('job',19,23,27,'Job 19,23-27a'),
+            ref_refg('ef',3,13,21),
+            ref_refg('luk',7,11,17) ],
+
+    // 17. søndag efter trinitatis
+    48 => [ ref_refh('sl',19,2,7),
+            ref_refg('ef',4,1,6),
+            ref_refg('luk',14,1,11) ],
+
+    // 18. søndag efter trinitatis
+    49 => [ ref_refh('es',40,18,25),
+            ref_refg('1kor',1,4,8),
+            ref_refg('matt',22,34,46) ],
+
+    // 19. søndag efter trinitatis
+    50 => [ ref_refh('es',44,22,28),
+            ref_refg('ef',4,22,28),
+            ref_refg('mark',2,1,12) ],
+
+    // 20. søndag efter trinitatis
+    51 => [ ref_refh('jer',18,1,6),
+            ref_refg('ef',5,15,21),
+            ref_refg('matt',22,1,14) ],
+
+    // 21. søndag efter trinitatis
+    52 => [ ref_refh('2kong',5,1,5) ."<br>og ". ref_refh('2kong',5,9,15),
+            ref_refg('ef',6,10,17),
+            ref_refg('joh',4,46,53) ],
+
+    // 22. søndag efter trinitatis
+    53 => [ ref_refh('1mos',50,15,21),
+            ref_refg('fil',1,6,11),
+            ref_refg('matt',18,21,35) ],
+
+    // 23. søndag efter trinitatis
+    54 => null,
+
+    // 24. søndag efter trinitatis
+    55 => [ ref_refh('ez',37,1,14),
+            ref_refg('kol',1,9,14,'Kol 1,9b-14'),
+            ref_refg('matt',9,18,26) ],
+
+    // 25. søndag efter trinitatis
+    56 => null,
+
+    // 26. søndag efter trinitatis
+    57 => null,
+
+    // 27. søndag efter trinitatis
+    58 => null,
+
+    // Sidste søndag i kirkeåret
+    59 => [ ref_refh('es',65,17,19),
+            ref_refg('2thess',2,13,17),
+            ref_refg('matt',25,31,46) ],
+
+    // 1. søndag i advent
+    60 => null,
+
+    // 2. søndag i advent
+    61 => null,
+
+    // 3. søndag i advent
+    62 => null,
+
+    // 4. søndag i advent
+    63 => null,
+
+    // Juleaften
+    64 => null,
+
+    // Juledag
+    65 => null,
+
+    // Anden juledag / Sankt Stefans dag
+    66 => null,
+
+
+    // Alle helgens søndag
+    99 => [ ref_refh("es",60,18,22),
+            ref_refg("åb",7,1,17,"Åb 7,1-12[17]"),
+            ref_refg("matt",5,1,12) ]
+];
 ?>
-
 
 <div class="container">
     <div class="row justify-content-center">
@@ -158,233 +432,79 @@ function text_all_saints_1() {
           <div class="table-responsive">
               <table class="table table-striped">
                   <tr>
-                      <th>Dato<br><?= $holidays->get_year() ?></th><th>Dag</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                      <th>Dag</th><th class="text-center">Dato i<br>2022-2023</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
                   </tr>
-                  <tr>
-                      <?= make_holiday(9) ?>
-                      <td><?= ref_refh('es',55,6,11)?></td>
-                      <td><?= ref_refg('1kor',1,18,25,'1 Kor 1,18-21[25]') ?></td>
-                      <td><?= ref_refg('mark',4,1,20) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(10) ?>
-                      <td><?= ref_refh('sl',2) ?></td>
-                      <td><?= ref_refg('1pet',3,18,22) ?></td>
-                      <td><?= ref_refg('matt',3,13,17) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(11) ?>
-                      <td><?= ref_refh('1mos',3,1,19) ?></td>
-                      <td><?= ref_refg('2kor',6,1,10,'2 Kor 6,1-2[10]') ?></td>
-                      <td><?= ref_refg('matt',4,1,11) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(12) ?>
-                      <td><?= ref_refh('sl',42,2,6) ?></td>
-                      <td><?= ref_refg('1thess',4,1,7) ?></td>
-                      <td><?= ref_refg('matt',15,21,28) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(13) ?>
-                      <td><?= ref_refh('5mos',18,9,15) ?></td>
-                      <td><?= ref_refg('ef',5,1,9,'Ef 5,[1]6-9') ?></td>
-                      <td><?= ref_refg('luk',11,14,28) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(14) ?>
-                      <td><?= ref_refh('5mos',8,1,3) ?></td>
-                      <td><?= ref_refg('2kor',9,6,11) ?></td>
-                      <td><?= ref_refg('joh',6,1,15) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(15) ?>
-                      <td><?= ref_refh('es',7,10,14) ?></td>
-                      <td><?= ref_refg('1joh',1,1,3) ?></td>
-                      <td><?= ref_refg('luk',1,26,38) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(16) ?>
-                      <td><?= ref_refh('zak',9,9,10) ?></td>
-                      <td><?= ref_refg('fil',2,5,11) ?></td>
-                      <td><?= ref_refg('matt',21,1,9) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(17) ?>
-                      <td><?= ref_refh('2mos',12,1,11) ?></td>
-                      <td><?= ref_refg('1kor',10,15,17) ?></td>
-                      <td><?= ref_refg('matt',26,17,30) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(18) ?>
-                      <td><?= ref_refh('es',52,13,15) ?><br>og <?= ref_refh('es',53) ?></td>
-                      <td>&nbsp;</td>
-                      <td><?= ref_refg('matt',27,31,56) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(19) ?>
-                      <td><?= ref_refh('sl',118,19,29) ?></td>
-                      <td><?= ref_refg('1kor',5,7,8) ?></td>
-                      <td><?= ref_refg('mark',16,1,8) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(20) ?>
-                      <td><?= ref_refh('sl',22,22,32,'Sl 22,22b-32') ?></td>
-                      <td><?= ref_refg('apg',10,34,41) ?></td>
-                      <td><?= ref_refg('luk',24,13,35) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(21) ?>
-                      <td><?= ref_refh('sl',30) ?></td>
-                      <td><?= ref_refg('1joh',5,1,5) ?></td>
-                      <td><?= ref_refg('joh',20,19,31) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(22) ?>
-                      <td><?= ref_refh('ez',34,11,16) ?></td>
-                      <td><?= ref_refg('1pet',2,20,25) ?></td>
-                      <td><?= ref_refg('joh',10,11,16) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(23) ?>
-                      <td><?= ref_refh('es',54,7,10) ?></td>
-                      <td><?= ref_refg('hebr',13,12,16) ?></td>
-                      <td><?= ref_refg('joh',16,16,22) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(24) ?>
-                      <td><?= ref_refh('sl',51,3,19) ?><br>eller <?= ref_refh('sl',67) ?></td>
-                      <td><?= ref_refg('hebr',8,10,12) ?></td>
-                      <td><?= ref_refg('matt',3,1,10) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(25) ?>
-                      <td><?= ref_refh('ez',36,26,28) ?></td>
-                      <td><?= ref_refg('jak',1,17,21) ?></td>
-                      <td><?= ref_refg('joh',16,5,15) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(26) ?>
-                      <td><?= ref_refh('1mos',32,25,32) ?></td>
-                      <td><?= ref_refg('jak',1,22,25) ?></td>
-                      <td><?= ref_refg('joh',16,23,28,'Joh 16,23b-28') ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(27) ?>
-                      <td><?= ref_refh('sl',110,1,4) ?></td>
-                      <td><?= ref_refg('apg',1,1,11) ?></td>
-                      <td><?= ref_refg('mark',16,14,20) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(28) ?>
-                      <td><?= ref_refh('hagg',2,4,9,'Hagg 2,4b-9') ?></td>
-                      <td><?= ref_refg('1pet',4,7,11,'1 Pet 4,7b-11') ?></td>
-                      <td><?= ref_refg('joh',15,26,27) ?><br>og <?= ref_refg('joh',16,1,4) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(29) ?>
-                      <td><?= ref_refh('1mos',11,1,9) ?></td>
-                      <td><?= ref_refg('apg',2,1,11) ?></td>
-                      <td><?= ref_refg('joh',14,22,31) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(30) ?>
-                      <td><?= ref_refh('sl',104,24,30) ?></td>
-                      <td><?= ref_refg('apg',10,42,48,'ApG 10,42-48a') ?></td>
-                      <td><?= ref_refg('joh',3,16,21) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(31) ?>
-                      <td><?= ref_refh('4mos',21,4,9) ?></td>
-                      <td><?= ref_refg('rom',11,32,36) ?></td>
-                      <td><?= ref_refg('joh',3,1,15) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(32) ?>
-                      <td><?= ref_refh('es',58,5,12) ?></td>
-                      <td><?= ref_refg('1joh',4,16,21,'1 Joh 4,16b-21') ?></td>
-                      <td><?= ref_refg('luk',16,19,31) ?></td>
-                  </tr>
-                  <tr><td colspan="5"><hr></td></tr>
-                  <tr>
-                      <?= make_holiday(45) ?>
-                      <td><?= ref_refh('sl',103,1,22,'Sl 103,1-13[22]') ?></td>
-                      <td><?= ref_refg('gal',5,16,25,'Gal 5,[16]22-25') ?></td>
-                      <td><?= ref_refg('luk',17,11,19) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(46) ?>
-                      <td><?= ref_refh('1mos',8,20,22) ?><br>og <?= ref_refh('1mos',9,12,16) ?> </td>
-                      <td><?= ref_refg('gal',5,25,26) ?><br>og <?= ref_refg('gal',6,1,8) ?></td>
-                      <td><?= ref_refg('matt',6,24,34) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(47) ?>
-                      <td><?= ref_refh('job',19,23,27,'Job 19,23-27a') ?> </td>
-                      <td><?= ref_refg('ef',3,13,21) ?></td>
-                      <td><?= ref_refg('luk',7,11,17) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(48) ?>
-                      <td><?= ref_refh('sl',19,2,7) ?> </td>
-                      <td><?= ref_refg('ef',4,1,6) ?></td>
-                      <td><?= ref_refg('luk',14,1,11) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(49) ?>
-                      <td><?= ref_refh('es',40,18,25) ?> </td>
-                      <td><?= ref_refg('1kor',1,4,8) ?></td>
-                      <td><?= ref_refg('matt',22,34,46) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(50) ?>
-                      <td><?= ref_refh('es',44,22,28) ?> </td>
-                      <td><?= ref_refg('ef',4,22,28) ?></td>
-                      <td><?= ref_refg('mark',2,1,12) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(51) ?>
-                      <td><?= ref_refh('jer',18,1,6) ?> </td>
-                      <td><?= ref_refg('ef',5,15,21) ?></td>
-                      <td><?= ref_refg('matt',22,1,14) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(52) ?>
-                      <td><?= ref_refh('2kong',5,1,5) ?> og <?= ref_refh('2kong',5,9,15) ?> </td>
-                      <td><?= ref_refg('ef',6,10,17) ?></td>
-                      <td><?= ref_refg('joh',4,46,53) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(53) ?>
-                      <td><?= ref_refh('1mos',50,15,21) ?> </td>
-                      <td><?= ref_refg('fil',1,6,11) ?></td>
-                      <td><?= ref_refg('matt',18,21,35) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(54) ?>
-                      <?php if ($holidays->holiday_is_all_saints(54)):
-                          text_all_saints_1();
-                      else: ?>
-                          <td colspan="3">Mangler</td>
-                      <?php endif; ?>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(55) ?>
-                      <td><?= ref_refh('ez',37,1,14) ?> </td>
-                      <td><?= ref_refg('kol',1,9,14,'Kol 1,9b-14') ?></td>
-                      <td><?= ref_refg('matt',9,18,26) ?></td>
-                  </tr>
-                  <tr>
-                      <?= make_holiday(59) ?>
-                      <td><?= ref_refh('es',65,17,19) ?> </td>
-                      <td><?= ref_refg('2thess',2,13,17) ?></td>
-                      <td><?= ref_refg('matt',25,31,46) ?></td>
-                  </tr>
+
+                  <?php
+                  $holidays = new Holiday(2022);
+
+                  for ($hn=60; $hn<=66; ++$hn ) {
+                      echo "<tr>\n";
+                      echo make_holiday($holidays,$hn),"\n";
+
+                      if (!is_null($lessons1[$hn])) {
+                          echo "<td>{$lessons1[$hn][0]}</td>\n";
+                          echo "<td>{$lessons1[$hn][1]}</td>\n";
+                          echo "<td>{$lessons1[$hn][2]}</td>\n";
+                      }
+                      else
+                          echo "<td colspan=\"3\"><hr></td>\n";
+                      echo "</tr>\n";
+                  }
+
+                  $holidays = new Holiday(2023);
+
+                  for ($hn=0; $hn<=52; ++$hn ) {
+                      echo "<tr>\n";
+                      echo make_holiday($holidays,$hn),"\n";
+
+                      if (!is_null($lessons1[$hn])) {
+                          echo "<td>{$lessons1[$hn][0]}</td>\n";
+                          echo "<td>{$lessons1[$hn][1]}</td>\n";
+                          echo "<td>{$lessons1[$hn][2]}</td>\n";
+                      }
+                      else
+                          echo "<td colspan=\"3\"><hr></td>\n";
+                      echo "</tr>\n";
+                  }
+
+
+                  // Alle helgens søndag:
+                  echo "<tr>\n";
+                  echo make_all_saints_holiday($holidays),"\n";
+
+                  if (!is_null($lessons1[99])) {
+                      echo "<td>{$lessons1[99][0]}</td>\n";
+                      echo "<td>{$lessons1[99][1]}</td>\n";
+                      echo "<td>{$lessons1[99][2]}</td>\n";
+                  }
+                  else
+                      echo "<td colspan=\"3\"><hr></td>\n";
+                  echo "</tr>\n";
+
+
+                  for ($hn=53; $hn<=59; ++$hn ) {
+                      echo "<tr>\n";
+                      echo make_holiday($holidays,$hn),"\n";
+
+                      if (!is_null($lessons1[$hn])) {
+                          echo "<td>{$lessons1[$hn][0]}</td>\n";
+                          echo "<td>{$lessons1[$hn][1]}</td>\n";
+                          echo "<td>{$lessons1[$hn][2]}</td>\n";
+                      }
+                      else
+                          echo "<td colspan=\"3\"><hr></td>\n";
+                      echo "</tr>\n";
+                  }
+
+
+                  ?>
               </table>
           </div>
         </div>
       </div>
     </div>
- 
+
   </div><!--End of row-->
 </div><!--End of container-->
 

@@ -172,15 +172,15 @@ class Holiday {
             return $this->day2daymonth(21 + $this->second_dominical_letter + $n*7 + $this->day_offset[11]);
     }
 
-    function get_christmas_eve() {
+    static function get_christmas_eve() {
         return new Date2(24,12);
     }
 
-    function get_christmas_day() {
+    static function get_christmas_day() {
         return new Date2(25,12);
     }
 
-    function get_st_stephens_day() {
+    static function get_st_stephens_day() {
         return new Date2(26,12);
     }
 
@@ -246,7 +246,7 @@ class Holiday {
         }
     }
 
-    function get_holiday_name_from_number($hn) {
+    static function get_holiday_name_from_number($hn) {
         switch ($hn) {
             case 0:
                 return "Nytårsdag";
@@ -311,10 +311,7 @@ class Holiday {
             case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49: case 50: case 51:
             case 52: case 53: case 54: case 55: case 56: case 57: case 58:
                 $n = $hn-31;
-                if ($this->sunday_after_trinity_is_all_saints($n))
-                    return "Alle helgens søndag";
-                else
-                    return "$n. søndag efter trinitatis";
+                return "$n. søndag efter trinitatis";
             case 59:
                 return "Sidste søndag i kirkeåret";
             case 60:
@@ -331,6 +328,10 @@ class Holiday {
                 return "Anden juledag / Sankt Stefans dag";
             case 67:
                 return "Julesøndag";
+
+            case 99:
+                return "Alle helgens søndag";
+
             default:
                 return null;
         }
