@@ -8,75 +8,75 @@ makeheadend();
 makemenus(6);
 
 $hebbooks = [
-    '1mos' => 'Genesis',
-    '2mos' => 'Exodus',
-    '3mos' => 'Leviticus',
-    '4mos' => 'Numeri',
-    '5mos' => 'Deuteronomium',
-            //Josua
-    'dom'  => 'Judices',
-            //Samuel_I
-            //Samuel_II
-            //Reges_I
-    '2kong' => 'Reges_II',
-    'es'   => 'Jesaia',
-    'jer'  => 'Jeremia',
-    'ez'   => 'Ezechiel',
-            //Hosea
-            //Joel
-            //Amos
-    'obad' => 'Obadia',
-            //Jona
-            //Micha
-    'nah'  => 'Nahum',
-    'hab'  => 'Habakuk',
-    'sef'  => 'Zephania',
-    'hagg' => 'Haggai',
-    'zak'  => 'Sacharia',
-            //Maleachi
-    'sl'   => 'Psalmi',
-    'job'  => 'Iob',
-            //Proverbia
-    'ruth' => 'Ruth',
-            //Canticum
-            //Ecclesiastes
-            //Threni
-            //Esther
-            //Daniel
-            //Esra
-            //Nehemia
-            //Chronica_I
-            //Chronica_II
+    '1mos'   => 'Genesis',
+    '2mos'   => 'Exodus',
+    '3mos'   => 'Leviticus',
+    '4mos'   => 'Numeri',
+    '5mos'   => 'Deuteronomium',
+    'jos'    => 'Josua',
+    'dom'    => 'Judices',
+    '1sam'   => 'Samuel_I',
+    '2sam'   => 'Samuel_II',
+    '1kong'  => 'Reges_I',
+    '2kong'  => 'Reges_II',
+    'es'     => 'Jesaia',
+    'jer'    => 'Jeremia',
+    'ez'     => 'Ezechiel',
+    'hos'    => 'Hosea',
+    'joel'   => 'Joel',
+    'am'     => 'Amos',
+    'obad'   => 'Obadia',
+    'jon'    => 'Jona',
+    'mika'   => 'Micha',
+    'nah'    => 'Nahum',
+    'hab'    => 'Habakuk',
+    'sef'    => 'Zephania',
+    'hagg'   => 'Haggai',
+    'zak'    => 'Sacharia',
+    'mal'    => 'Maleachi',
+    'sl'     => 'Psalmi',
+    'job'    => 'Iob',
+    'ordsp'  => 'Proverbia',
+    'ruth'   => 'Ruth',
+    'højs'   => 'Canticum',
+    'præd'   => 'Ecclesiastes',
+    'klages' => 'Threni',
+    'est'    => 'Esther',
+    'dan'    => 'Daniel',
+    'ezra'   => 'Esra',
+    'neh'    => 'Nehemia',
+    '1krøn'  => 'Chronica_I',
+    '2krøn'  => 'Chronica_II'
 ];
 
 $grbooks = [
-    'matt' => 'Matthew',
-    'mark' => 'Mark',
-    'luk' => 'Luke',
-    'joh' => 'John',
-    'apg' => 'Acts',
-    'rom' => 'Romans',
-    '1kor' => 'I_Corinthians',
-    '2kor' => 'II_Corinthians',
-    'gal' => 'Galatians',
-    'ef' => 'Ephesians',
-    'fil' => 'Philippians',
-    'kol' => 'Colossians',
+    'matt'   => 'Matthew',
+    'mark'   => 'Mark',
+    'luk'    => 'Luke',
+    'joh'    => 'John',
+    'apg'    => 'Acts',
+    'rom'    => 'Romans',
+    '1kor'   => 'I_Corinthians',
+    '2kor'   => 'II_Corinthians',
+    'gal'    => 'Galatians',
+    'ef'     => 'Ephesians',
+    'fil'    => 'Philippians',
+    'kol'    => 'Colossians',
     '1thess' => 'I_Thessalonians',
     '2thess' => 'II_Thessalonians',
-            //I_Timothy
-            //II_Timothy
-            //Titus
-            //Philemon
-    'hebr' => 'Hebrews',
-    'jak'  => 'James',
-    '1pet' => 'I_Peter',
-            //II_Peter
-    '1joh' => 'I_John',
-            //II_John
-            //III_John
-            //Jude
-    'åb' => 'Revelation'
+    '1tim'   => 'I_Timothy',
+    '1tim'   => 'II_Timothy',
+    'tit'    => 'Titus',
+    'filem'  => 'Philemon',
+    'hebr'   => 'Hebrews',
+    'jak'    => 'James',
+    '1pet'   => 'I_Peter',
+    '2pet'   => 'II_Peter',
+    '1joh'   => 'I_John',
+    '2joh'   => 'II_John',
+    '3joh'   => 'III_John',
+    'jud'    => 'Jude',
+    'åb'     => 'Revelation'
 ];
 
 
@@ -387,7 +387,9 @@ $lessons1 = [
             ref_refg('matt',25,31,46) ],
 
     // 1. søndag i advent
-    60 => null,
+    60 => [ ref_refh('sl',24) ."<br>eller ". ref_refh('sl',100),
+            ref_refg('rom',13,11,14),
+            ref_refg('matt',21,1,9) ],
 
     // 2. søndag i advent
     61 => null,
@@ -406,6 +408,9 @@ $lessons1 = [
 
     // Anden juledag / Sankt Stefans dag
     66 => null,
+
+    // Julesøndag
+    67 => null,
 
 
     // Alle helgens søndag
@@ -438,7 +443,7 @@ $lessons1 = [
                   <?php
                   $holidays = new Holiday(2022);
 
-                  for ($hn=60; $hn<=66; ++$hn ) {
+                  for ($hn=60; $hn<=67; ++$hn ) {
                       echo "<tr>\n";
                       echo make_holiday($holidays,$hn),"\n";
 
