@@ -21,14 +21,14 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,7,11,14,16,17,24];
+$chap['luk']      = [1,7,11,14,16,17,21,24];
 $chap['joh']      = [3,4,6,10,14,15,16,20];
 $chap['apg']      = [1,2,10];
 $chap['gal']      = [5,6];
 $chap['ef']       = [3,4,5,6];
 $chap['fil']      = [1,2];
 $chap['kol']      = [1];
-$chap['rom']      = [11,13];
+$chap['rom']      = [11,13,15];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
