@@ -1,23 +1,19 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 30.11.2021>!!
 
 ===Esajas, kapitel 35===
 
-==I modsætning til straffen over fjenderne skildrer profeten sit folks lykke under den kommende messias; med det trøster han de troende, 1-10.==
+==I modsætning til straffen over fjenderne skildrer profeten sit folks lykke under den kommende messias; med det trøster han de troende==
 
-
-v1 Ørkenen og de tørre steder skal glæde sig, den øde mark skal fryde sig og blomstre som en rose.
-v2 Den skal blomstre frodigt, den skal juble og synge med fryd, Libanons herlighed er givet til den, Karmels og Sarons pragt; de skal se JHVHs herlighed, vores Guds pragt.
-v3 Styrk de afmægtige hænder, og giv de snublende knæ kraft!
-v4 Sig til de mismodige i hjertet: >>Vær frimodige, frygt ikke! Se jeres Gud! Der kommer hævn, gengældelse fra Gud, han skal komme og frelse jer.<<
-v5 Da skal de blindes øjne åbnes og de døves ører lukkes op.
-v6 Da skal den halte springe som en hjort og den stummes tunge synge med fryd; for vande bryder frem i ørkenen og bække på den øde mark. 
-v7 Og den glødende sandørken skal blive til sø og det tørstige sted til vandkilder; i den bolig, hvor der lå drager, skal der være voksested for rør og siv.
-v8 Og der skal være en jævnet sti og vej, en vej, der kaldes helligdommens; ingen uren skal gå ad den, men den skal være for dem selv; de, der vandrer på denne vej, selv enfoldige, skal ikke fare vild.
-v9 Der skal ikke være nogen løve, og intet rovdyr kommer derop eller findes der; men de genløste skal vandre der.
-v10 Og JHVHs forløste skal vende tilbage og komme til Zion med frydesang, og der skal være evig glæde over deres hoved; fryd og glæde skal de opnå, og sorg og suk skal flygte.
-
-
-
+v1 Ørken og tørt land skal glæde sig, ødemark skal juble og blomstre som en rose.{E: Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis >>høsttidløs<<.}
+v2 Den skal blomstre frodigt, og den skal juble, ja synge med fryd, Libanons herlighed bliver givet til den, Karmels og Sarons pragt; de skal se JHVHs herlighed, vores Guds pragt.
+v3 Styrk de afmægtige hænder, og giv de kraftesløse knæ kræfter!
+v4 Sig til de mismodige i hjertet: >>Vær stærke, frygt ikke! Se jeres Gud! Der kommer hævn, Guds gengældelse, han vil komme og frelse jer.<<
+v5 Da skal blindes øjne åbnes og døves ører lukkes op.
+v6 Da skal en halt springe som hjorten og en stums tunge synge med fryd; for vande bryder frem i ørkenen og bække i ødemarken. 
+v7 Og den glødende sandørken skal blive til sø og den tørstende jord til vandkilder; på sjakalers tilholdssted skal der være voksested for rør og siv.
+v8 Og der skal være en banet sti og vej, den skal kaldes Helligdommens vej; ingen uren skal gå ad den, men den skal være en vej at gå på for dem, og dårer skal ikke flakke om.
+v9 Der skal ikke være nogen løve, og intet rovdyr kommer derop, det findes ikke; men de genløste skal vandre der.
+v10 Og JHVHs forløste skal vende tilbage og komme til Zion med jubel, og der skal være evig glæde i spidsen for dem; fryd og glæde skal nå dem, og sorg og suk skal flygte.

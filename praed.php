@@ -397,7 +397,9 @@ $lessons1 = [
             ref_refg('luk',21,25,36) ],
 
     // 3. søndag i advent
-    62 => null,
+    62 => [ ref_refh('es',35),
+            ref_refg('1kor',4,1,5),
+            ref_refg('matt',11,2,10) ],
 
     // 4. søndag i advent
     63 => null,
