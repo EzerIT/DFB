@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 24.03.2021>!!
+!!<Dato for denne version: 09.12.2021>!!
 
 ===Esajas, kapitel 52===
 
@@ -15,10 +15,10 @@ v4 For sådan siger Herren JHVH: I begyndelsen tog mit folk ned til Egypten for 
 v5 Og nu, hvad har jeg fået her? siger JHVH; for mit folk er bortført for intet; dets herskere hyler op, siger JHVH, og mit navn bliver spottet hele dagen.
 v6 Derfor skal mit folk lære at kende mit navn; ja, derfor, på denne dag; for det er mig, der taler, se, her er jeg.
 
-v7 Hvor skønne er fødderne på bjergene af den, der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse og siger til Zion: >>Din Gud er konge!<<
-v8 Dine vægteres råb er her! De hæver deres stemme, de synger alle med fryd; for med egne øjne ser de, at JHVH vender tilbage til Zion.
-v9 Råb med fryd, syng med jubel, alle sammen I Jerusalems øde steder! for JHVH har trøstet sit folk, han har løskøbt Jerusalem.
-v10 JHVH har vist sin hellige arm frem for alle hedningernes øjne, og alle jordens ender skal se vores Guds frelse.
+v7 Hvor herlige er fødderne på bjergene af en der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse, der siger til Zion: >>Din Gud er konge!<<
+v8 Hør, dine vægtere løfter røsten samtidigt! De jubler,{E: Der er tvivl om oversættelsen af det første *qôl*, der oftest skal oversættes >>røst<<, men her oftest opfattes som opfordring til at lytte. Sætningen kan dog også oversættes: >>Dine vægteres røst, de løfter røsten samtidig, de jubler<<.} for med egne øjne ser de at JHVH vender tilbage til Zion.
+v9 Råb med fryd, syng med jubel, alle I Jerusalems øde steder, for JHVH har trøstet sit folk, han har løskøbt Jerusalem.
+v10 JHVH har blottet sin hellige arm for alle folkenes{T: Kan også oversættes: >>hedningernes<<.} øjne, og alle jordens ender skal se vores Guds frelse.
 
 v11 Afsted, afsted! Gå bort fra den, rør ikke ved noget urent; gå væk fra dens midte {T: dvs. ud fra Babylon}, rens jer, I, der bærer JHVHs kar!
 v12 For I skal ikke tage af sted i hast, og heller ikke forsvinde i flugt; for foran jeres ansigt går JHVH, og Israels Gud er jeres bagtrop.
