@@ -1,13 +1,15 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 31.08.2021>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.12.2021>!!
 ===Paulus' Brev til Galaterne, kapitel 6===
 
 ==Bær hinandens byrder==
-v1 Brødre, hvis et menneske er blevet grebet i et fejltrin, skal I åndelige hjælpe denne til rette i en mild ånd, og pas på dig selv, at ikke også du bliver fristet. v2 Bær hinandens byrder, således opfylder I Kristi lov. v3 For hvis nogen mener at han er noget, skønt han intet er, bedrager han sig selv. v4 Men enhver skal prøve sin egen gerning, og så skal han have grund til ros på grund af sig selv alene og ikke på grund af den anden, v5 for enhver skal bære sin egen byrde.
+v1 Brødre, hvis et menneske er blevet grebet i et fejltrin, skal I åndelige hjælpe denne til rette i en mild ånd, og pas på dig selv, at ikke også du bliver fristet og falder. v2 Bær hinandens byrder, og således opfylder I Kristi lov. v3 For hvis nogen mener at han er noget, skønt han intet er, bedrager han sig selv. v4 Men enhver skal prøve sin egen gerning, og så skal han have grund til ros på grund af sig selv alene og ikke på grund af den anden, v5 for enhver skal bære sin egen byrde.
 
 ==Gør godt mod andre==
-v6 Men den som undervises i ordet, skal give den som underviser, del i alle goder. v7 Tag ikke fejl! Gud lader sig ikke spotte. For det et menneske sår, skal det også høste. v8 Det vil sige, den som sår i sit eget kød, skal høste fordærv af kødet, men den som sår i Ånden, skal høste evigt liv af Ånden.
+v6 Men den som undervises i ordet, skal give den som underviser, del i alle goder. v7 Lad jer ikke bedrage. Gud lader sig ikke spotte. For det et menneske sår, skal det også høste. v8 Det vil sige, den som sår i sit eget kød, skal høste fordærv af kødet, men den som sår i Ånden, skal høste evigt liv af Ånden. v9 Men når vi gør det gode, lad os da ikke blive trætte, for vi skal høste til rette tid hvis vi ikke bliver trætte. v10 Altså! mens vi har tid, så lad os gøre det gode mod alle, men mest mod troens fæller.
+
+==Afslutning==
+v11 Se, med hvor store bogstaver jeg skriver med min egen hånd. v12 Alle de som vil nyde anseelse i kødet, forsøger at tvinge jer til at lade jer omskære, udelukkende for at de ikke skal blive forfulgt på grund af Kristi kors. v13 For dem som lader sig omskære, overholder ikke engang selv loven, men de vil have at I lader jer omskære, for at de kan rose sig af jeres kød. v14 Men det skal ikke ske for mig at jeg roser mig af andet end vores herre Jesu Kristi kors, ved hvem verden er blevet korsfæstet for mig og jeg for verden. v15 For hverken omskærelse eller manglende omskærelse betyder noget, men en ny skabning. v16 Og alle de som vil vandre efter denne regel, fred og barmhjertighed være over dem og over Guds Israel. v17 For fremtiden skal ingen volde mig besvær, for jeg bærer Jesu sårmærker på min krop. v18 Vor Herre Jesu Kristi nåde være med jeres ånd, brødre. Amen

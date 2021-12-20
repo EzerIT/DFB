@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [3,8,9,11,32,50];
+$chap['1mos']     = [3,8,9,11,12,32,50];
 $chap['2mos']     = range(1,40);
 $chap['4mos']     = range(1,36);
 $chap['5mos']     = [8,18];
@@ -21,10 +21,10 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,7,11,14,16,17,21,24];
+$chap['luk']      = [1,2,7,11,14,16,17,21,24];
 $chap['joh']      = [1,3,4,6,10,14,15,16,20];
-$chap['apg']      = [1,2,10];
-$chap['gal']      = [5,6];
+$chap['apg']      = [1,2,6,7,10];
+$chap['gal']      = range(1,6);
 $chap['ef']       = [3,4,5,6];
 $chap['fil']      = [1,2,4];
 $chap['kol']      = [1];
@@ -33,7 +33,7 @@ $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
 $chap['2thess']   = [2];
-$chap['hebr']     = [8,13];
+$chap['hebr']     = [1,8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4];
 $chap['1joh']     = [1,4,5];
@@ -182,7 +182,7 @@ $style['apg']     = 'btn-secondary';
 $style['rom']     = 'btn-secondary';
 $style['1kor']    = 'btn-warning';
 $style['2kor']    = 'btn-warning';
-$style['gal']     = 'btn-secondary';
+$style['gal']     = 'btn-info';
 $style['ef']      = 'btn-secondary';
 $style['fil']     = 'btn-secondary';
 $style['kol']     = 'btn-secondary';

@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.05.2020>!!
+!!<Dato for denne version: 20.12.2020>!!
 
 ===Esajas, kapitel 63===
 
@@ -15,9 +15,9 @@ v4 For hævnens dag var besluttet i mit hjerte, og mit befrielsesår var kommet.
 v5 Og jeg så mig om, og der var ingen hjælper, og jeg undrede mig over, at der ikke var nogen, der holdt med mig; men min arm hjalp mig, og min harme bistod mig.
 v6 Og jeg trådte folkene ned i min vrede og gjorde dem berusede i min harme og lod deres blod løbe ned på jorden.
 
-v7 Jeg vil forkynde JHVHs nåde, JHVHs pris, efter alt det, som JHVH har gjort imod os, ja, den store godhed imod Israels hus, som han viste dem efter sin barmhjertighed og efter sin store nåde.
-v8 Og han sagde: >>Det er kun dem, der er mit folk, de er børn, der ikke vil handle falsk;<< og han blev en frelser for dem.
-v9 I al deres modgang var der ingen modgang, men hans ansigts engel frelste dem; han løskøbte dem på grund af sin kærlighed og sin overbærenhed, og han tog dem op til sig og bar dem igennem alle fortidens dage.
+v7 Jeg vil prisende forkynde JHVHs nåde, JHVHs glorværdige gerninger, efter alt det som JHVH har gjort imod os, ja, den store godhed imod Israels hus som han viste dem i overensstemmelse med sin barmhjertighed og sin store nåde.
+v8 Og han sagde: >>Netop de er mit folk, de er børn der ikke vil svigte.<< Og han blev en frelser for dem.
+v9 I al deres trængsel var der ingen trængsel{E: Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter grundtekstens *lōˀ* (>>ikke/ingen<<) til: *lô* (>>for ham<<) så der oversættes: >>I al deres trængsel havde han trængsel>>. Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (>>trængsel, men (hans ansigts) engel …<<) til: *ṣîr ûmalʔāx* (>>sendebud eller en engel<<) så der oversættes: >>… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.<<}, men hans ansigts engel{T: Den engel der var JHVH nærmest} frelste dem; på grund af sin kærlighed og sin medlidenhed løskøbte han dem, han løftede dem op og bar dem alle fortidens dage.
 v10 Men de, de var genstridige og bedrøvede hans hellige Ånd; derfor blev han til deres modstander, han kæmpede imod dem.
 v11 Så huskede hans folk de gamle dage under Moses: >>Hvor er han, der førte dem op fra havet sammen med sin hjords hyrde? Hvor er han, der gav sin hellige Ånd midt iblandt dem? 
 v12 han, der lod sin herligheds arm føre Moses' højre hånd, han, der kløvede vandene for deres ansigt for at skabe sig et evigt navn?

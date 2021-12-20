@@ -1,19 +1,19 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 08.04.2021>!!
+!!<Dato for denne version: 20.12.2021>!!
 
 ===Esajas' Bog, kapitel 9===
 
 
 ==Esajas trøster det jødiske folk med løftet om evangeliets ord og om forløsningen gennem Messias, og han beskriver hans fødsel, person, virke og evige rige.==
 
-v1 Det folk der vandrede i mørket, ser et stort lys; over dem der boede i dødens skygges land, skinner et lys.
-v2 Du formerer det folk hvis glæde du ikke havde gjort stor; de glæder sig for dit ansigt ligesom glæden er om høsten, ligesom man fryder sig når man uddeler bytte,
-v3 for dets byrdes åg og kæppen over dets ryg, dets drivers stav, har du bræket som på Midjans dag;
-v4 for hver krigsstøvle der blev båret i krigstummelen, og uniformen der var sølet til i blod, skal brændes og blive føde for ilden;
-v5 for et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og han skal kaldes Under, Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste;
-v6 for at herredømmet må blive stort, og at der må blive fred uden ende over Davids trone og over hans rige til at gøre det stærkt og til at bevare det ved ret og retfærdighed fra nu og til evig tid; JHVH Zebaoths brændende iver skal gøre dette.
+v1 Det folk der vandrer i mørket, skal se et stort lys; over dem der bor i dødsskyggens{E: Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: >>dødsskygge<<, men ofte vokaliseres: *ṣalmut*, der skal oversættes: >>mørke<<.} land, skal et lys skinne.
+v2 Du gør dets folk{E: Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: >>jubelen<< (*haggilā*) i stedet for: >>dets folk<< (*haggôy lô*).} talrigt, du gør glæden stor; de skal glæde sig for dit ansigt, ligesom glæden er om høsten, ligesom man jubler når man fordeler bytte,
+v3 for åget der tynger det, og stangen over dets ryg, dets slavefogeds stav, brækker du som på Midjans dag;
+v4 for hver støvle der tramper i krigstummel, og hver uniform der er sølet til i blod, skal brændes som føde for ild;
+v5 for et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og man skal kalde ham Underfuld Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste.
+v6 Herredømmet bliver stort, og fred bliver uden ende over Davids trone og over hans rige så han kan grundfæste det og understøtte det ved ret og retfærdighed fra nu og til evig tid; Hærskarers HERRES brændende iver {T: Kan også oversættes: >>nidkærhed<<.} skal gøre dette.
 
 ==Esajas forudsiger, hvordan filistrene og syrerne skal angribe og straffe Israels kongerige på grund af deres hovmod, hårdnakkethed og ugudelighed.==
 

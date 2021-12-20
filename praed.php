@@ -137,7 +137,9 @@ function make_all_saints_holiday($holidays) {
 
 $lessons1 = [
     // Nytårsdag
-    0 => null,
+    0 => [ ref_refh("1mos",12,1,3),
+           ref_refg("gal",3,23,29),
+           ref_refg("luk",2,21,21,"Luk 2,21") ],
 
     // Hellig tre kongers søndag
     1 => null,
@@ -407,17 +409,24 @@ $lessons1 = [
             ref_refg('joh',1,19,28) ],
 
     // Juleaften
-    64 => null,
+    64 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
+            "",
+            ref_refg("luk",2,1,14) ."<br>eller ". ref_refg("matt",1,18,25) ],
 
     // Juledag
-    65 => null,
+    65 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
+            ref_refg("hebr",1,1,5),
+            ref_refg("luk",2,1,14) ],
 
     // Anden juledag / Sankt Stefans dag
-    66 => null,
+    66 => [ ref_refh("jer",1,17,19),
+            ref_refg("apg",6,8,14) ."<br>og ". ref_refg("apg",7,54,60),
+            ref_refg("matt",23,34,39) ],
 
     // Julesøndag
-    67 => null,
-
+    67 => [ ref_refh("es",63,7,9),
+            ref_refg("gal",4,4,7),
+            ref_refg("luk",2,25,40) ],
 
     // Alle helgens søndag
     99 => [ ref_refh("es",60,18,22),
