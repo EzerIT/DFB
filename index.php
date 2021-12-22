@@ -36,7 +36,7 @@ makemenus(0);
 
           <h2>Udnyttelse af mediet</h2>
 
-          <p>Moderne computerteknik gør det muligt at lade læseren have betydlig indflydelse på
+          <p>Moderne computerteknik gør det muligt at lade læseren have betydelig indflydelse på
             hvorledes teksten skal præsenteres. Under menupunktet »Læseoplevelse« kan man fx vælge om
             man ønsker teksten vist med eller uden versnumre, med eller uden fodnoter osv. Her kan man
             også vælge mellem forskellige skrifttyper.</p>
