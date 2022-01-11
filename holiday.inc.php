@@ -251,7 +251,7 @@ class Holiday {
             case 0:
                 return "Nytårsdag";
             case 1:
-                return "Hellig tre kongers søndag";
+                return "Helligtrekongers søndag";
             case 2:
             case 3:
             case 4:

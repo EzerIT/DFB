@@ -141,11 +141,15 @@ $lessons1 = [
            ref_refg("gal",3,23,29),
            ref_refg("luk",2,21,21,"Luk 2,21") ],
 
-    // Hellig tre kongers søndag
-    1 => null,
+    // Helligtrekongers søndag
+    1 => [ ref_refh("es",60,1,6),
+           ref_refg("tit",3,4,7),
+           ref_refg("matt",2,1,12) ],
 
     // 1. søndag efter helligtrekonger
-    2 => null,
+    2 => [ ref_refh("sl",84),
+           ref_refg("rom",12,1,5),
+           ref_refg("luk",2,41,52) ],
 
     // 2. søndag efter helligtrekonger
     3 => null,

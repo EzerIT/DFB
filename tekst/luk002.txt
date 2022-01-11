@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 20.12.2021>!!
+!!<Dato for denne version: 11.01.2022>!!
 
 ===Lukasevangeliet, kapitel 2===
 
@@ -42,3 +42,16 @@ v38 I samme stund trådte hun frem og priste Gud og talte om ham til alle som fo
 
 v39 Da de havde fuldført det hele efter Herrens lov, vendte de tilbage til Galilæa til deres egen by Nazaret.
 v40 Men det lille barn voksede og blev stærkt, fuld af visdom; og Guds nåde var over det.
+
+v41 Hvert år rejste hans forældre til Jerusalem til påskefesten.
+v42 Også da han var blevet tolv år gammel, drog de derop som det var sædvane ved festen,
+v43 og da de havde tilendebragt dagene, blev drengen Jesus i Jerusalem da de drog hjem, og hans forældre opdagede det ikke.
+v44 Men da de troede at han var i rejsefølget, kom de en dags rejse frem, og de ledte efter ham blandt deres slægtninge og bekendte.
+v45 Da de ikke fandt ham, vendte de tilbage til Jerusalem og ledte efter ham.
+v46 Og efter tre dage fandt de ham i templet, hvor han sad midt mellem lærerne og både hørte på dem og udspurgte dem.
+v47 Men alle som hørte ham, undrede sig meget over hans forstand og svar.
+v48 Da de så ham, blev de forfærdede; og hans mor sagde til ham: >>Barn! Hvorfor gjorde du sådan imod os? Se, din far og jeg har fortvivlet ledt efter dig.<<
+v49 Han sagde til dem: >>Hvorfor ledte I efter mig? Har I ikke vidst at jeg bør være hos min far?<<{T: Ordret: >>i det af min fars<<. Der kan være underforstået et ord. I sammenhængen kan der være tænkt på >>i min fars hus<< (templet). Andre muligheder er >>i min fars gerning<< eller eventuelt blot: >>i det der tilhører min far<<.}
+v50 Og de forstod ikke det han sagde til dem.
+v51 Og han drog ned med dem og kom til Nazaret og var lydig mod dem. Hans mor gemte alle ordene i sit hjerte.
+v52 Jesus gik frem i visdom og vækst og yndest hos Gud og mennesker.
