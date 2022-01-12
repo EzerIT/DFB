@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 11.01.2022>!!
+!!<Dato for denne version: 12.01.2022>!!
 
 ===Paulus' Brev til Romerne, kapitel 12===
 
@@ -11,3 +11,21 @@ v2 Og tilpas jer ikke denne verden, men lad jer forvandle ved sindets fornyelse,
 v3 For ved den nåde som er givet mig, siger jeg til enhver iblandt jer at han ikke skal tænke højere om sig selv end han bør tænke, men tænke med omtanke, efter det mål af tro som Gud har tildelt enhver.
 v4 For ligesom vi har mange lemmer paa ét legeme, men lemmerne ikke alle har den samme funktion,
 v5 sådan er vi mange ét legeme i Kristus, men hver for sig hinandens lemmer.
+
+v6 Men fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen; 
+v7 eller en tjeneste, da skal man tage vare på tjenesten; eller om nogen underviser, på undervisningen;
+v8 eller om nogen formaner, på formaningen; den som uddeler,{T: Til de fattige.} skal gøre det uden bagtanke; den som er forstander, skal være det med iver; den som øver barmhjertighed, skal gøre det med glæde!
+v9 Kærligheden skal være oprigtig; afsky det onde, hold jer til det gode;
+v10 vær i jeres broderkærlighed hinanden inderligt hengivne; overgå hinanden i at vise ære!{T: Kan også oversættes: >>kom hinanden i forkøbet med at vise ære<<.}
+v11 Vær ikke tøvende i jeres iver; vær brændende i Ånden; tjen Herren;
+v12 vær glade i håbet, udholdende i trængselen, vedholdende i bønnen!
+v13 Involvér jer i de helliges nød; stræb efter gæstfrihed!
+v14 Velsign dem som forfølger jer, velsign, og forband ikke!
+v15 Glæd jer med de glade og græd med de grædende!
+v16 Vær enige indbyrdes; stræb ikke efter de høje ting, men hold jer til det lave; anse ikke jer selv for kloge i jeres egne tanker!
+v17 Gengæld ikke nogen ondt med ondt; stræb efter{T: Ordret: >>tænk omhyggeligt over<<.} det der er godt over for alle mennesker!
+v18 Dersom det er muligt — så vidt det står til jer — da hold fred med alle mennesker!
+v19 Hævn ikke jer selv, I elskede, men giv plads for vreden;{T: Dvs. giv plads for Guds vrede.} for der er skrevet: >>Mig tilhører hævnen, jeg vil gengælde, siger Herren.<<
+v20 Men hvis din fjende sulter, giv ham mad; hvis han tørster, giv ham noget at drikke; for når du gør dette, vil du samle glødende kul på hans hoved.
+v21 Lad dig ikke overvinde af det onde, men overvind det onde med det gode!
+	

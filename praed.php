@@ -152,10 +152,14 @@ $lessons1 = [
            ref_refg("luk",2,41,52) ],
 
     // 2. søndag efter helligtrekonger
-    3 => null,
+    3 => [ ref_refh("2mos",33,18,23),
+           ref_refg("rom",12,6,16,"Rom 12,[6]9-16a"),
+           ref_refg("joh",2,1,11) ],
 
     // 3. søndag efter helligtrekonger
-    4 => null,
+    4 => [ ref_refh("5mos",10,17,21),
+           ref_refg("rom",12,16,21,"Rom 12,16b-21"),
+           ref_refg("matt",8,1,13) ],
 
     // 4. søndag efter helligtrekonger
     5 => null,
