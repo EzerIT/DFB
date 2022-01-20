@@ -162,7 +162,9 @@ $lessons1 = [
            ref_refg("matt",8,1,13) ],
 
     // 4. søndag efter helligtrekonger
-    5 => null,
+    5 => [ ref_refh("job",38,1,18,"Job 38,1-11[18]") ."<br>og evt. ". ref_refh("job",38,31,33,"[Job 38,31-33]"),
+           ref_refg("rom",13,8,10),
+           ref_refg("matt",8,23,27) ],
 
     // 5. søndag efter helligtrekonger
     6 => null,
