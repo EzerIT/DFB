@@ -19,13 +19,13 @@ makemenus(0);
           <p>Den Frie Bibel udspringer af ønsket om at skabe en tekstnær dansk bibeloversættelse som
             er fri for enhver form for copyright. Altså en tekst som alle og enhver har lov til at
             kopiere og benytte som de ønsker. Forbilledet har været den
-            engelske <a href="http://ebible.org/web/copyright.htm" target="_blank">World English
+            engelske <a href="https://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
             <p>Foreløbig er det kun nogle få kapitler der foreligger i mere eller mindre færdiggjort
             grad. Forlægget har for det Gamle Testamentes vedkommende været den danske oversættelse
             fra 1871, som er blevet moderniseret og opdateret med nye resultater fra bibelforskningen.
-            Den Nye Testamentes er blevet til ud fra den autoriserede oversættelse fra 1907
+            Det Nye Testamente er blevet til ud fra den autoriserede oversættelse fra 1907
             eller direkte fra grundteksten.</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
@@ -143,9 +143,9 @@ makemenus(0);
   <div class="row">
     <div class="col-sm-6">
       <div class="credit mt-3">
-        <p>Idé til website-design: <a target="_blank" href="http://startbootstrap.com/">Start Bootstrap</a></p>
-        <p>Baggrund: <a target="_blank" href="http://backgroundlabs.com/">Background Labs</a></p>
-        <p>Foto: <a target="_blank" href="http://deathtothestockphoto.com/">Death to the Stock Photo</a></p>
+        <p>Idé til website-design: <a target="_blank" href="https://startbootstrap.com/">Start Bootstrap</a></p>
+        <p>Baggrund: <a target="_blank" href="https://backgroundlabs.com/">Background Labs</a></p>
+        <p>Foto: <a target="_blank" href="https://deathtothestockphoto.com/">Death to the Stock Photo</a></p>
       </div>
     </div>
   </div><!--End of row-->
