@@ -167,10 +167,14 @@ $lessons1 = [
            ref_refg("matt",8,23,27) ],
 
     // 5. søndag efter helligtrekonger
-    6 => null,
+    6 => [ ref_refh("præd",8,9,15),
+           ref_refg("kol",3,12,17),
+           ref_refg("matt",13,24,30) ."<br>eller ". ref_refg("matt",13,44,52) ],
 
     // Sidste søndag efter helligtrekonger
-    7 => null,
+    7 => [ ref_refh("2mos",34,27,35),
+           ref_refg("2pet",1,16,18),
+           ref_refg("matt",17,1,9) ],
 
     // Søndag septuagesima
     8 => null,

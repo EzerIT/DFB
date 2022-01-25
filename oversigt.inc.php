@@ -9,6 +9,7 @@ $chap['ruth']     = range(1,4);
 $chap['2kong']    = [5];
 $chap['job']      = [19,38];
 $chap['sl']       = range(1,150);
+$chap['præd']     = [8];
 $chap['es']       = range(1,66);
 $chap['jer']      = [1, 2, 7, 18];
 $chap['ez']       = [34,36,37];
@@ -27,7 +28,7 @@ $chap['apg']      = [1,2,6,7,10];
 $chap['gal']      = range(1,6);
 $chap['ef']       = [3,4,5,6];
 $chap['fil']      = [1,2,4];
-$chap['kol']      = [1];
+$chap['kol']      = [1,3];
 $chap['rom']      = [11,12,13,15];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
@@ -37,6 +38,7 @@ $chap['tit']      = [3];
 $chap['hebr']     = [1,8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4];
+$chap['2pet']     = [1];
 $chap['1joh']     = [1,4,5];
 $chap['åb']       = [7];
 
@@ -55,6 +57,7 @@ $title['ruth']    = 'Ruths Bog';
 $title['2kong']   = 'Anden Kongebog';
 $title['job']     = 'Jobs Bog';
 $title['sl']      = 'Salmernes Bog';
+$title['præd']    = 'Prædikerens Bog';
 $title['es']      = 'Esajas&rsquo; Bog';
 $title['jer']     = 'Jeremias&rsquo; Bog';
 $title['ez']      = 'Ezekiels Bog';
@@ -83,6 +86,7 @@ $title['tit']     = 'Paulus&rsquo; Brev til Titus';
 $title['hebr']    = 'Brevet til Hebræerne';
 $title['jak']     = 'Jakobs Brev';
 $title['1pet']    = 'Peters Første Brev';
+$title['2pet']    = 'Peters Andet Brev';
 $title['1joh']    = 'Johannes&rsquo; Første Brev';
 $title['åb']      = 'Johannes&rsquo; Åbenbaring';
 
@@ -104,6 +108,7 @@ $abbrev['ruth'] = 'Ruth';
 $abbrev['2kong']= '2 Kong';
 $abbrev['job']  = 'Job';
 $abbrev['sl']   = 'Sl';
+$abbrev['præd'] = 'Præd';
 $abbrev['es']   = 'Es';
 $abbrev['jer']  = 'Jer';
 $abbrev['ez']   = 'Ez';
@@ -131,6 +136,7 @@ $abbrev['tit']  = 'Tit';
 $abbrev['hebr'] = 'Heb';
 $abbrev['jak']  = 'Jak';
 $abbrev['1pet'] = '1 Pet';
+$abbrev['2pet'] = '2 Pet';
 $abbrev['1joh'] = '1 Joh';
 $abbrev['åb']   = 'Åb';
 
@@ -154,6 +160,8 @@ for ($k=1; $k<=135; ++$k)
 for ($k=136; $k<=150; ++$k)
     $style['sl'][$k] = 'btn-info';
 $style['sl'][119] = 'btn-info';
+
+$style['præd']    = 'btn-secondary';
 
 $style['es']      = [ 1 => 'btn-success',
                       2 => 'btn-success', 
@@ -195,6 +203,7 @@ $style['tit']     = 'btn-secondary';
 $style['hebr']    = 'btn-secondary';
 $style['jak']     = 'btn-secondary';
 $style['1pet']    = 'btn-secondary';
+$style['2pet']    = 'btn-secondary';
 $style['1joh']    = 'btn-secondary';
 $style['åb']      = 'btn-secondary';
 
