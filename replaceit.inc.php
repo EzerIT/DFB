@@ -100,11 +100,20 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/===(.*)===/';  // Titles have been handled above
     $to[] = '';
 
-    $from[] = '/^\s*==/m';
-    $to[] = "\n@";
+    if ($_SESSION['exegetic']=='on') {
+        $from[] = '/==(.*)==/';
+        $to[] = '';
 
-    $from[] = '/==\s*$/m';
-    $to[] = "@\n";
+        $from[] = '/\n/';
+        $to[] = ' ';
+    }
+    else{
+        $from[] = '/^\s*==/m';
+        $to[] = "\n@";
+
+        $from[] = '/==\s*$/m';
+        $to[] = "@\n";
+    }
 
     $from[] = '/\s*{E: *([^}]+)}/';
     $to[] = '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-let="REFALET" data-placement="bottom" title="\1" data-html="true"></span></span>';
@@ -184,20 +193,31 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$chapter.':</span>\2</span>';
 
-    $from[] = '/\n *\n/';
-    $to[] = 'QQ';
+    if ($_SESSION['exegetic']=='on') {
+        // Håndtering af indrykning
+        $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s';
+        $to[] = '<div class="indent\1">\2</div>\3';
+    }
+    else {
+        // Fjern indrykningsmarkør
+        $from[] = '~//\d+~';
+        $to[] = '';
 
-    $from[] = '/\n/';
-    $to[] = ' ';
+        $from[] = '/\n *\n/';
+        $to[] = 'QQ';
 
-    $from[] = '/QQ/';
-    $to[] = "\n";
+        $from[] = '/\n/';
+        $to[] = ' ';
 
-    $from[] = '/^ *([^\n@]+) *$/m';
-    $to[] = '<div class="paragraph">\1</div>';
+        $from[] = '/QQ/';
+        $to[] = "\n";
+
+        $from[] = '/^ *([^\n@]+) *$/m';
+        $to[] = '<div class="paragraph">\1</div>';
  
-    $from[] = '/@([^@]+)@/';
-    $to[] = '<h2>\1</h2>';
+        $from[] = '/@([^@]+)@/';
+        $to[] = '<h2>\1</h2>';
+    }
  
     $from[] = '/--/';
     $to[] = '&ndash;';

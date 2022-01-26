@@ -6,25 +6,25 @@
 
 ===Esajas’ Bog, kapitel 1===
 
-v1 Esajas', Amos' søns, syn, som han så om Juda og Jerusalem dengang Uzzija, Jotam, Akaz og Hizkija var konger i Juda.
+//1 v1 Esajas', Amos' søns, syn, //2 som han så om Juda og Jerusalem dengang Uzzija, Jotam, Akaz og Hizkija var konger i Juda.
 
 ==Det syndige folk==
 
-v2 Hør, I himle! Og lyt, du jord!
+//1 v2 Hør, //5 I himle! //4 Og lyt, //5 du jord!
 
-For JHVH har talt; jeg har opdraget børn og opfostret dem,
+//3 For JHVH har talt; //4 jeg har opdraget børn //6 og opfostret dem,
 
-men de har gjort oprør imod mig.
+//5 men de har gjort oprør imod mig.
 
-v3 En okse kender sin ejermand
+//6 v3 En okse kender sin ejermand
 
-og et æsel sin herres krybbe;
+//8 og et æsel sin herres krybbe;
 
-men Israel kender ingenting,
+//7 men Israel kender ingenting,
 
-mit folk forstår ikke noget.
+//8 mit folk forstår ikke noget.
 
-v4 Ve et syndigt folkeslag,
+//2 v4 Ve et syndigt folkeslag,
 
 et folk tynget af skyld,
 
@@ -32,25 +32,25 @@ en slægt af onde mennesker,
 
 vanartede børn!
 
-De forlod JHVH,
+//6 De forlod JHVH,
 
-de foragtede Israels Hellige,
+//6 de foragtede Israels Hellige,
 
-de har vendt sig væk fra ham.
+//6 de har vendt sig væk fra ham.
 
-v5 Hvorfor vil I prygles endnu mere?
+//5 v5 Hvorfor vil I prygles endnu mere?
 
-Hvorfor vil I fortsætte frafaldet?
+//7 Hvorfor vil I fortsætte frafaldet?
 
-Hele hovedet er sygt, og hele hjertet er svagt.
+//6 Hele hovedet er sygt, //10  og hele hjertet er svagt.
 
-v6 Fra fodsål til hoved er intet uskadt på jer:
+//9 v6 Fra fodsål til hoved er intet uskadt på jer:
 
-Sår og skrammer og friske hug!
+//8 Sår og skrammer og friske hug!
 
-De er ikke klemt ud og ikke forbundet,
+//9 De er ikke klemt ud //10 og ikke forbundet,
 
-ikke lindret med olie.
+//11 ikke lindret med olie.
 
 v7 Jeres land er en ørken,
 
