@@ -9,6 +9,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         die;
     }
 
+    $exegetic_layout = preg_match('~//\d~',$txt) && $_SESSION['exegetic']=='on';
+
     // Handle verse restriction
     if ($from_verse>0)
         $txt = preg_replace("/(===[^=]+===).*(v$from_verse )/s",'\1\2',$txt);
@@ -100,7 +102,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/===(.*)===/';  // Titles have been handled above
     $to[] = '';
 
-    if ($_SESSION['exegetic']=='on') {
+    if ($exegetic_layout) {
         $from[] = '/==(.*)==/';
         $to[] = '';
 
@@ -193,7 +195,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$chapter.':</span>\2</span>';
 
-    if ($_SESSION['exegetic']=='on') {
+    if ($exegetic_layout) {
         // Håndtering af indrykning
         $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s';
         $to[] = '<div class="indent\1">\2</div>\3';
