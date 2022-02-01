@@ -228,6 +228,23 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
          <?php endif; ?>
          
          $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
+
+         let pixels_per_space = $('#tenspaces').width()/10;
+         
+         $('.indent').each(function(i) {
+             let indentspaces = ($(this).data('indent')-1)*6;
+             let indentpixels = indentspaces*pixels_per_space;
+//             while (indentspaces>=10) {
+//                 $(this).prepend("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+//                 indentspaces -= 10;
+//             }
+//             while (indentspaces>0) {
+//                 $(this).prepend("&nbsp;");
+//                 --indentspaces;
+//             }
+             $(this).css('margin-left',indentpixels + 'px')
+//                    .css('text-indent',(-indentpixels) + 'px');
+         });
     });
     </script>
 
@@ -243,7 +260,8 @@ makemenus(null);
           <div class="card mt-4">
               <h1 class="card-header bg-warning"><?= $heading ?></h1>
             <div class="card-body bibletext">
-              <?= $text ?>
+                <?= $text ?>
+                <span id="tenspaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
             </div>
           </div>
         </div>

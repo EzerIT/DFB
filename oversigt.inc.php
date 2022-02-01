@@ -11,7 +11,7 @@ $chap['job']      = [19,38];
 $chap['sl']       = range(1,150);
 $chap['præd']     = [8];
 $chap['es']       = range(1,66);
-$chap['jer']      = [1, 2, 7, 18];
+$chap['jer']      = [1, 2, 7, 9, 18];
 $chap['ez']       = [34,36,37];
 $chap['obad']     = [1];
 $chap['nah']      = range(1,3);
@@ -39,7 +39,7 @@ $chap['hebr']     = [1,8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4];
 $chap['2pet']     = [1];
-$chap['1joh']     = [1,4,5];
+$chap['1joh']     = [1,3,4,5];
 $chap['åb']       = [7];
 
 $total_chap_ot = 929;
@@ -176,6 +176,7 @@ for ($k=8; $k<=66; ++$k)
 $style['jer']     = [ 1  => 'btn-success',
                       2  => 'btn-success', 
                       7  => 'btn-success', 
+                      9  => 'btn-secondary', 
                       18 => 'btn-secondary'];
 
 $style['ez']      = 'btn-secondary';

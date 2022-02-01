@@ -198,7 +198,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     if ($exegetic_layout) {
         // Håndtering af indrykning
         $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s';
-        $to[] = '<div class="indent\1">\2</div>\3';
+//        $to[] = '<div class="indent\1">\2</div>\3';
+        $to[] = '<div class="indent" data-indent="\1">\2</div>\3';
     }
     else {
         // Fjern indrykningsmarkør

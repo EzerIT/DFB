@@ -177,7 +177,9 @@ $lessons1 = [
            ref_refg("matt",17,1,9) ],
 
     // Søndag septuagesima
-    8 => null,
+    8 => [ ref_refh("jer",9,22,23),
+           ref_refg("1kor",9,24,27),
+           ref_refg("matt",20,1,16) ],
 
     // Søndag seksagesima
     9 => [ ref_refh('es',55,6,11),
@@ -300,7 +302,9 @@ $lessons1 = [
             ref_refg('luk',16,19,31) ],
 
     // 2. søndag efter trinitatis
-    33 => null,
+    33 => [ ref_refh('es',25,6,9),
+            ref_refg('1joh',3,13,18),
+            ref_refg('luk',14,16,24) ],
 
     // 3. søndag efter trinitatis
     34 => null,

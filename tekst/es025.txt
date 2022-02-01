@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Dato for denne version:  1.02.2022>!!
 
 ===Esajas, kapitel 25===
 
@@ -14,10 +14,10 @@ v3 Derfor skal et stærkt folk ære dig; vilde hedningers byer skal frygte dig.
 v4 For du var den ringes styrke, den fattiges styrke, da han var grebet af angst, en tilflugt mod regnskyl, en skygge mod hede; for de vildes fnysen er som regnskyl imod en væg.
 v5 Som du dæmper heden i det tørre land, dæmper du de fremmedes larm; som heden dæmpes af skyggen fra en sky, dæmpes de vildes sang.
 
-v6 Og JHVH Zebaoth skal holde et fedt gilde for alle folkeslag på dette bjerg, et gilde med gammel vin, med fed marv, med gammel, klaret vin.
-v7 Og på dette bjerg skal han fjerne sløret, som alle folkeslag er tilsløret med, og tæppet, som alle hedninger er dækket med.
-v8 Han skal opsluge døden for evigt, og Herren JHVH skal tørre gråden af alle ansigter og fjerne sit folks vanære fra hele jorden; for JHVH har sagt det.
-v9 Og man skal sige på den dag: >>Se, dette er vores Gud, vi har håbet på ham, og han skal frelse os; dette er JHVH, vi har håbet på ham, vi vil fryde og glæde os over hans frelse.<<
+v6 Hærskarers HERRE skal holde et måltid med fede retter for alle folkeslag på dette bjerg, et måltid med lagret vin, fede, marvfulde retter, med lagret, klaret vin.
+v7 På dette bjerg skal han bortskaffe det slør som alle folkeslag er tilsløret med, og det dække som alle nationerne{T: Tidligere oversat (og kan også oversættes): >>hedninger<<.} er dækket med.
+v8 Han skal opsluge døden for evigt, og Herren HERREN skal tørre tårer af alle ansigter og fjerne sit folks vanære fra hele jorden; for HERREN har sagt det.
+v9 På den dag skal man sige: >>Se, dette er vores Gud, vi har håbet på ham, og han skal frelse os; dette er HERREN, vi har håbet på ham, lad os juble og glæde os over hans frelse.<<
 
 v10 For JHVHs hånd skal hvile over dette bjerg; men Moab {T: dvs. Guds riges fjender} skal trædes ned, som man træder halm ned i møddingpølen.
 v11 Og det skal brede sine hænder ud i den, ligesom den, der svømmer, breder sine hænder ud for at svømme; og han {T: JHVH} skal trykke dets overmod ned sammen med dets hænders ranker.

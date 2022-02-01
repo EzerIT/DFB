@@ -2,7 +2,7 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
+!!<Dato for denne version: 01.02.2022>!!
 === Paulus' Første Brev til Korintherne, kapitel 9 ===
 
 ==Som eksempel på, hvordan man bør indskrænke sin personlige frihed, minder Paulus om, at han for så meget bedre at kunne fremme evangeliets sag har givet afkald på sin selvfølgelige ret til at få løn af menighederne, 1-18, ligesom han har indrettet sig efter alle for deres frelses skyld, 19-23. Som væddeløbere bør læserne ligesom han selv anstrenge sig og øve sig i afholdenhed for at vinde sejrskransen, 24-27.==
@@ -36,10 +36,7 @@ v22 Jeg er blevet skrøbelig for de skrøbelige, for at jeg kunne vinde de skrø
 v23 Men alt gør jeg for evangeliets skyld, for at jeg kan få del i det.
 
 
-v24 Ved I ikke, at de, der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Sådan skal I løbe, for at I kan vinde den.
-v25 Enhver, der deltager i konkurrencerne, er afholdende i alt; de altså for at få en krans, der visner, men vi en, der ikke visner.
-v26 Jeg løber derfor ikke som hen i det uvisse; jeg fægter som en, der ikke slår ud i luften;
-v27 men jeg bekæmper mit legeme og holder det i trældom, for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.
-
-
-
+v24 Ved I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.
+v25 Enhver der deltager i konkurrencer, er afholdende i alt; de altså for at få en krans der visner, men vi en der ikke visner.
+v26 Jeg løber derfor ikke som hen i det uvisse; jeg bokser som en der ikke slår ud i luften;
+v27 men jeg er hård ved{T: >>slår i ansigtet<<, ordret: >>slår under øjet<<.} mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.
