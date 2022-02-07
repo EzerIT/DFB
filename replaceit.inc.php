@@ -196,9 +196,8 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$chapter.':</span>\2</span>';
 
     if ($exegetic_layout) {
-        // Håndtering af indrykning
+        // Handle indentation
         $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s';
-//        $to[] = '<div class="indent\1">\2</div>\3';
         $to[] = '<div class="indent" data-indent="\1">\2</div>\3';
     }
     else {

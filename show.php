@@ -169,6 +169,35 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     </style>
 
     <script>
+
+     let maxindent = 0; // The maximum indentation level of the text
+     
+     function do_indent() {
+         let pixels_per_space = $('#tenspaces').width()/10;
+
+         // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
+         // By dividing by maxindent+3 rather than maxindent-1 below, we leave a litte room for the tex.
+         let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+3)),40); 
+         
+         $(".indentspaces").remove(); // Remove old indentation, if any
+         $('.indent').each(function(i) {
+             let indentpixels = ($(this).data('indent')-1)*pixels_per_indent;
+             let indentspaces = Math.round(indentpixels/pixels_per_space);
+             let nbsps = '';
+             while (indentspaces>=10) {
+                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                 indentspaces -= 10;
+             }
+             // 6 is the length of "&nbsp;"
+             nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
+
+             $(this).prepend('<span class="indentspaces">' + nbsps + '</span>');
+             $(this).css('margin-left',indentpixels + 'px')
+                    .css('text-indent',(-indentpixels) + 'px');
+         })
+     }
+
+     
     $(function() {
             <?php if ($_SESSION['showverse']=='on'): ?>
                 $('.verseno').show();
@@ -229,22 +258,14 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
          
          $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
 
-         let pixels_per_space = $('#tenspaces').width()/10;
-         
-         $('.indent').each(function(i) {
-             let indentspaces = ($(this).data('indent')-1)*6;
-             let indentpixels = indentspaces*pixels_per_space;
-//             while (indentspaces>=10) {
-//                 $(this).prepend("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
-//                 indentspaces -= 10;
-//             }
-//             while (indentspaces>0) {
-//                 $(this).prepend("&nbsp;");
-//                 --indentspaces;
-//             }
-             $(this).css('margin-left',indentpixels + 'px')
-//                    .css('text-indent',(-indentpixels) + 'px');
+         // Find maxindent
+         $(".indent").each(function() {
+             thisindent = $(this).data("indent");
+             if (thisindent>maxindent)
+                 maxindent = thisindent
          });
+         do_indent();
+         $(window).resize(do_indent);
     });
     </script>
 
