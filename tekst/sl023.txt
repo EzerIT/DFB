@@ -7,42 +7,42 @@
 
 ==Overskrift==
 
-//1 v1 En salme af David.
+//0 v1 En salme af David.
 
 ==David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt==
 
-//1 JHVH er min hyrde, //4 jeg skal intet mangle.
+//0 JHVH er min hyrde, //3 jeg skal intet mangle.
 
-//3 v2 Han lader mig ligge i grønne græsgange;
+//2 v2 Han lader mig ligge i grønne græsgange;
 
-//4 han leder mig til hvilens vande{E: Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.}.
+//3 han leder mig til hvilens vande{E: Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.}.
 
-//6 v3 Han giver min sjæl nye kræfter;
+//5 v3 Han giver min sjæl nye kræfter;
 
-//5 han fører mig på retfærdigheds stier{E: Stier der fører til målet for Guds trofaste retfærdigheds skyld.} for sit navns skyld.
+//4 han fører mig på retfærdigheds stier{E: Stier der fører til målet for Guds trofaste retfærdigheds skyld.} for sit navns skyld.
 
-//6 v4 Selv når jeg skal vandre i dødsskyggens {E: *ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwet* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.} dal,
+//5 v4 Selv når jeg skal vandre i dødsskyggens {E: *ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwet* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.} dal,
 
-//7 skal jeg ikke frygte for noget ondt,
+//6 skal jeg ikke frygte for noget ondt,
 
-//8 for du er med mig;
+//7 for du er med mig;
 
-//10 din kæp og din stav, //11 de skal trøste mig.
+//9 din kæp og din stav, //10 de skal trøste mig.
 
 ==Trøst og glæde i JHVH, som er den gæstfrie vært==
 
-//9 v5 Du dækker bord for mig
+//8 v5 Du dækker bord for mig
 
 for øjnene af{T: Ordret: >>over for<<} mine fjender;
 
-//11 du har salvet mit hoved med olie,
+//10 du har salvet mit hoved med olie,
 
-//10 mit bæger flyder over. 
+//9 mit bæger flyder over. 
 
-//2 v6 Kun godhed og nåde{N: nåde} skal følge mig
+//1 v6 Kun godhed og nåde{N: nåde} skal følge mig
 
 alle mine livsdage,
 
-//3 og jeg skal blive{E: *wᵊšavtî* betyder: >>og jeg skal vende tilbage<<. Det passer dårligt til den følgende præposition *bᵊ* (>>i<<). Man vokaliserer ofte * wᵊšivtî*: >>og min boen<< eller *wᵊyāšavtî*: >>og jeg skal bo<<.} i JHVHs hus
+//2 og jeg skal blive{E: *wᵊšavtî* betyder: >>og jeg skal vende tilbage<<. Det passer dårligt til den følgende præposition *bᵊ* (>>i<<). Man vokaliserer ofte * wᵊšivtî*: >>og min boen<< eller *wᵊyāšavtî*: >>og jeg skal bo<<.} i JHVHs hus
 
 hele livet{T: Egentlig: >>i dages udstrækning<<, dvs. >>alle dage, hele livet<<.}.

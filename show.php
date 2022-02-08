@@ -176,12 +176,12 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
          let pixels_per_space = $('#tenspaces').width()/10;
 
          // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
-         // By dividing by maxindent+3 rather than maxindent-1 below, we leave a litte room for the tex.
-         let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+3)),40); 
+         // By dividing by maxindent+4 rather than maxindent below, we leave a litte room for the tex.
+         let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+4)),40); 
          
          $(".indentspaces").remove(); // Remove old indentation, if any
          $('.indent').each(function(i) {
-             let indentpixels = ($(this).data('indent')-1)*pixels_per_indent;
+             let indentpixels = $(this).data('indent')*pixels_per_indent;
              let indentspaces = Math.round(indentpixels/pixels_per_space);
              let nbsps = '';
              while (indentspaces>=10) {

@@ -9,7 +9,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         die;
     }
 
-    $exegetic_layout = preg_match('~//\d~',$txt) && $_SESSION['exegetic']=='on';
+    $exegetic_layout = preg_match('~//~',$txt) && $_SESSION['exegetic']=='on';
 
     // Handle verse restriction
     if ($from_verse>0)
@@ -75,6 +75,9 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '<i>\1</i>';
+
+    $from[] = '~//([^\d])~';
+    $to[] = "//0";
 
     $txt =  preg_replace($from, $to, $txt);
 
