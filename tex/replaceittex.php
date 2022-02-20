@@ -53,7 +53,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '\\emph{\1}';
 
-    $from[] = '/\s*{K:\s*([^}]+)}/';
+    $from[] = '/\s*{[KN]:\s*([^}]+)}/';
     $to[] = '';
 
     $from[] = '/\s*{E:\s*([^}]+)}/';
@@ -85,6 +85,10 @@ function replaceittex($filename, $chtype) {
 
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1\\bverse{\2}';
+
+    // Fjern indrykningsmarkør
+    $from[] = '~//\d*~';
+    $to[] = '';
 
     $from[] = '/\n *\n/';
     $to[] = 'QQ';
