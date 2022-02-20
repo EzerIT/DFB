@@ -1,0 +1,101 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.02.2022>!!
+
+===Jonas’ Bog, kapitel 1===
+==Gud kalder Jonas, men han flygter fra Gud==
+//0 v1 HERRENS ord kom til Jonas, Amittajs søn,
+//1 som følger: 
+//2 v2 Rejs dig, 
+//2 gå til den store by Nineve, 
+//4 og råb ud over den 
+//3 at deres ondskab er nået op til mig.{T: Ordret: >>for mit ansigt.<<}
+==Jonas og sømændene i stormvejr==
+//0 v3 Men Jonas rejste sig 
+//3 for at flygte fra HERREN{T: Ordret: >>væk fra HERRENS ansigt;<< tilsvarende senere i verset.}  til Tarshish. 
+//2 Han begav sig ned til Jafo
+//2 og fandt et skib 
+//3 som skulle til Tarshish. 
+//2 Han betalte for sin overfart 	
+//2 og gik om bord i det
+//3 for at rejse med dem til Tarshish, væk fra HERREN. 
+//1 v4 Men HERREN sendte stærk vind ned over havet,
+//2 så der blev en voldsom storm på havet, 
+//3 og skibet virkede til {E:  Verbet *ḥiššᵊvāʰ* i piel betyder >>antage, planlægge<<. Når skibet bruges som grundled for et aktivt verbum om erkendelse, er skibet personliggjort og brugt som et billede.}
+//4 at ville blive slået i stykker. 
+//2 v5 Søfolkene blev bange 
+//3 og råbte, 
+//6 hver især til sin egen gud,
+//5 og de smed krukkerne, 
+//8 som var på skibet, 
+//7 i havet
+//6 for at lette skibet for dem. 
+//4 Men Jonas gik ned i det nederste del af skibet, 
+//6 lagde sig 
+//6 og faldt i dyb søvn 
+//5 v6 Kaptajnen gik så ned til ham 
+//6 og sagde til ham: 
+//7 >>Hvordan kan du dog 
+//9 sove så dybt?
+//8 Rejs dig, 
+//8 råb til din Gud, 
+//9 måske vil guden skænke os en tanke 
+//10 så vi ikke går under.<< 
+//3 v7 Så sagde de
+//6 hver især til hinanden:
+//5  >>Kom, 
+//7 lad os kaste lod 
+//6 og finde ud af 
+//7 hvem der er skyld i at vi er i havsnød.{E: Vendingen *bᵊšellᵊmî* betyder ordret >>i som til hvem<< og følges her af *hārāʕāʰ hazzōˀt lānû* >>dette onde til os.<< Det er sikkert talesprog, og lignende formuleringer findes i v 8 og 12. >>Dette onde<< bruges her enten om en forfærdelig hændelse i naturen (en voldsom storm) eller om faren for forlis, og dermed den truende ulykke.}<< 
+//4 De kastede lod, 
+//5 og loddet faldt på Jonas.
+//4 v8 Da sagde de til ham: 
+//6 >>Fortæl os dog 
+//8 hvem der er skyld i at vi er i havsnød 
+//7 Hvad er dit job, 
+//8 og hvor kommer du fra? 
+//7 Hvilket land er du fra,
+//8 og hvilket folk er du af?<<
+//5 v9 Han sagde til dem: 
+//6 >>Jeg er hebræer, 
+//7 og jeg tilbeder gudfrygtigt {E: Verbet *YR?* >>frygte<< bruges både om gudsfrygten i v 9 og om angst i v 10. De to forskellige betydninger er brugt som et ironisk stilmiddel, for verbet antyder at den gudfrygtige burde frygte det værste, mens de bange sømænd ender med at handle gudfrygtigt.} HERREN, himlens Gud, 
+//8 som har skabt havet og det tørre land.<< 
+//2 v10 Da blev mændene grebet af stor frygt, 
+//6 og de sagde til ham: 
+//7 >>Hvad har du dog gjort?<< 
+//5 For mændene havde fået at vide 
+//7 at han var i færd med at flygte fra HERREN, 
+//6 for det havde han fortalt dem. 
+//4 v11 De sagde til ham: 
+//7 >>Hvad skal vi gøre ved dig 
+//8 så havet kan blive stille for os,<< 
+//6 for havet piskedes hele tiden op 
+//7 omkring dem i stormen. {E: I sætningen *hayyām hôlēx wᵊsōʕēr ʕᵃlêhem* >>havet [var] gående og stormende over dem<< bruges navneordet *storm* som verbum; det sker kun her og i v. 13, og det bruges i hebraisk som stilistisk gentagelse.}
+//5 v12 Han sagde til dem: 
+//6 >>Løft mig op 
+//9 og kast mig i havet, 
+//8 så vil havet blive roligt for jer, 
+//7 for jeg ved 
+//8 at det er mig der er skyld i at I er i denne voldsomme storm.<< 
+//3 v13 Mændene roede 
+//6 for at nå tilbage til det tørre land, 
+//5 men de kunne ikke, 
+//6 for havet vedblev med 
+//7 at piskes op af i stormen over dem. 
+//4 v14 Da råbte de til HERREN
+//4 og sagde: 
+//5 >>Åh, HERRE, 
+//7 lad os dog ikke gå under på grund af denne mand.
+//8 Bring{T: Ordret: >>Giv.<<} ikke uskyldigt blod over os,
+//6 for du, 
+//8 HERRE, 	
+//8 hvad du ville, 
+//7 har du gjort.<<
+//4 v15 Og de løftede Jonas op 
+//5 og kastede ham i havet. 
+//6 Da faldt havet til ro efter sin voldsomme rasen. 
+//2 v16 En stor frygt for HERREN greb mændene. 
+//3 De ofrede et slagtoffer til HERREN 
+//4 og aflagde løfter.

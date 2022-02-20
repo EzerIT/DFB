@@ -1,0 +1,71 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.02.2022>!!
+
+===Jonas’ bog, kapitel 4===
+==Jonas’ klage og Guds irettesættelse af ham ==
+//0 v1 Men det harmedes Jonas vældigt over,{T: Ordret: >>Og denne store ondskab var ond for Jonas.<<}
+//2 og han var rasende. {T: Ordret : >>den (=hans vrede) brændte.<<}
+//2 v2 Han bad til HERREN 
+//2 og sagde: 
+//3 >>Åh, HERRE, 
+//5 var dette ikke min begrundelse {E: *dāvār* har kernebetydningen >ord, begivenhed< og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.} 
+//7 så længe jeg var på min egen jord? 
+//6 Derfor tog jeg af sted
+//8 for at flygte til Tarshish, 
+//7 for jeg ved 
+//8 at du er en nådig og barmhjertig Gud, 
+//9 sen til vrede 
+//10 og mægtig i trofast kærlighed,{N: Nåde}
+//11 og du angrer det onde. 
+//4 v3 Og nu, HERRE, 
+//5 tag mit liv {T: Ordret: >>sjæl<<. Her er der dog ikke kun tale om sindet, men om hele personen. I den følgende sætning er der tale om kontrasten mellem livet og døden.} fra mig, 
+//6 for min død er langt bedre end mit liv<<
+//1 v4 HERREN sagde:
+//2 >>Er det med rette
+//3 at du er rasende{T: Ordret: >>Mon [det er] godt at [den] brænder for dig?<< (jf. v. 1).}?<<
+
+//0 v5 Jonas gik ud af byen 
+//1 og slog sig ned øst for byen. 
+//1 Han lavede sig en hytte der 
+//1 og satte sig i skyggen ved siden af{T: Ordret: >>under den.<<} den 
+//2 indtil han kunne se 
+//3 hvad der ville ske i byen. 
+//0 v6 Da sørgede{E: Samme verbalform i 4,6-8 som i 2,1} Gud HERREN for en olieplante, 
+//2 og den voksede op over Jonas 
+//3 så den kunne kaste skygge over hans hoved 
+//4 for at befri ham fra hans mismod,{T: Ordret >>hans ondskab.<< Det refererer til et ondt sind, tungsind, dårlige tanker eller lignende.} 
+//1 og Jonas glædede sig meget over denne olieplante. {T: Planten *qîqāyôn* identificeres ofte med olieplanten, lat. *ricinus communis*. Andre forslag omfatter en agurk.}
+//0 v7 Men så sørgede Gud for at en orm
+//3 ved daggry næste dag
+//2 stak olieplanten
+//3 så den visnede. 
+//1 v8 Derpå, 
+//2 netop da solen gik op, 
+//1 sørgede Gud for en glohed østenvind, 
+//2 og solen stak Jonas’ hoved
+//3 så han blev dårlig. 
+//3 Da ønskede han for sig selv{T: Ordret >>spurgte for sin sjæl<<. I hebraisk tankegang opereres ikke med en udødelig sjæl, der så her alligevel skulle kunne dø. Her er det ham selv og hele hans person, der er tale }
+//4 at han måtte dø, 
+//3 og han sagde: 
+//4 >>Jeg vil heller dø end leve.<<{T: Ordret: >>Min død er bedre end mit liv.<<} 
+//1 v9 Men Gud sagde til Jonas: 
+//3 >>Er det med rette 
+//4 at du er rasende på grund af olieplanten?<< 
+//2 Han sagde: 
+//3 >>Ja, det er med rette 
+//4 at jeg er dødsens rasende.<< 
+//1 v10 HERREN sagde: 
+//2 >>Du ynkes over olieplanten, 
+//5 som du ikke har arbejdet med 
+//6 og heller ikke fået til at vokse. 
+//4 Den blev til på én nat, 
+//5 og den forsvandt på én nat. 
+//3 v11 Og jeg,
+//4 skulle jeg så ikke ynkes over den store by Nineve, 
+//5 hvori  der 
+//6 er mere end 12 gange 10.000 mennesker,
+//8 som ikke kender forskel på højre og venstre, 
+//7 og mange dyr?<<

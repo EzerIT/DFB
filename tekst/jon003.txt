@@ -1,0 +1,56 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.02.2022>!!
+
+===Jonas’ bog, kapitel 3===
+==Gud kalder igen Jonas==
+//0 v1 HERRENS ord kom for anden gang til Jonas
+//1 som følger:
+//2 v2 >>Rejs dig, 
+//2 gå til den store by Nineve, 
+//3 og råb over den det budskab
+//4 som jeg nu taler til dig.<< 
+==Jonas’ forkyndelse redder Nineve==
+//0 v3 Jonas rejste sig 
+//1 og gik til Nineve efter HERRENS ord. 
+//2 Nineve var en stor by for Gud, 
+//3 en tur på tre dagsrejser.{T: Ordet *mahᵃlāx* >>rejse, vandring<< bruges kun fem gange; det betyder næppe at byen er tre dagsrejser a 15 km i bredde, men snarere at forkynderturen skal foregå over tre dage.}
+//0 v4 Jonas begyndte 
+//2 at gå ind i byen på første dagsrejse,
+//1 og han råbte
+//1 og sagde: 
+//2 >>Om yderligere 40 dage 
+//3 vil Nineve gå til grunde.<<
+//0 v5 Da troede mændene{T: *Mændene* refererer måske her til lederne der har autoritet til at udråbe en faste.} i Nineve på Gud, 
+//1 og de udråbte en faste, 
+//1 og både store og små klædte sig i sæk. 
+//0 v6 Ordet nåede også kongen af Nineve, 
+//1 og han rejste sig fra sin trone, 
+//1 lagde sin prægtige kåbe fra sig 
+//1 og tildækkede sig i sæk, 
+//1 og han sad i asken.
+//1 v7 Han lod udråbe 
+//1 og sige
+//2 i Nineve ved et dekret fra kongen og hans stormænd
+//3 følgende: 
+//4 >>Mennesker og husdyr som okser og småkvæg bør ikke indtage føde. 
+//7 De bør ikke græsse,
+//6 og vand bør de heller drikke.
+//7 v8 Men de skal tildække sig i sæk, både mennesker og dyr, 
+//8 og råbe højt til Gud, 
+//9 og de skal omvende sig 
+//10 hver især fra deres onde vej og fra den uret 
+//11 som de har begået.{T: Ordret >>som [er] i deres hænder.<<}
+//5 v9 Hvem ved 
+//6 om Gud igen
+//8 vil angre {E: Konstruktion på hebraisk er >>Hvem ved? *yāšûv  wᵊniḥam hāˀᵉlōhîm* han vil gøre det igen, og så vil han angre, guden<<. Effekten er at verbet ŠWV her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.}
+//7 og vende sig fra sin brændende vrede 
+//8 så vi ikke forgår.<<
+//0 v10 Gud så deres gerninger, 
+//1 at de omvendte sig fra deres onde vej, 
+//0 og Gud angrede det onde 
+//2 han havde meddelt 
+//3 at han ville gøre mod dem, 
+//1 og han gjorde det ikke.
