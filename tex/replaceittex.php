@@ -77,12 +77,12 @@ function replaceittex($filename, $chtype) {
     $from[] = '/HERRES/';
     $to[] = '\\JHVHvs{}';
 
-    $from[] = '/HERRE/';
-    $to[] = '\\JHVHv{}';
-
     $from[] = '/HERREN/';
     $to[] = '\\JHVH{}';
     
+    $from[] = '/HERRE/';
+    $to[] = '\\JHVHv{}';
+
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1\\bverse{\2}';
 
