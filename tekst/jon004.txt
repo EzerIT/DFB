@@ -2,7 +2,7 @@
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 20.02.2022>!!
+!!<Dato for denne version: 21.02.2022>!!
 
 ===Jonas’ bog, kapitel 4===
 ==Jonas’ klage og Guds irettesættelse af ham ==
@@ -66,6 +66,6 @@
 //3 v11 Og jeg,
 //4 skulle jeg så ikke ynkes over den store by Nineve, 
 //5 hvori  der 
-//6 er mere end 12 gange 10.000 mennesker,
+//6 er mere end 12 gange 10.000 mennesker
 //8 som ikke kender forskel på højre og venstre, 
 //7 og mange dyr?<<

@@ -385,7 +385,7 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{20.02.2022}
+\date{21.02.2022}
 
 
 \begin{document}
