@@ -2,11 +2,11 @@
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 20.02.2022>!!
+!!<Dato for denne version: 23.02.2022>!!
 
 ===Jonas’ bog, kapitel 2===
 ==Jonas’ taksigelse i havdyret==
-//0 v1 HERREN sørgede for{E: Fortælleren har her  og i 4,6-8 valgt et sjædent verbum for Guds handling, *mnh*, som har en kernetydning af at bestemme og tildele noget.}  et stort havdyr 
+//0 v1 HERREN sørgede for{E: Fortælleren har her  og i 4,6-8 valgt et sjældent verbum for Guds handling, *mnh*, som har en kernetydning af at bestemme og tildele noget.}  et stort havdyr 
 //1 til at sluge Jonas, 
 //0 og Jonas var i havdyrets bug i tre dage og tre nætter.
 //0 v2 Jonas bad til HERREN sin Gud fra havdyrets bug 
@@ -16,7 +16,7 @@
 
 //5 og han svarede mig; 
 
-//4 fra gravens indre {E: *beṭen šᵊʔôl* er ordret >>sheols bug.<<  *šᵊʔôl* Det referer ofte til >>helvede<<, men også til >>graven<< og i enkelte tilfælde til det der svarer til den nærorientalske >>underverden<<. Tidligere oversattes det med >>dødsrigets dyb<< (DO92) eller >>skød<< (1871, 1931).  Det er svært af finde et godt dansk billede.} råbte jeg om hjælp, 
+//4 fra gravens indre {E: *beṭen šᵊʔôl* er ordret >>sheols bug.<<  Ordet *šᵊʔôl* referer ofte til >>dødsriget<< eller >>helvede<<, men også til >>graven<< og i enkelte tilfælde til det der svarer til den nærorientalske >>underverden<<. Tidligere oversattes det med >>dødsrigets dyb<< (DO92) eller >>skød<< (1871, 1931).  Det er svært af finde et godt dansk billede.} råbte jeg om hjælp, 
 
 //5 og du hørte min røst.
 
@@ -38,7 +38,7 @@
 
 //11 verdenshavet omgav mig, 
 
-//13 siv {E: sûf >>siv<<, henviser til sivene ved Nilen (2 Mos 2,3.5. Es 19,6) og indgår i betegnelsen Sivhavet (1 Mos 10,19. 1 Kong 9,26 osv.). Ofte antages at ordet her må have en særlig betydning med reference til vandplanter som tang.} var viklet fast om mit hoved. 
+//13 siv {E: sûf >>siv<<, henviser til sivene ved Nilen (2 Mos 2,3.5. Es 19,6) og indgår i betegnelsen *Sivhavet* (2 Mos 10,19. 1 Kong 9,26 osv.). Ofte antages at ordet her må have en særlig betydning med reference til vandplanter som tang.} var viklet fast om mit hoved. 
 
 //12 v7 Jeg sank ned til bjergenes fundament,
 

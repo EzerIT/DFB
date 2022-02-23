@@ -2,7 +2,7 @@
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 20.02.2022>!!
+!!<Dato for denne version: 23.02.2022>!!
 
 ===Jonas’ Bog, kapitel 1===
 ==Gud kalder Jonas, men han flygter fra Gud==
@@ -48,7 +48,7 @@
 //5  >>Kom, 
 //7 lad os kaste lod 
 //6 og finde ud af 
-//7 hvem der er skyld i at vi er i havsnød.{E: Vendingen *bᵊšellᵊmî* betyder ordret >>i som til hvem<< og følges her af *hārāʕāʰ hazzōˀt lānû* >>dette onde til os.<< Det er sikkert talesprog, og lignende formuleringer findes i v 8 og 12. >>Dette onde<< bruges her enten om en forfærdelig hændelse i naturen (en voldsom storm) eller om faren for forlis, og dermed den truende ulykke.}<< 
+//7 hvem der er skyld i at vi er i havsnød.{E: Vendingen *bᵊšellᵊmî* betyder ordret >>i som til hvem<< og følges her af *hārāʕāʰ hazzōˀt lānû* >>dette onde til os.<< Det er sikkert talesprog, og lignende formuleringer findes i v. 8 og 12. >>Dette onde<< bruges her enten om en forfærdelig hændelse i naturen (en voldsom storm) eller om faren for forlis, og dermed den truende ulykke.}<< 
 //4 De kastede lod, 
 //5 og loddet faldt på Jonas.
 //4 v8 Da sagde de til ham: 
@@ -60,7 +60,7 @@
 //8 og hvilket folk er du af?<<
 //5 v9 Han sagde til dem: 
 //6 >>Jeg er hebræer, 
-//7 og jeg tilbeder gudfrygtigt {E: Verbet *YR?* >>frygte<< bruges både om gudsfrygten i v 9 og om angst i v 10. De to forskellige betydninger er brugt som et ironisk stilmiddel, for verbet antyder at den gudfrygtige burde frygte det værste, mens de bange sømænd ender med at handle gudfrygtigt.} HERREN, himlens Gud, 
+//7 og jeg tilbeder gudfrygtigt {E: Verbet *yrʔ* >>frygte<< bruges både om gudsfrygten i v. 9 og om angst i v. 10. De to forskellige betydninger er brugt som et ironisk stilmiddel, for verbet antyder at den gudfrygtige burde frygte det værste, mens de bange sømænd ender med at handle gudfrygtigt.} HERREN, himlens Gud, 
 //8 som har skabt havet og det tørre land.<< 
 //2 v10 Da blev mændene grebet af stor frygt, 
 //6 og de sagde til ham: 

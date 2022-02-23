@@ -2,7 +2,7 @@
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.02.2022>!!
+!!<Dato for denne version: 23.02.2022>!!
 
 ===Jonas’ bog, kapitel 4===
 ==Jonas’ klage og Guds irettesættelse af ham ==
@@ -11,7 +11,7 @@
 //2 v2 Han bad til HERREN 
 //2 og sagde: 
 //3 >>Åh, HERRE, 
-//5 var dette ikke min begrundelse {E: *dāvār* har kernebetydningen >ord, begivenhed< og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.} 
+//5 var dette ikke min begrundelse {E: *dāvār* har kernebetydningen >>ord, begivenhed<< og må gengives idiomatisk ud fra kontekst. Her er det Jonas motivation for at flygte som ikke tidligere er blevet citeret i ord.} 
 //7 så længe jeg var på min egen jord? 
 //6 Derfor tog jeg af sted
 //8 for at flygte til Tarshish, 
