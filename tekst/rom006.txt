@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 17.02.2022>!!
+!!<Dato for denne version: 23.02.2022>!!
 
 ===Paulus' Brev til Romerne, kapitel 6===
 
@@ -15,3 +15,10 @@ v8 Men dersom vi er døde med Kristus, tror vi at vi også skal leve med ham
 v9 fordi vi ved at Kristus, efter at være oprejst fra de døde, ikke mere dør; døden hersker ikke mere over ham.
 v10 For sin død døde han én gang for alle for synden; men sit liv lever han for Gud.
 v11 Således skal også I anse jer selv for døde for synden, men levende for Gud i Kristus Jesus.
+
+
+v19 Jeg taler på menneskelig vis på grund af jeres køds skrøbelighed. For ligesom I stillede jeres lemmer til rådighed som trælle for urenheden og lovløsheden til lovløshed,{T: Det vil sige: Så det fører til lovløshed.} således skal I nu stille jeres lemmer til rådighed som trælle for retfærdigheden til helliggørelse!
+v20 For da I var syndens trælle, var I frie over for retfærdigheden.
+v21 Hvilken slags frugt havde I da dengang? Ting som I nu skammer jer over; det de fører til, er jo død.
+v22 Men nu da I er blevet frigjorte fra synden og er blevet trælle for Gud, har I jeres frugt i helliggørelse, og det fører til evigt liv;
+v23 for syndens løn er død, men Guds nådegave er et evigt liv i Kristus Jesus, vor Herre.
