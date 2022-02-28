@@ -10,6 +10,7 @@ $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
 $chap['job']      = [19,38];
 $chap['sl']       = range(1,150);
+$chap['ordsp']    = [3];
 $chap['præd']     = [8];
 $chap['es']       = range(1,66);
 $chap['jer']      = [1, 2, 7, 9, 18, 23];
@@ -41,7 +42,7 @@ $chap['hebr']     = [1,8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4,5];
 $chap['2pet']     = [1];
-$chap['1joh']     = [1,3,4,5];
+$chap['1joh']     = range(1,5);
 $chap['åb']       = [7];
 
 $total_chap_ot = 929;
@@ -60,6 +61,7 @@ $title['2sam']    = 'Anden Samuelsbog';
 $title['2kong']   = 'Anden Kongebog';
 $title['job']     = 'Jobs Bog';
 $title['sl']      = 'Salmernes Bog';
+$title['ordsp']   = 'Ordsprogenes Bog';
 $title['præd']    = 'Prædikerens Bog';
 $title['es']      = 'Esajas&rsquo; Bog';
 $title['jer']     = 'Jeremias&rsquo; Bog';
@@ -113,6 +115,7 @@ $abbrev['2sam'] = '2 Sam';
 $abbrev['2kong']= '2 Kong';
 $abbrev['job']  = 'Job';
 $abbrev['sl']   = 'Sl';
+$abbrev['ordsp'] = 'Ordsp';
 $abbrev['præd'] = 'Præd';
 $abbrev['es']   = 'Es';
 $abbrev['jer']  = 'Jer';
@@ -168,6 +171,7 @@ for ($k=136; $k<=150; ++$k)
     $style['sl'][$k] = 'btn-info';
 $style['sl'][119] = 'btn-info';
 
+$style['ordsp']   = 'btn-secondary';
 $style['præd']    = 'btn-secondary';
 
 $style['es']      = [ 1 => 'btn-success',

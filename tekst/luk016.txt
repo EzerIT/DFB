@@ -2,9 +2,21 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Dato for denne version: 28.02.2022>!!
 
 ===Lukasevangeliet, kapitel 16===
+
+v1 Men han sagde også til disciplene: >>Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.
+v2 Han kaldte på ham og sagde til ham: >Hvad er det jeg hører om dig? Aflæg regnskab for din forvaltning, for du kan ikke længere være godsforvalter.<
+v3 Men godsforvalteren sagde ved sig selv: >Hvad skal jeg gøre når nu min herre tager forvaltningen fra mig? Grave har jeg ikke kræfter til, tigge skammer jeg mig ved.
+v4 Nu ved jeg hvad jeg vil gøre for at de skal modtage mig i deres huse, når jeg bliver sat fra forvaltningen.<
+v5 Han kaldte hver enkelt af sin herres skyldnere til sig og sagde til den første: >Hvor meget skylder du min herre?<
+v6 Han sagde: >100 ankre{T: Det græske ord er et mål for flydende varer svarende til 36,4 liter.} olie.< Han sagde til ham: >Tag dit gældsbrev, og sæt dig hurtigt ned og skriv 50!<
+v7 Derefter sagde han til en anden: >Men du, hvor meget skylder du?< Han sagde: >100 mål{T: Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.} hvede.< Han siger til ham: >Tag dit gældsbrev og skriv 80!<
+v8 Herren roste den uærlige godsforvalter fordi han havde handlet klogt; for denne verdens{T: Det græske ord er udtryk for denne (gudløse) tidsalder.} børn er klogere end lysets børn over for deres egen slægt.
+v9 Jeg siger jer: Skaf jer venner ved hjælp af uretfærdighedens mammon for at de, når det er forbi med den, må modtage jer i de evige boliger.
+
+
 
 v19 Der var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.
 v20 Men en fattig mand ved navn Lazarus lå{T: Ordret: >>kastet hen<<.} ved hans port og var fuld af sår
