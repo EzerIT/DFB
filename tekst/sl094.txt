@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 28.02.2022>!!
 
 ===Salme 94===
 
@@ -38,7 +38,7 @@ og Jakobs Gud bemærker det ikke.<<
 ==Bebrejdelse mod de onde==
 v8 Vær fornuftige, I tåber blandt folket!
 
-Og I dårer, hvornår vil I blive kloge?
+Og I tåber, hvornår vil I blive kloge?
 
 v9 Han som planter øre, mon han ikke skulle høre?
 

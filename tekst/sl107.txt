@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 28.02.2022>!!
 
 ===Salme 107{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 106 i stedet være indledning til Sl 107.}===
 
@@ -45,7 +45,7 @@ v9 for han har tilfredsstillet{T: Ordret: >>mættet<<.} en tørstig sjæl
 og har fyldt en sulten sjæl med godt.
 
 ==Gud frelste fra fangehullet==
-v10 De{E: Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: >>Nogle var …<<, v17: >>Andre blev dårer …<<, v23: >>Andre drog ud …<<.} sad i mørke og i dødsskygge,{E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.}
+v10 De{E: Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: >>Nogle var …<<, v17: >>Andre blev tåber …<<, v23: >>Andre drog ud …<<.} sad i mørke og i dødsskygge,{E: *ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwæt* (>>død<<). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.}
 
 fanger i elendighed og jern,
 
@@ -74,7 +74,7 @@ v16 for han har knust kobber{E: Ordet: *nᵊḥōšet* oversættes både ved: >>
 og hugget jernslåer af.
 
 ==Gud frelste fra sygdom==
-v17 Dårer{T: Se note til v10.} var de på grund af deres overtrædelser{E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: >>De var dårer ved deres overtrædelser<<. Fortolkere har foreslået at rette: *ʔᵉwilîm* (>>dårer<<) til enten: *ʔumlālîm*: >>hensygnende<< (>>De sygnede hen på grund af deres overtrædelser<<) eller: * ḥôlîm*: >>syge<< (>>de blev syge …<<).}
+v17 Tåber{T: Se note til v10.} var de på grund af deres overtrædelser{E: Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: >>De var tåber ved deres overtrædelser<<. Fortolkere har foreslået at rette: *ʔᵉwilîm* (>>tåber<<) til enten: *ʔumlālîm*: >>hensygnende<< (>>De sygnede hen på grund af deres overtrædelser<<) eller: * ḥôlîm*: >>syge<< (>>de blev syge …<<).}
 
 og på grund af deres synder blev de plaget.
 
