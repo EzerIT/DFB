@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 23.02.2022>!!
+!!<Dato for denne version: 11.03.2022>!!
 
 ===Lukasevangeliet, kapitel 19===
 
@@ -16,3 +16,16 @@ v7 Da de så det, knurrede de alle og sagde: >>Han er gået ind for at være gæ
 v8 Men Zakæus stod frem og sagde til Herren: >>Se, Herre! Halvdelen af min ejendom giver jeg de fattige; og hvis jeg har presset noget af nogen, giver jeg det firdobbelt igen.<<
 v9 Men Jesus sagde til ham: >>I dag er frelsen kommet til dette hus, for også han er en Abrahams søn;
 v10 for Menneskesønnen er kommet for at opsøge og frelse det fortabte.<<
+
+
+
+v41 Da han kom nærmere og så byen, græd han over den
+v42 og sagde: >>Vidste dog du på denne din dag, ja du, hvad der tjener til din fred! Men nu er det skjult for dine øjne.
+v43 For der skal komme dage over dig hvor dine fjender skal kaste en vold{T: Egentlig: >>mur af palisader<<.} op omkring dig og omringe dig og trænge dig fra alle sider;
+v44 og de skal jævne dig med jorden og dine børn i dig og ikke lade sten på sten tilbage i dig fordi du ikke kendte din besøgelsestid.<<
+
+v45 Han gik ind i helligdommen og begyndte at drive sælgerne ud
+v46 og sagde til dem: >>Der er skrevet: For mit hus skal være et bedehus; men I har gjort det til en røverkule.<<
+
+v47 Han underviste dagligt i helligdommen; men ypperstepræsterne og de skriftkloge og de fremstående i folket søgte at rydde ham af vejen.
+v48 Men de fandt ikke ud af hvad de skulle gøre, for hele folket hang ved ham og hørte på ham.{T: Ordret: >>lyttende<<}

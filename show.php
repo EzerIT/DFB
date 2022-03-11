@@ -229,13 +229,14 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
                 $('.ref1, .explain').hide();
             <?php endif; ?>
 
-            <?php if ($_SESSION['oneline']=='on'): ?>
+            <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
                 $('.paragraph').css('display','inline');
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
             <?php if ($_SESSION['linespace']=='on'): ?>
                 $('.paragraph').css('line-height','2');
+                $('.indent').css('line-height','2');
             <?php endif; ?>
 
          <?php if ($_SESSION['showfna']=='on'): ?>

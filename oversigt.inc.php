@@ -3,12 +3,12 @@
 $chap['1mos']     = [3,8,9,11,12,32,50];
 $chap['2mos']     = range(1,40);
 $chap['4mos']     = range(1,36);
-$chap['5mos']     = [8,10,18,30];
+$chap['5mos']     = [6,8,10,18,30];
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [19,38];
+$chap['job']      = [1,2,19,38];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -162,7 +162,12 @@ $style['dom']     = 'btn-success';
 $style['ruth']    = 'btn-success';
 $style['2sam']    = 'btn-secondary';
 $style['2kong']   = 'btn-secondary';
-$style['job']     = 'btn-secondary';
+
+$style['job']     = array();
+for ($k=1; $k<=2; ++$k)
+    $style['job'][$k]  = 'btn-info';
+for ($k=3; $k<=42; ++$k)
+    $style['job'][$k] = 'btn-secondary';
 
 $style['sl'] = array();
 for ($k=1; $k<=135; ++$k)
