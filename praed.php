@@ -412,53 +412,52 @@ $lessons1 = [
     56 => null,
 
     // 26. søndag efter trinitatis
-    57 => null,
-
-    // 27. søndag efter trinitatis
-    58 => null,
+    57 => [ ref_refh("præd",8,9,15),
+            ref_refg("kol",3,12,17),
+            ref_refg("matt",13,24,30) ."<br>eller ". ref_refg("matt",13,44,52) ],
 
     // Sidste søndag i kirkeåret
-    59 => [ ref_refh('es',65,17,19),
+    58 => [ ref_refh('es',65,17,19),
             ref_refg('2thess',2,13,17),
             ref_refg('matt',25,31,46) ],
 
     // 1. søndag i advent
-    60 => [ ref_refh('sl',24) ."<br>eller ". ref_refh('sl',100),
+    59 => [ ref_refh('sl',24) ."<br>eller ". ref_refh('sl',100),
             ref_refg('rom',13,11,14),
             ref_refg('matt',21,1,9) ],
 
     // 2. søndag i advent
-    61 => [ ref_refh('es',11,1,10),
+    60 => [ ref_refh('es',11,1,10),
             ref_refg('rom',15,4,7),
             ref_refg('luk',21,25,36) ],
 
     // 3. søndag i advent
-    62 => [ ref_refh('es',35),
+    61 => [ ref_refh('es',35),
             ref_refg('1kor',4,1,5),
             ref_refg('matt',11,2,10) ],
 
     // 4. søndag i advent
-    63 => [ ref_refh('es',52,7,10),
+    62 => [ ref_refh('es',52,7,10),
             ref_refg('fil',4,4,7),
             ref_refg('joh',1,19,28) ],
 
     // Juleaften
-    64 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
+    63 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
             "",
             ref_refg("luk",2,1,14) ."<br>eller ". ref_refg("matt",1,18,25) ],
 
     // Juledag
-    65 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
+    64 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
             ref_refg("hebr",1,1,5),
             ref_refg("luk",2,1,14) ],
 
     // Anden juledag / Sankt Stefans dag
-    66 => [ ref_refh("jer",1,17,19),
+    65 => [ ref_refh("jer",1,17,19),
             ref_refg("apg",6,8,14) ."<br>og ". ref_refg("apg",7,54,60),
             ref_refg("matt",23,34,39) ],
 
     // Julesøndag
-    67 => [ ref_refh("es",63,7,9),
+    66 => [ ref_refh("es",63,7,9),
             ref_refg("gal",4,4,7),
             ref_refg("luk",2,25,40) ],
 
@@ -492,7 +491,7 @@ $lessons1 = [
                   <?php
                   $holidays = new Holiday(2022);
 
-                  for ($hn=60; $hn<=67; ++$hn ) {
+                  for ($hn=59; $hn<=66; ++$hn ) {
                       echo "<tr>\n";
                       echo make_holiday($holidays,$hn),"\n";
 
@@ -537,7 +536,7 @@ $lessons1 = [
                   echo "</tr>\n";
 
 
-                  for ($hn=53; $hn<=59; ++$hn ) {
+                  for ($hn=53; $hn<=58; ++$hn ) {
                       echo "<tr>\n";
                       echo make_holiday($holidays,$hn),"\n";
 

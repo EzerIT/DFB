@@ -229,17 +229,17 @@ class Holiday {
                 return $this->get_easter_with_offset(56);
             case 32: case 33: case 34: case 35: case 36: case 37: case 38: case 39: case 40: case 41:
             case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49: case 50: case 51:
-            case 52: case 53: case 54: case 55: case 56: case 57: case 58:
+            case 52: case 53: case 54: case 55: case 56: case 57:
                 return $this->get_sunday_after_trinity($hn-31);
-            case 59: case 60: case 61: case 62: case 63:
-                return $this->get_advent($hn-59);
-            case 64:
+            case 58: case 59: case 60: case 61: case 62:
+                return $this->get_advent($hn-58);
+            case 63:
                 return $this->get_christmas_eve();
-            case 65:
+            case 64:
                 return $this->get_christmas_day();
-            case 66:
+            case 65:
                 return $this->get_st_stephens_day();
-            case 67:
+            case 66:
                 return $this->get_christmas_sunday();
             default:
                 return null;
@@ -309,24 +309,24 @@ class Holiday {
                 return "Trinitatis søndag";
             case 32: case 33: case 34: case 35: case 36: case 37: case 38: case 39: case 40: case 41:
             case 42: case 43: case 44: case 45: case 46: case 47: case 48: case 49: case 50: case 51:
-            case 52: case 53: case 54: case 55: case 56: case 57: case 58:
+            case 52: case 53: case 54: case 55: case 56: case 57:
                 $n = $hn-31;
                 return "$n. søndag efter trinitatis";
-            case 59:
+            case 58:
                 return "Sidste søndag i kirkeåret";
+            case 59:
             case 60:
             case 61:
             case 62:
-            case 63:
-                $n = $hn-59;
+                $n = $hn-58;
                 return "$n. søndag i advent";
-            case 64:
+            case 63:
                 return "Juleaften";
-            case 65:
+            case 64:
                 return "Juledag";
-            case 66:
+            case 65:
                 return "Anden juledag / Sankt Stefans dag";
-            case 67:
+            case 66:
                 return "Julesøndag";
 
             case 99:
