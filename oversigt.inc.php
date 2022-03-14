@@ -193,7 +193,8 @@ $style['jer']     = [ 1  => 'btn-success',
                       2  => 'btn-success', 
                       7  => 'btn-success', 
                       9  => 'btn-secondary', 
-                      18 => 'btn-secondary'];
+                      18 => 'btn-secondary',
+                      23 => 'btn-secondary'];
 
 $style['ez']      = 'btn-secondary';
 $style['obad']    = 'btn-info';
