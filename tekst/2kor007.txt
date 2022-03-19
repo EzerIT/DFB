@@ -2,12 +2,13 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Dato for denne version: 19.03.2022>!!
 === Paulus' Andet Brev til Korintherne, kapitel 7 ===
 
-==Efter nogle hjertelige ord om sit forhold til læserne, 2-4, udtaler Paulus sin glæde over de efterretninger, som Titus har bragt om virkningerne af hans forrige brev, 5-7, at de lod sig bevæge til omvendelse, så at brevets hensigt blev nået, 8-12. Derfor er han nu trøstet og glæder sig med Titus over deres lydighed og alvor, 13-16.==
+==Efter nogle hjertelige ord om sit forhold til læserne, 1-4, udtaler Paulus sin glæde over de efterretninger, som Titus har bragt om virkningerne af hans forrige brev, 5-7, at de lod sig bevæge til omvendelse, så at brevets hensigt blev nået, 8-12. Derfor er han nu trøstet og glæder sig med Titus over deres lydighed og alvor, 13-16.==
 
 
+v1 Da vi altså har disse løfter, I elskede, så lad os rense os selv fra al besmittelse af kødet og ånden, så vi fuldfører hellighed i gudsfrygt!
 
 v2 Giv os plads; ingen har vi gjort uret, ingen ødelagt, ingen bedraget.
 v3 Jeg siger det ikke for at fælde dom; jeg har jo sagt tidligere, at I er i vores hjerter, så at vi dør sammen og lever sammen.
