@@ -23,7 +23,7 @@ makemenus(0);
             Bible</a>.</p>
 
             <p>Foreløbig er det kun nogle få kapitler der foreligger i mere eller mindre færdiggjort
-            grad. Forlægget har for det Gamle Testamentes vedkommende været den danske oversættelse
+            grad. Forlægget har for det meste af det Gamle Testamentes vedkommende været den danske oversættelse
             fra 1871, som er blevet moderniseret og opdateret med nye resultater fra bibelforskningen.
             Det Nye Testamente er blevet til ud fra den autoriserede oversættelse fra 1907
             eller direkte fra grundteksten.</p>
@@ -73,7 +73,7 @@ makemenus(0);
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
  var addy6668 = 'claus' + '&#64;';
- addy6668 = addy6668 + 'ez&#101;r' + '&#46;' + 'd&#107;';
+ addy6668 = addy6668 + 'tond&#101;r' + 'ing&#46;' + 'd&#107;';
  document.getElementById('cloak6668').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6668 + '\'>' +addy6668+'<\/a>';
  //-->
  </script>) eller Nicolai Winther-Nielsen (<span id="cloak6663">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script>

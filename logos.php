@@ -72,7 +72,7 @@ makemenus(4);
               <img class="img-fluid" style="width: 100%; margin-top: 0px; margin-bottom: 10px" src="logos/logos2.png" alt="">
 
               <p class="card-text">Klik på <em>Build book.</em> Bogen bliver nu lagt ind i Logos
-              Bible Software. Processen tager et par minutter.</p>
+              Bible Software. Processen tager et par minutter. (Under processen oprettes en log-fil, som vil indeholde nogle advarsler om »duplicate Milestone«. Disse advarsler kan du ignorere.)</p>
 
               <p class="card-text">Du vil fremover kunne finde bogen i dit Logos-bibliotek under navnet »DA1907«.</p>
               
