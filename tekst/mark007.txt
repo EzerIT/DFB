@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Dato for denne version: 21.03.2022>!!
 
 ===Markusevangeliet, kapitel 7===
 
@@ -11,30 +11,4 @@ v1 Og farisæerne og nogle af de skriftlærde{N: Skriftlærd}, der var kommet fr
 
 v24 Og han rejste sig og gik derfra til egnene ved Tyrus og Sidon. Og han gik ind i et hus og ville ikke, at nogen skulle vide det, og han kunne alligevel ikke være skjult; v25 men en kvinde, hvis lille datter havde en uren ånd, havde hørt om ham og kom straks ind og faldt ned for hans fødder; v26 (men kvinden var græsk, en kvinde af syrisk-fønikisk afstamning), og hun bad ham om, at han ville uddrive den onde ånd af hendes datter. v27 Og han sagde til hende: >>Lad først børnene blive mætte; for det er ikke smukt at tage børnenes brød og kaste det for de små hunde.<< v28 Men hun svarede og sagde til ham: >>Jo, herre! Også de små hunde æder under bordet af børnenes smuler.<< v29 Og han sagde til hende: >>På grund af det, du sagde, så gå bort; den onde ånd er faret ud af din datter.<< v30 Og hun gik hjem til sit hus og fandt barnet liggende på sengen og den onde ånd faret ud.
 
-v31 Og da han igen gik fra egnene ved Tyrus, kom han over Sidon midt igennem Dekapolis’ egne til Galilæas sø. v31 Og de kom til ham med en døv, der også havde svært ved at tale, og bad ham om, at han ville lægge hånden på ham. v32 Og han tog ham til side, væk fra folkemængden, og lagde sine fingre i hans ører og spyttede og rørte ved hans tunge v34 og så op mod himlen, sukkede og sagde til ham: >>*Effata!*<< Det betyder: Luk dig op! v35 Og hans ører blev åbnet, og med det samme løstes hans tunges bånd, og han talte rigtigt. v36 Og han befalede dem, at de ikke måtte sige det til nogen; men jo mere han befalede det, desto mere fortalte de det. v37 Og de blev umådeligt forbavsede og sagde: >>Han har gjort alle ting vel, for han får både de døve til at høre og de stumme til at tale.<<
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+v31 Da han igen gik fra området ved Tyrus, kom han gennem Sidon til Galilæas sø midt i Dekapolis’ område. v32 De bragte en døv, der også havde svært ved at tale, til ham, og de bad ham om at lægge hånden på ham. v33 Han tog ham bort fra skaren så de var alene, og han stak sine fingre i hans ører, spyttede og rørte ved hans tunge v34 og idet han så op mod himlen, sukkede han og sagde til ham: >>Effata!<< Det betyder: Luk dig op! v35 Hans ører blev åbnet, og straks blev hans tunges bånd løst, og han talte rigtigt. v36 Han befalede dem at de ikke måtte sige det til nogen; men jo mere han befalede det, jo mere forkyndte de det. v37 De var over al måde ude af sig selv af forundring og sagde: >>Han har gjort alt godt, og han gør at de døve hører, og de stumme taler.<<

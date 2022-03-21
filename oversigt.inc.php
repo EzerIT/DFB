@@ -8,7 +8,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,19,38];
+$chap['job']      = [1,2,5,19,38];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -25,7 +25,7 @@ $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
-$chap['luk']      = [1,2,5,7,11,14,15,16,17,19,21,24];
+$chap['luk']      = [1,2,5,7,11,14,15,16,17,18,19,21,24];
 $chap['joh']      = [1,2,3,4,6,10,14,15,16,20];
 $chap['apg']      = [1,2,6,7,10];
 $chap['gal']      = range(1,6);

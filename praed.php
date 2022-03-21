@@ -347,10 +347,14 @@ $lessons1 = [
             ref_refg('luk',19,41,48) ],
 
     // 11. søndag efter trinitatis
-    42 => null,
+    42 => [ ref_refh('job',5,8,16),
+            ref_refg('1kor',15,1,10,'1 Kor 15,1-10a'),
+            ref_refg('luk',18,9,14) ],
 
     // 12. søndag efter trinitatis
-    43 => null,
+    43 => [ ref_refh('sl',115,1,9),
+            ref_refg('2kor',3,4,9),
+            ref_refg('mark',7,31,37) ],
 
     // 13. søndag efter trinitatis
     44 => null,
