@@ -370,6 +370,18 @@ echo<<<'END'
 \makeoddhead{ruled}{\scshape\leftmark}{}{\rightmark}
 \makeoddfoot{plain}{}{}{\thepage}
 
+\makeatletter
+\newcommand{\printmynotes}{ % Avoid outputting endnotes if there are none
+  \immediate\closeout\@notefile
+  \ifnum\filesize{\jobname.ent}>0
+  \printpagenotes*
+  \else
+  % reopen
+  \immediate\openout\@notefile=\jobname.ent
+  \fi
+}
+\makeatother
+
 \settocdepth{chapter}
 
 %%% Allow extra space between words %%%
@@ -423,7 +435,7 @@ foreach ($title as $bookabb => $tit) {
 
         echo '\chapter[' . $title[$bookabb] . ']{' . $title[$bookabb] . '}\setcounter{footnote}{0}\setcounter{pagenote}{0}\renewcommand{\bibbook}{'.$abbrev[$bookabb]."}\n";
         echo $text;
-        echo "\\printpagenotes*\n";
+        echo "\\printmynotes\n";
     }
 }
 
