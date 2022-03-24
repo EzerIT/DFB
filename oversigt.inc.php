@@ -43,7 +43,7 @@ $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4,5];
 $chap['2pet']     = [1];
 $chap['1joh']     = range(1,5);
-$chap['åb']       = [7];
+$chap['åb']       = range(1,22);
 
 $total_chap_ot = 929;
 $total_chap_nt = 260;
@@ -224,6 +224,6 @@ $style['jak']     = 'btn-secondary';
 $style['1pet']    = 'btn-secondary';
 $style['2pet']    = 'btn-secondary';
 $style['1joh']    = 'btn-secondary';
-$style['åb']      = 'btn-secondary';
+$style['åb']      = 'btn-info';
 
 

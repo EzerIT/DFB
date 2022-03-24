@@ -126,8 +126,18 @@ makemenus(0);
                     $curcount = &$otcount;
                 elseif ($key=='NT')
                     $curcount = &$ntcount;
-                else
-                    $curcount += count($chap[$key]);
+                else {
+                    $c = 0;
+                    if ($style[$key]=='btn-secondary')
+                        continue;
+                    if (is_array($style[$key])) {
+                        foreach ($chap[$key] as $ch)
+                            if ($style[$key][$ch]!='btn-secondary')
+                                ++$curcount;
+                    }
+                    else
+                        $curcount += count($chap[$key]);
+                }
             }
           ?>
           <p>GT: Vi har <?= $otcount ?> kapitler ud af <?= $total_chap_ot ?>.</p>
