@@ -357,7 +357,7 @@ $lessons1 = [
             ref_refg('mark',7,31,37) ],
 
     // 13. søndag efter trinitatis
-    44 => [ ref_refh('3mos',19,1,2,) ."<br>og ". ref_refh('3mos',19,9,18),
+    44 => [ ref_refh('3mos',19,1,2) ."<br>og ". ref_refh('3mos',19,9,18),
             ref_refg('gal',2,16,21),
             ref_refg('luk',10,23,37) ],
 
