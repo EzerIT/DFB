@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Dato for denne version: 05.04.2022>!!
 
 ===Esajas, kapitel 51===
 
@@ -20,11 +20,11 @@ v8 For møl skal æde dem som et stykke tøj, og orm skal æde dem som uld; men 
 v9 Vågn op, vågn op, klæd dig i styrke, du JHVHs arm! Vågn op som i gamle dage, i de tidligere slægter; er det ikke dig, der fældede Rahab, og der gennemborede dragen?
 v10 Er det ikke dig, der tørrede havet, den store afgrunds vande, ud? og dig, der gjorde havets dyb til en vej, så de løskøbte gik igennem?
 v11 Og JHVHs befriede skal vende tilbage og komme til Zion med frydesang, og der skal være evig glæde over deres hoved; de skal få fryd og glæde, suk og sorg skal flygte.
-v12 Det er mig, jeg er den, der trøster jer; hvem er da du, at du vil være bange for et menneske, der skal dø, og for et menneskebarn, der skal blive som græs?
-v13 og at du glemmer JHVH, din skaber, der spændte himlen ud og grundlagde jorden, og at du altid dagen lang er bange for undertrykkerens vrede?
-v14 Den underkuede skal hurtigt slippes løs og skal ikke dø og komme i graven, og han skal ikke mangle brød.
-v15 Og jeg er JHVH din Gud, der bringer havet i oprør, så dets bølger bruser; JHVH Zebaoth er hans navn.
-v16 Og jeg lagde mine ord i din mund og gemte dig under min hånds skygge for at fæstne himlene og grundfæste jorden og for at sige til Zion: >>Du er mit folk.<<
+v12 Jeg, jeg er den der trøster jer; hvem er da du at du frygter for et menneske{E: Den hebraiske tekst benytter et ord (*ʔᵉnôš*) der understreger menneskets svaghed og forgængelighed.} der skal dø, og for et menneskebarn der skal blive som græs?
+v13 Og at du glemmer JHVH, din skaber, der spænder himlen ud og grundlægger jorden, og at du konstant, dagen lang, frygter for undertrykkerens vrede når han sætter sig for at ødelægge: for hvor er undertrykkerens vrede?
+v14 En underkuet{T: Kan muligvis også oversættes: >>en lænket<<.} skal hurtigt slippes løs og skal ikke dø og komme i graven,{T: Ordret: >>ikke dø til graven<<.} og han skal ikke mangle brød.
+v15 Jeg er JHVH din Gud, der bringer havet i oprør så dets bølger bruser; JHVH, Hærskarers Gud, er hans navn.
+v16 Jeg har lagt mine ord i din mund og skjult dig under min hånds skygge for at spænde himlene ud og grundfæste jorden og for at sige til Zion: >>Du er mit folk.<<
 
 v17 Vågn op, vågn op, rejs dig, Jerusalem! du, der af JHVHs hånd har drukket hans vredes bæger; du har drukket, du har tømt beruselsens bæger.
 v18 Ingen af alle de børn, hun har født leder hende, og ingen af alle de børn, hun har opdraget, tager hende ved hånden.

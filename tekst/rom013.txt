@@ -2,9 +2,17 @@
 !!<Oversættelse: Trine Tøndering og Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 20.01.2022>!!
+!!<Dato for denne version: 05.04.2022>!!
 
 ===Paulus' Brev til Romerne, kapitel 13===
+
+v1 Enhver person skal underordne sig de indsatte{T: Ordret: >>overordnede<<.} øvrigheder, for der er ingen øvrighed undtagen af Gud, og de der er, er indsat af Gud,
+v2 så den som sætter sig op imod øvrigheden, modsætter sig Guds ordning; men de som modsætter sig, de vil få deres dom.
+v3 For de styrende er ikke til skræk for den gode gerning, men for den onde. Men vil du være uden frygt for øvrigheden? Så gør det gode, og du skal få ros af den.
+v4 For den er en Guds tjener, til gode for dig. Men hvis du gør det onde, så frygt; for den bærer ikke sværdet for intet; den er nemlig Guds tjener, en hævner til straf for den som øver det onde.
+v5 Derfor er det nødvendigt at underordne sig, ikke alene for straffens skyld, men også for samvittighedens.
+v6 Derfor betaler I jo også skatter; for de som vedholdende tager vare på netop dette, er Guds tjenere.
+v7 Betal alle hvad I skylder dem: den I skylder skat, skat; den I skylder told, told; den I skylder frygt, frygt; den I skylder ære, ære.{T: Ordret står ordene i bestemt form: >>skatten … tolden … frygten … æren<<.}
 
 v8 Skyld ikke nogen andet end det at elske hinanden, for den som elsker den anden, har opfyldt loven.
 v9 For det: >>Du må ikke begå ægteskabsbrud; du må ikke begå drab; du må ikke stjæle; du må ikke begære,<< og hvilket som helst andet bud sammenfattes i dette ord: >>Du skal elske din næste som dig selv.<<
