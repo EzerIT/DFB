@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 23.05.2021>!!
+!!<Dato for denne version: 29.04.2022>!!
 
 ===Fjerde Mosebog, kapitel 21===
 
@@ -12,12 +12,39 @@ v2 Da aflagde Israel et løfte til JHVH og sagde: >>Hvis du giver dette folk i m
 v3 JHVH hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.
 
 ==Israelitterne beklager sig atter og bliver bidt af slanger. De som ser hen til bronzeslangen, bliver raske.==
-v4 Så rejste de til bjerget Hor på vejen til Det Røde Hav for at drage uden om Edoms land. På vejen blev folket utålmodigt,{T: Det hebraiske >>folkets sjæl<< (GT 1871) kan vanskeligt gengives med >>folkesjælen<<, og alle oversættelser udelader derfor ordet. En mulig gengivelse, som tager hensyn til >>sjæl<<, kunne være >>folket tabte besindelsen<<.}
-v5 og folket talte imod Gud og imod Moses: >>Hvorfor førte I os ud af Egypten for at dø i ørkenen? For her er ingen brød og ingen vand, og vi er trætte af den elendige mad.<<
-v6 Da sendte JHVH giftige slanger ind blandt folket, og de bed folket, og en mængde af Israels folk{T: Den hebraiske tekst har ordret >>en mængde af folket fra Israel<<.} døde.
-v7 Da kom folket til Moses, og de sagde: >>Vi har syndet, for vi har talt imod JHVH og imod dig. Bed til JHVH at han vil tage slangerne fra os.<< Da bad Moses for folket,
-v8 og JHVH sagde til Moses: >>Lav en giftslange og sæt den på en stang. Enhver som er blevet bidt og ser på den, skal forblive i live.<<
-v9 Så lavede Moses en bronzeslange og satte den på en stang, og så skete der det, at når en slange havde bidt nogen, og han så hen på bronzeslangen, da forblev han i live.
+//0 v4 Så rejste de af sted fra bjerget Hor i retning af Sivhavet
+//2 for at drage uden om Edoms land.
+//1 På vejen tabte folket tålmodigheden,{E: Vendingen *wattiqṣar nefeš-hāʕām* betyder helt ordret >>folkets sjæl blev forkortet<< og er mere end bare lidt utilfredshed. Måske rammer begrebet >>sjæl<< her en betydning i retning af >>at tabe/miste besindelsen.<< Vendingen bruges om Guds utålmodighed med Israel i Dom 10,16.}
+//1 v5 og folket talte imod Gud og imod Moses {E: Præpositionen i *dabbēr bᵊ* >>meddele i<< har også betydning >>imod<< i 4 Mos 12,1.}
+//2 >>Hvorfor førte I os ud af Egypten
+//4 for at dø i ørkenen?
+//3 For her er ingen brød
+//5 og ingen vand,
+//4 og vi afskyr{E: Vendingen *wᵊnafšēnû qāṣāʰ bᵊ* >>vores sjæl føler afsky over<< bruger igen *nefeš* >>sjæl<< i en allusion til v 5.} den elendige mad.<<
+//1 v6 Da sendte HERREN giftige slanger ind blandt folket,
+//2 og de bed folket,
+//3 og en mængde af Israels folk{T: Den hebraiske tekst har ordret >>en mængde af folket fra Israel.<< } døde.
+//1 v7 Så kom folket til Moses,
+//2 og sagde:
+//3 >>Vi har syndet,
+//5 for vi har talt imod HERREN og imod dig.
+//4 Bed til HERREN
+//5 at han vil fjerne slangerne fra os.<<
+//1 Da bad Moses for folket,
+//2 v8 og HERREN sagde til Moses:
+//3 >>Lav en giftslange
+//5 og sæt den på en stang.
+//4 Der skal ske det at enhver som er blevet bidt
+//5 og ser på den,
+//6 skal forblive i live.<<
+//1 v9 Så lavede Moses en bronzeslange
+//2 og satte den på en stang,
+//3 og så skete der det
+//4 at når en slange havde bidt nogen,
+//5 og han så hen på bronzeslangen,
+//6 da forblev han i live.
+
+//0
 
 ==Beskrivelse af flere af israelitternes rejser.==
 
@@ -30,7 +57,7 @@ v15 og skråningerne op til bosættelsen ved Ar, der markerer grænsen ind til M
 v16 Derfra rejste de til Be’er. Det er den brønd som JHVH talte om til Moses: >>Saml folket, og jeg vil give dem vand.<<
 v17 Da sang Israel denne sang: >>Kom op, brønd! Syng om den.
 v18 Brønden som er gravet af stammelederne, kastet af de ædle blandt folket, med kongespir og herskerstave!<< Fra ørkenen rejste de til Mattana,
-v19 og fra Mattana til Nahaliel, fra Nahaliel til Bamot 
+v19 og fra Mattana til Nahaliel, fra Nahaliel til Bamot
 v20 og fra Bamot til den dal som er i Moabs land, mod Pisgas tinde, der skuer ud over ørkenen.
 
 ==Sihon vil ikke lade israelitterne rejse gennem sit rige og besejres af dem.==
