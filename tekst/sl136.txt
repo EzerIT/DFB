@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.04.2017>!!
+!!<Dato for denne version: 05.05.2022>!!
 
 ===Salme 136{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 135, som indledning til Sl 136.}===
 
@@ -9,7 +9,7 @@
 
 v1 Tak JHVH, for han er god,
 
-ja, hans nåde{N: nåde} varer til evig tid!
+ja,{E: Hebraisk *kî* oversættes oftest >>for/at<<, og det gælder også i første halvvers. I denne oversættelse tolkes andet halvvers igennem hele salmen som et omkvæd, der synges af et kor.} hans nåde{N: nåde} varer til evig tid!
 
 v2 Tak gudernes Gud,
 
@@ -24,7 +24,7 @@ v4 Ham som alene gør store undere,
 
 ja, hans nåde varer til evig tid;
 
-v5 ham som skabte himlen med indsigt,
+v5 ham som gjorde himlen med indsigt,
 
 ja, hans nåde varer til evig tid;
 
@@ -105,7 +105,7 @@ v24 og befriede os fra vore fjender,
 
 ja, hans nåde varer til evig tid.
 
-v25 Han giver føde til alt levende,{T: Ordret: >>alt kød<<.}
+v25 Han giver brød{T: Her er der tænkt på føde i almindelighed.} til alt kød,
 
 ja, hans nåde varer til evig tid!
 
