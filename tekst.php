@@ -77,8 +77,61 @@ makemenus(2);
             <img class="img-fluid" src="img/Community1-300.jpg" alt="">
             </div>
           </div>
+
+          <div class="card mt-4">
+            <h1 class="card-header bg-success text-light">Ord&shy;for&shy;kla&shy;ringer</h1>
+            <div class="card-body">
+                <p>Der findes for tiden følgende ord&shy;for&shy;kla&shy;ringer:</p>
+
+                <ul>
+                <?php
+                $d = dir("ordforkl");
+                $files = [];
+                while (false !== ($entry = $d->read()))
+                    if (substr($entry,-5)==='.html')
+                        $files[] = $entry;
+
+                $d->close();
+
+                sort($files);
+
+                foreach ($files as $f) {
+                    $link = strtoupper($f[0]) . substr($f,1,-5);
+                    echo "<li><a href=\"ordforklaring.php?ord=$link\">$link</a></li>";
+                }
+                ?>
+                </ul>
+            </div>
+          </div>
         </div>
 
+        <div class="col-lg-3 d-block d-lg-none">
+            <div class="card mt-4">
+                <h1 class="card-header bg-success text-light">Ord&shy;for&shy;kla&shy;ringer</h1>
+                <div class="card-body">
+                    <p>Der findes for tiden følgende ord&shy;for&shy;kla&shy;ringer:</p>
+
+                    <ul>
+                        <?php
+                        $d = dir("ordforkl");
+                        $files = [];
+                        while (false !== ($entry = $d->read()))
+                            if (substr($entry,-5)==='.html')
+                                $files[] = $entry;
+
+                        $d->close();
+
+                        sort($files);
+
+                        foreach ($files as $f) {
+                            $link = strtoupper($f[0]) . substr($f,1,-5);
+                            echo "<li><a href=\"ordforklaring.php?ord=$link\">$link</a></li>";
+                        }
+                        ?>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
       </div><!--row-->
     </div><!--container-->

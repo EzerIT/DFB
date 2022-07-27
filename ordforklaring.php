@@ -29,11 +29,11 @@ mb_internal_encoding('UTF-8');
                   <?php endif; ?>
               <?php endif; ?>
 
-              <a class="btn btn-secondary" href="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">Tilbage</a>
+              <a class="btn btn-secondary" href="#" onclick="window.history.go(-1)">Tilbage</a>
             </div>
           </div>
         </div>
-   
+
       </div><!--End of row-->
     </div><!--End of container-->
 <?php
