@@ -1,8 +1,8 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Mikkel Kølkær>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.07.2019>!!
+!!<Dato for denne version: 29.08.2022>!!
 ===Anden Mosebog, kapitel 1===
 
 ==Indledning: Israelitterne i Egypten==
@@ -10,18 +10,18 @@ v1 Og disse er navnene på Israels sønner som kom til Egypten; med Jakob kom en
 v2 Ruben, Simeon, Levi og Juda,
 v3 Issakar, Zebulon og Benjamin,
 v4 Dan og Naftali, Gad og Asher.
-v5 Alle personer{T: *nefeš* skal oftest oversættes: >>sjæl<<, men her er det betegnelse for: >>person<<.} som var udgået af Jakobs lænd, var halvfjerds personer; men Josef var{E: Der skal formodentlig underforstås et: >>allerede<<.} i Egypten.
+v5 Alle personer{T: *nefeš* skal oftest oversættes: >>sjæl<<, men her er det betegnelse for: >>person<<.} som var udgået af Jakobs lænd{E: *yārēx* (ordret: >>lår<<, >>hofte<<, >>side<<) skal her forstås som Jakobs efterkommere.}, var halvfjerds personer; men Josef var{E: Der skal formodentlig underforstås et: >>allerede<<.} i Egypten.
 v6 Josef døde, og alle hans brødre og hele denne slægt.
 v7 Men Israels børn var frugtbare og vrimlede og blev mange, og de blev uhyre{T: Ordret: >>meget, meget<<.} talrige, og landet blev fuldt af dem.
 
 ==Undertrykkelse ved tvangsarbejde – og dog stor frugtbarhed==
-v8 Nu kom der en ny konge over Egypten som ikke kendte Josef.
+v8 Nu kom{T: Ordret: >>rejste der sig<<} der en ny konge over Egypten som ikke kendte Josef.
 v9 Han sagde til sit folk: >>Se, Israels børns folk er flere{T: *rav min* kan både oversættes: >>større end<< og: >>flere end<<.} og mægtigere end vi.
-v10 Lad os handle klogt imod dem{T: Den hebraiske tekst har singularis (>>… imod det, så det …<<) om det israelitiske folk i alle versene 10-14} så de ikke skal blive endnu flere, så det kan ske, hvis der kommer krig, at de også slutter sig til vore fjender og fører krig imod os og drager op{T: Det hebraiske verbum: *ʕālāʰ* (ordret: >>stige op<<) bruges ofte som betegnelse for at drage til Israel eller Jerusalem. Farao talte ikke hebraisk, men forfatteren har formentlig brugt ordet for at angive at Farao dog kendte til Israels håb. Det hebraiske ord for at >>drage ud<< er: *yāṣāʔ*.} fra landet.<<
+v10 Kom, lad os handle klogt imod dem{T: Den hebraiske tekst har singularis (>>… imod det, så det …<<) om det israelitiske folk i alle versene 10-14} så de ikke skal blive endnu flere, så det kan ske, hvis der kommer krig, at de også slutter sig til vore fjender{E: Verbet *śnʔ* betyder >>hade<<, men bruges i participium om >>fjende<<.} og fører krig imod os og drager op{E: Det hebraiske verbum: *ʕālāʰ* (ordret: >>stige op<<) bruges ofte som betegnelse for at drage til Israel eller Jerusalem. Farao talte ikke hebraisk, men forfatteren har formentlig brugt ordet for at angive at Farao dog kendte til Israels ønske om at forlade Egypten og rejse til Kana’an. Det hebraiske ord for at >>drage ud<< er: *yāṣāʔ*.} fra landet.<<
 v11 Så satte de hoverifogeder over dem for at de skulle plage dem med deres tvangsarbejde; og man byggede forrådsbyer til Farao, nemlig Pitom og Ramses.{T: En mere korrekt gengivelse af navnet ville være: >>Ra’amses<<.}
-v12 Men jo mere de plagede dem, desto flere{T: Kan også oversættes: >>større<<.} blev de, og desto mere bredte de sig, og de frygtede for Israels børn.
+v12 Men jo mere de plagede dem, desto flere{T: Kan også oversættes: >>større<<.} blev de, og desto mere bredte de sig, og de frygtede for Israels børn.{E: ordret: >>for Israels børns ansigter<<. Men *mippᵊnê* (>>for … ansigt<<) bruges ofte som fast udtryk, hvor >>ansigt<< ikke specielt spiller nogen rolle.}
 v13 Egypterne{T: Ordret: >>Egypten<<.} tvang med mishandling Israels børn til at arbejde.
-v14 De gjorde dem deres liv surt med hårdt arbejde med ler og teglsten og med al slags arbejde på marken; alt det trællearbejde tvang de dem til med mishandling.
+v14 De gjorde deres liv surt med hårdt arbejde med ler og teglsten og med al slags arbejde på marken; alt det trællearbejde tvang de dem til med mishandling.
 
 ==Jordemødrenes indsats==
 v15 Egyptens konge sagde til de hebraiske jordemødre – af hvilke den enes navn var Shifra og den andens navn Pua – 
@@ -30,8 +30,8 @@ v17 Men jordemødrene frygtede Gud og gjorde ikke som Egyptens konge havde sagt 
 v18 Da kaldte Egyptens konge på jordemødrene og sagde til dem: >>Hvorfor har I gjort denne gerning så I lod drengene leve?<<
 v19 Men jordemødrene svarede Farao at de hebraiske kvinder ikke er som de egyptiske, >>for de er livskraftige; førend jordemoderen kommer til dem, har de født.<<
 v20 Gud gjorde vel imod jordemødrene, og folket blev stort, og de blev meget talrige.
-v21 Og fordi jordemødrene frygtede Gud, gav han dem familie.{T: *bayit* betyder ordret både >>hus<< og >>familie<<. Her er det det sidste der er tale om.}
+v21 Og fordi jordemødrene frygtede Gud, gav han dem familie.{E: *bayit* betyder ordret både >>hus<< og >>familie<<. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom..}
 
 ==Befaling om at drukne drengene==
-v22 Så bød Farao hele sit folk og sagde: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<
+v22 Så befalede Farao hele sit folk: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<
 
