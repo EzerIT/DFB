@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Mikkel Kølkær>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 29.08.2022>!!
+!!<Dato for denne version: 31.08.2022>!!
 ===Anden Mosebog, kapitel 1===
 
 ==Indledning: Israelitterne i Egypten==
@@ -26,12 +26,12 @@ v14 De gjorde deres liv surt med hårdt arbejde med ler og teglsten og med al sl
 ==Jordemødrenes indsats==
 v15 Egyptens konge sagde til de hebraiske jordemødre – af hvilke den enes navn var Shifra og den andens navn Pua – 
 v16 han sagde: >>Når I hjælper de hebraiske kvinder ved fødslen, så skal I se efter de to sten:{T: Det er omdiskuteret, hvad *hāʔovnāyim* betyder; om det (med en anden vokalisering, se nedenfor) skal opfattes som dualis af *ʔeven* (>>sten<<, altså: >>to sten<<) eller af *ʔōven*, der ellers kun optræder i Jer 18,3 (ligeledes i dualis), hvor det betegner pottemagerens drejeskive (med to stenskiver som i en kværn). Hvis ordet her skal afledes af *ʔōven*, betegner det her formodentlig et sæde som den fødende sad på. Disse >>fødesten<< er kendt fra både egyptiske relieffer og tekster. Masoreternes vokalisering tyder på at de har opfattet det som dualis af *ʔōven*. Hvis teksten havde været uvokaliseret – som den oprindelig var – ville man umiddelbart formodentlig have læst ordet som dualis af *ʔeven* (>>sten<<).} Hvis det er en søn, så dræb ham, og hvis det er en datter, så må hun leve.<<
-v17 Men jordemødrene frygtede Gud og gjorde ikke som Egyptens konge havde sagt til dem, men lod drengene leve.
+v17 Jordemødrene handlede gudfrygtigt og gjorde ikke som Egyptens konge havde sagt til dem, men lod drengene leve.
 v18 Da kaldte Egyptens konge på jordemødrene og sagde til dem: >>Hvorfor har I gjort denne gerning så I lod drengene leve?<<
 v19 Men jordemødrene svarede Farao at de hebraiske kvinder ikke er som de egyptiske, >>for de er livskraftige; førend jordemoderen kommer til dem, har de født.<<
 v20 Gud gjorde vel imod jordemødrene, og folket blev stort, og de blev meget talrige.
-v21 Og fordi jordemødrene frygtede Gud, gav han dem familie.{E: *bayit* betyder ordret både >>hus<< og >>familie<<. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom..}
+v21 Så, fordi jordemødrene frygtede Gud, gav han dem familier.{E: *bayit* betyder ordret både >>hus<< og >>familie<<. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom.}
 
 ==Befaling om at drukne drengene==
-v22 Så befalede Farao hele sit folk: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<
+v22 Så befalede Farao hele sit folk som følger: >>Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.<<
 
