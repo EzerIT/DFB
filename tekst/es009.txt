@@ -1,33 +1,30 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 20.12.2021>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 21.09.2022>!!
 
 ===Esajas' Bog, kapitel 9===
 
+v1 Det folk der vandrer i mørket, skal se et stort lys; de der bor i dødsskyggens{E: Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: >>dødsskygge<<, men ofte vokaliseres: *ṣalmut*, der skal oversættes: >>mørke<<.} land, over dem skal et lys skinne.
+v2 Du gør folket{E: Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: >>jubelen<< (*haggilā*) i stedet for: >>dets folk<< (*haggôy lôʔ*), der dog også kræver en tekstændring fra: *loʔ* (>>ikke<<) til: *lô* (>>dets/for det<<), der dog i alle tilfælde må forudsættes, også i denne oversættelse.} talrigt, for dem gør du glæden stor; de skal glæde sig for dit ansigt, som glæden er om høsten, ligesom man jubler når man fordeler bytte.
+v3 For åget der tynger det, og stangen over dets skulder,{T: Det hebraiske ord  betegner den øverste del af ryggen, hvor der typisk bliver slået.} dets slavefogeds stav brækker du som på Midjans dag.
+v4 For hver støvle der tramper i krigslarm, og hver kappe der er sølet til i blod, den skal brændes, være føde for ild.
+v5 For et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og man skal kalde ham Underfuld Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste.
+v6 På herredømmets storhed og på freden vil der ikke blive nogen ende for Davids trone og for hans rige, så han kan grundfæste det og understøtte det med ret og retfærdighed fra nu og til evig tid; Hærskarers{T: Tidligere oversat: >>Zebaot<<.} JHVHs nidkærhed{T: Det hebraiske ord   er betegnelse for jalousi og lidenskab.} skal gøre dette.
 
-==Esajas trøster det jødiske folk med løftet om evangeliets ord og om forløsningen gennem Messias, og han beskriver hans fødsel, person, virke og evige rige.==
-
-v1 Det folk der vandrer i mørket, skal se et stort lys; over dem der bor i dødsskyggens{E: Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: >>dødsskygge<<, men ofte vokaliseres: *ṣalmut*, der skal oversættes: >>mørke<<.} land, skal et lys skinne.
-v2 Du gør dets folk{E: Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: >>jubelen<< (*haggilā*) i stedet for: >>dets folk<< (*haggôy lô*).} talrigt, du gør glæden stor; de skal glæde sig for dit ansigt, ligesom glæden er om høsten, ligesom man jubler når man fordeler bytte,
-v3 for åget der tynger det, og stangen over dets ryg, dets slavefogeds stav, brækker du som på Midjans dag;
-v4 for hver støvle der tramper i krigstummel, og hver uniform der er sølet til i blod, skal brændes som føde for ild;
-v5 for et barn er født os, en søn er givet os, og herredømmet skal være på hans skulder, og man skal kalde ham Underfuld Rådgiver, Vældig Gud, Evighedsfader, Fredsfyrste.
-v6 Herredømmet bliver stort, og fred bliver uden ende over Davids trone og over hans rige så han kan grundfæste det og understøtte det ved ret og retfærdighed fra nu og til evig tid; Hærskarers HERRES brændende iver {T: Kan også oversættes: >>nidkærhed<<.} skal gøre dette.
-
-==Esajas forudsiger, hvordan filistrene og syrerne skal angribe og straffe Israels kongerige på grund af deres hovmod, hårdnakkethed og ugudelighed.==
-
-v7 Herren har sendt et ord mod Jakob, og det er slået ned i Israel.
-v8 Og hele folket skal høre det, Efraim og indbyggerne i Samaria, med deres hovmodighed og hjerters stolthed; de siger:
-v9 >>Murstenene er faldet, men vi vil bygge med kvadersten; morbærtræerne er hugget om, men vi vil sætte cedertræer i stedet!<<
-v10 Og JHVH skal rejse Rezins modstandere imod ham, og han vil ruste hans fjender.
-v11 Syrerne forfra og filistrene bagfra åd Israel i én mundfuld. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
-v12 Og folket har ikke omvendt sig til ham der slog det, og har ikke søgt JHVH Zebaoth.
-v13 Derfor vil JHVH hugge hoved og hale, palmegran og siv af Israel på én og samme dag.
-v14 Den gamle og den ansete, han er hovedet; men den profet der lærer løgn, han er halen.
-v15 Og dette folks førere forfører det, og de i folket der lader sig føre, er fortabt.
-v16 Derfor kan Herren ikke glæde sig over dets unge mænd og ikke forbarme sig over dets faderløse og over dets enker; for hver eneste er vanhellig og handler ondt, og hver en mund taler dumhed. Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
-v17 For ugudelighed brænder som en ild der fortærer torn og tidsler og antænder skovens tykninger, og de skal hvirvle højt op i røg.
-v18 Landet er sat i brand i JHVH Zebaoths vrede; og folket er som det der fortæres af ild, de skåner ikke hinanden.
-v19 Og man bider til højre og sulter alligevel, og man æder om sig til venstre og mættes ikke; enhver æder kødet af sin egen arm.
-v20 Manasse er imod Efraim og Efraim imod Manasse: Begge er sammen imod Juda.  Med alt dette har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt. 
+==Domsord mod det selvsikre folk==
+v7 Herren har sendt et ord mod Jakob, og det er faldet over Israel,
+v8 og hele folket skal lære det at kende, Efraim og Samarias indbyggere, der i hovmod og hjertets overmod siger:
+v9 >>Teglstenene er faldet, men vi vil bygge med kvadersten; morbærtræerne er fældet, men vi vil sætte cedertræer i stedet!<<
+v10 Men JHVH har rejst Resins fjender imod ham, og han vil hidse hans modstandere op.
+v11 Aram fra øst{T: Kan også oversættes: >>forfra<<.} og filistrene fra vest, {T: Kan også oversættes: >>bagfra<<.}  de fortærer Israel i én mundfuld. Trods det har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
+v12 Folket er ikke vendt om til ham der slog det, og har ikke søgt Hærskarers JHVH.
+v13 Derfor vil JHVH hugge hoved og hale af Israel, palmegren og siv på samme dag.
+v14 Gammel og anset, han er hovedet; men en profet der lærer løgn, han er halen.
+v15 Dette folks vejledere har forført det, og de der er blevet vejledt, er ført vild.
+v16 Derfor kan Herren ikke glæde sig over dets unge mænd og ikke forbarme sig over dets faderløse og dets enker; for enhver i det er gudløs og handler ondt, og hver mund taler tåbelighed. Trods det har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt.
+v17 For skændsel brænder som en ild, den fortærer tjørn og tidsel og antænder skovens tykninger, og de skal hvirvle op i røg.
+v18 Ved Hærskarers JHVHs vrede er landet sat i brand;{E: Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: >>blevet ødelagt<<.} og folket er som føde for ild, ingen skåner sin bror.
+v19 Man sluger i sig til højre, men sulter, og man æder til venstre, men mættes ikke; enhver æder kødet af sin arm,{E: Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* >>sin arm<< skal læses: *reʕô*: >>sin landsmand<<. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.}
+v20 Manasse mod Efraim og Efraim mod Manasse; de falder sammen over Juda.  Trods det har hans vrede ikke lagt sig, men hans hånd er stadig udstrakt. 
