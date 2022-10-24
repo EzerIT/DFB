@@ -2,66 +2,63 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 98===
 
 ==Overskrift==
-v1 En salme.
+//0 v1 En salme.
 
 ==Syng for JHVH!==
-Syng for JHVH en ny sang,
+//0 Syng for JHVH en ny sang,
 
-for han har gjort undere;
+//2 for han har gjort undere;
 
-hans højre hånd og hans hellige arm{T: Ordret: >>hans helligheds arm<<.}
+//3 hans højre hånd og hans hellige arm{T: Ordret: >>hans helligheds arm<<.}
 
 udøvede frelsen for ham.{T: Kan også oversættes: >>skaffede ham sejr<<. For forståelsens skyld er der her byttet om på linjerne. Egentlig: >>hans højre hånd udøvede frelsen for ham / og hans hellige arm<<.}
 
-v2 JHVH har kundgjort sin frelse,
+//1 v2 JHVH har kundgjort sin frelse,
 
-for folkenes øjne
+//3 for folkenes øjne
 
 har han åbenbaret sin retfærdighed.
 
-v3 Han har husket sin nåde
+//4 v3 Han har husket sin nåde
 
 og sin trofasthed{T: Kan også oversættes: >>sandhed<<} mod Israels hus.
 
-Alle jordens ender
+//2 Alle jordens ender
 
 har set vor Guds frelse.
 
 ==Bryd ud i jubel for JHVH!==
-v4 Bryd ud i fryderåd for JHVH, hele jorden!
+//0 v4 Bryd ud i fryderåd for JHVH,//1 hele jorden!
 
-Bryd ud i jubel, fryd jer, syng!
+//0 Bryd ud i jubel,//1 fryd jer,//1 syng!
 
-v5 Lovsyng JHVH til citer,
+//0 v5 Lovsyng JHVH til citer,
 
-til citer og høj sang,
+//2 til citer og høj sang,
 
-v6 til trompeter og hornklang;
+//1 v6 til trompeter og hornklang;
 
-bryd ud i fryderåb for kongens, JHVHs, ansigt!
+//0 bryd ud i fryderåb for kongens, JHVHs, ansigt!
 
 ==JHVH kommer!==
-v7 Havet og dets fylde skal larme,
+//1 v7 Havet og dets fylde skal larme,
 
-verden og de som bor i den!
+//4 verden og de som bor i den!
 
-v8 Strømme skal klappe i hænderne,{T: Ordret: >>skal klappe hånd<<.}
+//3 v8 Strømme skal klappe i hænderne,{T: Ordret: >>skal klappe hånd<<.}
 
-bjerge skal sammen juble
+//5 bjerge skal sammen juble
 
-v9 for JHVHs ansigt; for han kommer
+//4 v9 for JHVHs ansigt;//2 for han kommer
 
-for at dømme jorden.
+//4 for at dømme jorden.
 
-Han skal dømme verden med retfærdighed
+//3 Han skal dømme verden med retfærdighed
 
-og folkeslagene med retskaffenhed.
-
-
-
-
+//4 og folkeslagene med retskaffenhed.

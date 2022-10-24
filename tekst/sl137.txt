@@ -1,63 +1,62 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.06.2018>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 137===
 
 ==Nøden i eksilet==
-v1 Ved Babylons floder,{T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.} dér sad vi, og vi græd
+//0 v1 Ved Babylons floder,{T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.} //4 dér sad vi,//5 og vi græd
 
-når vi mindedes Zion.
+//6 når vi mindedes Zion.
 
-v2 I poplerne i landet{T: Ordret: >>i dets midte<<.}
+//3 v2 I poplerne i landet{T: Ordret: >>i dets midte<<.}
 
 hængte vi vore citere.
 
-v3 For dér krævede
+//5 v3 For dér krævede
 
 vore fangevogtere{T: Ordret: >>de som holdt os fangne<<.} at vi skulle synge,
 
-og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
+//7 og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
 
->>Syng for os
+//6 >>Syng for os
 
 af Zions sange!<<{E: *šîr* (>>sange<<) er egentlig singularis, men må opfattes kollektivt som: >>sange<<.}
 
-v4 Hvordan skulle vi synge JHVHs sang
+//4 v4 Hvordan skulle vi synge JHVHs sang
 
 på fremmed jord?
 
 ==Kærlighedserklæring til Jerusalem==
-v5 Hvis jeg glemmer dig, Jerusalem,
+//2 v5 Hvis jeg glemmer dig,//4 Jerusalem,
 
-gid min højre så må svigte;{E: Ordret: >>må glemme<<. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: >>gid du (Gud) så må glemme min højre<<. Oftest retter man nu verbet *tiškaḥ* (>>må glemme<<) til: *tikḥaš* eller: *tᵊkaḥēš*: >>gid … må skrumpe ind/lammes<<.}
+//3 gid min højre så må svigte;{E: Ordret: >>må glemme<<. Formuleringen er omdiskuteret. Den kan eventuelt også oversættes: >>gid du (Gud) så må glemme min højre<<. Oftest retter man nu verbet *tiškaḥ* (>>må glemme<<) til: *tikḥaš* eller: *tᵊkaḥēš*: >>gid … må skrumpe ind/lammes<<.}
 
-v6 gid min tunge må klæbe til min gane
+//3 v6 gid min tunge må klæbe til min gane
 
-hvis jeg ikke husker dig,
+//5 hvis jeg ikke husker dig,
 
-hvis jeg ikke ophøjer Jerusalem
+//4 hvis jeg ikke ophøjer Jerusalem
 
 over min højeste glæde.{T: Ordret: >>over min glædes hoved/tinde<<.}
 
 ==Straf over Edom og Babylon==
-v7 JHVHv, husk Edoms sønner
+//4 v7 JHVHv,//1 husk//3 Edoms sønner
 
 for Jerusalems dag,
 
-da de sagde:
+//4 da de sagde:
 
->>Riv ned, riv ned til dens grund.<<{T: Ordret: >>til grunden i den<<.}
+//5 >>Riv ned,//5 riv ned til dens grund.<<{T: Ordret: >>til grunden i den<<.}
 
-v8 Babylons datter, som skal ødelægges!{E: Kan også oversættes: >>du ødelagte<<. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (>>som skal ødelægges/er ødelagt<<) til: *haššādôdāʰ*: >>ødelæggersken/du ødelæggerske<<.}
+//2 v8 Babylons datter,//4 som skal ødelægges!{E: Kan også oversættes: >>du ødelagte<<. I sammenhængen venter man en beskrivelse af Babylons synd, hvorfor de fleste fortolkere og oversættere – med støtte i en enkelt gammel oversættelse – retter vokaliseringen: *haššᵊdûdāʰ* (>>som skal ødelægges/er ødelagt<<) til: *haššādôdāʰ*: >>ødelæggersken/du ødelæggerske<<.}
 
-Lykkelig den som gengælder dig
+//3 Lykkelig//4 den som gengælder dig
 
-din gerning som du gjorde mod os.
+din gerning//5 som du gjorde mod os.
 
-v9 Lykkelig den som griber og knuser
+//3 v9 Lykkelig//4 den som griber//5 og knuser
 
 dine børn mod klippen.
-
-

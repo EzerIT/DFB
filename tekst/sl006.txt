@@ -2,55 +2,56 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.02.2017>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 
 ===Salme 6{E: Salmen hører til den kristne kirkes syv bodssalmer (32; 38; 51; 102; 130; 143).}===
 
 ==Overskrift==
-v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}. Til strengespil. Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. Salme af David.
+//0 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}.//2 Til strengespil. //3 Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. //1Salme af David.
 
 ==Klage og bøn==
-v2 JHVHv! straf mig ikke i din vrede,
+//0 v2 JHVHv! //3straf mig ikke i din vrede,
 
-og tugt mig ikke i din harme!
+//4 og tugt mig ikke i din harme!
 
-v3 Vær mig nådig, JHVHv, for jeg er svag,
+//2 v3 Vær mig nådig, //4 JHVHv, //3 for jeg er svag,
 
-helbred mig, JHVHv, for jeg skælver{E: Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: >>sygner hen<<. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.} i mine knogler,
+//2 helbred mig, //6 JHVHv, //5 for jeg skælver{E: Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: >>sygner hen<<. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.} i mine knogler,
 
-v4 og min sjæl er meget forfærdet.
+//6 v4 og min sjæl er meget forfærdet.
 
-Men du, JHVHv! - hvor længe?
+//4 Men du, //6 JHVHv! //5 - hvor længe?
 
-v5 Vend tilbage{E: *šûvāʰ* (>>vend tilbage<<) kunne også opfattes adverbielt så v.5a skal oversættes: >>red atter, JHVHv, min sjæl<<}, JHVHv! red min sjæl,
+//3 v5 Vend tilbage{E: *šûvāʰ* (>>vend tilbage<<) kunne også opfattes adverbielt så v.5a skal oversættes: >>red atter, JHVHv, min sjæl<<},//4 JHVHv! //3 red min sjæl,
 
-frels mig på grund af din nåde{N: nåde}!
+//4 frels mig på grund af din nåde{N: nåde}!
 
-v6 For i døden er der ingen der husker dig,
+//6 v6 For i døden er der ingen der husker dig,
 
-hvem vil takke dig i dødsriget?
+//8 hvem vil takke dig //7 i dødsriget?
 
-v7 Jeg er udmattet af mit suk,
+//5 v7 Jeg er udmattet af mit suk,
 
-jeg væder hver nat min seng,
+//7 jeg væder hver nat min seng,
 
-med mine tårer gennembløder jeg mit leje.
+//8 med mine tårer gennembløder jeg mit leje.
 
-v8 Mit øje er sløvet af sorg,
+//6 v8 Mit øje er sløvet af sorg,
 
-det er blevet svækket på grund alle mine fjender.
+//7 det er blevet svækket på grund alle mine fjender.
 
 ==David glæder sig over, at Gud har hørt hans bøn==
 
-v9 Vig fra mig, alle I som udøver ondt!
+//1 v9 Vig fra mig, //4 alle I som udøver ondt!
 
-For JHVH har hørt min gråd{T:Ordret >>min gråds røst<<.}.
+//3 For JHVH har hørt min gråd{T:Ordret >>min gråds røst<<.}.
 
-v10 JHVH har hørt min indtrængende bøn,
+//4 v10 JHVH har hørt min indtrængende bøn,
 
-JHVH vil tage imod min bøn.
+//5 JHVH vil tage imod min bøn.
 
-v11 Alle mine fjender skal blive til skamme og forfærdes,
+//2 v11 Alle mine fjender skal blive til skamme //3 og forfærdes,
 
-i et nu skal de vige tilbage og blive til skamme.
+//2 i et nu skal de vige tilbage //2 og blive til skamme.

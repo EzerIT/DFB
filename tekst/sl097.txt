@@ -2,65 +2,64 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 97===
 
 ==Lovprisende indledning==
-v1 JHVH er konge! Jorden skal juble,
+//0 v1 JHVH er konge! //3 Jorden skal juble,
 
-mange øer skal glæde sig!
+//4 mange øer skal glæde sig!
 
-v2 Sky og uvejrsmørke er omkring ham,
+//2 v2 Sky og uvejrsmørke er omkring ham,
 
-retfærdighed og ret er hans trones grundvold.
+//5 retfærdighed og ret er hans trones grundvold.
 
-v3 Ild går foran ham{T: Ordret: >>foran hans ansigt<<}
+//4 v3 Ild går foran ham{T: Ordret: >>foran hans ansigt<<}
 
-og brænder hans fjender rundt omkring.
+//5 og brænder hans fjender rundt omkring.
 
 ==Gud har vist sin dømmende og frelsende magt==
-v4 Hans lyn oplyste verden,
+//3 v4 Hans lyn oplyste verden,
 
-jorden så det og bævede.
+//6 jorden så det og bævede.
 
-v5 Bjergene smeltede som voks foran JHVH,{T: Ordret: >>foran JHVHs ansigt<<. Tilsvarende i næste linje.}
+//4 v5 Bjergene smeltede som voks foran JHVH,{T: Ordret: >>foran JHVHs ansigt<<. Tilsvarende i næste linje.}
 
 foran hele jordens Herre.
 
-v6 Himlen forkyndte hans retfærdighed,
+//5 v6 Himlen forkyndte hans retfærdighed,
 
-og alle folkene så hans herlighed.
+//6 og alle folkene så hans herlighed.
 
 v7 Ydmyges skal alle de som dyrker et gudebillede,
 
-de som roser sig af tomme afguder.
+//3 de som roser sig af tomme afguder.
 
-Kast jer ned for ham, alle guder!
+//2 Kast jer ned for ham, alle guder!
 
 ==Guds dom og frelse==
-v8 Zion hørte det og blev glad,
+//0 v8 Zion hørte det og blev glad,
 
-og Judas døtre frydede sig
+//2 og Judas døtre frydede sig
 
-over dine domme, JHVHv!
+//3 over dine domme,//4 JHVHv!
 
-v9 For du, JHVHv, er den Højeste over hele jorden,
+//1 v9 For du,//4 JHVHv,//3 er den Højeste over hele jorden,
 
-du er højt ophøjet over alle guder.
+//2du er højt ophøjet over alle guder.
 
-v10 I, som elsker JHVH, skal hade det onde;
+//0 v10 I, som elsker JHVH,//2 skal hade det onde;
 
-han beskytter sine frommes liv,{T: Kan også oversættes: >>sjæle<<.}
+//4 han beskytter sine frommes liv,{T: Kan også oversættes: >>sjæle<<.}
 
-han vil redde dem fra de ugudeliges hånd.
+//3 han vil redde dem fra de ugudeliges hånd.
 
-v11 Lys er sået{E: Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: >>er strålet frem<< i stedet for: *zāruₐʕ* (>>er sået<<).} for den retfærdige
+//4 v11 Lys er sået{E: Meningen må være at lyset er beredt/forberedt for den retfærdige. Et enkelt håndskrift, der støttes af gamle oversættelser, har: *zāraḥ*: >>er strålet frem<< i stedet for: *zāruₐʕ* (>>er sået<<).} for den retfærdige
 
-og glæde for dem med oprigtigt hjerte.
+//5 og glæde for dem med oprigtigt hjerte.
 
-v12 Glæd jer, I retfærdige, i JHVH,
+//1 v12 Glæd jer,//4 I retfærdige,//3 i JHVH,
 
-og tak hans hellige navn!{E: Ordret: >>minde/ihukommelse<<. Men når der er tale om Gud, står det oftest som synonym for hans navn.}
-
-
+//2 og tak hans hellige navn!{E: Ordret: >>minde/ihukommelse<<. Men når der er tale om Gud, står det oftest som synonym for hans navn.}

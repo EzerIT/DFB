@@ -2,73 +2,75 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 11.02.2021>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 2===
 
 ==David profeterer om Messias' rige. Mennesker gør oprør imod JHVH og hans salvede, men det er forgæves og til deres egen ulykke==
 
-v1 Hvorfor er folkeslagene{T: *gôyim* oversættes ofte >>hedninger<< (også 1871), men parallellen viser at det her må opfattes bredere.} i oprør,
+//0 v1 Hvorfor er folkeslagene{T: *gôyim* oversættes ofte >>hedninger<< (også 1871), men parallellen viser at det her må opfattes bredere.} i oprør,
 
-og hvorfor{T: *lāmmāʰ* (>>hvorfor<<) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.} udtænker folkene tomhed?
+//6 og hvorfor{T: *lāmmāʰ* (>>hvorfor<<) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.} udtænker folkene tomhed?
 
-v2 Jordens konger rejser sig;
+//5 v2 Jordens konger rejser sig;
 
-fyrsterne rådslår sammen
+//6 fyrsterne rådslår sammen
 
 imod JHVH og imod hans salvede:
 
-v3 >>Lad os sønderrive deres lænker
+//7 v3 >>Lad os sønderrive deres lænker
 
-og kaste deres reb af os!<<
+//8 og kaste deres reb af os!<<
 
-v4 Han som troner i Himlen, ler;
+//5 v4 Han som troner i Himlen, //4 ler;
 
-JHVH spotter dem.
+//6 JHVH spotter dem.
 
-v5 Så vil han tale til dem i sin vrede;
+//5 v5 Så vil han tale til dem i sin vrede;
 
-forfærde dem ved sin harme:
+//7 forfærde dem ved sin harme:
 
-v6 >>Jeg har dog indsat min konge
+//6 v6 >>Jeg har dog indsat min konge
 
 over Zion, mit hellige bjerg.<<
 
 ==Guds salvede konge skal regere==
 
-v7 Jeg vil forkynde JHVHs dekret.
+//3 v7 Jeg vil forkynde JHVHs dekret.
 
-Han sagde til mig:
+//4 Han sagde til mig:
 
->>Du er min søn;
+//5 >>Du er min søn;
 
-jeg har født dig i dag.
+//7 jeg har født dig i dag.
 
-v8 Bed mig om det,
+//6 v8 Bed mig om det,
 
-så vil jeg give dig folkene som din arv;
+//7 så vil jeg give dig folkene som din arv;
 
-jordens yderste ender som din ejendom.
+//9 jordens yderste ender som din ejendom.
 
-v9 Du skal knuse dem med et jernscepter;
+//8 v9 Du skal knuse dem med et jernscepter;
 
-som en pottemagers lertøj skal du smadre dem.<<
+//9 som en pottemagers lertøj skal du smadre dem.<<
 
 
 ==Derfor formaner David til omvendelse og lydighed==
 
-v10 Og nu, I konger, vær kloge!
+//2 v10 Og nu, //4 I konger, //3 vær kloge!
 
-Lad jer belære, I jordens dommere!
+//3 Lad jer belære, //4 I jordens dommere!
 
-v11 Tjen JHVH med frygt;
+//3 v11 Tjen JHVH med frygt;
 
-fryd jer med bæven!
+//4 fryd jer med bæven!
 
-v12 Kys sønnen{E: Oftest flyttes nu ordene *naššᵊqû-var* (>>kys sønnen<<) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.} så han ikke bliver vred
+//3 v12 Kys sønnen{E: Oftest flyttes nu ordene *naššᵊqû-var* (>>kys sønnen<<) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.} //4 så han ikke bliver vred
 
-og I omkommer på vejen;
+//6 og I omkommer på vejen;
 
-for hans vrede optændes hastigt.
+//5 for hans vrede optændes hastigt.
 
-Salig enhver som søger tilflugt hos ham!
+//1 Salig enhver //2 som søger tilflugt hos ham!
+

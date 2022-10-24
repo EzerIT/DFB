@@ -2,62 +2,61 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 29.05.2018>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 46===
 
 ==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
+//0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}
 
-Af Koras sønner. Al-alamot.{E: Betydningen af dette udtryk er ukendt, egtl.: >>efter de unge kvinder/på unge kvinders vis<<. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet >>alamot<<.} En sang. 
+//3 Af Koras sønner. //2 Al-alamot.{E: Betydningen af dette udtryk er ukendt, egtl.: >>efter de unge kvinder/på unge kvinders vis<<. Udtrykket betyder muligvis at salmen skulle synges af sopranerne, eller at den skulle synges på samme melodi som en anden salme, der begyndte med ordet >>alamot<<.} //1 En sang. 
 
 ==Gud er tilflugt mod naturens luner==
-v2 Gud er for os tilflugt og værn,
+//0 v2 Gud er for os tilflugt og værn,
 
-nærværende{T: Ordret: >>forefundet<<.} som en hjælp i trængsler, ja, meget.
+nærværende{T: Ordret: >>forefundet<<.} //4 som en hjælp i trængsler, ja, meget.
 
-v3 Derfor vil vi ikke frygte, når jorden forandres,{T: Oversættes ofte: >>skælver, rystes<<, men det ville være eneste sted i GT at verbet har den betydning.}
+//3 v3 Derfor vil vi ikke frygte, //5 når jorden forandres,{T: Oversættes ofte: >>skælver, rystes<<, men det ville være eneste sted i GT at verbet har den betydning.}
 
-og bjergene vakler midt i havet,{T: Ordret: >>i havets hjerte<<. Andre oversætter: >>i havets dyb<<. Ordet *yammîm* er egentlig pluralis (>>have<<), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.}
+//6 og bjergene vakler midt i havet,{T: Ordret: >>i havets hjerte<<. Andre oversætter: >>i havets dyb<<. Ordet *yammîm* er egentlig pluralis (>>have<<), men er opfattet som singularis i suffikserne i v. 4. Pluralis er her udtryk for storheden.}
 
-v4 når dets vande buldrer og skummer,
+//4 v4 når dets vande buldrer //5 og skummer,
 
-når bjergene bæver for dets vælde. Sela{N: Sela}
+//5 når bjergene bæver for dets vælde. //6 Sela{N: Sela}
 
 ==Gud er tilflugt mod folkeslags angreb==
-v5 En flod, dens kanaler glæder Guds by,
+//2 v5 En flod, //3 dens kanaler glæder Guds by,
 
 den Højestes hellige bolig.{T: Ordret: >>boliger<<, men pluralis skal formodentlig understrege storheden og helligheden.}
 
-v6 Gud er i dens midte, den skal ikke rokkes,
+//4 v6 Gud er i dens midte, //6 den skal ikke rokkes,
 
-Gud vil hjælpe den når morgenen bryder frem.
+//5 Gud vil hjælpe den //8 når morgenen bryder frem.
 
-v7 Folkeslag{T: Kunne også oversættes: >>hedninger<, men det er der næppe tænkt på her.} buldrede, kongeriger vaklede,
+//7 v7 Folkeslag{T: Kunne også oversættes: >>hedninger<, men det er der næppe tænkt på her.} buldrede, //7 kongeriger vaklede,
 
-han lod sin røst lyde - jorden ryster.{T: Betydningen er usikker. Andre oversætter: >>smelter<<.}
+//6 han lod sin røst lyde - //7 jorden ryster.{T: Betydningen er usikker. Andre oversætter: >>smelter<<.}
 
-v8 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
+//1 v8 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
 
-Jakobs Gud er en borg for os. Sela
+//3 Jakobs Gud er en borg for os. //4 Sela
 
 ==Gud sejrer==
-v9 Kom, se JHVHs gerninger,
+//2 v9 Kom,//2 se JHVHs gerninger,
 
-hvorledes han har anrettet forfærdelse{T: Oversættes ofte: >>ødelæggelser<<. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at >>ødelæggelse<< regnes som grund til >>forfærdelse<<.} på jorden.
+//4 hvorledes han har anrettet forfærdelse{T: Oversættes ofte: >>ødelæggelser<<. Denne betydning er dog omdiskuteret og usikker. I givet fald må det forudsættes at >>ødelæggelse<< regnes som grund til >>forfærdelse<<.} på jorden.
 
-v10 Han får krige bragt til ro til jordens ende,
+//5 v10 Han får krige bragt til ro til jordens ende,
 
-sønderbryder buen og hugger spyddet itu,
+//3 sønderbryder buen //4 og hugger spyddet itu,
 
-afbrænder vogne{T: Der er utvivlsomt tænkt på >>stridsvogne<<.} med ild.
+//3 afbrænder vogne{T: Der er utvivlsomt tænkt på >>stridsvogne<<.} med ild.
 
-v11 >>Hold inde, og du skal vide at jeg er Gud,
+//2 v11 >>Hold inde,//3  og du skal vide //4 at jeg er Gud,
 
-ophøjet blandt folkene, ophøjet på jorden!<<
+//5 ophøjet blandt folkene,//5 ophøjet på jorden!<<
 
-v12 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
+//1 v12 Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<.} JHVHv er med os,
 
-Jakobs Gud er en borg for os. Sela
-
-
+//2 Jakobs Gud er en borg for os.//3 Sela

@@ -2,104 +2,104 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.04.2018>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 25===
 
 ==Overskrift==
-v1 Af David.
+//0 v1 Af David.
 
 ==Bøn om hjælp og tilgivelse==
-Til dig, JHVHv, løfter jeg min sjæl.
+//0 Til dig, //4 JHVHv, //3 løfter jeg min sjæl.
 
-v2 Min Gud,{E: Mange flytter versets første ord, *ʔᵉlōhay* (>>Min Gud<<) til vers 1. Begrundelsen er dels, at vers 1 er kort, dels at salmen er alfabetisk, så vers 1 begynder med alfabetets første bogstav, vers 2 med det andet osv. Men det gælder kun for vers 2 hvis *ʔᵉlōhay* flyttes så verset begynder med det næste ord, *bᵊxā* (>>på dig<<), der begynder med alfabetets andet bogstav.} jeg har stolet på dig - lad mig ikke blive til skamme,
+//4 v2 Min Gud,{E: Mange flytter versets første ord, *ʔᵉlōhay* (>>Min Gud<<) til vers 1. Begrundelsen er dels, at vers 1 er kort, dels at salmen er alfabetisk, så vers 1 begynder med alfabetets første bogstav, vers 2 med det andet osv. Men det gælder kun for vers 2 hvis *ʔᵉlōhay* flyttes så verset begynder med det næste ord, *bᵊxā* (>>på dig<<), der begynder med alfabetets andet bogstav.} //2 jeg har stolet på dig - //3 lad mig ikke blive til skamme,
 
-mine fjender må ikke fryde sig over mig.
+//5 mine fjender må ikke fryde sig over mig.
 
-v3 Ja, ingen som håber på dig, skal blive til skamme,
+//4 v3 Ja, ingen som håber på dig, //5 skal blive til skamme,
 
-skam kommer over dem som handler troløst uden årsag.
+//6 skam kommer over dem som handler troløst uden årsag.
 
-v4 JHVHv, lad mig kende dine veje,
+//4 v4 JHVHv, //3 lad mig kende //1 dine veje,
 
-lær mig dine stier!
+//2 lær mig dine stier!
  
-v5 Gør at jeg vandrer i din sandhed, og belær mig,
+//4 v5 Gør at jeg vandrer i din sandhed, //5 og belær mig,
 
-for du er min frelses Gud,
+//6 for du er min frelses Gud,
 
-jeg{E: Som regel lader man verset begynde med et *w* (>>og<<), da det er forudsat, hvis salmen skal være alfabetisk.} har ventet på dig hele dagen.
+//7 jeg{E: Som regel lader man verset begynde med et *w* (>>og<<), da det er forudsat, hvis salmen skal være alfabetisk.} har ventet på dig hele dagen.
 
-v6 Husk din barmhjertighed, JHVHv, og din nåde{N: nåde},
+//3 v6 Husk din barmhjertighed, //8 JHVHv, //7 og din nåde{N: nåde},
 
-for de har været fra evighed.
+//6 for de har været fra evighed.
 
-v7 Husk ikke min ungdoms synder og mine overtrædelser,
+//5 v7 Husk ikke min ungdoms synder og mine overtrædelser,
 
-husk du mig efter din nåde
+//6 husk du mig efter din nåde
 
-for din godheds skyld, JHVHv!
+for din godheds skyld, //10 JHVHv!
 
 ==Tillid til Guds godhed og troskab==
-v8 God og retskaffen er JHVH,
+//9 v8 God og retskaffen er JHVH,
 
-derfor belærer han syndere om vejen.
+//11 derfor belærer han syndere om vejen.
 
-v9 Han vil lade ydmygede vandre i retfærdighed,
+//12 v9 Han vil lade ydmygede vandre i retfærdighed,
 
-og han vil lære de ydmyge sin vej.
+//13 og han vil lære de ydmyge sin vej.
 
-v10 Alle JHVHs stier er nåde og sandhed
+//10 v10 Alle JHVHs stier er nåde og sandhed
 
-for dem som holder hans pagt og hans vidnesbyrd.
+//11 for dem som holder hans pagt og hans vidnesbyrd.
 
-v11 For dit navns skyld, JHVHv,
+//8 v11 For dit navns skyld,//9 JHVHv,
 
-tilgiv mig dog min skyld, for den er stor.
+//7 tilgiv mig dog min skyld, //8 for den er stor.
 
-v12 Hvem er da den mand som frygter JHVH?
+//4 v12 Hvem er da den mand //9 som frygter JHVH?
 
-Ham vil han belære om den vej han skal vælge.{E: Dvs.: Uanset hvem det er der frygter JHVH, så vil han belære ham.}
+//8 Ham vil han belære om den//9 vej han skal vælge.{E: Dvs.: Uanset hvem det er der frygter JHVH, så vil han belære ham.}
 
-v13 Hans sjæl skal bo i lykke,
+//7 v13 Hans sjæl skal bo i lykke,
 
-og hans efterkommere{T: Ordret: >>sæd<<.} skal besidde landet.
+//8 og hans efterkommere{T: Ordret: >>sæd<<.} skal besidde landet.
 
-v14 JHVH har fortroligt fællesskab med dem der frygter ham,
+//6 v14 JHVH har fortroligt fællesskab med dem der frygter ham,
 
-ja, hans pagt belærer dem.{T: Ordret: >>og/ja, hans pagt til at belære dem<<.}
+//7 ja, hans pagt //8 belærer dem.{T: Ordret: >>og/ja, hans pagt til at belære dem<<.}
 
 ==Ny bøn om hjælp og frelse==
-v15 Mine øjne er altid rettet mod JHVH,
+//5 v15 Mine øjne er altid rettet mod JHVH,
 
-for han befrier mine fødder fra nettet.
+//6 for han befrier mine fødder fra nettet.
 
-v16 Vend dig til mig, og vær mig nådig,
+//3 v16 Vend dig til mig, //6 og vær mig nådig,
 
-for jeg er ene og hjælpeløs.
+//7 for jeg er ene og hjælpeløs.
 
-v17 Mit hjertes nød har de{T: Dvs. >>fjenderne<<.} gjort stor{E: Ordret: >>vid/bred<<. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, >>og<<) og vokaliserer: *harḥêv*: >>gør plads (for mit hjertes nød)<< eller evt.: >>gør (mit hjerte) fri (af nød)<<.};
+//5 v17 Mit hjertes nød har de{T: Dvs. >>fjenderne<<.} gjort stor{E: Ordret: >>vid/bred<<. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, >>og<<) og vokaliserer: *harḥêv*: >>gør plads (for mit hjertes nød)<< eller evt.: >>gør (mit hjerte) fri (af nød)<<.};
 
-før mig ud af mine trængsler!
+//4 før mig ud af mine trængsler!
 
-v18 Se hen til{E: Da salmen er alfabetisk, burde verset begynde med et *q*. Det kan være faldet ud, så der i stedet for *rᵊʔēʰ* (>>se hen til<<) skal stå *qirʔāʰ*: >>mød<<.} min hjælpeløshed og min modgang,
+//3 v18 Se hen til{E: Da salmen er alfabetisk, burde verset begynde med et *q*. Det kan være faldet ud, så der i stedet for *rᵊʔēʰ* (>>se hen til<<) skal stå *qirʔāʰ*: >>mød<<.} min hjælpeløshed og min modgang,
 
-og tilgiv {T: Ordret: >>borttag<<} alle mine synder!
+//4 og tilgiv {T: Ordret: >>borttag<<} alle mine synder!
 
-v19 Se hen til mine fjender, for de er mange,
+//3 v19 Se hen til mine fjender, //4 for de er mange,
 
-og de hader mig med uretfærdigt had.
+//5 og de hader mig med uretfærdigt had.
 
-v20 Bevar min sjæl og red mig
+//3 v20 Bevar min sjæl //6 og red mig
 
-så jeg ikke bliver til skamme, for jeg har søgt tilflugt hos dig.
+//5 så jeg ikke bliver til skamme, //6 for jeg har søgt tilflugt hos dig.
 
-v21 Lad uskyld og oprigtighed bevare mig,
+//4 v21 Lad uskyld og oprigtighed bevare mig,
 
-for jeg har ventet på dig.
+//5 for jeg har ventet på dig.
 
 ==Afsluttende bøn om frelse for hele Israel==
-v22 Forløs, o Gud, Israel
+//3 v22 Forløs, //5 o Gud, //4 Israel
 
 fra al dets nød!
-

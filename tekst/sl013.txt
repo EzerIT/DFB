@@ -2,37 +2,37 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.10.2016>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 ===Salme 13===
 
 ==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Salme af David.
+//0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} //1 Salme af David.
 
 ==Hvor længe?==
-v2 Hvor længe, JHVHv, vil du evigt glemme mig?
+//0 v2 Hvor længe, //5 JHVHv, //4 vil du evigt glemme mig?
 
-Hvor længe vil du skjule dit ansigt for mig?
+//3 Hvor længe vil du skjule dit ansigt for mig?
 
-v3 Hvor længe skal jeg have bekymringer{T: *ʕēṣôt* betyder normalt >>planer<<. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: >>smerter<<.} i min sjæl,
+//4 v3 Hvor længe skal jeg have bekymringer{T: *ʕēṣôt* betyder normalt >>planer<<. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: >>smerter<<.} i min sjæl,
 
-dagligt have sorg i mit hjerte?
+//6 dagligt have sorg i mit hjerte?
 
-Hvor længe skal min fjende triumfere over mig?
+//5 Hvor længe skal min fjende triumfere over mig?
 
 ==Klagende bøn==
-v4 Se til mig, svar mig, JHVHv min Gud!
+//2 v4 Se til mig, //3 svar mig, //4 JHVHv min Gud!
 
-Giv mine øjne lys så jeg ikke sover ind i døden,
+//2 Giv mine øjne lys //5 så jeg ikke sover ind i døden,
  
-v5 så ikke min fjende skal sige: >>Jeg vandt over ham<<,
+//4 v5 så ikke min fjende skal sige: //6 >>Jeg vandt over ham<<,
 
-min modstander juble over at jeg snubler.
+//5 min modstander juble over //6 at jeg snubler.
 
-v6 Men jeg stoler på din nåde{N: nåde},
+//3 v6 Men jeg stoler på din nåde{N: nåde},
 
-mit hjerte skal juble over din frelse.
+//4 mit hjerte skal juble over din frelse.
 
-Jeg vil synge for JHVH,
+//1 Jeg vil synge for JHVH,
 
-for han har gjort vel imod mig.
-
+//2 for han har gjort vel imod mig.

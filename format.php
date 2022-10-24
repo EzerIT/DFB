@@ -83,7 +83,7 @@ makemenus(1);
 
             <div class="checkbox">
               <label>
-                <input type="checkbox" name="exegetic" <?= showchecked('exegetic') ?>> Eksegetisk layout (eksperimentel)
+                <input type="checkbox" name="exegetic" <?= showchecked('exegetic') ?>> Eksegetisk layout (kun visse kapitler)
               </label>
             </div>
 

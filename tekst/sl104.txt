@@ -2,176 +2,174 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 24.10.2022>!!
 
 ===Salme 104===
 
 == JHVH er stor!==
-Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} JHVH!
+//4Min sjæl,//0 pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} //3 JHVH!
 
-JHVHv, min Gud, du er meget stor!
+//2 JHVHv, min Gud,//3 du er meget stor!
 
-Du har iført dig højhed og ære.
+//4 Du har iført dig højhed og ære.
 
-v2 Du som er hyllet{E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: >>Han (som) er hyllet …<<, >>han spænder …<< osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.} i lys som kappe,
+//6 v2 Du som er hyllet{E: Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: >>Han (som) er hyllet …<<, >>han spænder …<< osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.} i lys som kappe,
 
-som spænder himlen ud som en teltdug,
+//6 som spænder himlen ud som en teltdug,
 
-v3 som bygger dine højsale i vandene;
+//7 v3 som bygger dine højsale i vandene;
 
-som gør skyerne til din vogn,
+//7 som gør skyerne til din vogn,
 
-som farer frem på vindens vinger,
+//7 som farer frem på vindens vinger,
 
 
-v4 som gør vinde til dine sendebud,{T: Det hebraiske ord oversættes i andre sammenhænge: >>engle<<.}
+//6 v4 som gør vinde til dine sendebud,{T: Det hebraiske ord oversættes i andre sammenhænge: >>engle<<.}
 
-flammende ild til dine tjenere.
+//8 flammende ild til dine tjenere.
 
 ==JHVH er jordens skaber==
-v5 Han grundfæstede jorden på dens grundvold,
+//7 v5 Han grundfæstede jorden på dens grundvold,
 
-den skal ikke rokkes i al evighed.
+//8 den skal ikke rokkes i al evighed.
 
-v6 Du dækkede den med urdybet som et klæde,
+//5 v6 Du dækkede den med urdybet//8 som et klæde,
 
-så der stod vand over bjerge.
+//7 så der stod vand over bjerge.
 
-v7 Det flygtede for din trussel,
+//9 v7 Det flygtede for din trussel,
 
-løb skræmt bort for din tordens skrald.{T: Ordret: >>din tordens røst<<.}
+//9 løb skræmt bort for din tordens skrald.{T: Ordret: >>din tordens røst<<.}
 
-v8 Det steg op over bjerge og ned i dale
+//8 v8 Det steg op over bjerge//8 og ned i dale
 
-til det sted som du fastsatte for det.
+//9 til det sted som du fastsatte for det.
 
-v9 Du satte en grænse det ikke må overskride,
+//6 v9 Du satte en grænse//11 det ikke må overskride,
 
-det skal ikke igen dække jorden.
+//12 det skal ikke igen dække jorden.
 
 ==Gud sørger for alt levende==
-v10 Han sender kilder ud i dalene,
+//10 v10 Han sender kilder ud i dalene,
 
-de flyder mellem bjerge,
+//9 de flyder mellem bjerge,
 
-v11 de giver vand til alle markens vilde dyr,
+//10 v11 de giver vand til alle markens vilde dyr,
 
-vildæsler slukker deres tørst.
+//11 vildæsler slukker deres tørst.
 
-v12 Ved dem slår himlens fugle sig ned,
+//12 v12 Ved dem slår himlens fugle sig ned,
 
-mellem grenene lader de deres stemme lyde.
+//13 mellem grenene lader de deres stemme lyde.
 
-v13 Han vander bjerge fra sine højsale,
+//8 v13 Han vander bjerge fra sine højsale,
 
-jorden mættes af dine gerningers frugt.
+//9 jorden mættes af dine gerningers frugt.
 
-v14 Han lader græs gro frem til kvæget
+//8 v14 Han lader græs gro frem til kvæget
 
-og planter til mennesket at arbejde med{T: Ordret: >>til menneskets arbejde<<. Det kan også oversættes: >>menneskets tjeneste<<.}
+//13 og planter til mennesket at arbejde med{T: Ordret: >>til menneskets arbejde<<. Det kan også oversættes: >>menneskets tjeneste<<.}
 
-for at frembringe brød af jorden
+//14 for at frembringe brød af jorden
 
-v15 og vin der glæder et menneskes hjerte,
+//12 v15 og vin //13 der glæder et menneskes hjerte,
 
-så ansigtet kommer til at stråle af olie,{T: Kan også oversættes: >>stråle mere end olie<<.}
+//14 så ansigtet kommer til at stråle af olie,{T: Kan også oversættes: >>stråle mere end olie<<.}
 
-og brød styrker et menneskes hjerte.
+//11 og brød //12 styrker et menneskes hjerte.
 
-v16 JHVHs træer mættes,
+//10 v16 JHVHs træer mættes,
 
-Libanons cedre som han har plantet
+//12 Libanons cedre//14  som han har plantet
 
-v17 der hvor fuglene bygger rede,
+//13 v17 der hvor fuglene bygger rede,
 
-storken hvis bo er cypresser.
+//11 storken//13 hvis bo er cypresser.
 
-v18 De høje bjerge er for stenbukkene,
+//12 v18 De høje bjerge er for stenbukkene,
 
-klipperne er tilflugtssted for klippegrævlingen.
+//13 klipperne er tilflugtssted for klippegrævlingen.
 
 ==Gud giver både aktivitet og hvile==
-v19 Han skabte månen til at fastsætte festtiderne,
+//9 v19 Han skabte månen til at fastsætte festtiderne,
 
-solen kendte sin nedgang.
+//10 solen kendte sin nedgang.
 
-v20 Når du sender mørke, bliver det nat,
+//7 v20 Når du sender mørke,//10 bliver det nat,
 
-i den rører alle skovens vilde dyr på sig.
+//9 i den rører alle skovens vilde dyr på sig.
 
-v21 De unge løver brøler efter rov
+//11 v21 De unge løver brøler efter rov
 
-og for at kræve deres føde af Gud.
+//12 og for at kræve deres føde af Gud.
 
-v22 Når solen står op, trækker de sig tilbage{T: Kan også oversættes: >>samles de igen<<.}
+//10 v22 Når solen står op, //12 trækker de sig tilbage{T: Kan også oversættes: >>samles de igen<<.}
 
-og lægger sig i deres huler.
+//13 og lægger sig i deres huler.
 
-v23 Mennesket går ud til sin gerning
+//11 v23 Mennesket går ud til sin gerning
 
 og til sit arbejde indtil aften.
 
 ==Gud skabte også havenes vrimmel==
-v24 Hvor er dine værker mange, JHVHv!
+//8 v24 Hvor er dine værker mange,//13 JHVHv!
 
-Du skabte dem alle med visdom,
+//12 Du skabte dem alle med visdom,
 
-jorden er fuld af dit skaberværk.{E: Ordret: >>din skabning<<. Det må enten opfattes kollektivt som >>skaberværk<<, eller man må med mange håndskrifter læse pluralis: >>skabninger<<.}
+//13 jorden er fuld af dit skaberværk.{E: Ordret: >>din skabning<<. Det må enten opfattes kollektivt som >>skaberværk<<, eller man må med mange håndskrifter læse pluralis: >>skabninger<<.}
 
-v25 Her er havet, stort og vidt til alle sider,{T: Ordret: >>til begge sider<<.}
+//11 v25 Her er havet,//14 stort og vidt til alle sider,{T: Ordret: >>til begge sider<<.}
 
-der er en vrimmel uden tal,
+//13 der er en vrimmel//16 uden tal,
 
-både små og store dyr.
+//15 både små og store dyr.
 
-v26 Der sejler{T: Ordret: >>går<<.} skibene,
+//14 v26 Der sejler{T: Ordret: >>går<<.} skibene,
 
-der er{E: Ordene: >>der er<< står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: >>der går/sejler<< styrer også denne linje.} Livjatan, som du skabte til at lege med.{E: Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: >>til at lege deri<<.}
+//12 der er{E: Ordene: >>der er<< står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: >>der går/sejler<< styrer også denne linje.} Livjatan, //13 som du skabte //14 til at lege med.{E: Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: >>til at lege deri<<.}
 
 ==Alt liv er afhængigt af Gud==
-v27 De venter alle med håb til dig om
+//10 v27 De venter alle med håb til dig om
 
 
-at du skal give dem deres føde i rette tid.
+//12 at du skal give dem deres føde i rette tid.
 
-v28 Du giver dem, og de samler op,
+//11 v28 Du giver dem,//12 og de samler op,
 
-du åbner din hånd, og de mættes med godt.{E: Verset kan også oversættes: >> Hvis du giver dem, samler de op, hvis du åbner din hånd, mættes de med godt<<.}
+//11 du åbner din hånd,//12 og de mættes med godt.{E: Verset kan også oversættes: >> Hvis du giver dem, samler de op, hvis du åbner din hånd, mættes de med godt<<.}
 
-v29 Du skjuler dit ansigt, og de forfærdes,
+//11 v29 Du skjuler dit ansigt,//12 og de forfærdes,
 
-du tager deres ånd{T: Kan også oversættes: >>ånde/åndedrag<<.} tilbage, og de dør
+//11 du tager deres ånd{T: Kan også oversættes: >>ånde/åndedrag<<.} tilbage,//12 og de dør
 
-og vender tilbage til deres støv.{E: Verset kan også oversættes: >>Hvis du skjuler dit ansigt, forfærdes de, hvis du tager deres ånd tilbage, dør de og vender tilbage til deres støv<<.}
+//13 og vender tilbage til deres støv.{E: Verset kan også oversættes: >>Hvis du skjuler dit ansigt, forfærdes de, hvis du tager deres ånd tilbage, dør de og vender tilbage til deres støv<<.}
 
-v30 Du sender din Ånd, og de skabes,{E: Linjen kan også oversætte: >>Hvis du sender din Ånd, skabes de<<.}
+//11 v30 Du sender din Ånd,//13 og de skabes,{E: Linjen kan også oversætte: >>Hvis du sender din Ånd, skabes de<<.}
 
-og du fornyer jordens skikkelse.
+//12 og du fornyer jordens skikkelse.
 
 ==JHVHs herlighed skal vare evigt==
-v31 Må JHVHs herlighed vare evigt,
+//9 v31 Må JHVHs herlighed vare evigt,
 
-må JHVH glæde sig over sine værker!
+//9 må JHVH glæde sig over sine værker!
 
-v32 Han ser på jorden, og den skælver,
+//11 v32 Han ser på jorden,//12 og den skælver,
 
-han rører ved bjerge, og de ryger.
+//10 han rører ved bjerge,//11 og de ryger.
 
-v33 Jeg vil synge for JHVH så længe jeg lever,{T: Ordret: >>i mit liv<<.}
+//1 v33 Jeg vil synge for JHVH så længe jeg lever,{T: Ordret: >>i mit liv<<.}
 
-jeg vil lovsynge min Gud så længe jeg er til.{T: Ordret: >>i min varighed<<.}
+//1 jeg vil lovsynge min Gud så længe jeg er til.{T: Ordret: >>i min varighed<<.}
 
-v34 Gid mit digt{T: Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: >>from, bedende tale<<.} må behage ham,
+//3 v34 Gid mit digt{T: Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: >>from, bedende tale<<.} må behage ham,
 
-jeg vil glædes i JHVH.
+//2 jeg vil glædes i JHVH.
 
-v35 Gid syndere må udryddes fra jorden
+//3 v35 Gid syndere må udryddes fra jorden
 
-og ugudelige ikke være til længere!
+//4 og ugudelige //5 ikke være til længere!
 
-Min sjæl, pris JHVH!
+//3 Min sjæl, //0 pris //2 JHVH!
 
-Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 105}
-
-
-
+//1 Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 105}
