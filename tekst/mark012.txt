@@ -1,25 +1,57 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 12===
 
-==Lignelsen om den udlejede vingård, 1-12. Jesus besvarer spørgsmålene om at give kejseren skat, 13-17, om opstandelsen, 18-27, om det største bud, 28-34. Han spørger selv om, hvordan Kristus kan være både Davids søn og Davids herre, 35-37, advarer mod de skriftlærde, 38-40, taler om den fattige enkes gave, 41-44.==
+==Lignelsen om de onde vinbønder.==
 
-v1 Og han begyndte at tale til dem i lignelser: >>En mand plantede en vingård og satte et gærde om den og gravede en perse og byggede et tårn, og han lejede den ud til vingårdsmænd og rejste til udlandet. v2 Og da tiden kom, sendte han en tjener til vingårdsmændene, for at han af vingårdsmændene kunne få af vingårdens frugter. v3 Og de greb ham og slog ham og sendte ham tomhændet bort. v4 Og han sendte igen en anden tjener til dem; og ham slog de i hovedet og vanærede. v5 Og han sendte en anden; og ham slog de ihjel; og mange andre; nogle slog de, andre dræbte de. v6 Endnu én havde han, en elsket søn; ham sendte han til sidst til dem, idet han sagde: >>De vil respektere min søn.<< v7 Men de vingårdsmænd sagde til hinanden: >>Det er arvingen; kom, lad os slå ham ihjel, så bliver arven vores.<< v8 Og de greb ham og slog ham ihjel og kastede ham ud af vingården. v9 Hvad mon vingårdens herre vil gøre? Han vil komme og gøre det af med vingårdsmændene og give vingården til andre. v10 Har I heller ikke læst dette skriftord: Den sten, som bygmestrene forkastede, den er blevet til en hovedhjørnesten? v11 Fra Herren er dette kommet, og det er underfuldt for vores øjne. v12 Og de prøvede at gribe ham, men de var bange for folkemængden; for de forstod, at han sagde denne lignelse imod dem; og de forlod ham og gik bort. 
+v1 Han begyndte at tale til dem i lignelser: >>En mand plantede en vingård og satte et gærde om den og gravede en perse og byggede et tårn, og han lejede den ud til vinbønder og rejste til udlandet. v2 Da tiden kom, sendte han en tjener til vinbønderne for at få af vingårdens frugt af vinbønderne. v3 De tog ham og slog ham og sendte ham tomhændet bort. v4 Han sendte igen en anden tjener til dem; og ham slog de i hovedet og hånede. v5 Han sendte en anden; og ham dræbte de; og mange andre; nogle slog de, andre dræbte de. v6 Han havde endnu én, en elsket søn; ham sendte han til sidst til dem, idet han sagde: >De vil respektere min søn.< v7 Men disse vinbønder sagde til hinanden: >Det er arvingen; kom, lad os dræbe ham, og arven vil tilhøre os.< v8 Og de tog ham og dræbte ham og kastede ham uden for vingården. v9 Hvad vil vingårdens herre så gøre? Han vil komme og dræbe vinbønderne og give vingården til andre. v10 Har I ikke læst dette skriftord: 
 
-v13 Og de sendte nogle af farisæerne og af herodianerne til ham, for at de skulle fange ham i ord. v14 Og de kom og sagde til ham: >>Mester! Vi ved, at du er sandfærdig og ikke tager hensyn til nogen; for du ser ikke på menneskers person, men lærer Guds vej i sandhed. Er det tilladt at give kejseren skat eller ej? Skal vi give eller ikke ikke give? v15 Men da han så deres hykleri, sagde han til dem: >>Hvorfor frister I mig? Kom med en denar til mig, så jeg kan se den.<< v16 Men de kom med den. Og han sagde til dem: >>Hvis billede og overskrift er det her?<< Men de sagde til ham: >>Kejserens.<< v17 Og Jesus sagde til dem: >>Giv kejseren, hvad der er kejserens, og Gud, hvad der er Guds.<< Og de undrede sig over ham. 
+Den sten som murermestrene forkastede, 
 
-v18 Og der kom nogle saddukæere til ham, de, der jo siger, at der ikke er nogen opstandelse, og de spurgte ham og sagde: v19 >>Mester! Moses har foreskrevet os, at når nogens bror dør og efterlader en kone og ikke efterlader noget barn, så skal hans bror tage hans kone til sig og skaffe sin bror efterkommere{T: 5 Mos 25,5}. v20 Der var syv brødre; og den første tog en kone, og da han døde, efterlod han ikke børn. v21 Og den anden tog hende og døde uden at efterlade børn, og den tredje på samme måde. v22 Og alle syv, de efterlod ikke børn. Sidst af dem alle døde også konen. v23 I opstandelsen, når de opstår, hvem af dem skal så have hende som kone? For de har alle syv haft hende til kone.<< v24 Jesus sagde til dem: >>Er det ikke derfor, I farer vild, fordi I ikke kender skrifterne og heller ikke Guds kraft?  v25 For når de opstår fra de døde, så hverken gifter de sig eller bliver gift, men de er som engle i himlene. v26 Men hvad de døde angår, at de opstår, har I da ikke læst i Mosebogen i stedet om tornebusken, hvordan Gud talte til ham og sagde: Jeg er Abrahams Gud og Isaks Gud og Jakobs Gud? v27 Han er ikke dødes, men levendes Gud; I farer helt vild.<< 
+den er blevet til en hovedhjørnesten? 
 
-v28 Og en af de skriftlærde{N: Skriftlærd}, der havde hørt deres diskussion og set, at han svarede dem godt, kom til ham og spurgte ham: >>Hvilket bud er det første af alle?<< v29 Jesus svarede: >>Det første er: Hør Israel! Herren vores Gud, Herren er én; v30 og du skal elske Herren din Gud af hele dit hjerte og af hele din sjæl og af hele dit sind og af hele din styrke. v31 Et andet er dette: Du skal elske din næste som dig selv. Større end de to er der ikke noget andet bud, der er.<< v32 Og den skriftlærde{N: Skriftlærd} sagde: >>Rigtigt, mester, og det var sandt, hvad du sagde, at han er én, og der er ingen anden end ham. v33 Og at elske ham af hele sit hjerte og af hele sin forstand og af hele sin styrke og at elske sin næste som sig selv, det er mere end alle brændofrene og slagtofrene.<< v34 Og da Jesus så, at han svarede klogt, sagde han til ham: >>Du er ikke langt fra Guds rige.<< Og ingen turde længere stille spørgsmål til ham. 
+v11 Fra Herren er dette kommet, 
 
-v35 Og da Jesus underviste i helligdommen, talte han og sagde: >>Hvordan kan de skriftlærde{N: Skriftlærd} sige, at Kristus er Davids søn? v36 David selv sagde ved Helligånden: Herren sagde til min Herre: Sæt dig ved min højre hånd, indtil jeg får lagt dine fjender som en skammel for dine fødder{T: Sal 110, 1}. v37 David selv kalder ham Herre; hvordan kan han så være hans søn?<< Og den store folkemængde hørte ham gerne. 
+og det er underfuldt for vores øjne.<<
 
-v38 Og han sagde i sin undervisning: >>Pas på de skriftlærde{N: Skriftlærd}, der gerne vil gå omkring i lange kjortler {E: båret af de fornemme}og blive hilst på torvene v39 og gerne vil have de fornemste pladser i synagogerne og sidde øverst til bords ved måltiderne; v40 dem, der æder enkers hus op og for et syns skyld beder længe; de får en desto hårdere dom.<< 
+v12 De prøvede at gribe ham, men de frygtede skaren; for de forstod at han sagde denne lignelse imod dem; og de forlod ham og gik bort. 
 
-v41 Og Jesus satte sig over for tempelkisten og så, hvordan alle folk lagde penge i kisten, og mange rige lagde meget i den. v42 Og der kom en fattig enke og lagde to skærv i; det er én øre {T: Græsk *kodrantes*, latin *quadrans*, den mindste romerske kobbermønt, en kvart *as*, 1/16 *sesterius*}. v43 Og han kaldte sine disciple til sig og sagde til dem: >>Sandelig, siger jeg jer, denne fattige enke har lagt mere i end alle de, der lagde noget i tempelkisten. v44 For de lagde alle sammen af deres overflod; men hun lagde af sin fattigdom, alt det, hun ejede, alt det, hun havde at leve af.<<
+==Om skat==
 
+v13 De sendte nogle af farisæerne og herodianerne til ham for at de skulle fange ham i ord. v14 De kom hen og sagde til ham: >>Lærer! Vi ved at du er sandfærdig og ikke lader dig påvirke af nogen; for du gør ikke forskel på mennesker, men lærer Guds vej i sandhed. Er det tilladt at give kejseren skat eller ikke? Skal vi give eller ikke give?<< v15 Men da han så deres hykleri, sagde han til dem: >>Hvorfor frister I mig? Ræk mig en denar, så jeg kan se den.<< v16 De rakte ham den. Han sagde til dem: >>Hvis billede og påskrift er dette?<< Men de sagde til ham: >>Kejserens.<< v17 Jesus sagde til dem: >>Giv kejseren, hvad der er kejserens, og Gud, hvad der er Guds.<< Og de undrede sig over ham. 
+
+==Om opstandelse==
+
+v18 Der kom nogle saddukæere, som siger at der ikke er nogen opstandelse, og spurgte ham: v19 >>Lærer! Moses skrev til os at hvis nogens bror dør og efterlader hustru og ikke efterlader et barn, så skal hans bror tage hustruen til sig og skaffe sin bror efterkommere{H: 5 Mos 25,5}. v20 Der var syv brødre; og den første tog en hustru, og da han døde, efterlod han ingen efterkommere. v21 Den anden tog hende til hustru og han døde uden at efterlade sig efterkommere, og den tredje på samme måde. v22 Og de syv efterlod ingen efterkommere. Sidst af alle døde også hustruen. v23 I opstandelsen, når de opstår, hvis hustru skal hun være? For de syv har haft hende som hustru.<< v24 Jesus sagde til dem: >>Er det ikke derfor I farer vild, fordi I hverken kender skrifterne eller Guds kraft? v25 For når de opstår fra de døde, så gifter de sig ikke eller bortgiftes, men de er som engle i himlene. v26 Men hvad angår de døde, at de opstår, har I da ikke læst i Mosebogen i stedet om tornebusken, hvordan Gud sagde til ham: Jeg er Abrahams Gud og Isaks Gud og Jakobs Gud? v27 Han er ikke Gud for døde, men for levende; I farer helt vild.<< 
+
+==Om det første bud==
+
+v28 En af de skriftlærde, der havde hørt dem diskutere og set at han svarede dem godt, kom til ham og spurgte ham: >>Hvilket bud er det første af alle?<< v29 Jesus svarede: >>Det første er: Hør Israel! Herren vor Gud, Herren er én; v30 og du skal elske Herren din Gud af hele dit hjerte og af hele din sjæl og af hele dit sind og af hele din styrke. v31 Et andet er dette: Du skal elske din næste som dig selv. Større end disse er der ikke noget andet bud.<< v32 Den skriftlærde sagde: >>Rigtigt, lærer, du har i sandhed sagt at han er én, og der er ingen anden end ham, v33 og at elske ham af hele sit hjerte og af hele sin forstand og af hele sin styrke og at elske næsten som sig selv er mere end alle brændofrene og slagtofrene.<< v34 Da Jesus så at han svarede klogt, sagde han til ham: >>Du er ikke langt fra Guds rige.<< Ingen vovede længere at spørge ham. 
+
+==Kristus som Davids søn og Herre==
+
+v35 Jesus tog til orde og underviste i templet: >>Hvordan kan de skriftlærde sige at Kristus er Davids søn? v36 David selv har sagt ved Helligånden: 
+
+Herren sagde til min Herre: 
+
+Sæt dig ved min højre hånd, 
+
+indtil jeg får lagt dine fjender 
+
+under dine fødder.{H: Sal 110, 1.} 
+
+v37 David selv kalder ham Herre, og hvordan er han så hans søn?<< Den store skare hørte ham gerne. 
+
+==Advarsel mod de skriftlærde==
+
+v38 I sin undervisning sagde han: >>Vogt jer for de skriftlærde, som ønsker at gå omkring i lange kjortler og ønsker hilsner på torvene, v39 de fornemste sæder i synagogerne og de øverste pladser ved festerne; v40 som æder enkers huse op og for et syns skyld beder længe; de vil modtage en hårdere dom.<< 
+
+==Den fattige enke==
+
+v41 Han satte sig over for tempelkisten og så hvordan skaren lagde penge i tempelkisten, og mange rige lagde meget i den. v42 Og der kom en fattig enke og lagde to småmønter i; tilsammen gav det én øre. v43 Han kaldte sine disciple til sig og sagde til dem: >>Sandelig siger jeg jer at denne fattige enke har lagt mere i end alle dem der lagde noget i tempelkisten. v44 For de lagde alle sammen af deres overflod; men hun lagde af sin fattigdom, alt hvad hun havde, alt hvad hun havde at leve af.<<
 
 

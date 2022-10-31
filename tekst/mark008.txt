@@ -1,35 +1,40 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 8===
 
-==Jesus bespiser 4000 mænd, 1-9, nægter at give et tegn fra himmelen, 10-13, advarer imod farisæernes surdej, 14-21. En blind helbredes, 22-26. Peters bekendelse, 27-30. Jesus forudsiger sin lidelse, død og opstandelse første gang og irettesætter Peter, 31-33. Han taler om at efterfølge ham og om sin genkomst, 34-kap. 9, 1.==
+== Det andet bespisningsunder==
 
-v1 I de dage, da der igen var en stor folkemængde, og de ikke havde noget at spise, kaldte han sine disciple til sig og sagde til dem: v2 >>Jeg har stor medynk med folkemængden; for de er allerede blevet hos mig i tre dage og har ikke noget at spise. v3 Og hvis jeg lod dem gå fastende hjem, ville de blive udmattede på vejen, og nogle af dem er kommet langvejs fra.<< v4 Og hans disciple svarede ham: >>Hvorfra skulle nogen kunne mætte disse mennesker med brød her i en ørken?<< v5 Og han spurgte dem: >>Hvor mange brød har I?<< Og de sagde >>Syv.<< v6 Og han befalede folkemængden at sætte sig ned på jorden; og han tog de syv brød, takkede, brækkede dem i stykker, gav sine disciple dem, for at de skulle dele dem ud, og de gav dem til folkemængden. v7 Og de havde nogle få småfisk; og han velsignede dem og sagde, at også de skulle deles ud. v8 Og de spiste og blev mætte; og de samlede syv kurve af tiloversblevne stykker. v9 Men de var omtrent fire tusind; og han lod dem tage af sted.
+v1 I de dage var der igen en stor skare, og da de ikke havde noget at spise, tilkaldte han sine disciple og sagde til dem: v2 >>Jeg har medlidenhed med skaren; for de har allerede været hos mig i tre dage og har ikke noget at spise. v3 Hvis jeg sender dem sultne hjem, vil de blive udmattede på vejen, og nogle af dem er kommet langvejs fra.<< v4 Hans disciple svarede ham: >>Hvorfra kan nogen her mætte disse med brød i et øde område?<< v5 Han spurgte dem: >>Hvor mange brød har I?<< De sagde >>Syv.<< v6 Han befalede skaren at lejre sig på jorden; og han tog de syv brød, takkede, brød dem og gav dem til sine disciple for at de skulle lægge dem frem, og de lagde dem frem for skaren. v7 De havde nogle få småfisk; og han velsignede dem og sagde at de også skulle lægges frem. v8 De spiste og blev mætte; og de samlede syv kurve med tiloversblevne stykker. v9 De var omtrent fire tusind; og han sendte dem bort. v10 Straks gik han om bord i båden med sine disciple og kom til egnene ved Dalmanuta. 
 
-v10 Og med det samme gik han om bord i båden med sine disciple og kom til egnene ved Dalmanutha. v11 Og farisæerne gik ud og begyndte at diskutere med ham og forlangte et tegn fra himlen af ham for at teste ham. v12 Og han sukkede dybt i sin ånd og sagde: >>Hvorfor forlanger denne slægt et tegn? Sandelig, siger jeg jer, der skal ikke gives noget tegn til denne slægt!<< v13 Og han forlod dem og gik igen om bord og sejlede over til den anden side. 
+==Kravet om et tegn fra himlen==
 
-v14 Og de havde glemt at tage brød med og havde kun ét brød med sig i båden. v15 Og han befalede dem og sagde: >>Læg godt mærke til og pas på farisæernes surdej og Herodes’ surdej!<< v16 Og de tænkte indbyrdes: >>Det er, fordi vi ikke har brød<<. v17 Og da han mærkede det, sagde han til dem: >>Hvorfor tænker I på, at I ikke har brød? Fatter I ikke endnu, og forstår I ikke?  Er jeres hjerte forhærdet? v18 Har I øjne og kan ikke se? Og har I ører og kan ikke høre? Og kan I ikke huske? v19 Og da jeg brækkede de fem brød i stykker til de fem tusind, hvor mange kurve fulde af stykker samlede I da sammen?<< De sagde til ham: >>Tolv.<< v20 Og da jeg brækkede de syv i stykker til de fire tusind, hvor mange kurve fulde af stykker samlede I da sammen?<< Og de sagde til ham: >>Syv.<< v21 Og han sagde til dem: >>Forstår I ikke endnu?<<
+v11 Farisæerne gik ud og begyndte at diskutere med ham, idet de krævede et tegn fra himlen af ham for at prøve ham. v12 Han sukkede dybt i sin ånd og sagde: >>Hvorfor kræver denne slægt tegn? Sandelig siger jeg jer, der skal ikke gives denne slægt noget tegn!<< v13 Og han forlod dem og gik igen om bord og sejlede over til den anden side. 
 
-v22 Og de kom til Betsajda Og man førte en blind hen til ham og bad ham om, at han ville røre ved ham. v23 Og han tog den blinde ved hånden og førte ham uden for landsbyen og spyttede på hans øjne og lagde hænderne på ham og spurgte ham, om han så noget. v24 Og han så op og sagde: >>Jeg ser menneskene; for jeg ser noget ligesom træer gå omkring.<< v25 Derefter lagde han igen hænderne på hans øjne, og han blev klarsynet og var helbredt og kunne se alle ting tydeligt. v26 Og han sendte ham hjem og sagde: >>Du må ikke gå ind i landsbyen [og heller ikke sige det til nogen i landsbyen]{T: Sidste sætning findes ikke i alle håndskrifter}.
+==Advarsel mod surdejen==
 
-v27 Og Jesus og hans disciple gik ud til landsbyerne ved Kæsarea Filippi; og på vejen spurgte han sine disciple og sagde til dem: >>Hvem siger menneskene, at jeg er?<< v28 Og de sagde til ham: >>Johannes Døberen; og andre: Elias; men andre: En af profeterne.<< v29 Og han spurgte dem: >>Men I, hvem siger I, at jeg er?<< Peter svarede og sagde til ham: >>Du er Kristus.<< v30 Og han formanede dem strengt til, at de ikke måtte sige dette om ham til nogen. v31 Og han begyndte at lære dem, at Menneskesønnen skulle lide meget og forkastes af de ældste og ypperstepræsterne og de skriftlærde{N: Skriftlærd} og slås ihjel og opstå efter tre dage. v32 Og han sagde dette ligeud. Og Peter tog ham til side og begyndte at irettesætte ham. v33 Men han vendte sig og så på sine disciple og irettesatte Peter og siger: >>Forsvind bag mig, Satan! For du har ikke sans for, hvad der er Guds, men hvad der er menneskers.<< 
+v14 De havde glemt at tage brød med og havde kun ét brød med sig i båden. v15 Han befalede dem: >>Læg mærke til og tag jer i agt for farisæernes surdej og for Herodes’ surdej!<< v16 De diskuterede indbyrdes at de ikke havde brød med. v17 Da han mærkede det, sagde han til dem: >>Hvorfor diskuterer I at I ikke har brød? Indser I endnu ikke, og forstår I ikke? Er jeres hjerte blevet forhærdet? 
 
-v34 Og han kaldte folkemængden sammen med sine disciple til sig og sagde til dem: >>Den, der vil følge efter mig, han skal fornægte sig selv og tage sit kors op og følge mig. v35 For den, der vil frelse sit liv, skal miste det; men den, der mister sit liv for min og evangeliets skyld, han skal frelse det. v36 For hvad gavner det et menneske at vinde hele verden og betale med sin sjæl? v37 For hvad kunne et menneske give som betaling for sin sjæl? v38 For den, der skammer sig ved mig og mine ord i denne utro og syndige slægt, ham skal også Menneskesønnen skamme sig ved, når han kommer i sin Fars herlighed med de hellige engle.<< 9,v1 Og han sagde til dem: >>Sandelig, siger jeg jer, der er nogle af dem, der står her, der slet ikke skal smage døden, før de ser Guds rige være kommet med kraft.<<
+v18 Skønt I har øjne, ser I ikke? 
 
+Og skønt I har ører, hører I ikke? 
 
+Husker I ikke, v19 da jeg brød de fem brød til de fem tusind, hvor mange kurve fulde af rester samlede I?<< De sagde til ham: >>Tolv.<< v20 >>Og da jeg brød de syv til de fire tusind, hvor mange kurve fulde af rester samlede I?<< Og de sagde til ham: >>Syv.<< v21 Han sagde til dem: >>Forstår I endnu ikke?<<
 
+==Helbredelsen af den blinde==
 
+v22 De kom til Betsajda og man førte en blind hen til ham og bad ham om at han ville røre ved ham. v23 Han tog den blindes hånd og førte ham uden for landsbyen, og han spyttede på hans øjne og lagde hænderne på ham og spurgte ham: >>Ser du noget?<< v24 Han så op og sagde: >>Jeg ser menneskene; for jeg ser nogle ligesom træer gå omkring.<< v25 Derefter lagde han igen hænderne på hans øjne, og han så klart og blev helbredt, og han så alt tydeligt. v26 Han sendte ham hjem og sagde: >>Gå ikke ind i landsbyen.<<
 
+==Peters bekendelse==
 
+v27 Jesus og hans disciple gik ud til landsbyerne ved Kæsarea Filippi; og på vejen spurgte han sine disciple: >>Hvem siger menneskene at jeg er?<< v28 De sagde til ham: >>Johannes Døberen; og andre: Elias; men andre: En af profeterne.<< v29 Han spurgte dem: >>Men I, hvem siger I at jeg er?<< Peter svarede ham: >>Du er Kristus.<< v30 Han formanede dem strengt at de ikke måtte sige dette om ham til nogen. v31 Han begyndte at undervise dem om at Menneskesønnen skal lide meget og blive forkastet af de ældste og ypperstepræsterne og de skriftlærde og blive slået ihjel og opstå efter tre dage. v32 Han sagde det åbent til dem. Peter tog ham til side og begyndte at irettesætte ham. v33 Men han vendte sig om og så på sine disciple og irettesatte Peter og sagde: >>Gå bort, Satan! For du tænker ikke hvad der er Guds, men hvad der er menneskers.<< 
 
+==Om efterfølgelse==
 
-
-
-
-
+v34 Han kaldte skaren sammen med sine disciple til sig og sagde til dem: >>Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og følge mig. v35 For den der vil frelse sig selv, skal miste sig selv; og den der mister sig selv for min og evangeliets skyld, skal frelse sig selv. v36 For hvad gavner det et menneske at vinde hele verden og miste sig selv? v37 For hvad kan et menneske give som erstatning for sig selv? v38 For den der skammer sig ved mig og mine ord i denne utro og syndige slægt, vil Menneskesønnen også skamme sig ved når han kommer i sin Fars herlighed med de hellige engle.<<{T: Kapitel 9 vers 1 hører naturligt til her.} 
 
 
 

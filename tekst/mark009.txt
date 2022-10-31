@@ -1,63 +1,39 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 9===
 
-==Jesus bliver åbenbaret i herlighed på bjerget, 2-10, og besvarer disciplenes spørgsmål om Elias, 11-13. Han helbreder en besat dreng, 14-29. Han forudsiger sin lidelse, død og opstandelse anden gang, 30-32. Han irettesætter disciplene for deres magtkamp, 33-37, misbilliger, at de har forbudt en mand at uddrive onde ånder i hans navn, 38-41. Han taler om forargelse, 42-50.==
+v1 Han sagde til dem: >>Sandelig siger jeg jer, der er nogle af dem der står her, der ikke skal smage døden før de ser Guds rige kommet med kraft.<<{T: Dette vers hører naturligt til efter kapitel 8 vers 38.}
 
-v2 Og seks dage derefter tog Jesus Peter og Jakob og Johannes med sig og førte dem alene afsides op på et højt bjerg, og han blev forvandlet for deres øjne. v3 Og hans tøj blev skinnende, meget hvidt, så ingen blegemand på jorden kan gøre tøj så hvidt. v4 Og Elias sammen med Moses viste sig for dem, og de var i samtale med Jesus. v5 Og Peter tog ordet og sagde: >>Rabbi, hvor er det godt, at vi er her, og lad os bygge tre hytter, en til dig og en til Moses og en til Elias.<< v6 For han vidste ikke, hvad han skulle sige; for de var blevet helt forfærdede. v7 Og der kom en sky, der dækkede dem; og der kom en stemme fra skyen: >>Han er min Søn, den elskede, hør ham!<< v8 Og pludselig, da de så sig om, så de ikke længere andre end Jesus alene hos dem. v9 Og da de gik ned fra bjerget, befalede han dem, at de ikke måtte fortælle nogen, hvad de havde set, førend Menneskesønnen var opstået fra de døde. v10 Og de holdt dette ord for sig selv og spurgte hinanden, hvad det er at opstå fra de døde. 
+==Forklarelsen på bjerget==
 
-v11 Og de spurgte ham og sagde: >>De skriftlærde{N: Skriftlærd} siger jo, at Elias bør komme først?<< v12 Men han sagde til dem: >>Elias kommer først og genopretter alting; og hvordan er der skrevet om Menneskesønnen? At han skal lide meget og foragtes. v13 Men jeg siger jer, at Elias både er kommet, og at de gjorde med ham alt, hvad de ville, efter hvad der er skrevet om ham.<<
+v2 Seks dage efter tog Jesus Peter og Jakob og Johannes med sig og førte dem alene for sig selv op på et højt bjerg, og han blev forvandlet foran dem. v3 Hans klæder blev helt skinnende hvide, så hvide som ingen på jorden kan gøre det. v4 Elias viste sig for dem sammen med Moses, og de talte med Jesus. v5 Peter tog ordet og sagde til Jesus: >>Rabbi, det er godt at være her, og lad os bygge tre hytter, en til dig og en til Moses og en til Elias.<< v6 For han vidste ikke hvad han skulle sige; for de var blevet helt forfærdede. v7 Der kom en sky som overskyggede dem; og der lød en stemme fra skyen: >>Han er min søn, den elskede, hør ham!<< v8 Og pludselig, da de så sig om, så de ikke længere andre end Jesus alene hos dem. v9 Da de gik ned fra bjerget, befalede han dem at de ikke måtte fortælle nogen hvad de havde set, før Menneskesønnen var opstået fra de døde. v10 Og de holdt dette ord for sig selv, idet de diskuterede hvad det er at opstå fra de døde. 
 
-v14 Og da de kom til disciplene, så de en stor folkemængde omkring dem og skriftlærde{N: Skriftlærd}, der diskuterede med dem. v15 Og med det samme, da de så ham, studsede hele mængden og løb hen og hilste på ham. v16 Og han spurgte dem: >>Hvad er det, I diskuterer med dem om?<< v17 Og én i mængden svarede ham: >>Mester! Jeg er kommet med min søn til dig; han har en stum ånd. v18 Og hvor som helst den griber ham, river og slider den i ham, og han fråder og skærer tænder, og han visner hen; og jeg har sagt til dine disciple, at de skulle uddrive den, og de kunne ikke.<< v19 Men han svarede dem og sagde: >>Åh, din vantro slægt! Hvor længe skal jeg være hos jer,  hvor længe skal jeg holde jer ud? Kom hen til mig med ham!<< v20 Og de førte ham hen til ham; og da han så ham, rev og sled ånden øjeblikkelig i ham og han faldt om på jorden og væltede sig rundt og frådede. v21 Og han spurgte hans far: >>Hvor længe er det siden, at det her er kommet over ham?<< Men han sagde: >>Fra barndommen af; v22 og den har tit kastet ham både i ild og vand for at ødelægge ham; men hvis du kan gøre noget, så forbarm dig over os og hjælp os!<< v23 Men Jesus sagde til ham: >>Hvis du kan! Alle ting er mulige for den, der tror.<< v24 Med det samme råbte barnets far og sagde med tårer: >>Jeg tror, hjælp min vantro!<<  v25 Men da Jesus så, at folkemængden stimlede sammen, truede han den urene ånd og sagde til den: >>Din stumme og døve ånd! Jeg befaler dig: Far ud af ham, og far ikke mere ind i ham!<< v26 Da skreg og rev og sled den meget i ham og fór ud, og han blev om død, så at de fleste sagde: >>Han er død.<< v27 Men Jesus tog ham ved hånden og rejste ham op; og han stod op. v28 Og da han var kommet ind i et hus, spurgte hans disciple ham i enrum: >>Hvorfor kunne vi ikke uddrive den?<< v29 Og han sagde til dem: >>Den slags kan ikke fare ud ved noget andet end ved bøn og faste.<<
+==Om Elias==
 
-v30 Og da de gik ud derfra, passerede de igennem Galilæa, og han ville ikke, at nogen skulle vide det. v31 For han underviste sine disciple og sagde til dem: >>Menneskesønnen udleveres i menneskers hænder, og de skal slå ham ihjel; og når han er slået ihjel, skal han opstå tre dage efter.<< v32 Men de forstod ikke det, han sagde, og de var bange for at spørge ham.
+v11 De spurgte ham: >>Hvorfor siger de skriftlærde at Elias skal komme først?<< v12 Men han sagde til dem: >>Elias kommer først og genopretter alting; og hvordan står der skrevet om Menneskesønnen? At han skal lide meget og foragtes. v13 Men jeg siger jer at Elias er kommet, og at de gjorde med ham hvad de ville, ligesom der står skrevet om ham.<<
 
-v33 Og de kom til Kapernaum, og da han var kommet ind i huset, spurgte han dem: >>Hvad var det, I gik og talte med hinanden om på vejen?<< v34 Men de sagde ikke noget; for de havde undervejs talt med hinanden om, hvem der var den største. v35 Og han satte sig og kaldte på de tolv og sagde til dem: >>Hvis nogen vil være den første, skal han være den sidste af alle og alles tjener.<< v36 Og han tog et lille barn og stillede det midt iblandt dem og tog det i sine arme og sagde til dem: v37 >>Den, der tager imod ét af disse små børn for mit navns skyld, tager imod mig; og den, der tager imod mig, tager ikke imod mig, men den, der sendte mig ud.<<
+==Den besatte dreng==
 
-v38 Johannes sagde til ham: >>Mester! Vi så én, der ikke følger os, uddrive onde ånder i dit navn; og vi forbød ham det, fordi han ikke følger os.<< v39 Men Jesus sagde: >>I skal ikke forbyde ham det; for der er ingen, der gør et under i mit navn og straks efter kan tale ondt om mig. v40 For den, der ikke er imod os, er for os. v41 For den, der giver jer et krus vand at drikke i mit navn, fordi I hører Kristus til, sandelig siger jeg jer: Han skal bestemt ikke gå glip af sin løn. 
+v14 Da de kom til disciplene, så de en stor skare omkring dem og skriftlærde som diskuterede med dem. v15 Og straks, da hele skaren så ham, blev de meget forbavsede og løb hen og hilste på ham. v16 Han spurgte dem: >>Hvad diskuterer I med dem?<< v17 Én fra skaren svarede ham: >>Lærer, jeg har bragt min søn til dig; han har en stum ånd. v18 Og hvor som helst den griber ham, kaster den ham ned, og han fråder og skærer tænder, og han stivner; og jeg har sagt til dine disciple at de skulle uddrive den, og de kunne ikke.<< v19 Men han svarede dem: >>Åh, vantro slægt! Hvor længe skal jeg være hos jer, hvor længe skal jeg holde jer ud? Bring ham til mig.<< v20 De bragte ham hen til ham; og da ånden så ham, sled den straks i ham, og han faldt om på jorden og rullede frådende rundt. v21 Han spurgte hans far: >>Hvor længe er dette sket for ham?<< Men han sagde: >>Fra barndommen af; v22 og den har mange gange kastet ham i ild og vand for at ødelægge ham; men hvis du kan noget, så vis os medlidenhed og hjælp os!<< v23 Men Jesus sagde til ham: >>Hvis du kan! Alt er muligt for den, som tror.<< v24 Straks råbte barnets far: >>Jeg tror, hjælp min vantro!<<  v25 Men da Jesus så at skaren stimlede sammen, truede han den urene ånd: >>Stumme og døve ånd! Jeg befaler dig: Far ud af ham, og far ikke mere ind i ham!<< v26 Den skreg og sled meget i ham og fór ud, og han blev som død, så at mange sagde: >>Han er død.<< v27 Men Jesus greb hans hånd og rejste ham op; og han stod op. v28 Da han var kommet ind i et hus, spurgte hans disciple ham privat: >>Hvorfor kunne vi ikke uddrive den?<< v29 Han sagde til dem: >>Den slags kan ikke uddrives undtagen ved bøn og faste.<<{T: Ordet faste mangler i nogle af de bedste håndskrifter.}
 
-v42 Og det var bedre for den, der forarger en af de her små, der tror, at der lå en møllesten om hans hals, og han var kastet i havet. v43 Og hvis din hånd forarger dig, så hug den af; det er bedre for dig at gå som en krøbling ind til livet end at have to hænder og ryge i helvede til den uudslukkelige ild, v44 [hvor deres orm ikke dør, og ilden ikke slukkes]{T: Verset findes ikke i alle håndskrifter}. v45 Og hvis din fod forarger dig, så hug den af; det er bedre for dig at gå lam ind til livet end at have to fødder og og blive kastet i helvede, v46 [hvor deres orm ikke dør, og ilden ikke slukkes]{T: Verset findes ikke i alle håndskrifter}. v47 Og hvis dit øje forarger dig, så riv det ud; det er bedre for dig at gå enøjet ind i Guds rige end at have to øjne og blive kastet i helvede, v48 hvor deres orm ikke dør, og ilden ikke slukkes. v49 For enhver skal saltes med ild, og ethvert offer skal saltes med salt. v50 Saltet er godt; men hvis saltet bliver saltløst, hvad vil I så givet det kraften tilbage med? Hav salt i jer selv, og hold fred med hinanden!<<
+==Forudsigelse af lidelsen==
 
+v30 De gik ud derfra og vandrede gennem Galilæa, og han ville ikke have at nogen skulle vide det. v31 For han underviste sine disciple og sagde til dem: >>Menneskesønnen vil blive udleveret til mennesker, og de vil slå ham ihjel; og når han er blevet slået ihjel, vil han opstå tre dage efter.<< v32 Men de forstod ikke det han sagde, og de var bange for at spørge ham.
 
+==Den største og den sidste==
 
+v33 De kom til Kapernaum, og da de var i huset, spurgte han dem: >>Hvad diskuterede I på vejen?<< v34 Men de tav; for på vejen havde de diskuteret hvem der var den største. v35 Han satte sig og kaldte på de tolv og sagde til dem: >>Hvis nogen vil være den første, skal han være den sidste af alle og alles tjener.<< v36 Han tog et lille barn, stillede det i deres midte og omfavnede det og sagde til dem: v37 >>Den som tager imod ét af den slags små børn i mit navn, tager imod mig; og den der tager imod mig, tager ikke imod mig, men imod den der har sendt mig.<<
 
+==Den fremmede eksorcist==
 
+v38 Johannes sagde til ham: >>Lærer! Vi så én uddrive dæmoner i dit navn; og vi forsøgte at hindre ham fordi han ikke fulgte os.<< v39 Men Jesus sagde: >>I må ikke hindre ham; for der er ingen som vil gøre en kraftig gerning i mit navn og straks kunne tale ondt om mig. v40 For den der ikke er imod os, er for os. v41 For den der giver jer et bæger vand at drikke i mit navn, fordi I tilhører Kristus, sandelig siger jeg jer: Han skal ikke miste sin løn. 
 
+==Advarsel mod frafald==
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+v42 Den som bringer en af disse små, som tror, til fald, for ham er det bedre at en møllesten bliver lagt om hans hals, og han blev kastet i havet. v43 Hvis din hånd bringer dig til fald, så hug den af; det er bedre for dig at gå forkrøblet ind til livet end med to hænder at gå bort til helvede, til den uudslukkelige ild, v44 [hvor deres orm ikke dør, og ilden ikke slukkes]{T: Verset mangler i en del af de ældste og bedste håndskrifter}. v45 Hvis din fod bringer dig til fald, så hug den af; det er bedre for dig at gå med én fod ind til livet end med to fødder at blive kastet i helvede, v46 [hvor deres orm ikke dør, og ilden ikke slukkes]{T: Verset mangler i en del af de ældste og bedste håndskrifter}. v47 Hvis dit øje bringer dig til fald, så riv det ud; det er bedre for dig at gå med et øje ind i Guds rige end med to øjne at blive kastet i helvede, v48 hvor deres orm ikke dør, og ilden ikke slukkes. v49 For enhver vil blive saltet med ild. v50 Saltet er godt; men hvis saltet bliver saltløst, med hvad vil I så krydre det med? Hav salt i jer selv, og hold fred med hinanden!<<
 
 

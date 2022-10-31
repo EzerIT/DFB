@@ -1,112 +1,50 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Ulrik Sandborg-Petersen og Bent Houmaa Jørgensen>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 1===
 
-==Johannes prædiker og døber: 1-8. Jesus døbes: 9-11, fristes: 12-13, prædiker: 14-15, kalder fire disciple: 16-20. Han prædiker i Kapernaum og uddriver en ond ånd: 21-28, helbreder Peters svigermor og flere: 29-34. Han beder på et øde sted, prædiker og helbreder rundt om i Galilæa: 35-39. Han helbreder en spedalsk: 40-45.==
+==Johannes Døber==
 
-v1 Begyndelsen på Jesu Kristi, Guds Søns, evangelium. v2 Ligesom der
-er skrevet hos profeten Esajas{T: De fleste håndskrifter læser: >>hos
-profeterne<<.}: >>Se, jeg sender min engel for dit ansigt, han skal
-forberede din vej. v3 Der er en stemme af en, der råber i ørkenen:
-Forbered Herrens vej, gør hans stier jævne!<<{T: Mal 3,1; Es 40,3} v4
-på samme måde kom Johannes, han, der døbte i ørkenen og prædikede
-omvendelsesdåb til syndernes forladelse. v5 Og hele Judæas land og
-alle i Jerusalem gik ud og blev døbt af ham i floden Jordan, idet de
-bekendte deres synder. v6 Og Johannes var klædt i kamelhår og havde et
-læderbælte om sin lænd og spiste græshopper og vild honning. v7 Og han
-prædikede og sagde: >>Efter mig kommer den, der er stærkere end jeg,
-hvis skorem jeg ikke er værdig til at bøje mig ned og løse. v8 Jeg har
-døbt jer med vand. Han, derimod, skal døbe jer med Helligånden.<<
+v1 Begyndelsen på evangeliet om Jesus Kristus, Guds Søn, v2 var ligesom der står skrevet hos profeten Esajas:
 
-v9 Og det skete i de dage, at Jesus kom fra Nazaret i Galilæa og blev
-døbt af Johannes i Jordan. v10 Og straks, da han steg op af{T: >>op
-af<< De fleste håndskrifter læser: >>op fra<<} vandet, så han himlene
-blive åbnet og Ånden dale ned over ham ligesom en due, v11 og der lød
-en stemme fra himlene: >>Du er min søn, den elskede, i dig{T: >>i
-dig<<: De fleste håndskrifter læser: >>i hvem<<.} har jeg velbehag.<<
+ >>Se, jeg sender min engel foran dit ansigt; han vil forberede din vej. 
 
-v12 Og straks drev Ånden ham ud i ørkenen. v13 Og han var i ørkenen
-fyrre dage, mens han blev fristet af Satan, og han var blandt dyrene,
-og englene betjente ham.
+v3 Der er en stemme af en der råber i ørkenen: Forbered Herrens vej, gør hans stier jævne!<<{H: Mal 3,1; Es 40,3}. 
 
-v14 Efter at Johannes var blevet overgivet,{T: >>var blevet
-overgivet<<: Nemlig i fængsel.} kom Jesus til Galiæa og prædikede
-Guds evangelium{T: >>prædikede Guds evangelium<<: De fleste
-håndskrifter læser: >>prædikede evangeliet om Guds rige<<.} v15 og
-sagde: >>Tiden er fuldendt, og Guds rige er kommet nær; omvend
-jer og tro på evangeliet!<<
+v4 Frem trådte Johannes, som døbte i ørkenen og forkyndte omvendelsesdåb til tilgivelse af syndere. v5 Hele Judæas land og alle i Jerusalem gik ud og blev døbt af ham i Jordanfloden idet de bekendte deres synder. v6 Johannes var klædt i kamelhår og havde et læderbælte om livet og spiste græshopper og vild honning. v7 Han forkyndte: >>Efter mig kommer den der er stærkere end jeg, hvis sandalrem jeg ikke er værdig til at bøje mig ned og løse. v8 Jeg har døbt jer med vand, men han vil døbe jer med Helligånd.<<
 
-v16 Og mens han gik langs Galilæas sø, så han Simon og Simons bror
-Andreas i gang med at kaste net i søen. De var nemlig fiskere. v17 Og
-Jesus sagde til dem: >>Følg efter mig, så vil jeg gøre jer til
-menneskefiskere.<< v18 Og de forlod øjeblikkeligt nettene og fulgte
-ham. v19 Og da han gik lidt videre{T: De fleste håndskrifter
-tilføjer >>derfra<<.}, så han Jakob, Zebedæus’ søn, og hans bror
-Johannes, som også var i gang med at ordne deres net i båden, v20
-og han kaldte straks på dem. Og de efterlod deres far Zebedæus i båden
-sammen med de hyrede folk og fulgte efter ham.
+==Jesu dåb==
 
-v21 Og de gik ind i Kapernaum. Og straks på sabbatten gik han ind i
-synagogen og underviste, v22 og de blev slået af forundring over hans
-undervisning; for han underviste dem som en, der havde myndighed, og
-ikke som de skriftlærde{N: Skriftlærd}. v23 Og der var i deres synagoge et menneske
-med en uren ånd, og han skreg op v24 og sagde: >>{T: De fleste
-håndskrifter tilføjer her: >>Åh!<<, et udråbsord, der på græsk
-udtrykker overraskelse, frygt eller foragt.}Hvad har vi med dig at
-gøre, Jesus af Nazareth? Er du kommet for at ødelægge os? Jeg kender
-dig og ved, hvem du er: Guds hellige.<< v25 Og Jesus truede den{T:
->>den<<: nemlig den urene ånd.} og sagde: >>Ti stille, og forsvind ud
-af ham!<< v26 Den urene ånd hev og sled i ham og skreg med høj stemme,
-og så forsvandt den ud af ham. v27 Og de blev alle sammen forfærdede,
-så de diskuterede med hinanden og sagde: >>Hvad er det her? En ny lære
-med myndighed; selv de urene ånder befaler han over, og de adlyder
-ham.<<{T: De fleste håndskrifter læser: >>Og de blev alle så
-forfærdede, at de diskuterede med hinanden og sagde: >Hvad er dette?
-Hvad er denne nye lære? For med myndighed byder han over selv de urene
-ånder, og de adlyder ham<.<<} v28 Og hans ry udbredtes med det samme
-overalt{T: De fleste håndskrifter udelader >>overalt<<.} i hele det
-område af Galilæa.
+v9 Det skete i de dage at Jesus kom fra Nazaret i Galilæa og blev døbt af Johannes i Jordan. v10 Og straks da han steg op af vandet, så han himlene skilles ad og Ånden stige som en due ned over ham, v11 og der lød en stemme fra himlene: >>Du er min søn, den elskede, dig har jeg udvalgt{T: Kan også oversættes: >>I dig har jeg velbehag.<<}.<<
 
-v29 Og straks, da de var kommet ud af synagogen, gik de ind i Simons og
-Andreas’ hus sammen med Jakob og Johannes. v30 Men Simons svigermor lå
-og havde feber, og de fortalte ham straks om hende; v31 og han gik hen
-til hende, tog hende ved hånden og rejste hende op, og feberen forlod
-hende,{T: De fleste håndskrifter tilføjer: >>øjeblikkeligt<<.} og hun
-vartede dem op. v32 Men da det var blevet aften, ved den tid solen gik
-ned, bragte de alle, som havde det skidt, og de besatte, til ham, v33
-og hele byen var forsamlet foran døren. v34 Og han helbredte mange,
-der led af mange slags sygdomme, og han uddrev mange onde ånder, og
-han tillod ikke de onde ånder at sige noget, fordi de kendte ham.
+==Jesu fristelse==
 
-v35 Og tidligt om morgenen, længe før det blev lyst, stod han op og
-gik ud, bort til et øde sted, og der bad han. v36 Og Simon og de, der
-var sammen med ham, fulgte efter ham. v37 Og da de fandt ham, sagde de
-til ham: >>Alle søger efter dig.<< v38 Og han sagde til dem: >>Lad os
-gå andre steder hen, til de nærliggende byer, for at jeg også kan
-prædike der; det er jo derfor, jeg er kommet.<< v39 Og han gik hen og
-prædikede i deres synagoger i hele Galilæa og uddrev de onde ånder.
+v12 Straks efter førte Ånden ham ud i ørkenen. v13 Han var i ørkenen fyrre dage mens han blev fristet af Satan, og han var blandt dyrene, og englene tjente ham.
 
-V40 Og der kom en spedalsk til ham, bad ham indtrængende og faldt på
-knæ for ham og sagde til ham: >>Hvis du vil, så kan du rense mig.<<
-v41 Og han blev fyldt af medfølelse, rakte sin hånd frem, rørte ved
-ham og sagde til ham: >>Jeg vil, bliv ren!<< v42 Og{T: de fleste
-håndskrifter tilføjer her: >>da han havde sagt det<<.} spedalskheden
-forlod ham med det samme, og han blev renset. v43 Og han sendte ham
-straks væk, talte strengt til ham v44 og sagde: >>Sørg for, at du ikke
-siger det til nogen; men gå hen, vis dig selv for præsten, og bring
-det offer for din renselse, som Moses har befalet, som et vidnesbyrd
-for dem!<<{T: 3. Mos 14,1-32} v45 Men han gik ud og begyndte at
-prædike meget og fortælle vidt og bredt, hvad der var sket, så at
-Jesus ikke længere kunne gå åbenlyst ind i nogen by; men han var
-udenfor på øde steder, og de kom til ham alle vegne fra.
+==Jesu forkyndelse i Galilæa==
 
+v14 Efter at Johannes var blevet fængslet, kom Jesus til Galilæa og forkyndte Guds evangelium: v15 >>Tiden er blevet opfyldt, og Guds rige er kommet nær; omvend jer og tro på evangeliet!<<
 
+==Kaldelsen af de første disciple==
 
+v16 Mens han gik langs Galilæas sø, så han Simon og Andreas, Simons bror, i færd med at kaste net i søen. For de var fiskere. v17 Jesus sagde til dem: >>Følg mig, og jeg vil gøre jer til menneskefiskere.<< v18 Straks forlod de deres net og fulgte ham. v19 Da han gik lidt videre, så han Jakob, Zebedæus’ søn, og hans bror Johannes, i deres båd i færd med at ordne deres net, v20 og straks kaldte han dem. De forlod deres far Zebedæus i båden sammen med daglejerne og fulgte efter ham.
 
+==Uddrivelsen af en uren ond==
 
+v21 De kom til Kapernaum, og straks på sabbatten kom han ind i synagogen og underviste, v22 og de blev slået af forundring over hans undervisning; for han underviste dem som en med myndighed og ikke som de skriftlærde. v23 Straks var der i deres synagoge et menneske med en uren ånd, og han skreg: v24 >>Hvad har vi med dig at gøre, Jesus af Nazaret? Er du kommet for at ødelægge os? Jeg ved hvem du er: Guds hellige.<< v25 Jesus truede den: >>Ti stille, og far ud af ham!<< v26 Den urene ånd sled i ham, skreg med høj stemme og for ud af ham. v27 De blev alle forfærdede, så de diskuterede med hinanden: >>Hvad er dette? En ny lære med myndighed; selv de urene ånder befaler han over, og de adlyder ham.<< v28 Rygtet om ham kom straks ud overalt i hele omegnen, nemlig Galilæa.
 
+==Peters svigermor==
 
+v29 Straks da de var kommet ud af synagogen, kom de til Simons og Andreas’ hus sammen med Jakob og Johannes. v30 Men Simons svigermor lå med feber, og straks fortalte de ham om hende; v31 og han gik hen til hende, greb hendes hånd og rejste hende op, og feberen forlod hende, og hun sørgede for dem. v32 Da det var blevet aften, og solen var gået ned, bar de alle de syge og de besatte til ham, v33 og hele byen var forsamlet ved døren. v34 Han helbredte mange, der led af mange slags sygdomme, og han uddrev mange dæmoner, og han tillod ikke dæmonerne at tale, fordi de kendte ham.
+
+==Jesu forkyndelse i synagoger==
+
+v35 Tidligt, mens det var helt mørkt, stod han op, gik ud og hen til et øde sted, og dér bad han. v36 Simon og de der var sammen med ham, skyndte sig efter ham. v37 De fandt ham og sagde til ham: >>Alle søger dig.<< v38 Han sagde til dem: >>Lad os gå andet steds hen, til de nærliggende landsbyer, for at jeg også kan forkynde dér; for det er derfor jeg kommet.<< v39 Han kom og forkyndte i deres synagoger i hele Galilæa og uddrev dæmoner.
+
+==Helbredelsen af en spedalsk==
+
+v40 En spedalsk kom til ham, bad ham og faldt på knæ for ham og sagde til ham: >>Hvis du vil, kan du gøre mig ren.<< v41 Han fik medlidenhed med ham, rakte sin hånd frem, rørte ved ham og sagde til ham: >>Jeg vil, bliv ren!<< v42 Straks forlod spedalskheden ham, og han blev renset. v43 Han talte strengt til ham og sendte ham straks væk, v44 og sagde: >>Se til at du ikke siger det til nogen; men gå hen og vis dig for præsten, og bring det offer for din renselse som Moses har befalet, til vidnesbyrd for dem!<<{H: 3 Mos 14,1-32} v45 Men han gik ud og begyndte at forkynde ivrigt og udbrede ordet, så at Jesus ikke mere kunne gå åbenlyst ind i en by, men var udenfor på øde steder, og de kom til ham alle vegne fra.
 

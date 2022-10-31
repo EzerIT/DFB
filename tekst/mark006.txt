@@ -1,54 +1,33 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 13.09.2017>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 6===
 
-==Jesus foragtes i Nazareth, 1-6. Han udsender de tolv, 7-13. Herodes mener, at han er Johannes, som han havde fået halshugget, 14-29. Apostlene kommer tilbage; Jesus underviser og giver 5000 mænd mad, 30-44. Han sender disciplene af sted, beder selv på bjerget og vandrer på søen, 45-52. Han helbreder mange syge, 53-56.==
+==Jesus i Nazaret==
 
-v1 Og han gik bort derfra. Han kom til sin fædreneby, og hans disciple fulgte ham. v2 Og da det blev sabbat, begyndte han at undervise i synagogen, og de mange, der hørte ham, blev forbavsede og sagde: >>Hvor har han dog det fra, og hvad er det for en visdom, han har fået, og sikke kraftige gerninger, der dog sker ved hans hænder! v3 Er det ikke ham, der er tømreren, Marias søn og bror til Jakob og Joses og Juda og Simon? Og bor hans søstre ikke her hos os?<< Og de blev forarget på ham. v4 Og Jesus sagde til dem: >>En profet er ikke foragtet undtagen i sit eget fædreland og iblandt sine slægtninge og i sit hus.<< v5 Og han kunne ikke gøre nogen kraftig gerning der; det var kun nogle få syge, han lagde hænderne på og helbredte. v6 Og han undrede sig over deres vantro. Og han gik rundt i landsbyerne deromkring og underviste.
+v1 Han gik derfra, og han kom til sin hjemby, og hans disciple fulgte ham. v2 Da det blev sabbat, begyndte han at undervise i synagogen, og mange hørte ham, og de blev slået af forundring og sagde: >>Hvor har han det fra, og hvad er det for en visdom som er givet ham, og hvilke kraftige gerninger sker dog ved hans hænder! v3 Er han ikke tømreren, Marias søn og bror til Jakob og Joses og Juda og Simon? Er hans søstre ikke her hos os?<< Og de blev forarget på ham. v4 Jesus sagde til dem: >>En profet er ikke foragtet undtagen i sin egen hjemby og blandt sine slægtninge og i sit hus.<< v5 Han kunne ikke gøre nogen kraftig gerning dér; bortset fra nogle få syge som han lagde hænderne på og helbredte. v6 Han undrede sig over deres vantro. Og han gik omkring i landsbyerne rundtom og underviste.
 
-v7 Og han kaldte de tolv til sig, og han begyndte at udsende dem to og to og gav dem magt over de urene ånder. v8 Og han befalede dem, at de ikke skulle tage noget med på vejen undtagen en stav, ikke noget brød, ingen taske, ingen penge i pungen, v9 men tage sandaler på og: >>Tag ikke to kjortler på!<< v10 Og han sagde til dem: ”Der, hvor I kommer ind i et hus, skal I blive, indtil I forlader stedet. v11 Og det sted, hvor man ikke vil tage imod jer og høre på jer, skal I forlade og ryste støvet under jeres fødder af som vidnesbyrd imod dem.<< v12 Og de gik ud og prædikede, at man skulle omvende sig. v13 Og de drev onde ånder ud og salvede mange syge med olie og helbredte dem.
+==Udsendelsen af de tolv==
 
-v14 Og kong Herodes hørte det, for hans navn var blevet kendt, og han sagde: >>Johannes Døberen er stået op af de døde, og derfor virker kræfterne i ham.<< v15 Nogle sagde: >>Det er Elias;<< men andre sagde: >>Det er en profet ligesom en af profeterne.<< v16 Men da Herodes hørte det, sagde han: >>Det er Johannes, som jeg har fået halshugget, der er opstået.<< v17 For Herodes havde selv sendt bud og ladet Johannes arrestere og kaste i fængsel på grund af sin broder Filips kone, Herodias, fordi han havde giftet sig med hende. v18 Johannes sagde nemlig til Herodes: >>Du har ikke lov til at havde din brors kone.<< v19 Men Herodias bar nag til ham og ville slå ham ihjel, og hun havde ikke magt til det. v20 For Herodes var bange for Johannes, fordi han vidste, at han var en retfærdig og hellig mand; og han holdt hånden over ham; og når han hørte ham, var han i tvivl om mange ting, og han hørte gerne på ham. v21 Og så kom der en belejlig dag, hvor Herodes på sin fødselsdag holdt en fest for sine stormænd og kommandanter og de fornemste i Galilæa, v22 og da selve Herodias’ datter kom ind og dansede, behagede hun Herodes og gæsterne. Og kongen sagde til pigen: >>Bed mig, om hvad som helst du vil, så vil jeg give dig det.<< v23 Og han lovede hende det med en ed og sagde: >>Hvad som helst du beder om, vil jeg give, indtil halvdelen af mit rige.<< v24 Og hun gik ud og sagde til sin mor: >>Hvad skal jeg bede om?<< Men hun sagde: >>Om Johannes Døberens hoved.<< v25 Og straks gik hun hurtigt ind til kongen, bad og sagde: >>Jeg vil, at du med det samme giver mig Johannes Døberens hoved på et fad.<< v26 Og selvom kongen blev meget ked af det, ville han dog for edernes og gæsternes skyld ikke afvise hende. v27 Og kongen sendte straks en af vagten og befalede at bringe hans hoved. v28 Og han gik hen og halshuggede ham i fængslet, og han bragte hans hoved på et fad og gav det til pigen, og pigen gav det til sin mor. v29 Og da hans disciple hørte det, kom de og tog hans lig og lagde det i en grav.
+v7 Han tilkaldte de tolv, og han begyndte at udsende dem to og to og gav dem fuldmagt over de urene ånder. v8 Han befalede dem at de ikke skulle tage noget med på vejen undtagen en stav, ikke brød, ingen taske, ingen penge i pungen, v9 men have sandaler på og ikke være iført to kjortler. v10 Han sagde til dem: >>Hvor I kommer ind i et hus, dér skal I blive indtil I går ud derfra. v11 Og det sted som ikke modtager jer eller hører på jer, derfra skal I gå ud, og ryst støvet under jeres fødder af som vidnesbyrd imod dem.<< v12 De gik ud og forkyndte at man skulle omvende sig. v13 De uddrev onde ånder og salvede mange syge med olie og helbredte dem.
 
-v30 Og apostlene samlede sig om Jesus, og de fortalte ham om alt, hvad de havde gjort, og hvad de havde lært folk. v31 Og han siger til dem: >>Kom I nu med til et øde sted, hvor vi kan være os selv, og hvil jer lidt,<< for der var mange, der gik til og fra, og de havde ikke engang ro til at spise. v32 Og de tog afsted i båden til et øde sted for sig selv. v33 Og man så dem tage af sted, og mange kendte dem, og til fods strømmede de sammen derhen fra alle byerne og kom før dem. v34 Og da han gik i land, så han en stor folkemængde, og han fik medlidenhed med dem; de var nemlig som får, der ikke har nogen hyrde; og han begyndte at lære dem meget. v35 Og da tiden allerede var fremskredet, kom hans disciple til ham og sagde: >>Stedet er øde, og tiden er allerede fremskredet. v36 Lad dem tage af sted, så de kan gå hen i de omkringliggende gårde og landsbyer og købe sig noget at spise.<< v37 Men han svarede og sagde til dem: >>Giv I dem noget at spise!<< Og de sagde til ham: >>Skal vi gå hen og købe brød for tohundrede denarer og give dem det at spise?<< v38 Men han siger til dem: >>Hvor mange brød har I? Gå hen og se efter!<< Og da de havde fået det at vide, sagde de: >>Fem, og to fisk.<< v39 Og han gav dem ordre til at få alle til at sætte sig ned i små flokke i det grønne græs. v40 Og de satte sig ned flok for flok, nogle på hundrede og nogle på halvtreds. v41 Og han tog de fem brød og de to fisk, så op mod himlen og velsignede; og han brækkede brødene i stykker og gav det til disciplene, så de kunne servere det for dem, og han delte de to fisk til dem alle sammen. v42 Og alle spiste og blev mætte. v43 Og de samlede tolv kurve fulde af stykker, også af fiskene. v44 Og der var fem tusind mænd, der spiste brødene.
+==Johannes Døbers død==
 
-v45 Og straks tvang  han sine disciple til at gå om bord i båden og i forvejen tage over til den anden side, til Betsajda, mens han selv fik folkemængden sendt afsted. v46 Og da han havde taget afsked med dem, gik han op på bjerget for at bede. v47 Og da det var blevet sent, var båden midt på søen, og han alene inde på land. v48 Og da han så, at de havde svært ved at ro, for vinden var imod dem, kom han hen til dem ved den fjerde nattevagt, gående på søen. Og han ville gå forbi dem. v49 Men da de så ham gå på søen, troede de, at det var et spøgelse, og de skreg. v50 For de så ham alle sammen og blev skrækslagne. Men han talte straks med dem og sagde til dem: >>Vær frimodige, det er mig, vær ikke bange!<< v51 Og han steg op i båden til dem, og vinden lagde sig, og de blev fuldstændig ude af sig selv. v52 For de var ikke blevet klogere af det, der var sket med brødene; men deres hjerte var forhærdet.
+v14 Kong Herodes hørte det, for hans navn var blevet kendt, og man sagde: >>Johannes Døberen er stået op fra de døde, og derfor virker kræfterne i ham.<< v15 Men andre sagde: >>Det er Elias;<< men andre igen sagde: >>Det er en profet ligesom en af profeterne.<< v16 Men da Herodes hørte det, sagde han: >>Johannes, som jeg har halshugget, er opstået.<< v17 For Herodes havde selv sendt bud og grebet Johannes og lænket ham i fængslet på grund af sin broder Filips hustru, Herodias, fordi han havde giftet sig med hende. v18 For Johannes havde sagt til Herodes: >>Det er dig ikke tilladt at have din brors hustru.<< v19 Men Herodias bar nag til ham og ville slå ham ihjel, men kunne ikke. v20 For Herodes frygtede Johannes fordi han vidste at han var en retfærdig og hellig mand; og han beskyttede ham; og når han hørte ham, var han meget i tvivl, men han hørte gerne på ham. v21 Men der kom en belejlig dag, da Herodes på sin fødselsdag holdt festmåltid for sine stormænd og hærførere og de fornemste i Galilæa, v22 og da Herodias’ datter kom ind og dansede,{T: Nogle af de ældste og bedste håndskrifter har: >>Og da hans datter Herodias kom ind<<} behagede hun Herodes og gæsterne. Og kongen sagde til pigen: >>Bed mig om hvad du vil, og jeg vil give dig det.<< v23 Han lovede hende det med en ed og sagde: >>Det du beder om, vil jeg give dig, indtil halvdelen af mit rige.<< v24 Hun gik ud og sagde til sin mor: >>Hvad skal jeg bede om?<< Men hun sagde: >>Johannes Døberens hoved.<< v25 Straks gik hun hurtigt ind til kongen og bad ham: >>Jeg vil at du straks giver mig Johannes Døberens hoved på et fad.<< v26 Skønt kongen blev bedrøvet, ville han dog for edernes og gæsternes skyld ikke afvise hende. v27 Kongen sendte straks bud til bødlen og befalede ham at bringe hans hoved. v28 Og han gik hen og halshuggede ham i fængslet, og han bragte hans hoved på et fad og gav det til pigen, og pigen gav det til sin mor. v29 Da hans disciple hørte det, kom de og tog hans lig og lagde det i en grav.
 
-v53 Og da de var sejlet over til land, kom de til Genezaret og lagde til der. v54 Og da de var steget ud af båden, kendte man ham med det samme. v55 Og de løb omkring i hele egnen og begyndte at bringe de syge på deres senge rundt der, hvor de hørte, at han var. v56 Og hvor som helst han gik ind i landsbyer eller byer eller gårde, lagde de de syge på torvene og bad ham om, at de måtte røre, om det så bare var ved kanten af hans kjortel, og alle de, der rørte ved ham, blev helbredt.
+==Bespisningen af de fem tusind==
 
+v30 Apostlene samlede sig om Jesus, og de fortalte ham om alt hvad de havde gjort, og hvad de havde undervist. v31 Han sagde til dem: >>Kom I alene med til et øde sted, og hvil jer lidt,<< for der var mange som kom og gik, og de havde ikke engang tid til at spise. v32 De tog afsted i båden til et øde sted alene. v33 Mange så dem tage af sted og kendte dem, og de løb til fods derhen fra alle byerne og kom før dem. v34 Da han kom frem, så han en stor skare, og han fik medlidenhed med dem, for de var som får der ikke har nogen hyrde; og han begyndte at undervise dem meget. v35 Da det allerede var blevet meget sent på dagen, kom hans disciple til ham og sagde: >>Stedet er øde, og det er allerede meget sent på dagen. v36 Send dem bort så de kan gå hen til gårdene rundt om og landsbyerne og købe sig noget at spise.<< v37 Men han svarede dem: >>Giv I dem noget at spise!<< De sagde til ham: >>Skal vi gå hen og købe brød for to hundrede denarer og give dem det at spise?<< v38 Men han sagde til dem: >>Hvor mange brød har I? Gå hen og se.<< Da de havde fået det at vide, sagde de: >>Fem, og to fisk.<< v39 Han befalede dem alle at sætte sig ned i grupper i det grønne græs. v40 De satte sig ned, flok for flok, nogle på hundrede og nogle på halvtreds. v41 Han tog de fem brød og de to fisk, så op mod himlen og velsignede dem; og han brød brødene og gav dem til disciplene for at de kunne sætte dem foran dem, og han delte de to fisk til alle. v42 Alle spiste og blev mætte. v43 De bar rester bort, tolv kurvefulde, også af fiskene. v44 Og de, der spiste brødene, var fem tusind mænd.
 
+==Vandringen på søen==
 
+v45 Straks nødte han sine disciple til at gå om bord i båden og sejle i forvejen til den anden side, til Betsajda, mens han sendte skaren bort. v46 Da han havde taget afsked med dem, gik han op i bjergene for at bede. v47 Da det var blevet aften, var båden midt på søen, og han alene på land. v48 Da han så dem slide med at ro, for vinden var imod dem, kom han gående på søen til dem ved den fjerde nattevagt, og han ville gå forbi dem. v49 Men da de så ham komme gående på søen, mente de at det var et spøgelse, og de skreg. v50 For alle så ham og blev forfærdede. Men straks talte han med dem og sagde til dem: >>Vær frimodige, det er mig, frygt ikke!<< v51 Han steg op i båden til dem, og vinden lagde sig, og de blev helt ude af sig selv. v52 For de havde ikke forstået det med brødene; men deres hjerte var blevet forhærdet.
 
+==Helbredelser ved Genesaret==
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+v53 Da de var sejlet over til land, kom de til Genesaret og lagde til der. v54 Da de var steget ud af båden, kendte man ham straks. v55 Og de løb omkring i hele den egn og begyndte at bringe de syge på deres bårer derhen hvor de hørte at han var. v56 Hvor som helst han gik ind i landsbyer eller byer eller gårde, lagde man de syge på torvene og bad ham om blot at måtte røre, om det så bare var ved kvasten på hans kappe, og alle de der rørte ved ham, blev helbredt.
 
 

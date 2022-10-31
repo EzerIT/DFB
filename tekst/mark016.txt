@@ -1,22 +1,15 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 29.04.2021>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.10.2022>!!
 
 ===Markusevangeliet, kapitel 16===
 
-== Kvinderne går ud til graven; en engel forkynder for dem at Jesus er opstået==
-v1 Da sabbatten var forbi, købte Maria Magdalene og Maria, Jakobs mor, og Salome duftende salver for at komme og salve ham. v2 Og meget tidligt på den første dag i ugen kom de til graven da solen stod op. v3 De sagde til hinanden: >>Hvem skal vælte stenen fra indgangen til graven for os?<< v4 Da de så op, opdagede de at stenen var væltet tilbage (for den var meget stor). v5 Da de kom ind i graven, så de en ung mand sidde ved den højre side, iført en hvid kjortel, og de blev forfærdede. v6 Men han sagde til dem: >>Bliv ikke forfærdede! I leder efter Jesus fra Nazareth, den korsfæstede; han er opstået, han er ikke her; se, der er stedet hvor de lagde ham. v7 Men tag afsted, sig til hans disciple og til Peter at han går i forvejen for jer til Galilæa; dér skal I se ham, som han har sagt til jer.<< v8 De gik ud og flygtede fra graven, for de var rystede og forfærdede; og de sagde ikke noget til nogen; for de var bange.
+==Opstandelsen==
 
-==Jesus åbenbarer sig for Maria Magdalene==
-v9 [Men da han var opstået tidligt den første dag i ugen, blev han først åbenbaret for Maria Magdalene, som han havde drevet syv onde ånder ud af. v10 Og hun gik hen og forkyndte det for dem, der havde været med ham, og som sørgede og græd. v11 Og da de hørte, at han levede og var set af hende, troede de det ikke. 
+v1 Da sabbatten var forbi, købte Maria Magdalene og Maria, Jakobs mor, og Salome velduftende olier for at gå ud og salve ham. v2 Og meget tidligt på den første dag i ugen kom de til graven da solen var stået op. v3 De sagde til hinanden: >>Hvem vil vælte stenen fra indgangen til graven for os?<< v4 Da de så op, så de at stenen var væltet bort, for den var meget stor. v5 Da de kom ind i graven, så de en ung mand sidde ved den højre side, iført en hvid kjortel, og de blev forfærdede. v6 Men han sagde til dem: >>Vær ikke forfærdede! I søger Jesus fra Nazaret, den korsfæstede; han er opstået, han er ikke her; se stedet hvor de lagde ham. v7 Men gå og sig til hans disciple og til Peter at han går i forvejen for jer til Galilæa; dér vil I se ham, ligesom han har sagt til jer.<< v8 De gik ud og flygtede fra graven, for de var rystede og forundrede; og de sagde ikke noget til nogen; for de var bange.
 
-==Jesus åbenbarer sig for de to på vejen==
-v12 Men derefter blev han åbenbaret i en anden skikkelse for to af dem på vejen, mens de gik ud på landet. v13 Og de gik hen og forkyndte det for de andre. Heller ikke dem troede de. 
+==Åbenbaring for disciplene==
 
-==Jesus viser sig for de elleve, befaler dem at prædike og lover sin hjælp==
-v14 Senere viste han sig for de elleve selv, mens de lå til bords, og han bebrejdede dem deres vantro og hårdhjertethed fordi de ikke havde troet dem der havde set ham opstået. v15 Og han sagde til dem: >>Gå ud i hele verden og prædik evangeliet for hele skabningen! v16 Den der tror og bliver døbt, skal blive frelst; men den der ikke tror, skal blive fordømt. v17 Men disse tegn skal følge dem der tror: I mit navn skal de uddrive onde ånder; de skal tale med nye tunger; v18 de skal tage slanger op, og hvis de drikker dødbringende gift, skal det ikke skade dem; på syge skal de lægge hænder, og de skal blive helbredt.<<
-
-==Jesus tages op til himlen, men er med apostlene i evangeliets tjeneste==
-v19 Og så blev Herren Jesus, efter at han havde talt til dem, taget op til himlen og satte sig ved Guds højre hånd. v20 Men de gik ud og prædikede alle vegne idet Herren arbejdede med og bekræftede ordet gennem de medfølgende tegn.]{T: Versene 9-20 findes ikke i de ældste håndskrifter.}
-
+v9 [Men da han var opstået tidligt den første dag i ugen, viste han sig først for Maria Magdalene, som han havde uddrevet syv dæmoner af. v10 Hun gik hen og fortalte det til dem som havde været sammen med ham, og som sørgede og græd. v11 Da de hørte at han levede og var blevet set af hende, troede de det ikke. v12 Men derefter viste han sig i en anden skikkelse for to af dem mens de gik ud på landet. v13 De kom og fortalte det til de andre, men heller ikke dem troede de. v14 Til sidst åbenbarede han sig for de elleve selv, mens de lå til bords, og han bebrejdede dem deres vantro og hårdhjertethed, fordi de ikke havde troet dem der havde set ham opstået. v15 Han sagde til dem: >>Gå ud i hele verden og forkynd evangeliet for hele skabningen. v16 Den som tror og bliver døbt, vil blive frelst; men den der ikke tror, vil blive fordømt. v17 Men disse tegn vil følge dem som tror: I mit navn vil de uddrive onde ånder; de vil tale med nye tunger; v18 de vil tage slanger op med deres hænder, og hvis de drikker dødbringende gift, vil det ikke skade dem; de vil lægge hænder på syge, og de vil blive helbredt.<< v19 Og så blev Herren Jesus, efter at han havde talt til dem, taget op til himlen, og han satte sig ved Guds højre hånd. v20 Men de gik ud og forkyndte overalt mens Herren virkede med og bekræftede ordet ved de tegn som fulgte med.]{T: Versene 9-20 findes ikke i de ældste og bedste håndskrifter.}

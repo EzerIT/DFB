@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Dato for denne version: 31.10.2022>!!
 ===Matthæusevangeliet, kapitel 2=== 
 
 ==De vise mænd==
@@ -19,7 +19,7 @@ v7 Så kaldte Herodes i hemmelighed de vise mænd til sig, og han spurgte dem n�
 
 ==Flugten til Egypten==
 
-v13 Men da de var draget bort, se, da viste Herrens engel sig i en drøm for Josef og sagde: >>Stå op, tag barnet og dets mor og flygt til Egypten og bliv dér, indtil jeg siger til, for Herodes vil søge efter barnet for at dræbe det.<< v14 Han stod op, tog barnet og dets mor med sig om natten og drog bort til Egypten. v15 Og han var dér indtil Herodes’ død for at det skulle opfyldes som er blevet talt af Herren ved profeten som sagde:{H: Hos 11,1.} {T: Det er en typologi. Ligesom Gud kaldte sin søn, Israel, fra Egypten, således kalder han senere sin søn, Jesus, fra Egypten} >>Fra Egypten kaldte jeg min søn.<< v16 Da nu Herodes så at han var blevet narret af de vise mænd, blev han meget vred, og han sendte folk og lod alle drenge fra to år og derunder dræbe i Betlehem og i hele dets omegn, i overensstemmelse med den tid han havde fået at vide af de vise mænd. v17 Da blev det opfyldt som er blevet talt ved profeten Jeremias som sagde:{H: Jer 31,15}
+v13 Men da de var draget bort, se, da viste Herrens engel sig i en drøm for Josef og sagde: >>Stå op, tag barnet og dets mor og flygt til Egypten og bliv dér, indtil jeg siger til, for Herodes vil søge efter barnet for at dræbe det.<< v14 Han stod op, tog barnet og dets mor med sig om natten og drog bort til Egypten. v15 Og han var dér indtil Herodes’ død for at det skulle opfyldes som er blevet talt af Herren ved profeten som sagde:{H: Hos 11,1.} >>Fra Egypten kaldte jeg min søn.<< v16 Da nu Herodes så at han var blevet narret af de vise mænd, blev han meget vred, og han sendte folk og lod alle drenge fra to år og derunder dræbe i Betlehem og i hele dets omegn, i overensstemmelse med den tid han havde fået at vide af de vise mænd. v17 Da blev det opfyldt som er blevet talt ved profeten Jeremias som sagde:{H: Jer 31,15}
 v18 En røst blev hørt i Rama, gråd og stor klage,
 
 Rakel græd over sine børn, og hun ville ikke lade sig trøste, 
@@ -27,5 +27,5 @@ Rakel græd over sine børn, og hun ville ikke lade sig trøste,
 for de er ikke mere.
 
 ==Hjemkomsten==
-v19 Men da Herodes var død, se, da viste en Herrens engel sig i en drøm for Josef i Egypten og sagde: v20 >>Stå op, tag dit barn og dets mor med dig og drag til Israels land, for de som stræbte efter barnets liv, er døde.<< v21 Og han stod op og tog barnet og dets mor med sig og kom til Israels land. v22 Men da han hørte at Arkelaus herskede som konge i Judæa i stedet for sin far Herodes, turde han ikke drage dertil, og han fik en befaling i en drøm, og han drog bort til Galilæas egne, v23 og han kom og bosatte sig i en by som hedder Nazaret for at det skulle opfyldes som er blevet talt ved profeterne, at han skulle kaldes nazaræer.{T: Ordet >>Nazaræer<< er nedvurderende, og der er tænkt på de profetier der taler om at Messias skal blive foragtet} {H: Sl 22,6-8; Sl 69,20-21; Es 52,13-15; Es 53,1-12).} 
+v19 Men da Herodes var død, se, da viste en Herrens engel sig i en drøm for Josef i Egypten og sagde: v20 >>Stå op, tag dit barn og dets mor med dig og drag til Israels land, for de som stræbte efter barnets liv, er døde.<< v21 Og han stod op og tog barnet og dets mor med sig og kom til Israels land. v22 Men da han hørte at Arkelaus herskede som konge i Judæa i stedet for sin far Herodes, turde han ikke drage dertil, og han fik en befaling i en drøm, og han drog bort til Galilæas egne, v23 og han kom og bosatte sig i en by som hedder Nazaret for at det skulle opfyldes som er blevet talt ved profeterne, at han skulle kaldes nazaræer.{H: Sl 22,6-8; Sl 69,20-21; Es 52,13-15; Es 53,1-12).} 
 
