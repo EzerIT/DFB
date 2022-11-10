@@ -2,7 +2,8 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2016>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 10.11.2022>!!
 
 ===Esajas’ Bog, kapitel 1===
 
@@ -52,183 +53,183 @@ vanartede børn!
 
 //11 ikke lindret med olie.
 
-v7 Jeres land er en ørken,
+//7 v7 Jeres land er en ørken,
 
-jeres byer er nedbrændte;
+//8 jeres byer er nedbrændte;
 
-fremmede æder jeres land op for øjnene af jer,
+//11 fremmede æder //9 jeres land //11 op for øjnene af jer,
 
-det er en ødemark, som når fremmede har hærget.
+//12 det er en ødemark, som når fremmede har hærget.
 
-v8 Og Zions datter er blevet tilbage som en hytte i en vingård,
+//13 v8 Og Zions datter er blevet tilbage som en hytte i en vingård,
 
 som et skur{T: Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.} i en agurkehave,
 
 som en belejret by.
 
-v9 Hvis ikke Hærskarers HERRE havde efterladt nogle få overlevende hos os,
+//10 v9 Hvis ikke Hærskarers HERRE havde efterladt nogle få overlevende hos os,
 
-havde vi været som Sodoma,
+//11 havde vi været som Sodoma,
 
-havde lignet Gomorra.
+//12 havde lignet Gomorra.
 
 ***
 
-v10 Hør JHVHs ord, I Sodomas fyrster!
+//4 v10 Hør JHVHs ord, //7 I Sodomas fyrster!
 
-Lyt til vores Guds lov, I Gomorras folk!
+//6 Lyt til vores Guds lov, //7 I Gomorras folk!
 
-v11 Hvad skal jeg med alle jeres mange ofre?
+//5 v11 Hvad skal jeg med alle jeres mange ofre?
 
-siger JHVH;
+//8 siger JHVH;
 
-jeg er mæt af brændofre af væddere
+//7 jeg er mæt af brændofre af væddere
 
-og fedtet af fedekvæg;
+//8 og fedtet af fedekvæg;
 
 blod af okser og lam og bukke
 
 har jeg ikke lyst til.
 
-v12 Når I kommer for at vise jer for mit ansigt,
+//6 v12 Når I kommer //8 for at vise jer for mit ansigt,
 
-hvem har da forlangt af jer
+//7 hvem har da forlangt af jer
 
-at mine forgårde skulle trampes ned?
+//9 at mine forgårde skulle trampes ned?
 
-v13 Bliv ikke ved med at komme frem med unyttigt madoffer,
+//8 v13 Bliv ikke ved med //11 at komme frem med unyttigt madoffer,
 
-røgelsen er afskyelig for mig;
+//10 røgelsen er afskyelig for mig;
 
-nymåner og sabbatter og festforsamlinger
+//9 nymåner og sabbatter //11 og festforsamlinger
 
-– jeg tåler ikke uret og højtid.
+//10 – jeg tåler ikke uret og højtid.
 
-v14 Min sjæl hader jeres nymåner og jeres højtider;
+//11 v14 Min sjæl hader jeres nymåner og jeres højtider;
 
-de er blevet en byrde for mig,
+//12 de er blevet en byrde for mig,
 
-jeg er træt af at bære dem.
+//14 jeg er træt af //15 at bære dem.
 
-v15 Og når I strækker jeres hænder ud,
+//13 v15 Og //16 når I strækker jeres hænder ud,
 
-skjuler jeg mine øjne for jer;
+//15 skjuler jeg mine øjne for jer;
 
-hvor meget I end beder, hører jeg det ikke;
+//14 hvor meget I end beder, //16 hører jeg det ikke;
 
-jeres hænder er fulde af blod.
+//15 jeres hænder er fulde af blod.
 
-v16 Vask jer, rens jer,
+//16 v16 Vask jer, //16 rens jer,
 
-fjern jeres gerningers ondskab fra mine øjne,
+//16 fjern jeres gerningers ondskab fra mine øjne,
 
-hold op med at handle ondt!
+//16 hold op med //17 at handle ondt!
 
-v17 Lær at gøre godt,
+//16 v17 Lær //17 at gøre godt,
 
-stræb efter ret,
+//16 stræb efter ret,
 
-retled den vanartede,
+//16 retled den vanartede,
 
-skaf den faderløse ret,
+//16 skaf den faderløse ret,
 
-før enkens sag!
+//16 før enkens sag!
 
 ***
 
-v18 Kom dog, og lad os gå i rette med hinanden,
+//4 v18 Kom dog, //6 og lad os gå i rette med hinanden,
 
-siger JHVH.
+//7 siger JHVH.
 
-Er jeres synder som purpur,
+//5 Er jeres synder som purpur,
 
-skal de blive hvide som sne;
+//8 skal de blive hvide som sne;
 
-er de røde som skarlagen,
+//7 er de røde som skarlagen,
 
-skal de blive som uld.
+//8 skal de blive som uld.
 
-v19 Hvis I er villige og lydige,
+//6 v19 Hvis I er villige //9 og lydige,
 
-skal I få landets goder at spise.
+//8 skal I få landets goder at spise.
 
-v20 Men hvis I er uvillige og trodsige,
+//7 v20 Men hvis I er uvillige //9 og trodsige,
 
-skal I fortæres{E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.} af sværdet;
+//8 skal I fortæres{E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.} af sværdet;
 
-for JHVHs mund har talt.
+//9 for JHVHs mund har talt.
 
-v21 Hvordan er den trofaste by blevet en luder?
+//3 v21 Hvordan er den trofaste by blevet en luder?
 
-Den var fuld af ret,
+//7 Den var fuld af ret,
 
-retfærdighed boede i den,
+//8 retfærdighed boede i den,
 
-men nu er der mordere.
+//6 men nu er der mordere.
 
-v22 Dit sølv er blevet til slagger,
+//7 v22 Dit sølv er blevet til slagger,
 
-din drik er fortyndet med vand.
+//9 din drik er fortyndet med vand.
 
-v23 Dine fyrster er genstridige
+//8 v23 Dine fyrster er genstridige
 
- og er i ledtog med tyveknægte;
+//9 og er i ledtog med tyveknægte;
 
-alle elsker de bestikkelse
+//11 alle elsker de bestikkelse
 
 og jager efter gaver;
 
-de vil ikke skaffe den faderløse ret,
+//10 de vil ikke skaffe den faderløse ret,
 
-og enkens sag kommer ikke for dem.
+//11 og enkens sag kommer ikke for dem.
 
-v24 Derfor siger Herren,
+//5 v24 Derfor siger Herren,
 
 Hærskarers HERRE, Israels Mægtige:
 
-Ve dem! Jeg vil gøre gengæld mod mine modstandere
+//6 Ve dem! Jeg vil gøre gengæld mod mine modstandere
 
-og hævne mig på mine fjender.
+//6 og hævne mig på mine fjender.
 
-v25 Og jeg vil vende min hånd imod dig
+//8 v25 Og jeg vil vende min hånd imod dig
 
-og smelte dine slagger af med ludsalt
+//8 og smelte dine slagger af med ludsalt
 
-og udskille alt dit tin.
+//8 og udskille alt dit tin.
 
-v26 Jeg vil give dig dommere som i den første tid
+//8 v26 Jeg vil give dig dommere som i den første tid
 
-og rådsherrer som i begyndelsen;
+//9 og rådsherrer som i begyndelsen;
 
-derefter skal du kaldes retfærdigheds by,
+//7 derefter skal du kaldes retfærdigheds by,
 
-en trofast by.
+//8 en trofast by.
 
-v27 Zion skal forløses ved ret
+//4 v27 Zion skal forløses ved ret
 
-og de omvendte i den ved retfærdighed.
+//6 og de omvendte i den ved retfærdighed.
 
-v28 Men overtræderne og synderne skal knuses,
+//5 v28 Men overtræderne og synderne skal knuses,
 
-og de, der forlader JHVH, skal omkomme.
+//8 og de, der forlader JHVH, skal omkomme.
 
-v29 For de skal blive til skamme på grund af de terebinter{T: Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.}
+//7 v29 For de skal blive til skamme på grund af de terebinter{T: Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.}
 
-som I begærede,
+//8 som I begærede,
 
-og I skal blive skamfulde på grund af de haver
+//6 og I skal blive skamfulde på grund af de haver
 
-der var jeres glæde.
+//9 der var jeres glæde.
 
-v30 For I skal blive som en terebinte der taber sine blade,
+//8 v30 For I skal blive som en terebinte der taber sine blade,
 
-og som en have hvor der ikke er vand.
+//9 og som en have //10 hvor der ikke er vand.
 
-v31 Og den stærke skal blive til blår,
+//7 v31 Og den stærke skal blive til blår,
 
-hans gerning til en gnist;
+//9 hans gerning til en gnist;
 
-begge dele skal brænde,
+//8 begge dele skal brænde,
 
-og der skal ikke være nogen der slukker.
+//9 og der skal ikke være nogen der slukker.
 

@@ -2,66 +2,67 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 29.01.2022>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 10.11.2022>!!
 
 ===Esajas’ Bog, kapitel 6===
 
 ==Esajas kaldes til profet==
 
-v1 I kong Uzzijas dødsår så jeg Herren sidde på en høj og ophøjet trone, og hans slæb fyldte templet. v2 Der stod serafer over ham. Hver af dem havde seks vinger; og med to skjulte de ansigtet, med to skjulte de deres fødder, og med to fløj de. v3 Og de råbte til hinanden og sagde:{T: Ordret: >>Denne råbte til denne og sagde.<<}
+//0 v1 I kong Uzzijas dødsår //1 så jeg Herren //3 sidde på en høj og ophøjet trone, //4 og hans slæb fyldte templet. //2 v2 Der stod serafer over ham. //3 Hver af dem havde seks vinger;//5 og med to skjulte de ansigtet, //6 med to skjulte de deres fødder, //6 og med to fløj de. //4 v3 Og de råbte til hinanden //5 og sagde:{T: Ordret: >>Denne råbte til denne og sagde.<<}
 
->>Hellig, hellig, hellig er Hærskarers HERRE; hele jorden er fuld af hans herlighed.<<
+//7 >>Hellig, hellig, hellig er Hærskarers HERRE; //8 hele jorden er fuld af hans herlighed.<<
 
-v4 Og dørposterne med dørtærsklerne rystede ved lyden af den der råbte, og huset blev fuldt af røg. v5 Da sagde jeg:
+//6 v4 Og dørposterne med dørtærsklerne rystede ved lyden af den der råbte, //7 og huset blev fuldt af røg. //1 v5 Da sagde jeg:
 
->>Ve mig, for det er ude med mig!
+//3 >>Ve mig, //4 for det er ude med mig!
 
-For jeg er en mand med urene læber,
+//5 For jeg er en mand med urene læber,
 
-og jeg bor midt iblandt et folk der har urene læber.
+//7 og jeg bor midt iblandt et folk der har urene læber.
 
-Og nu har mine øjne set Kongen, Hærskarers HERRE.<<{T: Ordret: >>For mine øjne har set Kongen…<<.}
+//6 Og nu har mine øjne set Kongen, Hærskarers HERRE.<<{T: Ordret: >>For mine øjne har set Kongen…<<.}
 
-v6 Så fløj en af seraferne hen til mig. I sin hånd havde han et stykke glødende kul, han havde taget fra alteret med en tang. v7 Og han berørte min mund og sagde:
+//2 v6 Så fløj en af seraferne hen til mig. //4 I sin hånd havde han et stykke glødende kul, //5 han havde taget fra alteret med en tang. //3 v7 Og han berørte min mund //3 og sagde:
 
->>Se, dette kul har rørt ved dine læber;
+//4 >>Se, dette kul har rørt ved dine læber;
 
- din skyld er fjernet,
+//5  din skyld er fjernet,
 
-og din synd er sonet.<<
+//6 og din synd er sonet.<<
 
 ***
 
-v8 Og jeg hørte Herrens stemme, som sagde: >>Hvem skal jeg sende? Og hvem vil gå for os?<< Da sagde jeg: >>Se, her er jeg, send mig!<< v9 Og han sagde:
+//1 v8 Og jeg hørte Herrens stemme, //2 som sagde: //3 >>Hvem skal jeg sende? //4 Og hvem vil gå for os?<< //1 Da sagde jeg: //3 >>Se, her er jeg, //4 send mig!<< //2 v9 Og han sagde:
 
->>Gå hen og sig til dette folk:
+//3 >>Gå hen //4 og sig til dette folk:
 
-I skal høre og høre, men ikke forstå,
+//5 I skal høre og høre, //7 men ikke forstå,
 
-se og se, men ikke erkende!
+//6 se og se, //7 men ikke erkende!
 
-v10 Gør dette folks hjerte fedt,
+//3 v10 Gør dette folks hjerte fedt,
 
-gør dets ører tunghøre, og smør dets øjne ind,
+//5 gør dets ører tunghøre, //5 og smør dets øjne ind,
 
-så det ikke ser med dets øjne og hører med dets ører
+//4 så det ikke ser med dets øjne //6 og hører med dets ører
 
-og forstår med dets hjerte,
+//7 og forstår med dets hjerte,
 
-så det omvender sig, og han må helbrede det.<<
+//5 så det omvender sig, //5 og han må helbrede det.<<
 
-v11 Men jeg spurgte: >>Hvor længe, JHVHv?<< Og han svarede:
+//1 v11 Men jeg spurgte: //3 >>Hvor længe, //4 JHVHv?<< //2 Og han svarede:
 
->>Indtil byerne ligger øde uden indbyggere,
+//3 >>Indtil byerne ligger øde //7 uden indbyggere,
 
-husene uden beboere,
+//6 husene //7 uden beboere,
 
-landet er helt ødelagt,
+//5 landet er helt ødelagt,
 
-v12 JHVH har ført folket langt bort,
+//4 v12 JHVH har ført folket langt bort,
 
-og der er mange forladte steder i landet.
+//5 og der er mange forladte steder i landet.
 
-v13 Og bliver der en tiendedel til overs i det, skal også den ødelægges.{T: Ordret: >>brændes ned<<.}
+//6 v13 Og bliver der en tiendedel //8 til overs i det, //7 skal også den //9 ødelægges.{T: Ordret: >>brændes ned<<.}
 
-Men ligesom der bliver en stub tilbage af terebinten og stenegen når de er fældet, sådan skal denne stub være hellig sæd.<<
+//8 Men ligesom der bliver en stub tilbage af terebinten //10 og stenegen når de er fældet, //9 sådan skal denne stub være hellig sæd.<<

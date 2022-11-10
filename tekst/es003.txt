@@ -2,151 +2,151 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2016>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 10.11.2022>!!
 
 ===Esajas’ Bog, kapitel 3===
 
 ==Dommen over folkets ledere==
 
-v1 For se, Herren, Hærskarers HERRE, skal tage al slags støtte fra Jerusalem og Juda,
+//0 v1 For se, Herren, Hærskarers HERRE, skal tage al slags støtte fra Jerusalem og Juda,
 
 hver støtte af brød og hver støtte af vand,
 
-v2 helt og kriger,
+//3 v2 helt og kriger,
 
 dommer og profet,
 
 spåmand og ældste,
 
-v3 befalingsmand over halvtreds og højt agtet,
+//3 v3 befalingsmand over halvtreds og højt agtet,
 
 rådsherre, trolddomskyndig og slangetæmmer. 
 
-v4 Og jeg vil give dem drenge til fyrster,
+//2 v4 Og jeg vil give dem drenge til fyrster,
 
-barnagtige skal regere over dem.
+//4 barnagtige skal regere over dem.
 
-v5 Folket skal undertrykke hinanden,
+//3 v5 Folket skal undertrykke hinanden,
 
-enhver imod sin næste;
+//6 enhver imod sin næste;
 
-de skal være overmodige,
+//7 de skal være overmodige,
 
-den unge imod den gamle
+//5 den unge imod den gamle
 
-og den ringeagtede imod den ærede.
+//6 og den ringeagtede imod den ærede.
 
-v6 Og når én tager fat i sin bror i sin fars hus og siger:
+//4 v6 Og når én tager fat i sin bror i sin fars hus og siger:
 
->>Du har en kappe, du skal være vores hersker;
+//6 >>Du har en kappe, //7 du skal være vores hersker;
 
-lad denne bunke ruiner være i din magt!<<{T: Ordret: >>i din hånd<<.}
+//8 lad denne bunke ruiner være i din magt!<<{T: Ordret: >>i din hånd<<.}
 
-v7 så skal han på den dag tage til orde og sige:
+//5 v7 så skal han på den dag tage til orde //6 og sige:
 
->>Jeg vil ikke være læge for jeres sår,{T: >>Jeg vil ikke være forbinder [af sår]<<.}
+//7 >>Jeg vil ikke være læge for jeres sår,{T: >>Jeg vil ikke være forbinder [af sår]<<.}
 
-og der er hverken brød eller tøj i mit hus;
+//9 og der er hverken brød //10 eller tøj i mit hus;
 
-sæt ikke mig til fyrste over folket!<<
+//8 sæt ikke mig til fyrste over folket!<<
 
-v8 For Jerusalem snubler, og Juda falder,
+//1 v8 For Jerusalem snubler, //4 og Juda falder,
 
-fordi deres tunge og deres gerninger er vendt mod JHVH
+//3 fordi deres tunge og deres gerninger er vendt mod JHVH
 
-for at trodse hans herligheds øjne.
+//6 for at trodse hans herligheds øjne.
 
 ==Sorgen over folkets synd==
 
-v9 Et blik på deres ansigter vidner imod dem,
+//5 v9 Et blik på deres ansigter vidner imod dem,
 
-de sætter deres synd til skue som Sodoma,
+//6 de sætter deres synd til skue som Sodoma,
 
-de skjuler den ikke.
+//7 de skjuler den ikke.
 
-Ve deres sjæl!
+//4 Ve deres sjæl!
 
-For de har påført sig selv ulykke.
+//7 For de har påført sig selv ulykke.
 
-v10 Sig om de retfærdige, at det skal gå dem godt;
+//6 v10 Sig om de retfærdige, //7 at det skal gå dem godt;
 
-for de skal nyde frugten af deres gerninger.
+//8 for de skal nyde frugten af deres gerninger.
 
-v11 Ve den ugudelige!
+//5 v11 Ve den ugudelige!
 
-Det skal gå ham skidt,
+//6 Det skal gå ham skidt,
 
-for det hans hænder har gjort, skal blive gengældt ham.
+//7 for det hans hænder har gjort, skal blive gengældt ham.
 
-v12 Mit folk! Din{T: >>Dets<<.} hersker opfører sig som et barn,
+//2 v12 Mit folk! Din{T: >>Dets<<.} //5 hersker opfører sig som et barn,
 
-kvinder hersker over det.
+//4 kvinder hersker over det.
 
-Mit folk! Dine vejledere vildleder dig,
+//3 Mit folk! //4 Dine vejledere vildleder dig,
 
-og vejen du vandrer på, har de slugt.{T: Eller >>dine stiers vej har de forvirret<<.}
+//5 og vejen du vandrer på, har de slugt.{T: Eller >>dine stiers vej har de forvirret<<.}
 
- v13 JHVH er trådt frem for at gå i rette,
+ //3 v13 JHVH //0 er trådt frem //4 for at gå i rette,
 
-og han stiller sig op for at dømme folkene.
+//2 og han stiller sig op //3 for at dømme folkene.
 
-v14 JHVH kommer med dom over sit folks ældste og over dets fyrster:
+//1 v14 JHVH kommer med dom over sit folks ældste og over dets fyrster:
 
->>I har afgræsset vingården,
+//4 >>I har afgræsset vingården,
 
-der er tyvegods fra den fattige i jeres huse.{T: Ordret: >>den fattiges rov er i jeres huse<<.}
+//6 der er tyvegods fra den fattige i jeres huse.{T: Ordret: >>den fattiges rov er i jeres huse<<.}
 
-v15 Hvorfor tramper I mit folk ned og knuser fattiges ansigter?<< siger Herren, Hærskarers HERRE.
+//5 v15 Hvorfor //6 tramper I mit folk ned //7 og knuser fattiges ansigter?<< //8 siger Herren, Hærskarers HERRE.
 
 ==Straffen over de fornemme==
 
-v16 Og JHVH sagde:
+//3 v16 Og JHVH sagde:
 
->>Fordi Zions døtre ophøjer sig
+//4 >>Fordi Zions døtre ophøjer sig
 
-og går med knejsende nakke,
+//6 og går med knejsende nakke,
 
-blinker forførende med øjnene,
+//7 blinker forførende med øjnene,
 
 går trippende
 
-og rasler med ankelringene,
+//8 og rasler med ankelringene,
 
-v17 så skal Herren gøre Zions døtres isse til en skorpe,
+//5 v17 så skal Herren gøre Zions døtres isse til en skorpe,
 
-og JHVH skal blotte deres nøgne skød.
+//6 og JHVH skal blotte deres nøgne skød.
 
-v18 På den dag skal Herren fjerne pynten: 
+//2 v18 På den dag skal Herren fjerne pynten: 
 
 Ankelringene, hovedbåndene{E: Der kan være tale om et dekorativt bånd, der går fra øre til øre. Det er også foreslået at ordet relaterer til det hebraiske *šemeš*, >>sol<<, og altså er en solamulet.} og månetegnene,
 
-v19 øreringene, armspænderne og slørene,
+//5 v19 øreringene, armspænderne og slørene,
 
-v20 hovedprydelsen, armbåndene,{T: Kan også være ankelkæder.}
+//5 v20 hovedprydelsen, armbåndene,{T: Kan også være ankelkæder.}
 
 brystbåndene, parfumedåserne og amuletterne,
 
-v21 fingerringene og næseringene,
+//5 v21 fingerringene og næseringene,
 
-v22 festtøjet, kåberne, kapperne og taskerne,
+//5 v22 festtøjet, kåberne, kapperne og taskerne,
 
-v23 spejlene,{E: Der er uenighed om hvad *gillāyôn* betyder. Nogle forstår det som små metalobjekter, der kan have været brugt som spejle. Andre forstår det som et stykke gennemsigtigt stof, eventuelt silke. Ordet bruges dog også i Es 8,1, hvor det klart bruges om en tavle, man kan skrive på.} det fine undertøj, turbanerne og sjalerne.
+//6 v23 spejlene,{E: Der er uenighed om hvad *gillāyôn* betyder. Nogle forstår det som små metalobjekter, der kan have været brugt som spejle. Andre forstår det som et stykke gennemsigtigt stof, eventuelt silke. Ordet bruges dog også i Es 8,1, hvor det klart bruges om en tavle, man kan skrive på.} det fine undertøj, turbanerne og sjalerne.
 
-v24 Og der skal være stank i stedet for vellugt,
+//4 v24 Og der skal være //5 stank i stedet for vellugt,
 
-reb i stedet for bælte,
+//7 reb i stedet for bælte,
 
-skaldet hoved i stedet for hårfletninger,
+//8 skaldet hoved i stedet for hårfletninger,
 
-sæk i stedet for kåbe –  
+//9 sæk i stedet for kåbe –  
 
-ja, i stedet for skønhed.
+//6 ja, i stedet for skønhed.
 
-v25 Dine mænd skal falde for sværdet
+//3 v25 Dine mænd skal falde for sværdet
 
-og din hærstyrke i krigen.
+//5 og din hærstyrke i krigen.
 
-v26 I hendes{T: Dvs. Jerusalems.} porte skal der være sorg og klage,
+//6 v26 I hendes{T: Dvs. Jerusalems.} porte skal der være sorg //4 og klage,
 
-og hun selv skal sidde tomhændet på jorden.
-
+//6 og hun selv skal sidde //5 tomhændet //6 på jorden.

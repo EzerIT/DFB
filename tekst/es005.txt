@@ -2,243 +2,244 @@
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2016>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 10.11.2022>!!
 
 
 ===Esajas’ Bog, kapitel 5===
 
 ==Sangen om vingården==
 
-v1 Jeg vil synge om min elskede,
+//0 v1 Jeg vil synge om min elskede,
 
-min elskedes sang om hans vingård.
+//2 min elskedes sang om hans vingård.
 
 Min elskede havde en vingård på en frugtbar skråning.{E: I grundteksten står der *qeren ben-šāmen*, >>på et horn, en søn af olie/fedt<<. Hornet er her et billede på en bakke, mens >>søn af olie<< er et billede på frugtbarhed og velsignelse.}
 
-v2 Han gravede den,
+//3 v2 Han gravede den,
 
-rensede den for sten
+//3 rensede den for sten
 
-og plantede den til med vinstokke.
+//3 og plantede den til med vinstokke.
 
-Han byggede et tårn midt i den
+//4 Han byggede et tårn midt i den
 
-og udhuggede endda en vinperse i den.
+//5 og udhuggede endda en vinperse i den.
 
- Og så ventede han at den skulle bære gode druer,
+ //4 Og så ventede han //6 at den skulle bære gode druer,
 
-men den bar vilde druer.
+//5 men den bar vilde druer.
 
-v3 Og nu, Jerusalems indbyggere og Judas mænd,
+//1 v3 Og nu, //4 Jerusalems indbyggere og Judas mænd,
 
-døm imellem mig og min vingård!
+//3 døm imellem mig og min vingård!
 
-v4 Hvad var der mere at gøre ved min vingård
+//4 v4 Hvad //7 var der mere at gøre ved min vingård
 
-som jeg ikke havde gjort ved den?
+//6 som jeg ikke havde gjort ved den?
 
-Hvorfor ventede jeg at den skulle bære gode druer,
+//5 Hvorfor ventede jeg //7 at den skulle bære gode druer,
 
-når den bar vilde druer?
+//6 når den bar vilde druer?
 
-v5 Og nu vil jeg lade jer vide
+//2 v5 Og nu vil jeg lade jer vide
 
-hvad jeg vil gøre ved min vingård:
+//4 hvad jeg vil gøre ved min vingård:
 
-Jeg vil fjerne dens hegn så den afgnaves;
+//3 Jeg vil fjerne dens hegn //4 så //5 den afgnaves;
 
-jeg vil rive dens gærde ned så den nedtrædes.
+//3 jeg vil rive dens gærde ned //5 så den nedtrædes.
 
-v6 Og jeg vil lægge den øde;
+//4 v6 Og jeg vil lægge den øde;
 
-den skal ikke beskæres og ikke hakkes,
+//6 den skal ikke beskæres //8 og ikke hakkes,
 
-men der skal vokse tjørn og tidsler.
+//7 men der skal vokse tjørn og tidsler.
 
-Jeg vil forbyde skyerne at lade regn falde på den.
+//8 Jeg vil forbyde skyerne //9 at lade regn falde på den.
 
-v7 For Israels hus er Hærskarers HERRES vingård,
+//5 v7 For Israels hus er Hærskarers HERRES vingård,
 
-og Judas mænd er hans kæreste plante.
+//7 og Judas mænd er hans kæreste plante.
 
-Han ventede lovlighed, men der blev lovløshed,{E: I grundteksten er der ordspil mellem lovlighed (*mišpāṭ*) og lovløshed (*miśpāḥ*).}
+//6 Han ventede lovlighed, //8 men der blev lovløshed,{E: I grundteksten er der ordspil mellem lovlighed (*mišpāṭ*) og lovløshed (*miśpāḥ*).}
 
-retfærd, men der blev voldsfærd!{E: I grundteksten er der ordspil mellem retfærd (*ṣdāqāʰ*) og voldsfærd (*ṣᵊʕāqāʰ*).}
+//7 retfærd, //8 men der blev voldsfærd!{E: I grundteksten er der ordspil mellem retfærd (*ṣdāqāʰ*) og voldsfærd (*ṣᵊʕāqāʰ*).}
 
 ==Seks veråb over det ulydige folk==
 
-v8 Ve dem der lægger hus til hus,
+//1 v8 Ve  //4 dem der lægger hus til hus,
 
-føjer mark til mark,
+//3 føjer mark til mark,
 
 til der ikke er mere plads tilbage,
 
-så I bliver siddende alene midt i landet.
+//4 så I bliver siddende alene midt i landet.
 
-v9 I mine ører lyder det fra Hærskarers HERRE:{E: >>lyder det fra<< er tilføjet her, men findes dog i Septuaginta.}
+//2 v9 I mine ører lyder det fra Hærskarers HERRE:{E: >>lyder det fra<< er tilføjet her, men findes dog i Septuaginta.}
 
->>Sandelig, de mange huse skal ødelægges,
+//3 >>Sandelig, de mange huse skal ødelægges,
 
-de store og gode huse være uden indbyggere!
+//5 de store og gode huse være uden indbyggere!
 
-v10 For en vingård på ti spand{T: Et spand er det areal, som et spand okser kan pløje på en dag.} skal kun give en bat,{T: En bat svarer til mellem 17 og 34 liter.} og en homer{T: Homer betyder ordret >>æsellast<<. En homer svarer altså til den vægt et æsel kan bære.} såsæd skal kun give en efa.<<{T: En efa svarer til en tiendedel af en homer.}
+//4 v10 For en vingård på ti spand{T: Et spand er det areal, som et spand okser kan pløje på en dag.} skal kun give en bat,{T: En bat svarer til mellem 17 og 34 liter.} //5 og en homer{T: Homer betyder ordret >>æsellast<<. En homer svarer altså til den vægt et æsel kan bære.} såsæd skal kun give en efa.<<{T: En efa svarer til en tiendedel af en homer.}
 
 ***
 
-v11 Ve dem som står tidligt op om morgenen
+//1 v11 Ve //5 dem som står tidligt op om morgenen
 
-og jager efter stærke drikke,
+//4 og jager efter stærke drikke,
 
-som sidder langt ud på aftenen og blusser af vin!
+//3 som sidder langt ud på aftenen //5 og blusser af vin!
 
-v12 Og citar og harpe,
+//4 v12 Og citar og harpe,
 
 tamburin og fløjte
 
 og vin hører til deres gilder;
 
-men de vil ikke se JHVHs gerning,
+//5 men de vil ikke se JHVHs gerning,
 
-og de har ikke syn for hans hænders værk.
+//6 og de har ikke syn for hans hænders værk.
 
-v13 Derfor skal mit folk føres bort,
+//2 v13 Derfor skal mit folk føres bort,
 
 for de har ingen kundskab;
 
-dets herlighed er sultne mænd,
+//4 dets herlighed er sultne mænd,
 
-og dets folkemængde er vansmægtet af tørst.
+//5 og dets folkemængde er vansmægtet af tørst.
 
-v14 Derfor skal dødsriget spærre sit gab vidt op
+//3 v14 Derfor skal dødsriget spærre sit gab vidt op
 
- og spile sin mund helt ud,
+//5 og spile sin mund helt ud,
 
-så både de fornemme og folkemængden,
+//4 så både de fornemme og folkemængden,
 
 den buldrende og den lystige,{E: Ordret >>hendes fornemme og hendes folkemængde og hendes buldrende og den jublende hos hende.<< >>Hendes<< refererer til Jerusalem.}
 
 skal styrte ned i det.
 
-v15 Mennesket skal nedbøjes, og manden ydmyges,
+//6 v15 Mennesket skal nedbøjes, //6 og manden ydmyges,
 
-og de hovmodiges øjne skal ydmyges.
+//8 og de hovmodiges øjne skal ydmyges.
 
-v16 Men Hærskarers HERRE skal være ophøjet ved dommen,
+//7 v16 Men Hærskarers HERRE skal være ophøjet ved dommen,
 
-den hellige Gud skal helliges ved retfærdighed.
+//8 den hellige Gud skal helliges ved retfærdighed.
 
-v17 Da skal lammene gå på græs som om marken var deres egen,
+//5 v17 Da skal lammene gå på græs som om marken var deres egen,
 
-og fremmede{E: Med støtte i Septuaginta vælger nogle at oversætte med >>geder<< i stedet for fremmede. På hebraisk ligner ordene hinanden, så den oversættelse kan forsvares.} skal æde de riges{T: Ordret >>fede<< som her er et billede på de rige og velnærede.} øde marker.
+//6 og fremmede{E: Med støtte i Septuaginta vælger nogle at oversætte med >>geder<< i stedet for fremmede. På hebraisk ligner ordene hinanden, så den oversættelse kan forsvares.} skal æde de riges{T: Ordret >>fede<< som her er et billede på de rige og velnærede.} øde marker.
 
 ***
 
-v18 Ve dem der trækker ondskaben fremad med falskhedens{T: Kan også oversættes med >>tomhedens<<.} tøjler
+//1 v18 Ve //2 dem der trækker ondskaben fremad med falskhedens{T: Kan også oversættes med >>tomhedens<<.} tøjler
 
-og synden med vognreb;
+//4 og synden med vognreb;
 
-v19 dem der siger: >>Lad ham skynde sig,
+//3 v19 dem der siger: //4 >>Lad ham skynde sig,
 
-lad hans gerning komme hurtigt,
+//4 lad hans gerning komme hurtigt,
 
-så vi kan se den;
+//6 så vi kan se den;
 
-lad det nærme sig,
+//5 lad det nærme sig,
 
-lad det komme,
+//6 lad det komme,
 
 det som Israels Hellige har bestemt,
 
-så vi kan kende det!<<
+//7 så vi kan kende det!<<
 
 ***
 
-v20 Ve dem der kalder det onde godt
+//1 v20 Ve //2 dem der kalder det onde //5 godt
 
-og det gode ondt;
+//4 og det gode //5 ondt;
 
-dem der gør mørke til lys
+//3 dem der gør mørke til lys
 
-og lys til mørke;
+//5 og lys til mørke;
 
-dem der gør bittert til sødt
+//4 dem der gør bittert til sødt
 
-og sødt til bittert! 
-
-***
-
-v21 Ve dem der er vise i deres egne øjne
-
-og forstandige i deres egne tanker! 
+//5 og sødt til bittert! 
 
 ***
 
-v22 Ve dem der er helte til at drikke vin
+//1 v21 Ve //3 dem der er vise i deres egne øjne
 
-og mestre i at blande stærke drikke!
+//4 og forstandige i deres egne tanker! 
 
-v23 Dem der frikender den ugudelige for bestikkelse
+***
 
-og berøver de retfærdige den ret, de har!
+//2 v22 Ve dem der er helte //6 til at drikke vin
 
-v24 Derfor, ligesom ildens tunge fortærer halm,
+//5 og mestre //6 i at blande stærke drikke!
 
-og strå synker sammen i luen,
+//4 v23 Dem der frikender den ugudelige for bestikkelse
 
-sådan skal deres rod blive som rådnet,
+//5 og berøver de retfærdige den ret, de har!
 
-og deres blomster hvirvles op som støv!
+//3 v24 Derfor, //7 ligesom ildens tunge fortærer halm,
 
-De har jo forkastet Hærskarers HERRES lov
+//8 og strå synker sammen i luen,
 
-og foragtet Israels Helliges tale.
+//6 sådan skal deres rod blive som rådnet,
 
-v25 Derfor er JHVHs vrede blusset op imod hans folk,
+//7 og deres blomster hvirvles op som støv!
 
-og han strækker sin hånd ud over det
+//5 De har jo forkastet Hærskarers HERRES lov
 
-og slår det, så bjergene ryster,
+//6 og foragtet Israels Helliges tale.
 
-og deres døde kroppe ligger som affald midt på gaderne.
+//4 v25 Derfor er JHVHs vrede blusset op imod hans folk,
 
-Trods alt dette fortryder han ikke sin vrede; 
+//6 og han strækker sin hånd ud over det
 
-hans hånd er stadig strakt ud.
+//7 og slår det, //8 så bjergene ryster,
 
-v26 Og han vil rejse et banner for folkeslagene i det fjerne 
+//9 og deres døde kroppe ligger som affald midt på gaderne.
 
-og fløjte efter dem fra jordens ende;
+//5 Trods alt dette fortryder han ikke sin vrede; 
 
-og se, de skal komme med lysets hast,{E: Verset starter med at referere til folkeslag i pluralis, men i resten af afsnittet er alle referencerne i singularis. Det kan måske skyldes, at folkeslagene ses som et kollektivt. I denne oversættelse er referencerne omskrevet til pluralis.}
+//7 hans hånd er stadig strakt ud.
 
- v27 der er ingen udmattet, ingen der snubler iblandt dem;
+//6 v26 Og han vil rejse et banner for folkeslagene i det fjerne 
 
-ingen blunder eller sover,
+//10 og fløjte efter dem fra jordens ende;
 
-bæltet om deres lænder løsnes ikke,
+//9 og se, de skal komme med lysets hast,{E: Verset starter med at referere til folkeslag i pluralis, men i resten af afsnittet er alle referencerne i singularis. Det kan måske skyldes, at folkeslagene ses som et kollektivt. I denne oversættelse er referencerne omskrevet til pluralis.}
 
-og ingens sandalrem går i stykker.
+//10 v27 der er ingen udmattet, //12 ingen der snubler iblandt dem;
 
-v28 Deres pile er spidsede,
+//11 ingen blunder //12 eller sover,
 
-og alle deres buer spændte;
+//13 bæltet om deres lænder løsnes ikke,
 
-deres hestehove er som flint
+//13 og ingens sandalrem går i stykker.
 
-og deres hjul som en hvirvelvind.
+//8 v28 Deres pile er spidsede,
 
-v29 Deres brøl er som hunløvens,
+//10 og alle deres buer spændte;
 
-de brøler som ungløverne.
+//9 deres hestehove er som flint
 
-De knurrer og griber byttet og fører det væk;
+//10 og deres hjul som en hvirvelvind.
 
-og der er ingen, der redder det.
+//7 v29 Deres brøl er som hunløvens,
 
-v30 Og de skal bruse ind over dem på den dag,
+//8 de brøler som ungløverne.
+
+//9 De knurrer //11 og griber byttet //13 og fører det væk;
+
+//12 og der er ingen, der redder det.
+
+//10 v30 Og de skal bruse ind over dem på den dag,
 
 som når havet bruser,
 
-og ser man på landet, da er der mørke og trængsel;
+//11 og ser man på landet, //12 da er der mørke og trængsel;
 
-lyset er formørket af de tykke skyer.
+//13 lyset er formørket af de tykke skyer.

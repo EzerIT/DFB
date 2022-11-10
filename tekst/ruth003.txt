@@ -1,34 +1,34 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 19.05.2021>!!
+!!<Eksegetisk layout: Mikkel Kølkær>!!
+!!<Dato for denne version: 10.11.2022>!!
 
 ===Ruths bog, kapitel 3===
 
 ==No'omi råder Ruth til at gå ind på tærskepladsen hvor Boaz har lagt sig efter han har tærsket byg, og lægge sig ved hans fødder for at få at vide om han vil gifte sig med hende i hendes mands sted; dette gør hun.==
 
-
-v1 Hendes svigermor No'omi sagde nu til hende: >>Min datter, mon ikke jeg skulle sørge for et hjem til dig, så det må gå dig godt? 
-v2 Vi er i familie med Boaz hvis unge piger du har fulgtes med. I nat tærsker han byg på tærskepladsen. 
-v3 Tag nu et bad, smør dig med salve og klæd dig på og gå ned til tærskepladsen. Du skal ikke give dig til kende for manden før han er færdig med at spise og drikke.
-v4 Når han lægger sig, skal du lægge mærke til hvor han lægger sig. Gå så hen og fjern kappen{E: *wᵊgillît margᵊlōtāʸw* betyder ordret >>afdæk fødderne<<. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.} fra hans fødder og læg dig. Han skal så give dig besked om hvad du skal gøre.<< 
-v5 Hun sagde til hende: >>Jeg vil gøre alt det du siger.<<
-v6 Hun gik ned til tærskepladsen og gjorde alt det som hendes svigermor havde givet hende besked på. 
-v7 Da Boaz havde spist og drukket og følte sig godt tilpas, gik han hen og lagde sig ved en dynge korn. Hun listede hen og fjernede kappen fra hans ben og lagde sig.
+//0 v1 Hendes svigermor No'omi sagde nu til hende: 2>>Min datter, //4 mon ikke jeg skulle sørge for et hjem til dig, //5 så det må gå dig godt? 
+//4 v2 Vi er i familie med Boaz //6 hvis unge piger du har fulgtes med. //5 I nat tærsker han byg på tærskepladsen. 
+//7 v3 Tag nu et bad, //7 smør dig med salve //7 og klæd dig på //7 og gå ned til tærskepladsen. //6 Du skal ikke give dig til kende for manden //9 før han er færdig //10 med at spise //11 og drikke.
+//8 v4 Når //10 han lægger sig, //9 skal du lægge mærke til //10 hvor han lægger sig. //9 Gå så hen //9 og fjern kappen{E: *wᵊgillît margᵊlōtāʸw* betyder ordret >>afdæk fødderne<<. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.} fra hans fødder //9 og læg dig. //7 Han skal så give dig besked om //8 hvad du skal gøre.<< 
+//1 v5 Hun sagde til hende: //4>>Jeg vil gøre //2 alt det //3 du siger.<<
+//1 v6 Hun gik ned til tærskepladsen //2 og gjorde alt det //3 som hendes svigermor havde givet hende besked på. 
+//0 v7 Da Boaz havde spist //2 og drukket //3 og følte sig godt tilpas, //2 gik han hen //3 og lagde sig ved en dynge korn. //1 Hun listede hen //1 og fjernede kappen fra hans ben //1 og lagde sig.
 
 ==Boaz roser hende for det og lover at han vil finde ud af om den anden arving, som er nærmere i familie med Elimelek, vil gifte sig med hende, ellers vil han. ==
 
-v8 Midt på natten begyndte manden at ryste af kulde og lænede sig frem, og se, der lå en kvinde ved hans fødder. 
-v9 Han sagde: >>Hvem er du?<< Hun svarede: >>Jeg er Ruth, din tjenestepige, giv din tjenestepige ly under dine vinger{E:*ûfāraśtā xᵊnāfexā* >>du skal sprede dine vinger<< er en allusion til 2,12, hvor det siges om Ruth at hun søgte beskyttelse under Guds vinger. I Ezek 16,8 og andre steder kan det være en vending som refererer til ægteskab.}, for du er løser.<< 
-v10 Han sagde: >>Velsignet være du for JHVH, min datter. Du har denne gang bevist at din kærlighed er bedre end første gang, for du er ikke gået efter en af de unge mænd, hvad enten han var fattig eller rig. 
-v11 Og nu, min datter, frygt ikke. Alt det du siger, vil jeg gøre for dig, for hele byen ved at du er en dygtig kvinde. 
-v12 Det er rigtigt at jeg er løser; men der er dog en der er nærmere end jeg. 
-v13 Bliv her natten over. I morgen kan vi se om han vil løse dig. Hvis han vil, så må han løse dig, men hvis han ikke har lyst til at løse dig, da vil jeg løse dig, så sandt JHVH lever. Bliv liggende til det bliver morgen!<<
+//0 v8 Midt på natten //1 begyndte manden at ryste af kulde //2 og lænede sig frem, //3 og se, //4 der lå en kvinde ved hans fødder. 
+//2 v9 Han sagde: //4 >>Hvem er du?<< //4 Hun svarede://5  >>Jeg er Ruth, din tjenestepige, //6 giv din tjenestepige ly under dine vinger{E:*ûfāraśtā xᵊnāfexā* >>du skal sprede dine vinger<< er en allusion til 2,12, hvor det siges om Ruth at hun søgte beskyttelse under Guds vinger. I Ezek 16,8 og andre steder kan det være en vending som refererer til ægteskab.}, //7 for du er løser.<< 
+//4 v10 Han sagde: //5 >>Velsignet være du for JHVH, //9 min datter. //8 Du har denne gang bevist at din kærlighed er bedre end første gang, //9 for du er ikke gået efter en af de unge mænd, //10 hvad enten han var fattig //11 eller rig. 
+//7 v11 Og nu, //8 min datter, //9 frygt ikke. //11 Alt det //13 du siger, //12 vil jeg gøre for dig, //10 for hele byen ved //11 at du er en dygtig kvinde. 
+//8 v12 Det er rigtigt //9 at jeg er løser; //10 men der er dog en //11 der er nærmere end jeg. 
+//6 v13 Bliv her natten over. //7 I morgen kan vi se om han vil løse dig. //8 Hvis han vil, //10 så må han løse dig, //9 men hvis han ikke har lyst //11 til at løse dig, //10 da vil jeg løse dig, //11 så sandt JHVH lever. //6 Bliv liggende til det bliver morgen!<<
 
 ==Boaz giver Ruth seks portioner byg og lader hende gå.==
 
-v14 Hun lå ved hans fødder til det blev morgen, og stod op mens man endnu knapt kunne se hinanden i mørket, og han sagde: >>Lad ingen opdage at en kvinde er kommet ind på tærskepladsen.<< 
-v15 Og han sagde: >>Tag det sjal frem som du har på, og hold det ud.<< Hun holdt det ud, og han målte seks portioner byg op og gav hende dem. Så gik hun ind til byen.
-v16 Da hun kom til sin svigermor, spurgte hun: >>Hvordan er det gået dig, min datter?<< Og hun fortalte hende alt det manden havde gjort. 
-v17 Og hun sagde: >>Disse seks portioner byg gav han mig, for han sagde til mig: >Du skal ikke komme tomhændet hjem til din svigermor.<<< 
-v18 Og hun sagde: >>Bliv her, min datter, indtil du får at vide hvordan sagen falder ud. For den mand vil ikke hvile før han i dag har fået afsluttet denne sag.<<
+//4 v14 Hun lå ved hans fødder til det blev morgen, //4 og stod op //5 mens man endnu knapt kunne se hinanden i mørket, //4 og han sagde: //5 >>Lad ingen opdage //6 at en kvinde er kommet ind på tærskepladsen.<< 
+//4 v15 Og han sagde: //5 >>Tag det sjal frem //7 som du har på, //6 og hold det ud.<< //4 Hun holdt det ud, //4 og han målte seks portioner byg op //4 og gav hende dem. //4 Så gik hun ind til byen.
+//4 v16 Da hun kom til sin svigermor, //4 spurgte hun: //5 >>Hvordan er det gået dig, //6 min datter?<< //4 Og hun fortalte hende alt det //5 manden havde gjort. 
+//4 v17 Og hun sagde: //5 >>Disse seks portioner byg gav han mig, //6 for han sagde til mig: //7 >Du skal ikke komme tomhændet hjem til din svigermor.<<< 
+//4 v18 Og hun sagde: //5 >>Bliv her,//8 min datter, //7 indtil du får at vide //8 hvordan sagen falder ud. //6 For den mand vil ikke hvile //7 før han i dag har fået afsluttet denne sag.<<
