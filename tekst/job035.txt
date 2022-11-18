@@ -1,0 +1,56 @@
+!!<Modenhed: Rå oversættelse>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.11.2022>!!
+
+===Jobs bog, kapitel 35===
+ 
+==Elihu anklager Job.==
+ 
+//0 v1 Elihu forsatte så 
+//1 med at svare: 
+//2 v2 >>Har du mon tænkt på dette i forhold til retten: 
+//4 Du sagt: 
+//6 >Min retfærdighed er fra Gud,<{E: Denne ordrette oversættelse kunne tolkes på mange andre måder: Jeg er mere retfærdig end Gud, jeg er retfærdig uden Gud eller jeg vil få ret i forhold til Gud.}
+//5 v3 skønt du siger:{E: Oversættelsen af  kî >>for, fordi, at, når, skønt<< vil helt afhænge af fortolkningen af sammenhængen og læsningen af bogen.}
+//8 >Hvad gavner det mig? 
+//9 Hvordan får jeg gavn af at undgå synd?< 
+ 
+//7 v4 Jeg vil svare dig igen med ord
+//9 og dine venner med dig: 
+//8 v5 Kig op mod himlen 
+//11 og se; 
+//11 betragt skyerne, 
+//10 de ligger højt over dig.
+//9 v6 Hvis du har syndet, 
+//11 hvad kunne du udføre iforhold til ham? 
+//10 Er dine overtrædelser mange, 
+//11 hvad kunne du gøre imod ham? 
+//9 v7 Men hvis du har ret, 
+//11 hvad kunne du så give ham
+//12 eller hvad ville han da tage imod fra din hånd? 
+//10 v8 For et menneske som dig, hvad ville din ugudelighed gælde, 
+//14 eller for en menneskesøn din retfærdighed?
+ 
+//13 v9 Over de mange tilfælde af undertrykkelse råber de, 
+//14 de skriger om hjælp på grund af de mægtiges arm. 
+//12 v10 Men ingen siger: 
+//13 >Hvor er Gud som skabte mig, 
+//15 han som giver lovsange om natten, 
+//14 v11 som belærer os bedre end dyrene på jorden 
+//15 og gør os visere end himlens fugle?< 
+//11 v12 Da råber de, 
+//13 men han svarer ikke på grund af de ondes hovmod.
+//12 v13 Dog, falskhed lytter Gud ikke til, 
+//13 og den Almægtige kigger ikke efter den. 
+//6 v14 Mon du da for alvor vil sige: 
+//8 >Du må ikke kigge.<
+//7 Retten er jo sat i hans nærvær,{T: Ordret: >>for hans ansigt<<.} 
+//8 og du skal bare vente på ham!
+ 
+//3 v15 Men nu, 
+//4 fordi hans vrede ikke straffer, 
+//6 og han ikke går op i overmodet,{E: Hebraisk: *wᵊlōˀ-yādaʕ bappaš mᵊʔōd* >>ikke kender (personligt)/vedkender sig tåbelighed særlig meget.<<} 
+//5 v16 så åbner Job sin mund med tom snak, 
+//6 han kommer med mange ord uden forstand.<<

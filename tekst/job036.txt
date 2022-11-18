@@ -1,0 +1,95 @@
+!!<Modenhed: Rå oversættelse>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.11.2022>!!
+
+===Jobs bog, kapitel 36===
+ 
+==Elihu lovpriser Guds storhed== 
+ 
+//0 v1 Elihu forsatte så 
+//1 med at svare: 
+//2 v2 >>Vær tålmodig med mig lidt endnu, 
+//5 så skal jeg belære dig, 
+//7 for her er endnu en tale om Gud. 
+//6 v3 Jeg vil bringe min kundskab langt borte fra 
+//8 og yde retfærdighed mod min skaber. 
+//7 v4 For sandelig, mine ord er ikke løgn, 
+//8 en med fuldkommen viden er hos dig.
+ 
+//4 v5 Se, Gud er mægtig, 
+//8 og han vil ikke forkaste nogen. 
+//7 Han er mægtig i sin viljestyrke.{E: Hebraisk kōₐḥ lēv >>hjertes styrke<< kan hentyde både til stor forstand og stærk vilje.}
+//6 v6 Han lader ikke en ugudelig bevare livet, 
+//10 men skaffer de elendige ret. 
+//9 v7 Han vender ikke sine øjne væk fra den retfærdige, 
+//11 men er hos konger på tronen 
+//10 De bor der for evigt,
+//11 og han ophøjer dem i ære.
+//8 v8 Hvis de bliver lagt i lænker, 
+//11 bliver fanget i lidelsens reb, 
+//10 v9 da forkynder han dem deres gerninger og deres oprør, 
+//11 at de var overmodige.
+//10 v10 Han åbnede deres ører for retledning
+//10 og sagde 
+//11 at de skulle vende sig bort fra uretfærdighed. 
+//9 v11 Hvis de da vil høre 
+//12 og tjene ham, 
+//11 ender deres dage i det gode 
+//12 og deres år i velbehag 
+//10 v12 men hvis de ikke vil høre, 
+//11 da skal de omkomme ved kastespyd
+//12 og udånde uden kundskab. 
+//7 v13 De af hjertet gudsfornægtende skaber vrede, 
+//9 de råber ikke til ham 
+//10 når han binder dem. 
+//8 v14 Deres sjæl dør hen i ungdommen 
+//9 og deres liv som tempelskøgerne.{E: Hebraisk qᵊdēšîm >>indviede<< kan referere til afgudsdyrkere, men fortolkes af mange som tempelprostitution.}
+//5 v15 Han frelser dem midt i deres lidelse 
+//7 og åbner i undertrykkelsen deres ører.
+ 
+//6 v16 Men han satte{T: Se bemærkningerne til dette verbum i Job 2,3.} dig gennem trængslens åbning ud til det vidtstrakte sted,
+//10 hvor der ingen begrænsninger er,
+//9 og til afslapningen ved dit bord, der er fuldt af fede retter.
+//8 v17 Men du er fyldt op af retssagen mod den ugudelige, 
+//9 en retssag og lovgivningen holder dig fange. 
+//10 v18 For vreden, 
+//12 den er for at du ikke skal overbevises af spot, 
+//11 og den store løsesum slå dig ud.{E: Det er helt uklart hvordan penge kan kombineres med  *nth* >>strække ud<< og en person som objekt.} 
+//7 v19 Mon dit råb om hjælp kan ordne det 
+//9 så du undgår trængsel, 
+//8 eller er det hele styrken i din magt? 
+//3 v20 Du skal ikke længes efter natten 
+//6 for at føre folk op fra deres sted.{E: De kryptiske vendinger kan være en beskrivelse af døden.}
+//5 v21 Tag dig i agt, 
+//4 vend dig ikke til uret, 
+//7 for den kan du komme til at vælge på grund af lidelsen.
+ 
+//6 v22 Se, Gud er ophøjet ved sin styrke. 
+//7 Hvem er en lærer som han? 
+//8 v23 Hvem kunne bebrejde ham hans vej,
+//9 og hvem kunne sige: 
+//10 >Du har øvet uret.<?{E: Ordet *ʕawlāʰ* er betegnelsen for den uret som Job bekæmper, men oversættes også i nogen situationer med >>falskhed<< (Job 13,7; 27,4) eller >>ondskab<< (24,20).}
+//5 v24 Husk på 
+//8 at du skal berømme hans gerning 
+//9 som folk har prist.
+//7 v25 Alle mennesker har set den, 
+//8 mennesket kan betragte den på lang afstand.
+//6 v26 Se, Gud er stor, 
+//9 og vi kan ikke vide noget om antallet på hans år,
+//10 ikke en gang ved en undersøgelse! 
+//8 v27 For han kan trække dråber af vand op
+//9 og så lede regnen gennem kilder; 
+//10 v28 når skyerne lader det øse ned, 
+//11 så drypper det på en overflod af mennesker.
+//7 v29 Mon nogen forstår udbredelsen af hans skyer, 
+//9 tordenskraldene fra hans hytte?
+//8 v30 Se, han spreder lyset over den 
+//10 og dækker havets rødder,
+//11 v31 fordi han ved dem udøver sit styre over folkene, 
+//12 giver mad i overflod.
+//9 v32 Ved sine håndflader har han skjult lyset, 
+//11 men så befalede han dets lynnedslag. 
+//10 v33 Dets tordenskrald kan forkynde om ham, 
+//11 også kvæget om at han drager op. 

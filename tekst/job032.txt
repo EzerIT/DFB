@@ -1,0 +1,81 @@
+!!<Modenhed: Rå oversættelse>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.11.2022>!!
+
+===Jobs bog, kapitel 32===
+ 
+==Elihu bebrejder de tre venner==
+ 
+//0 v1 Da holdt disse tre mænd op 
+//2 med at svare Job, 
+//3 fordi han var retfærdig efter sin egen opfattelse{T: Ordret >>i sine egne øjne<<.} 
+//1 v2 Så blev Elihu fra Buz, som var søn af Barak’el og af Rams slægt, rasende.{T: Ordret her og i det følgende: >>vreden flammede op i<<.}
+//4 På Job blev han rasende, 
+//6 fordi han mente at han selv havde mere ret end Gud {E: Hebraisk *ʕal-ṣaddᵊqô nafšô mēˀᵉlōhîm* betyder ordret >>på grund af at give sin sjæl/sig selv ret/fremstå retfærdig fra Gud<< kan også tolkes om at retfærdiggøre sig selv uden Gud eller mere end Gud. Piel bruges i samme konstruktion i Jer 3,11, og ellers kun i Job 33,32 og Ez 16,51-52}. 
+//5 v3 og på hans tre venner blev han rasende
+//6 fordi de ikke kunne finde noget svar, 
+//7 og de regnede Job for ugudelig.
+ 
+//3 v4 Men Elihu havde ventet på at Job blev færdig med sit indlæg,{T: Ordret: >>ventet på i ord<<.}
+//4  for de andre var ældre end han. 
+//2 v5 Da Elihu så 
+//4 at der ikke var noget svar i de tre mænds taler,{T: Ordret >>mund<<.}
+//3 blev han rasende. 
+//2 v6 Så svarede Elihu fra Buz, Barak’els søn,
+//3 og sagde: 
+//4 >>Jeg er ung af år, 
+//8 men I er ældre mænd, 
+//7 derfor holdt jeg mig tilbage{E: Verbet *zāḥal* forekommer tre gange i Den hebraiske Bibel og bruges om at krybe som en slange, men tillægges her ofte betydningen af at vente.}
+//10 og var bange for 
+//11 at dele min forståelse med jer.{E: Hebr. *ḥawwōt dēʕî* ordret >>informere om min kundskab<<. Det kan referere til kundskab, kendskab eller erkendelse.}
+//9 v7 Jeg tænkte:{T: Ordret >>sagde<<}
+//10 >Lad dagene tale, 
+//12 og de mange år kundgøre visdom!< 
+//11 v8 Dog,
+//12 Ånden{E: Hebr*rûₐḥ* kan være brugt om et menneskets ånd, men det står her parallelt til *nᵊšāmāʰ* som ofte oversættes >>livsånde<< (1 Mos 2,7), men henviser til åndedrættet, som Gud gav til liv.} skal være i mennesket
+//14 og den Almægtiges åndedræt skal gøre ham forstandig;  
+//13 v9 det er ikke de mange som er vise, 
+//14 eller de gamle der forstår retten. 
+//8 v10 Derfor siger jeg: 
+//9 >Hør på mig, 
+//10 også jeg vil dele min forståelse.< 
+//6 v11 Se, jeg ventede på jeres ord,
+//8 lagde øre til jeres indsigt,
+//9 indtil I fik tænkt jer frem til{T: Ordret >>udforske<<.} de rette ord.
+//7 v12 Og jeg har forsøgt at forstå jer,
+//10 men se,  
+//11 der var ingen af jer
+//13 som kunne gendrive Job
+//14 og svare på hans tale
+//12 blandt jer
+//9 v13 så sig ikke:{E: Det hebraiske *pen* >>for at ikke<< underforstår >>og det siger jeg for at<< eller endda >>Jeg advarer jer for at<<} 
+//10 >Vi har fundet visdom. 
+//11 Gud må feje ham af banen,{T: Ordret >>blæse væk<< som i Sl 1,4.}
+//12 ikke et menneske.< 
+//8 v14 Men han har ikke rettet sin tale mod mig, 
+//9 og jeg vil ikke svare ham igen med jeres ord.
+//5 v15 De er blevet forskrækkede, 
+//8 de kan ikke svare mere, 
+//7 ordene er blevet borte for dem. 
+//6 v16 Så jeg har ventet, 
+//8 fordi de ikke kan tale. 
+//9 fordi de har stået der, 
+//10 kunne ikke længere svare. 
+//7 v17 Nu vil jeg også svare med mit bidrag,{T: Hebraisk har *ḥēleq* >>portion, andel<<; meningen må være at det nu er hans tur.} 
+//7 også jeg vil dele min forståelse, 
+//11 v18 for jeg er fuld af ord
+//12 ånden i mit indre trænger sig på {T: Den hebraiske tekst har et lidt mere saftigt billede i v. 18 og 19: >>ånden (eller luften) i min mave trykker, se bare, min mave er som (gæret) vin, der ikke er lukket ud.<<}
+//10 v19 ja, mit indre er som en vin 
+//12 der ikke er åbnet for, 
+//11 som en ny lædersæk sprænges den. 
+//9 v20 Jeg må tale 
+//10 så jeg kan få luft; 
+//8 jeg må åbne mine læber 
+//10 og svare.
+//9 v21 Jeg vil ikke undgå at nogen taber ansigt,{E:  Hebr *ʔal-nāˀ ʔeśśāˀ fᵊnê-ʔîš* >>lad mig ikke løfte en mands ansigt<< dækker sikkert over at Elihu ikke vil tage høflighedshensyn.}
+//11 og vil ikke smigre noget menneske, 
+//10 v22 for jeg forstår mig ikke 
+//11 på at smigre, 
+//12 og fordi min skaber ville lade mig tabe med det samme.<<{E: Hebr. *mʕaṭ yiśśāʔēnî’* >>pludselig løfte mig<< har et tydeligt ordspil på v. 21: løfte en andens ansigt og selv blive løftet meget pludseligt har en parallel til at hofbagerens hoved løftes op ved hængning i 1 Mos 40,20 og 40,22.}

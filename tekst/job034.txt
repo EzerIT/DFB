@@ -1,0 +1,119 @@
+!!<Modenhed: Rå oversættelse>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 18.11.2022>!!
+
+===Jobs bog, kapitel 34===
+ 
+==Elihu forsvarer Guds retfærdighed==
+ 
+//0 v1 Elihu forsatte så 
+//1 med at svare: 
+//2 v2 >>Hør, 
+//8 I vise, 
+//7 min tale, 
+//6 I forstandige, 
+//7 vend jeres ører til mig. 
+//8 v3 For øret prøver ordene, 
+//9 som ganen smager 
+//10 på maden.  
+//5 v4 Lad os vælge retten, 
+//7 lad os sammen forstå 
+//9 hvad der er godt. 
+//8 v5 For Job sagde: 
+//9 >Jeg har ret, 
+//11 men Gud har tilsidesat min ret. 
+//10 v6 Om min ret må jeg lyve.
+//11  mit uhelbredelige skudsår skyldes ikke et oprør.<{E: Sætningen lyder ordret *ʔānûš ḥiṣṣî vᵊlî-fāšaʕ* >>min uhelbredelige pil uden oprør<<, og pilen er da et billede på det sår som våbnet forårsager.}
+//6 v7 Hvem er den mand som Job 
+//8 der drikker spot som vand 
+//9 v8 og er på rejse i selskab med dem som øver uret, 
+//10 og på vandring sammen med ugudelige folk? 
+//7 v9 For han sagde: 
+//8 >Det gavner ikke en mand 
+//9 når han finder behag{E: Samme verbum bruges om Gud i Job 23,26 og 40,23, om Job i 14,6.} hos Gud.<
+ 
+//4 v10 Derfor, 
+//7 I mænd som har hjerte for det, 
+//6 hør på mig! 
+//5 Det ligger langt fra Gud at være ugudelig 
+//8 og fra den Almægtige at være uretfærdig, 
+//7 v11 for han gengælder et menneske efter dets gerning 
+//8 og lader en mand finde sin egen sti. 
+//6 v12 Ja, sandelig, Gud handler ikke ugudeligt
+//9 og den Almægtige fordrejer ikke retten.
+//8 v13 Hvem har indsat ham over jorden? 
+//9 Og hvem har anbragt hele jorden?{T: Her underforstås et forholdsordled gentaget fra det forudgående halvvers; det vil sige >>på ham<<, altså så han skulle bære verden på sine skuldre.}
+//7 v14 Hvis han ville lægge sit hjerte i det 
+//9 og ville koncentrere sin Ånd{T: Kunne også oversættes >>vind<<.} og sit åndedrag om det, 
+//8 v15 da måtte alle legemer udånde, 
+//9 og mennesket blive til støv igen. 
+ 
+//3 v16 Hvis der er indsigt 
+//5 - hør nu rigtig godt efter dette
+//6 og læg ører til lyden af min tale!  
+//7 v17 Ville en der hader ret, kunne styre{E: verbet *ḥbš* >>sadle, binde omkring m.m.<< bruges i samme betydning om Gud i Job 40,13.}, 
+//9 eller ville du erklære den Mægtige Retfærdige ugudelig? 
+//11 v18 Ville man sige til en konge: 
+//13 >Ondsindede menneske!<{T: Udtrykket *bᵊliyyāʕal* bruges om gudløse tåber (1 Sam 25,25; 2 Sam 16,7; 2 Kong 21,13).}
+//13 eller >Ugudelige<
+//12 til den adelige? 
+//10 v19 Det er ham, som ikke tager hensyn til embedsmænd,
+//11 og ikke sætter den rige over den fattige, 
+//12 for de er alle hans hænders værk. 
+//8 v20 De dør på et øjeblik, 
+//10 og midt om natten rystes et folk 
+//11 og forgår; 
+//11 de mægtige går bort, 
+//12 men ikke ved magt.{T: Ordret: >>ved en hånd<<.}  
+//9 v21 For hans øjne er over hver mands veje, 
+//15 og han ser alle hans skridt. 
+//14 v22 Der er intet mørke 
+//15 og intet mulm 
+//16 til at skjule dem der øver uret. 
+//13 v23 For han behøver ikke længere at pålægge en mand
+//14 at gå til Gud i retten. 
+//12 v24 Han knuser de mægtige uden at skulle udforske dem
+//13 og han sætter andre i deres sted. 
+//11 v25 Derfor kender han deres gerninger 
+//13 og han kan ændre natten
+//14 så de bliver knust.
+//12 v26 Han slår dem blandt de ugudelige på et synligt sted.
+//14 v27 fordi de veg fra ham 
+//15 og ikke satte sig ind i alle hans veje,
+//13 v28 for at bringe den ringes skrig ind for ham, 
+//14 og elendiges skrig skulle han lytte til. 
+//10 v29 Når han skaffer ro, 
+//13 hvem vil da gøre ham til en ugudelig? 
+//12 Når han skjuler sit ansigt, 
+//13 hvem kan da stirre på ham 
+//15 – hvad enten det er et folk eller et enkelt menneske? - 
+//14 v30 så en gudsfornægter ikke skal regere, og folket fanges i fælden.
+//11 v31 For 
+//14 til Gud 
+//13 kan han da sige: 
+//12 >Jeg har fået nok,{T: Ordret: >>Jeg har løftet op, båret<<.} 
+//15 jeg vil ikke handle galt.
+//15 v32 Uden at jeg kan se det,
+//14 skal du vejlede mig.
+//13 Hvis jeg har gjort uret, 
+//14 vil jeg ikke fortsætte med det.<
+//4 v33 Er det mon af hensyn til dig at han gengælder,
+//9 fordi du har vraget ham?
+//8 For du skal selv vælge 
+//9 og ikke jeg, 
+//7 og 
+//9 hvad ved du 
+//8 om at meddele noget? 
+//6 v34 Folk med hjerte skal tale til mig
+//8 og mænd med visdom,
+//9 de skal høre på mig: 
+//7 v35 >Job taler ikke med forstand, 
+//8 og hans ord er ikke sagt
+//9 i klogskab<. 
+//5 v36 O gid 
+//6 Job måtte prøves fuldt ud på grund af hans svar blandt onde mænd, 
+//7 v37 fordi han øger sin synd med oprør. 
+//8 Han klapper i hænderne iblandt os{E: Verbet *sfq* >>klappe (i hænderne)<< kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.}
+//9  og fremsiger mange ord imod Gud.<<
