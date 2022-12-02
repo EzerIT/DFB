@@ -1,8 +1,8 @@
-!!<Modenhed: Ufuldstændigt>!!
+!!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 11.03.2022>!!
+!!<Dato for denne version: 02.12.2022>!!
 
 ===Jobs Bog, kapitel 1===
 
@@ -108,16 +108,22 @@
 //11 og de døde. 
 //10 Jeg er den eneste der slap væk
 //11 så jeg kan fortælle dig om det.<<
+
 //1 v20 Da rejste Job sig 
 //3 og rev sin kappe i stykker, 
 //3 klippede håret af sit hoved 
 //3 og faldt på knæ på jorden 
 //3 og tilbad. 
 //3 v21 Han sagde:
+
 //4 >>Nøgen kom jeg ud af min mors liv, 
+
 //6 og nøgen vender jeg tilbage. 
+
 //5 HERREN gav, 
 //7 og HERREN tog. 
+
 //6 HERRENS navn være lovet!<<
+
 //2 v22 Gennem alt dette syndede Job ikke 
 //3 og anklagede ikke Gud for fejl.{T: Ordret: >>tilskrev ikke Gud noget uanstændigt.<<}
