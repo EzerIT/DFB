@@ -2,13 +2,13 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 20.01.2023>!!
 
 ===Ruths bog, kapitel 3===
 
 ==No'omi råder Ruth til at gå ind på tærskepladsen hvor Boaz har lagt sig efter han har tærsket byg, og lægge sig ved hans fødder for at få at vide om han vil gifte sig med hende i hendes mands sted; dette gør hun.==
 
-//0 v1 Hendes svigermor No'omi sagde nu til hende: 2>>Min datter, //4 mon ikke jeg skulle sørge for et hjem til dig, //5 så det må gå dig godt? 
+//0 v1 Hendes svigermor No'omi sagde nu til hende: //2>>Min datter, //4 mon ikke jeg skulle sørge for et hjem til dig, //5 så det må gå dig godt? 
 //4 v2 Vi er i familie med Boaz //6 hvis unge piger du har fulgtes med. //5 I nat tærsker han byg på tærskepladsen. 
 //7 v3 Tag nu et bad, //7 smør dig med salve //7 og klæd dig på //7 og gå ned til tærskepladsen. //6 Du skal ikke give dig til kende for manden //9 før han er færdig //10 med at spise //11 og drikke.
 //8 v4 Når //10 han lægger sig, //9 skal du lægge mærke til //10 hvor han lægger sig. //9 Gå så hen //9 og fjern kappen{E: *wᵊgillît margᵊlōtāʸw* betyder ordret >>afdæk fødderne<<. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.} fra hans fødder //9 og læg dig. //7 Han skal så give dig besked om //8 hvad du skal gøre.<< 

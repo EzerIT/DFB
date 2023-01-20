@@ -22,11 +22,9 @@ makemenus(0);
             engelske <a href="https://ebible.org/web/copyright.htm" target="_blank">World English
             Bible</a>.</p>
 
-            <p>Foreløbig er det kun nogle få kapitler der foreligger i mere eller mindre færdiggjort
-            grad. Forlægget har for det meste af det Gamle Testamentes vedkommende været den danske oversættelse
-            fra 1871, som er blevet moderniseret og opdateret med nye resultater fra bibelforskningen.
-            Det Nye Testamente er blevet til ud fra den autoriserede oversættelse fra 1907
-            eller direkte fra grundteksten.</p>
+            <p>Foreløbig er det kun et begrænsket antal kapitler der foreligger i mere eller mindre færdiggjort
+                grad. Visse kapitler er oversat fra grundsproget, andre er en moderniseret og revideret udgave
+                af de danske oversættelser fra 1871 (GT) og 1907 (NT).</p>
              
           <p>Oversættelsen er <i>tekstnær.</i> Det betyder at der er lagt vægt på at den danske
             tekst skal være en så præcis gengivelse af grundteksten som muligt, også på

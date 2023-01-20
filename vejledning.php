@@ -60,12 +60,15 @@ makemenus(3);
 
               <h2>Frem&shy;gangs&shy;måde</h2>
 
-              <p>For det Gamle Testamentes (og visse dele af det Nye Testamentes) vedkommende er fremgangsmåden denne: Den danske udgave af GT
-                fra 1871 eller NT fra 1907 »oversættes« til moderne dansk. Derefter vil moderniseringen blive gennemgået af
-                hebraisk- eller græskkyndige eksegesefolk, der sammenholder den med den nyeste bibelforskning. I
-                fællesskab når oversætter og teolog så frem til et resultat der ligger så tæt på
-                grundteksten som muligt. Til sidst bliver det hele læst igennem af de endelige
-                ansvarshavende.</p>
+              <p>Den danske tekst kan fremkomme på to måder, enten ved oversættelse fra grundsproget
+                  eller ved en modernisering af den danske udgave af GT fra 1871 eller NT fra
+                  1907.</p>
+
+              <p>Oversættelsen vil efterfølgende blive gennemgået af en »sprogvasker«, der skal
+              sikre at sproget er korrekt, letlæst dansk, og en hebraisk- eller græskkyndig teolog,
+              der sammenholder den med den nyeste bibelforskning. I fællesskab når oversætter,
+              sprogvasker og teolog så frem til et resultat der ligger så tæt på grundteksten som
+              muligt.</p>
 
               <h2>Over&shy;sæt&shy;tel&shy;ses&shy;mæs&shy;sige ret&shy;nings&shy;lin&shy;jer</h2>
 
@@ -77,13 +80,14 @@ makemenus(3);
                 fodnote der angiver andre mulige oversættelser. Oversættelsen bør så vidt muligt undgå at
                 støtte en bestemt fortolkning af teksten hvis andre fortolkninger er mulige.</p>
 
-              <p>Stave- og tegnsætningsanbefalinger fra Retskrivningsordbogen&nbsp;2012 skal følges,
-                herunder anbefalingen af at man undlader at sætte startkomma
-                (<a href="http://dsn.dk/retskrivning/retskrivningsregler/a7-40-60/a7-45-51/a7-49-50"
-                    target="_blank">Retskrivningsordbogen §49-50</a>). Er man ikke selv fortrolig med disse
+              <p>Stave- og tegnsætningsanbefalinger fra
+                  <a href="https://dsn.dk/ordboeger/retskrivningsordbogen/"target="_blank">Retskrivningsordbogen&nbsp;2012</a>
+                  skal følges, herunder anbefalingen af at man undlader at sætte startkomma
+                  (<a href="http://dsn.dk/retskrivning/retskrivningsregler/a7-40-60/a7-45-51/a7-49-50"
+                    target="_blank">Retskrivningsordbogen §49-50</a>). Er oversætteren ikke selv fortrolig med disse
                 regler, rettes det til ved den endelige korrektur.</p>
 
-              <p>Når der arbejdes ud fra 1871- eller 1907-oversættelsen, skal man især være opmærksom på de drilske,
+              <p>Hvis der arbejdes ud fra 1871- eller 1907-oversættelsen, skal man især være opmærksom på de drilske,
                 gamle stavemåder af danske modalverber:</p>
 
               <ul>
