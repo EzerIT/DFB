@@ -1,5 +1,6 @@
 <?php
 
+
 function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_verse) {
     $txt = file_get_contents($filename);
 
@@ -274,3 +275,119 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 
     return  $txt;
   }
+
+
+function replaceit_ordforkl($filename) {
+    $txt = file_get_contents($filename);
+
+    if (preg_match('/"/',$txt)) {
+        echo "<h1>Fejl</h1>\n";
+        echo "<p>Tekst indeholder dobbelt citationstegn.</p>\n";
+        die;
+    }
+
+    $from[] = '/>>>/';
+    $to[] = '»›';
+
+    $from[] = '/<<</';
+    $to[] = '‹«';
+
+    $from[] = '/>>/';
+    $to[] = '»';
+
+    $from[] = '/<</';
+    $to[] = '«';
+
+    $from[] = '/>/';
+    $to[] = '›';
+
+    $from[] = '/</';
+    $to[] = '‹';
+
+    $from[] = '/\'/';
+    $to[] = '&rsquo;';
+
+    $from[] = '/^ *\*\*\* *$/m';
+    $to[] = '&nbsp;';
+
+    $from[] = '/\$([^\*]+)\$/';
+    $to[] = '<b>\1</b>';
+
+    $from[] = '/\*([^\*]+)\*/';
+    $to[] = '<i>\1</i>';
+
+    $from[] = '/JHVHs/i';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRENS</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herrens';
+    else
+        $to[] = $_SESSION['godsname'].'s';
+
+    $from[] = '/JHVHvs/i';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRES</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herres';
+    else
+        $to[] = $_SESSION['godsname'].'s';
+
+    $from[] = '/JHVHv/i';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRE</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herre';
+    else
+        $to[] = $_SESSION['godsname'];
+
+    $from[] = '/JHVH/i';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERREN</small>';
+    else
+        $to[] = $_SESSION['godsname'];
+
+
+    $from[] = '/HERRENS/';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRENS</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herrens';
+    else
+        $to[] = $_SESSION['godsname'].'s';
+
+    $from[] = '/HERRES/';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRES</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herres';
+    else
+        $to[] = $_SESSION['godsname'].'s';
+
+    $from[] = '/HERREN/';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERREN</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herren';
+    else
+        $to[] = $_SESSION['godsname'];
+
+    $from[] = '/HERRE/';
+    if ($_SESSION['godsname']=='HERREN')
+        $to[] = 'H<small>ERRE</small>';
+    elseif ($_SESSION['godsname']=='Herren')
+        $to[] = 'Herre';
+    else
+        $to[] = $_SESSION['godsname'];
+
+
+    $from[] = '/--/';
+    $to[] = '&ndash;';
+ 
+    $from[] = '/(\s)-(\s)/';
+    $to[] = '\1&ndash;\2';
+ 
+    $from[] = '/\.\.\./';
+    $to[] = '…';
+
+    return '<div class="explain">' . preg_replace($from, $to, $txt) . '</div>';
+}

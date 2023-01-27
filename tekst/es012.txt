@@ -1,19 +1,41 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 27.01.2023>!!
 
 ===Esajas' Bog, kapitel 12===
 
-==Esajas bringer Guds folks tak fordi hans vrede er forsvundet, og han trøster sit folk.==
+==Det frelste Israels lovsang==
+v1 På den dag skal du sige: 
 
-v1 Og du skal sige på den dag: >>Jeg vi takke dig, JHVH, for du har været vred på mig, men din vrede er forsvundet, og du trøster mig.<<
-v2 Se, Gud er min frelse, jeg vil være tryg og ikke frygte, for Herren JHVH er min styrke og lovsang, og han er blevet til frelse for mig.
-v3 Og I skal med glæde trække vand op af frelsens kilder.
+>>Jeg vil takke dig, JHVH, for du har været vred på mig, 
 
-==Esajas formaner folket til at takke og prise Gud.==
+din vrede har lagt sig, så du trøster mig.
 
-v4 Og I skal sige på den dag: >>Tak JHVH, påkald hans navn, gør hans gerninger iblandt folkeslagene kendt, forkynd at hans navn er stort.<<
-v5 Lovsyng JHVH, for han har gjort herlige ting! Dette er blevet kendt på hele jorden.
-v6 Råb højt og syng med fryd, du kvinde der bor i Zion! for Den Hellige i Israel er stor i din midte.
+v2 Se, Gud er min frelse, 
 
+jeg vil være tryg og ikke frygte, 
+
+for min styrke og min lovsang{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.} er JHVH,{E: Guds navn (JHVH) står her i kortformen: *yāh*, svarende blot til >>JH<<. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} JHVH, 
+
+og han blev mig til frelse.<<
+
+v3 I skal øse vand med glæde 
+
+af frelsens kilder.
+
+v4 På den dag skal I sige: 
+
+>>Tak JHVH, påkald hans navn, 
+
+kundgør hans gerninger blandt folkeslagene, 
+
+forkynd at hans navn er stort.<<
+
+v5 Lovsyng JHVH, for han har gjort herlige ting, 
+
+det være kendt på hele jorden.
+
+v6 Bryd ud i jubel og råb af fryd, du Zions beboer,{E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.} 
+
+for Israels Hellige er stor i din midte.

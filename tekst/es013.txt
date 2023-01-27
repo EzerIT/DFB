@@ -1,37 +1,159 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 10.08.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 27.01.2023>!!
 
 ===Esajas' Bog, kapitel 13===
 
-==Esajas profeterer om ødelæggelsen af Babylon under mederne og perserne, som JHVH selv vækker til at gøre det.==
+==Profeti om Babylonien==
+v1 Et udsagn om Babylonien, som Esajas, Amos' søn, skuede.{T: Der er tænkt på en profetisk vision.}
 
-v1 En profeti imod Babylon, som Esajas, Amoz' søn, så.
-v2 Rejs et banner på et nøgent bjerg, råb højt til dem, vink med hånden, så de går ind ad fyrsternes døre!
-v3 Jeg har givet dem en befaling, jeg har helliget og kaldet mine helte, mine stolt jublende, til at tjene min vrede.
-v4 Der høres en larm på bjergene som af et stort folk, et bulder af forsamlede hedningeriger; JHVH Zebaoth mønstrer en krigshær.
-v5 De kommer fra et land lang borte, fra himlen ende, JHVH og hans vredes våben, for at ødelægge hele jorden.
+v2 Rejs banner på et nøgent bjerg, 
 
-==Esajas beskriver den store elendighed, der skal komme over dem.==
+råb højt til dem, 
 
-v6 I skal jamre, for JHVHs dag er nær, den skal komme som en ødelæggelse fra Den Almægtige.
-v7 Derfor skal alle hænder slappes og hvert menneskehjerte blive modløst.
-v8 Og de skal forfærdes, veer og smerter skal gribe dem, de skal vride sig som den der føder, de skal se forfærdede på hinanden, deres ansigter skal blusse som ild.
-v9 Se, JHVHs dag kommer frygtelig og fuld af harme og brændende vrede for at gøre jorden til en ørken og udrydde dens synder fra den. 
-v10 For stjernerne på himlen og deres stjernebilleder skal ikke lade deres lys skinne, solen skal formørkes når den står op, og månen skal ikke lade sit lys skinne.
-v11 Og jeg vil komme og straffe jorden for det onde og de ugudelige for deres misgerning; og jeg vil gøre ende på de hovmodiges stolthed og bøje voldsmænds overmod.
-v12 Jeg vil gøre folk sjældnere end guld og mennesker sjældnere end guld fra Ofir.
-v13 Derfor vil jeg ryste himlen, og jorden skal skælvende flytte sig fra sit sted i JHVH Zebaoths harme og på hans brændende vredes dag.
-v14 Og det skal gå som med et jaget rådyr og som med får som ingen samler: De skal vende sig til hver sit folk og flygte hver til sit land.
-v15 Enhver der bliver indhentet, skal gennembores, og enhver der gribes, skal falde for sværdet.
-v16 Og deres babyer skal knuses for deres øjne, deres huse plyndres, og deres koner voldtages.
-v17 Se, jeg vil ophidse mederne imod dem, dem der ikke regner sølv for noget og heller ikke har lyst til guld.
-v18 Men deres buer skal gøre det af med drenge, og de skal ikke have medynk med fostret i mors liv, deres øje skal ikke skåne børnene.
+vink med hånden, så de går ind 
 
-==Babylon skal endda blive som Sodoma og ikke mere bebos.==
+ad fyrsternes porte!
 
-v19 Og Babylon, rigernes krone, kaldæernes stolte pryd, skal blive som da Gud lagde Sodoma og Gomorra i grus.
-v20 Den skal aldrig mere rejse sig, og den skal ikke bebos fra slægt til slægt, og ingen araber skal slå telt op der, og hyrder ikke lade kvæg ligge der.
-v21 Men ørknens vilde dyr skal ligge der, og deres huse skal være fulde af tudende dyr, og der skal bo strudse, og dæmoner hoppe omkring der.
-v22 Og ulve skal hyle til hinanden i de forladte huse og sjakaler i de lystige paladser; og det varer ikke længe før dens tid kommer, og dens dage skal ikke forsinkes.
+v3 Jeg har givet befaling til mine indviede 
+
+og har også kaldet mine helte til at tjene min vrede 
+
+– de som jubler over min storhed.
+
+v4 Der høres en larm på bjergene 
+
+som af et stort folk, 
+
+der høres kongerigers bulder,
+
+folkeslag der samles; 
+
+Hærskarers HERRE{N: Hærskarers} mønstrer 
+
+en krigshær.
+
+v5 De kommer fra et land langt borte, 
+
+fra himlens ende, 
+
+JHVH og hans vredes redskab, 
+
+for at ødelægge hele landet.{T: Kan også oversættes: >>hele jorden<<, men i sammenhængen er der tale om Babylonien.}
+
+v6 I skal jamre, for JHVHs dag er nær, 
+
+som en ødelæggelse fra Den Almægtige skal den komme.
+
+v7 Derfor skal alle hænder blive slappe 
+
+og hvert menneskehjerte blive modløst.
+
+v8 Og de skal forfærdes, 
+
+veer og smerter skal gribe dem, 
+
+de skal vride sig som den der føder, 
+
+de skal se forfærdede på hinanden, 
+
+deres ansigter er blussende ansigter.
+
+v9 Se, JHVHs dag kommer frygtelig, med harme og glødende vrede, 
+
+for at lægge landet{T: Kan også oversættes: >>jorden<<.} øde 
+
+og udrydde dets syndere fra det. 
+
+v10 For himlens stjerner og dens stjernebilleder 
+
+skal ikke lade deres lys stråle, 
+
+solen er mørk når den står op, 
+
+og månen skal ikke lade sit lys skinne.
+
+v11 Jeg vil straffe verden for ondskab 
+
+og gudløse for deres misgerning; 
+
+og jeg vil gøre ende på overmodiges hovmod, 
+
+og voldsmænds overmod vil jeg ydmyge.
+
+v12 Jeg vil gøre et menneske sjældnere end lutret guld 
+
+og en mand sjældnere end Ofir-guld.
+
+v13 Derfor vil jeg få himle til at ryste, 
+
+og jorden skal rystes bort fra sit sted 
+
+ved Hærskarers HERRES{N: Hærskarers} harme 
+
+og på hans glødende vredes dag.
+
+v14 Som en jaget gazelle 
+
+og som får ingen samler, 
+
+skal de vende sig hver til sit folk 
+
+og flygte hver til sit land.
+
+v15 Enhver der bliver fundet, skal gennembores, 
+
+og enhver der gribes, skal falde for sværdet.
+
+v16 Og deres børn skal knuses 
+
+for deres øjne, 
+
+deres huse plyndres 
+
+og deres kvinder voldtages.
+
+v17 Se, mod dem ophidser jeg Medien, 
+
+der ikke regner sølv for noget, 
+
+og guld – det har de ikke lyst til.
+
+v18 Men buer skal gøre det af med drenge, 
+
+og moderlivs frugt skal de ikke vise barmhjertighed, 
+
+deres øje skal ikke skåne børn.
+
+v19 Og Babylonien, kongerigers pragt, 
+
+kaldæeres stolte pryd, 
+
+skal blive som da Gud ødelagde Sodoma 
+
+og Gomorra.
+
+v20 Det skal aldrig mere bebos, 
+
+og ingen skal bosætte sig dér i slægt efter slægt, 
+
+ingen araber skal slå telt op, 
+
+og hyrder holder ikke hvil der.
+
+v21 Men ørkendyr{T: Det vides ikke præcis hvilke dyr der er tale om.} skal ligge der, 
+
+og deres huse skal fyldes af ugler,{T: Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med >>ugle<<, andre gætter på >>sjakaler<<.}  
+
+dér skal strudses afkom tage bolig, 
+
+og bukketrolde{T: Bukkelignende dæmoner.} springer omkring der.
+
+v22 Hyæner skal hyle i borgene{E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: >> mod dets/hans enker<<. De gamle oversættelser har: >>i paladserne/borgene<<. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: >>i dets borge<<.} 
+
+og sjakaler i herlige paladser; 
+
+det varer ikke længe før dets tid kommer, 
+
+og dets dage skal ikke forlænges.

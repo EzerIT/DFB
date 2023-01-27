@@ -92,6 +92,13 @@ hr {
     background: rgba(255,255,255,0.9);
 } 
 
+div.explain {
+    margin-bottom: 1ex;
+}
+
+div.explain b small {
+    font-weight: bold;
+}
 
 
 div.credit {

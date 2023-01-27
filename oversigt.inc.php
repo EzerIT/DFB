@@ -189,16 +189,9 @@ $style['sl'][119] = 'btn-info';
 $style['ordsp']   = 'btn-secondary';
 $style['præd']    = 'btn-secondary';
 
-$style['es']      = [ 1 => 'btn-success',
-                      2 => 'btn-success', 
-                      3 => 'btn-success', 
-                      4 => 'btn-success', 
-                      5 => 'btn-success', 
-                      6 => 'btn-success', 
-                      7 => 'btn-success',
-                      8 => 'btn-success',
-                      9 => 'btn-success'];
-for ($k=10; $k<=66; ++$k)
+for ($k=1; $k<=16; ++$k)
+    $style['es'][$k] = 'btn-success';
+for ($k=17; $k<=66; ++$k)
     $style['es'][$k] = 'btn-warning';
 
 $style['jer']     = [ 1  => 'btn-success',

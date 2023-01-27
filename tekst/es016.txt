@@ -1,27 +1,123 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 27.01.2023>!!
 
-===Esajas' Bog, kapitel 16===
+===Esajas’ Bog, kapitel 16===
 
-==Moabiterne formanes til at føre Lam til Jerusalem til Kongen; at laane de forjagne Jøder Hus, hvilke siden under Messias skulde faa et bestandigt Rige, 1-5; Profeten viser, at deres Hovmod og andre Synder var Aarsag til deres svare Ødelæggelse, hvilken han nøjere beskriver, 6-14.==
+v1 Send landets hersker vædderlam 
 
+fra Sela gennem ørkenen 
 
-v1 Sender Landets Hersker Lam fra Sela gennem Ørken til Zions Datters Bjerg. 
-v2 Og det skal ske, at ligesom en Fugl, udjaget af Reden, flagrer hid og did, saa skulle Moabs Døtre komme til Arnons Færgesteder. 
-v3 Giv Raad, hjælp til Ret, gør din Skygge som Natten midt om Middagen, skjul de fordrevne, forraad ikke den, som flyr! 
-v4 Lad mine fordrevne faa Herberge hos dig, Moab! vær dem et Skjul imod Ødelæggeren; thi Undertrykkeren er borte, Ødelæggelsen faar Ende, og de, som nedtraadte andre, skulle omkomme af Landet. 
-v5 Og der skal beredes en Trone ved Miskundheden, og en skal sidde derpaa i Sandheden, i Davids Paulun, en, som skal dømme og spørge efter Ret og haste efter Retfærdighed.
+til Sions datters bjerg. 
 
+v2 Og det skal ske at som en flaksende fugl 
 
-v6 Vi have hørt om Moabs Hovmod, han er saare hovmodig, ja, om hans Stolthed og hans Hovmod og hans Grumhed, hans tomme Pral. 
-v7 Derfor skal Moab hyle over Moab, de skulle alle sammen hyle; over Kir-Hareseths Grundvolde skulle I sukke, aldeles modfaldne. 
-v8 Thi Hesbons Marker ere henvisnede, paa Vintræet i Sibma have Folkenes Herrer knust de ædle Ranker, som naaede til Jaeser og forvildede sig ind i Ørken; dens Kviste, som bredte sig ud, ere komne over Havet. 
-v9 Derfor vil jeg græde med Jaesers Graad over det Vintræ i Sibma, jeg vil væde dig, Hesbon og Eleale, med min Graad; thi over din Sommerfrugt og over din Høst faldt Krigsskriget ind. 
-v10 Og Glæde og Fryd er veget bort fra den frugtbare Mark, og man synger ikke i Vingaardene, raaber ej heller med Glæde; Persetræderen træder ikke Druer i Perserne, Frydeskrig har jeg ladet høre op. 
-v11 Derfor bruser mit Inderste over Moab som en Harpe, og mit Hjerte over Kir-Heres. 
-v12 Og det sker, naar Moab lader sig se og er træt af at ofre paa Højen, da vil det komme til sin Helligdom for at bede og skal ikke kunne. 
-v13 Dette er det Ord, som Herren har talt imod Moab den Gang; 
-v14 men nu har Herren talt og sagt: Om tre Aar, som en Daglønners Aar, da skal Moabs Herlighed med al den store Mængde være ringeagtet, og der skal blive en Levning tilbage, liden, ringe og afmægtig.
+der er jaget op fra reden, 
 
+sådan skal Moabs døtre være 
+
+ved Arnons vadesteder. 
+
+v3 >>Giv et råd! 
+
+Træf en beslutning! 
+
+Gør din skygge som nat 
+
+ved højlys dag.{T: Ordret: >>ved middagens midte<<.} 
+
+Skjul fordrevne, 
+
+forråd ikke en der flakker om!{T: På hebraisk samme ord som >>flaksende<< i vers 2.}
+
+v4 Lad Moabs fordrevne{E: Den masoretiske tekst lyder egentlig: >>Lad mine fordrevne få husly hos dig, Moab<<. Med de gamle oversættelser går man oftest ud fra, at *niddāḥay* (>>mine fordrevne<<) skal vokaliseres: *niddᵊḥêy* og mod masoreternes accent forbindes med Moab (>>(Moabs) fordrevne<<).} få husly hos dig, 
+
+vær et skjul for dem mod en ødelægger.<< 
+
+Når undertrykkeren er borte, 
+
+ødelæggelsen får ende, 
+
+og han som trådte under fode, er forsvundet{T: Verbet er i pluralis, men subjektet er singularis.} 
+
+fra landet,{T: Kan også oversættes: >>fra jorden<<.} 
+
+v5 da rejses i nåden en trone, 
+
+og på den skal sidde med sandhed i Davids telt 
+
+en, som dømmer og stræber efter ret 
+
+og fremmer retfærdighed.
+
+v6 Vi har hørt om Moabs hovmod 
+
+– meget hovmodig – 
+
+om dets stolthed og dets hovmod og dets overmod, 
+
+dets urigtige pralerier.
+
+v7 Derfor skal Moab jamre over Moab, 
+
+enhver skal jamre; 
+
+over Kir-Haresets rosinkager{E: Man foreslår undertiden at rette: *ˀᵃšîšê* (>>rosinkager<<) til: *ˀanšê*: >>mænd<<, jf. Jer 48,31. Her er der dog ingen vaklen i håndskrifterne. Rosinkager blev brugt i hedensk kult og som vigtig næring på rejser.} 
+
+skal I sukke, aldeles modfaldne. 
+
+v8 For Heshbons marker er visnede, 
+
+Sibmas vinstok
+
+ – folkenes herrer 
+
+har knust dens ædle druer, 
+
+som nåede til Jazer, 
+
+spredte sig i ørkenen; 
+
+dens ranker bredte sig ud, 
+
+gik ud over havet. 
+
+v9 Derfor vil jeg græde med Jazers gråd 
+
+over Sibmas vinstok, 
+
+jeg vil væde dig med mine tårer, 
+
+Heshbon og El’ale, 
+
+for over din frugthøst og over din kornhøst 
+
+faldt jubelråbet.{E: Oversættelsen er usikker. Det skyldes især forståelsen af: *hêdād* (>>jubelråb<<) der undertiden her foreslås oversat: >>krigsråb<< eller i hvert fald opfattes som en fjendtlig hærs råb.} 
+
+v10 Glæde og fryd er forsvundet 
+
+fra frugthaven, 
+
+og i vingårdene bliver der ikke jublet, 
+
+ikke råbt af fryd; 
+
+persetræderen træder ikke druer i persekarrene, 
+
+jubelråb har jeg bragt til ophør. 
+
+v11 Derfor bruser mit inderste over Moab som en citer, 
+
+og mit indre over Kir-Heres.
+
+v12 Og det sker når Moab møder op, 
+
+når det udmatter sig på offerhøjen 
+
+og kommer til sin helligdom for at bede, 
+
+så kan det intet. 
+
+v13 Dette er det ord, som JHVH tidligere har talt mod Moab; 
+v14 men nu har JHVH talt og sagt: >>Om tre år, som en daglejers år, skal Moabs herlighed med hele den store folkemængde blive forhånet, og resten vil være ganske få, ikke mange.<<

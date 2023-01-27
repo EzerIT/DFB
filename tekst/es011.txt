@@ -1,28 +1,124 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 22.11.2021>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 27.01.2023>!!
 
 ===Esajas' Bog, kapitel 11===
 
-==Esajas profeterer om Messias der skal fødes i Isajs slægt, være udrustet med Åndens herlige gaver, oprette sit rige ved sit ord og stifte fred imellem sin menigheds lemmer.==
+==Isajs rodskud==
+v1 Men der skal spire en kvist frem af Isajs stub, 
 
-v1 Men der skal spire et skud frem af Isajs stub, og en kvist af hans rødder skal bære frugt.{T: En del oversættere følger Septuaginta, der skal oversættes: >>gro frem<<.}
-v2 Og JHVHs Ånd skal hvile over ham, visdoms og indsigts Ånd, råds og styrkes Ånd, den Ånd der giver kundskab og frygt for JHVH.
-v3 Og hans lyst skal være i frygt for JHVH, og han skal ikke dømme efter det hans øjne ser, og ikke fælde dom efter det hans ører hører.
-v4 Men han skal dømme de ringe med retfærdighed og holde rettergang med retfærdighed over landets{T: Kan også oversættes: >>jordens<<.} elendige; han skal slå jorden{T: Kan også oversættes: >>landet<<.} med sin munds stok og dræbe den ugudelige med sine læbers ånde.
-v5 Retfærdighed skal være hans hofters bælte og trofastheden bæltet om hans lænder.
-v6 Ulv skal bo sammen med lam og panter ligge sammen med kid; kalv og ungløve og fedekalv skal lejre sig sammen, og en lille dreng skal vogte dem.
-v7 Ko og bjørn skal græsse sammen, deres unger skal ligge sammen, og løve skal æde strå som oksen.
-v8 Spædbarn skal lege ved giftslangens hul og fravænnet barn stikke sin hånd hen til hugormens{T: Der er formodentlig tænkt på en bestemt giftslange, men det er uvist, hvilken det er.} hule.
-v9 De skal ikke gøre ondt og ikke ødelægge på hele mit hellige bjerg, for landet{T: Kan også oversættes: <<jorden<<.} er fuld af kundskab om JHVH som vandet dækker havets bund.{T: Ordret blot: >>som vand dækker havet<<.}
+og et skud fra hans rødder skal bære frugt.{E: En del oversættere følger Septuaginta, der skal oversættes: >>gro frem<<, der forudsætter disse hebræiske konsonanter: *yfrḥ* i stedet for den masoretiske teksts: *yfrh*}
 
-==Messias skal omvende hedningerne, samle jøderne og frelse dem fra deres fjender, som det skete da de drog ud af Egyptens land.==
+v2 Og JHVHs Ånd skal hvile over ham, 
 
-v10 Og det skal ske på den dag at folkeslag skal spørge efter Isajs rodskud, der står som et banner for folkene, og hans bolig skal være herlig.
-v11 Og det skal ske på den dag at Herren igen, for anden gang, skal række sin hånd ud for at vinde den rest af sit folk tilbage som skal blive til overs fra Assyrien og Egypten og fra Pathros og fra Etiopien og fra Elam og fra Sinear og fra Hamath og fra øerne i havet.
-v12 Og hans skal rejse et banner for hedningerne og samle de fordrevne af Israel sammen og samle de spredte af Juda fra jordens fire hjørner.
-v13 Og Efraims misundelse skal forsvinde, og Judas fjender skal udryddes; Efraim skal ikke være misundelig på Juda, og Juda skal ikke presse Efraim.
-v14 Men de skal flyve ind på filistrenes skuldre imod vest, de skal sammen røve fra dem der bor imod øst. Edom og Moab skal blive et bytte for deres hånd, og Ammons børn skal vise dem lydighed.
-v15 Og JHVH skal lægge band på vigen ved Egyptens havbugt og række sin hånd ud over floden med sin stærke storm, og han skal splitte den i syv bække så man kan gå over med sko. 
-v16 Og der skal være en ryddet vej for den rest af hans folk der skal blive til overs fra Assyrien, ligesom der var for Israel den dag det drog op fra Egyptens land.
+visdoms og indsigts Ånd, 
+
+råds og styrkes Ånd, 
+
+den Ånd der giver kundskab og frygt for JHVH.
+
+v3 Hans glæde skal være i frygt for JHVH, 
+
+og han skal ikke dømme efter det hans øjne ser, 
+
+og ikke fælde dom efter det hans ører hører.
+
+v4 Men han skal dømme ringe med retfærdighed 
+
+og fælde dom med retfærdighed for landets{T: Kan også oversættes: >>jordens<<.} elendige; 
+
+han skal slå jorden{T: Kan også oversættes: >>landet<<.}{E: En del oversættere går ud fra en fejlskrivning i den hebraiske tekst så der ikke skal stå: *ʔereṣ* (>>jord<<), men: *ʕārēṣ*: >>voldsmand<<.} med sin munds stav 
+
+og dræbe gudløs med sine læbers ånde.
+
+v5 Retfærdighed skal være hans hofters bælte 
+
+og trofastheden hans lænders bælte.
+
+v6 Ulv skal bo sammen med lam, 
+
+og panter ligge sammen med kid; 
+
+kalv og ungløve og fedekalv{E: Mange oversættere følger her bl.a. Septuaginta, der i stedet for *ûmᵊrîʔ* (>>og fedekalv<<) ser ud til at have læst: *yirʕû*: >>skal græsse<<.} skal være sammen, 
+
+og en lille dreng skal vogte dem.
+
+v7 Ko og bjørn skal græsse,{E: Hebraisk: *tirʕeʸnāʰ*. Man går ofte ud fra at der skulle have stået: *titrāʕeʸnāʰ*: >>skal blive venner<<.} 
+
+deres unger skal ligge sammen, 
+
+og løve skal æde strå som oksen.
+
+v8 Spædbarn skal lege over giftslangens hul 
+
+og hen over hugormens{T: Der er formodentlig tænkt på en bestemt giftslange, men det er uvist, hvilken det er.} hule
+
+skal fravænnet barn stikke sin hånd.
+
+v9 De skal ikke gøre ondt og ikke ødelægge på hele mit hellige bjerg, 
+
+for landet{T: Kan også oversættes: >>jorden<<.} er fuldt af kundskab om JHVH, 
+
+som vandene dækker havets bund.{T: Ordret blot: >>som vandene dækker havet<<.}
+
+==Profeti om Israels hjemkomst og genrejsning==
+v10 Det skal ske på den dag 
+
+at Isajs rodskud, der står som et banner for folkeslag 
+
+– til ham skal folkene{T: Kan også oversættes: >>hedninger<<.} søge, 
+
+og hans bolig skal være herlig.
+
+v11 Og det skal ske på den dag
+
+at Herren igen, for anden gang, skal række sin hånd ud 
+
+for at løskøbe den rest af sit folk 
+
+som er tilbage fra Assyrien og Egypten, 
+
+fra Pathros, Nubien, Elam, 
+
+Sinear, Hamat og fra havets øer.
+
+v12 Og han skal rejse et banner for folkene{T: Kan også oversættes: >>hedningerne<<.} 
+
+og samle Israels fordrevne 
+
+og bringe Judas spredte{E: I grundteksten er >> fordrevne<< maskulinum, og >>spredte<< er femininum. Dermed understreges det, at løftet gælder både mænd og kvinder.} sammen 
+
+fra jordens fire hjørner.
+
+v13 Efraims skinsyge skal forsvinde, 
+
+og Judas fjendskab {T: Ordret: >>fjendtlige<<.} skal udryddes; 
+
+Efraim skal ikke være skinsyg på Juda, 
+
+og Juda skal ikke være fjendtlig mod Efraim.
+
+v14 Men de skal flyve ind på filistrenes skuldre{T: Der er tænkt på filistrenes >>bakker<<.} imod vest, 
+
+sammen skal de plyndre østens sønner. 
+
+Edom og Moab skal blive et bytte for deres hånd, 
+
+og Ammons sønner skal blive deres undersåtter.
+
+v15 JHVH skal lægge band på Egypterhavets vig 
+
+og svinge sin hånd ud over floden med sin Ånds glød, {E: De gamle oversættelser har tilsyneladende i stedet for: *baʕyām rûḥô* (>>med sin Ånds glød<<) læst: *bᵊʕōṣēm rûḥô*: >>med sin kraftige storm<<.} 
+
+og han skal splitte den til syv bække, 
+
+så man kan gå over med sko.
+
+v16 Og der skal være en ryddet vej for den rest af hans folk 
+
+der bliver tilbage fra Assyrien, 
+
+ligesom der var for Israel 
+
+den dag det drog op fra Egyptens land.
