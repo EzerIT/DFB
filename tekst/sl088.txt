@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 08.02.2023>!!
 
 ===Salme 88===
 
@@ -12,7 +12,7 @@ v1 En sang. Salme af Koras sønner.
 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.} Al-mahalat-le-annot.{E: Betydningen af *ʕal-māḥᵃlat lᵊʕannôt* er usikker. Det kan evt. betyde: >>at synge på lidende vis/under sygdom<< eller være en melodihenvisning (på melodien >>mahalat<<) eller anvisning om et fløjteinstrument.} Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Heman, ezraitten.
 
 ==Første klage==
-v2 JHVHv, min frelses Gud,
+v2 HERRE, min frelses Gud,
 
 om dagen har jeg råbt,
 
@@ -55,7 +55,7 @@ lukket inde, så jeg ikke kan gå ud.
 v10 Mit øje er sløvet{T: Ordret: >>vansmægter<<.} af elendighed.
 
 ==Ny klage==
-Jeg har råbt til dig, JHVHv, hver dag,
+Jeg har råbt til dig, HERRE, hver dag,
 
 jeg har bredt min håndflade ud mod dig.
 
@@ -73,11 +73,11 @@ eller din retfærdighed i glemslens land?
 
 ==Endnu en klage==
 
-v14 Men jeg har råbt til dig om hjælp, JHVHv,
+v14 Men jeg har råbt til dig om hjælp, HERRE,
 
 og om morgenen kommer min bøn til dig.
 
-v15 Hvorfor, JHVH, vil du forkaste min sjæl?
+v15 Hvorfor, HERRE, vil du forkaste min sjæl?
 
 Hvorfor{T: >>hvorfor<< er underforstået fra foregående linje.} vil du skjule dit ansigt for mig?
 
