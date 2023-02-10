@@ -3,34 +3,150 @@
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 10.02.2023>!!
 
 ===Esajas’ Bog, kapitel 8===
 
 ==Truslen fra Assyrien. JHVH kalder folket til omvendelse==
 
-//0 v1 JHVH sagde til mig: //3 >>Tag dig en stor tavle //5 og skriv på den med menneskeskrift:{T: Meningen er: >>med tydelig, alment læselig skrift<<} //6 >Hurtigt bytte - hastigt rov< .{E: Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er >>for …<<.} 
+//0 v1 HERREN sagde til mig: //3 >>Tag dig en stor tavle //5 og skriv på den med menneskeskrift:{T: Meningen er: >>med tydelig, alment læselig skrift<<} //6 >Hurtigt bytte - hastigt rov<.{E: Hebraisk: *lᵊmahēr šālāl ḥāš baz*. Det indledende *lᵊ* er ikke oversat. Det bruges på mindesten til at angive at den er >>for …<<.} 
 //4 v2 Og jeg vil skaffe mig pålidelige vidner: Urija, præsten, og Zekarja, Jeberekjas søn.<<
-2// v3 Så gik jeg ind til{T: Ordret: >>nærmede mig<<. Formuleringen dækker over intimt samvær.} profetinden, //4 og hun blev gravid //4 og fødte en søn; //3 og JHVH sagde til mig: //4 >>Kald ham: Hurtigt bytte - hastigt rov,
+//2 v3 Så gik jeg ind til{T: Ordret: >>nærmede mig<<. Formuleringen dækker over intimt samvær.} profetinden, //4 og hun blev gravid //4 og fødte en søn; //3 og HERREN sagde til mig: //4 >>Kald ham: Hurtigt bytte - hastigt rov,
 //5 v4 for //7 før barnet forstår //8 at kalde >Min far og min mor!< //6 skal man bringe Damaskus’ rigdom og Samarias bytte hen til kongen af Assyrien<<{T: Ordret: >>hen foran Assyriens konges ansigt<<.}
 //1 v5 JHVH fortsatte //3 med at tale til mig //4 og sagde:
-//5 v6 >>Fordi dette folk har forkastet Siloas //7 sagte rindende vande, //8 og der er glæde{E: Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: >>har mistet modet<<. Rettelsen har dog ingen støtte i hebraiske håndskrifter.} over{T: Ordret: >>med<<.} Resin og Remaljas søn,
-//6 v7 se, derfor lader JHVH flodens{T: Det er Eufrat.} vande kommer over dem, de mægtige og mange – Assyriens konge og hele hans herlighed – //8 og den skal stige op over alle sine flodlejer //8 og gå over alle sine bredder;
-//8 v8 den trænger ind i Juda, //7 oversvømmer //9 og går op over;{T: Der er muligvis tænkt på at vandet stiger over højene.} //8 den skal nå til halsen. //9 Og hans{T: Kan også oversættes: >>dens<<. Det hebraiske ord kan gå på både assyrerkongen og floden.} spredte vinger skal fylde dit land så langt det er. //10 Gud med os!{E: Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.}
-//2 v9 Handl ondt, //7 I folkeslag, //6 men bliv forfærdede! //5 Lyt efter, //6 alle jordens fjerne egne! //4 Spænd bæltet, //5 men I skal blive forfærdede! //4 Spænd bæltet, //5 men I skal blive forfærdede!
-//4 v10 Læg en plan, //5 men den vil blive til intet! //4 Udsted en ordre,{T: Ordret: >>tal et ord<<.} //5 men den vil ikke blive udført! //6 For Gud er med os!<<{T: Hebraisk: >>Immanuel<<.}
+
+//5 v6 >>Fordi dette folk 
+
+har forkastet 
+
+Siloas vande //7 der flyder sagte,
+ 
+//8 og der er glæde{E: Der er foreslået forskellige rettelser til den hebraiske tekst, mest oplagt: *mᵊśôś ʔet* til: *māsôs miśśʔet*: >>har mistet modet<<. Rettelsen har dog ingen støtte i hebraiske håndskrifter.} over{T: Ordret: >>med<<.} Resin
+ 
+og Remaljas søn,
+
+//6 v7 se, derfor lader Herren flodens{T: Det er Eufrat.} vande kommer over dem, 
+
+de mægtige og mange 
+
+– Assyriens konge og hele hans herlighed – 
+
+//8 og den skal stige op over alle sine flodlejer 
+
+//8 og gå over alle sine bredder;
+
+//8 v8 den trænger ind i Juda, 
+
+//7 oversvømmer //9 og går op over;{T: Der er muligvis tænkt på at vandet stiger over højene.} 
+
+//8 den skal nå til halsen. 
+
+//9 Og hans{T: Kan også oversættes: >>dens<<. Det hebraiske ord kan gå på både assyrerkongen og floden.} spredte vinger 
+
+skal fylde dit land så langt det er. 
+
+//10 Gud med os!{E: Hebraisk: *ʕimmānû ʔēl*. I 7,14 og Matt 1,23 er det opfattet som navn på den kommende søn. På hebraisk er det to ord – det er usikkert om det her og i vers 10 er et navn eller en bøn eller tillidserklæring.}
+
+//2 v9 Handl ondt, //7 I folkeslag, //6 men bliv forfærdede! 
+
+//5 Lyt efter, //6 alle jordens fjerne egne! 
+
+//4 Spænd bæltet, //5 men I skal blive forfærdede! 
+
+//4 Spænd bæltet, //5 men I skal blive forfærdede!
+
+//4 v10 Læg en plan, //5 men den vil blive til intet! 
+
+//4 Udsted en ordre,{T: Ordret: >>tal et ord<<.} 
+
+//5 men den vil ikke blive udført! 
+
+//6 For Gud er med os!<<{T: Hebraisk: >>Immanuel<<.}
+
 //3 v11 For sådan sagde JHVH til mig da hans hånd overmandede mig, //6 og han advarede mig //7 mod at vandre på dette folks vej:
-//6 v12 >>I skal ikke kalde alt det sammensværgelse //8 som dette folk kalder sammensværgelse! //7 Frygt ikke det som det frygter, //4 og nær ikke rædsel!
-//4 v13 Hærskarers HERRE,{T: Det hebraiske ord Zebaot blev i ældre tid ikke oversat. Sprogligt står det her som et egennavn for Gud. Oprindelig var det nok udtryk for at Gud er Herre over de himmelske hærskarer.} //9 han skal være hellig for jer; //8 han skal være genstand for jeres frygt, //8 og han skal være jeres rædsel.
-//7 v14 For han skal blive en helligdom, //8 men også en anstødssten og en klippe man snubler over, for Israels to huse, //9 en fælde og en snare for Jerusalems indbyggere.
-//10 v15 Mange skal snuble //11 og falde //11 og kvæstes //11 og gå i fælden //11 og fanges.
-//6 v16 Bind til for vidnesbyrdet,//8 forsegl loven{T: Det hebraiske ord >>tora<< kan også i sammenhængen oversættes: >>belæring/vejledning<<. Disse betydninger ligger også i det hebraiske ord.} hos mine disciple!<<
-//9 v17 Så jeg vil vente på JHVH, //11 der skjuler sit ansigt for Jakobs hus,//10 og jeg vil håbe på ham.
-//7 v18 Se, her er jeg og de børn //9 som JHVH har givet mig, //8 til tegn og varsler i Israel fra Hærskarers HERRE, //9 der bor på Zions bjerg.
+
+//6 v12 >>I skal ikke kalde alt det sammensværgelse 
+
+//8 som dette folk kalder sammensværgelse! 
+
+//7 Frygt ikke det som det frygter, 
+
+//4 og nær ikke rædsel!
+
+//4 v13 Hærskarers HERRE,{N: Hærskarers} //9 han skal være hellig for jer; 
+
+//8 han skal være genstand for jeres frygt, 
+
+//8 og han skal være jeres rædsel.
+
+//7 v14 For han skal være en helligdom, 
+
+//8 men også en anstødssten og en klippe man snubler over, 
+
+for Israels to huse, 
+
+//9 en fælde og en snare for Jerusalems indbyggere.
+
+//10 v15 Mange skal snuble 
+
+//11 og falde //11 og kvæstes 
+
+//11 og gå i fælden //11 og fanges.
+
+//6 v16 Bind til for vidnesbyrdet,
+
+//8 forsegl loven{T: Det hebraiske ord >>tora<< kan også i sammenhængen oversættes: >>belæring/vejledning<<. Disse betydninger ligger også i det hebraiske ord.} hos mine disciple!<<
+
+//9 v17 Så jeg vil vente på JHVH, 
+
+//11 der skjuler sit ansigt for Jakobs hus,
+
+//10 og jeg vil håbe på ham.
+
+//7 v18 Se, her er jeg og de børn 
+
+//9 som JHVH har givet mig, //8 til tegn og varsler i Israel 
+fra Hærskarers HERRE,{N: Hærskarers}
+
+//9 der bor på Zions bjerg.
+
 //5 v19 Og når de siger til jer: //7 >>Konsulter dødemanerne og sandsigerne, //8 der hvisker //9 og mumler.//6 << Skal{T: Meningen må være at folket skal svare: >>Skal et folk ikke …<<} et folk ikke søge til sin Gud? //8 Søge til de døde frem for de levende?
-//9 v20 >>Til loven og til vidnesbyrdet!<< //7 Hvis de ikke siger sådan, //9 er der ikke nogen morgenrøde for dem.
-//8 v21 Han skal drage igennem det,{T: Landet.} //9 plaget //10 og sulten; //8 og //9 når han sulter, //10 vil han blive rasende //10 og forbande sin konge og sin Gud. //10 Og er han vendt mod det høje,
-//12 v22 eller vil han se hen til jorden, //11 se, så er der nød og mørke, trængsels mørke, //13 og han er stødt ud i mulm.
+
+//9 v20 >>Til loven og til vidnesbyrdet!<< 
+
+//7 Hvis de ikke siger sådan, 
+
+//9 er der ikke nogen morgenrøde for dem.
+
+//8 v21 Han skal drage igennem det,{T: Landet.} //9 plaget //10 og sulten; 
+
+//8 og //9 når han sulter, //10 vil han blive rasende 
+
+//10 og forbande sin konge og sin Gud. 
+
+//10 Og er han vendt mod det høje,
+
+//12 v22 eller vil han se hen til jorden, 
+
+//11 se, så er der nød og mørke, 
+
+trængsels mørke, 
+
+//13 og han er stødt ud i mulm.
 
 ==Davidssønnens fødsel og virke==
-//14 v23 Men der skal ikke være mørke over det, {T: Landet.} //15 hvor der er trængsel nu. //12 Ligesom han i den første tid bragte vanære over Zebulons land og Naftalis land, //13 sådan vil han i den sidste tid bringe ære over Vejen langs Havet,{T: Ordret: >>Havets Vej<<.} på den anden side af Jordan, folkeslagenes {T: Kan også oversættes: >>hedningernes<<.} Galilæa.
+
+//14 v23 Men der skal ikke være mørke over det, {T: Landet.} 
+
+//15 hvor der er trængsel nu. 
+
+//12 Ligesom han i den første tid bragte vanære over Zebulons land 
+og Naftalis land, 
+
+//13 sådan vil han i den sidste tid bringe ære 
+
+over Vejen langs Havet,{T: Ordret: >>Havets Vej<<.} 
+
+på den anden side af Jordan, 
+
+folkeslagenes {T: Kan også oversættes: >>hedningernes<<.} Galilæa.
