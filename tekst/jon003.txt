@@ -45,7 +45,7 @@
 //11 som de har begået.{T: Ordret >>som [er] i deres hænder.<<}
 //5 v9 Hvem ved 
 //6 om Gud igen
-//8 vil angre {E: »...om Gud igen vil angre«: Konstruktion på hebraisk er *yāšûv  wᵊniḥam hāˀᵉlōhîm*: »...han vil gøre det igen, og så vil han angre, guden<<. Effekten er at verbet *šwv* her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.}
+//8 vil angre {E: »...om Gud igen vil angre«: Konstruktion på hebraisk er *yāšûv wᵊniḥam hāˀᵉlōhîm*: »...han vil gøre det igen, og så vil han angre, guden<<. Effekten er at verbet *šwv* her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.}
 //7 og vende sig fra sin brændende vrede 
 //8 så vi ikke forgår.<<
 //0 v10 Gud så deres gerninger, 

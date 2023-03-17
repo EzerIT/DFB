@@ -1,26 +1,34 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen og Torben Kjær>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 29.09.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.03.2023>!!
 
-===Paulus' Brev til Efeserne, kapitel 4===
-
-v1 Derfor formaner jeg, den fangne i Herren, jer til at vandre værdige til den kaldelse hvormed I blev kaldet,
-v2 med al ydmyghed og sagtmodighed, med tålmodighed så I bærer over med hinanden i kærlighed
-v3 og bestræber jer på at bevare Åndens enhed i fredens bånd;
-v4 ét legeme og én Ånd, ligesom I også blev kaldet til ét håb i jeres kaldelse;
-v5 én Herre, én tro, én dåb,
-v6 én Gud og alles Far, som er over alle og gennem alle og i alle!
+===Efeserbrevet, kapitel 4=== 
 
 
+==Enhed==
+
+v1 Jeg, der er fange i Herren, formaner jer da til at vandre det kald værdigt I blev kaldet med, v2 med al ydmyghed, mildhed og tålmodighed idet I bærer over med hinanden i kærlighed, v3 idet I stræber efter at bevare Åndens enhed med fredens bånd: v4 ét legeme og én Ånd, ligesom I også blev kaldet til ét håb ved jeres kaldelse, v5 én Herre, én tro, én dåb, v6 én Gud og alles Far som er over alle, gennem alle og i alle. v7 Men enhver af jer blev nåden givet ifølge Kristi tilmålte gave.{T: Ordret: >>Ifølge Kristi gaves mål<<.} v8 Derfor hedder det:
+
+Han steg op til det høje og førte fanger i fangenskab,
+
+han gav gaver til menneskene.
+
+v9 Men hvad er det at han steg op, uden at han også var steget ned til jordens lave egne? v10 Han som steg ned, er også ham som steg op over alle himle for at fylde alt. 
+
+==Nådegavernes funktion==
+
+v11 Og han gav apostle, profeter, evangelister, og hyrde-lærere{T: Hyrder og lærere er bundet sammen med samme artikel, og det peger på, at det én kategori: Hyrde-lærere. Alternativ oversættelse: >>hyrder og lærere<<.} v12 til at udruste de hellige{T: Ordret: >>til udrustning af de hellige<<.} til tjenestens gerning så Kristi krop opbygges,{T: Ordret: >>til opbyggelse af Kristi krop<<.} v13 indtil vi alle når frem til troens enhed og erkendelsen af Guds Søn, til mands modenhed, til målet af vækst, nemlig Kristi fylde, v14 for at vi ikke mere skal være umyndige så vi kastes og drives af enhver læres vind, ved menneskers snyderi,{T: Ordret: >>terningespil<<.} ved snedighed der fører til bedrageriske metoder,{T: Ordret: >>bedragets metoder<<.}15 men for at vi, sande i kærlighed i alt, skal vokse op til ham som er hovedet, Kristus, v16 af hvem hele kroppen, når den sammenføjes og sammenholdes ved ethvert understøttende bindeled med enhver dels mål af kraft, skaber sin vækst til opbyggelse af sig selv i kærlighed.
+
+==Det gamle og det nye menneske==
+
+v17 Dette siger jeg da og vidner i Herren at I ikke mere skal vandre ligesom hedningerne vandrer i deres tankers tomhed, v18 formørkede i deres tænkning, fremmede for Guds liv på grund af den uvidenhed som er i dem, og på grund af deres hjertes forhærdelse. v19 Afstumpede har de i misundelse givet sig selv hen til udsvævelse, til al uren gerning. 
+
+v20 Således har I ikke lært Kristus at kende, v21 så sandt I har hørt om ham og er blevet undervist i ham, sådan som sandheden er i Jesus: v22 At I har aflagt det gamle menneske med dets tidligere adfærd,{T: Alternativ oversættelse: >>I skal aflægge det gamle menneske.<< Ifølge Rom 6,6 er det gamle menneske korsfæstet med Kristus i dåben, og ifølge Kol 3,9 er det gamle menneske aflagt.} som ødelægges af sine bedrageriske lyster, v23 at I fornyes ved jeres tankers ånd, v24 og at I har iført jer det nye menneske{T: Alternativ oversættelse: >>Og at I skal iføres den nye menneske.<< Ifølge Kol 3,10 har de kristne iført sig det nye menneske.} som blev skabt i lighed med Gud i sandhedens retfærdighed og hellighed.
+
+==Formaning til at aflægge synden==
+
+v25 Derfor skal I aflægge løgnen og tale sandhed, enhver med sin næste, for vi er hinandens lemmer. v26 Bliver I vrede,{T: Denne oversættelse er valgt pga. vers 31. Alternativ oversættelse: >>Bliv vrede og synd ikke<<. Imperativen er da en tilladende imperativ.} så synd ikke; lad ikke solen gå ned over jeres vrede, v27 giv ikke plads til Djævelen. v28 Den som stjæler, skal ikke mere stjæle, men hellere arbejde og virke det gode med sine egne hænder, så han har noget at give til den som har brug for det. v29 Intet råddent ord skal udgå af jeres mund, men det som er godt til nødvendig opbyggelse, så det kan være en velsignelse for dem der hører. v30 Bedrøv ikke Guds Helligånd som I blev beseglet med til løskøbelsens dag. v31 Lad al bitterhed, harme, vrede, skrig og bespottelse være fjernt fra jer, sammen med al ondskab. v32 Men vær gode mod hinanden, barmhjertige, tilgivende hinanden, ligesom også Gud i Kristus tilgav jer.   
 
 
-v22 Hvad jeres tidligere færden angår, skal I aflægge det gamle menneske som fordærves af bedrageriske lyster,
-v23 og I skal fornyes i jeres sinds ånd 
-v24 og iføre jer det nye menneske, som blev skabt efter Gud i retfærdighed og sandhedens hellighed.
-
-v25 Aflæg derfor løgnen og tal sandhed, enhver med sin næste, for vi er hinandens lemmer.
-v26 Bliver I vrede, så synd ikke; lad ikke solen gå ned over jeres vrede;
-v27 og giv heller ikke Djævelen plads!
-v28 Den som stjæler, skal ikke mere stjæle, men hellere arbejde og gøre det gode med sine egne hænder for at han kan have noget at give til den som mangler.

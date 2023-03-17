@@ -1,16 +1,27 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 13.10.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.03.2023>!!
 
-===Paulus' Brev til Efeserne, kapitel 6===
+===Efeserbrevet, kapitel 6===
+   
 
-v10 I øvrigt, vær stærke i Herren og i hans vældige styrke!
-v11 Ifør jer den fulde rustning som Gud giver, for at I må kunne holde stand imod Djævelens snigangreb.
-v12 For kampen står for os ikke imod kød og blod, men imod magterne, imod myndighederne, imod verdensherskerne i dette mørke, imod ondskabens åndemagter i det himmelske.
-v13 Tag derfor den fulde rustning fra Gud på for at I må kunne stå imod på den onde dag og bestå efter at have overvundet alt.
-v14 Så stå da med sandheden bundet om jeres lænd og iført retfærdighedens brynje,
-v15 og tag på fødderne den villighed til kamp som fredens evangelium giver;
-v16 og løft i alle forhold troens skjold hvormed I vil kunne slukke alle den ondes gloende pile,
-v17 og tag imod frelsens hjelm og Åndens sværd, som er Guds ord.
+==Formaning til børn og fædre==
+
+v1 I børn, adlyd jeres forældre i Herren, for dette er ret. v2 Ær din far og din mor; det er det første bud med et løfte: v3 For at det må gå dig godt, og du må få et langt liv på jorden. v4 Og I fædre, gør ikke jeres børn vrede, men opdrag dem med Herrens opdragelse og vejledning.
+
+==Formaning til slaver og deres herrer==
+
+v5 I slaver, adlyd jeres menneskelige{T: Ordret: >>ifølge kødet<<.} herrer med frygt og bæven, med et oprigtigt hjerte{T: Ordret: >>med jeres hjerters oprigtighed<<.} som for Herren, v6 ikke med øjentjeneste som dem der vil indynde sig hos mennesker, men som Kristi tjenere som af hjertet{T: Ordret: >>af sjælen<<.} gør Guds vilje, v7 som med god vilje tjener som for Herren og ikke som for mennesker, v8 fordi I ved at enhver, hvis han gør noget godt, vil få dette igen fra Herren, hvad enten han er slave eller fri. v9 Og I herrer skal gøre det samme mod dem, så I opgiver jeres trusler, fordi I ved at deres og jeres Herre er i himlen, og at der ikke er personsanseelse hos ham. 
+
+==Formaning til at iføre sig Guds rustning==
+
+v10 I øvrigt, vær stærke i Herren og i hans styrkes kraft. v11 Ifør jer Guds fulde rustning så I kan stå fast mod Djævelens metoder, v12 for vores kamp er ikke mod blod og kød, men mod magterne, mod myndighederne, mod dette mørkes verdensherskere, mod ondskabens ånder i det himmelske. v13 Tag derfor Guds fulde rustning på for at I kan stå imod på den onde dag og stå fast efter at I har gjort{T: Alternativ oversættelse: >>overvundet<<.} alt. v14 Stå altså fast med sandheden spændt om jeres lænd og iført retfærdighedens brynje v15 og på fødderne{T: Ordret: >>med fødderne ombundne<<. Der er tænkt på fodtøj som man snører om benene.} villighed til at forkynde fredens evangelium, {T: Ordret: >>fredens evangeliums beredskab<<.} v16 i alt med troens skjold løftet, som I kan slukke alle den Ondes brændende pile med. Tag imod frelsens hjelm og Åndens sværd, som er Guds ord, v18 idet I altid i enhver bøn og forbøn beder i Ånden, og idet I dertil er årvågne med al udholdenhed og forbøn for alle de hellige v19 og for mig for at ordet må blive givet mig når jeg åbner min mund, for at jeg med mod kan meddele evangeliets hemmelighed v20 som jeg er en udsending for i lænker, for at jeg ved det må få frimodighed til at tale som jeg skal.
+
+==Afslutning og hilsen==
+
+v21 Men for at I også kan kende min situation, hvordan jeg har det, vil Tykikos, min elskede bror og tro tjener i Herren, meddele jer alt. v22 Ham sender jeg til jer til jer med dette formål for at I kan kende vores forhold, og for at trøste jeres hjerter. v23 Fred være med brødrene og kærlighed med tro fra Gud Fader og Herren Jesus Kristus. v24 Nåden være med alle som elsker vores Herre Jesus Kristus i uforgængelighed.
+
+
+

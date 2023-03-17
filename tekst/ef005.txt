@@ -1,34 +1,36 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Delvis>!!
-!!<Litterært tjek: Claus Tøndering>!!
-!!<Dato for denne version: 24.02.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.03.2023>!!
 
-===Paulus' Brev til Efeserne, kapitel 5===
-
-==De skal være Guds og Kristi efterfølgere i kærlighed==
-
-v1 Vær derfor Guds efterlignere som elskede børn,
-v2 og I skal vandre i kærlighed, ligesom også Kristus elskede os og gav sig selv hen for os som en gave og et offer til Gud, en vellugtende duft.
-
-==De skal aflægge urenhed og griskhed fordi det udelukker fra Guds rige==
-
-v3 Men utugt og al urenhed eller griskhed må end ikke nævnes blandt jer, sådan som det sømmer sig for hellige,
-v4 heller ikke skamløs opførsel eller dårlig snak eller letsindig tale, som er usømmeligt, men snarere taksigelse.
-v5 For dette skal I vide, at ingen utugtig eller uren eller grisk, det vil sige en afgudsdyrker, har arv i Kristi og Guds rige.
-
-==De skal ikke lade sig bedrage af tomme ord, men vandre som lysets børn==
-
-v6 Ingen må bedrage jer med tomme ord, for af den grund kommer Guds vrede over ulydighedens børn.
-v7 Gør derfor ikke fælles sag med dem!
-v8 For tidligere var I mørke, men nu er I lys i Herren. I skal vandre som lysets børn, 
-v9 for lysets frugt består i al godhed og retfærdighed og sandhed.
+===Efeserbrevet, kapitel 5===
 
 
-v15 Se derfor nøje til hvordan I lever, ikke som uvise, men som vise,
-v16 så I bruger{T: Ordret: >>løskøber/frikøber<<.} det gunstige øjeblik, for dagene er onde.
-v17 Vær derfor ikke uforstandige,{T: Det græske ord har i NT en undertone af religiøs mangel, af vantro.} men forstå hvad der er Herrens vilje.
-v18 Og drik jer ikke fulde i vin, som fører til udsvævelse, men lad jer fylde med Ånden,
-v19 idet I taler til hinanden med salmer og hymner og åndelige sange, og idet I synger og spiller i jeres hjerte for Herren,
-v20 og idet I altid takker Gud og Faderen for alle ting i vor Herres Jesu Kristi navn,
-v21 og idet I underordner jer under hinanden i ærefrygt for Kristus.{T: Kan også oversættes: >>i Kristi ærefrygt<<, altså: >>i den ærefrygt, som Kristus indgiver<<.}
+==Bliv efterfølgere==
+
+v1 Bliv derfor, som elskede børn, efterfølgere af Gud, v2 og I skal vandre i kærlighed ligesom også Kristus har elsket jer og givet sig selv hen for jer som en gave og et offer til en liflig duft. 
+
+==Aflæg utugt og begærlighed==
+
+v3 Men utugt og enhver urenhed eller begærlighed skal end ikke nævnes blandt jer, sådan som det passer sig for hellige, v4 og heller ikke skamløshed, tåbelig snak eller grove vittigheder, som er upassende, men hellere taksigelse. v5 For dette skal I vide at ingen utugtig eller uren eller begærlig (det er en afgudsdyrker,) har arveandel i Kristi og Guds rige. 
+
+==Lev som lysets børn==
+
+v6 Lad ingen bedrage jer med tomme ord, for på grund af disse kommer Guds vrede over ulydighedens børn. v7 Bliv derfor ikke deres partnere, v8 for før var I mørke, men nu er I lys i Herren. Som lysets børn skal I vandre, v9 – for lysets frugt viser sig i al godhed og retfærdighed og sandhed – v10 så I vurderer hvad der er prisværdigt for Herren, v11 og I skal ikke være meddelagtige i mørkets ufrugtbare gerninger, men afslør dem hellere. v12 For det som bliver skjult af dem, er skammeligt blot at nævne, v13 men alt åbenbares når det afsløres af lyset, v14 for alt det som bliver åbenbaret, er lys. Derfor hedder det: 
+
+Rejs dig, du som sover
+
+og stå op fra de døde,
+
+og Kristus vil lyse på dig.
+
+==Lad jer fylde af Ånden==
+
+v15 Se derfor nøje til hvordan I vandrer, ikke som uvise, men som vise v16 så I udnytter det gunstige øjeblik, for dagene er onde. v17 Vær derfor ikke tåbelige, men forstå hvad der er Herrens vilje. v18 Drik jer ikke fulde i vin, i den er der udsvævelse, men lad jer fylde af Ånden v19 ved at I taler til hinanden med salmer, hymner og åndelige sange, ved at I synger og spiller i jeres hjerte for Herren, v20 ved at I altid takker Gud og Faderen for alt i vores Herre Jesu Kristi navn, og ved at I underordner jer under hinanden i frygt for Herren.
+
+==Om ægteskabet==
+
+v21 I hustruer skal underordne jer under jeres egne mænd som under Herren, v23 for en mand er sin hustrus hoved, ligesom også Kristus er menighedens hoved, han er sin krops frelser, v24 men ligesom menigheden underordner sig under Kristus, således skal hustruerne underordne sig under mændene i alt. v25 I mænd, elsk jeres hustruer, ligesom også Kristus har elsket menigheden og givet sig selv hen for den v26 for at hellige den ved at rense den i badet med vand ved ordet, v27 for at føre  menigheden for sig som herlig, uden plet eller rynke eller noget af den slags, for at den kan være hellig og uden fejl. v28 Således skylder også mændene at elske deres egne hustruer som deres egne kroppe. Den som elsker sin egen hustru, elsker sig selv. v29 For ingen har nogen sinde hadet sin egen krop, men han ernærer og plejer den, ligesom også Kristus ernærer og plejer menigheden, v30 for vi er lemmer på hans krop. v31 Derfor forlader en mand sin far og mor og holder sig til sin hustru, og de to bliver ét kød. v32 Denne hemmelighed er stor, jeg taler nemlig om Kristus og menigheden. v33 Dog skal også I hver især elske jeres hustru som jer selv, men hustruen skal have ærefrygt for sin mand.
+ 
+

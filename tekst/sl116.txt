@@ -7,7 +7,7 @@
 ===Salme 116{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 115, som indledning til Sl 116.}===
 
 ==Du har reddet mit liv==
-v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for JHVH har hørt<<, men verbet >>elske>> kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>JHVH<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker JHVH, for han har hørt min tryglende røst<<.} at JHVH har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
+v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for JHVH har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>JHVH<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker JHVH, for han har hørt min tryglende røst<<.} at JHVH har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
 
 
 min tryglende røst.{T: Ordret: >>min tryglens røst<<.}

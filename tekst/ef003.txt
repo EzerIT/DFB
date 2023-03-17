@@ -1,17 +1,19 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 31.08.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.03.2023>!!
 
-===Paulus' Brev til Efeserne, kapitel 3===
+===Efeserbrevet, kapitel 3===
 
-v13 Derfor beder jeg at I ikke taber modet over mine trængsler, som jeg lider for jer, hvilket er en ære for jer. —
-v14 For denne sags skyld bøjer jeg mine knæ for Faderen,
-v15 fra hvem enhver faderlighed{T: Ordret: >>slægt<<. Det græske ord for >>slægt<< er afledt af og lyder omtrent som >>far<<.} i himlen og på jorden har sit navn,
-v16 at han efter sin herligheds rigdom må give jer at styrkes med kraft ved hans Ånd i det indre menneske;
-v17 at Kristus må bo ved troen i jeres hjerter, rodfæstede og grundfæstede i kærlighed, 
-v18 så at I sammen med alle de hellige må være i stand til at begribe, hvor stor bredden og længden og højden og dybden er,
-v19 og at kende Kristi kærlighed, som overgår al erkendelse, for at I må fyldes til hele Guds fylde.
-v20 Men ham som formår over alle ting at gøre langt ud over det som vi beder om eller forstår, efter den magt{T: Kan også oversættes: >>kraft<<.} som virker i os,
-v21 ham være ære i kirken{T: Kan også oversættes: >>menigheden<<, men i sammenhængen er der tænkt på den universelle kirke.} og i Kristus Jesus gennem alle slægterne i evighedernes evighed! Amen.
+==Kaldelsen til at forkynde Guds frelsesplan==
+
+v1 Derfor bøjer jeg mine knæ, jeg, Paulus, Kristi Jesu fange, for jer hedningers skyld v2 – så sandt I har hørt om den tjeneste, nemlig den Guds nåde, som blev givet mig med henblik på jer: v3 For ifølge en åbenbaring blev hemmeligheden meddelt mig, som jeg kort skrev om før, v4 og I kan når I læser det, forstå at jeg har indsigt i Kristi hemmelighed, v5 den som i tidligere generationer ikke blev meddelt menneskenes børn. Den er nu blevet åbenbaret for hans hellige apostle og profeter ved Ånden: v6 at hedningerne er medarvinger og medlemmer af kroppen og har del i løfterne i Kristus Jesus ved evangeliet, v7 som jeg er blevet tjener for ifølge Guds nådes gave{T: Ordret: >>Guds nådes tjeneste<<.} som blev givet mig i overensstemmelse med hans styrkes virkekraft. v8 Til mig, den ringeste af alle de hellige, blev den nåde givet at forkynde evangeliet om Kristi uransagelige rigdom for hedningerne, v9 og at oplyse alle om hvad hemmelighedens frelsesplan er, som var blevet skjult fra evighederne af i Gud, skaberen af alt, v10 for at Guds mangfoldige visdom nu kunne blive meddelt ved menigheden for magter og myndigheder i det himmelske, v11 efter hans beslutning i evighederne som han traf i Kristus Jesus, vores Herre, v12 i ham har vi mod og tillidsfuld adgang{T: Ordret: >>adgang i tillid<<} ved troen på ham. v13 Derfor beder jeg om at I ikke bliver modløse over mine trængsler for jeres skyld, trængsler som er en ære for jer.
+
+==Bøn for menigheden==
+
+v14 På grund af dette bøjer jeg mine knæ for Faderen, fra hvem ethvert faderforhold i himlen og på jorden har sit navn, v16 og beder om at han efter sin herligheds rigdom vil give jer at I med kraft må styrkes ved hans Ånd i det indre menneske, v17 at Kristus må bo ved troen i jeres hjerter, idet I er rodfæstede og grundfæstede i kærlighed, v18 for at I sammen med alle de hellige må kunne begribe hvor stor bredden og længden og højden og dybden er, v19 og kende Kristi kærlighed, som overgår erkendelse, for at I må blive fyldt med hele Guds fylde.
+
+v20 Men ham, som over alt formår at gøre langt mere end det vi beder om eller forstår, ifølge den kraft som virker i os, v21 ham være ære i menigheden og i Kristus Jesus gennem alle generationer i evighedernes evighed, amen.
+
+

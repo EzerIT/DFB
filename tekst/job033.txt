@@ -59,7 +59,7 @@
 //14 fra at ende for et kastespyd. 
 //13 v19 Han irettesættes ved smerter på sit leje 
 //15 og vedholdende uro i benene 
-//14 v20 så han mister lysten til det daglige brød{T: Ordret >> hans liv væmmes ved brød<<.}
+//14 v20 så han mister lysten til det daglige brød{T: Ordret >>hans liv væmmes ved brød<<.}
 //15 og lækker mad.{T: Ordret >>hans sjæl ved eftertragtet mad<<.}
 //12 v21 Hans legeme sygner hen i ukendelighed
 //14 og nu stikker de knogler ud, 
