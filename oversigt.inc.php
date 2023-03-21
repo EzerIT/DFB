@@ -9,7 +9,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,5,19,32,33,34,35,36,37,38];
+$chap['job']      = [1,2,5,6,19,32,33,34,35,36,37,38];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -176,7 +176,8 @@ for ($k=1; $k<=2; ++$k)
 for ($k=3; $k<=42; ++$k)
     $style['job'][$k] = 'btn-secondary';
 for ($k=32; $k<=37; ++$k)
-$style['job'][$k] = 'btn-warning';
+    $style['job'][$k] = 'btn-warning';
+$style['job'][6] = 'btn-info';
 
 
 $style['sl'] = array();

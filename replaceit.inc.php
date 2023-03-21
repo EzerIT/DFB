@@ -201,13 +201,29 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 
     if ($exegetic_layout) {
         // Handle indentation
-        $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s';
-        $to[] = '<div class="indent" data-indent="\1">\2</div>\3';
+        //      (Regexp (.*?) matches the minimum number of arbitrary characters
+        //       (?= indicates a lookahead condition).
+        $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s'; // A double slash,
+                                                     // digits,
+                                                     // optional spaces,
+                                                     // the minimal possible number of characters,
+                                                     // optional spaces,
+                                                     // "//\d" or end-of-line
+        $to[] = '<div class="indent" data-indent="\1">QWW\2WWQ</div>\3';  // QWW...WWQ is removed below
+
+        $from[] = '/QWWWWQ/'; // Empty text ...
+        $to[] = '~';          // ... is replaced with tilde
+
+        $from[] = '/(QWW|WWQ)/'; // Other occurrences of QWW or WWQ ...
+        $to[] = '';              // ... are removed
     }
     else {
         // Fjern indrykningsmarkør
         $from[] = '~//\d+~';
         $to[] = '';
+
+        $from[] = '/(.)\s+:/';  // Remove space in front of colon
+        $to[] = '\1:';
 
         $from[] = '/\n *\n/';
         $to[] = 'QQ';
