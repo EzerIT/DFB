@@ -33,7 +33,7 @@ $chap['apg']      = [1,2,6,7,10];
 $chap['gal']      = range(1,6);
 $chap['ef']       = range(1,6);
 $chap['fil']      = range(1,4);
-$chap['kol']      = [1,3];
+$chap['kol']      = range(1,4);
 $chap['rom']      = [6,8,11,12,13,15];
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
@@ -100,9 +100,6 @@ $title['2pet']    = 'Peters Andet Brev';
 $title['1joh']    = 'Johannes&rsquo; Første Brev';
 $title['åb']      = 'Johannes&rsquo; Åbenbaring';
 
-$style['GT'] = 'btn-success'; // Bedste værdi for GT's kapitler
-$style['NT'] = 'btn-info'; // Bedste værdi for NT's kapitler
-
 
 foreach ($chap as $k => $v)
     $chaptype[$k] = 'kapitel';
@@ -160,77 +157,87 @@ foreach ($abbrev as $k => $v)
     $deabbrev[$v] = $k;
 
 
-$style['1mos']    = 'btn-secondary';
-$style['2mos']    = 'btn-info';
-$style['3mos']    = 'btn-secondary';
-$style['4mos']    = 'btn-info';
-$style['5mos']    = 'btn-secondary';
-$style['dom']     = 'btn-success';
-$style['ruth']    = 'btn-success';
-$style['2sam']    = 'btn-secondary';
-$style['2kong']   = 'btn-secondary';
+
+// Modenhed => button styles
+$modenhed['ufuldstændigt'] = 'btn-secondary';
+$modenhed['rå oversættelse'] = 'btn-warning';
+$modenhed['delvis færdig'] = 'btn-info';
+$modenhed['færdig'] = 'btn-success';
+
+
+$style['GT'] = $modenhed['færdig']; // Bedste værdi for GT's kapitler - bruges ved generering af PDF
+$style['NT'] = $modenhed['delvis færdig']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
+
+
+$style['1mos']    = $modenhed['ufuldstændigt'];
+$style['2mos']    = $modenhed['delvis færdig'];
+$style['3mos']    = $modenhed['ufuldstændigt'];
+$style['4mos']    = $modenhed['delvis færdig'];
+$style['5mos']    = $modenhed['ufuldstændigt'];
+$style['dom']     = $modenhed['færdig'];
+$style['ruth']    = $modenhed['færdig'];
+$style['2sam']    = $modenhed['ufuldstændigt'];
+$style['2kong']   = $modenhed['ufuldstændigt'];
 
 $style['job']     = array();
 for ($k=1; $k<=2; ++$k)
-    $style['job'][$k]  = 'btn-info';
+    $style['job'][$k]  = $modenhed['delvis færdig'];
 for ($k=3; $k<=42; ++$k)
-    $style['job'][$k] = 'btn-secondary';
+    $style['job'][$k] = $modenhed['ufuldstændigt'];
 for ($k=32; $k<=37; ++$k)
-    $style['job'][$k] = 'btn-warning';
-$style['job'][6] = 'btn-info';
+    $style['job'][$k] = $modenhed['rå oversættelse'];
+$style['job'][6] = $modenhed['delvis færdig'];
 
 
 $style['sl'] = array();
 for ($k=1; $k<=135; ++$k)
-    $style['sl'][$k] = 'btn-success';
+    $style['sl'][$k] = $modenhed['færdig'];
 for ($k=136; $k<=150; ++$k)
-    $style['sl'][$k] = 'btn-info';
-$style['sl'][119] = 'btn-info';
+    $style['sl'][$k] = $modenhed['delvis færdig'];
+$style['sl'][119] = $modenhed['delvis færdig'];
 
-$style['ordsp']   = 'btn-secondary';
-$style['præd']    = 'btn-secondary';
+$style['ordsp']   = $modenhed['ufuldstændigt'];
+$style['præd']    = $modenhed['ufuldstændigt'];
 
 for ($k=1; $k<=16; ++$k)
-    $style['es'][$k] = 'btn-success';
+    $style['es'][$k] = $modenhed['færdig'];
 for ($k=17; $k<=66; ++$k)
-    $style['es'][$k] = 'btn-warning';
+    $style['es'][$k] = $modenhed['rå oversættelse'];
 
-$style['jer']     = [ 1  => 'btn-success',
-                      2  => 'btn-success', 
-                      7  => 'btn-success', 
-                      9  => 'btn-secondary', 
-                      18 => 'btn-secondary',
-                      23 => 'btn-secondary'];
+$style['jer']     = [ 1  => $modenhed['færdig'],
+                      2  => $modenhed['færdig'], 
+                      7  => $modenhed['færdig'], 
+                      9  => $modenhed['ufuldstændigt'], 
+                      18 => $modenhed['ufuldstændigt'],
+                      23 => $modenhed['ufuldstændigt']];
 
-$style['ez']      = 'btn-secondary';
-$style['am']      = 'btn-secondary';
-$style['obad']    = 'btn-info';
-$style['jon']     = 'btn-info';
-$style['nah']     = 'btn-info';
-$style['hab']     = 'btn-info';
-$style['sef']     = 'btn-info';
-$style['hagg']    = 'btn-secondary';
-$style['zak']     = 'btn-success';
-$style['matt']    = 'btn-info';
-$style['mark']    = 'btn-info';
-$style['luk']     = 'btn-secondary';
-$style['joh']     = 'btn-secondary';
-$style['apg']     = 'btn-secondary';
-$style['rom']     = 'btn-secondary';
-$style['1kor']    = 'btn-warning';
-$style['2kor']    = 'btn-warning';
-$style['gal']     = 'btn-info';
-$style['ef']      = 'btn-info';
-$style['fil']     = 'btn-info';
-$style['kol']     = 'btn-secondary';
-$style['1thess']  = 'btn-warning';
-$style['2thess']  = 'btn-warning';
-$style['tit']     = 'btn-secondary';
-$style['hebr']    = 'btn-secondary';
-$style['jak']     = 'btn-secondary';
-$style['1pet']    = 'btn-secondary';
-$style['2pet']    = 'btn-secondary';
-$style['1joh']    = 'btn-secondary';
-$style['åb']      = 'btn-info';
-
-
+$style['ez']      = $modenhed['ufuldstændigt'];
+$style['am']      = $modenhed['ufuldstændigt'];
+$style['obad']    = $modenhed['delvis færdig'];
+$style['jon']     = $modenhed['delvis færdig'];
+$style['nah']     = $modenhed['delvis færdig'];
+$style['hab']     = $modenhed['delvis færdig'];
+$style['sef']     = $modenhed['delvis færdig'];
+$style['hagg']    = $modenhed['ufuldstændigt'];
+$style['zak']     = $modenhed['færdig'];
+$style['matt']    = $modenhed['delvis færdig'];
+$style['mark']    = $modenhed['delvis færdig'];
+$style['luk']     = $modenhed['ufuldstændigt'];
+$style['joh']     = $modenhed['ufuldstændigt'];
+$style['apg']     = $modenhed['ufuldstændigt'];
+$style['rom']     = $modenhed['ufuldstændigt'];
+$style['1kor']    = $modenhed['rå oversættelse'];
+$style['2kor']    = $modenhed['rå oversættelse'];
+$style['gal']     = $modenhed['delvis færdig'];
+$style['ef']      = $modenhed['delvis færdig'];
+$style['fil']     = $modenhed['delvis færdig'];
+$style['kol']     = $modenhed['delvis færdig'];
+$style['1thess']  = $modenhed['rå oversættelse'];
+$style['2thess']  = $modenhed['rå oversættelse'];
+$style['tit']     = $modenhed['ufuldstændigt'];
+$style['hebr']    = $modenhed['ufuldstændigt'];
+$style['jak']     = $modenhed['ufuldstændigt'];
+$style['1pet']    = $modenhed['ufuldstændigt'];
+$style['2pet']    = $modenhed['ufuldstændigt'];
+$style['1joh']    = $modenhed['ufuldstændigt'];
+$style['åb']      = $modenhed['delvis færdig'];

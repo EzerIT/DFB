@@ -1,14 +1,56 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 02.11.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 30.03.2023>!!
 
-===Paulus' Brev til Kolossenserne, kapitel 1===
+===Kolossenserbrevet, kapitel 1===
 
-v9 Derfor er vi, fra den dag vi hørte det, heller ikke holdt op med at bede for jer og bede om at I må blive fyldt af erkendelsen om hans vilje i al åndelig visdom og indsigt
-v10 til at vandre Herren værdigt, til velbehag i alt, idet I bærer frugt i al god gerning og vokser i kundskaben om Gud
-v11 idet I styrkes med al styrke efter hans herligheds kraft til al udholdenhed og tålmodighed, med glæde
-v12 takker Faderen, som gjorde jer duelige til at have del i de helliges arvelod i lyset,
-v13 han som friede os ud af mørkets magt og flyttede{T: Ordret: >>omplantede<<.} os over i sin elskede søns rige,
-v14 i hvem vi har forløsningen, syndernes forladelse.
+
+==Forord==
+
+v1 Paulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus v2 hilser de i Kolossæ hellige og troende brødre i Kristus: Nåde være med jer og fred fra Gud, vores Far.
+
+==Indledning==
+
+v3 Vi takker altid Gud, vores Herre Jesu Kristi Far, når vi beder for jer, v4 fordi vi har hørt om jeres tro på Kristus Jesus og om kærligheden som I har til alle de hellige v5 på grund af det håb som ligger rede til jer i himlene, det håb som I før har hørt om i sandhedens ord, evangeliet, v6 som er kommet til jer. Ligesom det bærer frugt og vokser i hele verden, således også i jer fra den dag I hørte og forstod Guds nåde i sandhed, v7 sådan som I har lært det af Epafras, vores elskede medtjener, som er Kristi tro tjener for jer. v8 Han har også fortalt os om jeres kærlighed i Ånden.
+
+==Frelsen ved Kristus ==
+
+v9 Derfor, fra den dag vi hørte det, er vi ikke holdt op med at bede for jer og bønfalde om at I må blive fyldt med erkendelsen af hans vilje med al visdom og åndelig indsigt v10 så I kan vandre Herren værdigt til hans fulde glæde{T: Ordret: >>til al glæde<<}, ved at I bærer frugt i al god gerning og vokser i erkendelsen af Gud, v11 ved at I styrkes med al kraft efter hans herligheds magt til al udholdenhed og tålmodighed, og ved at I med glæde v12 takker Faderen, som har gjort os kvalificerede til at få del i de helliges arv i lyset. v13 Han befriede os af mørkets magt og satte os over i sin elskede søns rige, v14 i ham har vi løskøbelsen, syndernes tilgivelse.
+
+v15 Han er den usynlige Guds billede,
+
+den førstefødte før al skabning,{E: Al skabning er en relationsgenitiv som her kan gengives med >>før<<; man kan oversætte: >>den førstefødte af al skabning<<, men da er Jesus den første blandt skabningerne, og det stemmer ikke med at alt er skabt ved ham og til ham (vers 16), og at alt består ved ham (vers 17).}
+
+v16 for ved ham blev alt skabt i himlene og på jorden,
+
+det synlige og usynlige, troner og herskere, magter og myndigheder,
+
+alt er blevet skabt ved ham og til ham,
+
+v17 og han er før alt,
+
+og alt består ved ham.
+
+v18 Han er hoved for kroppen, menigheden,
+
+han er begyndelsen,
+
+den førstefødte af de døde,
+
+for at han skulle være den første i alt,
+
+v19 for Gud besluttede at hele fylden skulle bo i ham,{T: Der er suppleret med Gud; hvis man ikke supplerer, lyder oversættelsen: >>For I ham besluttede hele fylden at bo<<.}
+
+v20 og ved ham at forsone alt med sig,
+
+hvad enten det var på jorden, eller det var i himlen
+
+da han stiftede fred ved blodet fra hans kors,
+
+v21 Også jer, som før var fremmede og fjender i tankegang i jeres onde gerninger, v22 har han nu forsonet i sin fysiske krop {T: Ordret: >>sit køds krop<<.} ved døden for at føre jer frem som hellige, fejlfrie og uangribelige for Ham, v23 hvis I virkelig forbliver grundfæstede og faste i troen og ikke lader jer rokke fra evangeliets håb, som I har hørt, som er blevet forkyndt for hele skabningen under himlen, og som jeg, Paulus, er blevet tjener for.
+
+==Paulus’ lidelser==
+
+v24 Nu glæder jeg mig over mine lidelser for jeres skyld, og jeg udfylder manglerne i Kristi trængsler i mit fysiske liv{T: Ordret: >>i mit kød<<.} til fordel for hans krop, som er menigheden. v25 Den er jeg blevet tjener for ifølge Guds frelsesplan{T: Alternativ oversættelse: >>Guds tjeneste<< eller >>tjenesten fra Gud<<.} som blev givet mig med henblik på jer for at fuldende forkyndelsen af Guds ord, v26 nemlig den hemmelighed som var blevet skjult for alle tider og generationer, men nu er blevet åbenbaret for hans hellige. v27 Dem ville Gud meddele hvilken rigdom på herlighed denne hemmelighed har blandt hedningerne, nemlig Kristus i jer, herlighedens håb. v28 Ham forkynder vi ved at formane ethvert menneske og ved at undervise ethvert menneske med al visdom, for at vi kan føre ethvert menneske frem som fuldkomment i Kristus. v29 Med henblik på det arbejder jeg også mens jeg kæmper med hans kraft, som virker med styrke i mig.
