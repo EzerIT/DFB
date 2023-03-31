@@ -3,7 +3,6 @@
 .PHONY: force
 
 ../dfb.pdf:	force
-	echo '******** HAR DU HUSKET AT RETTE DATO I replaceittex.php? ********'
 	php replaceittex.php HERREN d +v +f +s +o > y.tex
 	rubber -m xelatex y.tex
 	cp y.pdf $@

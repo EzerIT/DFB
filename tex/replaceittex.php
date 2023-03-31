@@ -397,8 +397,12 @@ echo<<<'END'
 
 
 \title{Den Frie Bibel}
-\date{30.03.2023}
 
+END;
+
+echo '\date{', date('d.m.Y'), "}\n";
+
+echo<<<'END'
 
 \begin{document}
 \begin{titlingpage*}
