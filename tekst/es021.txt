@@ -1,34 +1,161 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
 
-===Esajas' Bog, kapitel 21===
+===Esajas, kapitel 21===
 
-==Esajas profeterer igen om Babylons ødelæggelse under mederne og perserne,1-5; han har et syn om det og vil have jøderne til at tænke over det, 6-10; han profeterer om straf over edomitterne, 11-12: og over arabere og kedarenere under assyrerne, 13-17.==
+==Ord mod Babylonien==
+v1 Udsagn om ørkenen ved havet{T: Dvs. Babylon, v 9}. 
 
+Ligesom hvirvelvinde farer forbi i Sydlandet,{T: Ordret: >>i Negev<<.} 
 
+kommer det fra ørkenen, 
 
-v1 Profeti imod Havørkenen {T: dvs. Babylon, v 9}. Ligesom hvirvelvinde farer frem i Syden, kommer det fra ørkenen, fra det forfærdelige land.
-v2 Jeg har fået et strengt syn forkyndt: Røveren røver, og ødelæggeren ødelægger; drag op, Elam! Træng på, Madaj! Jeg har gjort, at hvert suk hører op.
-v3 Derfor er mine hofter fulde af smerter, veer er der kommet over mig som veer over den fødende; jeg vrider mig, så jeg ikke kan høre, jeg er forfærdet, så jeg ikke kan se.
-v4 Mit hjerte er forvildet, gru har forfærdet mig, tusmørket, der var min lyst, er blevet min rædsel.
-v5 Man dækker bors, vagten holder vagt, man spiser, man drikker; - >>Gør jeg klar, fyrster, salv skjoldet!<<
+fra det forfærdelige land.
 
-v6 For JHVH sagde sådan til mig: >>Gå, sæt en vagtmand ud, lad ham melde, hvad han ser!
-v7 Og ser han vogne, ryttere to og to, vogne trukket af æsler, vogne trukket af kameler, skal han være opmærksom, se nøje efter.<<
-v8 Og han råbte som en løve: >>Herre, jeg står på vagt hele dagen, jeg står på min udkigspost hver nat.<<
-v9 Og se, da kom der vogne med folk, ryttere to og to; og han svarede og sagde: >>Babylon er faldet, den er faldet, og man har kastet alle dens gudebilleder knust til jorden!<<
-v10 Du, min tærskede {T: Dvs. det jødiske folk. Es 41,16; Jer 51,33}, og du, der har været lagt i min lade! Det, jeg hørte af JHVH Zebaoth, Israels Gud, meddelte jeg jer.
+v2 Et hårdt syn er forkyndt mig: 
 
-v11 Profeti imod Duma {T: Dvs. Edom. Jer 49,7}. Der er en, der råber fra Seir: >>Vægter, hvordan går natten? Vægter, hvordan går natten?<<
-v12 Vægteren siger:  >>Der kommer morgen, men også nat; vil I spørge, så spørg! Kom igen en anden gang.<<
+Den troløse handler troløst, 
 
-v13 Profeti imod Arabien. I skal blive natten over i skoven i Arabien, I rejsende flokke af dedanitter!
-v14 De kommer den tørstige i møde med vand; indbyggerne i Themas land møder den flygtende med brød.
-v15 For de flygtede for sværd, for det dragne sværd, for den spændte bue og for den hårde krig.
-v16 For JHVH sagde sådan til mig: >>Endnu inden et år, som en daglejers år, skal det være forbi med al Kedars herlighed.
-v17 Og tallet af buerne, de mægtige af Kedars børn får til overs, skal formindskes; for JHVH, Israels Gud, har sagt det.<<
+og voldsmanden øver vold. 
 
+Drag op, Elam! 
+
+Belejr, Medien! 
+
+Ethvert af hendes suk gør jeg ende på.
+
+v3 Derfor er mine lænder fulde af krampesmerter, 
+
+veer er kommet over mig 
+
+som en fødendes veer; 
+
+jeg vrider mig så jeg ikke kan høre, 
+
+jeg er forfærdet så jeg ikke kan se.
+
+v4 Mit hjerte er faret vild, 
+
+gru har overvældet mig, 
+
+skumringen jeg længtes efter, 
+
+er blevet gjort til rædsel for mig.
+
+v5 Man dækker bordet, 
+
+man breder tæppet ud,{T: Tidligere oversat: >>vagten holder vagt<<. Der er tale om to ensskrevne verber og deraf afledte substantiver.} 
+
+man spiser, man drikker. 
+
+>>Rejs jer, ledere, 
+
+salv skjold!<<
+
+***
+
+v6 For sådan har JHVH sagt til mig: 
+
+>>Gå, sæt vagtposten ud, 
+
+som skal melde, hvad han ser!
+
+v7 Og ser han en stridsvogn, 
+
+med et par heste for,{T: Kan også oversættes: >>med et par ryttere<<.} 
+
+æselryttere,{T: Kan også oversættes: >>vogn trukket af æsel<<.} 
+
+kamelryttere,{T: Kan også oversættes: >>vogn trukket af kamel<<.} 
+
+så skal han lytte opmærksomt, 
+
+meget opmærksomt.<<
+
+v8 Og han skal råbe som en løve:{E: Ofte går man ud fra at *ʔaryēʰ* (>>løve<<) må være en skrivefejl for: *harōʔeʰ*: >>udkigsmand<<. Det har dog ingen støtte i manuskripterne.} 
+
+>>På vagt, Herre, 
+
+står jeg 
+
+altid om dagen, 
+
+og på min vagtpost
+
+står jeg 
+
+hver nat.<<
+
+v9 Og se, da kom der 
+
+en vogn med en mand, 
+
+med et par heste for.{T: Kan også oversættes: >>med et par ryttere<<.}
+
+Han erklærede: >>Faldet,
+
+Babylon er faldet, 
+
+og dens gudebilleder 
+
+er knust til jorden!<<
+
+v10 Du, min tærskede,{T: Dvs. det mishandlede jødiske folk.} 
+
+og søn af min tærskeplads! 
+
+Det jeg har hørt fra Hærskarers HERRE{N: Hærskarers}, 
+
+Israels Gud, 
+
+har jeg meddelt jer.
+
+==Ord mod Edom==
+v11 Udsagn om Duma.{T: Dvs. Edom. Jer 49,7} 
+
+Der er en der råber til mig fra Se’ir: 
+
+>>Vægter, hvad er der tilbage af natten? 
+
+Vægter, hvad er der tilbage af natten?<<
+
+v12 Vægteren siger: 
+
+>>Der kommer morgen, 
+
+men også nat. 
+
+Vil I spørge, så spørg! 
+
+Vend tilbage, kom!<<
+
+==Ord mod dem på steppen==
+v13 Udsagn om dem på steppen.{T: Kan også oversættes: >> i Arabien<<.} 
+
+I buskadset, på steppen skal I overnatte, 
+
+I, dedanitters karavaner!
+
+v14 Til en tørstig 
+
+skal I bringe vand; 
+
+I der bor i Themas land, 
+
+gå en flygtning i møde med det brød han har brug for.{T: Ordret: >>med hans brød<<.}
+
+v15 For de flygtede for sværd, 
+
+for et draget sværd, 
+
+og for en spændt bue 
+
+og for en krigs voldsomhed.{T: Ordret: >>tunghed<<.}
+
+v16 For sådan sagde JHVH til mig: >>Indenfor et år, som en daglejers år, skal det være forbi med al Kedars herlighed.
+v17 Og resttallet af buer som Kedars tapre sønner har tilbage, skal være ringe.<< For JHVH, Israels Gud, har sagt det.
 
 

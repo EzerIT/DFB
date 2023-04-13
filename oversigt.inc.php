@@ -9,7 +9,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,5,6,9,19,32,33,34,35,36,37,38];
+$chap['job']      = [1,2,5,6,7,8,9,19,32,33,34,35,36,37,38,42];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -180,14 +180,18 @@ $style['2sam']    = $modenhed['ufuldstændigt'];
 $style['2kong']   = $modenhed['ufuldstændigt'];
 
 $style['job']     = array();
-for ($k=1; $k<=2; ++$k)
-    $style['job'][$k]  = $modenhed['delvis færdig'];
-for ($k=3; $k<=42; ++$k)
+for ($k=1; $k<=42; ++$k)
     $style['job'][$k] = $modenhed['ufuldstændigt'];
+
 for ($k=32; $k<=37; ++$k)
     $style['job'][$k] = $modenhed['rå oversættelse'];
+$style['job'][1] = $modenhed['delvis færdig'];
+$style['job'][2] = $modenhed['delvis færdig'];
 $style['job'][6] = $modenhed['delvis færdig'];
+$style['job'][7] = $modenhed['delvis færdig'];
+$style['job'][8] = $modenhed['delvis færdig'];
 $style['job'][9] = $modenhed['delvis færdig'];
+$style['job'][42] = $modenhed['delvis færdig'];
 
 
 $style['sl'] = array();
@@ -200,9 +204,9 @@ $style['sl'][119] = $modenhed['delvis færdig'];
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 
-for ($k=1; $k<=16; ++$k)
+for ($k=1; $k<=26; ++$k)
     $style['es'][$k] = $modenhed['færdig'];
-for ($k=17; $k<=66; ++$k)
+for ($k=27; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['rå oversættelse'];
 
 $style['jer']     = [ 1  => $modenhed['færdig'],

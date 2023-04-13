@@ -1,18 +1,16 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 06.06.2018>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
+===Esajas, kapitel 20===
 
-===Esajas' Bog, kapitel 20===
+==Billedhandling om Egyptens og Nubiens nederlag==
+v1 Det år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den, 
+v2 på den tid talte JHVH igennem Esajas, Amos’ søn, og sagde: >>Gå hen og løs sækken af dine lænder, og tag skoen af dine fødder!<< Det gjorde han og gik nøgen og barfodet.
+v3 Så sagde JHVH: >>Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som tegn og varsel mod Egypten og mod Nubien,
+v4 sådan skal Assyriens konge føre fangerne fra Egypten og de bortførte fra Nubien, både unge og gamle, nøgne og barfodede, med blottet bagdel, til skam for Egypten.<<
+v5 Og de{T: Dvs. jøderne; Es 11,16} skal blive bestyrtede og skamfulde over Nubien, deres håb, og over Egypten, deres stolthed.
+v6 Og den der bor på denne kyst{T: Dvs. i Juda}, skal sige på den dag: >>Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?<<
 
-==Esajas skal være et ydre tegn på egypternes og etiopiernes bortførelse under assyrerne, 1-4; det fortælles til jøderne for at råde dem fra at sætte deres lid til disse folk, 5-6.==
-
-
-v1 det år, da Tartan kom til Asdod, hvor Sargon, kongen af Assyrien, sendte ham til, og han kæmpede imod Asdod og indtog den, 
-v2 talte JHVH på den tid igennem Esajas og sagde: >>Gå hen og løs sørgedragten af dine lænder, og tag skoen af din fod!<< Og det gjorde han og gik nøgen og barfodet.
-v3 Så sagde JHVH: >>Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som et tegn og varsel for Egypten og Etiopien,
-v4 sådan skal kongen af Assyrien bortføre fangerne fra Egypten og de landflygtige fra Etiopien, både unge og gamle, nøgne og med bar mås til skam for egypterne.
-
-v5 Og de{T: dvs. jøderne; Es 11,16} skal forfærdes og skamme sig over Etiopien, som de så op til, og over Egypten, der var deres stolthed.
-v6 Og den, der bor på denne strand{T: dvs. i Juda}, skal sige på den dag: >>Se, sådan er det gået den, vi så op til, som vi tyede til for at få hjælp til at blive friet fra kongen af Assyrien; og vi, hvordan skal vi undslippe?<<
 

@@ -1,27 +1,109 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version:  1.02.2022>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
+===Esajas, kapitel 25===
 
-===Esajas' Bog, kapitel 25===
+==Guds folk priser JHVH==
+v1 HERRE! Du er min Gud, 
 
-==Guds folk priser Herren for tilintetgørelsen af dets fjender, 1-5; profeten taler om messiasrigets herlighed iblandt alle folk, 6-9; og forkynder igen tilintetgørelsen af Guds menigheds fjender, 10-12.==
+jeg vil ophøje dig, jeg vil prise dit navn, 
 
+for du har gjort under; 
 
-v1 JHVH! Du er min Gud, jeg vil ophøje dig, jeg vil bekende dit navn, for du gjorde undere; de planer, der er lagt for længe siden, er trofasthed og sandhed.
-v2 For du gjorde staden til en stendynge, den faste by til en grusbunke, de fremmedes paladser er ikke længere en by; den skal aldrig mere bygges.
-v3 Derfor skal et stærkt folk ære dig; vilde hedningers byer skal frygte dig.
-v4 For du var den ringes styrke, den fattiges styrke, da han var grebet af angst, en tilflugt mod regnskyl, en skygge mod hede; for de vildes fnysen er som regnskyl imod en væg.
-v5 Som du dæmper heden i det tørre land, dæmper du de fremmedes larm; som heden dæmpes af skyggen fra en sky, dæmpes de vildes sang.
+planer, der er lagt for længe siden, 
 
-v6 Hærskarers HERRE skal holde et måltid med fede retter for alle folkeslag på dette bjerg, et måltid med lagret vin, fede, marvfulde retter, med lagret, klaret vin.
-v7 På dette bjerg skal han bortskaffe det slør som alle folkeslag er tilsløret med, og det dække som alle nationerne{T: Tidligere oversat (og kan også oversættes): >>hedninger<<.} er dækket med.
-v8 Han skal opsluge døden for evigt, og Herren HERREN skal tørre tårer af alle ansigter og fjerne sit folks vanære fra hele jorden; for HERREN har sagt det.
-v9 På den dag skal man sige: >>Se, dette er vores Gud, vi har håbet på ham, og han skal frelse os; dette er HERREN, vi har håbet på ham, lad os juble og glæde os over hans frelse.<<
+er trofasthed og sandhed.
 
-v10 For JHVHs hånd skal hvile over dette bjerg; men Moab {T: dvs. Guds riges fjender} skal trædes ned, som man træder halm ned i møddingpølen.
-v11 Og det skal brede sine hænder ud i den, ligesom den, der svømmer, breder sine hænder ud for at svømme; og han {T: JHVH} skal trykke dets overmod ned sammen med dets hænders ranker.
-v12 Og dine {T: Moabs} høje mures befæstning skal han styrte ned, vælte, slå til jorden, helt ned i støvet.
+v2 For du har forvandlet en by til en stendynge, 
 
+en befæstet stad til en ruinhob, 
+
+fremmedes palads er ikke længere en by; 
+
+den skal aldrig mere bygges.
+
+v3 Derfor skal et stærkt folk ære dig; 
+
+voldelige folkeslags stad skal frygte dig.
+
+v4 For du var værn for den ringe, 
+
+værn for den fattige i hans nød, 
+
+tilflugt fra regnskyl, skygge mod hede; 
+
+for voldsmænds fnysen er som regnskyl mod en mur.{E: Det foreslås ofte at ændre vokaliseringen fra: *qîr* (>>mur<<) til: *qōr*: >>kulde<<, så oversættelsen bliver: >>som et koldt regnskyl<<.}
+
+v5 Som hede i et tørt land 
+
+betvinger du fremmedes larm; 
+
+som heden dæmpes af skygge fra en sky, 
+
+dæmpes tyranners jubelsang.
+
+***
+
+v6 På dette bjerg skal Hærskarers HERRE{N: Hærskarers}  
+
+holde et måltid med fede retter
+
+for alle folkeslagene
+
+et måltid med lagret vin, 
+
+fede, marvfulde retter, 
+
+lagret, klaret vin.
+
+v7 På dette bjerg skal han bortskaffe 
+
+sløret der tildækker, sløret over alle folkene, 
+
+og det dække som alle folkeslagene{T: Kan også oversættes: >>hedningerne<<.} er dækket med.
+
+v8 Han skal opsluge døden for evigt, 
+
+og Herren JHVH skal tørre tårer af alle ansigter 
+
+og fjerne spotten mod sit folk fra hele jorden; 
+
+for JHVH har talt.
+
+v9 På den dag skal man sige: 
+
+>>Se, dette er vores Gud, som vi håbede på
+
+at han skulle frelse os. 
+
+Denne er HERREN, vi har håbet på, 
+
+lad os juble og glæde os over hans frelse.<<
+
+***
+
+v10 For JHVHs hånd skal hvile 
+
+over dette bjerg; 
+
+i stedet skal Moab trædes ned, 
+
+som halm trædes ned i en møddingpøl.
+
+v11 Og det skal brede sine hænder ud i den, 
+
+som den der svømmer, breder sine hænder ud for at svømme; 
+
+og han{T: JHVH} skal ydmyge dets overmod 
+
+sammen med dets hænders dygtighed.{E: Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.}
+
+v12 Og dine {T: Moabs} mures høje fæstningsværk 
+
+skal han kaste ned, vælte, jævne med{T: Ordret: >>få til at berøre<<.} jorden, 
+
+helt ned i støvet.
 
 

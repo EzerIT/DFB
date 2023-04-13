@@ -1,20 +1,61 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
+===Esajas, kapitel 18===
 
-===Esajas' Bog, kapitel 18===
+==Ord mod Nubien==
 
-==Esajas profeterer om etioperne og forkynder krig og ødelæggelse for dem, 1-6; han taler også om deres omvendelse, 7.==
+v1 Ve! Land med flagrende vinger, 
 
+som er på den anden side af Nubiens strømme,
 
-v1 Ve det land med de susende vinger, på den anden side af Etiopiens floder!
-v2 det, som sender bud over havet og med både af rør over vandet: I lette budbringere, gå til et folk, der er velvokset og glatraget, til et forfærdeligt folk, der er længere borte end dette; et folk, stærkt og nedtrampende, hvis land floder løber igennem.
-v3 Alle I indbyggere på jorden, og I, der bor på jorden, når man rejser bannere på bjergene, så se til! Og når man blæser i trompeten, så hør efter!
-v4 For sådan har JHVH sagt til mig: >>Jeg vil være stille og se på fra min bolig, når heden brænder under solskin, når skyen dugger i høstens hede.<<
-v5 For før høsten, når blomstringen er forbi, og blomsterne er blevet til druer, der modnes, da skal man skære rankerne af med vingårdsknive, fjerne og hugge grenene af.
-v6 De skal alle sammen overlades til rovfuglene på bjergene og til dyrene i landet, så rovfugle skal oversomre med dem, og alle dyr i landet overvintre med dem.
+v2 som sender bud på havet 
 
-v7 På den tid skal der frembæres gave til JHVH Zebaoth fra det velvoksne og glatragede folk og fra det forfærdelige folk, der er længere borte end det; et folk, stærkt og nedtrampende, hvis land floder løber igennem, hen til JHVH Zebaoths sted, til Zions bjerg.
+og i sivbåde over vandet: 
 
+Gå, I hurtige budbringere, 
+
+til et folk der er velvoksent og glathudet, 
+
+til et folk der er frygtet fra det blev til og fremover; 
+
+et folk, stærkt og nedtrampende, 
+
+hvis land vandstrømme skærer igennem.
+
+v3 Alle verdens indbyggere, 
+
+og jordens beboere: 
+
+Når man rejser banner på bjergene, så se til! 
+
+Og når man støder i hornet, så hør efter!
+
+v4 For sådan har JHVH sagt til mig: 
+
+>>Jeg vil være stille og se til i min bolig, 
+
+når heden brænder under solskin, 
+
+når duggen er tæt i høstens hede.<<
+
+v5 For før høsten, når blomstringen er forbi, 
+
+og blomst bliver til moden drue, 
+
+skal han skære skuddene af med vingårdsknive, 
+
+og rankerne fjerner han, river af.
+
+v6 De skal alle overlades til bjergenes rovfugle
+
+og til jordens{T: Kan også oversættes: >>landets<<.} dyr, 
+
+så rovfuglene kan oversomre på dem, 
+
+og alle jordens dyr overvintre på dem.
+
+v7 På den tid skal der frembæres gave til Hærskarers HERRE{N: Hærskarers} fra{E: Ordet >>fra<< (hebraisk: *min*) mangler i den hebraiske tekst, men suppleres ud fra bl.a. Septuaginta.} et velvoksent og glathudet folk og fra et folk der er frygtet fra det blev til og fremover; et folk, stærkt og nedtrampende, hvis land vandstrømme skærer igennem, hen til Hærskarers HERRES{N: Hærskarers} navns sted, til Zions bjerg.
 

@@ -1,31 +1,110 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
+===Esajas, kapitel 23===
 
-===Esajas' Bog, kapitel 23===
+==Ord mod Tyrus og Sidon==
+v1 Udsagn om Tyrus. 
 
-==Esajas forudsiger, at Tyrus skal ødelægges, især på grund af dens liv i stor overdådighed, og profeterer, hvor længe dens ødelæggelse skal vare, 1-15; efter den tid skal den opnå sin tidligere velstand og omvendes til JHVH, 16-18.==
+I skal jamre, Tarshish-skibe! 
 
+For den er ødelagt, intet hus, ingen indgang; fra kittæernes land blev det meddelt dem.
 
-v1 Profeti imod Tyrus. I skal jamre, skibe fra Tharsis! For den er ødelagt, så der ikke er et hus tilbage, og så ingen kommer derind; fra Kithims land meldes dette for dem.
-v2 Vær stille, I indbyggere på øen, som Zidons købmænd, der rejste over havet, fyldte!
-v3 Over de store vande blev kornet ved Sikor {T: Nilen}, høsten ved floden, dens indtjening, og den var hedningernes markedsby.
-v4 Skam dig, Zidon! For havet, fæstningen ved havet, siger: >>Jeg har ikke haft fødselsveer og har ikke født og ikke opdraget unge mænd og ikke opfostret unge piger.<<
-v5 Så snart rygtet når Egypten, skal de blive bange ved rygtet om Tyrus.
-v6 Rejs over ti Tharsis, I indbyggere på øens kal jamre!
-v7 Er det her jeres jublende by, den, hvis oprindelse er fra ældgammel tid, den, hvis fødder fører den ud, langt bort til at bo som fremmed?
-v8 Hvem har besluttet dette mod Tyrus, den, der uddelte kroner, den, hvis købmænd var fyrster, den, hvis handelsmænd var de herligste på jorden?
-v9 Det er JHVH Zebaoth, der har besluttet det for at ydmyge al denne dejlige herlighed, for at gøre de herlige på jorden ringe.
-v10 Løb igennem dit land som floden, du datter af Tharsis! Der ikke længere noget bælte, der holder.
-v11 Han rakte sin hånd ud over havet, han fik landene til at bæve; JHVH befalede om Kanaan at ødelægge dens fæstninger.
-v12 Og han sagde: >>Du skal ikke længere fryde dig, du voldtagne jomfru, Zidons datter! Gør dig klar, tag over til Kithim; men selv ikke der skal du have ro.<<
-v13 Se, kaldæernes land - der er folket, som ikke har været til længe, Assur har grundlagt det for ørkenens børn – de har rejst vagttårne, revet dens paladser ned, gjort den til en stendynge.
-v14 I skal jamre, I skibe fra Tharsis! For jeres fæstninger er ødelagt.
-v15 Og det skal ske på den dag, da skal Tyrus blive glemt i 70 år, der er en konges dage; men når de 70 år er slut, skal det gå Tyrus som i visen om luderen:
+v2 I skal tie af skræk,{E: Med støtte i et ugaritisk ord der stort set er enslydende med *dōmmû*, og ud fra forventning om en parallel til >>jamre<< i vers 2, oversætter mange: >>klag<<.} I kystbeboere, 
 
-v16  >>Tag harpen, gå omkring i byen, du glemte luder! Spil smukt på strengene, syng meget, så du må huskes!<<
-v17 Og det skal ske, efter at 70 år er gået, da skal JHVH besøge Tyrus, og den skal få sin indtjening igen og hore {T: dvs. handle} med alle lande på jorden, i hele verden.
-v18 Men dens handel og dens indtjening skal være helliget JHVH, den skal ikke spares op eller lægges hen; for de, der bor for JHVHs ansigt, skal have dens handel, så de må spise og blive mætte og kunne klæde sig herligt.
+Sidons handelsfolk, 
 
+der rejser over havet, fyldte dig op!
+
+v3 Og på store vande blev Shihors sæd, Nilens høst, dens indtjening, 
+
+og den var folkeslags{T: Kan også oversættes: >>hedningernes<<.} erhvervelse.
+
+v4 Skam dig, Sidon! 
+
+For havet har talt, 
+
+havets fæstning har sagt:
+ 
+>>Jeg har ikke haft fødselsveer og har ikke født 
+
+og ikke opfostret unge mænd 
+
+og ikke opdraget unge piger.<<
+
+v5 Så snart rygtet når Egypten, 
+
+skal de skælve ved rygtet om Tyrus.
+
+v6 Rejs over til Tarshish, 
+
+I skal jamre, kystbeboere!
+
+v7 Er dette jeres jublende by, 
+
+hvis oprindelse er fra ældgammel tid, 
+
+den, hvis fødder bærer den 
+
+langt bort for at bo som fremmed?
+
+v8 Hvem har planlagt dette mod Tyrus, 
+
+der uddeler kroner, 
+
+hvis handelsfolk er ledere, 
+
+hvis købmænd er jordens fornemme?
+
+v9 Hærskarers HERRE{N: Hærskarers} har planlagt det 
+
+for at vanhellige enhver pragts stolthed, 
+
+for at vanære jordens fornemme.
+
+***
+
+v10 Flyd ud over{E: I stedet for: *ʕivrî* (>>flyd ud over<<) foreslås det undertiden med støtte i Septuaginta at rette til: *ʕivdî*: >>dyrk<<. Det har dog ingen støtte i hebraiske håndskrifter.} dit land som Nilen, 
+
+du datter af Tarshish! 
+
+Der ikke længere noget bælte.{T: Det er noget der binder.}
+
+v11 Han rakte sin hånd ud over havet,
+ 
+han fik kongeriger til at ryste; 
+
+JHVH befalede om Kana’an 
+
+at ødelægge dens fæstninger.
+
+v12 Og han sagde: >>Du skal ikke længere juble, 
+
+du mishandlede jomfru, Sidons datter! 
+
+Rejs dig, drag over til kittæerne; 
+
+heller ikke dér skal du have ro.<<
+
+v13 Se, kaldæernes land - det er folket, som ikke var til, Assur har oprettet det til skibsfart{E: Oversættelsen er usikker. Ordet *ṣî*(som her er pluralis) forekommer kun ganske få gange i GT og oversættes nogle steder: >>skib<<, andre steder med >>ørkenbeboere<< eller: >>ørkendyr<<. Her er alle betydninger mulige.} – de har rejst belejringstårne, revet dets paladser ned, gjort det til en ruin.
+v14 I skal jamre, Tharshish-skibe, for jeres fæstning er ødelagt!
+
+v15 Og det skal ske på den dag, da skal Tyrus blive glemt i 70 år, svarende til en konges dage; når de 70 år er slut, skal det gå Tyrus som i skøgesangen:
+
+v16 >>Tag en citer, 
+
+gå omkring i byen, 
+
+du glemte skøge! 
+
+Spil smukt, 
+
+syng meget, 
+
+så du må blive husket!<<
+
+v17 Og det skal ske, efter at 70 år er gået, da skal JHVH tage sig af Tyrus, så hun igen får sin skøgeløn, og hun skal hore med alle verdens kongeriger på jordens overflade.
+v18 Men hendes fortjeneste og hendes skøgeløn skal være helliget JHVH, den skal ikke spares op og ikke opbevares; men de der bor for JHVHs ansigt, skal have det hun har erhvervet, så de kan spise sig mætte og få en prægtig klædning.
 

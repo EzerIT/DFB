@@ -2,7 +2,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.03.2023>!!
+!!<Dato for denne version: 13.04.2023>!!
 
 ===Jobs Bog, kapitel 6===
 
@@ -10,11 +10,11 @@
 ==Job klager over sin store smerte==
 
 
-//0 v1 Og Job sagde
+//0 v1 Og Job sagde 
 //1 :
 
-//2 v2 Åh, om man virkelig ville veje min fortvivlelse
-
+//2 v2 >>Åh, om man virkelig ville veje min fortvivlelse 
+	
 //7 og også lægge min ulykke på vægtskålen,{T: Ordret >>vægtskålene<<.}
 
 //6 v3 for nu er de tungere end havets sand.
@@ -27,19 +27,18 @@
 
 //6 Guds rædsler angriber mig.
 
-//4 v5 Skriger vildæslet over frisk græs?
 
-//5 Brøler oksen når den har foder?
+//4 v5 Skriger vildæslet over frisk græs? 
 
+//5 Brøler oksen når den har foder? 
+ 
 //4 v6 Mon mad uden smag spises uden salt,
 
-//5 mon der er smag i katostens saft?{T: Juice(slimet) fra *ḥallāmût*. Det hebraiske ord har flere betydninger, (1) malve/katost, en plante med lilla blomster, anvendt i naturmedicin, spiselig plante, mild cremet smag; (2) æggehvide, virkelig uden smag (3) purslane /portulak, anvendes i salat, smagen er let syrlig. Anvendelsen her er figurativt om smagløs, uinteressant og kedsommelig samtale.}
+//5 mon der er smag i katostens saft?{E: Juice (slimet) fra *ḥallāmût*. Det hebraiske ord har flere betydninger, (1) malve/katost, en plante med lilla blomster, anvendt i naturmedicin, spiselig plante, mild cremet smag; (2) æggehvide, virkelig uden smag (3) purslane /portulak, anvendes i salat, smagen er let syrlig. Anvendelsen her er figurativt om smagløs, uinteressant og kedsommelig samtale.}
 
 //6 v7 Jeg{T: Ordret: >>min sjæl<<.} værger mig ved at røre det;
-
-//9
-
-//8
+//9 
+//8 
 
 //7 de{T: I betydningen lidelserne.} er som fordærvet mad.{T: Kan også oversættes: >>som sygdom i min krop<<.}
 
@@ -48,36 +47,30 @@
 
 
 //3 v8 Gid
-
 //7 min bøn måtte nå frem,
 
 //6 og Gud gav mig håb!
 
 //7 v9 Gid Gud ville være tilfreds{T: Kan også oversættes >>beslutte<<.}
-
 //9 og knuse mig,
 
-//8 løfte sin hånd
-
+//8 løfte sin hånd 
 //9 og skære mig af.
 
 //5 v10 Må det stadig være min trøst,
 
 //7 og lad mig juble{T: Ordret: >>springe højt<< af glæde er meningen} i lidelsen,{T: Ordret: >>kval<<, kan også oversættes med >>smerte<<.}
-
 //8 hvor ingen har medlidenhed,
 
 //6 at jeg ikke har fornægtet{T: Ordret: >>skjult<<.} den Helliges tale.
 
 //4 v11 Hvad er min styrke
-
 //7 at jeg skulle håbe,
 
-//6 og hvilket endeligt venter mig
-
+//6 og hvilket endeligt venter mig 
 //7 at jeg skulle være tålmodig?
 
-//5 v12 Er min styrke som stenens{T: Ordret: >>stenene<<.} styrke?
+//5 v12 Er min styrke som stenens{T: Ordret: >>stenene<<.} styrke? 
 
 //6 Er mit kød af bronze?{T: Kan oversættes med >>kobber<<, men her er formentlig tænkt på legeringen bronze = kobber og tin, der er stærkere end rent kobber, se 4 Mos 21.9.}
 
@@ -93,8 +86,8 @@
 
 //4 han har forladt frygten for den Almægtige.
 
-//3 v15 Mine brødre har svigtet som en bæk,
-
+//3 v15 Mine brødre har svigtet som en bæk, 
+ 
 //5 som vandstrømmene i en wadi blev de borte.
 
 //8 v16 De{T: >>De<< henfører til vandstrømmene.} er grumset af is,
@@ -102,67 +95,54 @@
 //7 hvori sne skjuler sig.
 
 //8 v17 Til sin tid
-
 //11 tørrer de ud
-
 //10 og forsvinder,
 
-//10 i varmen
-
+//10 i varmen 
 //9 tørrer de ud fra deres flodlejer.{T: Ordret: >>steder<<, >>områder<<.}
 
 //6 v18 Karavaner bøjer af fra deres vej,
 
-//8 de drager op i ørkenen{T: Ordret: >>tomhed<<, samme hebraiske ord anvendt i 1 Mos 1,1.2.}
-
+//8 de drager op i ørkenen{T: Ordret: >>tomhed<<, samme hebraiske ord anvendt i 1 Mos 1,1.2.} 
 //9 og omkommer.
 
 //7 v19 Karavanerne fra Tema spejdede efter dem,{T: >>Efter dem<< er føjet til. Ordet >>dem<< hentyder til vand, vandstrømme. Dette er underforstået i vers 19-20.}
 
 //8 de vejfarende fra Saba satte deres håb til dem.
 
-//9 v20 De blev til skamme,
-
+//9 v20 De blev til skamme, 
 //10 fordi de stolede på dem,
 
 //9 de kom helt hen til dem
-
 //10 og blev skuffede.{T: Ordret: >>søge efter<<, >>søge intenst<<.}
 
 //4 v21 Ja, nu sker det for jer,
 
 //8 I ser rædsel
-
 //9 og bliver bange!
 
 //7 v22 Har jeg måske sagt:
-
 //8 >>Giv mig noget!<<
 
 //10 >>Giv mig en gave til mit bedste af jeres rigdom!<<{T: Ordret >>styrke<<.}
 
-//9 v23 Eller: >>Befri mig fra fjendens magt{T: Ordret: >>hånd<<.}
+//9 v23  Eller: >>Befri mig fra fjendens magt{T: Ordret: >>hånd<<.}
 
 //10 og løskøb mig fra voldsmænd!<<
 
 //6 v24 Undervis mig,
-
 //8 og jeg vil tie stille,
 
 //7 og
-
 //10 er jeg faret vild,
-
-//9 belær mig!
+//9 så belær mig!
 
 //8 v25 Hvor er oprigtiges tale{T: Ordret: >>ordene<<.} virkningsfuld!{T: Kan også oversættes: >>Hvorledes kan oprigtiges tale være skadelig?<<.}
-
+ 
 //10 Men hvad gavn har man af irettesættelse fra jer?
 
 //9 v26 Mon
-
 //12 I har udtænkt jeres tale som en irettesættelse?
-
 //11
 
 //12 Er den fortvivledes ord forgæves?{T: Ordret: >>til vinden<<.}
@@ -172,21 +152,16 @@
 //11 og I ville handle om jeres ven.
 
 //5 v28 Men nu
-
 //7 må I beslutte jer,{T: Kan også oversættes >>være villige til at<<.}
-
 //7 vend jer mod mig,
 
 //8 og over for jer,
-
 //9 tror I jeg ville lyve?
 
 //7 v29 Vend om,
-
 //9 lad der ikke forekomme uret,
 
 //8 men vend om,
-
 //9 retten er stadig på min side.{T: Ordret: >>min ret i det<<.}
 
 //6 v30 Er der uret på min tunge?

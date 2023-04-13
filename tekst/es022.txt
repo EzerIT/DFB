@@ -1,39 +1,152 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 06.06.2018>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.04.2023>!!
+===Esajas, kapitel 22===
 
-===Esajas' Bog, kapitel 22===
+==Ord mod Jerusalem==
+v1 Udsagn om Synernes Dal.{T: Dvs. Jerusalem, hvor profeterne havde mange syner.}
 
-==Esajas profeterer om ødelæggelsen af Juda og Jerusalem og trængslen under assyrerne, og han græder  og klager over deres ubodfærdighed og store selvsikkerhed, 1-14; især taler han om bortførelsen af Sebna og afsættelsen af ham på grund af hans stolthed og om, at Eliakim skal indtage hans plads, 15-25.==
+Hvad er der dog med dig, siden du med alle dine er gået op på tagene?
+
+v2 Så fuld af råb, 
+
+du støjende by, 
+
+du jublende stad! 
+
+Dine dræbte er ikke dræbt med sværd 
+
+og ikke døde i krig.
+
+v3 Alle dine ledere er flygtet sammen, 
+
+uden bue er de fanget; 
+
+alle der befandt sig hos dig, 
+
+er fanget sammen, 
+
+de var flygtet langt bort.
+
+v4 Derfor sagde jeg: >>Vend blikket fra mig, 
+
+jeg må græde bittert;{T: Ordret: >>jeg må være bitter i min gråd<<.} 
+
+træng ikke ind på mig for at trøste mig 
+
+over ødelæggelsen af mit folks datter.<<
+
+v5 For en dag med bestyrtelse og nedtrampning og forvirring
+
+er det for Herren, Hærskarers HERRE{N: Hærskarers} i Synernes Dal, 
+
+man bryder{E: Oversættelsen af *mᵊqarqar* (>>bryder ned<<) er usikker og omdiskuteret. Andre oversætter: >>laver spektakel<<, atter andre: >>udgraver en brønd<<.} mur{T: Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: >>larm<<.} ned, og der er skrig rettet hen mod bjerget.
+
+v6 Og Elam tog kogger op, 
+
+med bemandet{E: Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām* : >>Aram<<. Oversættelsen af denne linje bliver da: >>Aram med vogn, ryttere<<.} vogn, ryttere, 
+
+og Kir tog dækket af sit skjold.
 
 
-v1 Profeti imod Synernes Dal {T: Dvs. Jerusalem, hvor profeterne havde mange syner. Jer 48,38}. Hvad er der i vejen med dig, når du på den måde med alle dine går op på tagene?
-v2 Du, der var fuld af larm, du støjende hovedstad, du jublende by! Dine dræbte er ikke slået ihjel med sværd og ikke døde i krigen.
-v3 Alle som én er dine fyrster flygtet, uden bue er de fanget; alle som én, der fandtes i dig, er taget til fange, de måtte flygte langt bort.
-v4 Derfor siger jeg: >>Vend jer væk fra mig, jeg vil græde bittert; træng ikke på for at trøste mig over ødelæggelsen af mit folks datter.<<
-v5 For i Synernes Dal er der en uroens og nedtrampningens og forvirringens dag fra Herren JHVH Zebaoth, hvor murerne nedbrydes, og man råber imod bjergene.
-v6 Og Elam bar kogger, fulgt af vogne med mænd og af ryttere, og Kir tog dækket af skjoldet.
-v7 Og det skete, at dine udvalgte dale blev fulde af vogne, og ryttere tog opstilling imod porten.
-v8 Og han tog værnet fra Juda, og på den dag så du dig om efter rustningen i skovhuset.
-v9 Og I så, hvor mange revner der var i Davids by, og I samlede vandet i den nederste dam.
-v10 Og I talte husene i Jerusalem og nedbrød huse for at befæste muren.
-v11 Og I gravede en grav mellem de to mure til vandet fra den gamle dam, men I så ikke op til ham, der havde gjort det; ham, der havde besluttet det for lang tid siden, så I ikke efter.
-v12  Og Herren JHVH Zebaoth opfordrede på den dag til gråd og sorg og til at klippe hovedet skaldet og til at binde sæk om sig.
-v13 Men se, der er fryd og glæde, man slår okser ihjel og slagter får, spiser kød og drikker vin: >>Lad os spise og drikke, for i morgen skal vi dø!<<
-v14 Men JHVH Zebaoth har åbenbaret sig for mine ører: >>Denne misgerning skal ikke sones for jer, før I dør!<< siger Herren JHVH Zebaoth.
+v7 Og det skete at dine udvalgte dale blev fulde af vogne, 
 
-v15 Så sagde Herren JHVH Zebaoth: >>Gå hen til denne rentemester, til Sebna, der er slotsforvalter, og sig til ham:
-v16 Hvad har du her, og hvem har du her, siden du har hugget en grav ud til dig her? Som den, der får hugget en grav ud højt oppe, som den, der får en bolig hugget ud til sig i klippen!
-v17 Se, JHVH skal slynge dig væk med en kast, du stærke mand, og skjule dig fuldstændigt!
-v18 Han skal krølle dig sammen til en bylt og kaste dig som en bold hen til et vidtstrakt land; der skal du dø, og der skal dine herlige vogne komme hen, du, der er en skændsel for din herres hus!
-v19 Og jeg vil støde dig ned fra din høje stilling, og han {T: nemlig Ezekias}skal kaste dig ned fra din plads,
-v20 Og det skal ske på den dag, da vil jeg kalde på min tjener Eliakim, Hilkias søn.
-v21 Og jeg vil give ham din kjortel på og styrke ham med dit bælte og give ham dit herredømme; og han skal være en far for dem, der bor i Jerusalem, og for Judas hus.
-v22 Og jeg vil lægge nøglen til Davids hus på hans skuldre, og han skal lukke op, og ingen skal lukke i, og han skal lukke i, og ingen skal lukke op.
-v23 Og jeg vil slå ham i som et søm på et fast sted, og han skal være æressæde for sin fars hus.
-v24 Og al herligheden af hans fars hus skal de hænge på ham, de ædle og de vilde skud, alle små kar, både bægre og alle flasker {T: dvs. selv de ringeste skal få trøst og hjælp af ham}.
-v25 På den dag, siger JHVH Zebaoth, skal det søm fjernes, der sad på et fast sted, og det skal brækkes af og falde ned, og det, der hang på det, skal ødelægges, for JHVH har sagt det.
+og rytterne tog opstilling mod porten.
 
+v8 Han afdækkede Judas værn, 
+
+og på den dag så du hen 
+
+til Skovhusets våben.
+
+v9 Og revnerne i Davidsbyens mur så I, de var mange,
+
+og I samlede den nederste dams vand.
+
+v10 I talte Jerusalems huse 
+
+og nedbrød husene for at befæste muren.
+
+v11 I anlagde et reservoir mellem de to mure 
+
+til vandet fra den gamle dam, 
+
+men I så ikke op til ham der havde gjort det; 
+
+ham der havde planlagt det for lang tid siden, så I ikke efter.
+
+***
+
+v12 Herren, Hærskarers HERRE,{N: Hærskarers} kaldte den dag 
+
+til gråd og til klage 
+
+og til at klippe sig skaldet og til at binde sæk om sig.
+
+v13 Men se, der er fryd og glæde, 
+
+man dræber okse og slagter får, 
+
+man spiser kød og drikker vin: 
+
+>>Lad os spise og drikke,{T: Ordret blot: >>at spise og at drikke<<. Men i sammenhængen opfattes det oftest som opfordring.} for i morgen skal vi dø!<<
+
+v14 Men Hærskarers HERRE{N: Hærskarers} åbenbarede sig for mine ører: 
+
+>>Denne synd kan ikke sones for jer, før I dør!<< 
+
+siger Herren Hærskarers HERRE.{N: Hærskarers}
+
+==Ord mod forvalteren Shebna==
+
+v15 Så sagde Herren, Hærskarers HERRE:{N: Hærskarers} 
+
+>>Gå hen til denne forvalter, til Shebna, der er sat over huset, og sig til ham:{E: Ordene >>og sig til ham<< står ikke i den hebraiske tekst, men er underforstået.}
+
+v16 Hvad har du her, og hvem har du her, 
+
+siden du har hugget en grav ud til dig her? 
+
+Som en der får hugget sin grav ud højt oppe, 
+
+som en der får en bolig udhulet til sig i klippen!
+
+v17 Se, JHVH vil slynge dig væk, 
+
+et langt kast, du mand, 
+
+og tager et fast greb i dig!
+
+v18 Han skal fuldstændig krølle dig sammen til en sammenfiltret bylt, 
+
+en bold hen til et vidtstrakt land; 
+
+dér skal du dø, 
+
+og dér skal din æres vogne 
+
+være en skændsel for din herres hus!
+
+v19 Og jeg støder dig ned fra din stilling, 
+
+og han {T: Sandsynligvis kong Hizkija} vil styrte dig ned fra dit embede,
+
+v20 Og det skal ske på den dag, da vil jeg kalde på min tjener, på Eljakim, Hilkijas søn.
+v21 Og jeg vil klæde ham i din kjortel og binde dit bælte om ham og give din myndighed i hans hånd; og han skal være en far for Jerusalems indbyggere og for Judas hus.
+v22 Og jeg vil lægge nøglen til Davids hus på hans skulder, 
+
+og hvad han lukker op, kan ingen lukke i, 
+
+og hvad han lukker i, kan ingen lukke op.
+
+v23 Og jeg vil slå ham i som en nagle på et fast sted, 
+
+så han bliver en ærestrone for sin fars hus.
+
+v24 Og de skal hænge på ham al hans fars hus’ herlighed, de høje og de lave efterkommere,{T: Oversættelsen her usikker. Andre oversætter: >>de ædle og de vilde skud<< eller: >>kvistene og bladene<<.} alle de små kar, både skålene og alle krukkerne.<<
+
+v25 >>På den dag,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn, >>skal den nagle  der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for JHVH har talt.<<
 
 
