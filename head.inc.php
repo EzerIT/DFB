@@ -35,7 +35,7 @@ function makeheadstart($title, $googlefonts=false) {
     <link rel="icon" type="image/png" href="https://denfriebibel.dk/img/icon.png">
     <link type="text/css" href="bootstrap-4.1.1-dist/css/bootstrap.css" rel="stylesheet" />
     <link type="text/css" href="style/dfb.css?$stat_dfb_css" rel="stylesheet" />
-    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/jquery-3.6.4.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="bootstrap-4.1.1-dist/js/bootstrap.min.js"></script>
 
