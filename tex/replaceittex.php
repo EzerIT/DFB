@@ -65,7 +65,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\s*{[TH]:\s*([^}]+)}/';
     $to[] = '\\footnote{\1}Z1Z';
 
-    $from[] = '/(JHVH[sv]*)/i';
+    $from[] = '/(JHVH[sv]*)/';
     $to[] = 'BACKSLASH\1{}';
 
     $from[] = '/BACKSLASH/';

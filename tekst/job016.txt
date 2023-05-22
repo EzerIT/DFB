@@ -1,0 +1,132 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 22.05.2023>!!
+
+===Job, kapitel 16===
+
+
+==I er elendige trøstere!==
+
+
+//0 v1 Da svarede Job
+//1:
+
+//2 v2 >>Jeg har hørt meget som dette.
+
+//7 Elendige trøstere er I alle!
+
+//6 v3 Er det slut med luftige ord,
+
+//7 eller hvad provokerer dig {T: Underforstået >>Elifaz<<.}
+//8 til at svare?
+
+//5 v4 Lad også mig tale ligesom jer!
+
+//8 Hvis I havde været i mit sted
+
+//7 da ville jeg sætte fine ord sammen til jer,
+
+//9 og jeg ville ryste på hovedet over jer.{T: Denne oversættelse udtrykker en helt igennem positiv indstilling hos Job. Sml. Job 6,14. Vers 4,3-4 kan også oversættes: >>da kunne jeg sætte fine ord sammen imod jer, og jeg kunne ryste på hovedet over jer<<. Denne oversættelse antyder en modsætning i forhold til det efterfølgende vers 5. Begge tolkninger er mulige.} 
+
+//8 v5 Jeg ville styrke jer med min mund,
+
+//9 og mine læbers medfølelse ville jeg ikke holde tilbage.{T: Kan oversættes >>mine læbers medfølelse ville lindre<<. Se Job 6,14ff.}
+
+
+==Job klager over at Gud er blevet hans fjende==
+
+
+//6 v6 Taler jeg,
+//8 bliver min smerte ikke lettet,
+
+//7 og lader jeg være,
+//8 hvad lindring får jeg af det?{T: Ordret: >>hvad går væk fra mig?<<.}
+
+//4 v7 Ja, nu har han{T: Gud.} udmattet mig. 
+
+//7 Du har udryddet alle mine nærmeste! 
+
+//8 v8 Du greb mig,
+//6 det blev som et vidnesbyrd mod mig,{T: >>mod mig<< er tilføjet.}
+
+//9 og min magerhed har rejst sig imod mig
+//8 og vidner imod mig.
+
+//7 v9 Hans vrede sønderriver mig,
+//9 og han forfølger mig,
+
+//8 han skærer tænder imod mig,
+
+//9 min fjende skærper sine øjne mod mig.
+
+//10 v10 De har spærret munden op mod mig,
+
+//11 med beskyldninger{T: Kan også oversættes med >>hån<<.} har de slået mig på kinden,
+
+//12 alle har de slået sig sammen mod mig.
+
+//5 v11 Gud udleverer mig til en uretfærdig
+
+//8 og styrter mig i hænderne på de ugudelige.
+
+//7 v12 Jeg levede i ro,
+//10 og han knækkede mig,
+
+//9 han greb fat i min nakke
+//10 og slog mig i stykker, 
+
+//10 og han stillede mig op for sig som skydeskive.{T: Ordret: >>mål<<.}
+
+//11 v13 Hans skytter omringer mig,
+
+//12 han kløver mine nyrer
+//13 uden barmhjertighed,{T: I betydningen: >>han skåner intet<<.}
+
+//12 han hælder min galde ud på jorden.
+
+//13 v14 Han giver mig det ene åbne brud efter det andet,{T: Figurativt om Guds vredesudbrud.}
+
+//14 han løber imod mig som en kriger.
+
+//8 v15 Jeg har syet en sæk over min hud,
+
+//10 jeg har stukket mit horn i støvet.{T: >>Horn<< er udtryk for styrke, figurativt her om Jobs ydmygelse.}
+
+//9 v16 Mit ansigt er rødt af gråd, 
+
+//10 og over mine øjenlåg ligger dødsskyggen.
+
+//11 v17 Ingen vold er på mine hænder,
+
+//12 og min bøn er ren.
+
+
+==Mit vidne er i himlen==
+
+
+//6 v18 Jord,
+//7 dæk ikke mit blod til,
+
+//8 og lad der ikke være noget hvilested{T: Ordret: >>sted<<.} for mit skrig!
+
+//3 v19 Også nu, 
+//4 se,
+//5 mit vidne er i himlen,
+
+//8 og mit vidne{E: *śāhᵃdî* er aramæisk, og forekommer kun her og i 1 Mos 31,47. Det har samme betydning som det hebraiske *ʕēdî* >>vidne<<.} er i det højeste!
+
+//7 v20 Mine venner spotter mig,{E: Verbet *mᵊlîṣay* (perfektum participium) har to betydninger. Det kan dels betyde >>spotter mig<<, men det kan også betyde >>være forsvarer<<, >>tolk<<. Nogle opfatter verbet som et substantiv(perfektum participium)og oversætter det >>min forsvarer er<<, >>min tolk er<<. >>Mine venner<<(subjektet) *rēʕāʸ* kan oversættes som prædikat >>min ven<<, den masoretiske tekst kan tolkes både som ental og flertal her.}
+
+//6 mine øjne ser med tårer til Gud.
+
+//8 v21 Han vil tale menneskets sag{T: Ordret: >>for mennesket<<.} med Gud{T: Se Job 9,33.}
+
+//9 som en menneskesøn beder for{T: >>Beder for<< er tilføjet.} sin ven.
+
+//7 v22 For der går nogle år,{T: Ordret: >>et antal år<<.}
+
+//8 så vil jeg gå ad en vej jeg ikke vender tilbage til.<<
+//10
+//9

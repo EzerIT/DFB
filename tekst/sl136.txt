@@ -1,8 +1,9 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 136{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 135, som indledning til Sl 136.}===
 
@@ -33,7 +34,7 @@
 
 //3 ja, hans nåde varer til evig tid;
 
-//2 v7 ham som skabte store lys,
+//2 v7 ham som lavede store lys,
 
 //4 ja, hans nåde varer til evig tid;
 
@@ -46,7 +47,7 @@
 //4 ja, hans nåde varer til evig tid;
 
 ==Herren er frelseren==
-//2 v10 ham som slog Egypten ved deres førstefødte,
+//2 v10 han som ramte Egypten gennem deres førstefødte,
 
 //4 ja, hans nåde varer til evig tid;
 
@@ -54,11 +55,11 @@
 
 //5 ja, hans nåde varer til evig tid;
 
-//4 v12 med en stærk hånd og en udrakt arm,
+//4 v12 med en stærk hånd og med udrakt arm,
 
 //5 ja, hans nåde varer til evig tid;
 
-//2 v13 ham som kløvede Sivhavet igennem,{T: Ordret: >>i (flere) dele<<.}
+//2 v13 ham som kløvede Sivhavet,
 
 //4 ja, hans nåde varer til evig tid;
 
@@ -66,7 +67,7 @@
 
 //4 ja, hans nåde varer til evig tid;
 
-//3 v15 men drev Farao og hans hær i Sivhavet,
+//3 v15 men rystede Farao og hans hær af i Sivhavet,
 
 //4 ja, hans nåde varer til evig tid;
 
@@ -74,7 +75,7 @@
 
 //3 ja, hans nåde varer til evig tid;
 
-//2 v17 ham som slog store konger,
+//2 v17 ham som ramte store konger,
 
 //4 ja, hans nåde varer til evig tid;
 
@@ -94,15 +95,15 @@
 
 //6 ja, hans nåde varer til evig tid;
 
-//5 v22 som arvelod til Israel, hans tjener,
+//5 v22 en arvelod til Israel, hans tjener,
 
 //6 ja, hans nåde varer til evig tid;
 
-//1 v23 ham som huskede os i vor fornedrelse,
+//1 v23 ham som i vores fornedrelse huskede os,
 
 //4 ja, hans nåde varer til evig tid;
 
-//3 v24 og befriede os fra vore fjender,
+//3 v24 og befriede os{T: Ordret >>rev os løs<<.} fra vore fjender,
 
 //4 ja, hans nåde varer til evig tid.
 

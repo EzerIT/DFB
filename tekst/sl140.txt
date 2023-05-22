@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 140===
 
@@ -11,7 +12,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Salme af David.
 
 ==Klage og bøn om hjælp==
-v2 Red mig, JHVHv, fra onde mennesker,{T: Grundteksten har her og i næste linje singularis, men det må opfattes som kollektive betegnelser, hvilket også støttes af verberne i pluralis i v. 3.}
+v2 Red mig, JHVHv, fra onde mennesker,{E: Grundteksten har her og i næste linje singularis, men det må opfattes som kollektive betegnelser, hvilket også støttes af verberne i pluralis i v. 3.}
 
 bevar mig for voldsmænd
 
@@ -23,11 +24,11 @@ v4 De har skærpet deres tunge som en slange,
 
 der er slangegift{T: Det er usikkert hvilken slange der er ment med grundtekstens ord (*ʕaxšûv*). Men formodentlig en bestemt giftslange. I jødisk tradition er der dog tænkt på en giftig edderkop.} under deres læber. Sela{N: Sela}
 
-v5 Vogt mig, JHVHv, mod synderes{T: Kan også oversættes: >>ugudeliges<<.} hænder,
+v5 Vogt mig, JHVHv, mod en ugudeligs{T: Kan også oversættes: >>en synders<<.} hænder,
 
 bevar mig for voldsmænd
 
-som har tænkt at bringe mine skridt til fald.
+som har tænkt at bringe mine fødder til fald.
 
 v6 De hovmodige har skjult en fælde for mig
 
@@ -46,20 +47,20 @@ du har skærmet mit hoved på kampens dag.
 
 v9 Opfyld ikke, JHVHv, en ugudeligs begæringer,
 
-lad ikke hans onde anslag lykkes, de vil vise sig overlegne.<<{E: Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: >>de løfter sig<<), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at >>Sela<< fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: >>de (der omgiver mig) løfter (hovedet)<<. V. 10 kan dog så også opfattes konditionalt: >>Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem<<.} Sela
+lad ikke hans onde anslag lykkes, de vil ophøje sig.<<{E: Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: >>de løfter sig<<), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at >>Sela<< fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: >>de (der omgiver mig) løfter (hovedet)<<. V. 10 kan dog så også opfattes konditionalt: >>Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem<<.} Sela
 
 ==Bøn om tilintetgørelse af de onde==
 v10 De som omgiver mig, deres hoved
 
 skal den fortræd deres læber voldte, komme til at tildække.{E: Se note til v. 9.}
 
-v11 Der skal rystes kul over dem, han skal lade dem falde i ilden,
+v11 Der skal rystes glødende kul over dem, han skal lade dem falde i ilden,
 
 i vandfyldte gruber så de ikke kan rejse sig igen.
 
 v12 En mand der bagtaler,{T: Ordret: >>en tunges mand<<.} skal ikke bestå i landet,{T: Kan også oversættes: >>på jorden<<}
 
-en voldsmand - ulykke skal jage ham med stød.
+en voldsmand - ulykke skal jage ham med slag på slag.
 
 ==Tillid til Guds omsorg og retfærdighed==
 v13 Jeg ved at JHVH vil føre den hjælpeløses sag,

@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 139===
 
@@ -11,13 +12,13 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 Af David. En salme.
 
 ==JHVH er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}==
-JHVH, du har ransaget mig og kender mig.
+HERRE, du ransager{T: Kan også oversættes >>har ransaget mig<<.} mig og kender mig.
 
 v2 Du ved om jeg sidder eller står,
 
 du kender min tanke på lang afstand.
 
-v3 Du har rede på om jeg går eller ligger,{E: Ordret: >>min gåen og min liggen ned<<.}
+v3 Du har rede på{T: Ordret >>udmåler<< eller >>undersøger nøje<<.} om jeg går eller ligger,{T: Ordret: >>min gåen og min liggen ned<<.}
 
 og alle mine veje er du fortrolig med.
 
@@ -44,21 +45,21 @@ og reder jeg seng i dødsriget,{T: Ordret: >>gør jeg dødsriget til min seng<<.
 
 v9 Ville jeg tage morgenrødens vinger,
 
-slå mig ned ved det yderste hav,
+slå mig ned ved havets ende,{T: Angiver det fjerneste vesten.}
 
 v10 så ville din hånd også lede mig{E: Nogle oversættere vælger at følge bl.a. Septuaginta, der i stedet for: *tanḥēnî* (>>lede mig<<) forudsætter: *tiqqāḥēnî*: >>gribe mig<<.} dér,
 
 og din højre hånd holde mig fast.
 
-v11 Og ville jeg sige: >>Sandelig, mørke skal dække{E: Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: >>snappe efter<< eller >>knuse<<. Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: >>dække<<, retter man som regel til verbet: *śkk*: >>dække<< (*yᵊśûkkēnî*).} mig
+v11 Og ville jeg sige: >>Sandelig, mørke skal dække{E: Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: >>snappe efter<< eller >>knuse<< (i den sidste betydning er det anvendt i 1 Mos 3,15). Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: >>dække<<, retter man som regel til verbet: *śkk*: >>dække<< (*yᵊśûkkēnî*).} mig
 
 og lys omkring mig blive til nat,<<
 
 v12 så ville mørke ikke være mørke for dig,
 
-og nat være lys som dagen,
+men nat være lys som dagen,
 
-mørket er som lyset.
+mørket er for dig som lyset.
 
 == Gud er den almægtige skaber==
 v13 Ja, det var dig der dannede mine nyrer,
@@ -81,7 +82,7 @@ v16 Da jeg var foster, så dine øjne mig,{T: Ordret blot: >>Dine øjne så mit 
 
 og i din bog var de alle skrevet,
 
-dagene, der var bestemte,
+dagene var fastsatte,
 
 da endnu ikke én blandt dem var kommet.{E: Oversættelsen af denne linje er usikker. Ordret blot: >>og ikke én blandt dem<<. Undertiden forstås det som udtryk for at >>ikke én blandt dem mangler<<. Der er foreslået forskellige tekstrettelser, men der er ingen afvigelser i håndskrifterne.}
 
@@ -91,23 +92,23 @@ hvor mægtig er dog deres sum!
 
 v18 Vil jeg tælle dem, er de flere end sand,
 
-vågnede jeg,{E: Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (>>vågnede jeg<<) til: *hᵃqîṣṣōtî*: >>blev jeg færdig<<.} var jeg stadig hos dig. 
+vågner jeg,{E: Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (>>vågnede jeg<<) til: *hᵃqîṣṣōtî*: >>blev jeg færdig<<.} er jeg stadig hos dig. 
 
 ==Bøn om hjælp mod onde mennesker==
-v19 Gid du, Gud, ville dræbe synderen,{T: Kan også oversættes: >>den ugudelige<<.}
+v19 Gid du, Gud, ville dræbe den ugudelige,{T: Kan også oversættes >>synderen<<.}
 
-og I blodets mænd,{T: Det kan formodentlig dække over både mordere og blodtørstige mennesker.} vig fra mig!
+og I drabsmænd,{T: Ordret: >>blodets mænd<<. Det kan formodentlig dække over både mordere, hævntørstige og blodtørstige mennesker.} vig fra mig!
 
-v20 De som taler om dig med ondskab,
+v20 De som taler om dig med ond hensigt,
 
-og som forgæves har rejst sig imod dig,{E: Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>har rejst sig<<. Andre oversætter det: >>fór/farer<< og opfatter det følgende: *laššāwᵊʔ* (>>forgæves<<) som: >>med løgn<< (>>og som fór/farer med løgn imod dig<<.
-Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at der skulle stå: *ʕāleʸxā*: >>imod dig<<. Andre opfatter dog: *ʕāreʸxā* (>>dine byer<<) ikke som afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som skulle være en aramaisk form for: *ṣār*: >>fjende<< (>>og som fór/farer med løgn, dine fjender<<). Dette er dog omstridt og usikkert.}
+bruger dit navn til falskhed, dine fjender,{E: Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>rejser/løfter/bruger<<. Andre oversætter: >>og som fór/farer med løgn imod dig<<.
+Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at *ʕāreʸxā* (>>dine byer<<) ikke er afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som er en aramaisk form for: *ṣār*: >>fjende<<. Andre foreslår, at der skulle stå: *ʕāleʸxā*: >>imod dig<< (som forgæves har rejst sig mod dig). Oversættelsen er omstridt og usikker.}
 
 v21 skulle jeg ikke hade dem som hader dig, JHVHv,
 
 og væmmes ved dem som rejser sig mod dig?
 
-v22 Med fuldendt had har jeg hadet dem,
+v22 Med fuldendt had hader jeg dem,
 
 de er blevet mine fjender.
 
@@ -119,5 +120,3 @@ prøv mig, og kend mine tanker!
 v24 Og se om jeg er på afgudsvej,{E: Ordret: >>om der er en afgudsvej hos mig<<. Ordet: *ʕōṣev* (>>afgud<<) kan dog også betyde: >>smerte<< (>>og se, om jeg er på smertens vej<<). Der kan være tænkt på en vej til straf eller fortabelse, eller på en smertende syndsbekendelse og helliggørelse.}
 
 og led mig på evigheds vej!
-
-

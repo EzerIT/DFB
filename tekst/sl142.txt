@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 142===
 
@@ -20,7 +21,7 @@ v3 Jeg vil udøse min klage for hans ansigt,
 jeg vil give min nød til kende for hans ansigt.
 
 ==Klagen==
-v4 Når min ånd i mig falder i afmagt,
+v4 Når min ånd i mig falder i afmagt,{T: I betydningen: >>når jeg mister modet<<.}
 
 kender du dog min sti.{E: De to linjer kan også oversættes: >>Da min ånd i mig faldt i afmagt, kendte du dog min sti<<.}
 
@@ -28,7 +29,7 @@ På vejen hvor jeg skal gå,
 
 har de skjult en fælde for mig.
 
-v5 Jeg spejder til højre og ser,{E: Ordret: >>spejd til højre og se!<<. Masoreterne har vokaliseret verberne som imperativ, hvorimod de gamle oversættelser har opfattet dem som infintivus absolutus. For verbet: *habbêṭ* (>>spejd<<) er de to former ens, men for: *rᵊʔēh* (>>se<<) skal infinitivus absolutus vokaliseres: *rāʔōh*. Den masoretiske vokalisering må forstås som opfordring til Gud om at give agt, men hvis man læste teksten uvokaliseret, ville man utvivlsomt læse den som de gamle oversættelser. Hvis verberne var ment som imperativ, måtte man vente en direkte tiltale: >>JHVHv!<< eller lignende.}
+v5 Jeg spejder til højre og ser,{E: Ordret: >>spejd til højre og se!<<. Masoreterne har vokaliseret verberne som imperativ, hvorimod de gamle oversættelser har opfattet dem som infintivus absolutus. For verbet: *habbêṭ* (>>spejd<<) er de to former ens, men for: *rᵊʔēh* (>>se<<) skal infinitivus absolutus vokaliseres: *rāʔōh*. Den masoretiske vokalisering må forstås som opfordring til Gud (eller et vidne) om at give agt (så skal første ord i næste linje oversættes: >>for<<), men hvis man læste teksten uvokaliseret, ville man utvivlsomt læse den som de gamle oversættelser.}
 
 men der er ingen som kendes ved mig.
 
@@ -45,18 +46,16 @@ min del i de levendes land.
 
 v7 Giv agt på mit klageråb,
 
-for jeg er blevet meget svag,
+for jeg er meget svag,
 
 red mig fra mine forfølgere,
 
 for de er for stærke for mig.
 
-v8 Før min sjæl af ud fængsel
+v8 Før min sjæl ud af fængsel
 
 så jeg kan takke dit navn.
 
 De retfærdige vil samle sig om mig,
 
-når du handler vel imod mig.
-
-
+for du handler vel imod mig.

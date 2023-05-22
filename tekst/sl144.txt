@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 144===
 
@@ -17,15 +18,15 @@ mine fingre til krigen,
 
 v2 min nåde{E: Kan også oversættes: >>trofasthed<<. Meningen er måske: >>den der viser mig nåde/troskab<<. Ofte rettes dog: *ḥasdî* (>>min nåde<<) til: *ḥosnî*: >>min styrke<<.} og min borg, min fæstning{E: Mange oversættere flytter masoreternes delende accent så >>min fæstning<< knyttes til næste linje.}
 
-og min befrier for mig,
+og min befrier,
 
 mit skjold og den jeg har søgt tilflugt hos,
 
-han som undertvinger folk{E: Den masoretiske tekst har: *ʕammî*: >>mit folk<<, men et betydeligt antal håndskrifter har: *ʕammîm*: >>folk<< (pluralis).} under mig.
+han er den som undertvinger folk{E: Den masoretiske tekst har: *ʕammî*: >>mit folk<<, men et betydeligt antal håndskrifter har: *ʕammîm*: >>folk<< (pluralis) der synes at passe bedst i sammenhængen. Den masoretiske tekst kan dog forsvares. Den skal oversættes: >>han er den som lægger mit folk under mig<<.} under mig.
 
 v3 JHVHv, hvad er et menneske at du agter på det,
 
-et menneskebarn at du husker på det?
+et menneskebarn at du er opmærksom på det?
 
 v4 Mennesket er{E: Verbet står i qatal, der oftest angiver fortid, men her angiver det som altid har været.} som et åndepust,{T: Kan også oversættes: >>vindpust<<.}
 
@@ -37,7 +38,7 @@ rør ved bjergene så de ryger.
 
 v6 Slyng lyn ud{T: Ordret: >>lad lyn lyne<<.} og adspred dem,{T: Det er henvisning til de fjendtlige fremmede der er omtalt i v. 7.}
 
-send dine pile og forfærd dem!
+send dine pile og forvir dem!
 
 v7 Ræk dine hænder ud fra det høje,
 
@@ -45,14 +46,14 @@ befri mig og red mig fra de vældige vande,
 
 fra de fremmedes magt,{T: Ordret: >>hånd<<.}
 
-v8 hvis mund har talt falskhed,
+v8 hvis mund taler falskhed,
 
 og hvis højre hånd er løgnens højre.
 
 ==Løfte om lovsang==
 v9 Gud, jeg vil synge en ny sang for dig,
 
-på tistrenget harpe vil jeg spille for dig
+på tistrenget harpe vil jeg spille for dig,
 
 v10 som giver kongerne sejr,
 
@@ -61,38 +62,36 @@ som befrier sin tjener David
 fra ondt sværd!{E: Mange oversættere følger Septuaginta, der lader denne linje høre til v. 11 hvor første linje deles i to linjer: >>Befri mig fra ondt sværd / og red mig fra de fremmedes magt<<.}
 
 
-v11 Befri mig og red mig fra de fremmedes magt,{T: Ordret: >>hånd<<.}
+v11 Befri mig og red mig fra de fremmedes magt,{T: Ordret: >>fremmed lands sønners hånd<<.}
 
-hvis mund har talt falskhed,
+hvis mund taler falskhed,
 
 og hvis højre hånd er løgnens højre.
 
 ==Guds velsignelse og freden==
-v12 Hvis{E: Overgangen til dette afsnit er omdiskuteret. Problemerne knytter sig især til grundtekstens første ord: *ʔᵃšer* der har ret bred betydning, oftest: >>som, der<<, men også: >>for at, når, hvis<<. Mange oversættere udelader det her. I sammenhængen kan det opfattes som et ønske (>>gid<<) eller en betingelse der grammatisk ikke fuldendes: >>hvis/når ...<<, underforstået: Så er vi lykkelige. Men i stedet for eftersætningen sætter digteren punktum og begynder en ny sætning: v. 15.} vore sønner er som planter,
+v12 Hvis{E: Overgangen til dette afsnit er omdiskuteret. Problemerne knytter sig især til grundtekstens første ord: *ʔᵃšer* der har ret bred betydning, oftest: >>som, der<<, men også: >>for at, når, hvis<<. Mange oversættere udelader det her. I sammenhængen kan det opfattes som et ønske (>>gid<<) eller en betingelse der grammatisk ikke fuldendes: >>hvis/når ...<<, underforstået: Så er vi lykkelige. Men i stedet for eftersætningen sætter digteren punktum og begynder en ny sætning: v. 15.} vores sønner er som planter,
 
 fuldvoksne i deres ungdom,
 
-vore døtre som hjørnepiller,
+vores døtre som hjørnesøjler,
 
 udskåret efter et palads’{T: Kan også oversættes: >>tempels<<.} stil,
 
-v13 vore lagre fulde,
+v13 vores lagre fulde,
 
 så de frembyder al slags forråd,{T: Ordret: >>fra art til art<<.}
 
-vore får{T: Ordret: >>vort småkvæg<<.} frembringer tusind,
+vores får{T: Ordret: >>vores småkvæg<<.} frembringer tusind,
 
-ja, titusindvis på vore marker,
+ja, titusindvis på vores marker,
 
-v14 vort kvæg er drægtigt,{E: Verbet: *svl* (i qal: >>bære<<), findes i pu’al kun her i GT, og betydningen er omdiskuteret, formodentlig enten: >>drægtig<< eller: >>belæsset<< (med rigdomme, der bæres hjem) eller evt. (let omskrevet): >>i god stand<<.}
+v14 vores kvæg er drægtigt,{E: Verbet: *svl* (i qal: >>bære<<), findes i pu’al kun her i GT, og betydningen er omdiskuteret, formodentlig enten: >>drægtig<< eller: >>belæsset<< (med rigdomme, der bæres hjem) eller evt. (let omskrevet): >>i god stand<<.}
 
 ingen uheld{T: Ordret: >>brud<<.} og ingen for tidlig fødsel,{E: Ordet: *yôṣēˀt* er omdiskuteret, egentlig: >>udgående<<. Her optræder det dog som substantiv, og i sammenhængen ser det ud til at skulle angive >>for tidlig fødsel<<.
 Andre forslag til oversættelse af denne linje er: >>intet indbrud og intet tab<<, eller >>brud<< opfattes som brud i bymuren: >>intet murbrud og ingen der drager ud<< (i krig eller som fanger).}
 
-og ingen klageskrig på vore torve -
+og ingen klageskrig på vores torve -
 
-v15 Lykkeligt{T: Kan også oversættes: >>saligt<<.} er det folk, som det går sådan,
+v15 Lykkeligt{T: Kan også oversættes: >>saligt<<.} er det folk som det går sådan,
 
-lykkeligt er det folk, hvis Gud JHVH er!
-
-
+lykkeligt er det folk som har HERREN som sin Gud!

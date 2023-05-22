@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 145{E: Salmen er alfabetisk så første vers begynder med alfabetets første bogstav, andet vers med det andet osv. Der mangler dog et vers med bogstavet >>nun<<; det skulle stå mellem v. 13 og v. 14. Det findes imidlertid i et enkelt håndskrift og i Septuaginta og den gamle syriske oversættelse hvor det lyder: >>Trofast er JHVH på alle sine veje, nådig i alle sine gerninger<<. Bortset fra første ord (*neʔᵉmān*: >>trofast<<), er det ordret i grundteksten enslydende med v. 17, der indledes med *ṣaddîq* (>>retfærdig<<). Strofen passer godt ind i sammenhængen, men det er lidt mistænkeligt at den ligner v. 17 så meget.}===
 
@@ -9,7 +10,7 @@
 v1 Lovsang af David.
 
 ==Jeg vil ophøje dig!==
-Jeg vil ophøje dig, min Gud, du konge,
+Jeg vil ophøje dig, min Gud, kongen,
 
 og jeg vil prise{T: Kan også her og i v. 2 oversættes: >>velsigne<<.} dit navn evigt og altid.
 
@@ -22,11 +23,11 @@ v3 JHVH er stor og højt lovprist,
 og hans storhed kan ikke udforskes.
 
 ==Slægter skal prise dig==
-v4 Slægt skal prise dine gerninger for slægt,
+v4 Slægt skal prise dine gerninger for næste slægt,
 
 og de skal fortælle om dine mægtige gerninger.
 
-v5 Om din højheds herlige pragt
+v5 Om din majestæts herlige pragt
 
 og om de ting der angår dine undere, vil jeg synge.{E: Med Septuaginta og den gamle syriske oversættelse flytter mange fortolkere og oversættere den skillende accent så: *wᵊdivrê* (>>og de ting/ord der angår<<) kommer til at høre til første halvvers, og det rettes til: *yᵊdabbērû*: >>de taler<<. Oversættelsen bliver da: >>Om din højheds herlige pragt skal de tale, / om dine undere vil jeg synge<<.}
 
@@ -36,7 +37,7 @@ og jeg vil fortælle om din storhed.
 
 v7 De skal udbrede mindet om din store godhed
 
-og juble over din retfærdighed.
+og jublende prise din retfærdighed.
 
 v8 JHVH er nådig og barmhjertig, sen til vrede{T: Oversættes også: >>langmodig<<.} og rig på nåde{N: nåde}.
  
@@ -65,7 +66,7 @@ v14 JHVH støtter alle som falder,
 
 og rejser alle nedbøjede.
 
-v15 Alles øjne venter med håb på dig,
+v15 Alles øjne er rettet håbefuldt mod dig,
 
 og du giver dem deres føde i rette tid.{T: Ordret: >>til dets tid<<.}
 
@@ -85,9 +86,9 @@ v19 Han gør hvad de som frygter ham, ønsker,{T: Ordret: >>efter deres ønske/v
 
 og han hører deres skrig og frelser dem.
 
-v20 Herren beskytter alle dem, som elsker ham,
+v20 Herren beskytter alle dem som elsker ham,
 
-men han udrydder alle de ugudelige.
+men alle de ugudelige udrydder han.
 
 ==Afslutning==
 v21 Min mund skal udsige JHVHs pris,
@@ -95,5 +96,3 @@ v21 Min mund skal udsige JHVHs pris,
 og alt kød skal prise{T: Kan også oversættes: >>velsigne<<.} hans hellige navn
 
 evigt og altid.
-
-

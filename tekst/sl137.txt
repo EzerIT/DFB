@@ -1,25 +1,26 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 137===
 
 ==Nøden i eksilet==
-//0 v1 Ved Babylons floder,{T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.} //4 dér sad vi,//5 og vi græd
+//0 v1 Ved Babylons floder,{T: Grundtekstens ord betegner ikke blot egentlige floder, men også bifloder og kanaler.} //4 dér sad vi,//5 ja, vi græd
 
 //6 når vi mindedes Zion.
 
 //3 v2 I poplerne i landet{T: Ordret: >>i dets midte<<.}
 
-hængte vi vore citere.
+hængte vi vore citere.{T: Eller >>lyrer<<, et harpelignende instrument med 3-12 strenge.}
 
 //5 v3 For dér krævede
 
-vore fangevogtere{T: Ordret: >>de som holdt os fangne<<.} at vi skulle synge,
+vores fangevogtere{T: Ordret: >>de som holdt os fangne<<.} at vi skulle synge,
 
-//7 og vore plageånder{E: Grundtekstens: *tôlol* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
+//7 og vore plageånder{E: Grundtekstens: *tôlāl* (>>plageånd<<) findes kun dette ene sted i GT, og fortolkere har flere rettelsesforslag, men betydningen synes sikker nok i sammenhængen.} at vi skulle være glade:{T: Ordret blot: >>(krævede) glæde<<.}
 
 //6 >>Syng for os
 

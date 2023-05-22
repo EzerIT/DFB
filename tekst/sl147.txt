@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 147===
 
@@ -24,7 +25,7 @@ v4 Han fastsætter tal for stjernerne,
 
 han nævner dem alle ved navn.
 
-v5 Stor er vor Herre og vældig i styrke,
+v5 Stor er vores Herre og vældig i styrke,
 
 der er intet mål på hans indsigt.
 
@@ -34,9 +35,9 @@ de ugudelige fornedrer han til jorden.
 
 v7 Stem i{T: Kan også oversættes: >>svar med<<. Der er tale om to forskellige hebraiske ord med samme stavemåde.} med takkesang til JHVH,
 
-spil på citer for vor Gud,
+lovsyng vores Gud til citer,
 
-v8 som dækker himlen med skyer,
+v8 han som dækker himlen med skyer,
 
 som sørger for regn til jorden,
 
@@ -48,7 +49,7 @@ ravneunger det de skriger efter.
 
 v10 Han har ikke behag i hestens styrke,
 
-han finder ikke velbehag i mandens lår.
+han finder ikke velbehag i mandens ben.
 
 v11 JHVH har velbehag i dem som frygter ham,
 
@@ -63,25 +64,25 @@ v13 For han har gjort dine portes slåer stærke,
 
 han har velsignet dine sønner i din midte.
 
-v14 Han sørger for fred i dit territorium,{T: Kan også oversættes: >>ved din grænse<<.}
+v14 Han er den som sørger for fred i dit territorium,{T: Kan også oversættes: >>ved din grænse<<.}
 
-han mætter dig med hvedes fedme.
+han mætter dig med hvedes fedme{T: I betydningen: >>den bedste hvede<<.}.
 
-v15 Han sender sit ord{T: Det hebraiske: *ʔimrāʰ* har ofte bibetydning af løfte.} til jorden,
+v15 Han er den som sender sit ord{T: Det hebraiske: *ʔimrāʰ* har ofte bibetydning af løfte.} til jorden,
 
-hans ord{T: Her det hebraiske: *dāvār*, der i sammenhængen angiver skaberord.} løber meget hurtigt.
+meget hurtigt løber hans ord.{T: Her det hebraiske: *dāvār*, der i sammenhængen angiver skaberord.}
 
 v16 Han giver sne som ulden,
 
 han strør rimfrost ud som asken.
 
-v17 Han kaster sin hagl{T: Ordret: >>is<<.} som brødstumper,{E: Ordret: >>stykker, stumper<<. Ordet: *pat* er en del steder i GT forbundet med: *leḥem* (>>brød<<). Det er formodentlig også underforstået her.}
+v17 Han kaster sin hagl{T: Ordret: >>is<<.} som brødstykker,{E: Ordret: >>stykker, stumper<<. Ordet: *pat* er en del steder i GT forbundet med: *leḥem* (>>brød<<). Det er formodentlig også underforstået her.}
 
 hvem kan bestå for hans kulde?{E: Ofte retter man: *mî yaʕᵃmōd* (>>hvem kan bestå<<) til: *mayim yaʕᵃmōdû*: >>vand står stille<<. Let omskrevet bliver oversættelsen: >>for hans kulde bliver vandet til is<<. Rettelsen har dog ingen støtte i håndskrifter eller gamle oversættelser.}
 
-v18 Han sender sit ord og smelter dem,
+v18 Han sender sit ord og får dem til at smelte,
 
-når han lader sin vind{T: Kan også oversættes: >>Ånd<<.} blæse, flyder vandene.
+han lader sin vind{T: Kan også oversættes: >>Ånd<<.} blæse, så flyder vandene.
 
 v19 Han kundgør Jakob sit ord,{E: Konsonantteksten angiver singularis, mens vokaliseringen angiver pluralis: >>sine ord<<.}
 
@@ -92,5 +93,3 @@ v20 Sådan har han ikke gjort ved noget andet folk,
 og bestemmelser, dem har de ikke kendt.{E: Mange oversættere følger Septuaginta og flere af de gamle oversættelser, der forudsætter at: *yᵊdāʕûm* (>>dem har de (ikke) kendt<<) vokaliseres: *yōdiʕēm*: >>dem har han (ikke) kundgjort dem<<. Desuden følger mange Septuaginta og retter: *mišpāṭîm* (>>bestemmelser<<) til: *mišpāṭāʸw*: >>sine bestemmelser<<. Linjen lyder så: >>og han har ikke kundgjort dem sine bestemmelser<<.}
 
 Halleluja!
-
-

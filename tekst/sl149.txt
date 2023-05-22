@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 149===
 
@@ -16,14 +17,14 @@ v2 Israel skal glæde sig over sin skaber,{E: Grundtekstens ord står i pluralis
 
 Zions sønner skal juble over deres konge!
 
-v3 De skal lovprise hans navn med dans,
+v3 De skal lovprise hans navn med ringdans,
 
 til pauke og citer skal de lovsynge ham.
 
 
 v4 For JHVH har velbehag i sit folk,
 
-han pryder de ydmyge med frelse.
+han herliggør de ydmyge med frelse.
 
 ==Syng for dommeren==
 v5 De fromme skal juble i herlighed,
@@ -36,16 +37,14 @@ og tveægget sværd i deres hånd
 
 v7 til at udføre hævn over folkene,{T: Kan også oversættes: >>hedningerne<<.}
 
-straf over folkeslagene;
+straffe over folkeslagene;
 
-v8 til at binde deres konger med lænker,
+v8 til at binde deres konger med kæder,
 
-deres fornemme med fodlænker af jern;
+deres fornemme med lænker af jern;
 
 v9 til at fuldbyrde på dem den dom som står skrevet!
 
 Det er en ære for alle hans fromme.
 
 Halleluja!
-
-

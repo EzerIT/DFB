@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 146===
 
@@ -19,7 +20,7 @@ v3 Stol ikke på fyrster,
 
 på et menneskebarn, hos hvem der ingen frelse er.
 
-v4 Når hans ånd forlader ham, vender han tilbage til jorden,{T: Ordret: >>til sin jord<<.}
+v4 Hans ånd forlader ham, han vender tilbage til jorden,{T: Ordret: >>til sin jord<<.}
 
 på den dag er hans planer gået til grunde.
 
@@ -28,11 +29,11 @@ v5 Lykkelig{T: Kan også oversættes: >>salig<<.} er den hvis hjælp er Jakobs G
 
 hvis håb hviler på JHVH, hans Gud,
 
-v6 skaber af himmel og jord,
+v6 han som gjorde himmel og jord,
 
 havet og alt det som er i dem,
 
-som bevarer troskab{T: Kan også oversættes: >>sandhed<<.} til evig tid,
+han som bevarer troskab{T: Kan også oversættes: >>sandhed<<.} til evig tid,
  
 v7 som skaffer de undertrykte ret,
 
@@ -50,12 +51,10 @@ v9 JHVH beskytter de fremmede,
 
 han tager sig af faderløse og enker,
 
-men ugudeliges vej gør han krum.
+men ugudeliges vej gør han kroget.
 
 v10 JHVH er konge{T: Kan også oversættes: >>skal regere<<.} for evigt,
 
 din Gud, Zion, i slægt efter slægt.
 
 Halleluja!
-
-

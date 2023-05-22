@@ -1,0 +1,134 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 22.05.2023>!!
+
+===Job, kapitel 14===
+
+
+==Job klager over menneskets elendighed==
+
+
+//0 v1 En mand,{T: Kan oversættes >>et menneske<<.} født af en kvinde,
+
+lever en kort tid,{T: Ordret: >>korte dage<<.} fuld af uro.
+
+//2 v2 Som en blomst folder han sig ud,
+//3 men visner,{T: Kan også oversættes >>skæres af<<.}
+
+//3 han flygter som en skygge
+//4 og bliver ikke stående.
+
+//1 v3 Dog over en sådan har du åbnet dine øjne,
+
+//5 og du bringer mig for retten sammen med dig.
+
+//4 v4 Kan der komme en ren af en uren?
+
+//5 Ikke én!
+
+//3 v5 Når hans dage er bestemt,
+
+//5 og hans måneders tal fastsat{T: >>fastsat<< tilføjet.} hos dig,
+
+//6 og når du har sat grænser{T: Ordret: >>hans grænser<<.}
+//4 han ikke kan overskride,
+
+//2 v6 så se væk fra ham,
+//5 og han har ro;
+
+//6 så kan han glæde sig som en daglejer over sin dag.
+
+//4 v7 For et træ er der håb,
+
+//7 hvis det bliver skåret ned,
+//9 så skyder det igen,
+ 
+//10 og dets skud udebliver ikke.
+
+//8 v8 Selv når dets rod i jorden er gammel,
+
+//10 og dets rodskud i jorden{T: Ordret: >>støv<<} dør;
+
+//9 v9 ved duften af vand sætter det skud
+
+//10 og sætter grene ligesom en plante.
+
+//6 v10 Men en mand dør
+//8 og ligger der i støvet;
+
+//7 et menneske opgiver ånden,
+//8 og hvor er han?
+
+//5 v11 Vand forsvinder fra havet,
+
+//7 og en flod tørrer ud
+//8 og er tørlagt.
+
+//6 v12 Sådan lægger et menneske sig
+//8 og står ikke op igen;
+
+//7 så længe der er en himmel, vågner de ikke op,
+
+//8 og de vækkes ikke af deres søvn.
+
+
+==Job ser intet håb i døden og efter døden==
+
+
+//3 v13 Gid
+//5 du ville skjule mig i dødsriget,
+
+//6 beskytte mig
+//8 indtil din vrede har vendt sig,
+
+//7 sætte en tidsfrist for mig
+//10 og huske mig igen.
+
+//9 v14 Når en mand dør,
+//10 kommer han så til live igen?
+
+//8 Alle mine krigstjenestes dage ville jeg vente
+
+//10 til min afløsning kom.
+
+//9 v15 Du skulle kalde
+//11 og jeg ville svare dig;
+
+//10 du ville længes efter dine hænders værk. 
+
+//11 v16 For nu du tæller mine skridt,
+
+//13 vogter du så ikke på min synd?
+
+//12 v17 Forseglet i en pung er min synd,
+
+//13 og du har dækket{T: Ordret: >>klistret<<.} min overtrædelse til. 
+
+//4 v18 Dog,
+//5 et bjerg der styrter sammen, smuldrer, 
+
+//7 og en klippe flytter sig fra sit sted.
+
+//6 v19 Vand udhuler sten,
+ 
+//8 dets strømme skyller løs jord{T: Ordret: >>jordens støv<<.} bort,
+
+//7 og du gør menneskets håb til intet.
+
+//10 v20 Du besejrer ham for evigt,
+//9 og han går bort.
+
+//11 du ændrer hans ansigt
+//10 og lader ham gå.{T: Kan også oversættes >>sender ham bort<<.}
+
+//8 v21 Bliver hans sønner æret,
+//11 han ved det ikke,
+
+//10 og bliver de ringeagtet,
+//11 han bemærker det ikke.
+
+//9 v22 Kun hans eget legeme mærker smerte,  
+
+//10 og hans sjæl sørger over sig selv.<<

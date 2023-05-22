@@ -133,7 +133,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     $from[] = '/\s*{N: *([^}]+)}/';
     $to[] = '<a class="explain" href="ordforklaring.php?ord=\1">°</a>';
 
-    $from[] = '/JHVHs/i';
+    $from[] = '/JHVHs/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRENS</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -141,7 +141,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     else
         $to[] = $_SESSION['godsname'].'s';
 
-    $from[] = '/JHVHvs/i';
+    $from[] = '/JHVHvs/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRES</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -149,7 +149,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     else
         $to[] = $_SESSION['godsname'].'s';
 
-    $from[] = '/JHVHv/i';
+    $from[] = '/JHVHv/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRE</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -157,7 +157,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     else
         $to[] = $_SESSION['godsname'];
 
-    $from[] = '/JHVH/i';
+    $from[] = '/JHVH/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERREN</small>';
     else
@@ -225,7 +225,7 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $from[] = '/(.)\s+:/';  // Remove space in front of colon
         $to[] = '\1:';
 
-        $from[] = '/\n *\n/';
+        $from[] = '/\n\s*\n/';
         $to[] = 'QQ';
 
         $from[] = '/\n/';
@@ -332,7 +332,7 @@ function replaceit_ordforkl($filename) {
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '<i>\1</i>';
 
-    $from[] = '/JHVHs/i';
+    $from[] = '/JHVHs/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRENS</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -340,7 +340,7 @@ function replaceit_ordforkl($filename) {
     else
         $to[] = $_SESSION['godsname'].'s';
 
-    $from[] = '/JHVHvs/i';
+    $from[] = '/JHVHvs/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRES</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -348,7 +348,7 @@ function replaceit_ordforkl($filename) {
     else
         $to[] = $_SESSION['godsname'].'s';
 
-    $from[] = '/JHVHv/i';
+    $from[] = '/JHVHv/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERRE</small>';
     elseif ($_SESSION['godsname']=='Herren')
@@ -356,7 +356,7 @@ function replaceit_ordforkl($filename) {
     else
         $to[] = $_SESSION['godsname'];
 
-    $from[] = '/JHVH/i';
+    $from[] = '/JHVH/';
     if ($_SESSION['godsname']=='HERREN')
         $to[] = 'H<small>ERREN</small>';
     else

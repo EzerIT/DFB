@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 23.03.2021>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 143===
 
@@ -11,7 +12,7 @@ v1 Salme af David.
 ==JHVHv, hør!==
 JHVHv, hør min bøn,
 
-lyt nøje til min tryglen,
+lyt til min tryglen,
 
 svar{T: Kan også oversættes: >>bønhør<<.} mig i din trofasthed, i din retfærdighed,
 
@@ -26,7 +27,7 @@ han har knust mit liv til jorden,
 
 han har gjort at jeg må sidde i mørke
 
-som dem der er evigt døde.{T: Andre oversætter: >>dem der for længst er døde<<.}
+som dem der er døde for evigt.{T: Andre oversætter: >>dem der for længst er døde<<.}
 
 v4 Min ånd er faldet i afmagt i mig,
 
@@ -46,7 +47,7 @@ min sjæl er som udtørret land for dig.{T: Det er underforstået at sjælen tø
 ==Bøn==
 v7 Skynd dig, svar{T: Kan også oversættes: >>bønhør<<.} mig, JHVHv,
 
-min ånd er tæret bort,
+min ånd tæres bort,
 
 skjul ikke dit ansigt for mig
 
@@ -54,15 +55,15 @@ så jeg bliver som dem der går ned i graven.
 
 v8 Forkynd mig om morgenen din nåde{N: nåde},
 
-for jeg har stolet på dig.
+for jeg stoler på dig.
 
 Lad mig kende den vej, jeg skal gå,
 
-for jeg har løftet min sjæl til dig.
+for jeg løfter min sjæl til dig.
 
 v9 Red mig fra mine fjender, JHVHv,
 
-hos dig har jeg søgt skjul.
+hos dig søger jeg skjul.
 
 v10 Lær mig at gøre din vilje,
 
@@ -70,18 +71,16 @@ for du er min Gud,
 
 din Ånd er god,
 
-før mig på jævnt land!{E: Kan også oversættes: >>lad den føre mig ...<<.
+du fører mig på jævnt land!{E: Kan også oversættes: >>lad den føre mig ...<<.
 Mange oversættere flytter masoreternes skillende accent, så *tanḥēnî* (>>før mig/lad den føre mig<<) knyttes til foregående linje, der så oversættes: >>lad din gode Ånd føre mig<<.
 En del håndskrifter har: *ʔôraḥ*: >>sti<< i stedet for: *ʔereṣ* (>>land<<).}
 
-v11 For dit navns skyld, JHVHv, giv mig liv,
+v11 For dit navns skyld, JHVHv, holder du mig i live,
 
-bring i din retfærdighed min sjæl ud af trængsel.
+i din retfærdighed bringer du min sjæl ud af trængsel,
 
-v12 Udslet i din nåde{N: nåde} mine fjender,
+v12 og i din nåde{N: nåde} udsletter du mine fjender,
 
-og lad alle dem som bekriger min sjæl, gå til grunde,
+og du lader alle dem som bekriger min sjæl, gå til grunde,
 
 for jeg er din tjener.
-
-

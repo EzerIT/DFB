@@ -1,7 +1,8 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.04.2017>!!
+!!<Dato for denne version: 22.05.2023>!!
 
 ===Salme 138===
 
@@ -13,7 +14,7 @@ Jeg vil takke dig af hele mit hjerte,
 
 foran guderne vil jeg lovsynge dig.
 
-v2 Jeg vil kaste mig ned hen imod dit hellige tempel{T: Ordret: >>din helligheds tempel<<.}
+v2 Jeg vil kaste mig ned i retning af dit hellige tempel{T: Ordret: >>din helligheds tempel<<.}
 
 og takke dit navn
 
@@ -26,7 +27,7 @@ v3 Den dag jeg råbte, svarede du mig,
 du gjorde mig stolt, jeg{T: Ordret: >>min sjæl<<.} fik styrke.
 
 ==Lovprisning==
-v4 Alle jordens konger skal takke dig,
+v4 Alle jordens konger skal takke dig, HERRE,
 
 for de har hørt din munds ord.
 
