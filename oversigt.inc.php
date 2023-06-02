@@ -201,10 +201,7 @@ $style['job'][16] = $modenhed['delvis færdig'];
 $style['job'][42] = $modenhed['delvis færdig'];
 
 
-$style['sl'] = array();
-for ($k=1; $k<=150; ++$k)
-    $style['sl'][$k] = $modenhed['færdig'];
-$style['sl'][119] = $modenhed['delvis færdig'];
+$style['sl'] = $modenhed['færdig'];
 
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];

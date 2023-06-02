@@ -1,18 +1,19 @@
-!!<Modenhed: Delvis færdig>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 19.04.2017>!!
+!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 02.06.2023>!!
 
 ===Salme 119{E: Salmen er meget kunstfærdigt bygget op, uden egentlig fremadskridende tanke. De første 8 vers begynder alle med det hebraiske alfabets første bogstav, de næste 8 vers med det andet bogstav osv. gennem alle alfabetets 22 bogstaver. Hovedordet er *tôrāʰ* der oftest oversættes: >>lov<<, men som har en langt videre betydning end det danske ord. Grundbetydningen er: >>belæring, vejledning, åbenbaring<<. I salmen bruges der 7 synonymer for *tôrāʰ*. Det er: >>ord<< (*dāvār*), >>bestemmelse<< (*mišpāṭ* der også kan oversættes: >>dom/bud/afgørelse/ret<<. Til forskel fra andre ord for bud og ret specificerer *mišpāṭ* ofte konsekvens ved overtrædelse), >>vedtægt<< (*ʕēdût/ʕēdāʰ*, ordet betegner især >>pagtsvilkår<<, undertiden må det oversættes: >>vidnesbyrd<< som tidligere var den foretrukne oversættelse. Nu oversættes det ofte: >>formaning<<.), >>befaling<< (*miṣwāʰ*), >>lovbud<< (*ḥōq*), >>forordning<< (*piqqûd*), >>ord<< (*ʔimrāʰ*. Det har ofte bibetydning af løfte). Ét af disse ord optræder i alle vers undtagen v.3.37.122 (i v.132 formentlig i anden betydning).}===
 
 ==I.==
-v1 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de hvis færd{T: Ordret: >>vej<<.} er fuldkommen,
+v1 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de hvis færd{T: Ordret: >>vej<<.} er udadlelig,
 
 de som vandrer efter{T: Ordret: >>i<<.} JHVHs lov.{N: lov}
 
 v2 Salige er de som overholder hans vedtægter,
 
-de søger ham af ganske hjerte.
+de søger ham af udelt hjerte.
 
 v3 De har heller ikke begået uretfærdighed,
 
@@ -24,7 +25,7 @@ for at de nøje skulle holdes.
 
 v5 Gid mine veje må være faste
 
-så jeg kan holde dine lovbud.
+til at holde dine lovbud.
 
 v6 Da skal jeg ikke blive til skamme
 
@@ -43,11 +44,11 @@ v9 Hvordan skal en ung holde sin sti ren?
 
 Ved at han retter sig efter dit ord.
 
-v10 Jeg har søgt dig af hele mit hjerte,
+v10 Af hele mit hjerte har jeg søgt dig,
 
 lad mig ikke fare vild fra dine befalinger!
 
-v11 Jeg har gemt dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.} i mit hjerte,
+v11 Jeg gemmer dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.} i mit hjerte,
 
 for at jeg ikke skal synde imod dig.
 
@@ -55,15 +56,15 @@ v12 Lovet{T: Kan også oversættes: >>velsignet<<.} være du, JHVHv!
 
 lær mig dine lovbud!
 
-v13 Med mine læber forkyndte jeg
+v13 Med mine læber forkynder jeg
 
 alle din munds bestemmelser.
 
-v14 Jeg glædede mig ved dine vedtægters vej
+v14 Jeg glæder mig ved dine vedtægters vej
 
 som over al mulig rigdom.
 
-v15 Jeg vil grunde over dine forordninger
+v15 Jeg vil fordybe mig i dine forordninger
 
 og give agt på dine stier.
 
@@ -72,31 +73,31 @@ v16 Jeg vil glæde mig ved dine lovbud,
 jeg vil ikke glemme dit ord.
 
 ==III.==
-v17 Gør vel imod din tjener så jeg må leve,
+v17 Gennemfør alt godt imod din tjener så jeg må leve,
 
 så vil jeg holde dit ord.
 
 v18 Åbn mine øjne så jeg kan iagttage
 
-underne fra din lov.
+underne ud fra din lov.
 
 v19 Jeg er fremmed på jorden,{T: Kan også oversættes: >>i landet<<.}
 
 skjul ikke dine befalinger for mig!
 
-v20 Min sjæl hentæredes af længsel
+v20 Min sjæl hentæres af længsel
 
 efter dine bestemmelser til enhver tid.
 
-v21 Du truede overmodige, forbandede,{T: Mange oversættere flytter – med støtte i bl.a. Septuaginta - >>forbandede<< ned til næste linje der så oversættes: >>forbandede er de som forvilder sig bort fra dine befalinger<<.}
+v21 Du truer overmodige, forbandede,{T: Mange oversættere flytter – med støtte i bl.a. Septuaginta - >>forbandede<< ned til næste linje der så oversættes: >>forbandede er de som forvilder sig bort fra dine befalinger<<.}
 
 som forvilder sig bort fra dine befalinger.
 
 v22 Vælt hån og foragt bort fra mig,
 
-for jeg har overholdt dine vedtægter.
+for jeg overholder dine vedtægter.
 
-v23 Selv når højtstående embedsmænd har sat sig ned og rådslået imod mig,
+v23 Selv når højtstående embedsmænd sætter sig ned og rådslår imod mig,
 
 grunder din tjener over dine lovbud.
 
@@ -105,7 +106,7 @@ v24 Også dine vedtægter er min glæde,
 de er mine rådgivere.{T: Ordret: >>mit råds mænd<<.}
 
 ==IV.==
-v25 Min sjæl er klæbet ved støvet,
+v25 Min sjæl klæber ved støvet,
 
 giv mig liv efter dit ord!
 
@@ -117,7 +118,7 @@ v27 Lad mig forstå dine forordningers vej
 
 så jeg kan grunde over dine undere.
 
-v28 Min sjæl er svundet hen af bekymring,
+v28 Min sjæl opløses i mig{E: Verbet *dlf* forekommer kun tre gange i GT. De to andre steder er det forbundet med gråd og tårer, men betyndningen her er omdiskuteret. Andre foreslår >>svinder hen<< eller eventuelt: >>venter søvnløst<<.} af bekymring,
 
 rejs mig op efter dit ord!
 
@@ -152,13 +153,13 @@ for den holder jeg af.
 
 v36 Bøj mit hjerte til dine vedtægter
 
-og ikke til vinding.
+og ikke til uretmæssig vinding.
 
 v37 Vend mine øjne bort så de ikke ser efter tomhed,
 
 giv mig liv på dine veje!{E: I stedet for: *bidrāxexā* (>>på dine veje<<) har to hånskrifter (og Targum): *bidvārexā*: >>ved dit ord<<. Derved findes ét af salmens otte hovedord også i dette vers, og derfor følges denne læsemåde af mange oversættere. Men det er et meget spinkelt grundlag at foretage rettelse på.}
 
-v38 Opfyld for din tjener dit ord,{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+v38 Opfyld for din tjener dit ord,
 
 som skal fremme frygt for dig.{E: Ordret: >>som for at frygte dig<<. Nogle oversættere vælger at rette: *lᵊyirʔātexā* (>>for at frygte dig<<) til: *lîrēʔeʸxā*: >>for dem som frygter dig<< - oversættelsen bliver: >>som gælder dem der frygter dig<<.}
 
@@ -172,9 +173,9 @@ giv mig liv i din retfærdighed!
 
 ==VI.==
 
-v41 Lad din nåde,{T: I grundteksten er ordet pluralis, der understreger storheden.} JHVHv, komme over mig,
+v41 Lad din nåde,{N: nåde}{T: I grundteksten er ordet pluralis, der understreger storheden.} JHVHv, komme over mig,
 
-din frelse, efter dit ord,{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+din frelse, efter dit ord,
 
 v42 så jeg kan svare den som forhåner mig, et ord,
 
@@ -198,20 +199,20 @@ og jeg skal ikke blive til skamme.
 
 v47 Og jeg vil glæde mig over dine befalinger
 
-som jeg har elsket.
+som jeg elsker.
 
 v48 Og jeg vil løfte mine hænder til dine befalinger
 
-som jeg har elsket,{E: Mange opfatter ordene: *miṣwōteʸxā ʔᵃšer ʔāhāvᵊtî* (>>dine befalinger som jeg har elsket<<) som dittografi fra v.47 og udelader dem derfor. Det forudsætter ændring af: *ʔel-* (>>til<<) i første linje til: *ʔēleʸxā*: >>til dig<<.} og jeg vil grunde over dine lovbud.
+som jeg elsker,{E: Mange opfatter ordene: *miṣwōteʸxā ʔᵃšer ʔāhāvᵊtî* (>>dine befalinger som jeg har elsket<<) som dittografi fra v.47 og udelader dem derfor. Det forudsætter ændring af: *ʔel-* (>>til<<) i første linje til: *ʔēleʸxā*: >>til dig<<.} og jeg vil grunde over dine lovbud.
 
 ==VII.==
 v49 Husk ordet til din tjener,
 
-som du lod mig håbe på.
+som du lader mig håbe på.
 
 v50 Dette er min trøst i min elendighed,
 
-at dit ord har givet mig liv.
+at dit ord giver mig liv.
 
 v51 De overmodige har spottet mig uden ophør,{T: Ordret: >>indtil meget<<.}
 
@@ -238,13 +239,13 @@ v56 Dette gjaldt mig:{E: Ordret: >>Dette var for mig<<. Meningen er enten at det
 At jeg har overholdt dine forordninger.
 
 ==VIII.==
-v57 JHVH er min del,
+v57 JHVH er min andel,
 
 jeg har lovet{E: Ordret: >>jeg har sagt<<. Formodentlig er det underforstået at det følgende er sagt til Gud. En anden mulighed er dog at salmisten har sagt det ved sig selv, så der må oversættes: >>jeg har sat mig for<<.} at holde dine ord.
 
-v58 Jeg tryglede for dit ansigt{T: Ordret: >>jeg har blødgjort dit ansigt<<.} af ganske hjerte:
+v58 Jeg tryglede for dit ansigt{T: Ordret: >>jeg har blødgjort dit ansigt<<.} af hele mit hjerte:
 
->>Vær mig nådig efter dit ord!<<{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+>>Vær mig nådig efter dit ord!<<
 
 v59 Jeg har overvejet mine veje,
 
@@ -281,7 +282,7 @@ for jeg stoler på dine befalinger.
 
 v67 Før jeg blev ydmyget, for jeg vild,
 
-men nu har jeg holdt dit ord.{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+men nu har jeg holdt dit ord.
 
 v68 Du er god og gør godt,
 
@@ -289,7 +290,7 @@ lær mig dine lovbud!
 
 v69 De overmodige har opdigtet løgn imod mig,
 
-jeg vil overholde dine forordninger af ganske hjerte.
+jeg vil overholde dine forordninger af hele mit hjerte.
 
 v70 Deres hjerte er følelsesløst som fedt,
 
@@ -301,7 +302,7 @@ så jeg kunne lære dine lovbud.
 
 v72 Din munds lov er bedre for mig
 
-end tusind stykker guld og sølv.
+end tusind klumper guld og sølv.
 
 ==X.==
 v73 Dine hænder har skabt mig og formet mig,
@@ -312,13 +313,13 @@ v74 De som frygter dig, skal se mig og glæde sig,
 
 for jeg har sat mit håb til dit ord.
 
-v75 Jeg har vidst, JHVHv, at dine bestemmelser er retfærdige,
+v75 Jeg ved, JHVHv, at dine bestemmelser er retfærdige,
 
 og at du af trofasthed ydmygede mig.
 
 v76 Lad dog din nåde tjene til at trøste mig
 
-efter dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.} til din tjener.
+efter dit ord til din tjener.
 
 v77 Lad din barmhjertighed komme til mig så jeg må leve,
 
@@ -337,7 +338,7 @@ v80 Gid mit hjerte må være fuldkomment efter dine lovbud
 for at jeg ikke skal blive til skamme.
 
 ==XI.==
-v81 Min sjæl hentæredes af venten efter din frelse,
+v81 Min sjæl er udmattet af venten efter din frelse,
 
 jeg har sat mit håb til dit ord.
 
@@ -398,12 +399,12 @@ v95 De ugudelige lurede på mig for at tilintetgøre mig,
 
 jeg vil give agt på dine vedtægter.
 
-v96 For al fuldkommenhed{E: Den præcise oversættelse af ordet: *tixlāʰ* er omdiskuteret. Andre oversætter: >>det fuldendte/higen<<.} har set en ende,
+v96 For al fuldkommenhed{E: Den præcise oversættelse af ordet: *tixlāʰ* er omdiskuteret. Andre oversætter: >>det fuldendte/higen<<.} har jeg set en ende på,
 
 din befaling strækker sig meget vidt.
 
 ==XIII.==
-v97 Hvor har jeg elsket din lov!
+v97 Hvor jeg elsker din lov!
 
 Hele dagen er den i min tanke.
 
@@ -427,7 +428,7 @@ v102 Jeg afveg ikke fra dine bestemmelser,
 
 for du har undervist mig.
 
-v103 Hvor var dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.} sødt for min gane,
+v103 Hvor var dit ord sødt for min gane,
 
 mere end honning for min mund.
 
@@ -440,11 +441,11 @@ v105 Dit ord er en lygte for min fod
 
 og et lys på min sti.
 
-v106 Jeg har svoret, og jeg vil opfylde det:
+v106 Jeg har svoret,{T: Her er udtrykket brugt i positiv betydning om at aflægge en ed.} og jeg vil opfylde det:
 
 At overholde dine retfærdige bestemmelser.{T: Ordret: >>din retfærdigheds bestemmelser<<.}
 
-v107 Jeg er blevet dybt bøjet,
+v107 Jeg er blevet dybt nedbøjet,
 
 JHVHv, giv mig liv efter dit ord.
 
@@ -452,7 +453,7 @@ v108 Lad min munds frivilligofre behage dig, JHVHv,
 
 og lær mig dine bestemmelser.
 
-v109 Jeg har altid mit liv i min hånd,{T: Salmistens liv (ordret: >>min sjæl<<) er altid udsat for fare.}
+v109 Jeg holder altid mit liv i min hånd,{T: Salmistens liv (ordret: >>min sjæl<<) er altid udsat for fare, jf. dansk udtryk: >>Han står med livet i hænderne<<.}
 
 men jeg har ikke glemt din lov.
 
@@ -464,14 +465,14 @@ v111 Jeg fik dine vedtægter til ejendom for evigt,
 
 ja, de er mit hjertes glæde.
 
-v112 Jeg bøjede mit hjerte til at handle efter dine lovbud.
+v112 Jeg har vendt mit hjerte til at handle efter dine lovbud.
 
 Lønnen{E: Det er omdiskuteret om: *ʕēqev* her (og v.33) er brugt i betydningen: >>indtil enden/helt og fuldt<< eller: >>løn<<. Her må >>løn<< foretrækkes.} er for evigt.
 
 ==XV.==
-v113 De vægelsindede har jeg hadet,
+v113 De vægelsindede hader jeg,
 
-men din lov har jeg elsket.
+men din lov elsker jegt.
 
 v114 Du er mit skjul og mit skjold,
 
@@ -497,9 +498,9 @@ v119 Du skaffede alle jordens ugudelige bort{E: I stedet for: *hišbattā* (>>du
 
 derfor har jeg elsket dine vedtægter.
 
-v120 Af rædsel for dig gyste mit kød,
+v120 Af rædsel for dig gyser jeg,{T: Ordret: >>mit kød<<.}
 
-og jeg frygtede for dine bestemmelser.
+og jeg er bange for dine bestemmelser.
 
 ==XVI.==
 v121 Jeg har øvet ret{E: Ordet: *mišpāṭ* (>>ret<<) skal som regel oversættes: >>bestemmelse<< eller evt.: >>dom/bud<<. Her er det udtryk for at salmisten har fulgt Guds bestemmelser} og retfærdighed,
@@ -514,7 +515,7 @@ v123 Mine øjne er udmattede af venten på din frelse
 
 og på dit retfærdige ord.{T: Ordret: >>din retfærdigheds ord<<. Den hebraiske tekst har: *ʔimrāʰ* (>>ord<<). Se note ovenfor til salmens nummer.}
 
-v124 Gør med din tjener efter din nåde,{T: Tidligere oversat: >>miskundhed<<.}
+v124 Gør med din tjener efter din nåde,{N: nåde}
 
 og lær mig dine lovbud!
 
@@ -528,21 +529,21 @@ de har brudt din lov.
 
 v127 Derfor har jeg elsket dine befalinger
 
-mere end guld og mere end lutret guld.
+mere end guld og mere end det reneste guld.
 
-v128 Derfor følger jeg ligefremt alle forordninger om alt,{E: Ordret: >>alts forordninger<<. Meningen er enten som oversat her, eller: >>alle alles forordninger<<, eller måske: >>hver enkelt forordning<<. De fleste oversættere følger Septuaginta, der har læst det sidste: *kol* (>>alts/om alt<<) som suffix: *-xā*: >>dine<< så oversættelsen bliver: >>Derfor følger jeg ligefremt alle dine forordninger<<.}
+v128 Derfor følger jeg nøje alle forordninger i alt,{E: Ordret: >>alts forordninger<<. Meningen er enten som oversat her, eller: >>alle alles forordninger<<, eller måske: >>hver enkelt forordning<<. De fleste oversættere følger Septuaginta, der har læst det sidste: *kol* (>>alts/om alt<<) som suffix: *-xā*: >>dine<< så oversættelsen bliver: >>Derfor følger jeg ligefremt alle dine forordninger<<.}
 
 
 jeg har hadet enhver løgnens sti.
 
 ==XVII.==
-v129 Dine vedtægter er vidunderlige,
+v129 Dine vedtægter er underfulde,
 
 derfor overholder min sjæl dem.
 
 v130 Dine ords åbenbaring{E: Den masoretiske tekst har et ord der kun findes på dette ene sted i GT: *pētaḥ*. Mange vælger at ændre vokaliseringen til: *petaḥ*: >>dør/åbning<< så der kan oversættes: >>Dine ord spreder lys når de åbner sig<<.} spreder lys,
 
-det giver enfoldige indsigt.
+det giver uerfarne indsigt.
 
 v131 Jeg spærrede min mund op og tørstede,
 
@@ -550,9 +551,9 @@ for jeg længtes efter dine befalinger.
 
 v132 Vend dig til mig, og vær mig nådig
 
-som det er deres ret,{E: Ordet: *mišpāṭ* (>>ret<<) skal som regel oversættes: >>bestemmelse<< eller evt.: >>dom/bud<<. Her er det udtryk for at mennesker har fulgt Guds bestemmelser.} der elsker dit navn.
+som du har for skik over for dem,{E: Ordet: *mišpāṭ* (>>ret<<) skal som regel oversættes: >>bestemmelse<< eller evt.: >>dom/bud<<. Her er det udtryk for hvordan Gud plejer at handle.} der elsker dit navn.
 
-v133 Gør mine skridt faste ved dit ord,{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+v133 Gør mine skridt faste ved dit ord,
 
 og lad ingen uret herske over mig!
 
@@ -581,7 +582,7 @@ v139 Min iver har tilintetgjort mig,
 
 for mine modstandere har glemt dine ord.
 
-v140 Dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.} er gennemlutret,{T: Ordret: >>lutret meget<<.}
+v140 Dit ord er gennemrenset,{T: Ordret: >>renset meget<<.}
 
 og din tjener har elsket det.
 
@@ -602,7 +603,7 @@ v144 Dine vedtægter er retfærdighed i evighed,
 giv mig indsigt så jeg kan leve.
 
 ==XIX.==
-v145 Jeg har råbt af helt hjerte; svar mig, JHVHv!
+v145 Jeg har råbt af hele mit hjerte; svar mig, JHVHv!
 
 Jeg vil overholde dine lovbud.
 
@@ -620,7 +621,7 @@ for at grunde på dit ord.{T: Der er muligvis tænkt på de sene nattevagter fra
 
 v149 Hør mit råb i overensstemmelse med din nåde,
 
-JHVHv, giv mig liv i overensstemmelse med din bestemmelse.
+JHVHv, hold mig i live i overensstemmelse med din bestemmelse.
 
 v150 De som jager efter skændselsgerning, nærmede sig,
 
@@ -641,7 +642,7 @@ for din lov har jeg ikke glemt.
 
 v154 Før min sag, og befri mig,
 
-giv mig liv efter dit ord.{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+giv mig liv efter dit ord.
 
 v155 Frelsen er fjernt fra de ugudelige,
 
@@ -649,7 +650,7 @@ for de har ikke søgt efter dine lovbud.
 
 v156 Overordentlig stor er din barmhjertighed,{T: Ordret: >>Store er dine barmhjertigheder<<. Pluralis skal her understrege storheden.} JHVHv,
 
-giv mig liv i overensstemmelse med dine bestemmelser!
+hold mig i live i overensstemmelse med dine bestemmelser!
 
 v157 Mine forfølgere og modstandere er mange,
 
@@ -657,11 +658,11 @@ jeg veg ikke fra dine vedtægter.
 
 v158 Jeg har set troløse og må væmmes,
 
-for de har ikke holdt dit ord.{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+for de har ikke holdt dit ord.
 
-v159 Se hvor jeg har elsket dine forordninger,
+v159 Se hvor jeg elsker dine forordninger,
 
-JHVH, giv mig liv i overensstemmelse med din nåde.
+JHVH, giv mig liv i overensstemmelse med din nåde.{N: nåde}
 
 v160 Summen{T: Ordret: >>hoved<<.} af dit ord er sandhed,
 
@@ -672,15 +673,15 @@ v161 Højtstående embedsmænd forfulgte mig uden grund,
 
 men mit hjerte skælvede for dine ord.
 
-v162 Jeg glædede mig over dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+v162 Jeg glæder mig over dit ord
 
 som en der finder et stort bytte.
 
-v163 Jeg har hadet og afskyet løgn,
+v163 Jeg hader og afskyer løgn,
 
-din lov har jeg elsket.
+din lov elsker jeg.
 
-v164 Syv gange om dagen har jeg lovprist dig
+v164 Syv gange om dagen lovpriser jeg dig
 
 for dine retfærdige bestemmelser.{T: Ordret: >>for din retfærdigheds bestemmelser<<. Sætningen kan dog også oversættes: >>for dine retfærdige bud/domme<<.}
 
@@ -688,32 +689,32 @@ v165 Der er stor fred for dem som elsker din lov,
 
 og der er ikke noget der får dem til at snuble.
 
-v166 Jeg har håbet på din frelse, JHVHv,
+v166 Jeg håber på din frelse, JHVHv,
 
-og jeg har udført dine befalinger.
+og jeg udfører dine befalinger.
 
-v167 Min sjæl har holdt dine vedtægter,
+v167 Min sjæl holder dine vedtægter,
 
-og jeg elskede dem højt.
+og jeg elsker dem højt.
 
-v168 Jeg har holdt dine forordninger og dine vedtægter,
+v168 Jeg holder dine forordninger og dine vedtægter,
 
 for alle mine veje er åbenbare for dig.
 
 ==XXII.==
-v169 Gid mit råb må komme frem for dit ansigt, JHVHv,
+v169 Gid mit råb må komme frem til dit ansigt,{T: Altså: Nå helt frem til Gud.} JHVHv,
 
 giv mig indsigt efter dit ord!
 
-v170 Gid min tryglen må komme frem for dit ansigt,
+v170 Gid min tryglen må komme frem til dit ansigt,
 
-red mig efter dit ord!{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+red mig efter dit ord!
 
 v171 Mine læber skal strømme over med lovsang,
 
 for du lærer mig dine lovbud.
 
-v172 Min tunge skal synge om dit ord,{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.}
+v172 Min tunge skal synge om dit ord,
 
 for alle dine befalinger er retfærdighed.
 
@@ -734,5 +735,3 @@ v176 Jeg har flakket om som et fortabt får,
 søg efter din tjener,
 
 for dine befalinger har jeg ikke glemt.
-
-
