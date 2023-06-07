@@ -9,7 +9,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,19,32,33,34,35,36,37,38,42];
+$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32,33,34,35,36,37,38,42];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -198,6 +198,12 @@ $style['job'][13] = $modenhed['delvis færdig'];
 $style['job'][14] = $modenhed['delvis færdig'];
 $style['job'][15] = $modenhed['delvis færdig'];
 $style['job'][16] = $modenhed['delvis færdig'];
+$style['job'][17] = $modenhed['delvis færdig'];
+$style['job'][18] = $modenhed['delvis færdig'];
+$style['job'][19] = $modenhed['delvis færdig'];
+$style['job'][20] = $modenhed['delvis færdig'];
+$style['job'][21] = $modenhed['delvis færdig'];
+$style['job'][22] = $modenhed['delvis færdig'];
 $style['job'][42] = $modenhed['delvis færdig'];
 
 

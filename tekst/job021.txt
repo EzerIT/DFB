@@ -1,0 +1,184 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 07.06.2023>!!
+
+===Job, kapitel 21===
+
+
+==Job beder vennerne om koncentreret opmærksomhed==
+
+
+//0 v1 Da svarede Job
+//1 :
+
+//2 v2 >>Lyt omhyggeligt til min tale,
+
+//4 og lad dette være den trøst I kan give!
+
+//3 v3 Bær over med mig,
+//6 og jeg vil tale,
+ 
+//7 og efter jeg har talt, kan du{T: Sofar} håne mig. 
+
+//5 v4 Retter jeg min klage{T: Kan oversættes >>tale<<.} til et menneske,
+//6 
+
+//7 eller
+//8 hvorfor skulle jeg ikke være utålmodig?
+
+//4 v5 Se på mig{T: Ordret: >>Vend jer mod mig<<.}
+//8 og gys
+
+//8 og læg hånden på munden!
+
+//7 v6 Når jeg tænker på det,
+//8 bliver jeg forfærdet,
+
+//9 og en skælven griber min krop.{T: Ordret: >>mit kød<<.}
+
+
+==De ugudelige lever lykkeligt for det meste==
+
+
+//6 v7 Hvorfor lever de ugudelige
+
+//10 og bliver gamle,
+//11 er endog stærke og mægtige?
+
+//9 v8 Deres børn
+//13 lever trygt sammen med dem,
+//12
+
+//11 og deres efterkommere{E: *ṣeˀᵉṣāʔêhem*, mandlige efterkommere, findes kun hos Job og Esajas.} har de for deres øjne.
+
+//10 v9 Deres huse har fred
+//12 uden frygt,
+
+//11 og Guds kæp{T: Dvs. Guds straf.} er ikke over dem.
+
+//8 v10 Deres tyre parer sig,
+//10 og det slår ikke fejl,
+
+//9 deres køer kælver
+//10 og aborterer ikke.
+
+//11 v11 De sender deres drenge ud ligesom småkvæget,{T: Kan oversættes >>får<<.}
+
+//12 og deres børn springer{T: Kan oversættes >>danser<<.} omkring.
+
+//11 v12 De løfter deres stemme{E: >>deres stemme<< er tilføjet. De fleste ændrer vokaliseringen af *yiśʔû* til *yasiû* og oversætter med >>de synger<<. Man kan også oversætte til: >>de bærer/løfter tamburin og lyre<<.} til tamburin{E: *tōf* oversættes også med >>pauke<<.} og lyre,{E: *kinnôr* er et strengeinstrument, formet som et U, ligner en lille harpe, nogle oversætter ordet med >>harpe<< eller >>citer<<.}{T: Tamburin og lyre blev allerede brugt på patriarkernes tid, se 1 Mos 31,27. Job modsiger her Sofar, se Job 20,5.}
+
+//12 og de fryder sig til lyden af fløjte.
+
+//11 v13 De nyder deres dage i lykke,{T: Sml. Job 36,11.}
+
+//13 og på et øjeblik rystes de af dødsriget.
+
+//12 v14 Men til Gud siger de:
+//13 >Vend dig bort fra os!
+
+//15 Vi ønsker ikke at kende dine veje!
+
+//14 v15 Hvad er den Almægtige
+//16 at vi skulle tjene{T: I betydningen >>dyrke<<.} ham,
+
+//15 og hvad gavn har vi af
+//16 at vi bønfalder ham?<
+
+//7 v16 Se,
+//9 holder de ikke lykken i deres egen hånd?
+
+//8 De ugudeliges råd er langt fra mig.
+
+//9 v17 Hvor ofte{T: >>Hvor ofte<< er underforstået i vers 17-18, og er derfor tilføjet.} sker det at de ugudeliges lampe slukkes,{T: Bildad sagde det samme i Job 18,5.}
+
+//14 eller at deres ulykke kommer over{T: Kan oversættes >>imod<<} dem?
+
+//13 Hvor ofte tildeler han{T: Gud} dem smerter i sin vrede?
+
+//12 v18 Hvor ofte er de som strå for vinden,
+
+//13 og som avner
+//14 stormen fejer bort?
+
+//11 v19 Gemmer Gud hans ondskab{T: Dvs. >>straffen for hans ondskab<<.}til hans børn?
+
+//12 Han skal gengælde ham,
+//14 så han forstår det!
+
+//13 v20 Med egne øjne skal han se sin ulykke
+
+//15 og drikke af den Almægtiges gift!{T: Ordret: >>vrede<<. Sml. Job 6,4.}
+
+//14 v21 For hvad glæde har han af sit hjem bagefter,{T: Dvs. efter døden.}
+
+//15 når hans måneders tal er skåret ned.{T: Ordret: >>skåret over i to<<.} 
+
+
+==Gud behandler mennesker forskelligt==
+
+
+//10 v22 Kan nogen lære Gud kundskab, 
+
+//12 ham, der dømmer de højeste?
+
+//11 v23 En dør når han er mest livskraftig,
+
+//15 fuldstændig tryg og ubekymret.
+
+//14 v24 Hans kar{E: *ʕᵃṭîn*(hapax, dvs. forekommer kun her) >>kar<<, >>spand<<, andre oversætter det med >>lænd<< (oversættelsen er usikker!) og ændrer samtidig vokaliseringen af *ḥālāv*(mælk) til *ḥelev*, der betyder >>fedt<<. Meningen er klar i begge tilfælde, den ugudelige er sund og livskraftig.} er fulde af mælk,
+
+//15 og marven i hans knogler er saftig.
+
+//13 v25 En anden dør med en bitter sjæl
+
+//14 og har ikke smagt lykken.
+
+//12 v26 Sammen lægger de sig i støvet,
+
+//13 og maddiker dækker dem.
+
+
+==Vennernes påstand om de gudløses ulykke er et bedrag==
+
+
+//7 v27 Se,
+//9 jeg kender jeres tanker
+
+//11 og planer, 
+//12 hvorved I gør mig uret!
+
+//10 v28 For I siger:
+//11 >Hvor er fyrstens bolig,
+//12 og hvor er teltet, hvor de ugudelige bor?< 
+
+//8 v29 Har I ikke spurgt dem som rejser på vejene,
+
+//10 og lægger I ikke mærke til deres tegn?{T: Dvs. deres vidnesbyrd.}
+
+//9 v30 For på ulykkens dag skånes den onde,
+
+//11 på vredens{T: Guds.} dag bliver han ledt bort.
+
+//10 v31 Hvem konfronterer ham med hans færd,
+
+//11 og hvem gengælder ham hvad han har gjort?
+//13
+
+//12 v32 Han bæres til graven,
+
+//14 og over gravhøjen{T: Ordret: >>høj<<.} holder man vagt.
+
+//13 v33 Jordklumperne fra dalen{T: Ordret: >>wadi<<, >>floddal<<, dvs. gravpladsen.} er behagelige for ham,
+
+//14 og efter ham følger hele verden,{T: Ordret: >>et hvert menneske<<.} 
+
+//15 og før ham
+//16 en talløs skare.
+
+//5 v34 Hvordan kan I trøste mig med tomme ord?
+
+//6 Jeres svar
+//7 er intet andet end bedrag!<<{T: Kan oversættes >>troløshed<<.}
