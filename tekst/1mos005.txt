@@ -1,0 +1,119 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
+!!<Dato for denne version: 12.06.2023>!!
+
+===1. Mosebog, kapitel 5===
+
+==Adams slægtsbog==
+
+
+//0 v1 Dette er Adams slægtsbog.
+//1 Den dag
+//4 Gud skabte Adam,
+//3 gjorde han det så han lignede Gud.{T: Ordret >>I Guds lighed<<.} 
+//2 v2 Som mand og kvinde skabte han dem,
+//3 og han velsignede dem
+//3 og gav dem navnet Menneske{T: På hebraisk er der ordspil mellem >>Adam<< og >>Menneske<<.} den dag
+//5 de blev skabt. 
+//4 v3 Da Adam havde levet 130 år,
+//6 fik han{T: Ordret >>avlede<<, der er afledt af >>fødte<<. Gælder også i de efterfølgende vers} en $søn$ der lignede ham,{T: Ordret >>i sin lighed<<.} i sit billede.
+//6 Han gav ham navnet Set. 
+//5 v4 Adams levealder,
+//8 efter han havde fået Set,
+//7 var 800 år,
+//6 og han fik sønner og døtre. 
+//5 v5 $I alt$ blev Adams
+//8 levealder
+//7 930 år,
+//6 Så døde han.
+
+
+//4 v6 Da Set havde levet 105 år,
+//6 fik han Enosh.
+//5 v7 Set levede,
+//8 efter han havde fået Enosh,
+//7 i 807 år,
+//6 og han fik sønner og døtre.
+//5 v8 Sets levealder blev $i alt$ 912 år.
+//6 Så døde han.
+
+
+//4 v9 Da Enosh havde levet 90 år,
+//8 fik han Kenan. 
+//5 v10 Enosh levede,
+//8 efter han havde fået Kenan,
+//7 i 815 år,
+//6 og han fik sønner og døtre. 
+//5 v11 Enosh' levealder blev $i alt$ 905 år.
+//6 Så døde han.
+
+
+//4 v12 Da Kenan havde levet 70 år,
+//6 fik han Mahalal’el. 
+//5 v13 Kenan levede, 
+//8 efter han havde fået Mahalal’el,
+//7 i 840 år,
+//6 og han fik sønner og døtre. 
+//5 v14 Kenans levealder blev $i alt$ 910 år.
+//6 Så døde han.
+
+
+//4 v15 Da Mahalal’el havde levet 65 år,
+//6 fik han Jered. 
+//5 v16 Mahalal’el levede,
+//5 efter han havde fået Jered,
+//7 i 830 år,
+//6 og han fik sønner og døtre. 
+//5 v17 Mahalal’els levealder blev $i alt$ 895 år.
+//6 Så døde han.
+
+
+//4 v18 Da Jered havde levet 162 år,
+//6 fik han Enok. 
+//5 v19 Jered levede,
+//8 efter han havde fået Enok,
+//7 i 800 år,
+//6 og han fik sønner og døtre. 
+//5 v20 Jereds levealder blev $i alt$ 962 år.
+//6 Så døde han.
+
+
+//4 v21 Da Enok havde levet 65 år,
+//3 fik han Metusalem. 
+//5 v22 Enok vandrede med Gud,
+//9 efter at han havde fået Metusalem,
+//8 i 300 år,
+//7 og han fik sønner og døtre. 
+//6 v23 Enoks levealder blev $i alt$ 365 år. 
+//5 v24 Enok vandrede med Gud;
+//6 så var han ikke mere,
+//7 for Gud tog ham.
+
+
+//4 v25 Da Metusalem havde levet 187 år,
+//6 fik han Lemek. 
+//5 v26 Metusalem levede,
+//8 efter han havde fået Lemek,
+//7 i 782 år,
+//6 og han fik sønner og døtre. 
+//5 v27 Metusalems levealder blev $i alt$ 969 år.
+//6 Så døde han.
+
+
+//4 v28 Da Lemek havde levet 182 år,
+//6 fik han en søn 
+//6 v29 og kaldte ham Noa
+//7 og sagde:
+//8 >>Han skal aflaste os{T: På hebraisk er der ordspil mellem *nōₐḥ* >>Noa<< og *niḥam* >>aflaste<<. Noa betyder >>hvile<<.} fra vores arbejde og vores hænders slid på den agerjord,
+//9 som HERREN har forbandet.<<
+//5 v30 Lemek levede,
+//5 efter han havde fået Noa,
+//7 i 595 år,
+//6 og han fik sønner og døtre. 
+//5 v31 Lemeks levealder blev $i alt$ 777 år.
+//6 Så døde han.
+
+ 
+//4 v32 Da Noa var 500 år,
+//4 fik han Sem, Kam og Jafet.

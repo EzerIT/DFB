@@ -1,0 +1,126 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
+!!<Dato for denne version: 12.06.2023>!!
+
+===1. Mosebog, kapitel 4===
+
+==Kain og Abel==
+
+//0 v1 Mennesket{E: På hebraisk staves >>menneske<< og >>Adam<< ens. Det gør det vanskeligt at afgøre hvornår der tales om Adam som person. Når der som her står *ʔādām* i bestemt form, *haʔādām*, oversættes der dog konsekvent med >>mennesket<<.} lå med{T: Ordret >>kendte<<.} sin kone Eva;
+//2 hun blev gravid
+//2 og fødte Kain
+//2 og sagde:
+//3 >>Jeg har fået{T: Ordret >>købt<<. På hebraisk er der ordspil mellem >>købt<< og >>Kain<<.} en mand ved HERRENs hjælp.{E: >>ved HERREN<< kan også forstås som et objekt i apposition, dvs. >>en mand, HERREN<< (jf. fx Luther), men der er blandt moderne oversættere størst enighed for valgte oversættelse. Oversættelsen støttes af *dia tou Theou* >>ved Gud<< i LXX og *min qᵊdām jwj* >>fra Herren<< i Targum Onqelos.}<< 
+//2 v2 Hun
+//4 fødte igen, $denne gang$ hans bror Abel.
+//3 Abel blev fårehyrde,
+//4 mens Kain blev agerdyrker. 
+//3 v3 Efter noget tid skete det
+//4 at Kain bragte et offer til HERREN af agerjordens frugt. 
+//5 v4 Også Abel bragte $et offer$ af sin hjords førstefødte og af deres fedtstykker;
+//4 og HERREN anerkendte Abel og hans offer. 
+//5 v5 Men Kain og hans offer anerkendte han ikke;
+//7 da blev Kain meget vred,
+//7 og han sænkede ansigtet mod jorden. 
+//6 v6 HERREN sagde til Kain:
+//8 >>Hvorfor er du vred,
+//10 og hvorfor sænker du ansigtet mod jorden?
+//9 v7 Er det ikke sådan
+//12 at hvis du gør godt,
+//11 kan du løfte $hovedet$,
+//10 men hvis du ikke gør godt,
+//11 kryber synden for døren,
+//12 og den begærer dig?
+//13 Men du skal herske over den.<<
+
+//7 v8 Kain talte til sin bror Abel;{E: De fleste antikke oversættelser tilføjer >>Lad os gå ud i marken<<, fx LXX, den Samaritanske Pentateuk og Targum Neofiti, for at angive hvad Kain sagde til Abel.}
+//8 og det skete
+//10 mens de var på marken
+//9 at Kain rejste sig mod sin bror Abel
+//10 og slog ham ihjel.
+
+//6 v9 HERREN sagde til Kain:
+//8 >>Hvor er din bror Abel?<<
+//7 Han svarede:
+//8 >>Det ved jeg ikke.
+//9 Skal jeg passe på{T: Ordret >>(be)vogte<<.} min bror?<< 
+//7 v10 Han sagde:
+//8 >>Hvad har du gjort?
+//10 Din brors blod råber til mig fra jorden.
+//9 v11 Nu
+//10 skal du være mere forbandet end agerjorden,
+//13 som åbnede sit gab
+//14 for at tage imod din brors blod af din hånd. 
+//12 v12 Når du dyrker agerjorden,
+//13 skal den ikke mere
+//14 give dig sin kraft;
+//11 hjemløs og omflakkende skal du være på jorden.<< 
+//6 v13 Da sagde Kain til HERREN:
+//7 >>Min skyld er større
+//9 end jeg kan bære. 
+//8 v14 Se, du har i dag drevet mig væk fra agerjorden;
+//10 for dit ansigt må jeg skjule mig.
+//11 Jeg bliver hjemløs og flakker om på jorden,
+//9 og
+//10 hvem som helst
+//12 der finder mig,
+//11 vil slå mig ihjel.<< 
+//6 v15 Men HERREN sagde til ham:
+//7 >>Nej.{T: Egentlig >>Derfor<<.}
+//8 Den der slår Kain ihjel, $på ham$ skal det hævnes syv gange!<<
+//6 Så satte HEREN et mærke på Kain
+//7 for at ingen som fandt ham, skulle slå ham ihjel.
+//6 v16 Så gik Kain væk fra HERRENS ansigt
+//7 og slog sig ned i landet Nod øst for Eden.
+
+==Kains efterkommere==
+
+//1 v17 Kain lå med sin kone,
+//3 og hun blev gravid
+//3 og fødte Enok.
+//2 Han
+//3 byggede en by
+//2 og gav byen navn efter sin søn, Enok. 
+//3 v18 Enok blev far til Irad,
+//4 og Irad blev far til Mehujael,
+//4 og Mehujael blev far til Metushael,
+//4 og Metushael blev far til Lemek. 
+//5 v19 Lemek tog sig to koner,
+//6 den ene hed Ada
+//8 og den anden Silla. 
+//7 v20 Ada fødte Jabal;
+//8 han blev far til dem som bor i telte og $vogter$ kvæg. 
+//10 v21 Hans bror hed Jubal;
+//11 han blev far til alle dem der spiller på harpe og fløjte. 
+//8 v22 Også Silla fødte, $nemlig$ Tubal-Kain,
+//10 som $blev far til alle${E: Mangler i den masoretiske tekst. I den masoretiske tekst lægger participierne >>smedede<< *lōṭēš* og >>forarbejdende<< *ḥōrēš* sig til Tubal-Kain, bortset fra, at *ḥōrēš* er styret af >>kol<<, hvormed betydningen snarere er >>alle der forarbejder<<. Det ser dermed ud til at >>blev far til<< ved en fejl er gledet ud af teksten.} der smeder, alle der arbejder med kobber og jern.
+//9 Tubal-Kains søster hed Na’ama. 
+//5 v23 Lemek sagde til sine koner Ada og Silla:
+
+//6 >>Hør mig,
+
+//7 $I$ Lemeks koner,
+
+//6 lyt til mine ord!
+
+//7 Jeg har dræbt en mand for et sår;
+
+//9 en dreng for en skramme, 
+
+//8 v24 for hævnes Kain syv gange,
+//9 skal Lemek hævnes 77 gange.<<
+
+==Adam får endnu en søn.==
+
+//0 v25 Adam lå atter med sin kone,
+//1 og hun fødte en søn
+//1 og kaldte ham Set.
+//3 >>For Gud har givet{T: På hebraisk er der ordspil mellem >>Set<< og >>give<<.} mig en anden søn{T: Ordret >>afkom<<.} i stedet for Abel,
+//4 for ham slog Kain ihjel.<<
+//2 v26 Set fik også en søn,
+//4 og han kaldte ham Enosh.
+//3 På den tid begyndte man
+//4 at påkalde HERRENS navn.
+
+

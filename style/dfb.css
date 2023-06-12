@@ -116,6 +116,10 @@ div.credit p {
     font-size: 1rem;
 }
 
+span.added {
+/*    color: blue;  Vi mangler at beslutte dette */
+}
+
 /*.indent1 {
     margin-left: 0;
     text-indent: 0;

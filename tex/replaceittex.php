@@ -86,6 +86,9 @@ function replaceittex($filename, $chtype) {
     $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
     $to[] = '\1\\bverse{\2}';
 
+    $from[] = '/\$([^\$]*)\$/';
+    $to[] = '\1';  // Vi mangler at beslutte hvad der skal ske her
+
     // Fjern indrykningsmarkør
     $from[] = '~//\d*~';
     $to[] = '';

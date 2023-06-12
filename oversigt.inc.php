@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [3,8,9,11,12,32,50];
+$chap['1mos']     = [1,2,3,4,5,8,9,11,12,32,50];
 $chap['2mos']     = range(1,40);
 $chap['3mos']     = [19];
 $chap['4mos']     = range(1,36);
@@ -9,7 +9,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,32,33,34,35,36,37,38,42];
+$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,32,33,34,35,36,37,38,42];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -169,7 +169,11 @@ $style['GT'] = $modenhed['færdig']; // Bedste værdi for GT's kapitler - bruges
 $style['NT'] = $modenhed['delvis færdig']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
 
 
-$style['1mos']    = $modenhed['ufuldstændigt'];
+for ($k=1; $k<=5; ++$k)
+    $style['1mos'][$k] = $modenhed['delvis færdig'];
+for ($k=6; $k<=50; ++$k)
+    $style['1mos'][$k] = $modenhed['ufuldstændigt'];
+
 $style['2mos']    = $modenhed['delvis færdig'];
 $style['3mos']    = $modenhed['ufuldstændigt'];
 $style['4mos']    = $modenhed['delvis færdig'];
@@ -204,6 +208,10 @@ $style['job'][19] = $modenhed['delvis færdig'];
 $style['job'][20] = $modenhed['delvis færdig'];
 $style['job'][21] = $modenhed['delvis færdig'];
 $style['job'][22] = $modenhed['delvis færdig'];
+$style['job'][23] = $modenhed['delvis færdig'];
+$style['job'][24] = $modenhed['delvis færdig'];
+$style['job'][25] = $modenhed['delvis færdig'];
+$style['job'][26] = $modenhed['delvis færdig'];
 $style['job'][42] = $modenhed['delvis færdig'];
 
 

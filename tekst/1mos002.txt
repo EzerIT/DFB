@@ -1,0 +1,115 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
+!!<Dato for denne version: 12.06.2023>!!
+
+===1. Mosebog, kapitel 2===
+
+==Sabbatten indstiftes==
+
+//0 v1 Himlen og jorden og al deres mangfoldighed{E: Det hebraiske *ṣāvāˀ* betyder ordret >>hær<<, men kan i denne sammenhæng referere til stjernerne, det skabte i sin mangfoldighed eller alternativt de usynlige, himmelske væsener jf. fx 1 Kong 22,19.} var fuldendt. 
+//0 v2 Gud var på den syvende dag færdig med det
+//2 han havde gjort,
+//1 og han hvilede på den syvende dag efter alt det
+//2 han havde gjort. 
+//0 v3 Gud velsignede den syvende dag 
+//2 og helligede den;
+//1 for på den hvilede han efter alt det
+//2 som han havde skabt
+//3 og gjort.{T: Ordret >>til at gøre<<}
+
+==Menneskets skabelse==
+
+//0 v4 Dette er historien{E: I resten af Første Mosebog bruges *tôlēdôt* som indledningen til en efterfølgende >>slægtshistorie<< (fx 1 Mos 5,1).} om himlen og jorden
+//2 da de blev skabt.
+//1 På den dag
+//4 Gud HERREN lavede jorden og himlen,
+//3 v5 var der endnu ingen buske{T: Ordret >>markens buske<<.} på jorden, 
+//3 og endnu var ingen urter{T: Ordret >>markens urter<<.} spiret frem;
+//5 for Gud HERREN havde ikke ladet det regne på jorden,
+//6 og der var intet menneske
+//7 til at dyrke agerjorden. 
+//4 v6 En kilde{E: *ʔēd* forekommer kun her og i Job 36,27, hvor betydningen også er usikker. Det tilsvarende akkadiske ord *id* refererer til en underjordisk kilde der blev forsynet af et stort, underjordisk ocean.} trængte op af jorden
+//5 og vandede hele agerjorden.
+//2 v7 Gud HERREN formede mennesket{E: På hebraisk staves >>menneske<< og >>Adam<< ens. Det gør det vanskeligt at afgøre hvornår der tales om Adam som person. Når der som her står *ʔādām* i bestemt form, *haʔādām*, oversættes der dog konsekvent med >>mennesket<<.} af støv fra agerjorden
+//3 og blæste livsånde i dets næse;
+//4 og mennesket blev til en levende sjæl.
+
+==Edens have==
+
+//2 v8 Gud HERREN plantede en have i Eden mod øst
+//4 og anbragte dér mennesket
+//5 som han havde formet.
+//3 v9 Gud HERREN lod alle slags træer spire frem af agerjorden.
+//6 $De var$ en fryd{T: Kan også oversættes med >>tiltrækkende<<, jf. 1 Mos 3,6.} at se på
+//7 og gode at spise af.
+//5 Midt i haven $voksede$ livets træ
+//6 og træet til kundskab om godt og ondt.
+//4 v10 En flod strømmede{T: Ordret >>var gående ud fra<<.} ud fra Eden
+//6 til at vande haven,
+//5 og derfra delte den sig
+//6 og blev til fire forgreninger.{T: Ordret >>hoveder<<.}
+//7 v11 Navnet på den første er Pishon;
+//9 den
+//11 løber omkring hele landet Havila,
+//12 hvor der er guld. 
+//10 v12 Guldet fra det land er fint;{T: Ordret >>godt<<.}
+//11 der er bdellium{T: Ukendt betydning. Muligvis et gennemsigtigt og velduftende materiale (jf. 4 Mos 11,7). Alternativt en kostbar sten.} og shoham-sten.{T: Ukendt betydning. Oversættes i Septuaginta med >>grøn sten<<, der kan referere til smaragd.} 
+//8 v13 Den anden flods navn er Gihon;
+//9 den
+//10 løber omkring hele landet Kush.
+//8 v14 Den tredje flods navn er Tigris;
+//10 den
+//11 løber øst for Ashur.{E: Normalt betegner *ʔaššûr* i GT hele Assyrien, men Assyrien lå på begge sider af Tigris, og derfor må *ʔaššûr* her referere til Assyriens hovedstad, Ashur.}
+//9 Den fjerde flod
+//10 $hedder$ Eufrat.
+//2 v15 Gud HERREN tog mennesket
+//3 og satte det i Edens have
+//4 for at dyrke den
+//5 og bevogte{E: Verbet *šmr* bruges om at overholde loven (fx 3 Mos 18,5), men også om at bevogte tabernaklet (4 Mos 1,53).} den.
+//2 v16 Gud HERREN befalede mennesket
+//3 følgende:
+//4 >>Du må frit spise af alle træer i haven;
+//5 v17 men af træet til kundskab om godt og ondt
+//6 må du ikke spise;
+//7 for den dag
+//9 du spiser af det,
+//8 skal du lide døden.<<
+
+==Kvindens skabelse==
+
+//2 v18 Gud HERREN sagde:
+//3 >>Det er ikke godt
+//5 at mennesket er alene.
+//4 Lad mig lave en medhjælper til ham som passer til ham.<<{T: Ordret >>som hans modstilling<<.}
+//2 v19 Og Gud HERREN formede alle markens vilde dyr og alle himlens fugle af agerjorden,
+//3 og han førte $dem$ til mennesket
+//7 for at se
+//8 hvad han ville kalde dem;
+//6 og hvad end
+//8 mennesket kaldte hver levende sjæl,
+//7 det blev dets navn.
+//5 v20 Mennesket navngav alt kvæget og himlens fugle og alle markens vilde dyr;
+//4 men han fandt ingen medhjælper som passede til ham.{T: Ordret >>til et menneske<<.}
+//2 v21 Da lod Gud HERREN en dyb søvn falde over mennesket,
+//4 og han faldt i søvn,
+//3 og $Gud$ tog et af hans ribben
+//3 og lukkede $med$ kød i stedet. 
+//2 v22 Og Gud HERREN byggede en kvinde af det ribben
+//5 som han havde taget af mennesket,
+//4 
+//3 og førte hende til mennesket.
+//5 v23 Da sagde mennesket:
+
+//7 >>Denne gang er det ben af mine ben og kød af mit kød;
+
+//8 hun{T: Ordret >>dette<<.} skal kaldes >kvinde<,{T: Der er en sproglig forbindelse mellem *mand* og *kvinde* på hebraisk.}
+
+//9 for af manden er hun er taget.<<
+	
+//6 v24 Derfor skal en mand forlade sin far og sin mor
+//7 og holde sig til sin kone,
+//8 og de skal blive ét kød.
+//4 v25 De var begge nøgne, mennesket og hans kone,
+//5 men de skammede sig ikke over det.
+

@@ -1,32 +1,157 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Claus Tøndering>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 10.02.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Trine Tøndering>!!
+!!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
+!!<Dato for denne version: 12.06.2023>!!
 
-===Første Mosebog, kapitel 3===
+===1. Mosebog, kapitel 3===
 
+==Syndefaldet==
 
-==Slangen lokker kvinden til at spise af det forbudte træ, og hun lokker manden; de erkender deres nøgenhed og skjuler sig==
+//0 v1 Slangen var mere snu end alle markens vilde dyr 
+//2 som Gud HERREN havde lavet,
+//1 og den sagde til kvinden:
+//2 >>Har Gud virkelig sagt:
+//3 >I må ikke spise af noget træ i haven?<<<
+//1 v2 Kvinden sagde til slangen:
+//2 >>Vi må $gerne$ spise af frugterne på havens træer;
+//3 v3 men $om$ frugten af det træ
+//6 som står midt i haven,
+//5 har Gud sagt:
+//4 >I må ikke spise af den
+//6 og ikke røre ved den,
+//5 ellers skal I dø.<<<
+//1 v4 Slangen sagde til kvinden:
+//2 >>I skal bestemt ikke lide døden; 
+//3 v5 men Gud ved
+//4 at den dag
+//6 I spiser af den,
+//5 vil jeres øjne blive åbnet,
+//6 og I vil blive ligesom Gud
+//7 $og$ kende godt og ondt.<<
+//1 v6 Kvinden så
+//3 at træet var godt at spise af;
+//5 at det så dejligt ud,
+//4 og at det var et træ $som var$ godt{T: Ordret >>tiltrækkende<<.}
+//5 at få forstand af.
+//2 Hun tog af dets frugt
+//2 og spiste
+//2 og gav også frugten til sin mand $som var$ hos hende,
+//3 og han spiste. 
+//1 v7 Da åbnedes begges øjne,
+//2 og de erkendte{T: Det samme ord bruges om >>kende<< i v. 5.}
+//3 at de var nøgne.
+//2 De syede så figenblade sammen
+//2 og lavede lændeklæder.
+//2 v8 Så hørte de lyden af Gud HERREN
+//4 som vandrede i haven da dagen blev kølig.{T: Ordret >>ved dagens brise<< der refererer til den sene eftermiddags kølige brise.}
+//3 Da skjulte mennesket og hans kone sig for Gud HERREN blandt havens træer.
 
-v1 Slangen var mere snu end alle markens vilde dyr som Gud HERREN havde skabt, og den sagde til kvinden: >>Har Gud virkelig sagt: >I må ikke spise af noget træ i haven?<<<
-v2 Da sagde kvinden til slangen: >>Vi må spise af frugterne på havens træer; v3 men om frugten af det træ som står midt i haven, sagde Gud: >I må ikke spise af den og ikke røre ved den, ellers skal I dø.<<<
-v4 Da sagde slangen til kvinden: >>I skal bestemt ikke lide døden; 
-v5 men Gud ved at den dag I spiser af det, vil jeres øjne blive åbnet, og I vil blive ligesom Gud og kende godt og ondt.<<
-v6 Kvinden så at træet var godt at spise af; det så dejligt ud, og det var et træ som var godt at få forstand af. Hun tog af dets frugt og spiste; og hun gav også frugten til sin mand, og han spiste. 
-v7 Da åbnedes begges øjne, og de erkendte at de var nøgne. De syede så figenblade sammen og lavede lændeklæder.
-v8 Så hørte de lyden af Gud HERREN, han gik i haven da dagen blev kølig. Da skjulte Adam og hans kone sig for Gud HERREN blandt havens træer.
+***
 
-==Gud forkynder slangen, kvinden og manden deres respektive straf og lover at kvindens afkom skal knuse slangens hoved==
+//3 v9 Gud HERREN kaldte på mennesket
+//4 og sagde til ham:
+//5 >>Hvor er du?<<
+//4 v10 Han sagde:
+//5 >>Jeg hørte dig{T: Ordret >>din lyd<<.} i haven
+//6 og blev bange;
+//7 for jeg var nøgen,
+//6 og jeg skjulte mig.<<
+//4 v11 Han sagde:
+//5 >>Hvem har fortalt dig
+//7 at du var nøgen?
+//6 Har du spist af det træ
+//8 som jeg forbød dig
+//9 at spise af?<<
+//7 
+//3 v12 Mennesket sagde:
+//4 >>Kvinden,
+//6 som du satte hos mig,
+//5 hun gav mig af træet,
+//6 og så spiste jeg.<<
+//3 v13 Da sagde Gud HERREN til kvinden:
+//4 >>Hvad har du gjort?<<
+//3 Og kvinden sagde:
+//4 >>Det var slangen som forførte mig,
+//5 og så spiste jeg.<<
+//3 v14 Da sagde Gud HERREN til slangen:
 
-v9 Gud HERREN kaldte på Adam og sagde til ham: >>Hvor er du?<<
-v10 Han sagde: >>Jeg hørte dig i haven og blev bange, for jeg var nøgen, så jeg skjulte mig.<<
-v11 Han sagde: >>Hvem har fortalt dig at du var nøgen? Har du spist af det træ som jeg forbød dig at spise af?<<
-v12 Adam sagde: >>Kvinden, som du gav mig til at være hos mig, hun gav mig af træet, og så spiste jeg.<<
-v13 Da sagde Gud HERREN til kvinden: >>Hvorfor har du gjort dette?<< Og kvinden sagde: >>Slangen forførte mig, og så spiste jeg.<<
-v14 Da sagde Gud HERREN til slangen: >>Fordi du gjorde dette, skal du være forbandet blandt alt kvæget og blandt alle markens vilde dyr; du skal krybe på bugen og æde støv alle dit livs dage. 
-v15 Og jeg vil sætte fjendskab imellem dig og kvinden og imellem dit afkom og hendes afkom. Han skal knuse dit hoved, men du skal knuse hans hæl.<<
-v16 Til kvinden sagde han: >>Jeg vil gøre graviditet meget byrdefuld for dig, med smerte skal du føde børn; og du skal begære din mand, men han skal herske over dig.<<
-v17 Og til Adam sagde han: >>Fordi du adlød din kones stemme og spiste af det træ, om hvilket jeg havde påbudt dig: >Du må ikke spise af det,< skal jorden være forbandet for din skyld. Med besvær skal du spise af den alle dit livs dage, 
-v18 og den skal give{T: Ordret: >>lade gro<<.} dig torn og tidsel, og du skal spise markens planter.
-v19 I dit ansigts sved skal du spise dit brød indtil du bliver til jord igen, for af den er du taget; du er nemlig støv, og du skal blive til støv igen.<<
+//5 >>Fordi du har gjort dette:
+
+//6 Forbandet{T: Der er ordspil mellem >>forbandet<< og >>snu<< i v. 1.} skal du være, mere end alt kvæget og alle markens vilde dyr;
+
+//7 på din bug skal du krybe,
+
+//8 og støv skal du æde alle dit livs dage. 
+
+//9 v15 Jeg vil sætte fjendskab imellem dig og kvinden og imellem dit afkom og hendes afkom.
+
+//10 Han skal knuse{E: Verbet *šwf* forekommer kun to gange i dette vers og i to andre poetiske passager (Sl 139,11; Job 9,17), og betydningen er vanskelig at udlede. Oversættelsen bygger på den lignende rod *šʔf*, der kan betyde >>knuse<< (fx Am 2,7) eller >>snappe efter vejret<< (fx Jer 14,6).} dit hoved;
+
+//11 du skal knuse hans hæl.<<
+
+***
+
+//4 v16 Til kvinden sagde han:
+
+//6 >>Jeg vil gøre dine graviditetssmerter{T: Ordret >>dine smerter og dine graviditeter<<.} talrige,
+
+//7 i smerte skal du føde børn;
+
+//8 du skal begære din mand,{T: Ordret >>til din mand skal dit begær  være<<.}
+
+//9 $men$ han skal regere over dig.<<
+
+***
+
+//5 v17 Og til Adam{E: Dette er sandsynligvis første gang, Adam nævnes med navn. Tidligere steder hvor *ʔādām* står i ubestemt form, er 1 Mos 1,26; 2,5; 2,20. Se også noten til 1 Mos 2,7.} sagde han:
+
+//7 >>Fordi du adlød din kones stemme
+
+//9 og spiste af det træ,
+
+//10 om hvilket jeg havde påbudt dig
+
+//11 :
+
+//12: >Du må ikke spise af det<:
+
+//8 Forbandet skal agerjorden være på grund af dig.
+
+//9 Med besvær{T: Ordret >>i smerte<<.} skal du spise $af$ den alle dit livs dage; 
+
+//12 v18 tjørn og tidsel skal den lade spire frem,
+
+//11 og du skal spise markens urter.
+
+//10 v19 I dit ansigts{T: Ordret >>næses<<.} sved skal du spise $dit$ brød 
+
+//12 indtil du vender tilbage til agerjorden,
+
+//11 for af den er du taget;
+
+//12 du er nemlig støv,
+
+//13 og til støvet skal du vende tilbage.<<
+
+==Uddrivelsen af Edens have==
+
+//6 v20 Mennesket kaldte sin kone Eva,
+//7 for hun blev mor til alt levende.{T: På hebraisk er der ordspil mellem *Eva* og *levende*.}
+//3 v21 Gud HERREN lavede kjortler af skind til Adam og hans kone
+//4 og klædte dem på.
+//1 v22 Og Gud HERREN sagde:
+//2 >>Se, mennesket er blevet som en af os
+//4 til at kende godt og ondt;
+//3 nu, 
+//4 for at han ikke skal kunne række sin hånd ud
+//5 og også tage af livets træ
+//5 og spise $af det$
+//5 og leve evigt -<< 
+//1 v23 $Derfor$ forviste Gud HERREN ham fra Edens have
+//3 til at dyrke agerjorden
+//4 som han var taget af.
+//2 v24 Han drev mennesket ud,
+//2 og øst for Edens have opstillede han keruber med sværd der flammede
+//4 og lynede,{T: Ordret >>drejende<< eller >>vendende<<. Der kan være tale om et flammende svær der skyder zigzag lyn ud.}
+//3 til at bevogte vejen til livets træ.
+

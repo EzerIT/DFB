@@ -1,0 +1,98 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 12.06.2023>!!
+
+===Job, kapitel 23===
+
+
+==Job ønsker at fremlægge sin sag for Gud==
+
+
+//0 v1 Da svarede Job
+//1 :
+
+//2 v2 >>Også i dag er min klage et oprør,{T: Kan oversættes >>bitter<<, Sml. Job 7,11.}
+
+//5 min hånd ligger tungt på mit suk.{E: Job prøver at undgå at sukke. En del oversættelser ændrer vokaliseringen af *yādî* (min hånd) til *yādô* (hans, Guds hånd) og oversætter *ʕal*(på) med >>til trods for<<.}
+
+//4 v3 Gid{T: Ordret: >>Hvem vil give at<<.} 
+//5 jeg vidste
+//7 hvor jeg skulle finde ham
+
+//6 og komme til hans bolig!
+
+//8 v4 Jeg ville fremlægge min sag for ham
+
+//9 og fylde min mund med argumenter.
+
+//8 v5 Jeg ville komme til at kende de ord
+//11 han ville svare mig med,
+
+//10 og forstå
+//11 hvad han ville sige til mig.
+
+//9 v6 Ville han med stor magt strides med mig?
+
+//10 Nej,
+//11 han ville vise mig opmærksomhed.
+
+//7 v7 Da ville en retskaffen mand gå i rette med ham,
+
+//8 og jeg ville for altid være erklæret uskyldig{T: Ordret: >>udfriet fra<<.} af min dommer.
+
+
+==Guds veje er uransagelige, og Job er bange for Gud==
+
+
+//3 v8 Se, går jeg mod øst{T: Ordret: >>fremad<<. Nogle oversættelser vælger den bogstavelige tilgang.}
+//8 er han der ikke,
+
+//7 og mod vest,{T: Ordret: >>tilbage<<.}
+//8 bemærker jeg ham ikke; 
+
+//6 v9 mod nord,{T: Ordret: >>til venstre<<.}
+//9 når han arbejder,
+//8 er han ikke at se,{T: Ordret: >>gribe fat i<<, >>begribe<<.} 
+
+//7 vender{E: *yaʕṭōf* er 3MSg, men nogle oversætter >>jeg<<. Andre oversætter verbet med >> han skjuler sig<< og oversættelsen bliver: >>skjuler han sig mod syd, ser jeg ham ikke<<.} han mod syd{T: Ordret: >>til højre<<.}
+//8 ser jeg ham ikke.
+
+//5 v10 Men han kender den vej som ligger foran mig.{T: >>med mig<<.}
+
+//8 Prøv mig,
+//9 og jeg kommer ud som guld!
+/
+/7 v11 Min fod har fulgt nøje{T: Ordret: >>gribe fat i<<.} i hans fodspor,
+
+//8 jeg har holdt mig til hans vej
+//9 og bøjede ikke af derfra.
+
+//6 v12 Jeg er ikke veget fra hans munds befaling,
+//8
+
+//7 jeg har bevaret ordene fra hans mund mere end min egen lov.{T: Ordret: >>min del<<.}
+
+//4 v13 Han er virkelig den ene,{T: Ordret: >>Han i en<<, kan oversættes: >>Han står fast ved et<<, nogle oversætter: >>Han er uforanderlig<<.}
+//8 og hvem kan forandre ham?{T: Ordret: >>bringe tilbage<<.}
+
+//7 Hvad hans hjerte ønsker,
+//8 det gør han.
+
+//6 v14 Han gennemfører det han har bestemt for mig,
+
+//8 og af dette er der meget hos ham. 
+
+//7 v15 Derfor er jeg forfærdet i hans nærvær;
+
+//9 tænker jeg over det,
+//8 er jeg bange på grund af ham.
+
+//5 v16 Gud har gjort mit hjerte ængsteligt,
+
+//6 den Almægtige har forfærdet mig.
+
+//7 v17 Dog er jeg ikke blevet knust{E: Oversættelsen er vanskelig. Nogle oversætter verbet *niṣmattî*(blevet knust) med >>blevet tavs<<, og derfor taler Job. Andre oversætter *kî* med >>visselig<< og *lōˀ* ikke som en nægtelse, men som et emfatisk udtryk, så oversættelsen bliver: >>Visselig, jeg er virkelig blevet ødelagt ved mørket<<} på grund af mørket,
+
+//8 selvom det dybeste mørke skjuler mit ansigt.

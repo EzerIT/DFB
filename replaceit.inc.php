@@ -240,6 +240,9 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
         $from[] = '/@([^@]+)@/';
         $to[] = '<h2>\1</h2>';
     }
+
+    $from[] = '/\$([^\$]*)\$/';
+    $to[] = '<span class="added">\1</span>';
  
     $from[] = '/--/';
     $to[] = '&ndash;';
