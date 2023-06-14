@@ -19,6 +19,7 @@ setifpost('showfnblock');
 setifpost('oneline');
 setifpost('linespace');
 setifpost('exegetic');
+setifpost('markadded');
 setifpost('font');
 
 if (isset($_POST['godsname'])) {

@@ -16,5 +16,6 @@
    setdefault('oneline',    'off');
    setdefault('linespace',  'off');
    setdefault('exegetic',   'off');
+   setdefault('markadded',  'off');
    setdefault('godsname',   'HERREN');
    setdefault('font',       'Helvetica');

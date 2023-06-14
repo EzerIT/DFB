@@ -87,6 +87,12 @@ makemenus(1);
               </label>
             </div>
 
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" name="markadded" <?= showchecked('markadded') ?>> Markér tilføjet tekst med [kantede parenteser] (kun visse kapitler)
+              </label>
+            </div>
+
             <div class="form-group">
               <label for="godsname">Guds navn:</label>
               <select name="godsname" id="godsname">

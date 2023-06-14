@@ -242,7 +242,10 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
     }
 
     $from[] = '/\$([^\$]*)\$/';
-    $to[] = '<span class="added">\1</span>';
+    if ($_SESSION['markadded']=='on')
+        $to[] = '<span class="added">\1</span>';
+    else
+        $to[] = '\1';
  
     $from[] = '/--/';
     $to[] = '&ndash;';
