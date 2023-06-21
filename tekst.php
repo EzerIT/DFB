@@ -87,16 +87,18 @@ makemenus(2);
                 <?php
                 $d = dir("ordforkl");
                 $files = [];
-                while (false !== ($entry = $d->read()))
+                while (false !== ($entry = $d->read())) {
                     if (substr($entry,-5)==='.html')
-                        $files[] = $entry;
-
+                        $files[] = substr($entry,0,-5);
+                    elseif (substr($entry,-4)==='.txt')
+                        $files[] = substr($entry,0,-4);
+                }
                 $d->close();
 
                 sort($files);
 
                 foreach ($files as $f) {
-                    $link = strtoupper($f[0]) . substr($f,1,-5);
+                    $link = strtoupper($f[0]) . substr($f,1);
                     echo "<li><a href=\"ordforklaring.php?ord=$link\">$link</a></li>";
                 }
                 ?>
@@ -115,16 +117,18 @@ makemenus(2);
                         <?php
                         $d = dir("ordforkl");
                         $files = [];
-                        while (false !== ($entry = $d->read()))
+                        while (false !== ($entry = $d->read())) {
                             if (substr($entry,-5)==='.html')
-                                $files[] = $entry;
-
+                                $files[] = substr($entry,0,-5);
+                            elseif (substr($entry,-4)==='.txt')
+                                $files[] = substr($entry,0,-4);
+                        }
                         $d->close();
 
                         sort($files);
 
                         foreach ($files as $f) {
-                            $link = strtoupper($f[0]) . substr($f,1,-5);
+                            $link = strtoupper($f[0]) . substr($f,1);
                             echo "<li><a href=\"ordforklaring.php?ord=$link\">$link</a></li>";
                         }
                         ?>

@@ -6,7 +6,6 @@
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('replaceit.inc.php');
-require_once('oversigt.inc.php');
 
 
 // $minchap: Minimum chapter number
@@ -53,51 +52,7 @@ function pagination($book, $kapitel) {
     echo "  </div>\n";
 }
 
-function formatref($ref) {
-    global $deabbrev, $chap;
 
-    $links = '';
-    
-    $offset = 0;
-    while (preg_match('/((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+)(,([0-9]+)(-([0-9]+))?)?)([;\.]\s*)?/',
-                      // Matches:
-                      // 0: Everything
-                      // 1: ((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
-                      // 2: (([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)
-                      // 3: ([1-5]+ )?
-                      // 4: ([0-9]+)  - Chapter
-                      // 5: (,([0-9]+)(-([0-9]+))?)?
-                      // 6: ([0-9]+)  - 'From' verse
-                      // 7: (-([0-9]+))?
-                      // 8: ([0-9]+)  - 'To' verse
-                      // 9: ([;\.]\s*)?
-                      $ref,
-                      $matches,
-                      PREG_OFFSET_CAPTURE,
-                      $offset)) {
-
-        if (!isset($deabbrev[$matches[2][0]]) || !in_array($matches[4][0],$chap[$deabbrev[$matches[2][0]]]))
-            $links .= $matches[0][0];
-        else {
-            $links .= '<a href="show.php?bog='
-                    . $deabbrev[$matches[2][0]]
-                    . "&kap=" . $matches[4][0];
-
-            if (!empty($matches[6][0])) {
-                // 'From' verse is set
-                $links .=  "&fra=" . $matches[6][0]
-                         . "&til=" . (!empty($matches[8][0]) ? $matches[8][0] : $matches[6][0]);
-            }
-            
-            $links .= '">'
-                    . $matches[1][0] . '</a>'
-                    . (isset($matches[9]) && !empty($matches[9][0]) ? $matches[9][0] : '.');
-        }
-        $offset = $matches[4][1];
-                
-    }
-    return $links;
-}
 
 
 if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
@@ -317,7 +272,7 @@ makemenus(null);
                       <div class="card-body">
                           <small>
                           <?php foreach ($references as $v => $ref): ?>
-                              <?php $format_ref = formatref($ref); ?>
+                              <?php $format_ref = formatref($ref,'.',false); ?>
                               v<?= $v?>: <?= $format_ref ?><br>
                           <?php endforeach; ?>
                           </small>

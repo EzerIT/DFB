@@ -23,7 +23,11 @@ mb_internal_encoding('UTF-8');
               <?php elseif (strstr($_GET['ord'],'/')): ?>
                   <p class="card-text bg-warning">Ulovlig parameter.</p>
               <?php else: ?>
-                  <?php $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.txt'; ?>
+                  <?php
+                      $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.txt';
+                      if (!file_exists($file))
+                          $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.html';
+                  ?>
                   <?php if (!file_exists($file)): ?>
                       <p class="card-text bg-warning">Ordforklaring findes ikke.</p>
                   <?php else: ?>

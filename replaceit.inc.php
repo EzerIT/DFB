@@ -1,5 +1,54 @@
 <?php
+require_once('oversigt.inc.php');
 
+
+function formatref($ref,$endchar,$target_blank) {
+    global $deabbrev, $chap;
+
+    $links = '';
+    
+    $offset = 0;
+    while (preg_match('/((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+)(,([0-9]+)(-([0-9]+))?)?)([;\.]\s*)?/',
+                      // Matches:
+                      // 0: Everything
+                      // 1: ((([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
+                      // 2: (([1-5]+ )?[A-ZÆØÅ][a-zæøå]+)
+                      // 3: ([1-5]+ )?
+                      // 4: ([0-9]+)  - Chapter
+                      // 5: (,([0-9]+)(-([0-9]+))?)?
+                      // 6: ([0-9]+)  - 'From' verse
+                      // 7: (-([0-9]+))?
+                      // 8: ([0-9]+)  - 'To' verse
+                      // 9: ([;\.]\s*)?
+                      $ref,
+                      $matches,
+                      PREG_OFFSET_CAPTURE,
+                      $offset)) {
+
+        if (!isset($deabbrev[$matches[2][0]]) || !in_array($matches[4][0],$chap[$deabbrev[$matches[2][0]]]))
+            $links .= $matches[0][0];
+        else {
+            $links .= '<a '
+                    . ($target_blank ? 'target="_blank" ' : '')
+                    . 'href="show.php?bog='
+                    . $deabbrev[$matches[2][0]]
+                    . "&kap=" . $matches[4][0];
+
+            if (!empty($matches[6][0])) {
+                // 'From' verse is set
+                $links .=  "&fra=" . $matches[6][0]
+                         . "&til=" . (!empty($matches[8][0]) ? $matches[8][0] : $matches[6][0]);
+            }
+            
+            $links .= '">'
+                    . $matches[1][0] . '</a>'
+                    . (isset($matches[9]) && !empty($matches[9][0]) ? $matches[9][0] : $endchar);
+        }
+        $offset = $matches[4][1];
+                
+    }
+    return $links;
+}
 
 function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_verse) {
     $txt = file_get_contents($filename);
@@ -302,29 +351,33 @@ function replaceit($filename, $chapter, &$title, &$credit, $from_verse, $to_vers
 function replaceit_ordforkl($filename) {
     $txt = file_get_contents($filename);
 
-    if (preg_match('/"/',$txt)) {
-        echo "<h1>Fejl</h1>\n";
-        echo "<p>Tekst indeholder dobbelt citationstegn.</p>\n";
-        die;
+    if (substr($filename, -strlen('.txt'))==='.txt') { // PHP 8: str_ends_with($filename,'.txt')
+        if (preg_match('/"/',$txt)) {
+            echo "<h1>Fejl</h1>\n";
+            echo "<p>Tekst indeholder dobbelt citationstegn.</p>\n";
+            die;
+        }
+
+        $from[] = '/>>>/';
+        $to[] = '»›';
+
+        $from[] = '/<<</';
+        $to[] = '‹«';
+
+        $from[] = '/>>/';
+        $to[] = '»';
+
+        $from[] = '/<</';
+        $to[] = '«';
+
+        $from[] = '/>/';
+        $to[] = '›';
+
+        $from[] = '/</';
+        $to[] = '‹';
     }
-
-    $from[] = '/>>>/';
-    $to[] = '»›';
-
-    $from[] = '/<<</';
-    $to[] = '‹«';
-
-    $from[] = '/>>/';
-    $to[] = '»';
-
-    $from[] = '/<</';
-    $to[] = '«';
-
-    $from[] = '/>/';
-    $to[] = '›';
-
-    $from[] = '/</';
-    $to[] = '‹';
+    // If file does not end in ".txt", it is assumed to contain HTML, although the following
+    // replacements still take place
 
     $from[] = '/\'/';
     $to[] = '&rsquo;';
@@ -411,5 +464,12 @@ function replaceit_ordforkl($filename) {
     $from[] = '/\.\.\./';
     $to[] = '…';
 
-    return '<div class="explain">' . preg_replace($from, $to, $txt) . '</div>';
+    $txt = preg_replace($from, $to, $txt);
+
+    $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',
+                                 function ($matches) {
+                                     return formatref($matches[1],'',true);
+                                 }, $txt);
+
+    return '<div class="explain">' . $txt . '</div>';
 }
