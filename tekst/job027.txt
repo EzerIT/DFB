@@ -10,7 +10,7 @@
 ==Jobs visdomstale: Job holder fast ved sin uskyld og ret==
 
 
-//0 v1{T: Vi skulle forvente at Sofar kom med sin tredje tale, men den udeblev. Derfor fremsætter Job nu sine to visdomstaler, Job 27-28 og Job 29-31.} Job fortsatte
+//0 v1 Job fortsatte
 //2 sin visdomstale{E: *māšāl* betyder >>ordsprog<<, >>lignelse<<. Jobs bog hører til visdomslitteraturen i GT.}
 //1 og sagde:
 
@@ -44,13 +44,13 @@
 ==Den ugudelige får sin straf af Gud, og han mister alt==
 
 
-//3 v7{T: En forbandelse men ikke en påstand. Den udtrykker Jobs forsatte tro på Guds retfærdighed jf. F. Andersen.} Må min fjende stå som en ugudelig,
+//3 v7 Må min fjende stå som en ugudelig,
 
 //6 og den der rejser sig imod mig, som en uretfærdig.
 
 //5 v8 For hvad er den gudløses håb,{T: Det står i kontrast til det håb som Job har udtalt i Job 17,1-4, 13-16 og Job 19,25-27.}
 
-//7 når Gud{T: Gud er tilføjet.} skærer ham af,
+//7 når Gud skærer ham af,
 //8 og når han tager hans liv?{T: Ordret: >>hans sjæl<<.}
 
 //6 v9 Hører Gud mon hans skrig,
