@@ -1,0 +1,123 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 29.06.2023>!!
+
+===Job, kapitel 27===
+
+
+==Jobs visdomstale: Job holder fast ved sin uskyld og ret==
+
+
+//0 v1{T: Vi skulle forvente at Sofar kom med sin tredje tale, men den udeblev. Derfor fremsætter Job nu sine to visdomstaler, Job 27-28 og Job 29-31.} Job fortsatte
+//2 sin visdomstale{E: *māšāl* betyder >>ordsprog<<, >>lignelse<<. Jobs bog hører til visdomslitteraturen i GT.}
+//1 og sagde:
+
+//2 v2{T: Vers 2-5 er en ed.} >>Så sandt Gud lever,
+//6 han som har taget min ret fra mig,
+
+//5 og den Almægtige
+//6 som har forbitret mit liv,{T: Ordret: >>sjæl<<.}
+
+//4 v3 ja, lige så længe min livsånde er i mig,
+
+//6 og Gud ånd er i min næse,
+
+//5 v4{E: Vers 4 begynder med *ʔim*, der udtrykker begyndelsen på indholdet af selve eden(vers 4-5).} skal mine læber hverken tale uret
+
+//7 eller min tunge
+//8 ytre svig! 
+
+//6 v5 Det være langt fra mig{T: En ny edsformular af Job her i betydningen: >>Må jeg være forbandet, hvis jeg giver jer ret<<.} 
+//7 at give jer{T: De tre venner.} ret.
+
+//8 Indtil jeg udånder,
+//9 vil jeg ikke opgive min uskyld!{T: Se Job 2,3 og Job 31,6.}
+
+//11 v6 Jeg holder fast på{E: *heḥᵉzaqt* er det samme verbum som Gud bruger om Job i Job 2,3.} min ret{E: *ṣidqātî* kan også oversættes >>min retfærdighed<<. Men sammenlignet med vers 5 er oversættelsen >>ret<< den mest oplagte. Der er en dobbelthed i ordet som må fastholdes: Jeg har ret, fordi jeg er retfærdig.} 
+//12 og giver ikke slip på den,
+
+//10 mit hjerte{T: Dvs. >>min samvittighed<<} bebrejder mig ikke for mine dage.
+
+
+==Den ugudelige får sin straf af Gud, og han mister alt==
+
+
+//3 v7{T: En forbandelse men ikke en påstand. Den udtrykker Jobs forsatte tro på Guds retfærdighed jf. F. Andersen.} Må min fjende stå som en ugudelig,
+
+//6 og den der rejser sig imod mig, som en uretfærdig.
+
+//5 v8 For hvad er den gudløses håb,{T: Det står i kontrast til det håb som Job har udtalt i Job 17,1-4, 13-16 og Job 19,25-27.}
+
+//7 når Gud{T: Gud er tilføjet.} skærer ham af,
+//8 og når han tager hans liv?{T: Ordret: >>hans sjæl<<.}
+
+//6 v9 Hører Gud mon hans skrig,
+
+//8 når nød kommer over ham?
+
+//7 v10 Glæder han sig i den Almægtige,
+
+//8 kalder han til enhver tid på Gud?
+
+//4 v11 Jeg vil undervise jer om Guds hånd,
+
+//7 det som er hos den Almægtige,
+//6 skjuler jeg ikke. 
+
+//5 v12 Se, I har jo
+//7 alle sammen set{E: *ḥᵃzîtem* betyder >>skue<< og er det samme verbum som Job bruger i Job 19,14 om at skue Gud.} det,
+
+//8 hvorfor er jeres tale da så fuldstændig tom?
+
+//6 v13 Dette er det ugudelige menneskes lod hos Gud,
+
+//8 en arv voldsmændene
+//9 får af den Almægtige.
+
+//7 v14 Bliver hans sønner talrige,
+//10 er det til{E: *lᵊmô* er  en poetisk form for *lᵊ*, der forekommer i Job 29,21, Job 38,40 og Job 40,4.} sværd,{T: Dvs. de skal falde for sværdet.}
+
+//11 og hans efterkommere bliver ikke mætte af brød.
+
+//9 v15 De der overlever ham, lægges i graven af døden,{T: Kan oversættes ved >>pesten<<.}
+
+//10 og hans enker græder ikke mere.
+
+//8 v16 Skønt han samler sølv som støv
+
+//10 og skaffer sig tøj som ler,
+
+//9 v17 - han skaffer sig det -
+//12 så ifører den retfærdige{T: Kollektivt.} sig det,
+
+//13 og den der er uden skyld,{E: *nāqî* betyder >>ren<<.} fordeler sølvet.
+
+//11 v18 Han bygger sit hus ligesom et møl,{T: Sml. Bildads tale om den gudløse Job 8,14-15.}
+
+//12 som en løvhytte,{T: Ordret >>hytte<<.} en vagtmand laver.
+
+//10 v19 Rig lægger han sig,
+//13 men samler sig ikke mere,
+
+//12 han åbner sine øjne,
+//13 og der er intet.
+
+//11 v20 Som vand indhenter  rædslerne ham,
+
+//13 om natten stjæler en stormvind ham.
+
+//12 v21 En østenvind bærer ham,
+//14 og han går bort,
+
+//15 den hvirvler ham væk fra hans sted.
+
+//16 v22 Lad ham{T: >>Gud<< set i lyset af vers 13, andre mener det er >>stormen<<. Et udtryk for tekstens dobbelthed. Dette dobbelte lag findes mange steder i Jobs bog.} kaste sig over ham
+//17 uden at skåne ham;
+
+//13 han flygter{E: *yivrāḥ* er en yiqtol der forstærkes ved at blive gentaget af samme verbum i infinitiv absolute *bārôₐḥ*.} alt hvad han kan, fra hans hånd.
+
+/14 v23 Man klapper i hænderne{T: Ordret: >>sine hænder<<. Her er det ment spottende.} over ham
+
+//15 og pifter ham væk fra hans sted.

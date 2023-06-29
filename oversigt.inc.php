@@ -9,7 +9,7 @@ $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
 $chap['2kong']    = [5];
-$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,32,33,34,35,36,37,38,42];
+$chap['job']      = [1,2,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,32,33,34,35,36,37,38,42];
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
@@ -184,13 +184,11 @@ $style['2sam']    = $modenhed['ufuldstændigt'];
 $style['2kong']   = $modenhed['ufuldstændigt'];
 
 $style['job']     = array();
-for ($k=1; $k<=42; ++$k)
-    $style['job'][$k] = $modenhed['ufuldstændigt'];
-
-for ($k=32; $k<=37; ++$k)
-    $style['job'][$k] = $modenhed['rå oversættelse'];
 $style['job'][1] = $modenhed['delvis færdig'];
 $style['job'][2] = $modenhed['delvis færdig'];
+//$style['job'][3] = $modenhed['ufuldstændigt'];
+//$style['job'][4] = $modenhed['ufuldstændigt'];
+$style['job'][5] = $modenhed['ufuldstændigt'];
 $style['job'][6] = $modenhed['delvis færdig'];
 $style['job'][7] = $modenhed['delvis færdig'];
 $style['job'][8] = $modenhed['delvis færdig'];
@@ -212,6 +210,21 @@ $style['job'][23] = $modenhed['delvis færdig'];
 $style['job'][24] = $modenhed['delvis færdig'];
 $style['job'][25] = $modenhed['delvis færdig'];
 $style['job'][26] = $modenhed['delvis færdig'];
+$style['job'][27] = $modenhed['delvis færdig'];
+$style['job'][28] = $modenhed['delvis færdig'];
+$style['job'][29] = $modenhed['delvis færdig'];
+$style['job'][30] = $modenhed['delvis færdig'];
+//$style['job'][31] = $modenhed['delvis færdigt'];
+$style['job'][32] = $modenhed['rå oversættelse'];
+$style['job'][33] = $modenhed['rå oversættelse'];
+$style['job'][34] = $modenhed['rå oversættelse'];
+$style['job'][35] = $modenhed['rå oversættelse'];
+$style['job'][36] = $modenhed['rå oversættelse'];
+$style['job'][37] = $modenhed['rå oversættelse'];
+$style['job'][38] = $modenhed['ufuldstændigt'];
+//$style['job'][39] = $modenhed['ufuldstændigt'];
+//$style['job'][40] = $modenhed['ufuldstændigt'];
+//$style['job'][41] = $modenhed['ufuldstændigt'];
 $style['job'][42] = $modenhed['delvis færdig'];
 
 

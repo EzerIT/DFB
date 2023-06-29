@@ -1,0 +1,124 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 29.06.2023>!!
+
+===Job, kapitel 29===
+
+
+==Job ser tilbage på den lykkeligste tid velsignet af Gud==
+
+
+//0 v1 Job fortsatte
+//2 med at fremføre sin visdomstale
+//1 og sagde:
+
+//2 v2 >>Gid{T: Ordret: >>Hvem vil give mig, at<<.} jeg havde det som i de måneder der er gået, som i de dage
+
+//5 Gud beskyttede mig!
+
+//7 v3 Da han lod sin lampe skinne over mit hoved,
+
+//6 og jeg gik i mørket ved hans lys.
+
+//4 v4 Sådan som jeg var i mine velmagtsdage,{T: Ordret: >>høsttids dage<<, >>frugtbare dage<<.} 
+
+//5 da Gud var en fortrolig ven{E: *sôd* kan betyde >>råd<<, >>værende nær ven<< eller >>sikrede<<, da der er forskellige forslag til den egentlige rod i det hebraiske ord.} i mit telt,
+
+//6 v5 da den Almægtige stadig var med mig,
+
+//8 og mine drenge var omkring mig,
+
+//7 v6 da mine skridt var badet i surmælk,{T: Sml. Job 21,17.}
+
+//9 og klippen hældte bække af olie{T: Figurativt for overflod af velstand.} ud til mig.
+
+//8 v7 Når jeg gik ud til byporten
+
+//9 og sikrede  min plads på torvet,
+
+//3 v8 så de unge mig
+//9 og trak sig tilbage,
+
+//8 de ældre{E: *yšîšîm* findes kun i Jobs bog.} rejste sig
+//10 og blev stående.
+
+//9 v9 Høvdingene holdt ordene tilbage,
+
+//11 og hånden lagde de på deres mund.
+
+//10 v10 Stormændenes røst forstummede,
+
+//11 og deres tunge klæbede til deres gane.
+
+//7 v11 Når øret hørte,
+//9 velsignede det mig,
+ 
+//8 når øjet så,
+//9 anbefalede{T: Kan oversættes >>roste<<.} det mig.
+
+//6 v12 Fordi jeg udfriede den fattige
+//8 der råbte om hjælp,
+
+//9 og den faderløse
+//10 der ikke havde nogen til at hjælpe sig.
+
+//7 v13 Da kom den døendes velsignelse over mig,
+
+//8 og jeg fik enkens hjerte til at juble af glæde.
+
+//5 v14 Jeg iklædte mig retfærdighed,{E: *ṣedeq* betyder >>retfærdighed<< og >>ret<<. Betegnelsen bruges her om personens karakter og moral og betyder >>jeg er retfærdig<<. Se note i vers 14b.}
+//8 og den var min klædning,{T: Ordret: >> den iklædte sig mig<<.}
+
+//7 min ret{E: *mišpāṭî* betyder >>retfærdighed<< og >>ret<<. *ṣedeq* og *mišpāṭî* har her i vers 14 samme betydning.} var som en kappe og en turban.{T: Ypperstepræsten var iført en turban og en kappe (efoden). Se 2 Mos 29,5-6, Zak 3,5.}
+
+//8 v15 Jeg var øjne for den blinde;
+
+//10 fødder for den lamme, det var jeg.
+
+//9 v16 Jeg var far for de nødlidende,
+
+//10 den ukendte sag{T: Ordret: >>Sagen jeg ikke kendte<<.}
+//13
+//12 undersøgte jeg nøje.
+
+//11 v17 Jeg brækkede tænderne på den uretfærdige{T: Figurativt ment.}
+//12 og rev byttet fra hans tænder.
+
+//6 v18 Og jeg sagde til mig selv:{T: >>til mig selv<< er tilføjet.}
+//7 >Sammen med min rede{T: Job sammenligner sit hus med en rede, se 5 Mos 32,11, Es 16,2.} skal jeg dø,
+
+//9 og mine dage skal jeg gøre så talrige som sandet.{E:*ḥôl*, LXX gengiver ordet med foinix som i denne sammenhæng betyder >>palmetræ<< og oversætter: >>som stammen af et palmetræ, skal jeg leve længe<<. Andre oversætter det hebraiske ord med >>Føniks<<, fuglen der levede længe, døde og opstod igen af asken. Her er tænkt på det lange liv fremfor opstandelsen.}
+
+//8 v19 Min rod bliver åbnet for vand,
+
+//10 og duggen overnatter på mine grene.{T: Sl. Job 14,7.} 
+
+//9 v20 Min ære vil være frisk hos mig,
+
+//10 og min bue vil blive fornyet i min hånd.<
+
+//4 v21 Folk{T: Ordret: >>De<<.} lyttede til mig
+//6 forventningsfuldt,
+
+//7 de stod stille og hørte på mit råd.
+
+//5 v22 Efter mine ord{T: Ental} tog de ikke til genmæle,
+
+//8 min tale faldt som dråber{T: Dvs. dråbe for dråbe som velgørende regn.} på dem.
+
+//7 v23 De ventede på mig som på regn,
+
+//8 deres mund åbnede de vidt op for forårsregn.
+
+//6 v24 Når jeg smilede til dem,
+//8 kunne de ikke tro mig,{T: Overvældet af den ære Job vist dem, kunne de næsten ikke tro det.}
+
+//7 og de lod ikke lyset fra mit ansigt blive formørket.{T: Ordret: >>falde<<, dvs. de gjorde ikke Job misfornøjet.}
+
+//6 v25 Jeg valgte vejen for dem,
+//7 og jeg sad som deres leder,
+
+//8 jeg boede som en konge blandt sine tropper
+//9 og var som en der trøster de sørgende.

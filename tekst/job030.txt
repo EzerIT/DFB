@@ -1,0 +1,168 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 29.06.2023>!!
+
+===Job, kapitel 30===
+
+
+==Job ydmyges af samfundets udskud==
+
+
+//0 v1 Men nu ler de ad mig,
+
+//3 de som er yngre end jeg i år,
+
+//4 hvis fædre jeg ville have fundet for ringe{T: Der ligger foragt og ringeagt i verbet.}
+
+//5 til at sætte sammen med mine hyrdehunde.
+
+//3 v2 Hvad skulle også deres hænders kraft have gavnet mig
+//2 
+
+//3 når styrken er forsvundet fra dem?
+
+//7 v3 Nød og sult har udmagret dem,
+
+//6 det er dem der afgnaver{E: *ʕōrᵊqîm*, nogle oversætter >>flakker omkring<<, andre tilføjer >>(afgnaver)rødder<<.} ørkenen
+
+//7 der om natten{E: *ʔemeš* >>i går<<, >>sidste nat<<, oversættelsen er usikker og vanskelig, og der er talrige forslag.} er ruin og ødelæggelse.
+
+//5 v4 Det er dem der plukker mælde{T: En salturt.} blandt buske
+
+//6 og bruger gyveltræets rødder til at varme sig ved.{E: *laḥmām* er her en infinitiv konstruktus, samme ord forekommer i Es 47,14. Nogle oversætter det >>til deres føde<<. Sprogligt set er det muligt, men alt på gyvelbuske, også rødderne, er giftige og kan ikke spises. Gyvelrødderne giver fin trækul. Se Sl 120,4.}
+
+//4 v5 De drives bort fra samfundet,
+
+//6 folk{T: Ordret: >>de<<} skriger ad dem som ad en tyv.{T: De fattige sammenlignes med tyve. Se Job 24,14.}
+
+//8 v6 De må bo{E: *škōn* er en infinitiv konstruktus og udtrykker resultatet af fordrivelse >>De var tvunget til at bo<<.} i wadiernes kløfter,{T: Ordret: >>de frygteligste wadier<<.}
+//7
+
+//8 i huller i jorden og i klipper.
+
+//5 v7 Mellem buske skriger de,
+
+//6 de samler sig under nælder. 
+
+//8 v8 Sønner af tåber,
+//8 også sønner uden navn,{T: Dvs. uden ære og respekt.}
+
+//7 de er blevet pisket ud{E: *nikkᵊʔû*, i verbet ligger også betydningen af >>ydmyget<< og >>undertrykt<<.} af landet.
+
+//1 v9 Og nu er jeg deres spottevise,
+
+//5 og jeg er blevet en de snakker om.
+
+//4 v10 De afskyr mig,
+//6 de holder sig langt fra mig,
+
+//7 og de holder sig ikke tilbage fra at spytte mig i ansigtet.
+
+//5 v11 For han{T: Gud.} har løsnet min buestreng,{T: Ordret: >>min streng<<, kan også oversættes >>teltsnor<<. Figurativt om Jobs >>livsstreng<<. Da vokaliseringen af det hebraiske ord mangler, kan det også oversættes: >>sin (Guds) streng<<, dvs. Gud har løsnet sin streng i form af lidelse til Job. Sml. Job 12,18 (bælte og reb), Job 29,20 (bue) og Job 4,21 (teltsnore).}
+//7 og han ydmyger mig{T: Ordret: >>svarer mig<<, nogle oversætter >>plager mig<<, sml. Job 16,8.}
+
+//6 idet de kaster båndene af sig i mit nærvær.
+
+//3 v12 På min højre side rejser det unge afkom{E: *pirḥaḥ* er en hapax, findes kun her og er et usædvanligt entals ord i GT. Roden prh betyder >>skyde<<, >>spire<<, det afledte substantiv betyder >>ung fugl<<.} sig,
+
+//5 de skubber mine fødder væk,
+
+//7 og de baner deres ulykkesveje imod mig.{T: Sml. Job 19,12.}
+
+//6 v13 De har brudt min sti ned,{E: *nātᵊsû*(rod: *NTS*) er en hapax, findes kun her, sandsynligvis en variant af verbet *yittᵊṣēnî*(rod: *NTṢ*) i Job 19,10 med samme betydning.}
+
+//4 de bidrager til min ødelæggelse,
+
+//6 ingen hindrer dem.
+
+//5 v14 Som gennem et bredt brud kommer de ind,
+
+//7 under ødelæggelse vælter de sig selv frem.
+
+//8 v15 Rædsler er vendt imod mig,
+
+//6 de jager min værdighed bort som vinden, 
+
+//7 som en sky er min velfærd{T: Ordret: >>min frelse<<.}  forsvundet. 
+
+//2 v16 Og nu tømmer min sjæl sig{T: Kan betyde at Job er ved at dø, eller at han er dybt bedrøvet.} i mig,
+
+//5 dage med lidelse griber fat i mig.{T: Sml. Job 16,12.}
+
+
+==Job anklager Gud==
+
+
+//7 v17{T: Gud opfattes som subjekt i vers 17-19 som årsag til Jobs lidelser. Der er en dobbelthed i teksten fordi subjektet grammatisk set også kan være >>kjortlen<< (vers 18).} Om natten borer han mine knogler ud,{T: Både >>natten<< og >>mine knogler<< kan være subjekt.}
+
+//6 og min gnavende smerte hviler ikke.
+
+//4 v18 Med stor styrke griber{E: *yitḥappēś*(rod: *ḤFŚ*) betyder >>afskyr sig selv<< og indikerer at Jobs tøj hang løst på ham. Men verbet *ḤFŚ* kan opfattes som en fonetisk variant af *ḤVŚ*, >>at binde<<, >>at gribe fat<<. Sml. Job 16,12.} han{T: Gud.} fat i mit tøj,
+
+//6 og han binder mig som kraven på min kjortel.{T: Sml. Job 7,15.} 
+
+//5 v19 Han har kastet mig i mudderet,
+
+//6 og jeg er blevet som støv og aske.
+
+
+==Job taler nu direkte til Gud==
+
+
+//3 v20 Jeg råber til dig om hjælp,
+//6 og du svarer mig ikke.
+
+//5 Jeg står,
+//6 og du skal forstå mig.{T: Nogle oversætter >>og du ser på mig<<, andre gentager >>ikke<< fra vers 20a og oversætter >>og du bemærker mig ikke<<. Men Jer 23,20 og 30,24 har samme verbale konstruktion hitpael med præpositionen *bᵊ*, og ifølge dette kan vi oversætte >>og du skal forstå mig<<.}
+
+//7 v21 Du har forandret dig{T: Sml. Es 63,10 (om Gud).} og er blevet grusom{E: *ʔaxzār* er det modsatte af nåde *ḥesed*, se Ordsp 11,17, og barmhjertighed *raḥam*. Nogle oversætter *ʔaxzār* med >>ubarmhjertig<<. *ʔaxzār* er motiveret af vrede og refererer til krig og Guds dom. Se Es 13,9, Jer 6,23, Jer 30,14.} mod mig,
+
+//9 med din stærke hånd{T: Ordret: >>din hånds magt<<.} viser du dit fjendskab{E:*satam*, et ordspil med Satan, se Job 1,6 og 16,9.} mod mig.{T: Ifølge Job 1,11-12 og 2,5-6 var det Satans hånd og ikke Guds hånd.}
+
+//10 v22 Du løfter mig op til vinden,
+//11 og du lader mig fare afsted,
+
+//12 og du lader mig gå til{T: Ordret: >>smelte<<, >>opløses<<.} i stormens brølen.{T: >>Storm<< er tilføjet. Sml. Job 36,9.}
+
+//8 v23 For jeg ved
+//9 at du vil bringe mig tilbage til døden
+
+//10 og huset hvor alt levende mødes.{T: Dødsriget.}
+
+//4 v24{T: Oversættelsen er vanskelig. Subjektet kan opfattes som Gud, men nogle opfatter Job som subjekt og formulerer sætningen som et spørgsmål.} Dog rækker han{T: Gud.} ikke sin hånd ud til ødelæggelse{E: *ʕî* >>ruin<<, >>ruinbunke<<, nogle oversætter >>nødlidende<< og oversætter >>man vender ikke sin hånd imod den nødlidende<<.}
+
+//8 når nogen råber til ham {T: >>Til ham<< er tilføjet.} om hjælp {E: *lāhen*, >>til dem<< eller >>for dem<<, er der problemer med at oversætte, og det udelades derfor oftest. *lāhen* er 3F pl. og henfører måske til dødsriget *šᵊʔôl* og dødens børn *bᵊnê tᵊmûtā* (Sl 102,21), begge femininum. Andre foreslår at *lāhen* er en apposition til *ʕî* (ruinbunke) i vers 24a.} i sin ulykke.{T: Oversættelsen er vanskelig, og der er mange forslag.}
+
+//7 v25 Græd jeg ikke for den hvis dag var hård,
+
+//8 ynkedes min sjæl ikke over den fattige?
+
+//6 v26 Når jeg ventede godt,
+//8 kom der ondt,
+
+//7 og håbede jeg på lys,
+//8 kom dybt mørke.
+
+//5 v27 Mit indre{T: Ordret: >>mine indvolde<<} er bragt i kog,
+//9 og det falder ikke til ro,
+
+//8 dage med lidelse kommer over mig.
+
+//7 v28 Jeg går omkring sort,{T: Jobs hud.} men ikke af solen,
+
+//9 jeg står op 
+//10 i forsamlingen og råber om hjælp.
+
+//8 v29 Jeg er bror til sjakaler{T: Sjakaler tuder i øde områder.}
+
+//9 og ledsager for strudsens{T: Sml. Job 39,13.} døtre.
+
+//6 v30 Min hud er blevet sort og skaller af,
+
+//8 og min krop brænder af hede.
+
+//7 v31 Min lyre er blevet til klage,
+
+//8 og min fløjte til lyden af dem der græder.
