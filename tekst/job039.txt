@@ -1,0 +1,151 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.07.2023>!!
+
+===Job, kapitel 39===
+
+
+==HERREN fortsætter med at stille Job spørgsmål, nu om dyrene==
+
+
+//0 v1 Ved du hvornår stenbukkene{T: Formentlig den nubiske stenbuk, der lever ved Det Døde Hav.} føder,
+
+//4 holder du øje med hvornår hinderne er i fødsel?{T: Ordret: >>vrider sig<<.}
+//3
+
+//3 v2 Tæller du månederne
+//5 de er drægtige,
+
+//4 og kender du tiden
+//5 når de føder?
+
+//2 v3 Når de krummer sig sammen,
+//4 lader deres unger bryde igennem
+
+//5 og føder deres{E: Pronomen suffikset er 3MPl, man skulle forvente 3FPl, der skelnes ikke her.} afkom.{E:* ḥēvel* kan også betyde >>vesmerter/veer<<, derfor oversætter flere >>bliver fri for deres smerter/veer<< sml. Job 21,17.}
+
+//3 v4 Deres unger er sunde,
+//4 de vokser op ude på marken,
+
+//5 de går ud
+//6 og vender ikke tilbage til dem.{E: *lāmô* >>til ham<<, egentlig henfører det >>til mødre<< se vers 3. Den poetiske form her er den samme for begge køn.}
+
+//1 v5 Hvem lader vildæslet gå fri{E:* šillaḥ* anvendes også om at frigive en slave, se 5 Mos 15,13 og 18. Gud har sluppet vildæslet fri som man slipper en slave fri.}
+
+//5 og
+//7 hvem løser lænkerne hos vildæslet,{E:* ʕārôd* er en harpax, findes kun her, sandsynligvis et aramæisk låneord, og er det samme som det hebraiske *pereˀ* for vildæsel i forudgående verslinje.}
+//6
+
+//4 v6 som jeg gav steppen til dets hjem,
+
+//5 og saltørkenen som dets{E: Pluralis.} levested?
+
+//3 v7 Den ler ad larmen i byen,
+
+//5 og den hører ikke driverens råb.
+
+//4 v8 Den undersøger{E:*yᵊtûr* kan være et sjældent substantiv med betydningen >>undersøgende<<. Flere ændrer vokaliseringen til *yatûr* og oversætter >>flakker omkring efter<<. Dog meningsmæssigt gør det ikke den store forskel.} bjergene for dens græsningsområde
+
+//5 og leder efter alt grønt.
+
+//2 v9 Er vildoksen{T: Vildoksen er standardsymbol på styrke i GT.} villig
+//5 til at tjene dig,
+//4 vil den tilbringe natten ved din krybbe?
+
+//3 v10 Kan du tvinge{T: ordret: >>binde<<.} vildoksen i furen med dens reb{T: Oversættelsen er vanskelig, og der er talrige forslag.} til at tjene dig,
+
+//7 vil den harve dalene{T: Det drejer sig formentlig om det åbne land i Jordandalen.} efter dig?
+
+//6 v11 Kan du stole på den,
+//8 for dens styrke er mægtig,
+
+//7 og overlade dit slid til den?
+
+//6 v12 Kan du tro på den
+//7 at den vil bringe dit korn tilbage
+
+//8 og samle det ind til din tærskeplads?
+
+//5 v13 Strudsens{E: *rᵊnānîm* betyder >>skingrende råb<<, pluralissen er betegnelse for strudsens skrig. Måske udtryk for en hunstruds, andre betragter det som et poetisk udtryk. Ordet er en hapax og findes kun her. I Job 30,29 står det hebraiske ord for struds *yaʕᵃnāʰ*, som vi møder flere steder i GT, bl.a. i Mika 1,8, Es 43,20 og 5 Mos 14,15. Den betragtedes som et urent dyr og måtte ikke spises.} vinger{E: Singularis} flakser glad,
+
+//9 er det mon svingfjer{T: Kan betyde >>vinge<<.} fra storken eller falken?{E: Kan oversættes >>er det storkens vinge og fjer<<. Der er usikkerhed omkring oversættelsen, nogle oversætter *nōṣāʰ*(falk) med >>fjer<< og *ḥᵃsîdāʰ*(stork) med >>venlig<< og oversætter >>er det en venlig vinge<<. Der kan være et ordspil mellem >>venlig<< og >>stork<<, da det hebraiske ord har begge betydninger. Der er talrige forslag til oversættelsen.}
+
+//8 v14 Ja, den efterlader sine æg på jorden
+
+//9 og lader dem holde sig varme i støvet,
+
+//10 v15 men den glemmer
+//11 at en fod kan træde det{T: Her er tænkt på det enkelte æg.} i stykker,
+
+//12 eller et af markens vilde dyr kan trampe på det.
+
+//7 v16 Den behandler sine unger hårdt,
+//9 som om de ikke var dens egne,
+
+//8 uden frygt for at dens slid kan være forgæves.
+
+//9 v17 For Gud lader den glemme visdom
+
+//10 og har ikke givet den del i forstand.
+
+//6 v18 Så snart
+//8 den flakser højt{T: Da en studs ikke kan flyve, kan det være et udtryk for høj fart.(En studs kan løbe 70 km i timen.)}
+
+//7 ler den ad hest og rytter.
+
+//4 v19 Kan du give hesten styrke, 
+
+//7 kan du klæde dens hals med en manke?{E: *raʕmāʰ* er en af de over 100 hapax legomenon i Jobs bog. Oversættelsen er usikker. Det hebraiske ord er afledt af *raʕam*, der betyder >>torden<<, det er uvist om udtrykket hentyder til selve hestens manke eller hestens hovedbevægelser.}
+
+//8 v20 Kan du få den til at springe som græshoppen?
+
+//6 Dens majestætiske prusten vækker rædsel. 
+
+//7 v21 De skraber{E: Nogle oversættelser ændrer vokaliseringen til singularis, andre bibeholder pluralis.} i dalen,
+//9 den{T: Her er fokus på den enkelte hest.} fryder sig ved sin kraft
+
+//8 og drager ud
+//9 for at møde våben.
+
+//8 v22 Den ler ad frygten
+//11 og forfærdes ikke,
+
+//11 og vender ikke om på grund af sværd.
+
+//10 v23 Over den{T: Kan oversættes >>ved dens side<<.} klirrer kogger,{T: Sml. Es 22,6 og Sl 127,5.}
+
+ blinkende spyd og krumsabel.{T: Måske en scimatar, et buet sværd. Nogle oversætter med >>lanse<<, et stik- og kastevåben, brugt i krig.}
+
+//9 v24 Under raslen og brølen sluger{T: Dvs. galoperer.} den vejen,{T: Ordret: >>jorden<<.}
+
+//10 og den står ikke stille{T: Ordret: >>den tror ikke på det<<.}
+//11 fordi hornet{T: Ordret: >>Shofar<<, der er et vædderhorn.} lyder.
+
+//9 v25 Så snart hornet lyder, siger den:{T: Det kan oversættes >>man siger<<, idet det er uvist om det er hesten eller rytteren der er tale om.}
+
+//11 >Hui<
+
+//10 På afstand vejrer den krig, officerers råben{T: Ordret: >>torden<<. Ordets rod *raʕam* er det samme som i vers 19 *raʕmāʰ*, se note til vers 19.} og krigslarm.
+
+//5 v26 Er det på grund af din indsigt at høgen flyver
+
+//8 og breder sine vinger ud mod syd?
+
+//7 v27 Er det på din befaling{T: Ordret: >>mund<<.} at ørnen flyver højt,
+
+//8 og at den anbringer sin rede højt oppe,
+
+//6 v28 slår sig ned på en klippe,
+
+//9 og opholder sig på en klippespids{T: Ordret: >>klippetand<<.} eller et befæstet sted?
+
+//8 v29 Derfra søger den efter føde,
+
+//9 på lang afstand ser dens øjne den.
+
+//7 v30 Dens unger drikker blod,
+
+//8 og hvor der er nogen der er slået ihjel{T: Ordret: >>vanhelliget<<.}
+//9 der er den.<<

@@ -47,7 +47,7 @@
 //5 >>Har du tænkt over{T: Ordret: >>Har du anbragt dit hjerte på.<<} min tjener Job? 
 //6 For der er ingen som ham på jorden. 
 //7 Han er fuldkommen, retskaffen og gudfrygtig, 
-//8 og han holder sig fra det onde. 
+//8 og han holder sig fra det onde.<< 
 //4 v9 Men Satan gav HERREN 
 //5 følgende svar:
 //6 >>Mon det er uden belønning at Job gudfrygtigt tilbeder Gud?
@@ -64,7 +64,7 @@
 //4 >>Se, alt
 //7 hvad han har, 
 //6 er i din hånd.
-//5 Kun på ham selv må du ikke lægge din hånd. {T: Ordret: >>Kun til ham (selv) må du ikke strække din hånd ud.>>} << 
+//5 Kun på ham selv må du ikke lægge din hånd.<<{T: Ordret: >>Kun til ham (selv) må du ikke strække din hånd ud.<<}
 //2 Så forlod Satan mødet med HERREN.{T: Ordret: >>Da gik Satan væk fra HERRENs ansigt.<<}
 ==Job mister husdyr og sønner, men finder ikke fejl hos Gud ==
 //0 v13 Derpå, på den dag 

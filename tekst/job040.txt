@@ -1,0 +1,160 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.07.2023>!!
+
+===Job, kapitel 40===
+
+
+HERREN opfordrer Job til at svare ham==
+
+
+//0 v1 Og HERREN svarede Job
+//1 :
+
+//2 v2 >>Vil han der bebrejder, gå i rette
+med den Almægtige?
+
+//4 Den som anklager Gud, skal svare!<<
+//3
+
+//0 v3 Da svarede Job HERREN
+//1 :
+
+//2 v4 >>Se, jeg er ringe,
+//3 hvad skal jeg svare dig,
+
+//4 jeg lægger hånden på munden.
+
+//5 v5 Én gang har jeg talt,
+//7 men jeg vil ikke svare,
+
+//6 og to gange,
+//7 jeg vil ikke tilføje mere.<<
+
+
+==HERREN taler igen fra stormen og konfronterer Job==
+
+
+//0 v6 Da svarede HERREN Job fra stormen
+//1 :
+
+//2 v7 >>Spænd bælte om dine lænder som en mand,
+
+//6 jeg vil spørge dig,
+//5 og du skal svare mig.{T: Ordret: >>kundgøre, belære<< sml. Job 42,4.}
+
+//4 v8 Vil du drage min retfærdighed i tvivl,
+
+//6 dømme mig skyldig
+//7 for at du kan være retfærdig?{T: Kan også oversættes >>for at du kan have ret<< eller >>være uskyldig<<.}
+
+//5 v9 Eller har du en arm som Gud,
+
+//6 og kan du lade det tordne med en stemme som hans?
+
+//3 v10 Smyk dig med højhed og pragt,
+
+//7 og ifør dig herlighed og ære!{T: Dvs. Guds egenskaber, se Sl 96,6, Sl 93,1, Sl 104,1.}
+
+//6 v11 Strø dine vredesudbrud ud,
+
+//7 og se på enhver der er stolt,
+//8 og ydmyg ham!
+
+//6 v12 Se på enhver der er stolt,
+//8 og undertryk ham,
+
+//7 og træd de ugudelige ned hvor de står!{T: Ordret: >>på deres sted<<.}
+
+//8 v13 Skjul dem alle i støvet,{T: Dvs. graven.}
+
+//9 bind deres ansigter i det skjulte!{T: Til graven. Sml. Jobs egen bøn i Job 14,13.}
+
+//5 v14 Så vil jeg også prise dig,{T: Der ligger i verbet en offentlig bekendelse og en kasten sig ned.}
+
+//6 for din højre hånd har udøvet frelse for dig.{T: Samme udsagn om Gud, se Sl 98,1, Es 59,16, Es 63,5.}
+
+
+==HERREN stiller nu Job spørgsmål om Behemot og Livjatan==
+
+
+//4 v15 Se dog Behemot{T: Er pluralis af *behema*(vilde dyr). Puralisformen her opfattes som udtryk for et specielt stort dyr Det oversættes af de fleste med >>flodhest<<. I Job 12,7 opfordrer Job vennerne til at se på dyrene(*behemot*.)}
+//10 som jeg dannede ligeså vel som dig!{T: Se 1 Mos 1,24-27(6. dag).}
+
+//9 Den spiser græs som oksen.{T: Kan oversættes >>kvæget<<.} 
+
+//8 v16 Se dog, dens styrke er i dens lænder,
+
+//9 og dens kraft i dens bugmuskler!
+
+//7 v17 Den strækker sin hale ud{T: Ordret: >>bøje ned<<, kan have betydningen >>gøre stiv<<. Ordet er en hapax og findes kun her. Flodhestens hale er dog kort, men tyk. Nogle opfatter halen som hannens kønsorgan.} som et cedertræ,
+
+//8 senerne i dens lår er snoet sammen.
+
+//9 v18 Dens knogler er rør af bronze,{T: Kobber hærdet med tin.} 
+
+//10 dens lemmer er som jernstænger.
+
+//6 v19 Den er den første{T: I 1 Mos 1,24 er vilde dyr(*bᵊhēma* singularis af *bᵊhēmôt*) nævnt som de første af dyrene.} af Guds værker,{T: Ordret: >>veje<<. Sml. Ordsp 8,22 om visdommen.}
+
+//10 han som dannede den,
+//9 rakte den dens sværd.{T: >>sværdet<< er formentlig dyrets/flodhestens tænder. Der er talrige mulige oversættelser af vers 19b som f.eks. >>lad ham som dannede den, komme nær med sit sværd<<.}
+
+//8 v20 Selv bjergene bringer den føde,
+
+//9 og alle markens vilde dyr leger der.
+
+//7 v21 Under lotusbuske{T: Zizyphus lotus, er tornede, stedsegrønne, oprette eller krybende-klatrende buske eller større træer. De har grøngule blomster og spiselige stenfrugter. De gror i varme, fugtige egne i Israel. Lotusplanten som vandplante, der er i familie med åkander, findes også.} lægger den sig
+
+i skjul af siv og sump.
+
+//10 v22 Lotusbuskene dækker den
+//11 med sin skygge,
+
+//10 poppeltræerne ved bækken omgiver den.
+
+//9 v23 Se, når floden strømmer kraftigt,
+//10 flygter den ikke.
+
+//11 Den er tryg
+//12 selv når Jordan vælter frem til dens mund.
+
+//8 v24 Kan nogen fange den ved dens øjne,{T: Dvs. fange den mens den ser, eller hindre den i at se før et angreb på den. Der er også andre forslag.}
+
+//9 kan nogen gennembore næsen med snarer?
+
+//5 v25 Kan du trække Livjatan{T: Den identificeres med krokodillen. Det er muligt at der er tale om et søuhyre, som symboliserer alle ondskabens ødelæggende kræfter. Se Sl 74,14, Sl 104,26, Es 27,1, hvor Livjatan er nævnt.} op med en fiskekrog
+
+//8 eller holde dens tunge nede med et reb?
+
+//7 v26 Kan du sætte et sivreb i dens næse
+
+//10 og gennembore dens kæbe med en krog?
+
+//9 v27 Kommer den med mange bønner om velvilje,
+
+//11 vil den tale til dig med milde ord?
+
+//10 v28 Mon den vil slutte en pagt med dig
+
+//11 så du kan tage den som slave for evigt?
+
+//8 v29 Kan du lege med den som med en fugl?
+
+//11 kan du holde den i snor til dine piger?
+
+//10 v30 Vil parterne forhandle om prisen på den,
+
+//11 dele den blandt købmændene? 
+
+//9 v31 Kan du fylde dens hud med harpuner
+
+//10 eller dens hoved med fiskespyd?
+
+//6 v32 Læg din hånd på den!
+
+//7 Husk den kamp!
+
+//8 Du gør det ikke igen.
