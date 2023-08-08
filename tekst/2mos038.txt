@@ -2,11 +2,11 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.03.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 38===
 
 ==Brændofferalteret fremstilles==
-v1 Han lavede brændofferalteret af akacietræ, fem alen langt og fem alen bredt, kvadratisk og tre alen højt.
+v1 Han lavede brændofferalteret af akacietræ, fem alen{N: gt-mål} langt og fem alen bredt, kvadratisk og tre alen højt.
 v2 Han lavede horn på dets fire hjørner, dets horn gik i ét med det;{T: Ordret: >>dets horn gik ud fra det<<.} og han beklædte det med bronze.
 v3 Han lavede alle alterets redskaber, spandene, skovlene, stænkeskålene, gaflerne og fyrbækkenerne; alle dets redskaber lavede han af bronze.
 v4 Til alteret lavede han et gitterværk, lavet som et bronzenetværk, under dets indfatning, og det nåede nedefra op til midt på det.

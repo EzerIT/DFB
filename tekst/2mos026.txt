@@ -2,12 +2,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 26===
 
 ==Pagtsteltets indre==
 v1 >>Men boligen{E: Se note til 25,9.} skal du lave af ti teltduge; af tvundet, fint linned og purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, med{T: Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.} kunstfærdigt forarbejdede keruber skal du lave dem.
-v2 Hver teltdug skal være otteogtyve alen lang, og hver teltdug skal være fire alen bred; alle teltduge skal have samme mål.
+v2 Hver teltdug skal være otteogtyve alen{N: gt-mål} lang, og hver teltdug skal være fire alen bred; alle teltduge skal have samme mål.
 v3 De fem teltduge skal fæstes sammen, én til den anden; og atter fem teltduge skal fæstes sammen, én til den anden.
 v4 Og du skal lave løkker af purpurblå uld på den ene teltdugs kant, for enden af rækken; og du skal gøre ligesådan i den yderste teltdugs kant i den anden samling.
 v5 Du skal lave halvtreds løkker på den ene teltdug og lave halvtreds løkker yderst på den teltdug, der er i den anden samling; stropperne skal være den ene overfor den anden.

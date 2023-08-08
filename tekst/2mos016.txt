@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.04.2020>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 16===
 
 ==Israelitterne knurrer, og JHVH svarer dem==
@@ -23,7 +23,7 @@ v12 >>Jeg har hørt Israels børns knurren; tal til dem og sig: >Lige inden mør
 v13 Og det skete om aftenen, at der kom vagtler{T: Ordret: >>vagtlen<<. Det skal formodentlig opfattes kollektivt, men angiver også, at vagteltrækket var et velkendt fænomen.} op og dækkede lejren, og om morgenen lå duggen omkring lejren.
 v14 Da duggen som lå der, fordampede,{T: Ordret: >>steg op<<. Der er ordspil med v. 13 (>>kom op<<).} se, da lå der over ørkenens overflade noget tyndt, skælagtigt, tyndt ligesom rimfrost, på jorden.
 v15 Da Israels børn så det, sagde de, den ene til den anden: >>Hvad er det?<< For de vidste ikke hvad det var. Men Moses sagde til dem: >>Det er det brød som JHVH har givet jer at spise.
-v16 Dette er det ord som JHVH har befalet: >Enhver skal samle deraf efter hvad han kan spise;{T: Ordret: >>svarende til hans føde<<.} I skal tage en omer{E: En omer er rummål = 3,9 l, jf. v. 36.} for hvert hoved, efter det antal personer som hver har i sit telt.<<<
+v16 Dette er det ord som JHVH har befalet: >Enhver skal samle deraf efter hvad han kan spise;{T: Ordret: >>svarende til hans føde<<.} I skal tage en omer{N: gt-mål} for hvert hoved, efter det antal personer som hver har i sit telt.<<<
 v17 Israels børn gjorde sådan og samlede, en mere og en anden mindre.
 v18 Da de målte det med omeren, havde den der havde samlet meget, ikke for meget, og den der havde samlet mindre, manglede ikke noget; enhver havde samlet så meget som han kunne spise.
 v19 Moses sagde til dem: >>Ingen må levne deraf til om morgenen.<<

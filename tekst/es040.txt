@@ -1,7 +1,7 @@
 !!<Modenhed: Rå oversættelse>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 28.09.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 
 ===Esajas' Bog, kapitel 40===
 
@@ -21,7 +21,7 @@ v10 Se Herren JHVH skal komme med styrke, og hans arm hersker for ham; se, hans 
 v11 Som en hyrde skal han vogte sin hjord, samle lammene i sin arm og bære dem i sit skød; han skal lede de får, der giver die.
 
 
-v12 Hvem har målt vandet  med sin hule hånd? og afmålt himlen i fingerspand? og samlet jordens støv i litermål? Hvem har vejet bjergene med vægt og højene på vægtskåle?
+v12 Hvem har målt vandet  med sin hule hånd? og afmålt himlen i fingerspand?{N: gt-mål} og samlet jordens støv i litermål? Hvem har vejet bjergene med vægt og højene på vægtskåle?
 v13 Hvem har udmålt JHVHs Ånd, og hvem har som hans rådgiver undervist ham?
 v14 Har han spurgt nogen rådgiver, der har givet ham forstand og lært ham rettens vej og lært ham kundskab og undervist ham om visdommens vej?
 v15 Se, folkeslag regnes af ham for en dråbe i en spand og for et støvgran i vægtskålen; se, øer hæver han op som fint støv.

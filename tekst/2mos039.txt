@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.03.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 39===
 
 v1 Af purpurblå, purpurrød og karminrød uld lavede de vævede{T: Se note til 31,30.} klæder til at tjene i ved helligdommen; og de lavede de hellige klæder som skulle være til Aron, sådan som JHVH havde befalet Moses.
@@ -17,7 +17,7 @@ v7 Man satte dem på efodens skulderbånd som sten der skulle bringe Israels sø
 
 ==Fremstilling af brystskjoldet==
 v8 Han lavede brystskjoldet i kunstfærdigt arbejde, af samme arbejde som efoden; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.
-v9 Det var kvadratisk, de foldede brystskjoldet dobbelt, et fingerspand langt og et fingerspand bredt, foldet dobbelt.
+v9 Det var kvadratisk, de foldede brystskjoldet dobbelt, et fingerspand{N: gt-mål} langt og et fingerspand bredt, foldet dobbelt.
 v10 De satte fire rækker sten{E: Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.} på det; en række med en rubin, en topas og en smaragd, den første række;
 v11 den anden række: en turkis,{T: Det hebraiske *nōfex* er ofte oversat: >>granat<<, men angiver formodentlig: >>turkis<<.} en safir og en månesten;
 v12 den tredje række: en opal{T: Tidligere ofte oversat: >>hyacint<<, men oversættelsen er usikker.}, en agat og en ametyst;

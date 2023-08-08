@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.03.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 36===
 
 v1 Besal’el og Oholiab og hver mand med kunstforstand,{T: Ordret: >>víst hjerte<<.} til hvem JHVH har givet visdom og forstand til at vide at udføre alt arbejdet til tjenesten ved helligdommen, skal gøre efter alt det som JHVH har befalet.<<
@@ -15,7 +15,7 @@ v7 Arbejdsmaterialet{T: Ordret: >>arbejdet<<} var tilstrækkeligt til at gøre a
 
 ==Indretningen af helligdommen==
 v8 Så lavede alle der havde forstand på det, blandt dem som udførte arbejdet, boligen af ti teltduge af tvundet, fint linned og purpurblå, purpurrød og karminrød{T: Ordret: >>karminrød orm<<.} uld, med {T: Ordet >>med<< står ikke i den hebraiske tekst, men meningen må være at de der lavede teltdugene, vævede dem, så der fremstod billeder af keruber.} kunstfærdigt forarbejdede keruber lavede de dem.
-v9 Hver teltdug var otteogtyve alen lang, og hver teltdug var fire alen bred, alle teltduge havde samme mål.
+v9 Hver teltdug var otteogtyve alen{N: gt-mål} lang, og hver teltdug var fire alen bred, alle teltduge havde samme mål.
 v10 Man forbandt{T: Kan også oversættes: >>han forbandt<<, underforstået: >>Besal’el<<.} de fem teltduge, den ene til den anden, og forbandt de andre fem teltduge, den ene til den anden.
 v11 Og man lavede løkker af purpurblå uld på den ene teltdugs kant, for enden af det sammensyede; det samme lavede man på kanten af den yderste teltdug af det andet sammensyede.
 v12 Halvtreds løkker lavede man på den første teltdug, og halvtreds løkker lavede man for enden af teltdugen på det andet sammensyede stykke; løkkerne sad overfor hinanden, en overfor en.

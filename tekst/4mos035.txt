@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.07.2017>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Fjerde Mosebog, kapitel 35===
 
 ==JHVH befaler israelitterne at give visse byer med tilhørende marker af deres arv til levitterne.==
@@ -9,7 +9,7 @@
 v1 JHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko, og sagde:
 v2 >>Befal israelitterne at de skal give levitterne noget af deres arvelod i eje som byer at bo i. Desuden skal I give levitterne marker rundt om byerne.
 v3 De skal have byerne at bo i, og deres marker skal være til deres kreaturer og deres redskaber til landbruget{T: Ordet betyder normalt ejendele, rigdomme, løsøre. Da de normalt ikke er knyttet til markerne, kan det tænkes at der er tænkt på fåreflokke her, men det kan også være at det er redskaber som bruges i tilknytning til græsningen, dvs. trug, reb m.m.} og alle deres øvrige dyr.
-v4 Byernes marker, som I skal give levitterne, skal strække sig fra bymuren og 1000 alen udefter hele vejen rundt.
+v4 Byernes marker, som I skal give levitterne, skal strække sig fra bymuren og 1000 alen{N: gt-mål} udefter hele vejen rundt.
 v5 Så skal I opmåle siderne uden for byen, 2000 alen mod øst, 2000 alen mod syd, 2000 alen mod vest og 2000 alen mod nord, og byen skal være i midten. Dette skal være deres byers marker.{T: Teksten i v. 4-5 er meget vanskelig. En tolkning går ud på at de 2000 alen er et ekstra område. En anden mener at det er byens samlede område.}
 
 ==Seks af levitternes byer skal være tilflugtsbyer for drabsmænd.==

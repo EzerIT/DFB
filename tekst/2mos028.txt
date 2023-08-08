@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 28===
 
 ==Forordning om præstedragten==
@@ -25,7 +25,7 @@ v14 og to kæder af purt guld, du skal lave dem som reb, snoet arbejde; og du sk
 
 ==Forordning om brystskjoldet==
 v15 >>Du skal lave et doms-brystskjold i kunstfærdigt arbejde, af samme arbejde som efoden skal du lave det; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned skal du lave det.
-v16 Det skal være kvadratisk, foldet dobbelt, et fingerspand langt og et fingerspand bredt.
+v16 Det skal være kvadratisk, foldet dobbelt, et fingerspand{N: gt-mål} langt og et fingerspand bredt.
 v17 Du skal lave en indfatning med sten på det, fire rækker sten;{E: Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.} en række med en rubin, en topas og en smaragd, den første række;
 v18 den anden række: en turkis,{T: Det hebraiske *nōfex* er ofte oversat: >>granat<<, men angiver formodentlig: >>turkis<<.} en safir og en månesten;
 v19 den tredje række: en opal{T: Tidligere ofte oversat: >>hyacint<<, men oversættelsen er usikker.}, en agat og en ametyst;

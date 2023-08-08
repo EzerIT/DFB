@@ -2,11 +2,11 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.02.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 27===
 
 ==Forordning om brændofferalteret==
-v1 >>Du skal lave alteret af akacietræ, fem alen langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.
+v1 >>Du skal lave alteret af akacietræ, fem alen{N: gt-mål} langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.
 v2 Du skal lave dets horn på dets fire hjørner, dets horn skal være i ét med det; og du skal beklæde det med bronze.
 v3 Og du skal lave dets spande til dets fedtaske{T: Grundstammen i det hebraiske ord er roden: *dšn*, der oftest angiver >>fedt<<, men også bruges om den fede aske, der er tilbage efter at et offer er brændt.} og dets skovle, dets stænkeskåle, dets gafler og dets fyrbækkener: Alle dets redskaber skal du lave af bronze.
 v4 Du skal lave et gitterværk til det, lavet som et bronzenetværk; og på netværket skal du anbringe fire bronzeringe i dets fire hjørner.

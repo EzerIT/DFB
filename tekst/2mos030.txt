@@ -2,12 +2,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 30===
 
 == Forordning om røgelsesofferalteret==
 v1 >>Du skal lave et alter til at brænde røgelse på; af akacietræ skal du lave det,
-v2 én alen langt og én alen bredt,{T: Ordret: >>én alen dets længde og én alen dets bredde<<.} det skal være kvadratisk og to alen højt; dets horn skal være i ét med det.
+v2 én alen{N: gt-mål} langt og én alen bredt,{T: Ordret: >>én alen dets længde og én alen dets bredde<<.} det skal være kvadratisk og to alen højt; dets horn skal være i ét med det.
 v3 Du skal beklæde det med purt guld, dets overdel og dets sider{T: Det hebraiske ord: *qîr* skal i de fleste sammenhænge oversættes: >>mur<<. I det næste vers er der brugt to andre hebraiske ord.} rundt omkring og dets horn; og du skal lave en kant af guld hele vejen rundt.
 v4 To guldringe skal du lave til det under dets kant på to af dets sider, du skal lave dem på to af dets sider; de skal være holdere for bærestængerne, så man kan bære det med dem.
 v5 Du skal lave bærestængerne af akacietræ og beklæde dem med guld.

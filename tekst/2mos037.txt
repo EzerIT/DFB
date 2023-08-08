@@ -2,11 +2,11 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.03.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 37===
 
 ==Arken fremstilles==
-v1 Besal’el lavede arken af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.
+v1 Besal’el lavede arken af akacietræ, to og en halv alen{N: gt-mål} lang og halvanden alen bred og halvanden alen høj.
 v2 Han beklædte den med purt guld indeni og udenpå, og han lavede en guldkant rundt om den.
 v3 Han støbte fire guldringe til dens fire fødder, nemlig to ringe på dens ene side og to ringe på dens anden side.
 v4 Han lavede bærestænger af akacietræ og beklædte dem med guld. 
@@ -21,7 +21,7 @@ v9 Keruberne bredte vingerne opad og dækkede over sonedækket med deres vinger;
 ==Skuebrødsbordet fremstilles==
 v10 Han lavede bordet af akacietræ, to alen langt og en alen bredt og halvanden alen højt.
 v11 Han beklædte det med purt guld, og han lavede en guldkant om det.
-v12 Han lavede en liste på en håndsbredde rundt om det og lavede en guldkant om dets liste rundt om det. 
+v12 Han lavede en liste på en håndsbredde{N: gt-mål} rundt om det og lavede en guldkant om dets liste rundt om det. 
 v13 Han støbte fire guldringe til det og satte ringene i de fire hjørner ved dets fire fødder.
 v14 Tæt ved listen sad ringene som holdere{T: Ordret: >>hjem<<.} for bærestængerne til at bære bordet med.
 v15 Han lavede bærestængerne af akacietræ og beklædte dem med guld, de var til at bære bordet.

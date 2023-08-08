@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 02.02.2021>!!
+!!<Dato for denne version: 08.08.2023>!!
 ===Anden Mosebog, kapitel 25===
 
 ==Forordninger om helligdommen (25,1-27,21)==
@@ -20,7 +20,7 @@ v8 De skal lave mig en helligdom, og så vil jeg bo iblandt dem.
 v9 Efter alt det jeg viser dig, modellen af boligen{E: Tidligere oversat: >>tabernakel<<. Det hebraiske ord *miškān* betyder egentlig: >>telt/opholdssted<<.} og modellen af alle dens redskaber – netop sådan skal I lave den.<<
 
 ==Pagtens ark==
-v10 >>De skal lave en ark af akacietræ, to og en halv alen lang{T: Ordret: >>dens længde to og en halv alen, …<<} og halvanden alen bred og halvanden alen høj.
+v10 >>De skal lave en ark af akacietræ, to og en halv alen{N: gt-mål} lang{T: Ordret: >>dens længde to og en halv alen, …<<} og halvanden alen bred og halvanden alen høj.
 v11 Og du skal beklæde den med purt guld; indeni og udenpå skal du beklæde den, og på den skal du lave en guldkant rundt om den.
 v12 Du skal støbe fire guldringe til den og sætte dem på dens fire fødder, nemlig to ringe på dens ene side og to ringe på dens anden side.
 v13 Og du skal lave bærestænger af akacietræ og beklæde dem med guld,
@@ -39,7 +39,7 @@ v22 Og der vil jeg åbenbare mig for dig og tale med dig fra over sonedækket, f
 ==Skuebrødsbordet==
 v23 >>Du skal lave et bord af akacietræ, to alen langt{T: Ordret: >>to alen dets længde<<.} og en alen bredt og halvanden alen højt
 v24 og beklæde det med purt guld, og til det skal du lave en guldkant rundt om det.
-v25 Og på det skal du lave en liste på en håndsbredde rundt om det og lave en guldkant om dets liste rundt om det.
+v25 Og på det skal du lave en liste på en håndsbredde{N: gt-mål} rundt om det og lave en guldkant om dets liste rundt om det.
 v26 Du skal også lave fire ringe af guld til det og sætte ringene i de fire hjørner som er ved dets fire fødder.
 v27 Ringene skal være tæt ved listen som holdere for bærestængerne til at bære bordet.
 v28 Du skal lave bærestængerne af akacietræ og beklæde dem med guld, og med dem skal bordet bæres.

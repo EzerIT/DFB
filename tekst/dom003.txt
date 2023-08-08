@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 02.12.2016>!!
+!!<Dato for denne version: 08.08.2023>!!
 
 ===Dommerbogen, kapitel 3===
 
@@ -53,7 +53,7 @@ v15 Da råbte israelitterne til JHVH, og JHVH udpegede dem en frelser. Det var b
 Geras søn, som var venstrehåndet. Israelitterne sendte ham til kong Eglon af Moab med den årlige
 afgift.
 
-v16 Ehud lavede sig et tveægget sværd som var en alen langt. Det spændte han fast under tøjet på sin
+v16 Ehud lavede sig et tveægget sværd som var en alen{N: gt-mål} langt. Det spændte han fast under tøjet på sin
 højre hofte. v17 Han afleverede afgiften til kong Eglon af Moab, som var en meget fed mand.
 
 v18 Da han havde overbragt afgiften, sendte han de folk som havde båret afgiften, hjem. v19 Men han
