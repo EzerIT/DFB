@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 10.03.2016>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Dommerbogen, kapitel 16===
 
@@ -23,7 +23,7 @@ styrke fra, og lader hans hoved glatbarbere==
 v4 Senere blev han forelsket i en kvinde der boede ved Sorek-bækken. Hun hed Dalila. v5
 Filisterfysterne kom til hende og sagde: >>Prøv om du kan lokke ud af ham hvor han får sine vældige
 kræfter fra, og hvordan vi kan overvinde ham. Så kan vi binde ham og overmande ham. Vi vil hver især
-give dig 1100 sekel sølv.<<
+give dig 1100 sekel{N: gt-mål} sølv.<<
 
 v6 Dalila sagde til Samson: >>Vær sød at fortælle mig, hvad det er der giver dig dine vældige
 kræfter. Hvad kan man binde dig med så man kan overmande dig?<<

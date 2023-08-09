@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 13.02.2019>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Dommerbogen, kapitel 8===
 
@@ -83,7 +83,7 @@ en ørering fra hver af jer fra jeres bytte.<< De besejrede havde nemlig ørerin
 var ismaelitter.
 
 v25 De svarede: >>Det gør vi gerne.<< De bredte så et klæde ud, og hver af dem kastede en ørering
-fra sit bytte på det. v26 Vægten af de guldringe som Gideon bad om, var 1700 sekel guld, foruden de
+fra sit bytte på det. v26 Vægten af de guldringe som Gideon bad om, var 1700 sekel{N: gt-mål} guld, foruden de
 halvmåner, halskæder og purpurklæder som midjanitternes konger havde på, og foruden de kæder som
 hang på deres kamelers halse. v27 Gideon anvendte det til en efod og anbragte den i sin by Ofra, og
 hele Israel horede med den. Det blev en fælde for Gideon og hans hus.

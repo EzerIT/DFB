@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.07.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Fjerde Mosebog, kapitel 31===
 
 ==Israelitterne får besked på at kæmpe mod midjanitterne med 12.000 mand.==
@@ -70,7 +70,7 @@ v48 De, som havde kommandoen over hærens afdelinger på tusinde og hundrede man
 v49 og de sagde til Moses: >>Dine tjenere har talt de krigere som var under vores kommando, og der mangler ikke en eneste af os.
 v50 Derfor ofrer vi, som offer til JHVH, enhver af os hvad han har fundet af guldsmykker:  armlænker, armringe, fingerringe, øreringe og halskæder, for at skaffe soning for os for JHVHs ansigt.<<
 v51 Moses og præsten Eleazar tog guldet af dem, alle de forarbejdede kunsthåndværker.
-v52 Alt det guld de gav JHVH som gave, var 16.750 sekel, fra tusindeførerne og hundredeførerne.
+v52 Alt det guld de gav JHVH som gave, var 16.750 sekel,{N: gt-mål} fra tusindeførerne og hundredeførerne.
 v53 Krigerne havde hver for sig fået bytte.
 v54 Moses og præsten Eleazar tog guldet fra dem som havde kommandoen over hærens afdelinger på tusinde og hundrede mand, og de førte det ind i forsamlingsteltet for JHVHs ansigt til erindring om israelitterne.
 

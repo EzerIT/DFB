@@ -3,7 +3,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 
 ===Esajas’ Bog, kapitel 7===
@@ -64,7 +64,7 @@ som han har lejet på den anden side af floden, hos kongen af Assyrien,
 
 //5 v23 På den dag //6 skal hvert sted //10 hvor der var tusind vinstokke
 
-//9 til en værdi af tusind sekel sølv,
+//9 til en værdi af tusind sekel{N: gt-mål} sølv,
 
  blive til torn og tidsel.
 

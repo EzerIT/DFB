@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 29===
 
 ==Forordning om præstevielsen{E: Hele afsnittet v. 1-37 beskriver præstevielsen.}==
@@ -55,7 +55,7 @@ v37 Syv dage skal du skabe soning på alteret og du skal hellige det; så bliver
 ==Forordning om de daglige ofre==
 v38 >>Dette er det som du skal bringe på alteret: To årgamle vædderlam hver dag, bestandig.
 v39 Det ene lam skal du bringe om morgenen, og det andet lam skal du bringe lige inden mørket falder på.{T: Ordret: >>mellem de to aftner<<. Det dækker formodentlig at slagtningen skal finde sted mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.}
-v40 En tiendel efa fint mel blandet med en kvart hin knust{E: Af knuste oliven i modsætning til presset olie.} olivenolie, og en kvart hin vin til drikoffer, sammen med det ene lam. 
+v40 En tiendel efa{N: gt-mål} fint mel blandet med en kvart hin{N: gt-mål} knust{E: Af knuste oliven i modsætning til presset olie.} olivenolie, og en kvart hin vin til drikoffer, sammen med det ene lam. 
 v41 Og du skal bringe det andet lam lige inden mørket falder på; som morgenens afgrødeoffer{E: Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: >>kornoffer<<, se 3 Mos 2,1-16.} og som dets drikoffer skal du bringe det til en velbehagelig duft; det er et offer for JHVH.
 v42 Dette er det daglige{T: Ordret: >>bestandige<<.} brændoffer{E: Se note til 24,5.} hos jeres efterkommere ved forsamlingsteltets indgang, for JHVHs ansigt, dér hvor jeg vil åbenbare mig for jer for dér at tale med dig.
 v43 Og dér vil jeg åbenbare mig for Israels børn så det{E: Nemlig forsamlingsteltet} helliges ved min herlighed.

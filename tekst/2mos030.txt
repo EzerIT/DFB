@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 30===
 
 == Forordning om røgelsesofferalteret==
@@ -20,7 +20,7 @@ v10 Aron skal skaffe soning på dets horn én gang om året; med blodet fra soni
 ==Forordninger om sonepenge==
 v11 JHVH talte til Moses og sagde: 
 v12 >>Når du tæller{T: Ordret: >>tager summen/hovedet på<<.} Israels sønner for at mønstre dem, skal hver give JHVH løsepenge for sin sjæl, når de bliver mønstret, så ingen plage skal komme over dem når de bliver mønstret.
-v13 Dette skal de give, enhver som går over til de mønstrede: En halv sekel efter helligdommens vægt;{T: Det hebraiske ord: *šeqel* betyder egentligt: >>vægt<<, men det bruges også om møntenheden: >>sekel<<.} sekelen er tyve gera, den halve sekel er afgift til JHVH.
+v13 Dette skal de give, enhver som går over til de mønstrede: En halv sekel{N: gt-mål} efter helligdommens vægt;{T: Det hebraiske ord: *šeqel* betyder egentligt: >>vægt<<, men det bruges også om møntenheden: >>sekel<<.} sekelen er tyve gera,{N: gt-mål} den halve sekel er afgift til JHVH.
 v14 Enhver som går over til de mønstrede, fra tyve år og opefter, skal give JHVHs afgift.
 v15 Den rige skal ikke give mere, og den fattige skal ikke give mindre end den halve sekel når I giver JHVHs afgift for at sone for jeres sjæle.
 v16 Du skal tage sonepengene fra Israels sønner og give dem til tjenesten ved forsamlingsteltet; og det skal bringe Israels sønner i erindring for JHVHs ansigt for at sone for jeres sjæle.<<
@@ -35,7 +35,7 @@ v21 De skal vaske deres hænder og deres fødder så de ikke skal dø; og det sk
 ==Forordning om salvningsolien ==
 v22 JHVH talte til Moses og sagde: 
 v23 >>Og du, tag dig de bedste vellugtende stoffer,{T: Ordret: >>vellugtende stoffers hoved<<.} af flydende myrra fem hundrede sekel,{E: >>sekel<< er her vægtenhed, ca. 16 g.} halvt så meget vellugtende kanelbark, to hundrede og halvtreds, og af vellugtende kalmus to hundrede og halvtreds,
-v24 og kassia, fem hundrede efter helligdommens sekel, og en hin olivenolie.
+v24 og kassia, fem hundrede efter helligdommens sekel, og en hin{N: gt-mål} olivenolie.
 v25 Du skal lave det til en hellig salvningsolie, en krydret salveblanding som salvefremstillerens arbejde; det skal være en hellig salvningsolie.
 v26 Med den skal du salve forsamlingsteltet, Vidnesbyrdets ark,
 v27 bordet og alle dets redskaber, lysestagen og dens redskaber, røgelsesofferalteret,

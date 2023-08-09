@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 10.03.2016>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Dommerbogen, kapitel 9===
 
@@ -13,7 +13,7 @@ mænd, alle Jerub-Ba'als sønner, hersker over jer, eller at én mand hersker ov
 er jeres eget ben og kød.<<
 
 v3 Så sagde hans morbrødre alt dette til mændene i Sikem, og Abimelek vandt deres sympati, for de
-sagde: >>Han er vores bror.<< v4 Og de gav ham 70 sekel sølv fra Ba'al-Berits hus, og for dem lejede
+sagde: >>Han er vores bror.<< v4 Og de gav ham 70 sekel{N: gt-mål} sølv fra Ba'al-Berits hus, og for dem lejede
 Abimelek nogle udstødte og lovløse mænd til at følge ham. v5 Han kom til sin fars hus i Ofra og
 dræbte sine brødre, Jerub-Ba'als sønner, 70 mænd, på én sten; men Jotam, Jerub-Ba'als yngste søn,
 gik fri, for han havde skjult sig. v6 Og alle mændene i Sikem og alle der var i Bet-Millo, mødtes,

@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 07.07.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Fjerde Mosebog, kapitel 5===
 
 ==JHVH befaler at israelitterne skal få alle urene og spedalske ud af lejren.==
@@ -27,7 +27,7 @@ v11 JHVH sagde til Moses:
 v12 >>Tal til israelitterne og sig til dem: Hvis nogen mands hustru går fra ham og er troløs imod ham,
 v13 og en anden mand har samleje med hende, men det bliver skjult for hendes mand, og det ikke bliver opdaget at hun er blevet uren, og der ikke er noget vidne mod hende, og hun ikke er blevet grebet på fersk gerning,
 v14 hvis han da gribes af jalousi så han bliver jaloux på sin hustru, og hun er blevet uren, eller hvis han gribes af jalousi selvom hun ikke er blevet uren,
-v15 da skal manden føre sin hustru til præsten og fremføre for hende som hendes offer en tiendedel af en efa bygmel. Han skal ikke øse olie på og heller ikke tilføje røgelse, for det er et afgrødeoffer for jalousi til erindring, så overtrædelsen huskes.
+v15 da skal manden føre sin hustru til præsten og fremføre for hende som hendes offer en tiendedel af en efa{N: gt-mål} bygmel. Han skal ikke øse olie på og heller ikke tilføje røgelse, for det er et afgrødeoffer for jalousi til erindring, så overtrædelsen huskes.
 v16 Præsten skal føre hende nær og stille hende for JHVHs ansigt.
 v17 Præsten skal tage helligt vand i et lerkar, og præsten skal tage af støvet som er på boligens gulv, og drysse det i vandet.
 v18 Præsten skal stille kvinden for JHVHs ansigt og blotte hendes hoved og lægge afgrødeofferet til erindring i hendes hænder, som et afgrødeoffer knyttet til jalousi. I hånden skal præsten have bitterhedens vand som volder forbandelse.

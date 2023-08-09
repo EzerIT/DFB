@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 37===
 
 ==Arken fremstilles==
@@ -35,7 +35,7 @@ v20 Men på lysestagen var der fire bægre formede som mandelblomster med dens k
 v21 nemlig en knop under de to arme på den og en knop under de to andre arme på den og en knop under de to øvrige arme på den; ved de seks arme som går ud fra lysestagen.
 v22 Deres knopper og deres arme var i ét med den; det hele var ét udhamret arbejde af purt guld.
 v23 Han lavede dens lamper, syv, og dens lysesakse og dens fyrbækkener af purt guld.
-v24 Af en talent purt guld lavede han den og alle dens redskaber.
+v24 Af en talent{N: gt-mål} purt guld lavede han den og alle dens redskaber.
 
 ==Røgelsesalteret fremstilles==
 v25 Han lavede røgelsesalteret af akacietræ, én alen langt og én alen bredt,{T: Ordret: >>én alen dets længde og én alen dets bredde<<.} kvadratisk, og to alen højt; dets horn var i ét med det.

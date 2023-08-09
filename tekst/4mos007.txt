@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 07.07.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Fjerde Mosebog, kapitel 7===
 
 ==Israelitternes tolv stammeledere ofrer seks vogne og tolv okser til helligdommens tjeneste, og de gives til gershonitterne og meraritterne.==
@@ -21,7 +21,7 @@ v9 Men kehatitterne gav han ikke noget, for deres tjeneste angik de hellige ting
 v10 Stammelederne ofrede til alterets indvielse den dag det blev salvet, og stammelederne bar selv deres ofre frem for alteret.
 v11 JHVH sagde til Moses: >>Lad stammelederne bringe deres offer, hver enkelt en dag ad gangen til alterets indvielse.<<
 v12 Den som gav sit offer den første dag, var Nakson, Amminadabs søn, lederen af Judas stamme.
-v13 Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,
+v13 Hans offer var et sølvfad, der vejede 130 sekel{N: gt-mål}, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,
 v14 en røgelsesskål på ti sekel guld, fuld af røgelse,
 v15 en tyrekalv, en vædder og et årgammelt lam til brændoffer,
 v16 en gedebuk til syndoffer

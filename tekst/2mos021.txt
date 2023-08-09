@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2020>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 21===
 
 ==Retsregler for samfundslivet (21,1 – 23,19)==
@@ -45,7 +45,7 @@ v27 Og hvis han slår sin træls tand eller sin trælkvindes tand ud, skal han g
 v29 Men hvis oksen forud{T: Ordret: >>i går og i forgårs<<.} var stangende, og dens ejer var blevet advaret, men ikke havde passet på den, og den så dræber en mand eller en kvinde, så skal oksen stenes, og dens ejer skal også lide døden.
 v30 Men hvis der bliver pålagt ham en bod, skal han betale løsepenge for sit liv, alt efter hvad der pålægges ham.
 v31 Hvad enten den stanger en søn, eller den stanger en datter, skal man handle med ham efter denne retsregel.
-v32 Hvis oksen stanger en træl eller trælkvinde, skal han{E: Det er oksens ejer.} give vedkommendes herre tredive sekel sølv, og oksen skal stenes til døde.
+v32 Hvis oksen stanger en træl eller trælkvinde, skal han{E: Det er oksens ejer.} give vedkommendes herre tredive sekel{N: gt-mål} sølv, og oksen skal stenes til døde.
 v33 Når en mand åbner en brønd, eller når en mand graver en brønd, men ikke dækker den til, og der falder en okse eller et æsel i den,
 v34 skal brøndens ejer yde erstatning, han skal give penge til dets ejer, og det døde dyr skal være hans.
 v35 Når en mands okse stanger en anden mands okse så den dør, skal de sælge den levende okse og dele pengene for den, og de skal også dele den døde.

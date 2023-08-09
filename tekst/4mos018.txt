@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 29.06.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Fjerde Mosebog, kapitel 18===
 
@@ -26,7 +26,7 @@ v12 Alt det bedste af olie og alt det bedste af ny vin og korn, deres førstegr�
 v13 Førstegrøden af alt det som er i deres land, som de skal føre frem for JHVH, skal tilhøre dig. Enhver som er ren i dit hus, må spise det.
 v14 Alt det som er lyst i band i Israel, skal tilhøre dig.
 v15 Alt det som åbner et moderliv, alt levende som de bringer frem for JHVH af mennesker eller dyr, skal tilhøre dig. Dog skal de løskøbe de førstefødte mennesker og det førstefødte af urene dyr.
-v16 Det der skal løskøbes, skal du lade løskøbe når det er en måned gammelt, efter din vurdering for fem sekel sølv efter helligdommens sekel. Den er tyve gera.
+v16 Det der skal løskøbes, skal du lade løskøbe når det er en måned gammelt, efter din vurdering for fem sekel{N: gt-mål} sølv efter helligdommens sekel. Den er tyve gera.{N: gt-mål}
 v17 Men det førstefødte af kvæget eller det førstefødte af får eller geder skal du ikke lade løskøbe. De er hellige. Deres blod skal du stænke på alteret, og du skal ofre deres fedt som et ildoffer til en dejlig duft for JHVH.
 v18 Deres kød skal du have, således svingningens bryststykke og også den højre bov skal tilhøre dig.
 v19 Alle gaver af de hellige ting som israelitterne bringer JHVH, har jeg givet dig og dine sønner og dine døtre med dig ifølge en evig forordning. Det skal være en evig saltpagt{E: *bᵊrît melaḥ ʕôlām*, ordret: >>en pagt af salt af evighed<<, er blevet tolket som en reference til at pagten gøres bindende ved at der tilføjes salt. Den anden mulighed er, i lyset af 3 Mos 2,13, at det refererer til en regel om at ethvert offer skal saltes, dvs. oversættelsen er >>en evig forordning om saltning<<, fordi *bᵊrît* og *ḥôq* er brugt som synonymer i 3 Mos 24,8-9. Vendingen bruges også i 2 Krøn 13,5.} for JHVHs ansigt, for dig og for dine efterkommere med dig.<<

@@ -1,7 +1,7 @@
 !!<Modenhed: Færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Christian Højgaard>!!
-!!<Dato for denne version: 10.03.2016>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Dommerbogen, kapitel 6===
 
@@ -49,7 +49,7 @@ en gave og sætter den foran dig.<<
 
 Og englen svarede: >>Jeg vil blive til du kommer tilbage.<< 
 
-v19 Gideon gik hen og tilberedte et gedekid og en efa mel til usyrede brød. Han lagde kødet i en
+v19 Gideon gik hen og tilberedte et gedekid og en efa{N: gt-mål} mel til usyrede brød. Han lagde kødet i en
 kurv og kom suppen i en krukke, og han bragte det ud til englen under egetræet og satte det frem.
 
 v20 Da sagde Guds engel til ham: >>Tag kødet og de usyrede brød og sæt det på denne klippe og hæld

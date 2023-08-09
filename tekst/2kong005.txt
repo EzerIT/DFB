@@ -2,7 +2,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen og Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 13.10.2021>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Anden Kongebog, kapitel 5===
 
@@ -10,7 +10,7 @@ v1 Na’aman, kongen af Arams hærfører, var en stor mand hos sin herre og høj
 v2 Nogle af Arams tropper havde været på plyndringstogt og ført en lille pige fra Israels land med sig som fange, og hun tjente nu hos Na’amans hustru. 
 v3 Hun sagde til sin frue: >>Åh, hvis bare min herre var hos profeten i Samaria, da skulle han nok helbrede ham for hans spedalskhed.<< 
 v4 Da gik Na’aman til sin herre og fortalte ham det: >>Sådan og sådan sagde pigen der er fra Israels land.<< 
-v5 Da sagde Arams konge: >>Drag af sted, tag derhen, så vil jeg sende et brev til Israels konge.<< Og han drog bort og tog ti talenter sølv med sig og 6000 sekel guld og ti sæt tøj. 
+v5 Da sagde Arams konge: >>Drag af sted, tag derhen, så vil jeg sende et brev til Israels konge.<< Og han drog bort og tog ti talenter{N: gt-mål} sølv med sig og 6000 sekel{N: gt-mål} guld og ti sæt tøj. 
 
 v9 Så kom Na’aman med sine heste og stridsvogn og holdt uden for døren til Elisas hus. 
 v10 Da sendte Elisa bud ud til ham og lod sige: >>Gå hen og vask dig syv gange i Jordanfloden, så vil din krop blive som før og være ren.<< 

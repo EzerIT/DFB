@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 16===
 
 ==Israelitterne knurrer, og JHVH svarer dem==
@@ -47,5 +47,5 @@ v32 Moses sagde: >>Dette er det ord som JHVH befalede: >Tag en omerfuld af det i
 v33 Og Moses sagde til Aron: >>Tag en krukke, og læg i den en omerfuld manna, og sæt den foran JHVH til forvaring til jeres efterkommere.<<
 v34 Sådan som JHVH befalede Moses, satte Aron den i forvaring foran vidnesbyrdet. 
 v35 Israels børn spiste mannaen i fyrre år, til de kom til beboet{T: Kan også oversættes: >>som kunne beboes<<.} land. De spiste mannaen indtil de kom til grænsen af Kanaans land.
-v36 Omeren er en tiendedel af efaen{E: En efa er rummål = 39,3 l, jf. v. 16.}.
+v36 Omeren er en tiendedel af efaen{N: gt-mål}.
 

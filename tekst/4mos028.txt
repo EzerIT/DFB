@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.07.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Fjerde Mosebog, kapitel 28===
 
 ==JHVH giver love om det daglige offer.==
@@ -10,7 +10,7 @@ v1 JHVH sagde til Moses:
 v2 >>Giv israelitterne befaling og sig til dem: >I skal være omhyggelige med min offergave, min mad knyttet til mine ildofre,{E: Teksten har først et foranstillet *qorbānî* >>min offergave<< og det er et helt generelt ord for et offer. Derefter følger i apposition *laḥmî*, >>mit brød<<, der tydeligvis indsnævrer emnet til omhandle afgrødeofferet. Dette brød, eller denne mad, er med *lᵊ* >>knyttet til<< forbundet til ʔiššay >>mine ildofre<<, der så er en dejlig duft. Fra andre tekster ved vi at en håndfuld af kornet blev brændt, og resten blev spist af præsten.} der er en dejlig duft for mig, at I frembærer dem på deres fastsatte tidspunkter.
 v3 Du skal sige til dem: >Dette er det ildoffer som I skal frembære for JHVH: Hver dag to årgamle fejlfri lam, som et dagligt offer.
 v4 Det ene lam skal du give om morgenen, og det andet lam skal du give ved tusmørkets frembrud,
-v5 sammen med en tiendedel efa{T: Det samme som 2,2 liter.} mel som afgrødeoffer, blandet med en fjerdedel hin{T: Det samme som 0,9 liter.} olie af knuste oliven.
+v5 sammen med en tiendedel efa{N: gt-mål} mel som afgrødeoffer, blandet med en fjerdedel hin{N: gt-mål} olie af knuste oliven.
 v6 Det er et dagligt brændoffer som blev indstiftet på Sinajs bjerg til en dejlig duft, et ildoffer for JHVH.
 v7 Dertil en fjerdedel hin som drikoffer til det ene lam. Du skal hælde et drikoffer af en stærk drik ud på det hellige sted for JHVH.
 v8 Det andet lam skal du ofre ved tusmørkets frembrud. Med det samme afgrødeoffer og drikoffer skal du ofre det, det er et ildoffer, en dejlig duft for JHVH.

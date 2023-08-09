@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 07.07.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Fjerde Mosebog, kapitel 3===
 
@@ -80,7 +80,7 @@ v43 Alle førstefødte af hankøn, efter antallet af navne, fra en måned gamle 
 v44 JHVH sagde til Moses:
 v45 >>Tag levitterne i stedet for alle førstefødte blandt israelitterne og levitternes husdyr i stedet for deres husdyr, og levitterne skal høre mig til: Jeg er JHVH.
 v46 Men hvad angår de 273 af israelitterne, som skal løskøbes, som er flere end levitterne,
-v47 da skal du tage fem sekel for hvert hoved, efter helligdommes sekel skal du tage dem, en sekel er tyve gera.
+v47 da skal du tage fem sekel{N: gt-mål} for hvert hoved, efter helligdommes sekel skal du tage dem, en sekel er tyve gera.{N: gt-mål}
 v48 Du skal give Aron og hans sønner pengene for dem der bliver løskøbt, dem, der er i overtal af dem.<<
 v49 Så tog Moses løsepenge for dem der var flere end dem der blev løskøbt ved levitterne.
 v50 Af israelitternes førstefødte tog han disse penge: 1.365 sekel efter helligdommens sekel.

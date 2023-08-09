@@ -3,7 +3,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 
 ===Esajas’ Bog, kapitel 5===
@@ -82,7 +82,7 @@ til der ikke er mere plads tilbage,
 
 //5 de store og gode huse være uden indbyggere!
 
-//4 v10 For en vingård på ti spand{N: gt-mål} skal kun give en bat,{T: En bat svarer til mellem 17 og 34 liter.} //5 og en homer{T: Homer betyder ordret >>æsellast<<. En homer svarer altså til den vægt et æsel kan bære.} såsæd skal kun give en efa.<<{T: En efa svarer til en tiendedel af en homer.}
+//4 v10 For en vingård på ti spand{N: gt-mål} skal kun give en bat,{N: gt-mål} //5 og en homer{N: gt-mål} såsæd skal kun give en efa.{N: gt-mål}<<
 
 ***
 

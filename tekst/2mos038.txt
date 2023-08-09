@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 38===
 
 ==Brændofferalteret fremstilles==
@@ -35,9 +35,9 @@ v20 Alle pløkkene til boligen og til forgården hele vejen rundt var af bronze.
 v21 Dette er opgørelsen for boligen, Vidnesbyrdets bolig, som det blev opgjort efter Moses’ befaling{T: Ordret: >>mund<<}, levitternes arbejde, under tilsyn{T: Ordret: >>hånd<<.} af Itamar, søn af Aron, præsten.
 v22 Besal’el, søn af Uri, søn af Hur, af Juda stamme, lavede alt det som JHVH havde befalet Moses,
 v23 og sammen med ham Oholiab, søn af Akisamak, af Dans stamme, der arbejdede med indgravering, med design, med broget vævning i purpurblå, purpurrød og karminrød uld og fint linned.
-v24 Alt guldet, som blev brugt til arbejdet, til alt arbejdet på helligdommen, svingningens{E: Hermed menes: >>det indviede<<.} guld, var 29 talenter og 730 sekel efter helligdommens sekel.{T: Kan også oversættes: >>efter helligdommens vægt<< eller: >>efter den hellige sekel<<.}
+v24 Alt guldet, som blev brugt til arbejdet, til alt arbejdet på helligdommen, svingningens{E: Hermed menes: >>det indviede<<.} guld, var 29 talenter{N: gt-mål} og 730 sekel{N: gt-mål} efter helligdommens sekel.{T: Kan også oversættes: >>efter helligdommens vægt<< eller: >>efter den hellige sekel<<.}
 v25 Sølvet fra dem som var mønstret i menigheden, var 100 talenter og 1775 sekel efter helligdommens sekel,
-v26 en beka for hvert hoved – det er en halv sekel efter helligdommens sekel – af hver den som gik over til de mønstrede, fra tyve år og derover, af 603.550 .
+v26 en beka{N: gt-mål} for hvert hoved – det er en halv sekel efter helligdommens sekel – af hver den som gik over til de mønstrede, fra tyve år og derover, af 603.550 .
 v27 Der var 100 talenter sølv til at støbe helligdommens fodstykker og forhængets fodstykker; 100 fodstykker lavet af 100 talenter, en talent til et fodstykke.
 v28 Af de 1775 sekel lavede han kroge til stolperne og overtrak deres toppe og forbandt dem.
 v29 Svingningens bronze var 70 talenter og 2400 sekel.

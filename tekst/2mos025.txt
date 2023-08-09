@@ -2,7 +2,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Dato for denne version: 09.08.2023>!!
 ===Anden Mosebog, kapitel 25===
 
 ==Forordninger om helligdommen (25,1-27,21)==
@@ -55,6 +55,6 @@ v35 nemlig en knop under de to arme på den og en knop under de to andre arme p�
 v36 Deres knopper og deres arme skal være i ét med den; det hele skal være ét udhamret arbejde af purt guld.
 v37 Du skal lave dens lamper, syv, og man skal sætte dens lamper op så den lyser ud foran den.{T: Ordret: >>på den modsatte side foran den<<.}
 v38 Dens lysesakse og dens fyrbækkener skal være af purt guld.
-v39 Af en talent purt guld skal man lave den med alle disse redskaber.
+v39 Af en talent{N: gt-mål} purt guld skal man lave den med alle disse redskaber.
 v40 Og se til og lav tingene efter det forbillede for dem, som du fik vist på bjerget.<<
 

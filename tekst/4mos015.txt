@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 11.05.2017>!!
+!!<Dato for denne version: 09.08.2023>!!
 
 ===Fjerde Mosebog, kapitel 15===
 
@@ -10,7 +10,7 @@
 v1 JHVH talte til Moses:
 v2 >>Tal til israelitterne og sig til dem: >Når I kommer til det land I skal bo i, det som jeg vil give jer,
 v3 og I vil ofre til JHVH et ildoffer,{T: Således ordret på hebraisk. I mange nyere oversættelse udelades det eller oversættes med >>offer<< eller >>offergave<<; det er formodentlig en samlet betegnelse for alle ofre som brændes på alteret.} hvad enten det er et brændoffer eller et slagtoffer, for at indfri et særligt løfte eller som et frivilligt offer eller på jeres særlige højtider for at berede en liflig duft for JHVH af hornkvæg og får og geder,
-v4 da skal den som ofrer det til JHVH, også ofre et afgrødeoffer af en tiendedel efa{T: Rummmålet angives ikke i teksten, men det er almindeligt at opfatte det som en tiendedel af en efa, der regnes enten som 22 liter eller 36 liter.} mel blandet med en fjerdedel af en hin olie, 
+v4 da skal den som ofrer det til JHVH, også ofre et afgrødeoffer af en tiendedel efa{N: gt-mål}{T: Rummmålet angives ikke i teksten, men det er almindeligt at opfatte det som en tiendedel af en efa.} mel blandet med en fjerdedel af en hin{N: gt-mål} olie, 
 v5 og som drikoffer skal du ofre en fjerdedel af en hin vin sammen med brændofferet eller slagtofferet for hvert lam.
 v6 Er det til en vædder, skal du give afgrødeoffer af to tiendedele mel blandet med en tredjedel af en hin olie,
 v7 og en tredjedel af en hin vin skal du ofre som drikoffer til en liflig duft for JHVH.
