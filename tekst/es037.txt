@@ -1,55 +1,172 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 37===
 
-===Esajas' Bog, kapitel 37===
+==Hizkija søger hjælp hos Esajas==
+v1 Og det skete da kong Hizkija hørte det, så flængede han sit tøj, klædte sig{T: Ordret: >>tilhyllede sig<<.} i sæk og gik ind i JHVHs hus.
+v2 Og han sendte Eljakim, der var hofchef, og Sebna, skriveren, og præsternes ældste, der havde klædt sig i sæk, til profeten Esajas, Amos’ søn.
+v3 Og de sagde til ham: >>Sådan siger Hizkija: Denne dag er nødens og tugtens og vanærens dag; for der er kommet børn frem til livmodermunden, men der er ingen kraft til fødsel.
+v4 Måske JHVH din Gud vil høre ordene fra kommandanten,{T: Se til 36,1.} som hans herre, Assyriens konge, sendte for at håne den levende Gud, og han vil tugte ham for de ord, som JHVH din Gud har hørt; så bed{T: Ordret: >>løft<<.} en bøn for den rest der er blevet tilbage.<<
+***
+v5 Så kong Hizkijas tjenere kom til Esajas, 
+v6 og Esajas sagde til dem: >>Sådan skal I sige til jeres herre: Sådan siger JHVH: Frygt ikke for de ord som du hørte, dem som Assyriens konges tjenere hånede mig med.
+v7 Se, jeg vil indgive ham en ånd, og han skal høre en efterretning og tage tilbage til sit land, og jeg vil lade ham falde for sværdet i hans land.<<
 
-==Ezekias flænger sit tøj og sender bud til Esajas med ønske om, at han skal bede for dem til JHVH, 1-4; JHVH lader Ezekias trøste og forkynder Senakeribs undergang, men Senakerib sender bud til kongen med spottende breve, 5-13; Ezekias lægger brevene frem for JHVH og beder inderligt, 14-20; Esajas forkynder for ham, at JHVH vil straffe Senakerib og beskytte Jerusalem, 21-35; en engel slår 185.000 mand i assyrernes hær ihjel, og Senakerib dræbes af sine to sønner, 36-38.==
+==Nye trusler==
+v8 Da kommandanten vendte tilbage, fandt han Assyriens konge i færd med at kæmpe mod Libna; for han hørte, at han var rejst fra Lakish.
+V9 Og han hørte om Tirhaka, Nubiens konge, at der blev sagt: Han er rykket ud for at kæmpe imod dig. Da han hørte det, sendte han budbringere til Hizkija og lod sige:
+v10 >>Sådan skal I sige til Hizkija, Judas konge: Lad ikke din Gud, som du sætter din lid til, bedrage dig så du siger: Jerusalem skal ikke gives i Assyriens konges hånd.
+V11 Se, du har hørt hvad Assyriens konger har gjort ved alle landene, at de har lagt ban på dem, og så skulle du reddes?
+V12 Har folkenes{T: Kan også oversættes: >>hedningernes<<.} guder reddet dem som mine fædre ødelagde, nemlig Gozan og Karan og Resef og Edens børn, der er i Telassar?
+V13 Hvor er Hamats konge og Arpads konge og kongen over Sefarvajims by og af Hena og Ivva?<<
 
+==Hizkijas bøn==
+v14 Og Hizkija modtog brevet{T: Det hebraiske ord står i pluralis, men det må formodentlig opfattes som understregning af hvor vigtigt brevet var, medmindre man vil følge Septuaginta og rette til singularis.} af sendebudenes hånd og læste det; og han gik op i JHVHs hus, og Hizkija bredte det ud for JHVHs ansigt.
+v15 Hizkija bad til JHVH og sagde:  
+v16 >>Hærskarers HERRE{N: Hærskarers}, Israels Gud, som troner over keruberne! Kun du alene er Gud over alle jordens kongeriger; du har skabt himlen og jorden.
+V17 Bøj, JHVH, dit øre og hør! Åbn, JHVH, dine øjne og se! Og hør alle Sankeribs ord som han har sendt for at håne den levende Gud.
+v18 I sandhed, JHVH: Assyriens konger har ødelagt alle landene{E: Enkelte håndskrifter har ikke: *hāˀᵃrāṣôt* (>>landene<<), men *haggôyim*: >>folkene<<, jf. parallellen i 2 Kong 19,17.} og deres land.{T: Sætningen kan også oversættes: >>Assyriens konger har lagt alle nationer og deres land øde<<. Det er dog samme hebraiske ord, der oversættes: >>nation<< og >>land<<.}
+v19 Og de har overgivet deres guder til ilden, for de var ikke guder, men menneskehænders værk, træ og sten, og de tilintetgjorde dem.
+v20 Men nu, JHVH vor Gud! Frels os fra hans hånd, så alle jordens kongeriger må forstå at du er JHVH, du alene.<<
 
-v1 Og det skete, da kong Ezekias hørte det, så flængede han sit tøj og tog sæk på og gik ind i JHVHs hus.
-v2 Og han sendte Eliakim, der var hofmester, og Sebna, kansleren, og de ældste af præsterne, der havde taget sæk på, til profeten Esajas, Amoz' søn.
-v3 Og de sagde til ham: >>Sådan sagde Ezekias: Denne dag er nødens og straffens og bespottelsens dag; for børnene er kommet frem til fødselens sted, og der er ingen kraft til at føde.
-v4 Måske JHVH din Gud vil høre Rabsakes ord, som hans herre assyrerkongen sendte for at håne den levende Gud, og han vil straffe ham for de ord, som JHVH din Gud har hørt; så send en bøn for den rest, der er blevet tilbage<<
+==Profeti mod Sankerib==
+v21 Så sendte Esajas, Amos’ søn, bud til Hizkija og lod sige: >>Sådan siger JHVH, Israels Gud: Da du har bedt til mig angående Sankerib, Assyriens konge,
+v22 er dette det ord som JHVH har taler imod ham: 
 
-v5 Da kong Ezekias' tjenere kom til Esajas, 
-v6 da sagde Esajas til dem: >>Sådan skal I sige til jeres herre: JHVH sagde sådan: Frygt ikke for de ord, som du hørte, dem, som assyrerkongens tjenere hånede mig med.
-v7 Se, jeg vil indgive ham en ånd, og han skal høre et rygte og tage tilbage til sit land, og jeg vil fælde ham med sværd i hans land.<<
-v8 Og da Rabsake kom tilbage, da fandt han ud af, at kongen af Assyrien kæmpede imod Libna; for han hørte, at han var rejst fra Lakis.
-v9 Og da han hørte om Thiraka, Etiopiens konge, og der blev sagt: Han er rykket ud for at kæmpe imod dig, da han hørte det, så sendte han bud til Ezekias og lod sige:
-v10 >>Sådan skal I sige til Ezekias, Judas konge: Lad ikke din Gud, som du sætter din lid til, bedrage dig, så du siger: Jerusalem skal ikke gives i assyrerkongens hånd.
-v11 Se, du har hørt, hvad assyrerkongerne har har gjort ved alle landene, at de har ødelagt dem, og skulle du så gå fri?
-v12 Har hedningernes guder udfriet dem, som mine fædre ødelagde, nemlig Gosan og Haran og Rezef og Edens børn, der boede i Telassar?
-v13 Hvor er kongen af Hamat og kongen af Arfad og kongen af Sefarvajms by og af Hena og Jova?<<
+Hun foragter dig, hun spotter dig,
 
-v14 Og Ezekias tog brevene af budbringernes hånd og læste dem; og han gik op til JHVHs hus, og Ezekias bredte dem ud for JHVHs ansigt.
-v15 Og Ezekias bad til JHVH og sagde:  
-v16 >>JHVH Zebaoth, Israels Gud! Du, som sidder over keruber, du alene er Gud over alle riger på jorden, du skabte himlene og jorden.
-v17 JHVH, bøj dit øre og hør! JHVH, luk dine øjne op og se! Og hør alle Senakeribs ord, som han sendte for at håne den levende Gud.
-v18 Det er sandt, JHVH! Assyrerkongerne har ødelagt alle landene og deres eget land.
-v19 Og de har overgivet deres guder til ilden, fordi de ikke var guder, men menneskehænders værk, træ og sten, og de tilintetgjorde dem.
-v20 Men nu, JHVH vor Gud! Frels os fra hans hånd, så alle riger på jorden må forstå, at du er JHVH, du alene.<<
+Zions datters jomfru.
 
-v21 Da sendte Esajas, Amoz' søn, bud til Ezekias og lod sige: >>Sådan siger JHVH, Israels Gud: Du har bedt til mig om Senakerib, assyrerkongen.<<
-v22 Dette er det ord, som JHVH har talt imod ham: Jomfruen, Zions datter, foragter dig og spotter dig, Jerusalems datter ryster på hovedet ad dig.
-v23 Hvem har du spottet og hånet? Og hvem hævede du stemmen imod? Og du løftede dine øjne højt imod Israels Hellige.
-v24 Du spottede JHVH gennem dine tjenere og sagde: >>Med mit store antal vogne er jeg kørt op på bjernes toppe, Libanons tinder; og jeg vil hugge dens høje cedertræer om, dens udvalgte fyrretræer, og jeg vil nå op på dens højeste tinde, til dens frodige skov.
-v25 Jeg har gravet brønde og drukket vand og tørret alle dybe floder ud med mine fodsåler.<<
-v26 Har du ikke hørt, at jeg har gjort det for lang tid siden, at jeg har tilrettelagt det i gamle dage? Nu har jeg ladet det komme, og det skal være for at ødelægge de faste byer, så de bliver til øde grusdynger.
-v27 Og beboerne blev magtesløse, blev knust og gjort til skamme; de blev som græs på marken og som de grønne urter, som hø på tagene og som korn, der er blevet svedet af, før det sætter aks.
-v28 Og jeg kender din bolig og din udgang og din indgang og ved, at du raser imod mig.
-v29 Fordi du raser imod mig, og din sorgløshed er kommet mig for øre, så vil jeg lægge min krog i din næse og mit bidsel i dine læber og føre dig tilbage ad den vej, som du kom på.
-v30 Og dette skal være tegnet for dig: At man i år skal spise det, der gror uden arbejde, og i det andet der, der vokser af sig selv; men i det tredje år skal I så og høste og plante vingårde og spise deres frugt!
-v31 For det, der er undsluppet, resten af Judas hus, skal igen slå rødder for neden og bære frugt for oven.
-v32 For fra Jerusalem skal der komme nogle, der er blevet til rest, og fra Zions bjerg nogle, der er undsluppet; JHVH Zebaoths brændende iver skal gøre det.
-v33 Derfor siger JHVH sådan om assyrerkongen: Han skal ikke komme ind i denne by og ikke skyde en pil derind og ikke rykke frem mod den med skjold og ikke kaste nogen vold op imod den.
-v34 Han skal tage tilbage ad den vej, som han kom på, og ikke komme ind i denne by, siger JHVH.
-v35 Men jeg vil beskytte denne by for at frelse den, for min skyld og for Davids, min tjeners, skyld.
+Hun ryster på hovedet ad dig,
 
-v36 Da fór JHVHs engel ud og dræbte 185.000 mand i Assyrernes lejr; og da man stod tidligt op om morgenen, se, da var de alle sammen døde kroppe.
-v37 Så rejste Senakerib, assyrerkongen, og tog afsted og vendte tilbage, og han blev i Ninive.
-v38 Og det skete, da han tilbad i sin gud Nisroks hus, da dræbte hans sønner, Adramelek og Sar-Ezer, ham med sværd, og de undslap til Ararats land, og hans søn Asarhaddon blev konge i hans sted.
+Jerusalems datter.
 
+v23 Hvem spottede og hånede du? 
+
+Og mod hvem hævede du stemmen? 
+
+Du har løftet dine øjne højt 
+
+mod Israels Hellige!
+
+v24 Gennem dine tjenere spottede du JHVH
+
+og sagde: >Med mit store antal vogne 
+
+er jeg steget op på høje bjerge,
+
+det fjerneste Libanon; 
+
+og jeg vil fælde dets høje cedertræer, 
+
+dets udvalgte enebærtræer, 
+
+og jeg vil nå op på dets højeste grænse, 
+
+til dets frodige{T: Ordret: >>haveagtige<<.} skov.
+
+v25 Jeg har gravet og drukket vand,
+
+og med mine fodsåler vil jeg udtørre
+
+alle Egyptens floder.<
+
+***
+
+v26 Har du ikke for lang tid siden hørt 
+
+at jeg har gjort det? 
+
+Jeg har tilrettelagt det fra ældgamle dage. 
+
+Nu har jeg ladet det komme, 
+
+så de skal blive til øde stendynger,
+
+de befæstede byer.
+
+v27 Og deres beboere, de magtesløse, 
+
+blev forfærdede og gjort til skamme; 
+
+de blev som markens planter 
+
+og som grønne urter, 
+
+som græs på tage 
+
+og som en kornmark,{E: Oversættelsen af det hebraiske ord: *šᵊdēmāʰ* er omdiskuteret, og man vælger ofte at rette til: *šᵊdēfāʰ*: >>afsvidning<<, jf. 2 Kong 19,26.} før den er moden.{E: Ofte foreslås det at rette *qāmāʰ* (>>umodent korn<<) både her og i 2Kong 19,26 til: *qādîm*: >>østenvind<<.}
+
+***
+
+v28 Og om du sætter dig, eller du går ud,
+
+eller du går ind, jeg ved det, 
+
+også dit raseri imod mig.
+
+v29 Fordi du raser imod mig, 
+
+og dit overmod{E: Ofte går man ud fra, at der i stedet for: *šaˀᵃnanxā* skulle stå: *šᵊʔônxā*: >>larm<<.} er kommet mig for øre, 
+
+vil jeg lægge min ring i din næse 
+
+og mit bidsel i dine læber 
+
+og bringe dig tilbage 
+
+ad den vej du kom på.
+
+==Jerusalems frelse==
+v30 Og dette skal være tegnet for dig: 
+
+I år skal man spise det der har sået sig selv, 
+
+og i det andet år det der vokser af sig selv; 
+
+men i det tredje år skal I så og høste, 
+
+og I skal plante vingårde og spise deres frugt!
+
+v31 Og Judas hus’ undslupne, resten, skal igen slå rod forneden 
+
+og sætte frugt foroven.
+
+v32 For fra Jerusalem skal der udgå en rest 
+
+og undslupne fra Zions bjerg. 
+
+Hærskarers HERRES{N: Hærskarers} nidkærhed skal gøre dette.
+
+v33 Derfor siger JHVH sådan om Assyriens konge: 
+
+Han skal ikke komme ind i denne by 
+
+og skal ikke skyde en pil derind 
+
+og skal ikke rykke frem mod den med skjold 
+
+og skal ikke kaste en vold op imod den.
+
+v34 Ad den vej han kom, 
+
+skal han vende tilbage
+
+og ikke komme ind i denne by, 
+
+lyder JHVHs udsagn.
+
+v35 Men jeg beskytter denne by for at frelse den, 
+
+for min skyld og for Davids, min tjeners, skyld.<<
+
+***
+
+v36 Så gik JHVHs engel ud og dræbte 185.000 mand i Assyriens lejr; og da man stod op tidligt om morgenen, se, da var de alle døde kroppe.
+v37 Så brød Sankerib, Assyriens konge, op og tog afsted og vendte tilbage, og han blev i Nineve.
+v38 Og det skete mens han tilbad i sin gud Nisroks hus, at hans sønner, Adramelek og Sarezer, dræbte ham med sværd, og de undslap til Ararats land, og hans søn Asarhaddon blev konge i hans sted.
 
 

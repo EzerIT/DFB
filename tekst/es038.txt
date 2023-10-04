@@ -1,37 +1,111 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 38===
 
-===Esajas' Bog, kapitel 38===
+==Hizkijas sygdom og helbredelse==
+v1 I de dage blev Hizkija dødssyg, og Esajas, Amos' søn, profeten, kom til ham og sagde til ham: >>Sådan siger JHVH: Bring orden i dit hus, for du skal dø og ikke leve.<<
+v2 Hizkija vendte sit ansigt mod væggen, og han bad til JHVH
+v3 og sagde: >>Ak, JHVH, Husk dog hvordan jeg har vandret for dit ansigt i sandhed og helhjertet og har gjort det der er godt i dine øjne.<< Og Hizkija græd højt.
+v4 Da kom JHVHs ord til Esajas og lød: 
+v5 >>Gå hen og sig til Hizkija: Sådan siger JHVH, din far Davids Gud: Jeg har hørt din bøn, jeg har set dine tårer; se, man vil lægge{E: Man går ofte ud fra, at der i stedet for *yôsif* skulle står: *hōsaftî*: >>jeg lægger …til << som i 2 Kong 20,6.} femten år til dine dage.
+v6 Og jeg vil befri dig og denne by ud af Assyriens konges hånd, og jeg beskytter denne by.
+v7 Og dette er tegnet til dig fra JHVH på at JHVH vil gøre denne gerning, som han meddeler:
+v8 Se, jeg fører solurets skygge, der er gået nedad på Akaz' solur, ti streger tilbage ved hjælp af solen. << Og solen gik ti streger tilbage på soluret, som den var gået ned.
+***
+v9 Et skrift{E: Man går ofte ud fra at der i stedet for: *mixtāv* (>>skrift<<, andre oversætter: >>sang<<.) skulle stå: *mixtām*: >>Miktam<<.} af Hizkija, Judas konge, da han havde været syg og var kommet sig af sin sygdom:
 
-==Ezekias bliver syg, beder til JHVH, bønhøres og får et tegn på, at han skal blive rask, 1-8; Ezekias beskriver den store nød og angst, han havde været i, og han priser JHVHs hjælp og velgerninger, 9-20; måden, han blev rask på, beskrives, 21-22.==
+v10 Jeg sagde: Midt {E: Andre vil oversætte: *dᵊmî* ved: >>rolige<<, altså: >>I mine rolige dage<<, der forstås som: >>lykkelige dage<<.} i mine dage skal jeg gå gennem dødsrigets porte; 
 
+jeg bliver frataget resten af mine år.
 
-v1 I de dage blev Ezekias dødssyg, og Esajas, Amoz' søn, profeten, kom til ham og sagde til ham: >>Sådan sagde JHVH: Få orden på dine sager, for du skal dø og ikke leve.<<
-v2 Og Ezekias vendte sit ansigt mod væggen og bad til JHVH
-v3 og sagde: >>Ak, JHVH, Husk dog, at jeg trofast og med et retskaffent hjerte har vandret for dit ansigt og gjort det, der er godt i dine øjne;<< og Ezekias græd højt.
-v4 Og JHVHs ord kom til Esajas og lød: 
-v5 >>Gå hen og sig til Ezekias: Sådan siger JHVH, din far Davids Gud: Jeg har hørt din bøn, jeg har set din gråd; se, jeg lægger femten år til dine dage.
-v6 Og jeg vil fri dig og denne by ud af assyrerkongens hånd og beskytte denne by.<<
-v7 Og du skal få dette tegn af JHVH på, at JHVH skal gøre denne gerning, som han har sagt:
-v8 Se, jeg vil lade solskivens skygge, der er gået nedad med solen på Akas' solskive, gå ti streger tilbage; og solen gik ti streger tilbage af de streger, som den var gået ned.
+v11 Jeg sagde: Jeg skal ikke se JHVH,{E: Her og i næste vers har den hebraiske tekst kortformen: *yāh*. Enkelte håndskrifter har den fulde form: *yᵊhwāʰ*: >>JHWH<<.} 
 
-v9 Et skrift af Ezekias, Judas konge, da han havde været syg og var blevet helbredt fra sin sygdom:
-v10 Jeg sagde: Nu, da jeg har fået rolige dage, må jeg vandre ind ad dødsrigets porte; jeg må savne resten af mine år.
-v11 Jeg sagde: Jeg skal ikke se JHVH, JHVH i de levende land; jeg skal ikke mere se mennesker, når jeg er iblandt dem, der bor i skyggeriget.
-v12 Min levetid er afbrudt og flyttet fra mig som en hyrdes telt; jeg har rullet mit liv sammen som en væver sit væv, jeg skæres fra trådene; fra dag til nat gør du ende på mig.
-v13 Jeg holdt mig stille indtil om morgenen som en løve, så knuses alle mine ben;  fra dag til nat gør du ende på mig.
-v14 Jeg klagede som en trane, som en svale, jeg kurrede som en due; matte løftedes mine øjne til det høje: JHVH, jeg er beklemt, vær min garanti!
-v15 Hvad skal jeg sige? Han har sagt det til mig, og han har gjort det; jag skal vandre stille alle mine år på grund af min sjæls bitterhed.
-v16 Herre, ved disse ting {T: nemlig ved dine ord og handlinger} lever man, og ved dem alle får min ånd liv; gør mig stærk, og hold mig i live!
-v17 Se, det bitre blev til fred for mig, ja, det bitre; men du har kærligt taget imod min sjæl fra ødelæggelsens grav; for du kastede alle mine synder bag din ryg.
-v18 For dødsriget takker dig ikke, døden priser dig ikke; de, der farer ned i graven, venter ikke på din trofasthed.
-v19 Den, der lever, ja, den, der lever, han takker dig som jeg i dag; en far underviser sine børn om din trofasthed.
-v20 JHVH er villig til at frelse mig, og med mine harpetoner vil vi spille alle vores livs dage i JHVHs hus.
+JHVH i de levendes land; 
 
-v21 Men Esajas sagde, at de skulle tage en klump figen og lave den til et plaster på hans byld, så skulle han leve.
-22 Og Ezekias sagde: >>Hvilket tegn er der på, at jeg skal gå op til JHVHs hus?<<
+jeg skal ikke mere se et menneske, 
 
+blandt dem der bor i verden.{E: Andre oversætter: >>dødsriget<<. I stedet for *ḥādel* har en del manuskripter: *ḥeled*: >>verden<<.}
+
+v12 Min bolig brydes ned og flyttes fra mig 
+
+som en hyrdes telt; 
+
+jeg har rullet mit liv sammen som en væver, 
+
+man skærer mig af fra trådene; 
+
+fra dag til nat vil du gøre ende på mig.
+
+v13 Jeg holdt mig stille{E: Targum har læst: *šiwwaʕtî*: >>råbte om hjælp<<.} indtil morgen, 
+
+som en løve{T: Ifølge accenterne hører >>som en løve<< til den foregående sætning, men ordene knyttes normalt til denne sætning.} knuser han så alle mine knogler;  
+
+fra dag til nat gør du ende på mig.
+
+v14 Som en svale, en trane,{T: Det er usikkert hvilke fugle der er tale om.} sådan peb jeg,
+
+jeg kurrede som en due. 
+
+Mine øjne løftedes mod det høje. 
+
+Herre, jeg er i nød, 
+
+Stil sikkerhed for mig!
+
+***
+
+v15 Hvad skal jeg sige? 
+
+Han har sagt det til mig, og han har gjort det. 
+
+jeg skal vandre stille alle mine år 
+
+på grund af min sjæls bitterhed.
+
+v16 Herre, ved disse ting{T: Nemlig ved Herrens ord og handlinger} lever man, 
+
+og i alt ved dem er min ånds liv; 
+
+gør mig stærk, og hold mig i live!
+
+v17 Se, for at få fred havde jeg stor bitterhed; 
+
+men du udfriede kærligt min sjæl fra ødelæggelsens grav; 
+
+for om bag din ryg kastede du 
+
+alle mine synder.
+
+v18 For dødsriget takker dig ikke, 
+
+døden lovpriser dig ikke; 
+
+de der går ned i graven, håber ikke 
+
+på din trofasthed.
+
+v19 Den der lever, den der lever, han takker dig 
+
+som jeg i dag. 
+
+En far til sønner
+
+skal fortælle om din trofasthed.
+
+v20 JHVH er min frelse, 
+
+vil vi spille på mine strengespil 
+
+alle vores livs dage 
+
+oppe i JHVHs hus.
+
+***
+
+v21 Så sagde Esajas at de skulle tage en figenkage og gnide den på hans byld, så ville han blive rask.
+v22 Og Hizkija sagde: >>Hvad er tegnet på at jeg skal gå op til JHVHs hus?<<
 
 

@@ -1,36 +1,36 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 36===
 
-===Esajas' Bog, kapitel 36===
+==Assyrerkongen Sankeribs angreb==
+v1 Og det skete i kong Hizkijas fjortende år at Sankerib, Assyriens konge, drog op mod alle Judas faste byer og indtog dem.
 
-==Senakerib indtager Judas faste byer og sender Rabsake til kong Ezekias for at sætte folket op imod ham og spotte ham i hele folkets påhør, 1-10; og da Eliakim beder om, at han for folkets skyld skal tale syrisk, råber han så meget højere på judæisk for at gøre folket mismodigt, idet han minder dem om, at ingen gud har reddet sit land fra Senakeribs hånd; Eliakim og de andre svarer ikke på det og fortæller det til Ezekias, 11-22.==
+v2 Og Assyriens konge sendte kommandanten{T: Der er tale om en assyrisk titel: >>Rabsake<< der egentlig betyder: >>overmundskænk<<. I mange oversættelser bevares det uoversat.} fra Lakish til Jerusalem, til kong Hizkija, med en stor styrke; og han stod ved den øverste dams vandledning, der ligger ved vejen til vaskepladsen.
+v3 Så gik Eljakim, Hilkijas søn, der var hofchef, ud til ham, sammen med Shebna, skriveren, og Joa, Asafs søn, sekretæren. 
+v4 Kommandanten sagde til dem: >>Sig til Hizkija: Sådan siger den store konge, Assyriens konge: Hvad er det for en tillid som du stoler på?
+v5 Jeg siger: Det er kun læbers ord at der er klogskab og styrke til krigen; så, hvem stoler du på siden du gør oprør mod mig?
+v6 Se, du stoler på denne knækkede rørstok, på Egypten, som hvis nogen støtter sig på den, går ind i hans hånd og gennemborer den. Sådan er Farao, Egyptens konge, for alle dem der stoler på ham.
+v7 Og vil du sige til mig: >Vi stoler på JHVH, vores Gud!< – Er det så ikke ham hvis høje og altre Hizkija har fjernet da han sagde til Juda og til Jerusalem: >For dette alter skal I tilbede<?
+v8 Og nu, indgå et væddemål med min herre, Assyriens konge, så vil jeg give dig to tusind heste hvis du på din side kan sætte ryttere på dem.
+v9 Hvordan vil du trænge en eneste statholder{T: Ordret: >>statholders ansigt<<.} af min herres ringeste tjenere tilbage? Men du stoler på Egypten for vogne og ryttere.
+v10 Og nu, mon jeg uden JHVHs vilje er draget op mod dette land for at ødelægge det? JHVH sagde til mig: Drag op til dette land og ødelæg det!<<
 
+v11 Da sagde Eljakim og Shebna og Joa til kommandanten: >>Kære herre, tal dog til dine tjenere på aramæisk, for det forstår vi; og tal ikke til os på judæisk for ørerne af folket der er på muren.<<
+v12 Men kommandanten sagde: >>Har min herre sendt mig til din herre og til dig for at tale disse ord? Mon det ikke er over{E: Septuaginta forudsætter, at præpositionen *ʕal* skal rettes til: *ʔel*: >>til<<.} de mænd der sidder på muren, og som skal æde deres egne ekskrementer og drikke deres ege urin sammen med jer?<<
+v13 Så stod kommandanten frem og råbte med høj stemme på judæisk, og han sagde: >>Hør den store konges, Assyriens konges, ord!
+v14 Sådan siger kongen: Lad ikke Hizkija bedrage jer, for han vil ikke kunne redde jer!
+v15 Og lad ikke Hizkija få jer til at stole på JHVH ved at sige: JHVH skal helt sikkert udfri os; denne by skal ikke gives i Assyriens konges hånd.
+v16 Hør ikke på Hizkija; for sådan siger Assyriens konge: Slut fred{T: Ordret: >>velsignelse<<.} med mig, og gå ud til mig og spis hver af sin vinstok og hver af sit figentræ, og drik vand hver af sin brønd,
+v17 indtil jeg kommer og tager jer til et land som jeres land, et land med korn og vin, et land med brød og vingårde.
+v18 Lad ikke Hizkija forføre jer ved at sige: JHVH vil udfri os! Har folkenes{T: Kan også oversættes: >>hedningernes<<.}  guder mon friet hver sit land ud af Assyriens konges hånd?
+v19 Hvor er Hamats og Arfads guder? Hvor er Sefarvajims guder? Og mon de har friet Samaria ud af min hånd?
+v20 Hvem er der iblandt alle disse landes guder der har friet deres land ud af min hånd? Og så skulle JHVH fri Jerusalem ud af min hånd?<<
 
-v1 Og det skete i kong Ezekias' fjortende år, at Senakerib, kongen af Assyrien, drog op imod alle Judas faste byer og indtog dem.
-v2 Og kongen af Assyrien sendte Rabsake fra Lakis til Jerusalem til kong Ezekias med en stor hær; og han stod ved den øverste dams vandledning, der ligger ved landevejen til Blegerens Mark.
-v3 Så gik Eliakim, Hilkias søn, der var hofmester, og Sebna, kansleren, og Joa, Asafs søn, historieskriveren, ud til ham. 
-v4 Og Rabsake sagde til dem: >>Sig til Ezekias: Sådan siger den store konge, kongen af Assyrien: Hvad er det for en tillid, som du stoler på?
-v5 Jeg siger – det er dog kun læbers ord – at der er klogskab og styrke til krigen; men hvem stoler du egentlig på, siden du er faldet fra mig?
-v6 Se, du stoler på denne knækkede rørkæp, på Egypten; støtter nogen sig på den, da går den ind i hans hånd og gennemborer den; sådan er Farao, kongen af Egypten, for alle dem, der stoler på ham.
-v7 Og vil du sige til mig: Vi stoler på JHVH vores Gud, er det så ikke ham, hvis høje og altre Ezekias har fjernet, idet han sagde til Juda og til Jerusalem: Det er for dette alter, I skal tilbede?
-v8 Og nu, indgå et væddemål med min herre, kongen af Assyrien, så vil jeg give dig to tusind heste, hvis du kan skaffe dig ryttere til dem.
-v9 Hvordan ville du da slå en fyrstes magt tilbage, om han så hørte til min herres ringeste tjenere? Men du stoler på Egypten på grund af vogne og ryttere.
-v10 Og nu, mon jeg vel er draget op imod dette land for at ødelægge det uden JHVHs vilje? JHVH sagde til mig: Drag op imod dette land og ødelæg det!<<
+v21 Men de tav og svarede ham ikke et ord; for det var befalingen fra kongen der havde sagt: Svar ham ikke!
 
-v11 Da sagde Eliakim og Sebna og Joa til Rabsake: >>Kære herre, tal til dine tjenere på syrisk, for det forstår vi; og tal ikke til os på judæisk for ørerne af folket, der står på muren.<<
-v12 Men Rabsake sagde: >>Har min herre sendt mig til din herre eller til dig for at tale disse ord? Mon det ikke er til de mænd, der sidder på muren, og som skal komme til at æde deres eget skidt og drikke deres eget vand sammen med jer?<<
-v13 Så stod Rabsake og råbte med høj stemme på judæisk og sagde: >>Hør den store konges, assyrerkongens ord!
-v14 Sådan sagde kongen: Lad ikke Ezekias bedrage jer, for han kan ikke redde jer!
-v15 Og lad ikke Ezekias få jer til at stole på JHVH, idet han siger: JHVH skal helt sikkert fri os ud; denne by skal ikke gives i assyrerkongens hånd.
-v16 Hør ikke på Ezekias; for assyrerkongen sagde: Slut fred med mig, og gå ud til mig og spis hver af sit vintræ og hver af sit figentræ, og drik vand hver af sin brønd,
-v17 indtil jeg kommer og henter jer til et land som jeres land, et land, som der er korn og vin i, et land, som der er brød og vingårde i.
-v18 Lad ikke Ezekias lokke jer, idet han siger: JHVH skal fri os ud. Har hedningernes guder mon friet hver sit land ud af assyrerkongens hånd?
-v19 Hvor er Hamats og Arfads guder? Hvor er Safarvajms guder? Og mon de har reddet Samaria ud af min hånd?
-v20 Hvem er der iblandt alle disse landes guder, der har friet deres land ud af min hånd? Og så skulle JHVH redde Jerusalem ud af min hånd?<<
-v21 Og de tav og svarede ham ikke et ord; for det var befalingen far kongen, der havde sagt: Svar ham ikke noget!
-v22 Så kom Eliakim, Hilkias søn, der var hofmester, og Sebna, kansleren, og Joa, Asafs søn, historieskriveren, til Ezekias med flænget tøj; og de medmeldte ham Rabsakes ord.
-
+v22 Så kom Eljakim, Hilkijas søn, der var hofchef, og Shebna, skriveren, og Joa, Asafs søn, sekretæren, til Hizkija med flængede klæder; og de rapporterede kommandantens ord til ham.
 
 

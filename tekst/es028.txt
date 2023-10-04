@@ -1,43 +1,264 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 06.06.2018>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 28===
 
-===Esajas' Bog, kapitel 28===
+==Domsprofeti over Samaria og Jerusalem== 
+v1 Ve stoltheds krone, 
 
-==Esajas profeterer om de ti stammers ødelæggelse på grund af deres stolthed, 1-4; om Judas velstand, 5-6; om Guds straffe, også over det, på grund af mange alvorlige synder og bespottelser, 7-13; han bebrejder dem deres dårlige livsførelse og henviser dem til hovedhjørnestenen og advarer dem og forkynder Guds domme, 14-23; han viser dem med en lignelse, hvordan handler med sit folk, 24-29.==
+Efraims berusede, 
 
-v1 Ve de berusedes {T: Dvs. Samarias} stolte krone i Efraim og deres dejlige prydelses falmede blomst, der står oven over den fede dal, der, hvor de dingler af vin!
-v2 Se, JHVH har en stærk og mægtig mand, der er som et regnskyl med hagl, som en ødelæggende storm; som et skyl af mægtige vande, der strømmer over, skal han slå til jorden med magt.
-v3 Med fødder skal den trædes ned, de berusedes stolte krone i Efraim.
-v4 Og deres dejlige prydelses falmede blomst, der står oven over den fede dal, skal blive som en figen, der er tidligt moden før sommeren, som én får øje på og sluger, så snart han får den i hånden.
-v5 På den dag skal JHVH Zebaoth blive til en dejlig krone og en herlig krans for sit folks rest
-v6 og til rettens Ånd for dem, der sidder i domstolen, og til styrke for dem, der driver krigen tilbage til porten {T: Dvs. driver fjenden ud af byen}.
+ og en visnet blomst er dens prægtige prydelse
 
-v7 Men også de dingler af vin og er omtågede af stærk drik; præst og profet dingler rundt af stærk drik, de er overvældede af vin, de farer vild under synet, de vakler under dommen.
-v8 For alle borde er fulde af ulækkert bræk; der er ikke én ren plet.
-v9 Hvem skal han lære kundskab? Og hvem skal han få til at forstå det, der høres? Er det dem, der er vænnet fra mælk, dem, der er taget fra brystet?
-v10 For der er bud på bud, bud på bud, regel på regel, regel på regel, lidt her, lidt der.
-v11 Men gennem folk med stammende læber og med fremmed sprog skal han tale til dette folk,
-v12 som han sagde til: >>Her er der ro, lad den trætte hvile, her fås der nye kræfter,<< men de ville ikke høre.
-v13 Så skal JHVHs ord for dem da blive bud på bud, bud på bud, regel på regel, regel på regel, lidt her, lidt der; for at de skal gå bort og falde baglæns og kvæstes og bindes og fanges.
+på højden{T: Kan også oversættes: >>hovedet<<.} over en frugtbar{T: Ordret: >>fede<<. Ordene: >>frugtbar dal<< slettes af en del fortolkere her (jf. vers 4) som forstyrrende i både rytme og mening. Ordene findes dog her i alle håndskrifter.} dal, 
 
-v14 Hør derfor JHVHs ord, I spottere, der hersker over dette folk, der bor i Jerusalem! 
-v15 Fordi I sagde: >>Vi har sluttet en pagt med døden og lavet et forbund med dødsriget; når den svungne svøbe suser forbi, da skal den ikke nå os; for vi har gjort løgn til vores tilflugt og falskhed til vores skjul
-v16 Derfor, sådan sagde Herren JHVH: >>Se, jeg lægger som grundvold i Zion en sten, en prøvet sten, en kostbar hjørnesten, fast grundlagt; den, der tror, haster ikke.<< {T: Den græske oversættelse har: ”skal man ikke blive til skamme.”}.
-v17 Og jeg vil sætte ret som målesnor og retfærdighed som vægt, og hagl skal drive den falske tilflugt bort og vandene skylle over skjulet.
-v18 Og jeres pagt med døden skal blive til intet, og jeres forbund med dødsriget skal ikke bestå, når den svungne svøbe suser forbi, da skal den slå jer ned.
-v19 Hver gang den suser forbi, skal den rive jer bort; for den skal suse forbi hver morgen, om dagen og om natten; og det skal være en rædsel bare at høre rygtet.
-v20 For sengen er for kort, så man ikke kan strække sig ud, og tæppet er for smalt, når man vil dække sig til med det.
-v21 For JHVH skal gøre sig klar som ved Perazims bjerg, han skal harmes som i Gibeons dal, til at gøre sin gerning – forunderlig er hans gerning! og fuldføre sit værk – uhørt er hans værk!
-v22 Og nu, hold op med at spotte, så jeres bånd ikke skal blive strammere; for jeg har hørt om en ødelæggelse og om en fast beslutning fra Herren, JHVH Zebaoth, over hele jorden.
-v23Vend ørerne denne vej og hør min stemme, giv agt og hør min tale!
+fuld af dem som er slået omkuld af vin!
 
-v24 Mon plovmanden pløjer altid for at så, vender og harver sin jord hele tiden?
-v25 Er det ikke sådan, når han har jævnet dens overflade, at han spreder dild og strør kommen og sår hvede i rækker og byg på det afmærkede sted og spelt i kanten?
-v26 For Gud underviser ham om den rigtige måde, hans Gud lærer ham den.
-v27 For dild tærskes ikke med tærskevogn, og vognhjul går ikke hen over kommen; men dild slås af med stav og kommen med kæp.
-v28 Brødkorn stødes småt; for man tærsker det ikke for evigt; og driver man sine vognhjul og sine heste hen over, knuser man det ikke.
-v29 Også dette kommer fra JHVH Zebaoth, han er forunderlig i råd og stor i visdom.
+v2 Se, Herren har en stærk og mægtig, 
+
+der som skybrud af hagl, 
+
+som en ødelæggende storm, 
+
+som et skybrud af mægtige, oversvømmende vande, 
+
+kaster den{T: Kronen (vers 1).} til jorden med magt.
+
+v3 Under fødder skal den trædes ned, 
+
+Efraims berusedes stoltheds krone.
+
+v4 Og hans prægtige smykke, 
+
+en falmet blomst, 
+
+der står på højden over en frugtbar dal, 
+
+skal blive som en figen der er tidligt moden 
+
+inden høsten, 
+
+som én får øje på 
+
+og sluger mens den endnu er i hans hånd.
+
+v5 På den dag skal Hærskarers HERRE{N: Hærskarers} blive 
+
+til en herlig krone og en prægtig krans 
+
+for sit folks rest,
+
+v6 og til rettens Ånd 
+
+for den der sidder i domstolen, 
+
+og til styrke for dem der driver krigen tilbage til porten.{T: Dvs. driver fjenden ud af byen.}
+
+***
+
+v7 Men også de dingler af vin 
+
+og vakler rundt af berusende drik; 
+
+præst og profet dingler af berusende drik, 
+
+de er forvirrede på grund af vin, 
+
+de vakler rundt på grund af berusende drik,
+
+de dingler når de har et syn, 
+
+de raver rundt ved domsforkyndelse.
+
+v8 For alle borde er fulde af ulækkert bræk; 
+
+der er ikke én ren plet.{T: Ordret: >>uden en plads<<.}
+
+v9 Hvem skal han lære kundskab? 
+
+Og hvem skal han få til at forstå et budskab? 
+
+
+Er det dem der er vænnet fra mælk, 
+
+dem der er taget fra brystet?{E: Den hebraiske tekst har dualis.}
+
+v10 For >>Savlasav, savlasav,
+
+kavlakav, kavlakav,{E: Her er de hebraiske ord blot gengivet. Det er stærkt omdiskuteret, om de gengiver fulde menneskers eller små børns vrøvl, eller de muligvis skal oversættes: >>forskift efter forskift, målesnor efter målesnor<<.}
+
+lidt her, lidt der.<<
+
+***
+
+v11 Ja, med stammende læbe 
+
+og med fremmed sprog 
+
+skal han tale til dette folk.
+
+v12 Da han sagde til dem: 
+
+>>Her er der ro, 
+
+lad den trætte hvile, 
+
+her er hvilested,<< 
+
+var de ikke villige til at lytte.
+
+v13 Så bliver JHVHs ord for dem da:
+
+>>Savlasav, savlasav,
+
+kavlakav, kavlakav,
+
+lidt her, lidt der,<<
+
+for at de skal gå og snuble bagover 
+
+og kvæstes og falde i en snare og tages til fange.
+
+***
+
+v14 Hør derfor JHVHs ord, 
+
+I spottere, 
+
+der hersker over dette folk, 
+
+som er i Jerusalem! 
+
+v15 Fordi I sagde: 
+
+>>Vi har sluttet en pagt med døden 
+
+og lavet et forbund med dødsriget; 
+
+en flodbølge,{T: Oversættes af andre: >>en svungen svøbe<<.} når den farer forbi, 
+
+skal den ikke nå os; 
+
+for vi har gjort løgn til vores tilflugt, 
+
+og vi skjuler os i falskhed.<<
+
+v16 Derfor, sådan sagde Herren JHVH: 
+
+>>Se, jeg lægger{E: Den masoretiske tekst har: >>Se mig, der lægger …<<. Men man følger oftest bl.a. Septuaginta} som grundvold i Zion en sten, 
+
+en prøvet sten, 
+
+en kostbar hjørnesten, 
+
+fast grundlagt. 
+
+Den der tror, haster ikke.<< {T: Den græske oversættelse har: >>skal ikke blive til skamme.<<}.
+
+v17 Og jeg vil sætte ret som målesnor 
+
+og retfærdighed som lodline, 
+
+og hagl skal drive løgnens tilflugtssted bort 
+
+og vande skylle over skjulet.
+
+v18 Jeres pagt med døden skal ophæves,{E: *xuppar*. Ordret: >>skal sones<<, dette ene sted går man dog ud fra oversættelsen: >>skal ophæves<<. Man vælger at følge Targum:  *tufar*: >>brydes/ophæves<<.}
+
+og jeres forbund med dødsriget skal ikke bestå;
+
+en flodbølge,{T: Oversættes af andre: >>en svungen svøbe<<.} når den farer forbi,   
+
+ så bliver I trampet ned af den.
+
+v19 Hver gang den farer forbi, 
+
+skal den tage jer med; 
+
+for den skal fare forbi hver morgen, 
+
+om dagen og om natten; 
+
+og det skal være en rædsel bare at forstå budskabet.
+
+***
+
+v20 For sengen er for kort til at strække sig ud, 
+
+og tæppet er for smalt, når man vil dække sig til.
+
+v21 For som ved Perasims bjerg
+
+rejser JHVH sig,
+
+harm som i dalen ved Gibeon, 
+
+for at gøre sin gerning 
+
+– fremmed er hans gerning! 
+
+Og for at udføre sit værk 
+
+– fremmedartet er hans værk!
+
+v22 Og nu, hold op med at spotte 
+
+så at jeres lænker ikke skal blive strammere; 
+
+for en ødelæggelse og en beslutning har jeg hørt om 
+
+fra Herren, Hærskarers HERRE,{N: Hærskarers} 
+
+angående hele jorden.
+
+***
+
+v23 Lyt og hør min stemme, 
+
+giv agt og hør min tale!
+
+v24 Mon det er hele dagen 
+
+bonden{T: Ordret: >>han der pløjer<<.} pløjer for at så, 
+
+vender og harver sin jord?
+
+v25 Er det ikke sådan at når han har jævnet dens overflade, 
+
+så spreder han dild og strør kommen 
+
+og sår hvede i rækker 
+
+og byg på det afmærkede sted 
+
+og spelt på dets kant?
+
+v26 For han underviser ham om den rigtige måde, 
+
+hans Gud lærer ham den.
+
+v27 Ja, dild tærskes ikke med tærskeslæde, 
+
+og vognhjul køres ikke hen over kommen; 
+
+men dild slås af med stav og kommen med kæp.
+
+v28 Brødkorn stødes småt,{T: Andre opfatter linjen som spørgsmål: >>Knuser man brødkorn?<<} 
+
+men ikke for evigt; 
+
+og driver man sin vogns hjul og sine heste hen over det, 
+
+knuser man det ikke.
+
+***
+
+v29 Også dette kommer fra Hærskarers HERRE,{N: Hærskarers} 
+
+han giver forunderlige råd 
+
+han har stor visdom.
 
 

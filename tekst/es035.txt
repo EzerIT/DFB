@@ -1,19 +1,95 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 28.02.2022>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 35===
 
-===Esajas' Bog, kapitel 35===
+==Ørkenen skal blomstre==
+v1 Ørken og tørt land, de skal glæde sig, 
 
-==I modsætning til straffen over fjenderne skildrer profeten sit folks lykke under den kommende messias; med det trøster han de troende==
+ødemark skal juble og blomstre som rosen.{E: Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis >>høsttidløs<<. Andre foreslår: >>affodil<< eller: >>narcis<<.}
 
-v1 Ørken og tørt land skal glæde sig, ødemark skal juble og blomstre som en rose.{E: Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis >>høsttidløs<<.}
-v2 Den skal blomstre frodigt, og den skal juble, ja synge med fryd, Libanons herlighed bliver givet til den, Karmels og Sarons pragt; de skal se JHVHs herlighed, vores Guds pragt.
-v3 Styrk de afmægtige hænder, og giv de kraftesløse knæ kræfter!
-v4 Sig til de mismodige i hjertet: >>Vær stærke, frygt ikke! Se jeres Gud! Der kommer hævn, Guds gengældelse, han vil komme og frelse jer.<<
-v5 Da skal blindes øjne åbnes og døves ører lukkes op.
-v6 Da skal en halt springe som hjorten og en stums tunge synge med fryd; for vande bryder frem i ørkenen og bække i ødemarken. 
-v7 Og den glødende sandørken skal blive til sø og den tørstende jord til vandkilder; på sjakalers tilholdssted skal der være voksested for rør og siv.
-v8 Og der skal være en banet sti og vej, den skal kaldes Helligdommens vej; ingen uren skal gå ad den, men den skal være en vej at gå på for dem, og tåber skal ikke flakke om.
-v9 Der skal ikke være nogen løve, og intet rovdyr kommer derop, det findes ikke; men de genløste skal vandre der.
-v10 Og JHVHs forløste skal vende tilbage og komme til Zion med jubel, og der skal være evig glæde i spidsen for dem; fryd og glæde skal nå dem, og sorg og suk skal flygte.
+v2 Den skal blomstre frodigt og juble, 
+
+ja, den skal fryde sig med jubel.
+
+Libanons herlighed bliver givet til den, 
+
+Karmels og Sarons pragt; 
+
+de skal se JHVHs herlighed, 
+
+vor Guds pragt.
+
+***
+
+v3 Styrk slappe hænder, 
+
+og gør kraftesløse knæ stærke!
+
+v4 Sig til dem med ængsteligt hjerte: 
+
+>>Vær stærke, frygt ikke! 
+
+Se jeres Gud! 
+
+Der kommer hævn, 
+
+Guds gengældelse, 
+
+han vil komme og frelse jer.<<
+
+***
+
+v5 Da skal blindes øjne åbnes 
+
+og døves ører skal lukkes op.
+
+v6 Da skal en halt springe som hjorten 
+
+og en stums tunge juble; 
+
+for vand bryder frem{T: Ordret: >>åbner sig<<.} i ørkenen 
+
+og bække i ødemarken. 
+
+v7 Det udtørrede land skal blive til dam 
+
+og den tørstende jord til vandkilder; 
+
+på sjakalers boplads, hvor den lejrer sig, 
+
+er der voksested for rør og siv.
+
+***
+
+v8 Dér skal der være en hovedvej og vej,{T: >>og vej<< står ikke i alle håndskrifter.} 
+
+og den skal kaldes Den Hellige Vej; 
+
+ingen uren skal gå ad den, 
+
+og når han går vejen for dem,{T: Som vejviser og leder.} 
+
+skal tåber heller ikke flakke om.
+
+v9 Dér skal der ikke være nogen løve, 
+
+og rovdyr{T: Ordret: >>det voldsomme blandt dyrene<<.} kommer ikke op på den, 
+
+de findes ikke; 
+
+men genløste skal vandre der.
+
+v10 JHVHs forløste skal vende tilbage,
+
+og de kommer til Zion med jubel, 
+
+og der skal være evig glæde i spidsen for dem; 
+
+fryd og glæde skal nå dem, 
+
+og sorg og suk skal flygte.
+
+

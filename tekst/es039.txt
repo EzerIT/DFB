@@ -1,22 +1,18 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 39===
 
-===Esajas' Bog, kapitel 39===
+==Sendebudene fra Babylon==
+v1 På den tid sendte Babylons konge Merodak-Bal’adan, Bal’adans søn, breve og gaver til Hizkija, for han havde hørt at han havde været syg og var blevet rask.
+v2 Og Hizkija glædede sig over dem og viste dem skatkammeret, sølvet og guldet og balsamstofferne{T: Brugt både til røgelse og parfume.} og den kostelige olie og hele sit våbenkammer og alt det der fandtes i hans forrådskamre; der var ikke den ting som Hizkija ikke lod dem se i sit hus og i hele sit rige.
 
-==Merodak, kongen af Babylon, sender bud til Ezekias, der viser sendebudene alle sine skatte, 1-2; Esajas forkynder for ham, at alt hans gods, ja, og hans efterkommere, skal føres til Babylon; men Ezekias trøster sig med, at der skal være fred i hans tid, 3-8.==
-
-
-v1 På samme tid sendte Merodak Baladan, Baladans søn, kongen af Babylon, breve og gave til Ezekias, for han havde hørt, at han havde været syg og var blevet rask.
-v2 Og Ezekias blev glad over dem og lod dem se huset med sine dyrebare sager, sølvet og guldet og de vellugtende urter og den bedste olie og hele sit våbenhus og alt det, der fandtes i hans skatkammer; der var ikke den ting i hans hus og i hele hans rige, som Ezekias ikke lod dem se.
-
-v3 Da kom Esajas, profeten, til kong Ezekias og sagde til ham: >>Hvad har de mænd sagt? Og hvor er de kommet til dig fra?<< Og Ezekias sagde: >>De er kommet til mig fra et land langt borte, fra Babylon.<<
-v4 Og han sagde: >>Hvad har de set i dit hus?<< Og Ezekias sagde: >>De har set alt det, der er i mit hus; der var ikke en ting, som jeg ikke lod dem se i mine skatkamre.<<
-v5 Da sagde Esajas til Ezekias: >>Hør JHVH Zebaoths ord:
-v6 Se, de dage kommer, da alt det, der er i dit hus, og alt, hvad dine fædre har samlet af gods indtil denne dag, skal føres til Babylon; der skal ikke blive noget til overs, siger JHVH.
-v7 Og af dine sønner, der nedstammer fra dig, som du skal blive far til, skal de udtage nogle, og de skal være kammertjenere i kongen af Babylons palads.<<
-v8 Men Ezekias sagde til Esajas: >>Det ord af JHVH, du har talt, er godt;<< og han sagde: >>Bare der bliver fred og tryghed i mine dage!<<
-
-
-
+==Profeti om bortførelsen til Babylon==
+v3 Da kom Esajas, profeten, til kong Hizkija og sagde til ham: >>Hvad har de mænd sagt? Og hvorfra er de kommet til dig?<< Hizkija sagde: >>De er kommet til mig fra et land langt borte, fra Babylonien.<<
+v4 Og han sagde: >>Hvad har de set i dit hus?<< Hizkija sagde: >>De har set alt hvad der er i mit hus; der var ikke en ting som jeg ikke viste dem i mine forrådskamre.<<
+v5 Da sagde Esajas til Hizkija: >>Hør Hærskarers HERREs{N: Hærskarers} ord:
+v6 Se, der kommer dage da alt det der er i dit hus, og som dine fædre har samlet indtil denne dag, skal føres til Babylonien; der skal ikke blive noget tilbage, siger JHVH.
+v7 Og nogle af dine sønner, der nedstammer fra dig, som du bliver far til, skal de tage, og de skal være hofmænd{T: Der er formodentlig tænkt på eunukker.} i Babyloniens konges palads.<<
+v8 Men Hizkija sagde til Esajas: >>Det ord fra JHVH du har talt, er godt.<< Og han sagde: >>Så bliver der fred og stabilitet i mine dage!<<

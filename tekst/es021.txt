@@ -133,7 +133,7 @@ Vil I spørge, så spørg!
 Vend tilbage, kom!<<
 
 ==Ord mod dem på steppen==
-v13 Udsagn om dem på steppen.{T: Kan også oversættes: >> i Arabien<<.} 
+v13 Udsagn om dem på steppen.{T: Kan også oversættes: >>i Arabien<<.} 
 
 I buskadset, på steppen skal I overnatte, 
 

@@ -1,32 +1,143 @@
-!!<Modenhed: Rå oversættelse>!!
+!!<Modenhed: Færdig>!!
 !!<Oversættelse: Svend Erik Petersen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Esajas, kapitel 32===
 
-===Esajas' Bog, kapitel 32===
+==Gud giver en retfærdig konge==
+v1 Se, med retfærdighed skal en konge regere, 
 
-==Esajas profeterer om Messias' rige og de velgerninger, han skal skal vise igennem det, og han irettesætter alle hyklere ved at sige, at de ikke skal få plads i hans rige, 1-8; han truer de selvsikre jøder og deres land med ødelæggelse, 9-14; trøster de troende med udgydelsen af Helligånden, truer de ugudelige og lover retfærdighed og fred, 15-20.==
+og ledere – med ret skal de styre.
 
-v1 Se, med retfærdighed skal en konge regere, og med ret skal fyrsterne styre.
-v2 Og hver af dem skal være som skjul imod uvejr og ly imod regnskyl, som bække på et tørt sted og som en mægtig klippes skygge i et tørstende land.
-v3 Og de seendes øjne skal ikke være blændet, og de hørendes ører skal lytte.
-v4 Og de ubesindiges hjerte skal forstå kundskab, og de stammendes tunge skal i en fart tale forståelige ord.
-v5 En tåbe skal ikke mere kaldes ædel og en nærig ikke kaldes rig.
-v6 For en tåbe taler dumhed, og hans hjerte gør uret for at være ugudelig og for at tale løgn imod JHVH, for at lade en sulten sjæl være tom og lade en tørstig mangle noget at drikke.
-v7 Og den nærige bruger usle midler; han udtænker list for at bringe de arme i fordærv med falske ord, selv når den fattige taler sin sag.
-v8 Men den ædle tænker på ædle ting, han skal bestå ved sin ædle gerning.
+v2 Og hver af dem skal være som et skjul for vind 
 
-v9 I kvinder, der er så sorgløse, rejs jer og hør min stemme! I døtre, der er så trygge, vend ørerne til min tale!
-v10 Om år og dag skal I, der er trygge, blive urolige; for det er forbi med vinhøsten, der kommer ingen indsamling af frugt.
-v11 Bliv forfærdede, I sorgløse! Bliv urolige, I trygge! Klæd dig af og stå nøgen og bind sæk om lænderne!
-v12 De skal slå sig på brystet på grund af de dejlige marker, de frugtbare vintræer;
-v13 der skal vokse torne og tidsler frem på mit folks mark, ja, over alle glædens boliger i den muntre by.
-v14 For paladserne er forladt, byens larm er standset; Ofel og vagttårnet er blevet til huler for evigt, til glæde for vildæsler, til føde for dyreflokke,
+og skærm mod skybrud, 
 
-v15 indtil Ånden fra det høje udgydes over os, og ørkenen bliver til en frugtbar mark, og den frugtbare mark regnes for en skov;
-v16 og retten bor i ørkenen, og retfærdigheden slår sig ned på den frugtbare mark;
-v17 og retfærdighedens gerning bliver fred, og retfærdighedens løn bliver hvile og tryghed indtil evig tid;
-v18 og mit folk bor i fredens hytter og i tryghedens boliger og på stille og rolige steder.
-v19 Men det skal hagle, når skoven fældes, og byen skal trykkes dybt ned.
-v20 Lykkelige er I, der sår ved alle vande, I, der lader oksen og æslet løbe frit omkring!
+som vandløb på et tørt sted 
+
+og som en mægtig klippes skygge 
+
+i tørstende land.
+
+v3 De seendes øjne skal ikke lukkes til,{E: Den hebraiske tekst har: *tišʕeʸnāʰ* af roden: *šʕh*: >>skal ikke se væk<<. Oftest foreslås det at vokalisere: *tᵊšōʕeʸnāʰ*: >>skal ikke lukkes til << eller: *tᵊšōʕeʸnāʰ *: >>skal ikke klistres til<<, begge af roden: *šʕʕ*, medmindre man også kan regne den hebraiske tekst som afledet af: *šʕʕ*.} 
+
+og de hørendes ører skal lytte.
+
+v4 De uroliges hjerte skal forstå kundskab, 
+
+og de stammendes tunge skal i en fart tale tydelige ord.
+
+v5 En tåbe skal ikke mere kaldes ædel 
+
+og en skurk ikke siges at være gavmild.
+
+v6 For en tåbe taler dumhed, 
+
+og hans hjerte handler syndigt 
+
+for at handle gudløst 
+
+og for at tale falsk til JHVH, 
+
+for at lade en sulten sjæl sulte 
+
+og lade en tørstig mangle noget at drikke.
+
+v7 Og en skurk - hans redskaber er onde; 
+
+han udtænker onde planer 
+
+for at ødelægge elendige{T: Kan også oversættes: >>ydmyge<<.} med løgnagtige ord, 
+
+også når den fattige taler sandt.
+
+v8 Men den ædle lægger ædle planer, 
+
+og han står fast på ædle ting.
+
+
+==Trussel mod de selvsikre==
+v9 I sorgløse kvinder, 
+
+rejs jer, hør på min stemme! 
+
+I selvsikre{T: Ordret: >>tillidsfulde<<, men her med negativ betydning om letsindig sikkerhed.} døtre, 
+
+lyt nøje til min tale!
+
+v10 Om år og dage 
+
+skal I selvsikre skælve; 
+
+for det er forbi med vinhøsten, 
+
+der kommer ingen frugthøst.
+
+v11 Bæv, I sorgløse! 
+
+Skælv, I selvsikre! 
+
+Klæd dig af og stå nøgen 
+
+og bind sæk om lænderne!
+
+v12 De slår sig klagende{T: Ordret blot: >>de klager<<.} på brystet{E: Den hebraiske tekst er vokaliseret som dualis *šādayim* der er betegnelse for kvindelige bryster. Det foreslås undertiden at ændre: *š* til: *ś* og vokalisere: *śādîm*: >>marker<<: >>De klager over marker<<.} 
+
+over herlige marker, 
+
+over frugtbare vintræer;
+
+v13 over mit folks jord
+
+skal der vokse tjørn og tidsel frem, 
+
+ja, over alle glædesfyldte huse 
+
+i en jublende by.
+
+v14 For paladset er forladt, 
+
+byens larm er standset; 
+
+Ofel{T: Formodentlig navnet på en høj eller klippetop ved Jerusalem, muligvis i tilknytning til tempelområdet.} og vagttårnet er blevet til huler for evigt, 
+
+til glæde for vildæsler, 
+
+til græsgang for fårehjorde.
+
+
+==Trøst til de troende==
+v15 Når Ånden fra det høje udgydes over os, 
+
+så bliver ørken til frugtbart land, 
+
+og frugtbart land regnes for skov;
+
+v16 Ret skal slå sig ned i ørkenen, 
+
+og retfærdighed skal bo på den frugtbare mark;
+
+v17 Retfærdighedens gerning bliver fred, 
+
+og retfærdighedens værk 
+
+ro og tryghed til evig tid.
+
+v18 Mit folk skal bo på fredens boplads 
+
+og i trygge boliger 
+
+og på sorgløse hvilesteder.
+
+v19 Men det skal hagle når skoven falder, 
+
+og byen skal synke ned i ringhed.
+
+v20 Lykkelige er I, 
+
+der sår ved hvert vandløb, 
+
+I, der lader oksens og æslets ben gå frit omkring!
+
 
