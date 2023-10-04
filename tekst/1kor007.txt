@@ -1,62 +1,45 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 7 ===
-
-==Hvordan ægtefolk skal leve med hinanden, 1-7. Det er bedst, hvis ugifte og enker ikke gifter sig, med mindre de ikke har afholdenhedens gave, 8-9. Kristne ægtefolk bør ikke skilles, 10-11. I blandede ægteskaber skal den kristne part ikke forstøde den hedenske, men heller ikke modsætte sig, når den han eller hun ønsker skilsmisse. I almindelighed gælder den regel, at hver især skal blive i den stilling, som han befandt sig i, da han kom til tro, 12-24. Selvom unge piger ikke synder ved at gifte sig, råder Paulus til at lade være på grund af tidens trængsel, ligesom man i det hele taget med henblik på verdensløbets afslutning bør bevare sin indre uafhængighed af ydre forhold, 25-31. For en udelt kærlighed til Herren er betingelserne mere gunstige i den ugifte stand end i ægteskabet; men at gifte sig er ingen synd, når det ser ud til at være bedre for en ung pige eller enke, 32-40.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 7===
 
 
+==Om ægteskab og ugift stand==
 
-v1 Men hvad angår det, som I skrev til mig om, er det godt for en mand ikke at røre en kvinde;
-v2 men på grund af seksuel umoral skal hver mand have sin egen kone, og hver kvinde have sin egen mand.
-v3 Manden skal yde konen det, han skylder hende; og på samme måde konen manden.
-v4 Konen råder ikke over sit eget legeme, men det gør manden; lige sådan råder heller ikke manden over sit eget legeme, men det gør konen.
-v5 Unddrag jer ikke hinanden, undtagen måske med fælles samtykke, for en tid, for at I kan have ro til bønnen, og for så at være sammen igen, for at Satan ikke skal friste jer, fordi I ikke magter at være afholdende.
-v6 Men dette siger jeg som en indrømmelse, ikke som en befaling.
-v7 Jeg ønsker dog, at alle mennesker måtte være, som jeg selv er; men hver har sin egen nådegave fra Gud, den ene på den måde, den anden på den.
+v1 Men vedrørende det I skrev, så er det godt for en mand ikke at røre en kvinde, v2 men for at hindre utugt skal enhver mand have sin egen hustru, og enhver kvinde have sin egen mand. v3 Manden skal give hustruen hvad han skylder hende, og på samme måde skal også hustruen give manden hvad hun skylder ham. v4 Hustruen har ikke råderetten over sin egen krop, men det har manden, og på samme måde har manden heller ikke råderetten over sin egen krop, men det har hustruen. v5 Unddrag jer ikke hinanden, uden måske efter gensidig aftale for en tid for at I kan hengive jer til bøn, og så skal I være sammen igen for at Satan ikke skal friste jer på grund af jeres manglende selvkontrol. v6 Men dette siger jeg som en indrømmelse og ikke som en befaling. v7 Men jeg ønsker at alle mennesker er som jeg, men enhver har sin egen nådegave fra Gud, den ene har det på en måde, og den anden på en anden måde.
 
+v8 Men dette siger jeg til de ugifte og til enkerne, at det er godt for dem hvis de forbliver som jeg, v9 men hvis de ikke kan være afholdende, skal de gifte sig, for det er bedre at gifte sig end at brænde af begær.
 
-v8 Til de ugifte og til enkerne siger jeg, at det er godt for dem, hvis de bliver ved at være som jeg.
-v9 Men kan de ikke være afholdende, så lad dem gifte sig; for det er bedre at gifte sig end at brænde af begær.
+==Om skilsmisse og nyt ægteskab==
 
+v10 Men de gifte befaler jeg, dog ikke jeg, men Herren, at en hustru ikke må skille sig fra sin mand, 11 – men hvis hun også har skilt sig,{T: Sætningen kan også oversættes: >>men hvis hun også skiller sig<<.} skal hun forblive ugift eller forsone sig med sin mand – og en mand må ikke skille sig fra sin hustru.
 
-v10 Men de gifte påbyder ikke jeg, men Herren, at en kone ikke skal skille sig fra sin mand;
-v11 (men hvis hun virkeligt skiller sig fra ham, så skal hun blive ved at være ugift eller forlige sig med manden;) og at en mand ikke skal forlade sin kone.
+v12 Men til de øvrige siger jeg, ikke Herren: Hvis en broder har en vantro hustru, og hun accepterer at bo hos ham, skal han ikke skille sig fra hende, v13 og hvis en hustru har en vantro mand, og han accepterer at bo hos hende, skal hun ikke skille sig fra manden. v14 For den vantro mand er blevet helliget ved sin hustru, og den vantro hustru er blevet helliget ved manden, ellers ville jeres børn være urene, men nu er de hellige. v15 Men hvis den vantro lader sig skille, så lad ham blive skilt, broderen eller søsteren er ikke bundet i sådanne situationer, men Gud har kaldet jer til fred. v16 For hvordan kan du vide, hustru, om du kan frelse din mand? Eller hvordan kan du vide, mand, om du kan frelse din hustru?
 
+==Lev i det du blev kaldet til==
 
-v12 Men til de andre{T: i blandede ægteskaber.} siger jeg, ikke Herren: Hvis en broder har en vantro{T: ikke kristen.} kone, og hun samtykker i at bo hos ham, så skal han ikke forlade hende.
-v13 Og hvis en kone har en vantro mand, og han samtykker i at bo hos hende, så skal hun ikke forlade manden.
-v14 For den vantro mand er helliget ved konen, og den vantro kone er helliget ved manden; ellers var jo jeres børn urene, men nu er de hellige.
-v15 Men skiller den vantro sig, så lad ham skille sig; ingen broder eller søster er trælbundet i den slags tilfælde; men Gud har kaldet os til fred.
-v16 For hvad ved du, kone, om du kan frelse din mand? eller hvad ved du, mand, om du kan frelse din kone?
-v17 Hver enkelt skal kun vandre sådan, som Herren har tildelt ham, som Gud har kaldet ham; og sådan bestemmer jeg det i alle menighederne.
-v18 Blev nogen kaldet som omskåret, skal han ikke få sat forhud på; er nogen kaldet som uomskåret, skal han ikke lade sig omskære!
-v19 Omskærelse betyder ikke noget, og forhud betyder ikke noget, men det at holde Guds Bud.
-v20 Hver enkelt skal blive i den stand, som han blev kaldet i!
-v21 Blev du kaldet som træl, så lad det ikke bekymre dig, men selvom du også kan blive fri, så gør hellere brug af det!{T: nemlig enten: Af lejligheden til at blive fri, eller: Af din trællestand.} 
-v22 For den, der er kaldet i Herren som træl, er Herrens frigivne; lige sådan er den, der er kaldet som fri, Kristi træl.
-v23 Dyrt blev I købt, bliv ikke menneskers trælle!
-v24 I den Stand, som hver især blev kaldet i, brødre, skal han blive for Gud!
+v17 Kun skal enhver leve sådan som Herren har tildelt, sådan som Gud har kaldet ham. Sådan befaler jeg i alle menighederne. v18 Blev nogen kaldet som omskåret, skal han ikke blive uomskåren, hvis en blev kaldet som uomskåret, skal han ikke lade sig omskære. v19 Omskærelse betyder intet, og manglende omskærelse betyder intet, men overholdelse af Guds bud betyder noget. v20 Enhver skal blive i det kald han er blevet kaldet til. v21 Blev du kaldet som slave, skal du ikke være bekymret, men hvis du kan blive fri, så gør hellere brug af det. v22 For den som er blevet kaldet i Herren som slave, er Herrens frigivne, på samme måde er den som er blevet kaldet som fri, Herrens slave, v23 I er blevet købt for en betaling. Bliv ikke menneskers slaver. v24 Brødre, enhver skal blive i det han blev kaldet til, for Gud.
 
+==Om unge forlovede kvinder==
 
-v25 Men om de unge piger{T: ordret:”Jomfruerne”} har jeg ikke nogen befaling fra Herren, men giver min mening til kende som den, Herren barmhjertigt har undt at være troværdig.
-v26 Jeg mener altså dette, at det på grund af den aktuelle nød er godt for et menneske at være sådan, som han er.
-v27 Er du bundet til en kone, så prøv ikke at blive løst; er du ikke bundet, så prøv ikke at få en kone!
-v28 Men selvom du så gifter dig, synder du ikke; og selvom en ung pige gifter sig, synder hun ikke; men de vil dog få trængsel i kødet. Men jeg skåner jer.
-v29 Men det siger jeg jer, brødre, at tiden er kort, for at fra nu af både de, der har koner, skal være, som om de ingen har,
-v30 og de, der græder, som om de ikke græder, og de, der glæder sig, som om de ikke glæder sig, og de, der køber, som om de ikke ejer noget,
-v31 og de, der bruger denne verden, som om de ikke udnytter den; for denne verden, som den ser ud, forgår.
-v32 Men jeg ønsker, at I må være uden bekymring. Den ugifte er bekymret for de ting, der hører Herren til, hvordan han kan behage Herren;
-v33 men den gifte er bekymret for de ting, der hører verden til, hvordan han kan behage konen.
-v34 Og der er også forskel imellem den gifte kone og den unge, ugifte pige. Den ugifte er bekymret for de ting, der hører Herren til, for at hun kan være hellig både på legeme og i ånd; men den gifte er bekymret for det, der hører verden til, hvordan hun kan behage manden.
-v35 Men dette siger jeg til jeres eget gavn, ikke for at kaste en snare om jer, men for at I skal leve, som det passer sig, og holde urokkeligt fast ved Herren.
-v36 Men hvis nogen mener at behandle sin ugifte datter upassende, hvis hun er ude over den første ungdom, og det må være sådan, så lad ham gøre, hvad han vil, han synder ikke; lad dem gifte sig!
-v37 Men den, der står fast i sit hjerte og ikke er tvunget, men har rådighed over sin vilje og har besluttet dette i sit hjerte: At holde sin datter ugift, han gør det rigtige.
-v38 Altså, både den, der gifter sin datter bort, gør det rigtige, og den, der ikke gifter hende bort, gør det, der er bedre.
-v39 En kone er bundet, så længe hendes mand lever; men hvis manden sover hen, er hun fri til at gifte sig med hvem hun vil, når det bare sker i Herren.
-v40 Men hun er lykkeligere, hvis hun bliver ved at være sådan, som hun er, efter min mening; men også jeg mener at have Guds Ånd.
+v25 Men vedrørende unge forlovede kvinder{T: Ordret: >>jomfruer<<.} har jeg ikke en befaling fra Herren, men jeg giver min mening til kende som den der ved Herrens barmhjertighed er troværdig. v26 Jeg mener altså dette, at det på grund af den nuværende nød er godt at et menneske forbliver som han er. v27 Er du bundet{T: Der er tænkt på en mand som er forlovet med en ung kvinde.} til en kvinde, søg ikke at blive løst.{T: Manden skal ikke opløse forlovelsen hvor der er afgivet løfter.} Er du løst fra en kvinde{T: Manden er ikke forlovet med en ung kvinde}, så søg ikke en hustru. v28 Men hvis du gifter dig, har du ikke syndet, og hvis jomfruen gifter sig, har hun ikke syndet, men de vil få trængsel i kødet, og jeg vil skåne jer for det.
 
+==Om frihed==
+
+v29 Men dette mener jeg: Tiden er begrænset. Fra nu af skal de som har hustruer, være som om de ikke har, v30 og de som græder, som om de ikke græder, og de som glæder sig, som om de ikke glæder sig, og de som køber, som om de ikke ejer, v31 og de som bruger verden, som om de ikke bruger den, for verden i denne skikkelse forgår.
+
+==Om den giftes bekymring==
+
+v32 Men jeg vil at I skal være uden bekymring. Den ugifte bekymrer sig om det der hører Herren til, hvorledes han kan glæde Herren. v33 Men den gifte bekymrer sig om det der hører verden til, hvordan han kan glæde sin hustru, v34 og han er delt. Og den ugifte kvinde og den unge forlovede kvinde{T: Ordret: >>jomfru<<.} bekymrer sig om det der hører Herren til for at hun kan være hellig både i henseende til krop og ånd, men den der er gift, bekymrer sig om det der hører verden til, hvordan hun kan glæde manden. v35 Men dette siger jeg til jeres eget bedste, ikke for at fange  jer, men for at I kan leve uforstyrret og anstændigt og hengivent for Herren.
+
+==Om unge forlovede kvinder==
+
+v36 Hvis nogen mener at bringe skam over sin forlovede{T: Ordret:  >>jomfru<<.} hvis han{T: >>Han<< er manden der er forlovet med denne jomfru og bundet til hende ved løfter.} har stærke lidenskaber,{T: Der er tænkt på seksuelle lidenskaber; jf. 1 Kor 7,2.} og det ikke kan være anderledes, skal han gøre hvad han vil, han synder ikke, lad dem gifte sig. v37 Men den som står fast i sit hjerte, som ikke er under tvang, men er herre over sin egen vilje og har besluttet dette i sit eget hjerte at bevare hende som jomfru, han handler godt. v38 Derfor, den der gifter sig med sin forlovede,{T: Ordret: >>jomfru<<.} handler godt, og den som ikke gifter sig, vil handle bedre.
+
+==Om indgåelse af nyt ægteskab==
+
+v39 En kvinde er bundet til sin mand så længe hendes mand lever, men hvis manden dør, er hun fri til at gifte sig med den hun vil, blot det sker i Herren. v40 Men hun er lykkeligere hvis hun forbliver som hun er, efter min mening, og jeg mener at jeg også har Guds Ånd.
 
 

@@ -1,38 +1,23 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 6 ===
-
-== Paulus bebrejder dem, at de fører retssager imod hinanden for hedenske domstole, hvad der strider mod de kristnes værdighed, 1-6. Det er i det hele taget forkert, at de har den slags sager med hinanden og ikke i stedet lider uret, men begår uret og glemmer, at det at leve syndigt udelukker fra Guds rige, hvorimod de som kristne er bestemt til hellighed, 7-11. Han advarer mod misbrug af den kristne frihed, særlig når det drejer sig om seksuelle synder, og formaner til at undgå seksuel umoral og ære sit legeme som en bolig for Guds ånd, 12-20.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 6===
 
 
+==Advarsel mod retssager mod brødre==
 
-v1 Når nogen har en sag imod en anden, hvordan tør han så få den pådømt hos de uretfærdige,{T: de hedenske Dommere} og ikke hos de hellige?
-v2 Eller ved I ikke, at de hellige skal dømme verden? og når verden dømmes af jer, er I da ikke værdige til at sidde til doms i de mindste sager?
-v3 Ved I ikke, at vi skal dømme engle? Hvor meget mere så ikke det, der hører denne verden til!
-v4 Når I så har sager om ting, der hører dette liv til, sætter I da dem til at være dommere, der ikke bliver regnet for noget i Menigheden?
-v5 Til Skam for jer siger jeg det: Så er der altså slet ingen viis iblandt jer, der kan dømme sine brødre imellem.
-v6 Men broder fører sag imod broder, og det for vantro!
+v1 Kan nogen af jer, som har en sag mod en anden, få sig til at føre proces for de uretfærdige og ikke for de hellige? v2 Eller ved I ikke at de hellige skal dømme verden? Og når verden dømmes ved jer, er I da uværdige til at dømme i de ringeste retssager?{T: Det kan også oversættes: >>Er I da uværdige til oprette de ringeste domstole?<<} v3 Ved I ikke at vi skal dømme engle, hvor meget mere da dagligdags forhold? v4 Hvis I altså har retssager om dagligdags forhold, sætter I da de ringeagtede i menigheden som dommere? v5 Jeg siger dette til skam for jer. Er der da ikke en eneste vis blandt jer som kan dømme mellem hans brødre? v6 Men broder fører proces mod broder, og det for vantro?
 
+v7 I det hele taget er det da allerede et nederlag for jer at I har retssager med hinanden. Hvorfor lider I ikke hellere uret? Hvorfor lader I jer ikke hellere plyndre? v8 Men I begår uret og plyndrer, og det mod brødre.
 
-v7 Det er jo i det hele taget allerede en fejl hos jer, at I har retssager med hinanden. Hvorfor lider I ikke hellere uret? Hvorfor lader I jer ikke hellere udplyndre?
-v8 Men I gør uret og udplyndrer, og det brødre!
-v9 Eller ved I ikke, at uretfærdige ikke skal arve Guds rige? Bliv ikke vildledt! Hverken seksuelt umoralske eller afgudsdyrkere eller ægteskabsbrydere eller de, der lader sig bruge til unaturlig sex, eller de, der udøver den,
-v10 eller tyve eller havesyge eller drankere, ingen bagtalere, ingen røvere skal arve Guds rige.
-v11 Og sådan var nogle af jer; men I blev vasket rene, ja, I blev gjort hellige, ja, I blev gjort retfærdige ved Herren Jesu navn og ved vor Guds Ånd.
+==Advarsel mod syndig praksis==
 
+v9 Eller ved I ikke at uretfærdige ikke skal arve Guds rige? Lad jer ikke bedrage. Hverken utugtige eller afgudsdyrkere eller ægteskabsbrydere eller mænd der lader sig bruge homoseksuelt, eller mænd som udøver homoseksuel handling, v10 eller tyve eller griske eller fordrukne, eller spottere eller røvere skal arve Guds rige. v11 Og sådan var nogle af jer, men I lod jer renvaske, ja, I blev helliget, ja, I blev erklæret retfærdige ved Herren Jesu Kristi navn og ved vores Guds Ånd.
 
-v12 Alt er tilladt for mig, men ikke alt er gavnligt; alt er tilladt for mig, men jeg skal ikke lade mig beherske af noget.
-v13 Maden er til for maven og maven for maden; men Gud skal tilintetgøre både den ene og den anden. Legemet derimod er ikke til for seksuel umoral, men for Herren, og Herren for legemet;
-v14 og Gud har både oprejst Herren og skal oprejse os ved sin kraft.
-v15 Ved I ikke, at jeres legemer er Kristi lemmer? Skal jeg da tage Kristi lemmer og gøre dem til en luders lemmer? Det må ikke ske!
-v16 Eller ved I ikke, at den, der holder sig til luderen, er ét legeme med hende? >>Thi de to,<< hedder det, >>skal blive til ét kød.<<
-v17 Men den, der holder sig til Herren, er én ånd med ham.
-v18 Flygt for seksuel umoral! Enhver synd, som et menneske ellers gør, er uden for legemet; men den, der gør noget seksuelt umoralsk, synder imod sit eget legeme.
-v19 Eller ved I ikke, at jeres legeme er et tempel for Helligånden, der er i jer, og som I har fra Gud, og at I ikke ejer jer selv?
-v20 For I blevet købt dyrt; ær derfor Gud i jeres legeme!
+==Advarsel mod utugt==
 
+v12 Alt er mig tilladt, men ikke alt gavner; alt er mig tilladt, men jeg skal ikke lade noget herske over mig. v13 Maden er bestemt for maven, og maven for maden, men Gud vil tilintetgøre begge. Men kroppen er ikke bestemt for utugt, men for Herren, og Herren er bestemt for kroppen. v14 Men Gud har oprejst Herren og vil oprejse jer ved sin kraft. v15 Eller ved I ikke at jeres kroppe er Kristi lemmer? Skal jeg da tage Kristi lemmer og gøre dem til en prostituerets lemmer? Nej, slet ikke. v16 Eller ved I ikke at den som holder sig til en prostitueret, er én krop med hende? For de to, hedder det, skal blive ét kød. v17 Men den som holder sig til Herren, er én ånd med ham. v18 Flygt fra utugt. Enhver synd som et menneske begår, er uden for kroppen, men den som begår utugt, synder mod sin egen krop. v19 Eller ved I ikke at jeres krop er et tempel for Helligånden i jer som I har fra Gud, og at I ikke tilhører jer selv? v20 For I er blevet købt for en betaling. Ær da Gud i jeres krop.
 
 

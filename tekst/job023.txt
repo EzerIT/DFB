@@ -56,7 +56,7 @@
 //9 når han arbejder,
 //8 er han ikke at se,{T: Ordret: >>gribe fat i<<, >>begribe<<.} 
 
-//7 vender{E: *yaʕṭōf* er 3MSg, men nogle oversætter >>jeg<<. Andre oversætter verbet med >> han skjuler sig<< og oversættelsen bliver: >>skjuler han sig mod syd, ser jeg ham ikke<<.} han mod syd{T: Ordret: >>til højre<<.}
+//7 vender{E: *yaʕṭōf* er 3MSg, men nogle oversætter >>jeg<<. Andre oversætter verbet med >>han skjuler sig<< og oversættelsen bliver: >>skjuler han sig mod syd, ser jeg ham ikke<<.} han mod syd{T: Ordret: >>til højre<<.}
 //8 ser jeg ham ikke.
 
 //5 v10 Men han kender den vej som ligger foran mig.{T: >>med mig<<.}

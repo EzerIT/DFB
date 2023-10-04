@@ -1,53 +1,27 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 24.03.2021>!!
-
-=== Paulus' Første Brev til Korintherne, kapitel 10 ===
-
-==At årvågen og alvorlig kamp imod det onde er nødvendig, hvis de skal nå deres mål, beviser det advarende eksempel fra israelitternes ørkenvandring, 1-13. De bør ikke tage del i afgudsdyrkelsen, men som gæster ved Herrens bord holde sig væk fra offermåltider for afguder, 14-22. Man bør begrænse sin kristne frihed for ikke at bringe nogen til fald. Kød, der købes i en slagterbod, kan de roligt spise. Men når de spiser med i en hednings hjem, må de passe på ikke at såre en skrøbelig brors samvittighed. De skal i disse sager efterfølge Paulus' eget eksempel, 23-Kap. 11, 1.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 10===
 
 
+==Israel som advarende eksempel==
 
-v1 For jeg vil ikke, brødre, at I skal være uvidende om, at vores fædre alle var under skyen og alle gik igennem havet,
-v2 og alle blev døbt til Moses i skyen og i havet,
-v3 og alle spiste den samme åndelige mad,
-v4 og alle drak den samme åndelige drik; de drak nemlig af en åndelig klippe, der fulgte med; men klippen var Kristus.
-v5 Alligevel fandt Gud ikke behag i de fleste af dem; for de blev slået ned i ørkenen.
-v6 Men disse ting skete som eksempler for os, for at vi ikke skal begære det, der er ondt, sådan som de begærede.
-v7 Bliv heller ikke afgudsdyrkere som nogle af dem, som der står skrevet: >>Folket satte sig ned for at spise og drikke, og de stod op for at lege.<<
-v8 Lad os heller ikke gøre noget seksuelt umoralsk, som nogle af dem gjorde, og på én dag faldt der treogtyve tusinde.
-v9 Lad os heller ikke friste Herren, som nogle af dem fristede ham og blev dræbt af slanger.
-v10 I skal heller ikke mukke, som nogle af dem mukkede og blev slået ihjel af Ødelæggeren.
-v11 Dette skete imidlertid som eksempel for dem, men det blev skrevet til advarsel for os, som tidernes ende er kommet til.
-v12 Lad derfor den, der mener at stå, passe på, at han ikke falder!
-v13 Det er ikke andet end menneskelige fristelser, der er kommet over jer, og trofast er Gud, der ikke vil tillade, at I fristes over evne, men som sammen med fristelsen også vil skabe udgangen af den, for at I må kunne holde den ud.
+v1 Jeg vil ikke at I, brødre, skal være uvidende om at vores fædre alle var under skyen, og alle gik gennem havet, v2 og alle blev døbt til Moses i skyen og i havet, v3 og alle spiste den samme åndelige mad, v4 og alle drak den samme åndelige drik, for de drak af den åndelige klippe som fulgte med, og klippen var Kristus. v5 Men Gud fandt ikke glæde i de fleste af dem, de blev jo slået ned i ørkenen.
 
+v6 Men derved er de blevet forbilleder for os så at vi ikke skal begære det onde, sådan som de begærede. v7 Bliv heller ikke afgudsdyrkere sådan som nogle af dem, som der står skrevet: >>Folket satte sig for at spise og drikke, og de rejste sig for at danse.<< v8 Lad os heller ikke begå utugt, sådan som nogle af dem begik utugt, og på én dag faldt 23.000. v9 Lad os heller ikke friste Herren, sådan som nogle af dem fristede ham, og de blev dræbt af slanger. v10 I skal heller ikke blive fortørnede, ligesom nogle af dem blev fortørnede, og de blev dræbt af Ødelæggeren. v11 Dette skete med dem som et advarende eksempel{T: Ordret: >>forbilledligt<<.}, men det blev skrevet til vejledning for os, til hvem tidernes afslutning er kommet. v12 Derfor, den som mener at stå, skal se til at han ikke falder. v13 For der er kun kommet fristelser til os som et menneske kan bære, og Gud er trofast, og han vil ikke tillade at I fristes ud over det I kan bære, men sammen med fristelsen vil han skabe udgangen af den, så I kan bære den.
 
-v14 Derfor, mine elskede, flygt for afgudsdyrkelsen!
-v15 Jeg taler som til forstandige; bedøm selv, hvad jeg siger.
-v16 Velsignelsens bæger, som vi velsigner, er den ikke delagtighed med Kristi blod? Det brød, som vi bryder, er det ikke delagtighed med Kristi legeme?
-v17 Fordi der er ét brød, er vi mange ét legeme; for vi får alle del i det ene brød.
-v18 Prøv at se på Israel i det rent ydre{T: Eglt. >>efter kødet<<}; har de, der spiser ofrene, ikke fællesskab med alteret?
-v19 Hvad siger jeg med det? At afgudsofferkød er noget? eller at en afgud er noget?
-v20 Nej! Men det, som hedningerne ofrer, ofrer de til onde ånder og ikke til Gud; men jeg vil ikke, at I skal få fællesskab med de onde ånder.
-v21 I kan ikke drikke Herrens bæger og {T: Meningen er: Samtidig} onde ånders bæger; I kan ikke have del i Herrens bord og {T: Meningen er: Samtidig} i onde ånders bord.
-v22 Eller skal vi vække Herrens vrede jalousi? Mon vi er stærkere end han?
+==Advarsel mod afgudsdyrkelse==
 
+v14 Derfor, mine elskede, flygt fra afgudsdyrkelsen. v15 Jeg taler til jer som fornuftige. Døm selv hvad jeg siger. v16 Velsignelsens bæger som vi velsigner, er den ikke del{T: Alternativ oversættelse: >>fællesskab med<<} i Kristi blod? Brødet som vi bryder, er det ikke del{T: Alternativ oversættelse: >>fællesskab med<<} i Kristi krop? v17 Fordi der er ét brød, er vi alle én krop, for alle har del i det ene brød. v18 Læg mærke til Israels folk:{T: Ordret: >>Israel efter kødet<<.} Har de som spiser ofrene, ikke del i alteret? v19 Hvad siger jeg da? At offerkød{T: Offerkød er kød fra dyr der er ofret til afguder} er noget? Eller at en afgud er noget? v20 Nej, men at det man ofrer, ofrer man til dæmoner og ikke til Gud, og jeg vil ikke at I skal have del i dæmoner. v21 I kan ikke drikke Herrens bæger og dæmonernes bæger, I kan ikke have del i Herrens bord og dæmonernes bord. v22 Eller vil I provokere Herren til vrede? Er vi stærkere end ham?
 
-v23 Alt er tilladt, men ikke alt er gavnligt; alt er tilladt, men ikke alt opbygger.
-v24 Ingen må søge sit eget, men det, der er næstens!
-v25 Spis alt, hvad der sælges i en slagterbod, uden at undersøge noget af hensyn til samvittigheden;
-v26 for jorden og dens mangfoldighed er Herrens.
-v27 Hvis nogen af de vantro indbyder jer, og I vil gå derhen, så spis alt det, der serveres for jer, uden at undersøge noget af samvittigheds-grunde.
-v28 Men hvis nogen siger til jer: >>Det her er offerkød,<< så lad være med at spise det af hensyn til ham, der gjorde opmærksom på det, og for samvittighedens skyld.
-v29 Samvittigheden siger jeg, ikke ens egen, men den andens; for hvorfor skal min frihed dømmes af en anden samvittighed?
-v30 Hvis jeg nyder det med taksigelse, hvorfor bliver jeg så mobbet for det, som jeg takker for?
-v31 Hvad enten I derfor spiser eller drikker, eller hvad I gør, gør det alt sammen til Guds ære!
-v32 Vær uden anstød både for jøder og grækere og for Guds menighed,
-v33 ligesom også jeg i alt stræber efter at gøre det bedste for alle, idet jeg ikke søger, hvad der gavner mig selv, men hvad der gavner de mange, for at de kan blive frelst.
-v1 Bliv mine efterfølgere, på samme måde som også jeg er Kristi efterfølger!
+==Spisning af offerkød i social sammenhæng==
 
+v23 Alt er tilladt, men ikke alt gavner; alt er tilladt, men ikke alt opbygger. v24 Ingen skal søge sit eget, men den andens. v25 I kan spise alt det som sælges på markedet, uden at undersøge det af hensyn til samvittigheden, v26 for jorden og dens fylde tilhører Herren. v27 Hvis nogen af de vantro indbyder jer, og I ønsker at gå derhen, kan I spise alt det der sættes foran jer, uden at undersøge det af hensyn til jeres samvittighed. v28 Men hvis nogen siger til jer: >>Dette er offerkød<<, så spis det ikke af hensyn til ham som informerede jer, og af hensyn til samvittigheden, v29 men jeg mener den andens samvittighed og ikke jeres egen. For hvorfor skal min frihed dømmes af en andens samvittighed? v30 Hvis jeg tager del i det med tak, hvorfor spottes jeg da for det jeg takker for?
+
+==Til Guds ære==
+
+v31 Altså, hvad enten I spiser eller drikker, eller hvad I gør, gør alt til Guds ære. v32 Vær ikke en anledning til fald for jøder, grækere og Guds menighed, v33 ligesom også jeg i alt søger at glæde alle, idet jeg ikke søger det som er til gavn for mig selv, men det der er til gavn for mange for at de kan blive frelst. v1{T: 11,1 hører naturligt til her.} Bliv mine efterfølgere, ligesom jeg også er Kristi efterfølger.
 
 

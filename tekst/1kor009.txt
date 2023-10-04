@@ -1,42 +1,23 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 01.02.2022>!!
-=== Paulus' Første Brev til Korintherne, kapitel 9 ===
-
-==Som eksempel på, hvordan man bør indskrænke sin personlige frihed, minder Paulus om, at han for så meget bedre at kunne fremme evangeliets sag har givet afkald på sin selvfølgelige ret til at få løn af menighederne, 1-18, ligesom han har indrettet sig efter alle for deres frelses skyld, 19-23. Som væddeløbere bør læserne ligesom han selv anstrenge sig og øve sig i afholdenhed for at vinde sejrskransen, 24-27.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 9===
 
 
+==Om afkald på ens ret==
 
-v1 Er jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vor Herre? Er I ikke min gerning i Herren?
-v2 Er jeg ikke apostel for andre, så er jeg det dog i det mindste for jer; for det er jer, der er seglet på min apostelgerning i Herren.
-v3 Det er mit forsvar imod dem, der bedømmer mig.
-v4 Har vi ikke ret til at spise og drikke?
-v5 Har vi ikke ret til at tage en søster{T: dvs. en kristen kvinde.} med omkring som kone ligesom de andre apostle og Herrens brødre og Kefas?
-v6 Eller har kun jeg og Barnabas ingen ret til at lade være med at arbejde?
-v7 Hvem gør vel nogen sinde krigstjeneste for egen løn? Hvem planter en vingård og spiser ikke dens frugt? Eller hvem vogter en hjord og nyder ikke af hjordens mælk?
-v8 Siger jeg mon det her rent menneskeligt, eller siger loven det ikke også?
-v9 For i Moseloven står der skrevet: >>Du må ikke binde munden til på en okse, der tærsker.<< Er det okserne, Gud bekymrer sig om,
-v10 eller siger han det ikke helt og holdent med henblik på os? Det var jo for vores skyld, det blev skrevet, siden den, der pløjer, bør pløje i håb, og den, der tærsker, bør gøre det i håb om at få sin del.
-v11 Når vi har sået de åndelige ting hos jer, er det da noget stort, hvis vi høster jeres kødelige{T: dvs. det, der hører denne verden til}?
-v12 Hvis andre har den rettighed hos jer, kunne vi så ikke have den endnu mere? Vi har dog ikke brugt denne ret; men vi tåler alt, for at vi ikke skal lægge nogen hindring i vejen for Kristi evangelium.
-v13 Ved I ikke, at de, der udfører de hellige tjenester, får deres mad fra helligdommen, de, der tjener ved alteret, får deres del af alteret?
-v14 Sådan har Herren også bestemt for dem, der forkynder evangeliet, at de skal leve af evangeliet.
-v15 Jeg derimod har ikke gjort brug af noget af dette her. Jeg skriver dog ikke dette, for at det skal gå mig sådan; for jeg vil hellere dø, end at nogen skulle gøre min ros til intet.
-v16 For hvis jeg forkynder evangeliet, har jeg ikke noget at rose mig af; det er nemlig en nødvendighed, der er pålagt mig, for ve mig, hvis jeg ikke forkynder det!
-v17 Gør jeg nemlig dette af fri vilje, får jeg løn; men har jeg imod min vilje fået en forvaltergerning betroet,{T: dvs. så er jeg ligesom en træl.}
-v18 hvad er da min løn? For at jeg, når jeg forkynder evangeliet, skal fremsætte det for intet, så at jeg ikke gør brug af min ret i evangeliet.
+v1 Er jeg ikke fri? Er jeg ikke apostel? Har jeg ikke set Jesus, vores Herre? Er I ikke min gerning i Herren? v2 Hvis jeg ikke er apostel for andre, så er jeg det i hvert fald for jer, for I er i Herren seglet på min aposteltjeneste. v3 Dette er mit forsvar imod dem som vurderer mig. v4 Har vi ikke ret til at spise og drikke? v5 Har vi ikke ret til at tage en søster som hustru med os ligesom de øvrige apostle og Herrens brødre og Kefas? v6 Eller er det alene mig og Barnabas der ikke har ret til lade være med at arbejde? v7 Hvem er nogensinde soldat for egen regning? Hvem planter en vingård og spiser ikke af dens frugt? Eller hvem vogter en hjord og ernæres ikke af hjordens mælk?
+
+v8 Siger jeg dette ud fra menneskelig tankegang, eller siger ikke også loven dette? v9 For i Moselov står der skrevet: >>Du må ikke binde munden til på en okse som tærsker.<< Mon det er okserne Gud tænker på? v10 Eller siger han det helt for vores skyld? Jo, for vores skyld blev der skrevet: >>Den der pløjer, skal pløje med håb, og den der tærsker, skal tærske med håb om at få sin del.<< v11 Når vi har sået det åndelige hos jer, er det da for meget hvis vi høster det materielle af jer? v12 Når andre har del i denne ret over jer, har vi så ikke endnu mere? Men vi har ikke gjort brug af denne ret, men vi tåler alt for at vi ikke skal lægge nogen hindring for Kristi evangelium.
+
+v13 Ved I ikke at de som arbejder i templet, får deres føde fra templet, de som tjener ved alteret, deler ofrene med alteret? v14 Således har også Herren befalet at de som forkynder evangeliet, skal leve af evangeliet.
+
+v15 Men jeg har ikke gjort brug af noget af dette, og jeg skriver ikke dette for at det skal være sådan for mig, for jeg vil hellere dø end –{T: Sætningen er ufuldstændig.} ingen skal gøre min ros til intet. v16 For hvis jeg forkynder evangeliet, giver det mig ingen grund til ros, for en tvang er lagt på mig, for ve mig hvis jeg ikke forkynder evangeliet. v17 For hvis jeg gør det af egen vilje, får jeg løn, men hvis jeg ikke gør det frivilligt, er jeg betroet en tjeneste. v18 Hvad er da min løn? Den er at jeg, når jeg forkynder evangeliet, fremsætter det gratis så at jeg ikke gør brug af den ret som evangeliet giver mig.
+
+v19 For skønt jeg er fri over for alle, har jeg gjort mig selv til en tjener for alle for at jeg kan vinde flere, v20 og jeg er blevet som en jøde for jøderne for at jeg kan vinde jøder; jeg er blevet som en under loven for dem under loven for at jeg kan vinde dem under loven; v21 jeg er blevet som en uden lov for dem uden lov, skønt jeg ikke er uden lov, men er under Kristi lov, for at jeg kan vinde dem uden lov; v22 jeg er blevet som en svag for de svage for at jeg kan vinde de svage; jeg er blevet alt for alle for at jeg i hvert fald kan frelse nogle. v23 Men jeg gør alt for evangeliets skyld for at jeg må have del i det.
+
+v24 Ved I ikke at de som løber på stadion, alle løber, men kun én modtager sejsprisen. Sådan skal I løbe for at I kan modtage den. v25 Enhver atlet er afholdende i alt, men de gør det for at modtage en forgængelig sejrskrans, vi derimod for at modtage en uforgængelig sejrskrans. v26 Jeg løber altså ikke som en uden mål; jeg bokser ikke som en der slår i luften, v27 men jeg disciplinerer min krop og holder den under kontrol for at jeg som har forkyndt for andre, ikke selv skal blive forkastet.
 
 
-v19 For selvom jeg er fri over for alle, har jeg dog gjort mig selv til tjener for alle, for at jeg kunne vinde så mange flere.
-v20 Og for jøderne er jeg blevet som en jøde, for at jeg kunne vinde jøder; for dem under loven som en under loven, skønt jeg ikke selv er under loven, for at jeg kunne vinde dem, der er under loven;
-v21 for dem uden for loven som en uden for loven, skønt jeg ikke er uden lov for Gud, men under Kristi lov, for at jeg kunne vinde dem, der er uden for loven.
-v22 Jeg er blevet skrøbelig for de skrøbelige, for at jeg kunne vinde de skrøbelige; jeg er blevet alt for alle, for at jeg i hvert fald kunne frelse nogle.
-v23 Men alt gør jeg for evangeliets skyld, for at jeg kan få del i det.
-
-
-v24 Ved I ikke at de der løber på idrætsbanen, ganske vist alle løber, men kun én får prisen? Løb sådan at I kan vinde den.
-v25 Enhver der deltager i konkurrencer, er afholdende i alt; de altså for at få en krans der visner, men vi en der ikke visner.
-v26 Jeg løber derfor ikke som hen i det uvisse; jeg bokser som en der ikke slår ud i luften;
-v27 men jeg er hård ved{T: >>slår i ansigtet<<, ordret: >>slår under øjet<<.} mit legeme og holder det i trældom for at jeg, der har prædiket for andre, ikke selv skal blive forkastet.

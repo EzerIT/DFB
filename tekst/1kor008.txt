@@ -1,29 +1,24 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 8 ===
-
-==I Spørgsmålet om at spise kød fra afgudsofre bekræfter Paulus det som en rigtig erkendelse, som dog ingen bør være hovmodig over, at afguderne ikke er til i virkeligheden, men kun i hedningernes tanker, 1-6. Men da nogle føler sig ramt i samvittigheden, bør man begrænse sin frihed og ikke ved at spise offerkødet forlede svage brødre til at handle imod deres samvittighed, 7-13.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 8===
 
 
+==Om offerkød==
 
-v1 Men hvad kødet fra afgudsofrene angår, ved vi, at vi alle har kundskab om det - (kundskaben opblæser, men kærligheden opbygger.
-v2 Hvis nogen mener at kende noget, kender han det endnu ikke sådan, som man bør kende det.
-v3 Men hvis nogen elsker Gud, er han kendt af ham.)
-v4 Hvad altså det at spise offerkødet angår, ved vi, at der ikke er nogen afgud til i verden, og at der ingen Gud er undtagen én.
-v5 For selvom der er såkaldte guder, hvad enten det er i himmelen eller på jorden, som der jo er mange guder og mange herrer,
-v6 så er der for os dog kun én Gud, Faderen, af hvem alle ting er, og vi til ham, og én Herre, Jesus Kristus, ved hvem alle ting er, og vi ved ham.
+v1 Vedrørende offerkød ved vi at alle har erkendelse. Erkendelsen opblæser, men kærligheden opbygger. v2 Hvis nogen mener at erkende noget, har han endnu ikke erkendt det som det skal erkendes. v3 Men hvis nogen elsker Gud, er han kendt af ham. v4 Altså vedrørende spisning af offerkød ved vi at der ikke er nogen afgud i verden, og at der ikke er nogen Gud, undtagen én. v5 For selvom der er såkaldte guder i himlen og på jorden, ligesom der er mange guder og mange herrer,
+
+v6 så er der for os én Gud, Faderen
+
+fra hvem alt er, og vi er til for ham,
+
+og én Herre, Jesus Kristus
+
+ved hvem alt er, og vi er til ved ham.
 
 
-v7 Ikke alle har dog den kundskab. Men der er nogle, der af gammel vane spiser det som afgudsofferkød, og deres skrøbelige samvittighed besmittes.
-v8 Men mad skal ikke bestemme vores stilling over for Gud; vi har hverken et fortrin, hvis vi spiser, eller står tilbage, hvis vi ikke spise.
-v9 Men se til, at denne jeres frihed ikke skal blive til anstød for de skrøbelige!
-v10 For hvis nogen ser dig, der har kundskab, sidde til bords i et afgudshus, vil så samvittigheden hos den, der er skrøbelig, ikke blive opmuntret til at spise afgudsofferkødet?
-v11 Den skrøbelige går jo til grunde ved din kundskab, den bror, for hvis skyld Kristus er død.
-v12 Men når I på den måde synder imod brødrene og sårer deres skrøbelige samvittighed, synder I imod Kristus.
-v13 Derfor, hvis mad bringer min bror til fald, vil jeg aldrig i evighed spise kød, for at jeg ikke skal bringe min bror til fald.
-
+v7 Ikke alle har erkendelsen, men indtil nu spiser nogle af vane kødet som afgudsofferkød, og deres samvittighed, som er svag, besmittes. v8 Men mad bringer os ikke frem for Gud; vi lider hverken mangel hvis vi ikke spiser, eller har overflod hvis vi spiser. v9 Men se til at jeres frihed{T: Dvs. til at spise.} ikke bliver et anstød der fører de svage til fald. v10 For hvis nogen ser dig, som har erkendelse, ligge til bords i afgudstemplet, opbygges hans samvittighed, som er svag, så ikke til at spise offerkød? v11 Da går den svage til grunde ved din erkendelse, broderen som Kristus er død for. v12 Men når I således synder mod brødrene og sårer deres svage samvittighed, synder I imod Kristus. v13 Derfor, hvis mad bringer min broder til fald, vil jeg aldrig i evighed spise kød for at jeg ikke skal bringe min broder til fald.
 
 

@@ -1,49 +1,27 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 11 ===
-
-==Kvinderne skal have hovedet tildækket ved gudstjenesten, men ikke mændene, hvad der stemmer både med det forhold mellem mænd og kvinder, der blev bestemt ved skabelsen, og med de herskende sædvaner, 2-16. Apostelen kritiserer visse uskikke ved deres kærlighedsmåltider og formaner til den rette og værdige deltagelse i den hellige nadver; misbruges den, straffes det, 17-34.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 11===
 
 
+==Kvinders hoveddække==
 
-v2 Men jeg roser jer, fordi I husker mig i alt og holder fast ved overleveringerne, sådan som jeg har overleveret dem til jer.
-v3 Men jeg vil, at I skal vide, at Kristus er enhver mands hoved; men manden er kvindens hoved; men Gud er Kristi hoved.
-v4 Enhver Mand, der beder eller profeterer med tildækket hoved, bringer skam over sit hoved.
-v5 Men enhver kvinde, der beder eller profeterer med utildækket hoved, beskæmmer sit hoved; for det er det samme, som om hun var klippet skaldet.
-v6 For når en kvinde ikke dækker sig til, så lad hende også klippe sit hår af; men er det usømmeligt for en kvinde at blive klippet eller kronraget, så skal hun dække sig til.
-v7 For en mand bør ikke dække sit hoved til, eftersom han er Guds billede og ære; men kvinden er mandens ære.
-v8 Mand kommer jo ikke af kvinde, men kvinde af mand.
-v9 Manden er jo heller ikke skabt for kvindens skyld, men kvinden for mandens skyld.
-v10 Derfor bør kvinden have et ærbødighedstegn paa hovedet for englenes skyld.
-v11 Dog er i Herren hverken kvinde uden mand eller mand uden kvinde noget.
-v12 For ligesom kvinden er af manden, sådan er også manden ved kvinden; men alt sammen er det af Gud.
-v13 Døm selv: Er det sømmeligt, at en kvinde beder til Gud med utildækket hoved?
-v14 Lærer ikke også selve naturen jer, at når en mand går med langt hår, er det en vanære for ham,
-v15 men når en kvinde bærer langt hår, er det en ære for hende; for det lange hår er givet hende som et slør.
-v16 Men har nogen lyst til at strides om det, så er det ikke noget, vi har for vane, og Guds menigheder heller ikke.
+v2{T: Vers 1 står efter 10,33 da det naturligt hører til der.} Jeg roser jer fordi I husker mig i alt og holder fast i de overleveringer jeg har overleveret jer. v3 Men jeg vil at I skal vide at Kristus er enhver mands hoved, men manden er kvindens hoved, og Gud er Kristi hoved. v4 Enhver mand som beder eller profeterer med noget på hovedet,{T: Der er enten tænkt på en kappe over hovedet eller langt hår.} bringer skam over sit hoved. v5 Enhver kvinde som beder eller profeterer med utildækket{T: Der er enten tænkt på uden en kappe over hovedet eller uden langt hår.} hoved, bringer skam over sit hoved, for det er helt det samme som at hun har ladet håret barbere af. v6 For når en kvinde ikke tildækker sig, skal hun barbere håret af, men når det er en skam for en kvinde at lade håret barbere af eller skære af, skal hun tildække sit hoved.
 
+v7 For en mand skylder ikke at tildække sit hoved fordi han er Guds billede og ære, men kvinden er mandens ære. v8 For manden er ikke af kvinden, men kvinden er af manden, v9 for manden blev heller ikke skabt for kvindens skyld, men kvinden for mandens skyld. v10 Derfor skylder kvinden at have et tegn på autoritet på hovedet på grund af englene. v11 Dog i Herren er kvinden ikke uden manden eller manden uden kvinden, v12 for ligesom kvinden er af manden, således er også manden ved kvinden, men alt er af Gud.
 
-v17 Men idet jeg giver følgende formaning, roser jeg ikke, at I kommer sammen, ikke til det bedre, men til det værre.
-v18 For det første hører jeg nemlig, at der er splittelser iblandt jer, når I samles i kirke; og til dels tror jeg det.
-v19 for der må endda være kliker iblandt jer, for at de prøvede kan blive åbenlyse iblandt jer.
-v20 Når I så kommer sammen, er det ikke Herrens nadver, I spiser.
-v21 For under spisningen tager hver og én sit eget måltid i forvejen, og den ene sulter, den anden drikker sig fuld.
-v22 Har I da ikke huse til at spise og drikke i? Eller foragter I Guds menighed og gør dem til skamme, der ikke har noget? Hvad skal jeg sige jer? Skal jeg rose jer? I dette her roser jeg jer ikke.
-v23 For jeg har modtaget fra Herren, hvad jeg også har overleveret jer: At Herren Jesus i den nat, da han blev forrådt, tog brød,
-v24 takkede og brød det og sagde: >>Dette er mit legeme, der er for jer; gør dette til minde om mig!<<
-v25 På samme måde tog han også bægeret efter aftensmåltidet og sagde: >>Dette bæger er den nye pagt i mit blod; gør dette, så tit som I drikker den, til minde om mig!<<
-v26 For så tit, som I spiser dette brød og drikker bægeret, forkynder I Herrens død, indtil han kommer.
-v27 Derfor, den, der spiser bødet eller drikker Herrens bæger uværdigt, pådrager sig skyld over for Herrens legeme og blod.
-v28 Men hvert menneske må prøve sig selv, og sådan skal han spise af brødet og drikke af bægeret!
-v29 For den, der spiser og drikker, spiser og drikker sig selv en dom til, når han ikke er opmærksom på legemet.{T: dvs. Herrens legeme.}
-v30 Derfor er mange skrøbelige og syge iblandt jer, og en del sover hen.
-v31 Men hvis vi bedømte os selv, blev vi ikke dømt.
-v32 Men når vi dømmes, opdrages vi af Herren, for at vi ikke skal fordømmes sammen med verden.
-v33 Derfor, mine brødre, når I kommer sammen til måltid, vent så på hinanden!
-v34 Når nogen sulter, skal han spise hjemme, for at I ikke skal komme sammen til dom.{T: dvs. pådrage jer straf ved det.} Men det andet skal jeg give forskrifter for, når jeg kommer.
+v13 Døm selv: Er det rigtigt at en kvinde beder til Gud med utildækket hoved? v14 Eller lærer ikke naturen selv at det er en vanære for en mand hvis han har langt hår, men at det er en ære for en kvinde hvis hun har langt hår? v15 For det lange hår er givet hende i stedet for et slør. v16 Men hvis nogen gerne vil være stridslysten, så har vi eller Guds menigheder ikke en sådan skik.
 
+==Om nadverfejring==
+
+v17 Men jeg roser jer ikke når jeg befaler det følgende, for I kommer ikke sammen til gavn, men til skade. v18 For det første hører jeg at der er splittelser iblandt jer når I kommer sammen i menigheden, og det tror jeg delvist. v19 Ja, der skal være splittelser blandt jer for at de ægte troende kan blive synlige blandt jer. v20 Når I altså kommer sammen, er det ikke for at spise Herrens måltid, v21 for enhver spiser sit eget måltid,{T: Alternativ oversættelse: >>for enhver indtager forud sit eget måltid<<.} og den ene sulter, mens den anden bliver beruset. v22 Har I ikke hjem hvor I kan spise og drikke? Eller ringeagter I Guds menighed og bringer skam over dem som ikke har noget? Hvad skal jeg sige til jer? Skal jeg rose jer? I denne sag roser jeg jer ikke.
+
+v23 For jeg modtog fra Herren, hvad jeg også har overleveret jer, at Herren Jesus i den nat han blev forrådt, tog et brød v24, takkede og brød det og sagde: >>Dette er min krop, som gives for jer, gør dette til erindring om mig.<< v25 Ligeledes tog han også bægeret efter måltidet og sagde: >>Dette bæger er den nye pagt ved mit blod; gør dette, så ofte I drikker det, til erindring om mig. v25 For så ofte I spiser dette brød og drikker dette bæger, forkynder I Herrens død, indtil han kommer.<<
+
+v27 Derfor, den som spiser Herrens brød eller drikker Herrens bæger uværdigt, er skyldig over for Herrens krop og blod. v28 Men ethvert menneske skal prøve sig selv, og så skal han spise af brødet og drikke af bægeret, v29 For den der spiser og drikker uden at bedømme kroppen rigtigt{T: Personen betragter ikke brødet som Kristi krop, men som almindeligt brød.} spiser og drikker sig selv en dom til. v30 Derfor er der mange syge og svage og hensovede blandt jer. v31 Men hvis vi bedømmer os selv, vil vi ikke blive dømt, v32 men når vi bedømmes af Herren, opdrages vi for at vi ikke skal blive fordømt sammen med verden.
+
+v33 Derfor, mine brødre, når I kommer sammen for at spise, så indbyd{T: Alternativ oversættelse: >>så vent på<<.} hinanden til at spise med. v34 Hvis nogen er sulten, skal han spise hjemme for at I ikke skal komme sammen til dom. Det resterende vil jeg ordne når jeg kommer.
 
 

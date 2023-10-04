@@ -1,31 +1,17 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 13 ===
-
-==Kærlighedens uundværlighed; selvom man havde de andre gaver i rigeste mål og udførte åndelige storværker, men ikke havde kærligheden, var man alligevel intet, 1-3. Kærlighedens egenskaber, 4-7; Kærlighedens uforgængelighed; mens de andre gaver på grund af deres mangelfuldhed ophører, når engang det fuldkomne indtræffer, bliver kærligheden med troen og håbet ved med at eksistere, og af disse tre er kærligheden den største, 8-13.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 13===
 
 
+==Om kærligheden==
 
-v1 Taler jeg med menneskers og engles tunger, men ikke har kærlighed, så er jeg blevet et lydende malm eller en klingende bjælde.
-v2 Og har jeg profetisk gave og kender alle hemmelighederne og al kundskaben, og har jeg al troen, så at jeg kan flytte bjerge, men ikke har kærlighed, så er jeg intet.
-v3 Og uddeler jeg alt, hvad jeg ejer, til de fattige og giver mit legeme hen til at blive brændt, men ikke har kærlighed, så gavner det mig intet.
+v1 Hvis jeg taler med menneskers og engles tunger, men ikke har kærlighed, er jeg et rugende malm og en klingende bjælde. v2 Hvis jeg har profeti og kender alle hemmeligheder og har al kundskab, og hvis jeg har al tro så jeg kan flytte bjerge, men ikke har kærlighed, er jeg intet. v3 Og hvis jeg uddeler hele min ejendom, og hvis jeg giver min krop hen til at brændes, men ikke har kærlighed, gavner det mig intet.
 
+v4 Kærligheden er tålmodig, kærligheden er mild, den misunder ikke, kærligheden praler ikke, bliver ikke arrogant. v5 Den gør intet usømmeligt, søger ikke sit eget, forbitres ikke, holder ikke regnskab med det onde. v6 Den glæder sig ikke over uretfærdighed, men glæder sig over sandheden. v7 Den tåler alt, tror alt, håber alt, udholder alt.
 
-v4 Kærligheden er tålmodig, er velvillig; kærligheden er ikke misundelig; kærligheden praler ikke, er ikke stolt,
-v5 gør ikke noget usømmeligt, søger ikke sit eget, forbitres ikke, tilregner ikke det onde;
-v6 glæder sig ikke over uretfærdigheden, men glæder sig ved sandheden;
-v7 den tåler alt, tror alt, håber alt, udholder alt.
-
-
-v8 Kærligheden bortfalder aldrig; men enten det er profetiske gaver, de skal forgå, eller tungetale, den skal ophøre, eller kundskab, den skal forgå;
-v9 for vi kender stykkevis og profeterer stykkevis;
-v10 men når det fuldkomne kommer, så skal det stykkevise forgå.
-v11 Da jeg var barn, talte jeg som et barn, tænkte jeg som et barn, dømte jeg som et barn; efter at jeg er bleven mand, har jeg aflagt det barnagtige.
-v12 Nu ser vi jo i et spejl {T: dvs. en poleret, ret uskarp metalplade}, i en gåde, men da skal vi se ansigt til ansigt; nu kender jeg stykkevis, men da skal jeg erkende, ligesom jeg jo blev erkendt.
-v13 Så bliver da tro, håb, kærlighed ved, disse tre; men størst iblandt disse er kærligheden.
-
+v8 Kærligheden ophører aldrig, men hvad enten det er profetier, de vil forgå, eller tungetale, de vil ophøre, eller kundskab, den vil forgå. v9 For vi erkender delvist, og vi profeterer delvist, v10 men når det fuldkomne kommer, vil det delvise ophøre. v11 Da jeg var barn, talte jeg som et barn, tænkte som et barn, overvejede jeg som et barn, men da jeg blev voksen, aflagde jeg det barnlige. v12 For vi ser nu gennem et spejl, i en gåde, men da skal vi se ansigt til ansigt; nu erkender jeg delvist, men da vil jeg erkende, ligesom jeg er blevet erkendt. v13 Så nu bliver disse tre: Tro, håb, kærlighed, men størst af disse er kærligheden.
 
 

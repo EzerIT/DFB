@@ -233,9 +233,9 @@ $style['sl'] = $modenhed['færdig'];
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 
-for ($k=1; $k<=26; ++$k)
+for ($k=1; $k<=39; ++$k)
     $style['es'][$k] = $modenhed['færdig'];
-for ($k=27; $k<=66; ++$k)
+for ($k=40; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['rå oversættelse'];
 
 $style['jer']     = [ 1  => $modenhed['færdig'],
@@ -260,7 +260,7 @@ $style['luk']     = $modenhed['ufuldstændigt'];
 $style['joh']     = $modenhed['ufuldstændigt'];
 $style['apg']     = $modenhed['ufuldstændigt'];
 $style['rom']     = $modenhed['ufuldstændigt'];
-$style['1kor']    = $modenhed['rå oversættelse'];
+$style['1kor']    = $modenhed['delvis færdig'];
 $style['2kor']    = $modenhed['rå oversættelse'];
 $style['gal']     = $modenhed['delvis færdig'];
 $style['ef']      = $modenhed['delvis færdig'];

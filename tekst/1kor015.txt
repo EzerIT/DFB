@@ -1,82 +1,39 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 15 ===
-
-==Paulus vidner om Kristi opstandelse og åbenbarelserne af ham, 1-11. Imod den korinthiske fornægtelse af de dødes opstandelse stiller han Herrens egen opstandelse, som hele den hele kristne forkyndelse og tro står og falder med, 12-19. Han forklarer nærmere, hvordan Kristi opstandelse fører alle andres opstandelse og og den endelige overvindelse af døden med sig, indtil sejren til sidst bliver Guds, 20-28, og han påviser ud fra korinthernes og sit eget liv, hvor alvorligt de må vogte sig for den fornægtelse, der er bekæmpet her, 29-34. Indvendingerne om det utænkelige ved opstandelsen og opstandelseslegemet gendrives ved en sammenstilling med kendte ting i naturens verden, og arten af opstandelseslegemet forklares nærmere, et legeme, hvor man kommer til at ligne den herliggjorte Frelser, 35-49. Det forklares, at de, der oplever Herrens genkomst, skal forvandles, når de døde opstår; derfor formanes læserne under et triumferende blik ind i fremtiden om den kommende sejr til at være udholdende i Herrens tjeneste, 50-58.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 15===
 
 
+==Kristi opstandelse==
 
-v1 Men jeg gør jer bekendt, brødre, med det evangelium som jeg forkyndte for jer, som I også modtog, og som I også står i,
-v2 som I også frelses ved hvis I holder fast ved det ord jeg forkyndte det for jer med - ellers var det forgæves I kom til tro.
-v3 Jeg overleverede jer nemlig som noget af det første hvad jeg også har modtaget: At Kristus døde for vores synder, efter skrifterne;
-v4 og at han blev begravet; og at han er blevet oprejst den tredje dag, efter skrifterne;
-v5 og at han blev set af Kefas, dernæst af de tolv;
-v6 derefter blev han set af over fem hundrede brødre på én gang, af hvilke de fleste endnu er i live, men nogle er sovet hen;
-v7 derefter blev han set af Jakob, dernæst af alle apostlene;
-v8 men sidst af alle blev han også set af mig som et for tidligt født foster;
-v9 for jeg er den ringeste af apostlene, jeg, der ikke er værd at kaldes apostel fordi jeg har forfulgt Guds menighed.{T: Kan også oversættes: >>Guds kirke<<.}
-v10 Men af Guds nåde er jeg det jeg er, og hans nåde imod mig har ikke været forgæves; men jeg har arbejdet hårdere end alle dem, dog ikke jeg, men Guds nåde som er med mig.
-v11 Hvad enten det derfor er mig eller de andre, sådan prædiker vi, og sådan troede I.
+v1 Brødre, jeg vil meddele jer evangeliet som jeg har forkyndt for jer, som I også har modtaget, som I også står i, v2 og som I også frelses ved hvis I holder fast ved det ord hvormed jeg forkyndte det, ellers var det forgæves at I kom til tro. v3 For jeg overgav jer, som noget af det første, hvad I også har modtaget: At Kristus døde for vores synder efter Skrifterne, v4 at han blev begravet, at han er blevet oprejst på den tredje dag efter Skrifterne, v5 og at han viste sig for Kefas, derefter for de tolv, v6 derefter viste han sig for over fem hundrede brødre på én gang, de fleste af dem lever endnu, men nogle er sovet hen, v7 derefter viste han sig for Jakob, derefter for alle apostlene, v8 men sidst af alle viste han sig også for mig, der er som et for tidlig født foster.
 
+v9 For jeg er den ringeste af apostlene, og jeg er ikke værdig at kaldes apostel, for jeg har forfulgt Guds menighed, v10 men ved Guds nåde er jeg den jeg er, og hans nåde mod mig har ikke været forgæves, men jeg har slidt mere end dem alle, dog ikke jeg, men Guds nåde som er sammen med mig. v11 Altså, hvad enten det er mig eller de andre, sådan forkynder vi, og sådan har I troet.
 
-v12 Men når der prædikes, at Kristus er oprejst fra de døde, hvordan kan det være, at nogle iblandt jer så siger, at der ikke er nogen dødes opstandelse?
-v13 Hvis der ikke er nogen dødes opstandelse, så er ikke heller Kristus oprejst.
-v14 Men er Kristus ikke oprejst, så er vores prædiken jo tom, og jeres tro også tom.
-v15 Men så virker vi også som falske vidner om Gud, fordi vi har vidnet imod Gud, at han oprejste Kristus, som han ikke har oprejst, hvis døde virkelig ikke oprejses.
-v16 For hvis døde ikke oprejses, så er Kristus ikke heller oprejst.
-v17 Men hvis Kristus ikke er oprejst, så er jeres tro forgæves; så er I i jeres synder endnu;
-v18 så gik altså også de, der er sovet hen i Kristus, fortabt.
-v19 Har vi i dette liv udelukkende sat vores håb til Kristus, så er vi de mest ynkværdige af alle mennesker.
+==De dødes opstandelse==
 
+v12 Men når der forkyndes om Kristus at han er blevet oprejst fra de døde, hvorledes kan nogle blandt jer sige at der ikke findes nogen opstandelse fra de døde? v13 Men hvis der ikke findes nogen opstandelse fra de døde, så er Kristus heller ikke blevet oprejst. v14 Men hvis Kristus ikke er blevet oprejst, så er også vores forkyndelse tom og jeres tro tom, v15 og vi fremstår som nogle der er falske vidner om Gud fordi vi har vidnet mod Gud at han har oprejst Kristus, som han ikke har oprejst hvis altså døde ikke oprejses. v16 For hvis døde ikke oprejses, så er Kristus heller ikke blevet oprejst, v17 men hvis Kristus ikke er blevet oprejst, er jeres tro forgæves, og I er endnu i jeres synder, v18 og så er de hensovede i Kristus gået fortabt. v19 Hvis vi alene i dette liv har håbet på Kristus, er vi de ynkværdigste af alle mennesker.
 
-v20 Men nu er Kristus oprejst fra de døde, som førstegrøde af dem, der er sovet hen.
-v21 For eftersom død kom ved et menneske, er også dødes opstandelse kommet ved et menneske.
-v22 For ligesom alle dør i Adam, sådan skal også alle gøres levende i Kristus.
-v23 Men hver i sit hold: Som førstegrøde Kristus, derefter de, der hører Kristus til, ved hans komme.
-v24 Efter det kommer enden, når han overgiver riget til Gud og Faderen, når han har tilintetgjort hver magt og hver myndighed og kraft.
-v25 For han bør være konge, indtil han får lagt alle fjenderne under sine fødder.
-v26 Den sidste fjende, der tilintetgøres, er døden.
-v27 Han har jo >>lagt alle ting under hans fødder<<. Men når han{T: Kristus.} siger: >>Alt er underlagt<< - åbenbart med undtagelse af den, der underlagde ham alt -
-v28 når da alle ting er blevet underlagt ham, så skal også Sønnen selv underlægge sig ham, der har underlagt ham alle ting, for at Gud kan være alt i alle.
+v20 Men nu er Kristus blevet oprejst fra de døde som en førstegrøde af de hensovede. v21 For døden kom jo ved et menneske, og de dødes opstandelse kom ved et menneske. v22 For ligesom alle dør i Adam, således vil også alle blive levende i Kristus. v23 Men enhver i sin egen gruppe: Som førstegrøde Kristus, derefter ved hans komme dem som tilhører Kristus, v24 derefter kommer afslutningen når han overgiver riget til Gud og Faderen, når han har overvundet enhver magt og enhver myndighed og kraft. v25 For han skal herske som konge indtil >>han får lagt alle fjenderne under hans fødder<<. v26 Som den sidste fjende overvindes døden, v27 for >>alt har han underlagt under hans fødder<<. Men når han siger at alt er blevet underlagt ham, er det tydeligt at det er undtagen ham som har underlagt ham alt. v28 Men når alt er blevet underlagt ham, så vil også Sønnen selv underlægge sig ham som har underlagt ham alt, for at Gud kan være alt i alle.
 
+v29 Hvad vil de ellers udrette, de som lader sig døbe for de døde? Hvis døde i det hele taget ikke bliver oprejst hvorfor så lade sig døbe for dem? v30 Hvorfor udsætter vi os også for fare hver time? v31 Jeg dør dagligt, så sandt I, brødre, er min stolthed som jeg har i Kristus Jesus vores Herre. v32 Hvis jeg som menneske har kæmpet mod vilde dyr i Efesos hvad gavnede det mig? Hvis døde ikke bliver oprejst, så lad os spise og drikke, for i morgen skal vi dø. v33 Lad jer ikke bedrage:
 
-v29 Hvad vil ellers de, der lader sig døbe for de døde, opnå? Hvis døde overhovedet ikke oprejses, hvorfor lader de sig så døbe for dem?
-v30 Hvorfor udsætter vi os så også hver time for fare?
-v31 Jeg dør daglig, så sandt jeg har jer, brødre, at rose mig af i Kristus Jesus, vor Herre.
-v32 Hvis jeg som et almindeligt menneske{T: uden udsigt til at opstå efter døden.} har kæmpet med vilde dyr i Efesus, hvad gavn har jeg så af det? Hvis døde ikke oprejses, så >>lad os spise og drikke, for i morgen dør vi.<<
-v33 Far ikke vild! Dårligt selskab ødelægger gode manérer.
-v34 Bliv ædru, som det er passende, og synd ikke! For nogle kender ikke Gud; til skam for jer siger jeg det.
+	>>Dårligt selskab ødelægger gode skikke.<<
 
+v34 Bliv ædru som ret er, og synd ikke, for nogle har ikke gudserkendelse, til skam for jer siger jeg det.
 
-v35 Men man vil sige: >>Hvordan oprejses de døde? Hvad slags legeme kommer de med?<<
-v36 Din tåbe! Det, som du sår, bliver ikke gjort levende, hvis det ikke dør.
-v37 Og hvad du end sår, sår du ikke det legeme, der skal blive til, men et nøgent korn, hvad enten det er af hvede eller af en anden slags.
-v38 Men Gud giver det et legeme, sådan som han har villet, og hver kornsort sit eget legeme.
-v39 Ikke alt kød er det samme kød, men ét er menneskers, et andet kvægs kød, et andet fugles kød, et andet fisks.
-v40 Og der er himmelske legemer og jordiske legemer; men én er de himmelskes herlighed, en anden de jordiskes.
-v41 Én er solens glans og en anden månens glans og en anden stjernernes glans; for den ene stjerne er forskellig fra den anden i glans.
-v42 Sådan er det også med de dødes opstandelse: det sås i forgængelighed, det oprejses i uforgængelighed;
-v43 det sås i vanære, det oprejses i herlighed; det sås i skrøbelighed, det oprejses i kraft;
-v44 der sås et sjæleligt legeme, der oprejses et åndeligt legeme. Når der findes et sjæleligt legeme, findes der også et åndeligt.
-v45 Sådan står der også skrevet: >>Det første menneske, Adam, blev til en levende sjæl;<< den sidste Adam blev til en levendegørende Ånd.
-v46 Men det åndelige er ikke det første, det er det sjælelige; derefter det åndelige.
-v47 Det første menneske var af jord, jordisk; det andet menneske er fra Himmelen.
-v48 Sådan som den jordiske var, sådan er også de jordiske; og sådan som den himmelske er, sådan er også de himmelske.
-v49 Og ligesom vi har båret den jordiskes billede, sådan skal vi også bære den himmelskes billede!
+v35 Men vil nogen sige: >>Hvorledes oprejses de døde? Og med hvilken krop kommer de?<< v36 Tåbe, det du sår, bliver ikke levende hvis det ikke dør, v37 og det du sår, sår du ikke som den krop den bliver til, men et nøgent korn, for eksempel hvede eller noget andet. v38 Men Gud giver det en krop som han har besluttet, og til ethvert sædekorn dets egen krop. v39 Ikke alt kød er det samme kød, men menneskers er ét, kvægets kød er et andet, fugles kød er et andet, og fisks kød er et andet. v40 Der er himmelske kroppe og jordiske kroppe, men de himmelskes herlighed er en slags, men de jordiskes en anden slags, v41 Solen har en herlighed, månen en anden herlighed og stjernerne en anden herlighed, for stjerne er forskellig fra stjerne i herlighed. v42 Således er det også med de dødes opstandelse. Der sås i forgængelighed, men der oprejses i uforgængelighed. v43 Der sås i vanære, men der oprejses i herlighed, der sås i svaghed, men der oprejses i kraft, v44 der sås en sjælelig krop, men der oprejses en åndelig krop. Når der er en sjælelig krop, er der også en åndelig. v45 Således står der også skrevet: >>Det første menneske, Adam, blev til en levende sjæl.<< Den sidste Adam blev til en ånd som gør levende. v46 Men det åndelige er ikke det første, men det sjælelige, derefter kommer det åndelige. v47 Det første menneske var af jord, jordisk, det andet menneske er fra himlen. v48 Som den jordiske var, sådan er også de jordiske, og som den himmelske er, sådan er også de himmelske. v49 Ligesom vi har båret den jordiskes billede, vil vi bære den himmelskes billede.
 
+v50 Men dette siger jeg jer, brødre, at kød og blod kan ikke arve Guds rige, og det forgængelige arver ikke det uforgængelige. v51 Se, jeg siger jer en hemmelighed: Vi skal ikke alle hensove, men vi skal alle forvandles v52 i ét nu, i et øjeblik, ved den sidste basun, for basunen vil lyde, og de døde vil blive oprejst som uforgængelige, og vi vil blive forvandlet. v53 For det forgængelige skal iføres uforgængelighed, og det dødelige skal iføres udødelighed. v54 Men når det forgængelige har iført sig uforgængelighed, og det dødelige har iført sig udødelighed, så vil det ord som er skrevet, blive opfyldt:
 
-v50 Men dette siger jeg, brødre, at kød og blod ikke kan arve Guds rige, forgængeligheden arver heller ikke uforgængeligheden.
-v51 Se, jeg siger jer en hemmelighed: Vi skal ikke alle sove hen, men vi skal alle forvandles,
-v52 i et nu, på et øjeblik, ved den sidste basun; for basunen skal lyde, og de døde skal oprejses uforgængelige, og vi skal forvandles.
-v53 For dette forgængelige må iklæde sig uforgængelighed, og dette dødelige iklæde sig udødelighed.
-v54 Men når dette forgængelige har iklædt sig uforgængelighed, og dette dødelige har iklædt sig udødelighed, så skal det ord, der står skrevet, opfyldes: >>Døden er opslugt til sejr.<<
-v55 >>Død, hvor er din sejr? Død, hvor er din brod?<<
-v56 Men dødens brod er synden, og syndens kraft er Loven.
-v57 Men tak til Gud, der giver os sejren ved vor Herre Jesus Kristus!
-v58 Derfor, mine elskede brødre, bliv faste, urokkelige, altid rige i Herrens gerning, vel vidende, at jeres arbejde er ikke forgæves i Herren.
+	>>Døden er blevet opslugt til sejr.
 
+	v55 Død, hvor er din sejr?
+
+	Død, hvor er din brod?<<
+
+v56 Men dødens brod er synden, og syndens kraft er loven. v57 Men tak til Gud som giver os sejren ved vores Herre Jesus Kristus. v58 Derfor, mine elskede brødre, vær faste, urokkelige, altid rige i Herrens gerning fordi I ved at jeres arbejde ikke er forgæves i Herren.
 
 

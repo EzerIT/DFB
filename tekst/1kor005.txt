@@ -1,31 +1,13 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 5 ===
-
-==En fra menigheden lever i incest, og i den forbindelse bebrejder Paulus dem igen deres hovmod og kritiserer dem, fordi de ikke har udstødt synderen, 1-5; al urenhed bør vige pladsen for renhed og sandhed, 6-8. Sin formaning i et tidligere brev om ikke at omgås med seksuelt umoralske uddyber han ved at sige, at man skal bryde fællesskabet med åbenlyse syndere, der findes inden for menigheden, 9-13.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 5===
 
 
+==Om utugt i menigheden==
 
-v1 I det hele taget høres der om seksuel umoral iblandt jer, og det af en slags, der ikke engang findes iblandt hedningerne, nemlig, at én har sin fars kone.
-v2 Og I er opblæste og blev ikke i stedet for bedrøvede, så at den, der har gjort denne gerning, måtte fjernes fra jeres midte!
-v3 Jeg for min del, fraværende med legemet, men nærværende med ånden, har nemlig allerede, som om jeg var nærværende, fældet denne dom over ham, der på den måde har bedrevet dette:
-v4 Når I og min ånd er forsamlet i vor Herres Jesu Navn, skal med vor Herres Jesu kraft
-v5 vedkommende overgives til Satan til kødets undergang, for at ånden kan frelses på Herren Jesu dag.
-
-
-v6 Det er ikke noget smukt, I roser jer af! Ved I ikke, at lidt surdej gennemsyrer hele dejen?
-v7 Rens den gamle surdej ud for at I kan være en ny dej, da I jo er usyrede; for også vores påskelam er slagtet, nemlig Kristus.
-v8 Lad os derfor holde festen, ikke med gammel surdej, heller ikke med nederdrægtigheds og ondskabs surdej, men med renheds og sandheds usyrede brød.
-
-
-v9 Jeg skrev jer til i mit brev, at I ikke skulle have noget at gøre med seksuelt umoralske -
-v10 ikke generelt{T: uden for menigheden.} denne verdens seksuelt umoralske eller havesyge og røvere eller afgudsdyrkere; ellers måtte I jo forlade verden. 
-v11 Men nu skrev jeg til jer, at I ikke skulle have noget at gøre med nogen, hvis der er en, der kaldes bror, og er seksuelt umoralsk eller er en havesyg eller en afgudsdyrker eller en bagtaler eller en dranker eller en røver, ja, ikke engang spise sammen med sådan en.
-v12 For er det op til mig at dømme dem, der er udenfor? Er det ikke dem, der er indenfor, I dømmer?
-v13 Men det er Gud, der dømmer dem udenfor. Fjern den onde fra jer selv!
-
+v1 Man hører virkelig om utugt iblandt jer, og om en sådan utugt, som ikke engang findes blandt hedningerne, nemlig at en mand lever sammen med sin fars hustru. v2 Og I blev opblæste, men skulle I ikke hellere have sørget, så han som har gjort denne gerning, blev fjernet fra jeres midte? v3 For skønt jeg er fraværende i kroppen, er jeg dog nærværende i ånden, og jeg har som nærværende allerede dømt ham som har gjort dette. v4 Når I og min ånd er forsamlet i vor Herre Jesu navn, og vi er sammen med vores Herre Jesu kraft, v5 skal han overgives til Satan så kødet kan tilintetgøres for at hans ånd kan blive frelst på Herrens dag. v6 Jeres stolthed er ikke smuk. Ved I ikke at en smule surdej gennemsyrer hele dejen? v7 Rens den gamle surdej ud for at I kan blive en ny dej, ligesom I jo er usyrede; for også vores påskelam, Kristus, er slagtet. v8 Lad os derfor fejre påske, ikke med gammel surdej eller med slet og ond surdej, men med renheds og sandheds usyrede brød. v9 I mit brev har jeg skrevet til jer at I ikke må omgås utugtige, v10 jeg mente ikke denne verdens utugtige i det hele taget eller griske og røvere eller afgudsdyrkere, i så fald måtte I da gå ud af verden. v11 Men nu skriver jeg til jer at I ikke må omgås nogen som bærer brodernavn og er utugtig eller grisk eller afgudsdyrker eller spotter eller fordrukken eller en røver. I må ikke engang spise sammen med en sådan. v12 For er det min sag at dømme dem udenfor? Dømmer I ikke dem indenfor? v13 Gud vil dømme dem udenfor. >>I skal fjerne den onde fra jer selv.<<
 
 

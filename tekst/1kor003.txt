@@ -1,43 +1,17 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.10.2018>!!
-=== Paulus' Første Brev til Korintherne, kapitel 3 ===
-
-==Korintherne var før og er stadig kødelige, hvad der ses af deres klikevæsen, 1-4. Deres lærere, som de overvurderer, er dog kun tjenere og Guds medarbejdere, 5-9. Grundvolden er Kristus, og på ham bygger hver enkelt, som han nu kan, dog sådan, at han skal kræves til regnskab for, hvad han bygger, og de skal passe på ikke at ødelægge Guds tempel, 10-17. Man skal ikke lægge vægt på denne verdens visdom, ikke slås om de menneskelige lærere, da jo alt tilhører de kristne, mens de selv tilhører Kristus, 18-23.==
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 04.10.2023>!!
+===Første Korintherbrev, kapitel 3===
 
 
+==Guds medarbejdere==
 
-v1 Og, brødre! jeg kunne ikke tale til jer som til åndelige, men som til kødelige, som til babyer i Kristus.
-v2 Det var mælk, jeg gav jer at drikke, ikke fast føde; for I kunne ikke tåle det endnu, ja, I kan det ikke engang nu;
-v3 for I er stadig kødelige; når der nemlig er misundelse og splid iblandt jer, er I så ikke kødelige og vandrer som mennesker?
-v4 For når én siger: >>Jeg hører Paulus til,<< og en anden: >>Jeg hører Apollos til,<< er I så ikke >>mennesker<<?
+v1 Men, brødre, jeg kunne ikke tale til jer som til åndelige, men kun som til kødelige, som til børn i Kristus. v2 Jeg gav jer mælk at drikke, ikke fast føde, for I kunne endnu ikke tåle det. Ja, I kan det heller ikke nu, v3 for I er endnu kødelige. For når der er misundelse og strid blandt jer, er I så ikke kødelige og vandrer på en menneskelig måde? v4 For når nogen siger: >>Jeg tilhører Paulus,<< men en anden: >>Jeg tilhører Apollos,<< er I så ikke mennesker? v5 Hvad er da Apollos? Og hvad er Paulus? Tjenere ved hvem I kom til tro, og enhver tjente på den måde Herren gav. v6 Jeg plantede, Apollos vandede, men Gud gav væksten, v7 så hverken den som planter, eller den som vander, er noget, men det er Gud som giver væksten. v8 Men den som planter, og den som vander, er ét, dog vil enhver modtage sin egen løn i forhold til sit eget arbejde, v9 for vi er Guds medarbejdere. Guds mark, Guds bygning, er I.
 
+v10 I overensstemmelse med Guds nåde, som er blevet givet mig, har jeg som en dygtig murermester lagt fundamentet, men en anden bygger på det. Enhver skal lægge mærke til hvordan han bygger. v11 For ingen kan lægge et andet fundament end det der er lagt, og det er Jesus Kristus. v12 Når nogen bygger på fundamentet med guld, sølv, ædelstene, træ, hø og strå, v13 så vil enhvers gerning blive åbenbaret. For dagen vil gøre det klart, for den vil blive åbenbaret med ild, og ilden vil prøve enhvers gerning, hvordan den er. v14 Hvis ens gerning, som er bygget på fundamentet, består, vil han modtage løn. v15 Hvis ens gerning brændes op, vil han miste lønnen, men han vil selv blive frelst, dog som gennem ild. v16 Ved I ikke, at I er Guds tempel, og Guds Ånd bor i jer? v17 Men hvis nogen ødelægger Guds tempel, vil Gud ødelægge ham, for Guds tempel er helligt, og det tempel er I.
 
-v5 Hvad er Apollos da? og hvad er Paulus? Tjenere, som I kom til tro ved og det sådan, som Herren gav hver enkelt. 
-v6 Jeg plantede, Apollos vandede, men Gud gav vækst.
-v7 Så er da hverken den, der planter, eller den, der vander, noget, men det er Gud, der giver vækst.
-v8 Den, der planter, og den, der vander, er ét; men hver enkelt skal få sin egen løn efter sit eget arbejde.
-v9 For Guds medarbejdere er vi; Guds mark, Guds bygning er I.
-
-
-v10 Efter den Guds nåde, der blev givet mig, har jeg som en klog bygmester lagt grundvold, mens en anden bygger på den. Men lad hver enkelt holde øje med, hvordan han bygger på den!
-v11 For ingen kan lægge nogen anden grundvold end den, der er lagt, og det er er Jesus Kristus.
-v12 Men bygger nogen på grundvolden med guld, sølv, ædelsten, træ, hø, halm,
-v13 så skal hver enkelts arbejde blive tydeligt; for dagen skal gøre det klart, fordi den viser sig med ild, og hvordan hver enkelts arbejde er, det skal ilden teste.
-v14 Hvis det arbejde, som én har bygget på grundvolden, består, skal han få løn;
-v15 hvis nogens arbejde brændes op, skal han gå glip af den; men selv skal han blive frelst, dog som igennem ild.
-v16 Ved I ikke, at I er Guds tempel {T: Det rum i templet, hvor Gud bor}, og Guds Ånd bor i jer?
-v17 Hvis nogen ødelægger Guds tempel, skal Gud ødelægge ham; for Guds tempel er helligt, og det er jo jer.
-
-
-v18 Ingen skal bedrage sig selv! Hvis nogen iblandt jer mener, at han er viis i denne verden, skal han blive en tåbe, for at han kan blive viis.
-v19 For denne verdens visdom er tåbelighed for Gud; der står jo skrevet: >>Han er den, der fanger de vise i deres udspekulerethed;<<
-v20 og igen: >>Herren kender de vises tankegang, at den er forgæves.<<
-v21 Derfor skal ingen rose sig af mennesker! Alting er jo jeres,
-v22 hvad enten det er Paulus eller Apollos eller Kefas eller verden eller liv eller død eller det, der er, eller det, der kommer: Alle Ting tilhører jer;
-v23 men I tilhører Kristus, og Kristus tilhører Gud.
-
+v18 Lad ingen bedrage sig selv. Hvis nogen blandt jer mener at være vis i denne verden, må han blive en tåbe, for at han kan blive vis. v19 For denne verdens visdom er tåbelighed for Gud. For der står skrevet: >>Han fanger de vise i deres snedighed.<< v20 Og videre: >>Herren kender de vises tanker, at de er tomme.<< v21 Derfor skal ingen rose sig af mennesker, for alt tilhører jer, v22 hvad enten det er Paulus eller Apollos eller Kefas eller verden eller liv eller død eller det nuværende eller det kommende, alt tilhører jer, v23 men I tilhører Kristus, og Kristus tilhører Gud.
 
 
