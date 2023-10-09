@@ -233,8 +233,10 @@ $style['sl'] = $modenhed['færdig'];
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 
-for ($k=1; $k<=39; ++$k)
+for ($k=1; $k<=7; ++$k)
     $style['es'][$k] = $modenhed['færdig'];
+for ($k=8; $k<=39; ++$k)
+    $style['es'][$k] = $modenhed['delvis færdig'];
 for ($k=40; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['rå oversættelse'];
 
