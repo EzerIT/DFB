@@ -1,11 +1,35 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomesen>!!
-!!<Dato for denne version: 11.01.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 23.10.2023>!!
 
-=== Paulus' Brev til Titus, kapitel 3 ===
+===Paulus' Brev til Titus, kapitel 3===
 
-v4 Men da Guds, vores frelsers, godhed og menneskekærlighed åbenbaredes,
-v5 frelste han os, ikke for de retfærdige gerningers skyld som vi havde gjort, men efter sin barmhjertighed, ved genfødelsens bad og fornyelsen i Helligånden,
-v6 som han rigeligt udøste over os ved Jesus Kristus, vores frelser,
-v7 for at vi, retfærdiggjorte ved hans nåde, i håbet skulle blive arvinger til evigt liv.
+
+==Formaning om at underordne sig og vise mildhed==
+
+v1 Husk dem på at de skal underordne sig herskere og myndigheder, at de skal adlyde, være parate til enhver god gerning, v2 ikke håne nogen, ikke være stridbare, men milde, så de viser al sagtmodighed mod alle mennesker.
+
+==Genfødsel og nyt liv==
+
+v3 For også vi var engang uforstandige, ulydige, forførte, slaver af forskellige slags begær og lyster, og vi førte et liv i ondskab og misundelse, var forhadte og hadede hinanden. 
+v4 Men da Guds, vores frelsers, godhed og kærlighed til mennesker blev åbenbaret,
+
+v5 frelste han os ikke på grund af de retfærdige gerninger,{T: Ordret: >>gerninger i retfærdighed<<.} vi havde gjort,
+
+men på grund af sin barmhjertighed ved genfødslens og fornyelsens bad ved Helligånden,
+
+v6 som han i rigt mål udøste over os ved Jesus Kristus, vores frelser,
+
+v7 for at vi når vi er blevet erklæret retfærdige ved hans nåde, skulle blive arvinger med håb om evigt liv.
+
+v8 Troværdigt er ordet, og jeg vil at du skal insistere på dette, for at de som er kommet til tro på Gud, skal fokusere på at engagere sig i gode gerninger. Dette er godt og gavnligt for mennesker. v9 Men hold dig fra tåbelige diskussioner, stamtavler, stridigheder og kampe om loven, for de er nyttesløse og ufrugtbare. v10 Afvis et menneske der skaber splittelse, efter den første og anden irettesættelse, v11 fordi du ved at et sådant menneske er forvirret og synder og er dømt af sig selv.
+
+==Planer og hilsner==
+
+v12 Når jeg sender Artemas eller Tykikos til dig, så skynd dig at komme til mig i Nikopolis, for dér har jeg besluttet at overvintre. v13 Hjælp Zenas, den lovkyndige, og Apollos bedst muligt med henblik på deres rejse for at de ikke skal mangle noget. v14 Men også vores folk skal lære at engagere sig i gode gerninger hvor det er nødvendigt, for at de ikke skal være uden frugt.
+
+v13 Alle som er hos mig, hilser. Hils dem som elsker os i troen.
+
+v14 Nåden være med jer alle.

@@ -1,43 +1,145 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Nicolai Winther-Nielsen>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 21.03.2022>!!
+!!<Dato for denne version: 20.10.2023>!!
 
-===Jobs Bog, kapitel 5===
+===Jobs bog, kapitel 5===
 
-v8 Jeg selv ville dog søge Gud,
 
-og til Gud ville jeg overgive min sag,
+==Elifaz fortæller Job hvordan det går tåben==
 
-v9 han gør store ting, der er uransagelige,
 
-undere der ikke er tal på.
+//0 v1 >>Råb du nu,
+//4 er der nogen der vil svare dig?
 
-v10 Han giver regn på jorden
+//3 Til hvem af de hellige vil du vende dig?
 
-og sender vand over markerne.
+//2 v2 For forbitrelse slår tåben ihjel, 
 
-v11 Han ophøjer ringe,
+//3 og voldsom vrede{T: >>Nidkærhed<< ligger i ordet, og det går på reaktionen.} tager livet af den uforstandige.
 
-og sørgende ophøjes til frelse.{T: Kan også oversættes: >>lykke<<.} 
+//1 v3 Jeg har set en tåbe
+//4 der er ved at slå rod,
 
-v12 Han gør de snediges planer til intet
+//3 og jeg ønsker at hans ejendom rammes af en pludselig forbandelse.
 
-så deres hænder ikke kan skabe succes. 
+//5 v4 Hans børn er helt uden sikkerhed.{T: Ordret: >>Hans sønner er langt fra frelse<<.}
 
-v13 Han fanger kloge i deres list
+//7 og de bliver trådt ned i porten,
+//8 og der er ingen som redder dem.
 
-så de snediges planer hastigt omstødes. 
+//7 v5 Den sultne spiser hans høst{T: Dvs. >>tåbens<< i vers 3. Ordret: >>hvis høst den sultne spiser<<.}
+//6
 
-v14 Om dagen støder de på mørke
+//8 og henter den endog inde fra tjørnebuskene,
 
-og famler sig frem ved middagstid som var det nat. 
+//7 og den tørstige{E: *ṣammîm*(pluralis) er i Job 18,9 oversat med >>slynge<<, >>snare<<. Nogle oversætter det her med >>rænkesmed<< således >>rænkesmede er ivrige efter deres rigdom<<. Men ændrer man vokaliseringen en smule til *ṣᵊmeim* kan det oversættes til >>de tørstige<<. Mange vælger denne oversættelse.} sukker efter{T: Kan oversættes >>er ivrig efter<<, >>længes efter<<. Begge oversættelser giver mening i sammenhængen.} deres rigdom.
 
-v15 Han frelser fra deres munds sværd,{E: Ordret: >>Han frelser fra sværd fra deres mund<<. Manuskripterne er enige om denne tekst, men der foreslås ofte rettelser, enklest: *mēḥerev mippîhem* til: *mēḥerev pîhem*, der svarer til oversættelsen her (i den hebraiske tekst slettes der blot et *m*). En anden mulighed er: >>Han frelser en forældreløs fra sværdet<< (det kræver rettelse af: *mēḥerev mippîhem* til: *mēḥarbām jātōm*, i konsonantteksten: *mḥrbmpjhm* til: * mḥrbmjtm*).}
+//4 v6 For lidelse{T: Eller >>trængsel<<.} skyder ikke bare frem af støvet,
 
-og en fattig fra en stærks hånd.
+//6 og møje vokser ikke op af jorden,
 
-v16 Så bliver der håb for den ringe,
+//5 v7 men et menneske derimod{T: >>derimod<< er tilføjet.} fødes til møje,{T: Her er en tydelig parallel til syndefaldet, se 1 Mos 3,17.}
 
-og uretfærdighed må lukke sin mund. 
+//6 ligesom gnister{T: Ordret: >>Flammens børn<<.} springer højt op
+//7 og flyver væk.{T: Sammenligningen her kan være en konstatering af virkeligheden, en slag naturlov, i begge henseender. Der findes flere forklaringer.}
+
+
+==Elifaz ville søge Gud, for han gør undere og hjælper i nød==
+
+
+//2 v8 Men jeg derimod ville selv søge Gud,
+
+//4 og til Gud ville jeg overgive min sag.
+
+//6 v9 Han gør store ting
+//8 som ingen kan udforske,
+
+//7 forunderlige ting der ikke er tal på.
+
+//5 v10 Han er den som giver regn på jorden{T: Ordret: >>på jordens overflade<<.}
+
+//7 og spreder vand ud på markerne.{T: Ordret: >>udenfor<<, dvs. på vejene uden for huset eller på markerne uden for byen.}
+
+//8 v11 Han sætter de ringe højt{T: Ordret: >>til et højt sted<<.}
+
+//9 og de sørgende bringes op i sikkerhed.{T: Ordret: >>frelse<<, jf. vers 4.}
+
+//6 v12 Han gør de listiges planer til intet,
+
+//7 deres hænder får det ikke fuldført.
+
+//6 v13 Han griber de kloge i deres list
+
+//8 så de snediges råd hurtigt forkastes.
+
+//9 v14 Om dagen støder de på mørke
+
+//10 og famler sig frem ved middagstid som var det nat.{H: 5 Mos 28,29; Es 59,10.}
+
+//7 v15 Han frelser fra sværdet, fra deres mund,{T: Nogle ændrer den hebraiske tekst til >>fra deres munds sværd<<.}
+
+//9 og han frelser{T: >>han frelser<< er underforstået.} den fattige ved den mægtiges{T. Dvs. Guds.} hånd.
+
+//8 v16 Der bliver håb for den svage,
+
+//9 og uretfærdighed må lukke munden.{E: Oversættelsen tolker vers 15a og 16b som parallelle pga. det fælles ord >>mund<< i begge udsagn. Vers 15b og 16a er parallelle pga. >>fattige<< og >>svage<<. Den sidste parallelisme bekræftes af de konjunktive accenter under ordene.}
+
+
+==Job, du er velsignet når Gud irettesætter dig!==
+
+
+//3 v17 Se, salig{E: *ʔašrê* betyder også >>velsignet<<, dvs. himmelsk lykke over den som står i et ret forhold til Gud.} er det menneske
+//8 Gud tugter!{H: Ordsp 3,11-12.}
+
+//7 Derfor skal du ikke afvise den Almægtiges opdragelse!
+
+//6 v18 For han volder smerter,
+//8 men han forbinder.
+
+//7 Han slår,
+//8 men hans hænder læger.
+
+//5 v19 I seks trængsler redder han dig,
+
+//8 og i syv skal intet ondt røre dig.
+
+//7 v20 I hungersnød køber han dig fri fra døden
+
+//8 og i krig fra sværdets magt.{T: Ordret: >>sværdets hænder<<}.
+
+//6 v21 Du beskyttes mod tungens svøbe
+
+//8 og du frygter ikke ødelæggelse,
+//9 når den kommer.
+ 
+//7 v22 Du ler ad ødelæggelse og sult
+
+//11 og frygter ikke for jordens vilde dyr.
+
+//10 v23 For din pagt er med stenene på marken,{T: Forståelsen er omdiskuteret, lige fra trygge grænser mod fjender til at sten ikke vil ødelægge frugtbar mark.}
+
+//11 og markens vilde dyr holder fred med dig.
+
+//9 v24 Du erfarer
+//11 at dit telt er i sikkerhed,{T: Ordret: >>er i fred<<.}
+
+//10 og du tager vare på din ejendom{T: Det kan betyde >>bolig<< eller >>landområder<<.}
+//11 og savner intet.
+
+//9 v25 Du erfarer
+//10 at dit afkom bliver talrigt
+
+//11 og dine efterkommere som græsset på jorden.
+
+//8 v26 Du kommer til graven i din alderdom{T: Ordret: >>i mandlig styrke<<.}
+
+//9 ligesom neg i stak hentes{T: er tilføjet.} i rette tid.{H: 3 Mos 26,3-13; 5 Mos 28,1-14.}
+
+//4 v27 Se dette
+//6 har vi udforsket.{T: Samme udtryk om Gud. Se vers 9.}
+//5 Sådan er det.
+
+//6 Hør det,
+//7 og forstå det for dit eget bedste!<<

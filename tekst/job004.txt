@@ -1,0 +1,122 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.10.2023>!!
+
+
+===Jobs bog, kapitel 4===
+
+
+==Elifaz minder Job om hans ærværdige liv==
+
+
+//0 v1 Da svarede Elifaz fra Teman:{T: Ordret: >>temanitten<<.}
+//1
+
+//2 v2 >>Kan man mon prøve med et ord til dig,
+//5 og vil du så blive udmattet?{T: Utålmodighed ligger også i verbets betydning.}
+
+//4 Men
+//6 at stoppe din tale,{T: Ordret: >>ordene<<. Her er anvendt en aramaisk flertalsform.}
+//5 hvem vil kunne det?
+
+//3 v3 Se,
+//7 du har retledt mange
+
+//9 og styrket de synkende hænder.
+
+//8 v4 Din tale har holdt den oppe som var ved at snuble,
+
+//9 du har styrket de vaklende knæ.
+
+//6 v5 Når det nu rammer dig selv,
+//9 er du ked af det;{E: *tilʔeʰ* betyder >>være udmattet<<, >>være utålmodig<<, samme verbum som i vers 2.}
+
+//8 det rører dig,
+//9 og du er forfærdet.
+
+//7 v6 Er ikke din gudsfrygt din tillid,
+
+//8 og din fuldkomne{H: Job 1,1; Job 1,8.} færd dit håb?
+
+
+==Kun de ugudelige bliver straffet af Gud==
+
+
+//5 v7 Husk dog på:
+//7 Hvem er
+//10 den uskyldige
+//9 som er gået til grunde?
+
+//8 Eller hvor er retskafne blevet udslettet?{H: Job 17,8.}
+
+//7 v8 Så vidt jeg har set,
+//6 kommer de som pløjer uret,
+
+og de som sår ulykke, til at høste det.
+
+//7 v9 De omkommer ved Guds åndepust{H: Job 15,30.}
+
+//9 og fortæres af hans vredes ånde.{E: *rûₐḥ* >>ånde<< har flere betydninger, se note til Job 26,13. Der er et ordspil i verset idet det hebraiske ord for >>åndepust<< *nᵊšāmāʰ* også kan hedde *rûₐḥ*, der kan oversættes med >>vind<<.}
+
+//8 v10 Trods{T: Er tilføjet af hensyn til sammenhængen.} løvens brøl og lyden af den stærke løve
+
+er de unge løvers tænder knust.
+
+//9 v11 Selv den stærke løve vil omkomme af mangel på bytte,
+
+//10 og løvindens unger spredes.{T: Vers 10-11 er vanskelige at forstå, og oversættelsen er usikker. Der er fem forskellige udtryk for løver. De kan være et billede på de stolte ugudelige som står Gud imod. Selv de unge løver, de unge stærke mænd, er hjælpeløse med knuste tænder(deres våben). I Sl 58,4-7 sammenlignes de ugudelige med løver Gud dømmer.}
+
+
+==Elifaz’ natlige syn==
+
+
+//4 v12 Men et budskab{T: Ordret: >>Ord<<.} stjal min opmærksomhed,
+
+//6 og mit øre opsnappede en hvisken af det.
+
+//5 v13 Med foruroligende tanker fra syner om natten,
+
+//7 når en dyb søvn falder over folk,
+
+//6 v14 kom rædsel over mig
+//9 og bæven.
+
+//8 Rædslen satte sig i alle mine knogler.
+
+//7 v15 En ånd{E: *rûₐḥ* kan også betyde >>vind<<. Der er her et ordspil idet >>ånden<< viser sin tilstedeværelse som et >>vindpust<<.} kom glidende forbi mit ansigt
+
+//9 og fik hårene på min krop til at rejse sig,
+
+//8 v16 men så standsede den.
+//10 Jeg kunne ikke kende dens udseende,
+
+//9 men en skikkelse,{E: *tᵊmûnāʰ* anvendes om et afbillede af en afgud, se 2 Mos 20,4, men også om HERRENS skikkelse, se 4 Mos 12,8.} var for mine øjne.
+
+//10 Jeg hørte en stemme hviske:{T: Ordret: >>hvisken og en stemme<<. Nogle oversætter >>Der var stille,
+//11 og jeg hørte en stemme<<.}
+
+//12 v17 >Mon et menneske kan være mere retfærdig end Gud?
+
+//14 Mon en mand kan være mere ren end sin skaber?<{E: Oversættelsen af *min* foran >>Gud<< og foran >>sin skaber<< tolkes her som en komparativ >>mere end<<. Sml. Job 9,2 og Job 25,4 hvor præpositionen *im* og ikke *min* anvendes i udtrykket >>retfærdig over for Gud<<. Det er muligt at tolke *min* som præposition >>i forhold til<<, >>over for<< således >>Mon et menneske kan være retfærdig over for Gud<<. Man tolker det som værende mere sandsynligt for Elifaz at sige dette. Se Job 32,2 hvor ovenstående vers gentages af Elihu.}
+
+//13 v18 Se,{T: Vers 18-21 opfatter nogle som Elifaz’ kommentar til det natlige syn, andre betragter afsnittet som en del af synet.}
+//14 han stoler ikke på sine tjenere
+
+//16 og sine sendebud,{T: Oversættes ofte med >>engle<<.} tillægger han fejl,{E: *tāhᵒlāʰ* er en hapax og findes kun her. Oversættelsen af ordet varierer. Sml. Job 5,1.}
+
+//15 v19 hvor meget mere de som bor i lerhuse
+
+//17 der står på et fundament af støv.
+
+//16 Dem kan man mase{T: Ordret: >>de knuser dem<<.} som{E: Præpositionen *lifnê* er her og kan i Job 3,24 oversættes >>som/ligesom<<. *lifnê* oversættes normalt >>foran<<. Denne oversættelse er også mulig her: >>før/lettere end et møl<<.} møl.
+
+//19 v20 Fra om morgenen til om aftenen knuses de;
+
+//18 uden at der er nogen som lægger sig det på sinde, går de til grunde for evigt.{H: Job 20,7; Job 14,20.]
+
+//17 v21 Mon ikke deres teltsnore{E: Ordret: >>deres snor<< eller >>hvad der er tilbage<<, >>overflod<<. Nogle ændrer *yeter*(snor) til *yātēd*(teltpløg) sml. Es 33,20. I Es 38,12 er >>telt<< nævnt sammen med samme verbum (>>revet op<<} som her. Andre vælger i tråd med Job 22,20 hvor *yeter* er oversat med >>overflod<<), at oversætte >>deres rigdom tages fra dem<<} trækkes op?
+
+//18 Ja, de dør,
+//19 og ikke i visdom.<<{T: Kan oversættes >>uden visdom<<.}
