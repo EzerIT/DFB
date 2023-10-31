@@ -1,77 +1,128 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.11.2022>!!
+!!<Dato for denne version: 30.10.2023>!!
 
 ===Jobs bog, kapitel 37===
  
-==Elihu taler om Guds herlige gerninger==
+
+==Elihu fortsætter sin tale om Guds herlige gerninger==
  
-//0 v1 Ja, over dette banker mit hjerte 
-//3 og slår heftige slag i mit bryst.{T: Ordret: >>springer op fra sit sted<<.} 
-//2 v2 Hør godt efter lyden af bragene{E: hebraisk *rōgez* bruges ellers i Job om ugudeliges raseri og den lidendes uro (3,17.26; 14,1; 39,24).} 
-//4 og den rumlen{E: Verbet *hgh* bruges om mumlen under højtlæsning i Sl 1,2.} der udgår af hans mund. 
+
+//0 v1 Ja, over dette skælver mit hjerte 
+
+//3 og hopper i brystet på mig.{T: Ordret: >>springer op fra sit sted<<.} 
+
+//2 v2 Hør godt efter braget{E: *rōgez* bruges ellers i Jobs bog om ugudeliges raseri og den lidendes uro.} af hans røst{H: Job 3,17.26; Job 14,1; 39,24; Sl 29.} 
+
+//4 og den rumlen{E: Verbet *hgh* bruges også om >>at tænke dybt<< over Guds befalinger.}{H: Jos 1,8; Sl 1,2.} der udgår af hans mund.{T: Guds.} 
+
 //3 v3 Han slipper den løs under hele himlen 
+
 //5 og dens lys ud i jordens hjørner. 
-//4 v4 Bag ham buldrer tordenen, 
-//5 han lader en brølen høre i høje tordenskrald; 
-//7 ingen kan hindre
-//8 at tordenen høres. 
-//6 v5 Gud lader sin brølen høre i den underfulde torden
-//9 når han gør store ting,
-//12 og vi forstår dem ikke. 
+
+//4 v4 Efter det buldrer røsten, 
+
+//5 han tordner med sin majestætiske røst;{H: Sl 18,14.} 
+
+//7 han holder dem ikke tilbage
+//8 når hans røst høres. 
+
+//6 v5 Gud lader det tordne med sin underfulde røst, 
+
+//9 han gør store ting,
+//12 og vi forstår dem ikke.{T: Eller >>vi forstår ham ikke<<.}{H: Job 9,10; Sl 29; Job 26,14.} 
+
 //11 v6 For til sneen kan han sige:
-//13  >Fald på jorden!< 
-//12 og det gælder også for regnskyl, ja, for en overvældende styrtregn. 
-//10 v7 Han afsætter sit rullesegl på hver mands hånd{T: Billedet bruges allerede i Job 33,16 om forsegling af advarsler.}
-//11 for at alle hans skaberværks mennesker kan forstå det. 
-//8 v8 Da er de vilde dyr gået ind i deres huler 
+
+//13 >Fald på jorden!< 
+
+//12 og også til regnskyl, ja, til et voldsomt skybrud.{H: Es 55,10; Am 4,7; Ez 13,11.}
+
+//10 v7 På hver mands hånd sætter han sit segl{H: Job 9,7; Job 33,16.}
+
+//11 for at alle mennesker i hans skaberværk skal forstå det.{T: Kan oversættes >>for at alle mennesker skal kende hans værk<<.}
+
+//8 v8 Da går de vilde dyr ind i deres huler 
+
 //10 og opholder sig i deres skjul, 
+
 //9 v9 og så kommer stormen fra sit kammer, 
-//10 med nordenvindene kommer kulden. 
+
+//10 og med nordenvindene kommer kulden. 
+
 //7 v10 Ved Guds åndedræt kommer frosten, 
-//10 og det vidstrakte vand bliver til is. 
-//9 v11 Ja, med fugtighed fylder han skyen, 
-//10 hans lys spreder så skydækket, 
-//11 v12 og hele denne cyklus følger naturens love,{E: Oversættelsen er et forsøg på at gengive en meteorologisk vanskelig beskrivelse: *wᵊhûˀ mᵊsibbôt mithappēx vᵊtaḥbûlōtāʸw >>og denne runde bliver ved med at bevæge sig frem og tilbage efter dens love<<.} 
-//12 for at den kan udføre
+
+//10 og det vidstrakte vand bliver til is.{E: *mûṣāq* betyder her >>fast masse<<, bruges også om >>trængsel<<.}{H:  Job 38,38; Job 36,16; Sl 147,16-18.} 
+
+//9 v11 Ja, med fugtighed fylder han skyen,{E: *ʕāv* Ordret: >>skymasse<<, >>mørk(med vand/dug/tåge) sky<<. I Job 38,9 og Job 22,13 findes *ʕᵃrāfel* >>sky<<, >>mørk sky<<, >>tæt mørke<<.}{H: Job 26,8; Es 18,4; Es 5,6.}
+
+//10 han spreder sit lys i skydækket{E: *ʕᵃnan* Ordret: >>skymassens lys<<, >>skydækkets lys<<, >>skyens lys<<. Dette udtryk for >>sky<< anvendes når HERREN kommer i en sky eller skystøtte og også om sky (fra røgelse) i templet.}{H: 3 Mos 16,13; 2 Mos 14,20; 2 Mos 34,5; 1 Kong 8,10-11.}
+
+//11 v12 og han lader dem gå rundt i alle retninger, de svinger frem og tilbage efter hans bestemmelser,{T: Ordret: >>denne runde bliver ved med at bevæge sig frem og tilbage efter hans love<<. Det kan være en beskrivelse af lyn og torden eller meteorologiske forhold generelt.}
+
+//12 for at udføre
 //14 alt
-//15 hvad han befaler
-//13 for hele jordens verden,
-//8 v13 hvad enten det er til tugt
-//10 til jorden,
-//9 eller som en nåde at han lader det ske.
-//1 v14 Læg nu øre til dette
+//15 hvad han befaler 
+//13 på overfladen af den beboede verden.{T: Ordret: >>over verdens overflade på jorden<<.}{H: Ordsp 8,31.}
+
+//8 v13 Hvad enten det er til tugt
+//10 eller til hans jord
+
+//9 eller som en nåde at han lader det ske.{H: Jos 10; Dom 4; 1 Sam 7,10; Sl 18.}
+
+//1 v14 Læg nu øre til dette,
 //2 Job, 
-//1 stå frem
-//5 og overvej Guds underfulde gerning! 
+
+//1 stå stille 
+//5 og overvej Guds underfulde gerninger!{T: Eller >>forstå/betragt Guds undere<<.}{H: Sl 77,12-20.} 
+
 //4 v15 Mon du ved, 
-//5 hvornår Gud indvirker på dem
-//6 og lader lyset skinne frem fra hans skyer? 
-//4 v16 Mon du kender til skylaget,
-//6 de underfulde gerninger udført af den der fuldkommen i kundskab, 
-//6 v17 du som må stå i varmt tøj
-//7 når jorden ligger stille i heden fra syd?
-//5 v18 Kan du sammen med ham brede skyerne ud
-//6 så de ligger stærke som et spejl af støbejern? 
-//3 v19 Fortæl os: 
-//6 hvad kan vi sige til ham? 
-//5 Vi kan ikke rette vores tale til ham{E: Verbet *ʕrx* betyder >>arrangere, ordne, mønstre<<, men bruges nok her i samme betydning som i Job 32,14 hvor objektet *millîn* >>tale<< er brugt.} på grund af mørket. 
-//4 v20 Mon det skal fortælles ham 
-//6 at jeg vil tale, 
-//5 eller har nogen da sagt
-//6 at han gerne vil fortæres? 
-//2 v21 Og nu altså, 
-//3 han har ikke set lyset, 
-//5 men det står skarpt inde i skyerne,
-//6 og en vind passerer  
+//5 hvornår{T: Eller >>hvordan<<.} Gud indvirker på dem
+
+//6 og lader lyset fra hans skyer skinne frem? 
+
+//4 v16 Mon du kender til skylaget,{T: Det ord for >>sky<< der her er anvendt, udtrykker særlig fokus på vandet i skyerne.}
+
+//6 de underfulde gerninger udført af den der er fuldkommen i kundskab, 
+
+//6 v17 du, hvis klæder er varme
+
+//7 når landet ligger stille på grund af vinden fra syd?
+
+//5 v18 Kan du sammen med ham brede skyerne{E: *šḥāqîm* Ordret: >>tynde, støvskyer.<<} ud
+
+//6 så de ligger fast som et spejl der er støbt? 
+
+//3 v19 Fortæl os 
+//6 hvad vi skal sige til ham! 
+
+//5 Vi kan ikke rette vores tale til ham{T: >>vores tale<< er tilføjet.}{E: Verbet *ʕrx* >>arrangere, ordne<< anvendes om >>tale<< i Job 32,14, men også om at >>fremlægge en sag<< i Job 13,18; Job 23,4. Verbet antyder at der tænkes på en retssag.} på grund af mørket.{H: Sl 18,10-12.}
+
+//4 v20 Skal det meddeles ham 
+//6 at jeg vil tale? 
+
+//5 Hvis en mand taler{T: >>til ham/Gud<< er underforstået.}
+//6 sandelig, han vil blive tilintetgjort!{T: Kan oversættes >>Kan en mand tale når han bliver forvirret?<<}{E: *yᵊvullāʕ* Ordret: >>opsluges<< eller >>bliver forvirret<<. Forskellig tolkning af verbet og af partiklerne medfører større variationer i oversættelsen.}
+
+//2 v21 Og nu,  
+//3 de ser ikke lyset, 
+
+//5 men det står klart inde i skyerne,
+
+//6 og en vind passerer 
 //7 og renser dem. 
-//4 v22 Fra norden kommer den gyldne glans, 
-//5 over Gud ses den frygtindgydende majestæt.
+
+//4 v22 Fra nord kommer en gylden glans,{T: Ordret: >>guld<<.} 
+
+//5 over{T: Eller >>omkring<<} Gud er en frygtindgydende herlighed.
+
 //7 v23 Den Almægtige, 
-//10 ham kan vi ikke finde,
-//9 han er ophøjet i styrke,
-//8 og gennem retten og retfærdigheden vil han ikke undertrykke. 
-//6 v24 Derfor må mennesker tilbede ham i gudsfrygt,
-//7 han ser ikke til vise i egne tanker.<<{E: Hebraisk *kol-ḥaxmê-lēv* >>alle de af hjerte vise<< må være negativt ment; alternativt antages et retorisk spørgsmål: >>ser han ikke til dem der er vise i hjertet?<<}
+//10 ham kan vi ikke udforske,
+//9 han er ophøjet i magt,
+
+//8 og retten og den fulde retfærdighed bøjer{T: Eller >>undertrykker<<.} han ikke. 
+
+//6 v24 Derfor frygter mennesker ham; 
+//7 sandelig alle de vise i hjertet frygter ham.<<{E: *lōˀ* opfattes her som en bekræftende partikel der erklærer med retorisk tryk hvad der er velkendt. Derved ses en parallelisme i verset. *yirʔeʰ* opfattes som en defektiv skrivning af *yᵊrēˀûhû* i forudgående verslinje. Nogle ændrer vokaliseringen til >>de ser ham<<: >>sandelig alle vise af hjerter ser ham<<. Andre oversætter *lōˀ* som en negation, oversætter *yirʔeʰ* >>han ser<< og tillægger >>de vise i hjertet<< en negativ betydning: >>han ser ikke til dem der er vise i egne tanker<<. Imod den negative tolkning af >>de vise<< taler at >>de vise<< tolkes positivt i visdomslitteraturen, i Mosebøgerne og Kongebøgerne.}{H: Job 9,4; Job 28,28; Job 32,9; Job 34,34; Ordsp 10,8; 11,29; 16,21; 2 Mos 28,3; 31,3.6; 1 Kong 3,9-12.}  
