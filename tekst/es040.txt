@@ -1,47 +1,253 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 08.08.2023>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2023>!!
+===Esajas, kapitel 40===
 
-===Esajas' Bog, kapitel 40===
+==Glædesbud til Jerusalem==
+v1 Trøst, trøst mit folk, 
 
-==Esajas profeterer om, at evangeliet skal prædikes, og om, at JHVH forkynder, hvad der skal prædikes, og om hyrden, der skal vogte sin hjord, 1-11; han taler om Guds almagt, visdom og styrke og om, at ingenting kan sammenlignes med ham, 12-25; han irettesætter dem, der ikke vil stole på JHVHs hjælp og store magt, 26-31.==
+siger jeres Gud;
+
+v2 tal til Jerusalems hjerte 
+
+og råb til hende 
+
+at hendes kamp er til ende, 
+
+at hendes skyld er betalt, 
+
+at hun har fået af JHVHs hånd 
+
+dobbelt for alle sine synder.
+
+***
+
+v3 En stemme råber:
+
+>>I ørkenen
+
+skal I bane JHVHs vej, 
+
+I skal jævne 
+
+i ødemarken
+
+en banet vej for vor Gud! 
+
+v4 Hver dal skal hæves, 
+
+og hvert bjerg og hver høj skal sænkes; 
+
+det bakkede terræn skal blive til slette 
+
+og de ujævne områder til dal. 
+
+v5 JHVHs herlighed skal åbenbares, 
+
+og alt kød skal sammen se den; 
+
+for JHVHs mund har talt.<<
+
+***
+
+v6 En stemme siger: >>Forkynd!<< 
+
+Og man siger: >>Hvad skal jeg forkynde?<< 
+
+>>Alt kødet er græs, 
+
+og al dets ynde er som markens blomst.
+
+v7 Græs bliver tørt, blomst visner, 
+
+når{T: Kan også oversættes: >>for<<.} JHVHs ånde blæser på det. 
+
+ja, sandelig er folket græs!
+
+v8 Græs bliver tørt, blomst visner, 
+
+men vores Guds ord vil bestå til evig tid.<<
+
+***
+
+v9 Stig op på et højt bjerg, du
+
+Zions glædesbudbringer, 
+
+løft din stemme med kraft, 
+
+Jerusalems glædesbudbringer, 
+
+løft den, frygt ikke; 
+
+sig til Judas byer: 
+
+>>Se, her er jeres Gud!<<
+
+v10 Se Herren JHVH, 
+
+han skal komme med styrke, 
+
+og hans arm hersker for ham. 
+
+Se, hans løn er med ham, 
+
+og hans fortjeneste er foran ham.{T: Ordret: >>for hans ansigt<<.}
+
+v11 Som en hyrde 
+
+skal han vogte sin hjord, 
+
+samle lammene i sin arm 
+
+og bære dem ved sit bryst;{T: Kan også oversættes: >>i sit skød<<.} 
+
+han skal lede de diegivende får.
 
 
-v1 Trøst, trøst mit folk, siger jeres Gud;
-v2 tal kærligt til Jerusalem og råb til den, at dens kamp er til ende, at dens skyld er betalt, at den har fået dobbelt af JHVHs hånd uanset alle dens synder.
-v3 Der er en stemme af en, der råber i ørkenen: >>Gør JHVHs vej klar, jævn vores Guds banede vej på den ujævne mark! 
-v4 Hver dal skal hæves, og hvert bjerg og hver høj skal sænkes; og det, der er bakket, skal blive jævnt, og det takkede skal blive som en slette. 
-v5 Og JHVHs herlighed skal åbenbares; og alt kød skal sammen se det; for JHVHs mund har talt.<<
-v6 Der er en stemme af en, der siger: >>Råb!<< og der svares: >>Hvad skal jeg råbe?<< >>Alt kød er hø, og al dets ynde er som en blomst på marken.
-v7 Høet bliver tørt, blomsterfloret visner; for JHVHs ånde blæser på det, ja, sandelig er folket hø.
-v8 Høet bliver tørt, blomsten visner, men vores Guds ord består evigt.<<
-v9 Du, der bringer at godt budskab til Zion, stig op på et højt bjerg! Du, der bringer et godt budskab til Jerusalem, hæv din stemme med kraft, hæv den, og frygt ikke; sig til Judas byer: >>Se, jeres Gud!<<
-v10 Se Herren JHVH skal komme med styrke, og hans arm hersker for ham; se, hans løn er med ham, og gengældelsen fra ham er for hans ansigt.
-v11 Som en hyrde skal han vogte sin hjord, samle lammene i sin arm og bære dem i sit skød; han skal lede de får, der giver die.
+==Guds storhed==
+v12 Hvem har målt vand i sin hule hånd, 
 
+og udmålt himlen i fingerspand, 
 
-v12 Hvem har målt vandet  med sin hule hånd? og afmålt himlen i fingerspand?{N: gt-mål} og samlet jordens støv i litermål? Hvem har vejet bjergene med vægt og højene på vægtskåle?
-v13 Hvem har udmålt JHVHs Ånd, og hvem har som hans rådgiver undervist ham?
-v14 Har han spurgt nogen rådgiver, der har givet ham forstand og lært ham rettens vej og lært ham kundskab og undervist ham om visdommens vej?
-v15 Se, folkeslag regnes af ham for en dråbe i en spand og for et støvgran i vægtskålen; se, øer hæver han op som fint støv.
-v16 Og Libanon er ikke nok til brændsel og dets dyr ikke nok til brændoffer.
-v17 Alle folkeslag er som intet for ham; de regnes af ham for intet og for tomhed.
-v18 Med hvem vil I da sammenligne Gud, og hvilken sammenligning vil I anvende om ham? 
-v19 Gudebilledet har en håndværker støbt; en guldsmed hamrer guld på det og en sølvsmed sølvkæder. 
-v20 Rosentræ til offergave{E: Hebraisk *hamᵊsukkān* forklares bedst i sammenhængen som en træsort, der kan bruges til fremstilling af et afgudsbillede}, træ der ikke rådner, udvælger han; en dygtig håndværker udsøger sig det for at opsætte et gudebillede der ikke vælter. 
-v21 Ved I da ikke noget? Hører I da ikke? Er det ikke forkyndt for jer fra begyndelsen? Har I ikke forstået jordens grundlæggelse?
-v22 Han er den der troner oven over jordens halvkugle{E: Ordret *ʕal-ḥûg hāʔāreṣ*, »over jordens krumning.« Det kan tolkes som den synlige himmel, jordens atmosfære, horisonten eller osteklokken, afhængigt af hvilket verdensbillede teksten tolkes ud fra. Der kan meget vel være tænkt på himmelhvælvingen i 1 Mos 1,6-8.} mens de der bor på den, er som græshopper; han der spænder himlen ud som et slør og har slået den op som et telt til at bo i;
-v23 han der gør fyrster til intet, har gjort jordens dommere golde.
-v24 Knap er de plantet, knap er de sået, og knap har deres stilk slået rod i jorden, så blæser han på dem så de bliver tørre, og en storm fører dem bort som halm.
-v25 >>Med hvem vil I sammenligne mig så jeg skulle være hans lige?<< siger den Hellige.
+og afmålt jordens støv i litermål,{T: Grundbetydningen af det hebraiske ord: *šāliš* er: >>en tredjedel<<. Her betegner det et mål, men det er usikkert hvilket mål, muligvis en tredjedel af en efa.}
 
-v26 Løft jeres øjne imod det høje og se: Hvem skabte disse ting {T: Stjernerne}? Han, der fører deres hær frem efter tal; han kalder dem alle ved navn; på grund af hans vældige magt og store kraft mangler der ikke én.
-v27 Hvorfor vil du, Jakob, sige, og du, Israel, sige sådan: >>Min vej er skjult for JHVH, og min ret går forbi min Gud.<<
-v28 Ved du ikke, eller har du ikke hørt det? En evig Gud er JHVH, han har skabt jordens ender, han kan ikke blive træt, og heller ikke vansmægte; hans forstand er uransagelig.
-v29 Han giver den trætte kraft og øger styrken hos den, der ingen kræfter har.
-v30 De unge skal blive trætte og vansmægte, og unge mænd skal falde pludseligt.
-v31 Men de, der venter på JHVH, skal forny deres kraft, de skal flyve op med vinger som ørnene, de skal løbe og ikke vansmægte, gå fremad og ikke blive trætte.
+og vejet bjerge på en vægt 
+
+og høje på vægtskåle?
+
+v13 Hvem har retledt JHVHs Ånd, 
+
+og som hans rådgiver belært ham?
+
+v14 Hos hvem har han fået rådgivning, 
+
+så han skulle give ham indsigt 
+
+og lære ham om den rette sti 
+
+og lære ham kundskab 
+
+og belære ham om indsigtens vej?
+
+v15 Se, folkeslag er som en dråbe fra en spand 
+
+og regnet som støv i vægtskåle! 
+
+Se, øer hæver han op som fint støv!
+
+v16 Og Libanon er ikke nok til brændsel, 
+
+og dets vildt er ikke nok til brændoffer.
+
+v17 Alle folkeslagene er som intet for ham; 
+
+som{E: Den hebraiske tekst har præpositionen: *min* der i sammensætning skrives: *mē*: >>fra<<. Man går som regel ud fra at det skulle have været præpositionen: *kᵊ*: >>som<<. På hebraisk er forskellen ikke stor.}  intethed og for tomhed regnes de af ham.
+
+v18 Med hvem vil I sammenligne Gud? 
+
+Og hvilken skikkelse vil I sammenligne med ham? 
+
+v19 Gudebilledet har en håndværker støbt; 
+
+og en guldsmed beklæder det med guld 
+
+og støber sølvkæder. 
+
+v20 Den der er fattig{E: Hebraisk *hamᵊsukkān* (>>fattig<<) forklares ofte i sammenhængen som en træsort der kan bruges til fremstilling af et afgudsbillede, så oversættelsen bliver: >>ædeltræet til offergave<<.} på offergave,{E: Sætninen er omdiskuteret i sammenhængen. Man følger derfor ofte Septuginta der har: >>kunstneren udvælger træ der ikke rådner<<.} udvælger træ der ikke rådner; 
+
+en dygtig håndværker udsøger han sig 
+
+til at opstille et gudebillede der ikke vakler. 
+
+***
+
+v21 Ved I ikke? Hører I ikke? 
+
+Er det ikke forkyndt for jer fra begyndelsen? 
+
+Har I ikke forstået 
+
+jordens grundlæggelse?
+
+v22 Han er den der troner oven over jordens kreds,{E: Ordret *ʕal-ḥûg hāʔāreṣ*, >>over jordens krumning.<< Det kan tolkes som den synlige himmel, jordens atmosfære, horisonten eller osteklokken, afhængigt af hvilket verdensbillede teksten tolkes ud fra. Der kan muligvis være tænkt på himmelhvælvingen i 1 Mos 1,6-8.} 
+
+mens de der bor{E: Det hebraiske verbum er det samme som i forrige linje oversættes: >>troner<<.} på den, er som græshopper; 
+
+han spænder himlen ud som et slør 
+
+og har bredt den ud som et telt til at bo i.
+
+v23 Han der gør fyrster til intet, har gjort jordens dommere til tomhed.{T: Kan også oversættes: >>golde<<. Men hebraisk har samme ord som i vers 17.}
+
+v24 Ja, knap er de plantet, knap er de sået, 
+
+knap har deres stikling slået rod i jorden, 
+
+så blæser han også på dem så de bliver tørre, 
+
+og en storm fører dem bort som strå.
+
+***
+
+v25 >>Med hvem vil I sammenligne mig 
+
+så jeg skulle være hans lige?<< 
+
+siger den Hellige.
+
+v26 Løft jeres øjne imod det høje, og se: 
+
+Hvem skabte disse ting? 
+
+Han der fører deres hær frem efter tal, 
+
+han kalder dem alle ved navn; 
+
+på grund af vældig kraft og stærk styrke 
+
+mangler der ikke én.
+
+***
+
+v27 Hvorfor siger du, Jakob, 
+
+og udtaler du, Israel: 
+
+>>Min vej er skjult for JHVH, 
+
+og min ret går forbi min Gud.<<{T: Dvs. Gud ænser den ikke.}
+
+v28 Ved du ikke, 
+
+har du ikke hørt? 
+
+En evig Gud er JHVH, 
+
+Skaberen af jordens ender, 
+
+han bliver ikke udmattet og bliver ikke træt; 
+
+hans indsigt kan ikke udforskes.
+
+v29 Han giver den trætte styrke 
+
+og for en kraftesløs gør han magten stor.
+
+v30 Ynglinge bliver udmattede og trætte, 
+
+og unge mænd snubler voldsomt.
+
+v31 Men de der venter på JHVH, får ny styrke, 
+
+de skal få svingfjer som ørnene, 
+
+de skal løbe, men ikke blive udmattede, 
+
+de skal gå, men ikke blive trætte.
+
 
 
 

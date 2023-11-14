@@ -1,40 +1,242 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2023>!!
+===Esajas, kapitel 45===
 
-===Esajas' Bog, kapitel 45===
+v1 Sådan siger JHVH til sin salvede, 
 
-==Esajas forudsiger, at Kyros skal indtage Babylon og befri Israel af fangenskabet, 1-8; irettesætter dem, der skændes med Gud, og bekræfter sine løfter, 9-13; forkynder hedningernes omvendelse og truer dem, der laver gudebilleder og tilbeder dem, 14-20; forudsiger videre, at alle folk skal kende og ære den sande Gud, 21-25.==
+til Kyros, som jeg har grebet ved hans højre hånd 
 
+for at underkaste folkeslag{T: Kan også oversættes: >>hedninger<<.} for hans ansigt, 
 
-v1 Sådan siger JHVH til sin salvede, til Kyros, som jeg tog ved hans hånd for at kaste hedningerne ned for hans ansigt og løse bæltet om kongers lænd for at åbne døre og for at holde porte lukket op for ham:
-v2 Jeg vil gå frem foran dit ansigt og gøre bakker jævne; jeg vil smadre kobberdøre og hugge jernstænger i stykker.
-v3 Jeg vil give dig gods, der er skjult i mørket, og kostbarheder, der er gemt på skjulte steder, så du skal mærke, at jeg er JHVH, Israels Gud, der kalder dig med dit navn.
-v4 For min tjener Jakobs skyld og for Israels, min udvalgtes, skyld, kaldte jeg dig ved dit navn; jeg nævnte dig med hædersnavn, selvom du ikke kendte mig.
-v5 JEG er JHVH, og ellers er der ingen, der er ingen Gud uden mig; jeg vil spænde dit bælte, selvom du ikke kendte mig,
-v6 så de fra solens opgang og fra dens nedgang skal vide, at der ikke er nogen uden mig; JEG er JHVH, og ellers er der ingen,
-v7 jeg, der danner lyset og skaber mørket, jeg, der stifter fred og skaber ulykke; jeg er JHVH, der gør alle disse ting.
-v8 I himle, lad det dryppe ned fra oven! og send strømme med retfærdighed, I øverste skyer! Lad jorden åbne sig for at bære frelsens frugt og for at lade retfærdighed spire sammen med den! Jeg, JHVH, har skabt dette. 
+og jeg vil løse bæltet om kongers lænd 
 
-v9 Ve den, der skændes med den, der dannede ham, det potteskår som andre potteskår af jord! Mon leret kan sige til den, der formede det: >>Hvad er det, du gør?<< eller kan dit værk sige: >>Han har ingen hænder<<?
-v10 Ve den, der siger til sin far: >>Hvad er det, du avler?<< og til kvinden: >>Hvad er det, du føder?<<!
-v11 Sådan siger JHVH, Israels Hellige og skaber: Spørg mig om de kommende ting; vil I give mig befaling om mine børn og om mine hænders gerning?
-v12 Jeg dannede jorden og skabte menneskene på den; mine hænder bredte himlen ud, og jeg befalede over hele dens hær.
-v13 Jeg vækker ham {T: dvs. Kyros, v. 1} i retfærdighed og vil jævne alle hans veje; han skal bygge min by og løslade min bortførte, ikke for løsepenge, heller ikke for bestikkelse, siger JHVH Zebaoth.
+for at åbne døre foran ham,
 
-v14 Sådan siger JHVH: Egyptens arbejde og Etiopiens købmandsskab og også sabæerne, de høje folk, skal komme til dig og blive dine, de skal følge efter dig, i lænker skal de komme; for dig skal de bøje sig ned, de skal bede dig inderligt og sige: >>Kun hos dig er Gud, og der er ingen anden, ikke nogen Gud.<<
-v15 Sandelig, du er en Gud, der skjuler sig, Israels Gud er en frelser.
-v16 De bliver til spot, de bliver alle til skamme; de går alle bort med skændsel, de, der udformer afgudsbilleder.
-v17 Israel er frelst gennem JHVH med en evig frelse; I skal ikke blive til skamme, og i al evighed heller ikke blive hånet.
-v18 For sådan siger JHVH, der skabte himlen, han, den Gud, der dannede jorden, og der formede den, han, der indrettede den og ikke skabte den til at være øde, men dannede den til at bebos: Jeg er JHVH, og ellers er der ingen. 
-v19 Det er ikke i det skjulte, jeg har talt, ikke på jordens mørke steder; jeg har ikke sagt til Jakobs afkom: >>Søg mig forgæves!<< Jeg er JHVH, der taler retfærdighed, der forkynder det, der er ret.
-v20 Saml jer, og kom, ja, kom frem i samlet flok, I, der er undsluppet fra hedningerne! De, der bærer deres udskårne træbilleder, og der beder til en gud, der ikke kan frelse, de ved ingenting.
+og så porte bliver lukket:
 
-v21 Meld ud, og kom frem med noget! Ja, lad dem diskutere med hinanden: Hvem har ladet dette blive hørt fra ældgammel tid, hvem har fortalt det fra gamle dage? Mon det ikke er mig, JHVH? For der er ingen anden Gud end mig, en retfærdig Gud og frelser, der er ingen undtagen mig.
-v22 Vend jer til mig, og bliv frelst, alle I fra jordens ender! for jeg er Gud, og ellers er der ingen.
-v23 Jeg har sværget ved mig selv, af retfærdigheds mund gik der et ord ud, og det skal ikke tages tilbage: At for mig skal hvert knæ bøje sig, hver tunge skal sværge mig troskab.
-v24 >>Kun i JHVH,<< siger man om mig, >>er der retfærdighed og styrke; det er til ham, man skal komme, men alle de, der har set sig vrede på ham, skal blive til skamme.<<
-v25 I JHVH skal hele Israels slægt blive retfærdiggjort og rose sig.
+v2 Jeg vil gå foran dig, 
+
+og bjergland vil jeg jævne; 
+
+bronzedøre vil jeg smadre, 
+
+og jernslåer hugger jeg af.
+
+v3 Jeg giver dig mørkets skatte 
+
+og skjulesteders kostbarheder
+
+for at du skal vide at jeg er JHVH 
+
+der kalder dig ved dit navn, Israels Gud.
+
+v4 For min tjener Jakobs skyld 
+
+og for Israels, min udvalgtes, skyld,{T: Ordene >>for … skyld<< står ikke i den hebraiske tekst i denne linje, men er underforstået fra foregående linje.} 
+
+kaldte jeg dig ved dit navn; 
+
+jeg gav dig hædersnavn skønt du ikke kendte mig.
+
+v5 Jeg er JHVH, og der er ingen anden, 
+
+ud over mig er der ingen Gud. 
+
+Jeg vil væbne dig,{T: Ordret: >>jeg vil omgjorde dig<< der er udtryk for at ruste til kamp.} skønt du ikke kender mig
+
+v6 for at de skal vide fra solens opgang og fra dens nedgang 
+
+at der ikke er nogen ud over mig; 
+
+Jeg er JHVH, og der er ingen anden
+
+v7 der danner lys og skaber mørke, jeg, 
+
+der stifter fred og skaber ulykke; 
+
+jeg er JHVH der gør alle disse ting.
+
+v8 Lad det dryppe, I himle, fra oven, 
+
+og lad skyer sende strømme med retfærdighed! 
+
+Lad jorden åbne sig 
+
+og frelse bære frugt, 
+
+og lad retfærdighed spire sammen med den! 
+
+Jeg, JHVH, skaber det. 
+
+***
+
+v9 Ve den der strides med ham der dannede ham, 
+
+et potteskår med potteskår af jord! 
+
+Mon leret siger til den der formede det: 
+
+>>Hvad gør du?<< 
+
+eller dit værk: >>Han har ingen hænder<<?
+
+v10 Ve den der siger til sin far: >>Hvad er det du avler?<< 
+
+og til en kvinde: >>Hvad er det du føder?<<!
+
+v11 Sådan siger JHVH, 
+
+Israels Hellige og dets skaber: 
+
+Spørg mig om de kommende ting; 
+
+vil I give mig befaling om mine børn og om mine hænders gerning?{T: Det er omdiskuteret om sætningen skal opfattes som spørgsmål eller en konstatering.}
+
+v12 Jeg lavede jorden 
+
+og skabte menneske på den; 
+
+jeg – mine hænder har spændt himlen ud, 
+
+og jeg har befalet over hele dens hær.
+
+v13 Jeg har vakt ham {T: Dvs. Kyros, vers 1} i retfærdighed, 
+
+og jeg vil jævne alle hans veje; 
+
+han skal bygge min by 
+
+og løslade mit bortførte folk, 
+
+ikke for en købspris og ikke for bestikkelse, 
+
+siger Hærskarers HERRE.{N: Hærskarers}
+
+==Folkeslagene skal omvende sig til JHVH==
+
+v14 Sådan siger JHVH: 
+
+Egyptens arbejde og Nubiens erhvervelse 
+
+og sabæere, som er høje mennesker, 
+
+til dig skal de komme, og dine skal de blive, 
+
+de skal gå bagefter dig, i lænkerne skal de komme; 
+
+for dig skal de bøje sig ned, til dig skal de bede: 
+
+>>Kun hos dig er Gud, og der er ingen anden, 
+
+ikke nogen Gud.<<
+
+v15 Sandelig, du er en Gud der skjuler sig, 
+
+Israels Gud er en frelser.
+
+v16 De bliver til skamme og beskæmmes også, alle; 
+
+sammen går de med skændsel, 
+
+de der fremstiller afgudsbilleder.
+
+v17 Israel bliver frelst ved JHVH, 
+
+en evig frelse. 
+
+I skal ikke blive til skamme, og I skal ikke beskæmmes,
+
+i evigheders evighed.
+
+v18 For sådan siger JHVH 
+
+der skabte himlen, 
+
+han er den Gud der formede jorden og frembragte den, 
+
+han grundlagde den, 
+
+skabte den ikke til tomhed, 
+
+dannede den til at bebos: 
+
+Jeg er JHVH, og der er ingen anden. 
+
+v19 Det er ikke i det skjulte jeg har talt, 
+
+på et sted i mørkets land; 
+
+jeg har ikke sagt til Jakobs afkom: 
+
+>>Søg mig forgæves!<< 
+
+Jeg er JHVH 
+
+der taler retfærd, 
+
+der forkynder hvad der er ret.
+
+***
+
+v20 Saml jer og kom, 
+
+kom nærmere sammen, 
+
+I der er undsluppet fra folkeslagene!{T: Kan også oversættes: >>hedningerne<<.} 
+
+De ved ingenting, de der bærer 
+
+deres gudebilleder af træ, 
+
+og som beder til en gud der ikke kan frelse.
+
+v21 Fortæl og fremlæg, 
+
+ja, læg råd op sammen: 
+
+Hvem har forkyndt dette fra gammel tid, 
+
+for længst fortalt det? 
+
+Mon det ikke er mig, JHVH? 
+
+Og der er ingen anden Gud ud over mig, 
+
+en retfærdig Gud og frelser, 
+
+der er ingen undtagen mig.
+
+***
+
+v22 Vend jer til mig og bliv frelst, 
+
+alle jordens ender! 
+
+For jeg er Gud, og der er ingen anden.
+
+v23 Jeg har svoret ved mig selv, 
+
+af min mund udgår sandhed, 
+
+et ord der ikke vender tilbage: 
+
+At for mig skal hvert knæ bøje sig, 
+
+hver tunge skal sværge.
+
+v24 >>Kun i JHVH,<< siger man om mig, 
+
+>>er der retfærdighed og styrke; 
+
+til ham skal de komme og blive til skamme,
+
+ alle der vredes på ham.<<
+
+v25 I JHVH skal de blive retfærdiggjort og rose sig,
+
+hele Israels sæd.
 
 

@@ -1,42 +1,232 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2023>!!
+===Esajas, kapitel 49===
 
-===Esajas' Bog, kapitel 49===
+==JHVHs tjener taler om sit kald==
 
-==JHVHs tjener (Messias) taler om sit kald til at forkynde det gode budskab for jøder og hedninger, hvor selv konger og fyrster skal samles til hans menighed, 1-7; JHVH lover sin tjener at ville bønhøre og hjælpe ham og sørge for, at Guds menighed trives, og hedningerne samles til Guds kirke; det skal himmel og jord glæde sig over, 8-13; JHVH forsikrer menigheden om sin særlige omsorg for den og lover, at han vil opbygge, smykke, øge og forsvare den, 14-23; han vil befri dem fra fjenderne og straffe disse fjender, 24-26.==
+v1 Hør, I øer, på mig,
 
+og lyt, I folk, fra det fjerne! 
 
-v1 Hør mig, I øer, og lyt, I folk fra det fjerne! JHVH kaldte mig fra mors liv af, han nævnte mit navn fra mors skød af.
-v2 Og han formede min mund som et skarpt sværd, skjulte mig med sin hånds skygge, gjorde mig til en blank pil og gemte mig i sit kogger.
-v3 Og han sagde til mig: >>Du er min tjener; du er Israel, som jeg vil gøre mig herlig i.<<
-v4 Men jeg sagde: >>Jeg har anstrengt mig forgæves, brugt min kraft på ingenting og til ingen nytte; alligevel er min ret hos JHVH og min løn hos min Gud.<<
-v5 Og nu, siger JHVH, der dannede mig fra mors liv til min tjener, for at jeg skulle omvende Jakob til ham, og Israel, der ikke vil lade sig samle sammen; og jeg skal blive herliggjort for JHVHs øjne, og min Gud er min styrke;
-v6 han siger: >>Det er for lille en ting, at du er min tjener til at rejse Jakobs stammer og og føre de bevarede af Israel tilbage, men jeg vil sætte dig som et lys for hedningerne, så de kan bringe min frelse til jordens ende.<<
-v7 Sådan siger JHVH, Israels løskøber, hans Hellige, til den, der er foragtet af hver sjæl, til den, som folket nærer afsky for, til herskernes tjener: Konger skal se det og rejse sig, og fyrster skal se det og bøje sig på grund af JHVH, der er trofast, og for Israels Hellige, der udvalgte dig.
+JHVH kaldte mig fra mors liv, 
 
-v8 Sådan siger JHVH: På den tid, der behagede mig, bønhørte jeg dig, og på frelsens dag hjalp jeg dig; og jeg vil bevare dig og gøre dig til en pagt med folket for at genrejse landet og udskifte de øde arvelodder
-v9 for at sige til fangerne: Gå ud! til dem, der er i mørket: Kom frem i lyset! De skal finde græsning ved vejene, og der skal være græsgang for dem på alle bare høje.
-v10 De skal hverken sulte eller tørste, og ingen hede eller sol skal stikke dem; for den, der forbarmer sig over dem, skal lede dem og føre dem til kilder med vand.
-v11 Og jeg vi gøre alle mine bjerge til vej, og mine banede veje skal bygges højt.
-v12 Se dem her, de kommer langvejsfra, og se dem her, de kommer fra Norden og fra Vesten, og de her, de kommer fra Sinas land. 
-v13 Syng med fryd, I himle! og fryd dig, du jord! og I bjerge, råb med frydesang! For JHVH trøster sit folk og forbarmer sig over sine elendige.
+han nævnte mit navn fra min mors skød.{T: Ordret: >>indvolde<<.}
 
-v14 Men Zion sagde: >>JHVH har forladt mig, og JHVH har glemt mig.<<
-v15 Kan en kvinde måske glemme sit diende barn, så hun ikke forbarmer sig over sit livs søn? Selvom de også kunne glemme, så vil jeg, jeg dog ikke glemme dig.
-v16 Se, jeg har tegnet dig i mine hænder; dine mure står hele tiden foran mig.
-v17 Dine børn kommer hurtigt; de, der nedbrød og ødelagde dig, skal forsvinde fra dig.
-v18 Brug dine øjne, og se dig omkring, de er alle sammen samlet, de kommer til dig; så sandt jeg lever, siger JHVH, alle dem her skal du tage på dig som et smykke, og du skal binde dem om dig som bruden sit bælte.
-v19 Ja, dine ørkener og dine nedbrudte byer og det ødelagte land, ja, det skal nu blive for småt til indbyggere, og de, der åd dig, skal være langt borte.
-v20 Endnu en gang skal dine børn, som du måtte undvære {T: nemlig, da du var barnløs}, sige , mens du hører det: >>Stedet er for lille, giv mig plads, så jeg kan bo der.<<
-v21 Og du skal sige i dit hjerte: >>Hvem har avlet de her børn til mig, jeg var jo barnløs og ufrugtbar? Jeg var landflygtig og forskudt, og hvem har opdraget de her børn? Se, jeg var alene tilbage, hvor var de her børn da henne?<<
-v22 Sådan siger Herren JHVH: Se, jeg vil række min hånd ud efter hedningerne og løfte mit banner for folkene, og de skal føre mine sønner af sted på armene, og dine døtre skal bæres på skuldrene.
-v23 Og konger skal være dine plejefædre, og deres fyrstinder skal være dine ammer, på deres ansigt skal de bøje sig til jorden for dig og slikke støvet på dine fødder; så skal du indse, at jeg er JHVH, og at de, der venter på mig, ikke skal blive til skamme.
+v2 Og han formede min mund som et skarpt sværd, 
 
-v24 Mon man kan tage det fra den mægtige, han har taget? og mon den retfærdiges {T: dvs. Israels} fanger skulle undslippe?
-v25 Ja, sådan siger JHVH: Fangerne skal både tages fra den mægtige, og det, voldsmanden har taget, skal rives fra ham; og jeg vil kæmpe mod dem, der kæmper imod dig, og vil frelse dine børn.
-v26 Og jeg vil få dine undertrykkere til at æde deres eget kød, de skal drikke sig fulde i deres eget blod som af druemost; og alt kød skal indse, at jeg, JHVH, er din frelser, og at den Mægtige i Jakob er din løskøber.
+skjulte mig i sin hånds skygge, 
 
+gjorde mig til en skarp{T: Kan også oversættes: >>udvalgt<<.} pil, 
 
+og i sit kogger skjulte han mig.
 
+v3 Og han sagde til mig: >>Du er min tjener, 
+
+Israel, ved dig vil jeg vise min herlighed.<<
+
+v4 Men jeg sagde: >>Forgæves har jeg anstrengt mig, 
+
+på tomhed og vindpust har jeg brugt min kraft; 
+
+alligevel er min ret hos JHVH 
+
+og min løn hos min Gud.<<
+
+v5 Og nu siger JHVH 
+
+der dannede mig fra mors liv til sin tjener 
+
+for at føre Jakob tilbage til ham, 
+
+og Israel, der ikke{E: Nogle få håndskrifter har ikke: *lōˀ* (>>ikke<<), men: *lô*: >>til/hos ham<<. Oversættelsen vil da blive: >>så Israel vil samle sig hos ham<<.} vil samles; 
+
+men jeg bliver æret i JHVHs øjne, 
+
+og min Gud er blevet min styrke.
+
+v6 Han siger: >>Det er for lille en ting at du for mig er en tjener 
+
+til at rejse Jakobs stammer 
+
+og føre de bevarede af Israel tilbage, 
+
+men jeg gør dig til et lys for folkeslagene,{T: Kan også oversættes: >>hedningerne<<.} 
+
+så min frelse kan nå{T: Sætningen kan også oversættes: >>til at være min frelse til jordens ende<<.} til jordens ende.<<
+
+==De landflygtiges hjemvenden og Israels genrejsning==
+
+v7 Sådan siger JHVH, 
+
+Israels løskøber, dets Hellige, 
+
+til den der er foragtet af hver sjæl, til den som folk afskyr, 
+
+til herskeres tjener: 
+
+>>Konger skal se det og rejse sig, 
+
+og fyrster, de skal bøje sig ned 
+
+på grund af JHVH der er trofast, 
+
+Israels Hellige, der udvalgte dig.<<
+
+v8 Sådan siger JHVH: 
+
+>>I nådens tid bønhørte jeg dig,{T: Det er omdiskuteret om denne og næste linje skal oversættes ved fortid eller nutid. Begge dele er mulige.} 
+
+og på frelsens dag hjalp jeg dig; 
+
+og jeg vil bevare{E: Det er omdiskuteret om *ʔeṣṣorxā* skal afledes af: *nṣr* (>>bevare/vogte/holde øje med<<) eller: *yṣr* (>>danne/forme<<).} dig og gøre dig til en pagt med folket, 
+
+til at rejse landet 
+
+og til at fordele øde arvelodder,
+
+v9 til at sige til fangerne: Gå ud! 
+
+Til dem der er i mørket: Kom frem i lyset!<< 
+
+Ved vejene skal de finde græs, 
+
+og på alle nøgne høje er der græsning til dem.
+
+v10 De skal hverken sulte eller tørste, 
+
+og ingen hede eller sol skal ramme dem; 
+
+for han der forbarmer sig over dem, skal føre dem, 
+
+og til kilder med vand skal han lede dem.
+
+v11 Og jeg gør alle mine bjerge til vejen, 
+
+og mine banede veje skal ligge højt.
+
+v12 Se disse, de kommer langvejsfra, 
+
+og se disse, fra nord og fra vest,{T: Kan også oversættes: >>fra havet<<.} 
+
+og disse fra Sinims land. 
+
+v13 Råb af fryd, I himle, og glæd dig, du jord! 
+
+Bjerge skal bryde{E: Således flertallet af håndskrifter (*yifṣᵊḥû*). En del håndskrifter har dog imperativ: *ûfiṣḥû*.} ud i jubel! 
+
+For JHVH trøster sit folk, 
+
+og han forbarmer sig over sine elendige.
+
+***
+
+v14 Men Zion sagde: >>JHVH har forladt mig, 
+
+og Herren har glemt mig.<<
+
+v15 Kan en kvinde mon glemme sit diende barn 
+
+så hun ikke forbarmer sig over sit livs søn? 
+
+Selv om de også kunne glemme, 
+
+så vil jeg ikke glemme dig.
+
+v16 Se, jeg har indgraveret dig i mine håndflader; 
+
+dine mure er altid foran mig.
+
+v17 Dine sønner{E: Mange oversættere går ud fra at der i stedet for: *bānāyix* (>>dine sønner<<) skulle stå: *bōnāyix*: >>de der bygger dig<<. Det støttes til dels af nogle af de gamle oversættelser og et enkelt hebraisk håndskift.} kommer hurtigt; 
+
+de der rev dig ned og lagde dig øde, skal gå bort fra dig.
+
+v18 Løft dine øjne omkring, og se: 
+
+Alle samles, de kommer til dig; 
+
+Så sandt jeg lever, lyder JHVHs udsagn, 
+
+sandelig, du skal iføre dig dem alle som et smykke, 
+
+og du skal binde dem om dig som bruden.
+
+v19 For dine ruiner og dine øde områder 
+
+og det ødelagte land –  
+
+ja, du bliver nu for trang at bo i, 
+
+og de der lagde dig øde, er langt borte.
+
+v20 De sønner du fik i din barnløshed,{T: Ordret: >>Din barnløsheds sønner<<.}
+
+skal igen sige i dine ører:{T: I den hebraiske tekst står den foregående og denne linje omvendt.} 
+
+>>Stedet er for trangt for mig. 
+
+Flyt dig for mig så jeg kan sidde{T: Kan også oversættes: >>bo<<.} der.<<
+
+v21 Og du siger i dit hjerte: 
+
+>>Hvem har avlet disse til mig? 
+
+Jeg var jo barnløs og ufrugtbar, 
+
+landflygtig og forskudt, 
+
+og disse – hvem har opfostret dem? 
+
+Se, jeg var alene tilbage, 
+
+Disse – hvor var de?<<
+
+***
+
+v22 Sådan siger Herren JHVH: 
+
+Se, jeg vil løfte min hånd til folkeslag{T: Kan også oversættes: >>hedninger<<.} 
+
+og rejse mit banner for folkene, 
+
+og de bringer dine sønner i favnen, 
+
+og dine døtre skal bæres på skulder.
+
+v23 Og konger er dine plejefædre 
+
+og deres dronninger dine ammer; 
+
+med ansigt mod jorden{T: Ordret: >>næser<<.} skal de bøje sig for dig 
+
+og slikke dine fødders støv. 
+
+Da skal du indse at jeg er JHVH, 
+
+for de der håber på mig, skal ikke blive til skamme.
+
+==JHVH vil befri sit folk fra dets fjender==
+
+v24 Mon bytte kan tages fra en kriger? 
+
+Og mon en retfærdigs{E: Oversættere følger ofte de gamle oversættelser der i stedet for *ṣaddîq* (>>retfærdig<<) forudsætter: *ʕārîṣ*: >>voldsmand<<, jf. vers 25.} fange kan slippe bort?
+
+v25 Ja, sådan siger JHVH: 
+
+Selv om en krigers fange kan tages væk, 
+
+og en voldsmands bytte kan reddes; 
+
+så vil jeg kæmpe mod den der kæmper imod dig, 
+
+og dine sønner vil jeg frelse.
+
+v26 Og jeg vil lade dine undertrykkere æde deres eget kød, 
+
+de skal beruse sig i deres eget blod som i sød vin; 
+
+så skal alt kød indse at jeg, JHVH, frelser dig, 
+
+og Jakobs Mægtige løskøber dig.

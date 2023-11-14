@@ -20,7 +20,7 @@ jeg skal ikke vakle.{T: Kan også oversættes: >>uden at vakle<<.}
 
 v2 Prøv mig, JHVHv, og test mig,
 
-ransag{T: Ordret: >>prøv ved at smelte << (som metalsmelteren).} mine nyrer og mit hjerte.
+ransag{T: Ordret: >>prøv ved at smelte<< (som metalsmelteren).} mine nyrer og mit hjerte.
 
 ==David søger ikke venskab med onde==
 v3 For din nåde{N: nåde} har jeg for mine øjne,

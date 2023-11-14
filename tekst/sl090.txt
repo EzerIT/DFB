@@ -61,7 +61,7 @@ for det er hastigt forbi, så flyver vi bort.
 
 v11 Hvem kender styrken i din vrede
 
-og ud fra frygten for dig din harme?{E: Sætningen er omdiskuteret. Ordret blot: >>og som din frygt din harme<< eller: >>og i overensstemmelse med din frygt din harme <<. Med >>din frygt<< er der ment: >>frygten for dig<<.}
+og ud fra frygten for dig din harme?{E: Sætningen er omdiskuteret. Ordret blot: >>og som din frygt din harme<< eller: >>og i overensstemmelse med din frygt din harme<<. Med >>din frygt<< er der ment: >>frygten for dig<<.}
 
 v12 Lær os at tælle vore dage sådan,
 

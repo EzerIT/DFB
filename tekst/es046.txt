@@ -1,27 +1,103 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2023>!!
+===Esajas, kapitel 46===
 
-===Esajas' Bog, kapitel 46===
+==Babylons fald==
+v1 Bel synker i knæ, Nebo synker sammen, 
 
-==Esajas profeterer om Babylons og dens afguders undergang, 1-2; trøster jøderne med Guds store omsorg for dem, men irettesætter afgudsdyrkere, 3-7; JHVH beviser gennem sine gerninger, som han hidtil har gjort imod sit folk, at han alene er den sande Gud, og taler om, hvad han mere vil gøre ved Kyros' hånd, 8-13.==
+deres gudebilleder er på de vilde dyr{E: Grundteksten har singularis der må opfattes kolletivt. *ḥayyāʰ* betegner dyr i bred forstand og oversættes her ofte: >>lastdyrene<<.} og kvæget; 
 
+det I bar på, læsses op som byrde på de trætte dyr.
 
-v1 Bel synker i knæ, Nebo falder sammen, deres billeder lægger man på lastdyr og kvæg; det, I gik og bar på, læsses som en last på de trætte dyr.
-v2 De synker sammen, de synker alle sammen i knæ, de kan ikke slippe af sted med byrden; men de må selv gå i fangenskab.
+v2 De synker sammen, de synker alle i knæ, 
 
-v3 Hør mig, Jakobs hus og alle I, der er til rest af Israels hus, I, der er lagt mig på sinde fra mors liv af, I, der bæres af mig fra mors skød af!
-v4 Ja, indtil jeres alderdom skal jeg være den samme og bære jer indtil jeres grå hår; jeg har gjort det og skal fortsat holde jer oppe, og jeg vil bære jer og lade jer undslippe.
-v5 Hvem vil I sammenligne mig med, eller hvem vil I stille mig ved siden af? og hvem vil I måle mig med, så vi skulle være ligemænd?
-v6 De ryster guld ud af pungen og vejer sølv af på vægten, de betaler en guldsmed, for at han af det skal lave en gud, som de falder på knæ og bøjer sig for.
-v7 De løfter den op, de bærer den på skuldrene og sætter den på dens plads; der står den så, den rokker sig ikke ud af stedet; selvom nogen råber til den, skal den dog ikke svare, den kan ikke frelse nogen af hans nød.
+de kan ikke redde byrden; 
 
-v8 Husk dette, og vær faste! I overtrædere, tag det til hjerte!
-v9 Husk de tidligere ting fra gammel tid; for JEG er Gud, og der er ingen anden, ja, jeg er Gud, og der er ingen som mig;
-v10 jeg, der fra begyndelsen forudsiger enden og fra ældgammel tid de ting, der ikke er sket endnu; jeg, der siger: >>Min plan skal bestå, og jeg vil gøre alt det, der behager mig;<<
-v11 jeg, der kalder en rovfugl fra Østen, en mand, der skal handle efter min plan, fra et land langt borte; jeg har både sagt det og vil lade det ske, og jeg har lagt det til rette, jeg vil også udføre det.
-v12 Hør mig, I, der er stolte i hjertet! I, der er langt fra retfærdighed!
-v13 Jeg har ladet min retfærdighed komme nær, den er ikke langt borte, og min frelse tøver ikke; jeg vil give frelse i Zion og min herlighed over Israel.
+men de må selv gå i fangenskab.{T: Ordret: >>deres sjæl må gå i fangenskab<<.}
+
+***
+
+v3 Hør på mig, Jakobs hus, 
+
+og hele resten af Israels hus 
+
+der er løftet op fra moders skød, 
+
+der er båret fra moders liv!
+
+v4  Indtil alderdommen er jeg den samme,{T: Ordret: >>er jeg Ham<<, se note til 41,4.} 
+
+og indtil de grå hår bærer{E: Verbet *sbl* bruges kun ganske få gange i GT, om tung last, synd og smerte.} jeg; 
+
+jeg har gjort det, og jeg vil bære, 
+
+og jeg vil løfte op og redde.
+
+***
+
+v5 Med hvem vil I sammenligne mig og stille mig lige med, 
+
+og hvem vil I måle mig med så vi skulle være ligemænd?
+
+v6 De ryster guld ud af pungen 
+
+og vejer sølv af på vægten, 
+
+de hyrer en guldsmed, og han laver det til en gud, 
+
+de bøjer sig og tilbeder den også.
+
+v7 De løfter den op på skulderen, de bærer den, 
+
+og de sætter den på dens plads; og den står, 
+
+den flytter sig ikke fra sit sted; 
+
+selv om nogen råber til den, svarer den ikke, 
+
+den frelser ikke nogen af hans nød.
+
+***
+
+v8 Husk dette, og mand jer op! 
+
+Tag det til hjerte, I overtrædere!
+
+v9 Husk de tidligere ting fra gammel tid; 
+
+for jeg er Gud, og der er ingen anden, 
+
+jeg er{T: Ordene: >>jeg er<< er underforstået fra foregående linje.} Gud, og der er ingen som mig
+
+v10 der fra begyndelsen forkynder enden 
+
+og fra gammel tid ting der ikke er sket endnu, 
+
+der siger: >>Min plan skal bestå, 
+
+og alt det jeg ønsker, vil jeg gøre,<<
+
+v11 der kalder en rovfugl fra Østen, 
+
+fra et fjernt land en mand der udfører hans plan;{T: Ordret: >>hans plans mand<<.} 
+
+jeg har både sagt det og vil lade det ske, 
+
+jeg har lagt plan, jeg vil også udføre det.
+
+v12 Hør på mig, I overmodige,{T: Ordret: >>med stærkt hjerte<<.} 
+
+der er langt fra retfærdighed!
+
+v13 Jeg bringer min retfærdighed nær, den skal ikke være langt borte, 
+
+og min frelse tøver ikke; 
+
+og jeg vil give frelse i Zion, 
+
+min herlighed til Israel.
 
 

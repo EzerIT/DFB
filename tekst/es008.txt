@@ -110,7 +110,7 @@ fra Hærskarers HERRE,{N: Hærskarers}
 
 //9 der bor på Zions bjerg.
 
-//5 v19 Og når de siger til jer: //7 >>Konsulter dødemanerne og sandsigerne, //8 der hvisker //9 og mumler.//6 << Skal{T: Meningen må være at folket skal svare: >>Skal et folk ikke …<<} et folk ikke søge til sin Gud? //8 Søge til de døde frem for de levende?
+//5 v19 Og når de siger til jer: //7 >>Konsulter dødemanerne og sandsigerne, //8 der hvisker //9 og mumler.<< //6 Skal{T: Meningen må være at folket skal svare: >>Skal et folk ikke …<<} et folk ikke søge til sin Gud? //8 Søge til de døde frem for de levende?
 
 //9 v20 >>Til loven og til vidnesbyrdet!<< 
 

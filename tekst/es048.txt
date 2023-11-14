@@ -1,39 +1,178 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 14.11.2023>!!
+===Esajas, kapitel 48===
 
-===Esajas' Bog, kapitel 48===
+==JHVH klager over sit folks stivsind; men han vil rense det==
 
-==JHVH klager over sit folks hykleri, hårdnakkethed og overtrædelse, 1-8; han vil dog for sit navns skyld skåne og rense dem, så de skal kende ham i sandhed, 9-13; han vil straffe babylonierne gennem Kyros, 14-15; folket formanes gennem profeten til at lægge vægt på Guds bud, til stor gavn for dem selv, 16-19; de skal forlade Babylon og prise JHVHs frelse, mens de ugudelige ingen trøst skal have af det, 20-22.==
+v1 Hør dette, Jakobs hus! 
 
+I der kaldes med Israels navn 
 
-v1 Hør dette, Jakobs hus! I, der er kaldt med Israels navn, og der er kommet af Judas kilde, I, der sværger ved JHVHs navn og priser Israels Gud, men ikke i sandhed og i retfærdighed!
-v2 For de kalder sig efter den hellige by og stoler fast på Israels Gud; JHVH Zebaoth er hans navn.
-v3 Jeg har for længst meddelt de første ting, det er af min mund, de er udtalt, og jeg lader dem høre det; jeg gør det hurtigt, og det sker.
-v4 Fordi jeg vidste,  at du er hård, og din nakke er jernsener, og din pande er kobber,
-v5 så har jeg for længst meddelt det, jeg lod dig høre det, før det kom, så du ikke skal finde på at sige: >>Det var mit gudebillede, der gjorde disse ting, og mit udskårne billede og mit støbte billede tilrettelagde dem.<<
-v6 Du har jo hørt det, så se det nu alt sammen! Og I, vil I ikke bekræfte det? Jeg har fra nu af ladet dig høre nye ting, hvad der var opbevaret hemmeligt, og hvad du ikke kendte til.
-v7 Det er nu, de bliver til og ikke fra ældgammel tid, og før i dag har du ikke hørt om dem, for at du ikke skal sige: >>Se, jeg har kendt til dem.<<
-v8 Nej, du har ikke hørt det, og du vidste ikke besked om det; ja, dit øre var heller ikke åbnet fra ældgammel tid; for jeg ved, at du vil handle troløst, og at du bliver kaldt en overtræder fra mors liv.
+og er udgået af Judas kilde,{T: Ordret: >>vand / vande<<.} 
 
-v9 For mit navns skyld vil jeg udsætte min vrede, og for min æres skyld holder jeg min vrede imod dig tilbage, for at jeg ikke skal udrydde dig.
-v10 Se, jeg har renset dig, men ikke som sølv; jeg har prøvet dig i lidelsens ovn.
-v11 Det er for min skyld, for min egen skyld, at jeg vil gøre det; for hvorfor skulle mit navn blive vanhelliget? Og jeg vil ikke give en anden min ære.
-v12 Hør mig, Jakob! og du, Israel, min kaldte! Det er mig, jeg er den første, jeg er også den sidste.
-v13 Ja, min hånd har grundlagt jorden, og min højre hånd har spændt himlen ud; jeg kalder dem frem, og de står i samlet flok.
+I der sværger ved JHVHs navn 
 
-v14 Saml jer, alle sammen, og hør! Hvem iblandt dem {T: nemlig afguderne} har forkyndt disse ting: Den, JHVH elsker {T: dvs. Kyros}, skal handle efter hans behag imod Babylon og lade hans arm blive kendt imod kaldæerne.
-v15 Det er mig, der har sagt det, jeg har også kaldt ham; jeg vil lade ham komme, og hans vej skal lykkes.
+og påkalder Israels Gud, 
 
-v16 Kom herhen til mig, hør dette! Fra begyndelsen har jeg ikke talt i det skjulte, fra den tid, det blev til, er jeg der; og nu har Herren JHVH sendt mig og sin Ånd.
-v17 Sådan siger JHVH, din løskøber, Israels Hellige; Jeg er JHVH din Gud, der lærer dig det, der er nyttigt, og der leder dig på vejen, du skal gå.
-v18 Gid du ville lægge vægt på mine bud, så skulle din fred blive som floden og din retfærdighed som havets bølger.
-v19 Og dine efterkommere skulle blive som sand, og dit livs afkom som dets småsten; dets navn skulle ikke udryddes eller ødelægges for mit ansigt.
+men ikke i sandhed og i retfærdighed!
 
-v20 Forlad Babylon, flygt fra kaldæerne; forkynd dette og lad det lyde med frydefuld sangstemme, bring det ud lige til jordens ende, sig: >>JHVH har løskøbt sin tjener Jakob.<<
-v21 Og de led ikke tørst, han førte dem igennem ørkenerne, han lod vand flyde fra en klippe til dem; og han spaltede en klippe, og der flød vand.
-v22 De ugudelige, siger JHVH, har ingen fred.
+v2 For de kalder sig efter den hellige by 
 
+og støtter sig til Israels Gud; 
+
+Hærskarers HERRE{N: Hærskarers} er hans navn.
+
+***
+
+v3 De tidligere{T: Kan også oversættes: >>første<<.} ting har jeg for længst fortalt, 
+
+de udgik af min mund, og jeg forkyndte dem; 
+
+pludselig handlede jeg, og de skete.
+
+v4 Fordi jeg ved at du er hård, 
+
+og din nakke er en sene af jern, 
+
+og din pande er bronze,
+
+v5 så har jeg for længst fortalt det, 
+
+før det kom, forkyndte jeg det for dig 
+
+for at du ikke skulle sige: >>Mit gudebillede gjorde disse ting, 
+
+og mit udskårne billede og mit støbte billede befalede dem.<<
+
+v6 Du har hørt det, så se det nu alt sammen! 
+
+Og I, vil I ikke vedstå det? 
+
+Fra nu af forkynder jeg dig nye ting 
+
+og skjulte ting som du ikke kender.
+
+v7 Det er nu de skabes, og ikke fra gammel tid, 
+
+og før i dag har du ikke hørt om dem 
+
+for at du ikke skal sige: >>Se, jeg har kendt til dem.<<
+
+***
+
+v8 Du har hverken hørt det eller vidst besked, 
+
+og dit øre var heller ikke åbent fra gammel tid; 
+
+for jeg ved at du vil handle meget troløst, 
+
+og fra mors liv bliver du kaldt en overtræder.
+
+v9 For mit navns skyld vil jeg udsætte min vrede, 
+
+og for min æres skyld behersker jeg mig over for dig 
+
+for ikke at udrydde dig.
+
+v10 Se, jeg har lutret dig, men ikke for sølv; 
+
+jeg har prøvet dig i en lidelsesovn.
+
+v11 For min egen skyld, for min egen skyld, vil jeg gøre det; 
+
+for hvordan skal det{T: Her underforstår man normalt: >>mit navn<< (vers 9), og det understøttes bl.a. af Septuaginta.} vanhelliges? 
+
+Og min ære giver jeg ikke til en anden.
+
+==JHVH har kaldet Kyros==
+
+v12 Hør på mig, Jakob, 
+
+og Israel, min kaldte! 
+
+Jeg er den samme,{T: Ordret: >>Jeg er Ham<<, se note til 41,4.} jeg er den første, 
+
+jeg er også den sidste.
+
+v13 Min hånd har også grundlagt jorden, 
+
+og min højre hånd har spændt himlen ud; 
+
+kalder jeg på dem, 
+
+så står de der sammen.
+
+v14 Saml jer, alle sammen, og hør efter! 
+
+Hvem blandt dem {T: Nemlig afguderne} har fortalt disse ting: 
+
+Den JHVH elsker,{T: Dvs. Kyros.} skal udføre hans ønske mod Babylon 
+
+og hans magt{T: Ordret: >>arm<< der i mange sammenhænge er synonym for >>magt<< og >>styrke<<.} mod kaldæerne.
+
+v15 Jeg, jeg har talt, og jeg har også kaldt ham; 
+
+jeg har ladet ham komme, og hans vej lykkes.
+
+==Israel skal befries og bringes hjem fra Babylon==
+
+v16 Kom hen til mig, hør dette: 
+
+Fra begyndelsen har jeg ikke talt i det skjulte, 
+
+fra den tid den{T: Jorden, vers 13.} blev til, er jeg der; 
+
+og nu har Herren JHVH sendt mig og sin Ånd.
+
+v17 Sådan siger JHVH, din løskøber, 
+
+Israels Hellige: 
+
+Jeg er JHVH din Gud 
+
+der lærer dig at opnå noget, 
+
+der leder dig på en vej du skal gå.
+
+v18 Gid du ville lytte nøje til mine bud, 
+
+så blev din fred som floden 
+
+og din retfærdighed som havets bølger,
+
+v19 så blev dit afkom som sandet 
+
+og dit livs efterkommere som dets sandskorn; 
+
+dets navn skulle ikke udslettes eller tilintetgøres fra mit ansigt.
+
+***
+
+v20 Gå ud fra Babylon, 
+
+flygt fra kaldæerne! 
+
+Fortæl det med jublende røst,
+
+forkynd det, 
+
+udbred det til jordens ende, 
+
+sig: >>JHVH har løskøbt sin tjener Jakob.<<
+
+v21 Og de led ikke tørst da han førte dem gennem øde egne, 
+
+vand fra en klippe lod han flyde til dem; 
+
+og han spaltede en klippe, 
+
+og vand fossede ud.
+
+***
+
+v22 Der er ingen fred, siger JHVH, for de ugudelige.
 
 
