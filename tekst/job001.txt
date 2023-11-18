@@ -1,23 +1,26 @@
 !!<Modenhed: Delvis færdig>!!
-!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Oversættelse: Nicolai Winther-Nielsen og Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 02.12.2022>!!
+!!<Dato for denne version: 18.11.2023>!!
 
 ===Jobs Bog, kapitel 1===
 
 ==Præsentation af Job og hans store rigdom==
-//0 v1 Der var en mand i landet Us, 
+
+//0 v1 Der var en mand i landet Us,{H: Klag 4,21; Job 4,1.} 
 //4 han hed Job, 
-//3 og denne mand var fuldkommen, retskaffen og gudfrygtig; 
-//4 han holdt sig fra det onde. 
-//2 v2 Syv sønner og tre døtre blev der født ham 
-//3 v3 Hans husdyr udgjorde 7000 småkvæg, 3000 kameler, 500 spand okser og 500 hunæsler,  
-//4 og derudover mange tjenestefolk. 
-//1 Denne mand var mægtigere end alle folkene fra Østen.{T: Ordret: >>østens sønner.<<}
+//3 og denne mand var fuldkommen{E: *tām* betyder >>hel<<. I GT anvendes ordet ofte i betydningen >>oprigtig<<, >>retsindig<< eller >>have en høj moral <<, men ikke >>syndfri<<. Jf. Job 7,21.} og retskaffen, han frygtede Gud{T: Ordret: >>frygtende Gud<<.}{H: Job 1,8.9; Job 2,3.}
+//4 og holdt sig fra det onde.{T: Ordret: >>vendte sig bort fra<<.}
+//2 v2 Syv sønner og tre døtre blev der født ham. 
+//3 v3 Hans husdyr udgjorde 7000 får og geder, 3000 kameler, 500 spand okser og 500 æselhopper,  
+//4 og derudover et meget stort antal tjenestefolk. 
+//1 Denne mand var mægtigere end alle folkene fra Østen.{T: Ordret: >>Østens sønner.<<}
+
 ==Jobs ofre for sønnerne efter deres fester==
+
 //2 v4 Hans sønner plejede at gå hen
-//4 og holde fest hjemme hos hver enkelt på hans dag{T: Der tænkes nok på fødselsdag eller navnedag eller lignende.} 
+//4 og holde fest hjemme hos hver enkelt på hans dag{T: Fødselsdag, navnedag eller ugentlig festdag.} 
 //4 og de sendte også bud 
 //4 og inviterede deres tre søstre 
 //5 til at spise 
@@ -27,15 +30,17 @@
 //5 sendte Job bud 
 //7 og helligede dem. 
 //6 Han stod tidligt op om morgenen 
-//6 og ofrede brændofre svarende til deres antal. 
+//6 og ofrede brændofre svarende til deres antal.{H: Job 42,8-9.}
 //7 For Job sagde: 
-//8 >>Måske har mine sønner  syndet
-//9 selv om de lovpriste Gud i deres hjerte.<<{E: Verbet *ûvērᵃxû* >>og de velsignede<< tolkes ofte som en eufemisme der skal dække over at Job frygter at de måske syndede og forbandede Gud, men det ville være blasfemisk at sige om Gud, og derfor ændrede skriverne det til et positivt udtryk. En anden mulig oversættelse kan være: >>For Job sagde: >Måske har mine sønner syndet.< Og de lovpriste Gud i deres hjerte.<<} 
+//8 >>Måske har mine sønner syndet
+//9 selv om de lovpriste Gud i deres hjerte.<<{E: Verbet *ûvērᵃxû* >>og de velsignede<< tolkes normalt som en eufemisme der skal dække over at Job frygter at de måske syndede og forbandede Gud, men det ville være blasfemisk at sige om Gud. Derfor ændrede skriverne det til et positivt udtryk. Nærværende oversættelse er valgt, for det er det der står i den hebraiske tekst. En anden mulig oversættelse kan være: >>For Job sagde: >Måske har mine sønner syndet.< og de lovpriste Gud i deres hjerte<<.} 
 //4 Sådan gjorde Job efter alle dagene.
-==Gud tillader Satan at teste Jobs retfærdighed ved at tage hans ejendom==
+
+==Gud tillader Satan at teste Jobs retfærdighed ved at tage alt fra ham==
+
 //0 v6 Derefter, på den dag 
 //1 da Guds sønner kom
-//3 for at træde frem for{E: Verbet *hityaṣṣēv* kan mere præcist oversættes >>stille sig selv op<<, lidt i betydning af at mønstres eller endog stå til regnskab for noget.} HERREN,
+//3 for at træde frem for{E: Verbet *hityaṣṣēv* kan mere præcist oversættes >>stille sig selv op<<, >>mønstre<< eller >>stå til regnskab for noget<<.} HERREN,
 //2 kom også Satan midt iblandt dem. 
 //3 v7 Da sagde HERREN til Satan: 
 //5 >>Hvor kommer du fra?<< 
@@ -44,62 +49,64 @@
 //6 >>Fra at tage rundt på jorden 
 //7 og vandre omkring på den.<< 
 //3 v8 HERREN sagde til Satan: 
-//5 >>Har du tænkt over{T: Ordret: >>Har du anbragt dit hjerte på.<<} min tjener Job? 
+//5 >>Har du tænkt over{T: Ordret: >>Har du sat dit hjerte ind på<<.} min tjener Job? 
 //6 For der er ingen som ham på jorden. 
-//7 Han er fuldkommen, retskaffen og gudfrygtig, 
-//8 og han holder sig fra det onde.<< 
+//7 Han er fuldkommen og retskaffen, han frygter Gud 
+//8 og holder sig fra det onde.<< 
 //4 v9 Men Satan gav HERREN 
 //5 følgende svar:
-//6 >>Mon det er uden belønning at Job gudfrygtigt tilbeder Gud?
-//8 v10 Mon ikke du har skærmet ham og hans hus og alt det 
+//6 >>Mon det er uden grund at Job frygter Gud?{H: Job 1,1; Job 28,28; Ordsp 1,7; Ordsp 2,1-10.}
+//8 v10 Har du ikke skærmet{T: Ordret: >>sat hegn omkring og beskyttet<<.} ham og hans hus og alt det 
 //11 han har 
 //10 hele vejen rundt? 
 //9 Du har velsignet hans hænders gerning, 
-//10 og hans husdyr har bredt sig ud i landet.
+//10 og hans husdyr har bredt sig i landet.
 //7 v11 Men ræk nu din hånd ud 
 //9 og rør ved alt 
 //10 hvad han har. 
-//8 Vil han så virkelig lovprise dig ved mødet med dig?<< {E: Her tolkes *ʔim-lōˀ* >>virkelig<< som et fast udtryk i en ed, og i konteksten er det også naturligt at tolke det som et retorisk spørgsmål. Normalt tolkes *ʕal-pāneʸxā yᵊvārᵃxekkā* >>velsigne dig ved dit ansigt<< dog som en eufemisme for et blasfemisk udtryk som >>forbande dig op i dit åbne ansigt,<< jf. v. 5.}
+//8 Vil han så virkelig lovprise dig op i dit ansigt?<<{E: Her tolkes *ʔim-lōˀ* >>virkelig<< som et fast udtryk i en ed. I konteksten er det også naturligt at tolke det som et retorisk spørgsmål. Normalt tolkes *ʕal-pāneʸxā yᵊvārᵃxekkā* >>velsigne dig ved dit ansigt<< her som en eufemisme for et blasfemisk udtryk som >>forbande dig op i dit åbne ansigt,<<.}{H: Job 1,5; Job 2,5.9.}
 //3 v12 HERREN sagde til Satan: 
 //4 >>Se, alt
 //7 hvad han har, 
-//6 er i din hånd.
+//6 er i din hånd.	
 //5 Kun på ham selv må du ikke lægge din hånd.<<{T: Ordret: >>Kun til ham (selv) må du ikke strække din hånd ud.<<}
-//2 Så forlod Satan mødet med HERREN.{T: Ordret: >>Da gik Satan væk fra HERRENs ansigt.<<}
-==Job mister husdyr og sønner, men finder ikke fejl hos Gud ==
+//2 Da gik Satan væk fra HERRENS ansigt.
+
+==Job mister husdyr og sønner, men finder ikke fejl hos Gud==
+
 //0 v13 Derpå, på den dag 
 //3 da hans sønner og døtre spiste 
 //4 og drak vin hjemme hos deres ældste bror,
 //2 v14 kom der et sendebud til Job 
 //4 og sagde:
-//5 >>Dine okser var i gang med at pløje, 
-//7 og hunæslerne græssede ved siden af dem. 
-//6 v15 Så overfaldt sabæerne os
+//5 >>Dine okser var i færd med at pløje, 
+//7 og æselhoppene græssede ved siden af dem. 
+//6 v15 Så overfaldt folk fra Saba dem
 //9 og tog dem, 
-//8 og de huggede karlene ned med sværdet. 
+//8 og de huggede karlene ned med sværdet.{T: Ordret: >>slog karlene ned med sværdets æg/mund<<, dvs. helt i bund til skæftet. Det er et fast udtryk.}{H: 4 Mos 21,24; Jos 11,11-14.} 
 //7 Jeg er den eneste der slap væk
 //8 så jeg kan fortælle dig om det.<<
 //3 v16 Endnu mens denne talte, 
 //4 kom en anden 
 //5 og sagde: 
-//6 >>Der kom voldsomme lydnedslag{T: Ordret: >>Guds ild faldt ned fra himlen.<<} 
-//7 og satte ild til småkvæget og karlene{T: Her og i v. 17 ordret >>de unge mænd;<< der er måske tale om hyrdedrenge.}  
+//6 >>Guds ild faldt ned fra himlen{H: 1 Mos 19,24.} 
+//7 og satte ild til fårene og gederne og karlene{T: Her og i vers 17 ordret >>de unge mænd;<< der er måske tale om hyrdedrenge.}  
 //9 og fortærede dem. 
 //8 Jeg er den eneste der slap væk
 //9 så jeg kan fortælle dig om det.<<
 //3 v17 Endnu mens denne talte, 
 //4 kom en anden 
 //5 og sagde: 
-//6 >>Kaldæerne formede tre grupper 
-//8 og trak kamelerne væk 
+//6 >>Kaldæerne dannede tre delinger 
+//8 og overfaldt kamelerne
 //9 og tog dem, 
-//7 men karlene huggede de ned med sværdet.{T: Ordret: >>med sværdets mund<<, som måske betyder helt i bund til skæftet, men det er sikkert en fast vending.} 
+//7 men karlene huggede de ned med sværdet.{H: Job 1,15.} 
 //8 Jeg er den eneste der slap væk
 //9 så jeg kan fortælle dig om det.<<
 //3 v18 Men endnu mens denne talte, 
-//4 kom endnu en 
+//4 kom en anden  
 //5 og sagde: 
-//6 >>Dine sønner og dine døtre var i gang med at spise 
+//6 >>Dine sønner og dine døtre var i færd med at spise 	
 //8 og drikke vin hjemme hos deres ældste bror. 
 //7 v19 Og se, 
 //8 der kom en voldsom storm {T: Ordret: >>en stor vind.<<} fra ørkenen 
@@ -110,20 +117,20 @@
 //11 så jeg kan fortælle dig om det.<<
 
 //1 v20 Da rejste Job sig 
-//3 og rev sin kappe i stykker, 
+//3 og rev flænger i sin kappe,{T: Som tegn på sorg.} 
 //3 klippede håret af sit hoved 
-//3 og faldt på knæ på jorden 
-//3 og tilbad. 
+//3 og faldt til jorden
+//3 og tilbad.{E: *yyištāḥû* betyder >>lægge sig ned<<. I GT oversættes det ofte med >>at tilbede<< fordi det var knælende med panden mod jorden man tilbad.}{H: 1 Mos 18,2, Sl 45,12.} 
 //3 v21 Han sagde:
 
 //4 >>Nøgen kom jeg ud af min mors liv, 
 
-//6 og nøgen vender jeg tilbage. 
+//6 og nøgen vender jeg tilbage dertil. 
 
 //5 HERREN gav, 
 //7 og HERREN tog. 
 
-//6 HERRENS navn være lovet!<<
+//6 HERRENS navn være lovet!<<{T: Ordret: >>velsignet<<.}{H: Job 1,5.11.}
 
 //2 v22 Gennem alt dette syndede Job ikke 
-//3 og anklagede ikke Gud for fejl.{T: Ordret: >>tilskrev ikke Gud noget uanstændigt.<<}
+//3 og anklagede ikke Gud for fejl.{T: Ordret: >>tilskrev ikke Gud noget uanstændigt<<.}
