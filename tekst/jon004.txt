@@ -7,7 +7,7 @@
 ===Jonas’ Bog, kapitel 4===
 ==Jonas’ klage og Guds irettesættelse af ham ==
 //0 v1 Men det harmedes Jonas vældigt over,{T: Ordret: >>Og denne store ondskab var ond for Jonas.<<}
-//2 og han var rasende. {T: Ordret : >>den (=hans vrede) brændte.<<}
+//2 og han var rasende. {T: Ordret: >>den (=hans vrede) brændte.<<}
 //2 v2 Han bad til HERREN 
 //2 og sagde: 
 //3 >>Åh, HERRE, 
