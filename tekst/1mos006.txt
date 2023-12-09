@@ -1,0 +1,97 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
+
+
+===1. Mosebog, kapitel 6===
+
+==Gud fortryder skabelsen af mennesket==
+
+//0 v1 Da
+//2 menneskene begyndte
+//4 at blive talrige på jorden,
+//3 og der blev født dem døtre, 
+//1 v2 så Guds sønner{E: Nogle antikke manuskripter har i stedet >>Guds engle<<, fx Josefus’ De jødiske Antikviteter 1:73 og det græske Kodex Alexandrinus. Denne ændring skyldes sandsynligvis, at >>Guds sønner<< lød polyteistisk.}
+//3 at menneskenes døtre var smukke,
+//2 og de tog koner blandt alle dem 
+//3 de havde lyst til.
+//1 v3 Da sagde HERREN:
+//3 >>Min Ånd skal ikke forblive i mennesket for altid;
+//5 for han er kød;
+//4 hans dage skal være 120 år.<<
+//2 v4 Der var på den tid kæmper på jorden,
+//5 ja, også efter
+//4 at Guds sønner var gået ind til menneskenes døtre
+//5 og havde fået børn med dem.
+//3 De var krigerne
+//5 fra gammel tid,
+//4 navnkundige mænd. 
+//1 v5 HERREN så
+//2 at menneskets ondskab var stor på jorden,
+//3 og at alle hans hjertes tankers påfund var onde dagen lang. 
+//1 v6 Da fortrød HERREN
+//3 at han havde lavet mennesket på jorden,
+//2 og det skar ham i hjertet. 
+//1 v7 HERREN sagde:
+//3 >>Jeg vil udslette mennesket,
+//6 som jeg har skabt,
+//5 fra jordens overflade, både mennesker og dyr og kryb og himlens fugle, 
+//4 for jeg har fortrudt
+//5 at jeg lavede dem.<<
+//2 v8 Men Noa fandt nåde for HERRENS øjne. 
+
+==Noas slægt.==
+
+//0 v9 Dette er Noas slægtshistorie.
+//1 Noa, en retfærdig mand, var uangribelig i sin tid.{T: Ordret >>generationer<<.}
+//3 Noa vandrede med Gud. 
+//2 v10 Noa fik tre sønner: Sem, Kam og Jafet. 
+
+==Gud befaler Noa at bygge en ark.==
+
+//2 v11 Jorden var fordærvet for Guds ansigt,
+//2 og jorden var fuld af vold. 
+//2 v12 Da så Gud jorden,
+//3 og se, den var fordærvet;
+//4 for alt kød havde fordærvet sin vej på jorden.
+//2 v13 Da sagde Gud til Noa:
+//3 >>Jeg har besluttet at gøre en ende på alt kød,
+//7 for jorden er fuld af vold på grund af dem.
+//6 Se, jeg vil udslette dem med jorden. 
+//5 v14 Lav en ark af gofertræ.{E: Betydningen af *gōfer* er ukendt. Den aramæisk Targum Onqelos oversætter med cedertræ, mens LXX har >>kvadratisk<< og Vulgata >>udglattet<<. I dag er der størst enighed om, at der må være tale om en slags nåletræ.}
+//6 Du skal lave arken med sivrør{E: Ordret >>reder<< som oftest er blevet forstået som rum i arken. Men hvis ordet vokaliseres *qannîm* >>rør<< er betydningen derimod at der skal bruges sivrør sammen med gofertræ og beg.}
+//8 og smøre den med beg indvendigt og udvendigt.  
+//7 v15 Og
+//9 således skal du lave den: 
+//8 Arken skal være 300 alen lang,
+//9 50 alen bred
+//10 og 30 alen høj. 
+//6 v16 Du skal lave et vindue{E: Ordet forekommer kun denne ene gang i GT, men er oftest blevet oversat med >>vindue<<, fx Vulgata, eller >>lys<<, dvs. lysindfald (Targum Onqelos). Nogle oversætter med >>tag<< af etymologiske grunde. LXX forstår ordet som et verbum der angiver hvordan arken skulle færdiggøres.} i arken,
+//9 og det skal gå en alen ned ovenfra.{E: Ordret >>du skal afslutte det til en alen fra oven<<. Det kan betyde at der skal være en alen mellem toppen af vinduet og taget, at vinduet selv skal være en alen højt, eller at taget skal række en alen ud over arkens sider.}
+//8 Arkens dør skal du anbringe i dens side.
+//7 Du skal lave den med et nederste, et mellemste og et tredje niveau.
+//4 v17 Og se, jeg
+//6 lader en vandflod komme over jorden
+//9 for at ødelægge alt kød
+//11 som har livsånde i sig
+//10 under himlen;
+//8 alt
+//10 det som er på jorden,
+//9 skal udånde. 
+//7 v18 Jeg vil oprette min pagt med dig;
+//8 og du skal gå ind i arken, du og dine sønner og din kone og dine svigerdøtre sammen med dig.
+//9 v19 Og af alt levende, af alt kød,
+//11 skal du bringe et par af hver slags ind i arken
+//13 for at holde dem i live;
+//12 en han og en hun skal det være.
+//10 v20 Af fuglene efter deres slags og af kvæget efter deres slags, af alle jordens kryb efter deres slags;
+//11 et par af hvert skal gå ind til dig
+//12 for at $du$ skal holde dem i live. 
+//5 v21 Og tag du af al $slags$ mad
+//7 som ædes,
+//6 og saml det hos dig,
+//7 så det kan være til føde for dig og dem.<< 
+//2 v22 Noa gjorde alt det
+//4 som Gud havde befalet ham,
+//3 sådan gjorde han det.

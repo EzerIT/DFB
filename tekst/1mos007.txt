@@ -1,0 +1,81 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
+
+===1. Mosebog, kapitel 7===
+
+==Syndfloden==
+
+
+//0 v1 HERREN sagde til Noa:
+//1 >>Gå ind i arken, du og hele dit hus;
+//3 for dig har jeg fundet retfærdig over for mig i denne slægt. 
+//2 v2 Af alle slags rene dyr skal du tage syv par, han og hun;
+//6 men af de dyr
+//8 som ikke er rene,
+//7 ét par, han og hun; 
+//5 v3 også af fuglene under himlen syv par, han og hun,
+//4 for at holde deres afkom i live på hele jorden. 
+//3 v4 For om endnu syv dage vil jeg lade det regne på jorden i 40 dage og 40 nætter
+//4 og udslette alle de levende væsener
+//6 jeg har lavet,
+//5 fra jordens overflade.<<
+//0 v5 Noa gjorde alt
+//2 som HERREN befalede ham. 
+//1 v6 Noa var 600 år gammel,
+//2 da vandfloden kom
+//3 over jorden. 
+//0 v7 Noa gik med sine sønner og sin kone og sine svigerdøtre ind i arken væk fra vandfloden. 
+//1 v8 Af de rene dyr og af de dyr
+//4 som ikke er rene,
+//3 og af fuglene og alt
+//4 det som kryber på jorden, 
+//2 v9 gik par efter par til Noa i arken, han og hun,
+//3 sådan som Gud havde befalet Noa.
+
+
+//0 v10 På den syvende dag
+//1 kom vandfloden over jorden. 
+//3 v11 I det år Noa blev 600 år, i den anden måned, på den syttende dag i måneden, på den dag brast alle kilderne frem af urdybet,
+//5 og himlens sluser åbnedes.
+//6 v12 Og det regnede på jorden i 40 dage og 40 nætter. 
+//4 v13 Den selvsamme dag gik Noa og Sem og Kam og Jafet, Noas sønner, og Noas kone og hans sønners tre koner sammen ind i arken; 
+//5 v14 de og alle vilde dyr efter deres slags og alt kvæg efter deres slags og alle kryb
+//8 som kryber på jorden,
+//7 efter deres slags, og alle fugle efter deres slags, alt det som kan flyve, alt det som har vinger. 
+//6 v15 De gik ind i arken til Noa, par efter par af alt kød
+//8 med livsånde. 
+//7 v16 Og
+//9 de som kom,
+//8 kom han og hun af alle slags kød
+//9 sådan som Gud havde befalet ham,
+//6 og HERREN lukkede til efter ham. 
+//2 v17 Da kom vandfloden over jorden i 40 dage;
+//3 og vandet steg
+//4 og løftede arken, så den hævede sig over jorden. 
+//3 v18 Vandet vældede frem
+//5 og steg meget på jorden,
+//4 og arken flød oven på vandet. 
+//5 v19 Og vandet oversvømmede $nu$ jorden så meget
+//7 at alle de høje bjerge
+//8 under himlen blev dækket.
+//6 v20 15 alen over dem stod vandet
+//7 så bjergene blev dækket. 
+//4 v21 Så udåndede alt kød
+//9 som rørte sig på jorden,
+//8 fugle og kvæg og vilde dyr og al den vrimmel
+//9 som vrimlede på jorden,
+//7 og hvert menneske. 
+//6 v22 Alt det
+//9 som havde livsånde i sin næse,
+//8 alt det
+//9 som var på det tørre land,
+//7 døde. 
+//5 v23 Han udslettede alle levende væsener 
+//8 som var på jorden, 
+//7 både mennesker og dyr, kryb og himlens fugle;
+//6 de blev udslettet fra jorden,
+//5 og kun Noa var tilbage med dem
+//6 der var sammen med ham i arken. 
+//3 v24 Vandet oversvømmede jorden i 150 dage.

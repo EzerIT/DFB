@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [1,2,3,4,5,8,9,11,12,32,50];
+$chap['1mos']     = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,32,50];
 $chap['2mos']     = range(1,40);
 $chap['3mos']     = [19];
 $chap['4mos']     = range(1,36);
@@ -175,9 +175,9 @@ $style['GT'] = $modenhed['færdig']; // Bedste værdi for GT's kapitler - bruges
 $style['NT'] = $modenhed['delvis færdig']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
 
 
-for ($k=1; $k<=5; ++$k)
+for ($k=1; $k<=14; ++$k)
     $style['1mos'][$k] = $modenhed['delvis færdig'];
-for ($k=6; $k<=50; ++$k)
+for ($k=15; $k<=50; ++$k)
     $style['1mos'][$k] = $modenhed['ufuldstændigt'];
 
 $style['2mos']    = $modenhed['delvis færdig'];

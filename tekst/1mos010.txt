@@ -1,0 +1,74 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
+
+
+===1. Mosebog, kapitel 10===
+
+==Noas efterkommere==
+
+//0 v1 Dette er Noas sønners slægtshistorie, Sems, Kams og Jafets. //2 Efter vandfloden fik de sønner. 
+
+==Jafets slægt==
+
+//1 v2 Jafets sønner var: Gomer, Magog, Madaj, Javan, Tubal, Meshek og Tiras. 
+//5 v3 Gomers sønner var: Ashkenaz, Rifat og Togarma. 
+//5 v4 Javans sønner var: Elisa, Tarshish, Kittim og Rodanim. 
+//4 v5 Fra disse spredte kystnationerne sig i deres lande,
+//6 hver efter sit tungemål,
+//5 efter deres slægter, i deres folk.
+
+==Kams slægt==
+
+//3 v6 Kams sønner var: Kush, Misrajim, Put og Kana’an. 
+//3 v7 Kushs sønner var: Seba, Havila, Sabta, Rama og Sabteka.
+//3 Ramas sønner var: Saba og Dedan. 
+//4 v8 Kush fik{T: Ordret >>fødte<<, ligeledes i resten af kapitlet.} Nimrod;
+//5 han blev den første
+//6 kriger{T: Ordret >>begyndte at blive en kriger<<, men meningen er at han var den første, jf. 9,20.} på jorden. 
+//5 v9 Han var en vældig jæger for HERREN;{T: Ordret >>foran HERRENS ansigt<<, ligeledes næste vers.}
+//7 derfor siges det:
+//8 >>Ligesom Nimrod, en vældig jæger for HERREN.<< 
+//6 v10 Begyndelsen på hans kongedømme var Babel, Erek, Akkad og Kalne i landet Sinear. 
+//7 v11 Herfra drog han ud til Assyrien,
+//8 hvor han byggede Nineve, Rehobot-Ir, Kala, 
+//9 v12 og Resen mellem Nineve og Kala;
+//10 dette er den store by. 
+//4 v13 Misrajim fik Ludim, Anamim, Lehabim, Naftuhim, 
+//5 v14 Patrusim og Kasluhim,
+//7 fra hvem filistrene stammer,
+//6 og Kaftorim. 
+//4 v15 Kana’an fik Sidon, sin førstefødte, og Het; 
+//6 v16 $desuden$ jebusitterne, amoritterne, girgashitterne, 
+//6 v17 hivvitterne, arkitterne, sinitterne, 
+//6 v18 arvaditterne, semaritterne og hamatitterne.
+//5 Derefter spredte kana’anæernes slægter sig.
+//6 v19 Kana’anæernes grænse gik fra Sidon
+//8 henimod Gerar
+//7 indtil Gaza,
+//9 $og$ helt til Sodoma og Gomorra, Adma og Sebojim
+//8 indtil Lasha. 
+//2 v20 Dette er Kams sønner efter deres slægter, efter deres tungemål, i deres lande, i deres folk. 
+
+==Sems slægt==
+
+//4 v21 Også Sem fik $sønner$;
+//5 han var far til alle hebræerne{T: Ordret >>Ebers sønner<<.} og var Jafets ældre bror. 
+//3 v22 Sems sønner var: Elam, Assur, Arpakshad, Lud og Aram. 
+//4 v23 Arams sønner var: Us, Hul, Geter og Mash. 
+//5 v24 Arpakshad fik Shela;
+//5 og Shela fik Eber. 
+//6 v25 Eber fik to sønner:
+//7 den ene hed Peleg,
+//9 for på hans tid blev jorden delt,{T: Der er ordspil mellem de hebraiske ord *peleg* >>Peleg<< og *niflᵊgāʰ* >>blev delt<<.}
+//8 og hans bror hed Joktan. 
+//9 v26 Joktan fik Almodad, Shelef, Hasarmavet, Jera, 
+//11 v27 Hadoram, Uzal, Dikla, 
+//11 v28 Obal, Abimael, Saba, 
+//11 v29 Ofir, Havila og Jobab;
+//10 alle disse var Joktans sønner. 
+//11 v30 Deres bosættelser lå fra Mesha helt til Sefar, Østens bjerge. 
+//2 v31 Dette er Sems sønner efter deres slægter, efter deres tungemål, i deres lande, efter deres folk. 
+//3 v32 Dette er Noas sønners slægter ifølge deres slægtshistorier, i deres folk;
+//4 og fra dem spredte nationerne sig ud over jorden efter vandfloden.

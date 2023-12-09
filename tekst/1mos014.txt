@@ -1,0 +1,100 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
+
+===1. Mosebog, kapitel 14===
+
+==Abrams sejr over fire konger==
+
+//0 v1 På den tid var Amrafel konge over Sinear, Arjok konge over Ellasar, Kedorlaomer konge over Elam og Tid’al konge over Gojim.{E: Det hebraiske *gôyim* kan også oversættes ordret med >>nationer<<, jf. Septuaginta. Andre oversættelser vælger en mellemløsning, fx *Gentium* >>Nationer<< (Vulgata), hvor ordet forstås som et egennavn, men medfører betydningen >>nationer<<.}
+//1 v2 De førte krig mod Bera, Sodomas konge, og Birsha, Gomorras konge, Shin’ab, Admas konge, og Shem’eber, Sebojims konge, og kongen over Bela,
+//3 det er Soar. 
+//2 v3 Alle disse havde sluttet sig sammen i Siddims dal,
+//4 det svarer til Salthavet. 
+//3 v4 I tolv år havde de tjent Kedorlaomer,
+//5 men i det trettende år gjorde de oprør. 	
+//4 v5 I det fjortende år kom Kedorlaomer og de konger
+//6 som var med ham,
+//5 og slog refaitterne i Ashterot-Karnajim,
+//6 zuzitterne i Ham,
+//6 emitterne på Kirjatajim-sletten{E: *šāwēʰ* kan også være et stednavn: >>Shaweh<< i stedet for >>sletten<<.}
+//7 v6 og horitterne i deres bjergland Se’ir indtil El-Paran,{T: Alternativt >>Parans træ<<.}
+//8 som liger ved ørkenen. 
+//5 v7 $Derefter$ vendte de om
+//5 og kom til En-Mishpat,
+//6 det er Kadesh,
+//5 og slog amalekitterne i hele deres land og amoritterne
+//7 som boede i Haseson-Tamar.
+//6 v8 Da drog Sodomas konge ud sammen med Gomorras konge, Admas, Sebojims konge og kongen over Bela,
+//8 det er Soar,
+//7 og rustede sig til kamp mod dem i Siddim-dalen, 
+//10 v9 imod Kedorlaomer, kongen over Elam, Tid’al, kongen over Gojim, Amrafel, kongen over Sinear, og Arjok, kongen over Ellasar,
+//9 fire konger mod fem. 
+//8 v10 Siddim-dalen var fuld af asfaltgruber,{T: Ordret >>gruber, gruber af asfalt<<.}
+//9 kongerne af Sodoma og Gomorra flygtede,
+//10 og de faldt i dem;
+//11 resten flygtede op i bjergene. 
+//5 v11 De tog alle ejendele fra Sodoma og Gomorra og al deres mad
+//5 og drog bort. 
+//5 v12 De tog $også$ Abrams nevø, Lot, og hans ejendele
+//5 og drog bort;
+//7 $for$ han boede i Sodoma.
+
+
+//6 v13 Da kom en af dem der var undsluppet,
+//7 og fortalte hebræeren Abram $om det$;
+//8 han boede ved amoritten Mamres ege; denne var bror til Eshkol og Aner,
+//9 og de var allierede{T: Ordret >>pagtspartnere<<.} med Abram. 
+//6 v14 Da Abram hørte
+//8 at hans slægtning{T: Ordret >>bror<<.} var taget til fange,
+//7 mønstrede{E: Det hebraiske *wayyāreq* betyder ordret >>han tømte/udgød<< og bruges ofte om at trække et sværd. I konteksten må det dog handle om at mobilisere til krig (jf. Septuaginta). Den Samaritanske Pentateuk gengiver ordet med *wayyādeq* >>han mønstrede<<.} han sine 318 våbendygtige mænd (folk der var født i hans hus)
+//7 og forfulgte $dem$ til Dan. 
+//6 v15 $Der$ delte han sine styrker imod dem om natten,
+//7 slog dem
+//7 og forfulgte dem til Hoba,
+//9 som ligger til venstre for Damaskus.
+//8 v16 Så førte han alle ejendelene tilbage;
+//9 også Lot, sin slægtning{T: Ordret >>bror<<.}, og hans ejendele førte han tilbage, og desuden kvinderne og folket.
+ 
+==Abram velsignes af Melkisedek==
+
+
+//6 v17 Kongen af Sodoma drog ud
+//9 for at møde ham 
+//8 efter at han var kommet tilbage
+//9 fra slaget mod Kedorlaomer og de konger
+//12 som var med ham,
+//11 i Shave-dalen,
+//10 som kaldes Kongens Dal. 
+//7 v18 Melkisedek, kongen af Salem, bragte brød og vin,
+//9 han var præst for Gud den Højeste.{T: På hebraisk >>El Eljon<<.}
+//8 v19 Og han velsignede ham
+//9 og sagde:
+
+//10 >>Velsignet være Abram af Gud den Højeste,
+
+ophavsmanden til himmel og jord, 
+
+//11 v20 og velsignet være Gud den Højeste,
+
+//12 som overgav dine fjender i din magt.<<{T: Ordret >>hånd<<.}
+
+//9 Og $Abram$ gav ham tiende af alt.
+//6 v21 Kongen over Sodoma sagde til Abram:
+//7 >>Giv mig folket,
+//8 og behold selv ejendelene.<< 
+//6 v22 Men Abram sagde til Sodomas konge:
+//7 >>Jeg løfter min hånd til HERREN, Gud den Højeste, ophavsmanden til himmel og jord: 
+//8 v23 Ikke så meget som en tråd eller en sandalrem 
+//12 vil jeg tage af alt det
+//13 som tilhører dig.
+//11 Du skal ikke kunne sige:
+//12 >Jeg har gjort Abram rig.< 
+//10 v24 Jeg skal ikke have noget,{T: Ordret >>bortset fra mig<<.}
+//9 kun det
+//10 som de unge mænd har fortæret,
+//11 og den del der tilkommer de mænd
+//14 der gik med mig,
+//13 Aner, Eshkol og Mamre;
+//12 de må tage deres del.<<

@@ -1,17 +1,123 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen, Jens Bruun Kofoed, Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 12.05.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
 
-===Første Mosebog, kapitel 11===
+===1. Mosebog, kapitel 11===
 
-v1 Hele jorden havde fælles sprog og ord.{E: Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.} 
-v2 Da de rejste mod{T: Kan også oversættes: >>fra<<.} øst, fandt de en slette i landet Sinear og slog sig ned der. 
-v3 Så sagde de til hinanden:{T: Ordret: >>hver især til sin fælle<<.} >>Kom nu, lad os stryge teglsten og brænde dem hårdt.<< De brugte tegl som mursten og tjære som mørtel. 
-v4 De sagde: >>Kom nu, lad os bygge en by og et tårn, og dets top skal være i himlen, og lad os skabe os et navn for at vi ikke bliver spredt ud over hele jordens overflade.<< 
-v5 Da steg JHVH ned for at se byen og tårnet som menneskebørnene byggede. 
-v6 JHVH sagde: >>Se, de er ét folk, og alle har ét sprog, og er dette hvad de begynder med at gøre, så vil intet være umuligt for dem af det de planlægger at ville gøre. 
-v7 Kom, lad os nu stige ned og forvirre deres sprog sådan at den ene ikke forstår den andens sprog.<< 
-v8 Og JHVH spredte dem derfra ud over hele jordens overflade; og de holdt op med at bygge byen. 
-v9 Derfor gav man den navnet Babel; for dér forvirrede JHVH hele jordens sprog, og derfra spredte JHVH dem ud over hele jordens overflade.
+==Babelstårnet==
+
+//0 v1 Hele jorden havde fælles sprog og ord.{E: Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.}
+//1 v2 Det hændte at
+//3 da de rejste mod{T: Kan også oversættes: >>fra<<.} øst,
+//2 fandt de en slette i landet Sinear
+//2 og slog sig ned der. 
+//2 v3 Så sagde de
+//5 til hinanden:{T: Ordret: >>hver især til sin fælle<<.}
+//4 >>Kom nu,
+//5 lad os stryge teglsten
+//6 og brænde $dem$ hårde.<<
+//3 De brugte tegl som mursten
+//4 og tjære som mørtel. 
+//2 v4 De sagde:
+//4 >>Kom nu,
+//5 lad os bygge en by og et tårn,
+//8 og dets top skal nå til himlen{T: Ordret >>være i himlen<<.},
+//7 og lad os skabe os et navn
+//6 for at vi ikke bliver spredt ud over hele jordens overflade.<<
+//3 v5 Da steg HERREN ned
+//4 for at se byen og tårnet
+//5 som menneskebørnene byggede. 
+//3 v6 HERREN sagde:
+//4 >>Se, de er ét folk,
+//7 og de har alle ét sprog.
+//6 Er dette
+//8 hvad de begynder
+//9 at gøre,
+//7 så vil intet være umuligt for dem af det
+//8 de planlægger
+//9 at ville gøre. 
+//5 v7 Kom nu,
+//6 lad os stige ned
+//7 og forvirre deres sprog
+//8 sådan at de ikke forstår
+//9 hinandens sprog{T: Ordret: >>hver især sin fælles sprog<<.}.<<
+//3 v8 Og HERREN spredte dem derfra ud over hele jordens overflade,
+//2 og de holdt op
+//4 med at bygge byen. 
+//3 v9 Derfor gav man den navnet Babel;
+//4 for dér forvirrede HERREN hele jordens sprog,{T: På hebraisk er der ordspil mellem *bāvel* >>Babel<< og *bālal* >>forvirre<<.}
+//5 og derfra spredte HERREN dem ud over hele jordens overflade.
+
+==Sems slægt==
+
+//0 v10 Dette er Sems slægtshistorie.
+//2 Sem var 100 år gammel
+//5 da han fik{T: Ordret >>avlede<<, der er afledt af >>fødte<<. Gælder også resten af kapitlet.} Arpakshad to år efter vandfloden.
+//4 v11 Sem levede, 
+//7 efter han havde fået Arpakshad, 
+//6 i 500 år,
+//5 og han fik sønner og døtre.
+//3 v12 Da Arpakshad var 35 år,
+//5 fik han Shela. 
+//4 v13 Arpakshad levede,
+//7 efter han havde fået Shela,
+//6 i 403 år,
+//5 og han fik sønner og døtre.
+//3 v14 Da Shela var 30 år,
+//5 fik han Eber. 
+//4 v15 Shela levede,
+//7 efter han havde fået Eber, 
+//6 i 403 år,
+//5 og han og fik sønner og døtre. 
+//4 v16 Da Eber var 34 år,
+//6 fik han Peleg. 
+//5 v17 Eber levede,
+//8 efter han havde fået Peleg, 
+//7 i 430 år,
+//6 og han fik sønner og døtre. 
+//4 v18 Da Peleg var 30 år
+//6 fik han Re’u. 
+//5 v19 Peleg levede,
+//8 efter han havde fået Re’u,
+//7 i 209 år,
+//6 og han fik sønner og døtre.
+//4 v20 Da Re’u var 32 år,
+//6 fik han Serug. 
+//5 v21 Re’u levede,
+//8 efter han havde fået Serug,
+//7 i 207 år,
+//3 og han fik sønner og døtre. 
+//4 v22 Da Serug var 30 år,
+//6 fik han Nakor.
+//5 v23 Serug levede,
+//8 efter han havde fået Nakor,
+//7 i 200 år,
+//6 og han fik sønner og døtre.
+//4 v24 Da Nakor var 29 år,
+//6 fik han Tera. 
+//5 v25 Nakor levede,
+//8 efter han havde fået Tera,
+//7 i 119 år,
+//6 og han fik sønner og døtre.
+//4 v26 Da Tera var 70 år,
+//5 fik han Abram, Nakor og Haran.
+
+==Teras slægt==
+
+//1 v27 Dette er Teras slægtshistorie.
+//2 Tera fik Abram, Nakor og Haran;
+//4 og Haran fik Lot.
+//5 v28 Haran døde i sin far Teras levetid{T: Eller >>foran sin far<<, dvs. mens hans far så det.} i sit fædreland i Ur i Kaldæa{T: Ordret >>kaldæernes Ur<<}.
+//5 v29 Abram og Nakor giftede sig;
+//6 Abrams kone hed Saraj,
+//8 og Nakors kone hed Milka, som var datter af Haran, far til Milka og Jiska.
+//7 v30 Saraj var ufrugtbar,
+//8 hun havde ingen børn. 
+//3 v31 Tera tog sin søn Abram og sin sønnesøn Lot, Harans søn, og sin svigerdatter Saraj, som var hans søn Abrams kone,
+//4 og de rejste fra Ur i Kaldæa{T: Ordret >>kaldæernes Ur<<.}
+//5 for at drage til landet Kana’an,
+//4 og de kom til Karan
+//4 og slog sig ned der. 
+//3 v32 Tera blev 205 år,
+//3 og Tera døde i Karan.

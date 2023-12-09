@@ -1,11 +1,101 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 20.12.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
 
-===Første Mosebog, kapitel 12===
+===1. Mosebog, kapitel 12===
 
-v1 JHVH sagde til Abram: >>Drag ud af dit land og fra din slægt og din fars hus til det land som jeg vil vise dig. 
-v2 Og jeg vil gøre dig til et stort folk og velsigne dig og gøre dit navn stort, og du skal være en velsignelse. 
-v3 Jeg vil velsigne dem som velsigner dig, og den som forbander dig, vil jeg forbande;{T: Der bruges her to forskellige hebraiske ord for >>forbande<<. Det første kan oversættes med >>ringeagte<< eller >>erklærer for forbandet<<.} og i dig skal alle slægter på jorden velsignes.{T: Kan også oversættes: >>og ved dig skal alle jordens slægter velsigne sig<<.} 
+==Abram kaldes til at rejse til Kana’an== 
+
+//0 v1 HERREN sagde til Abram:
+//1 >>Drag ud fra dit land og fra din slægt og fra din fars hus til det land
+//4 jeg vil vise dig. 
+//3 v2 Jeg vil gøre dig til et stort folk
+//3 og velsigne dig
+//4 og gøre dit navn stort,
+//2 og du skal blive{E: I MT bruges en bydeform *hyēʰ*, der af og til oversættes som en befaling: >>Vær en velsignelse<< (fx DA1871). Den hebraiske bydeform kan dog også angive en forventet konsekvens eller en hensigt, således fx Zak 8,13. Denne forståelse ligger angiveligt til grund for indikativen i LXX *esē* >>du skal blive<<.} til velsignelse.{E: En række antikke oversættelser forstår det hebraiske ord *bᵊrāxāʰ* >>velsignelse<< som et passivt adjektiv >>velsignet<<, dvs. at Abram skal blive velsignet (fx. LXX, Targum, Peshitta). Det hebraiske ord skal dog forstås aktivt: >>en velsignelse<<.}
+//3 v3 Jeg vil velsigne dem som velsigner dig,
+//5 og den som forbander dig, vil jeg forbande.
+//4 I dig skal alle jordens slægter finde velsignelse{E: Det hebraiske *nivrᵊxû* er en *niphal* form, der normalt har en passiv eller medium betydning. Normalt angives den passive form *brk* >>velsigne<< dog med *pual*, og derfor er det mest oplagt at forstå *niphal*-formen som medium, dvs. at jordens slægter finder eller opnår velsignelse gennem Abraham.}.<<
+//0 v4 Abram drog af sted,
+//3 som HERREN havde sagt til ham,
+//2 og Lot drog med ham.
+//1 Abram var 75 år
+//2 da han rejste fra Karan. 
+//0 v5 Så tog Abram sin kone Saraj og sin nevø Lot og alle deres ejendele
+//3 som de havde erhvervet sig,
+//2 og de folk
+//3 de havde skaffet sig i Karan,
+//1 og de rejste ud
+//2 for at drage til Kana’ans land,
+//1 og de kom til Kana’ans land.
+
+==Abram kommer til Sikem==
+
+//0 v6 Abram drog gennem landet til stedet Sikem til Morehs eg{E: *môreʰ* betyder ordret >>lærer<<, dvs. >>lærerens eg<<, der sandsynligvis referer til en orakeleg. *môreʰ* er dog også blevet forstået som >>højt<< (LXX) og >>vision<< (Samaritanske Targum). Targum forstår >>Moreh<< som et egennavn og *ʔēlôn* som en slette: >>Morehs slette<<.}.
+//1 Dengang $boede$ kananæerne i landet. 
+//0 v7 HERREN viste sig for Abram
+//1 og sagde:
+//2 >>Til dine efterkommere vil jeg give dette land.<<
+//1 Dér byggede han et alter for HERREN
+//2 som havde vist sig for ham.
+ 
+==Abram kommer til Betel==
+
+//1 v8 Derfra drog han videre op til bjerglandet øst for Betel
+//1 og slog sit telt op
+//1 med Betel mod vest
+//3 og Aj mod øst. 
+//1 Dér byggede han et alter for HERREN
+//1 og påkaldte HERRENS navn.
+
+==Abram rejser mod Negev==
+
+//0 v9 Abram rejste videre og fortsatte ned mod Negev. 
+
+==Abram kommer til Egypten==
+
+//0 v10 Der blev hungersnød i landet,
+//0 og Abram drog ned til Egypten
+//3 for at tage ophold der,
+//2 for hungersnøden var stor i landet. 
+//1 v11 Da
+//3 han nærmede sig{T: Ordret >>nærmede sig for at ankomme<<.}
+//4 Egypten,
+//2 sagde han til sin kone Saraj:
+//3 >>Hør her, jeg ved
+//6 at du er en smuk kvinde at se på.
+//5 v12 Når
+//7 egypterne ser dig
+//8 og siger:
+//9 >Det er hans kone<,
+//6 vil de dræbe mig 
+//7 mens de vil lade dig leve. 
+//4 v13 Vil du ikke nok sige
+//6 at du er min søster
+//5 for at det må gå mig godt for din skyld,
+//6 og jeg må overleve{T: Ordret >>min sjæl må leve<<.} takket være dig.<<
+//1 v14 Da
+//3 Abram kom til Egypten,
+//2 så egypterne
+//3 at kvinden var meget smuk. 
+//2 v15 Og Faraos stormænd så hende
+//3 og lovpriste hende for Farao,
+//4 og kvinden blev bragt til Faraos palads. 
+//5 v16 Mod Abram gjorde han *til gengæld* gode ting for hendes skyld.
+//6 Han fik får, kvæg, æsler, karle, tjenestepiger, æselhopper og kameler. 
+//2 v17 HERREN slog Farao og hans hus med store plager på grund af Abrams kone Saraj. 
+//2 v18 Da kaldte Farao på Abram
+//3 og sagde:
+//4 >>Hvad er det du har gjort mod mig?
+//6 Hvorfor fortalte du mig ikke
+//8 at hun er din kone?
+//7 v19 Hvorfor sagde du:
+//9 >Hun er min søster<
+//8 så jeg giftede mig med hende?
+//5 Se, her er din kone,
+//6 tag $hende$
+//7 og gå!<<
+//2 v20 Farao gav sine mænd befaling om ham,
+//3 og de sendte{E: Verbet *yᵊšallᵊḥû* kan også oversættes i en strengere betydning: >>de førte [ham] væk<< men også i en mildere betydning: >>de lod [ham] gå<<.} ham og hans kone og alt
+//4 hvad han havde, væk.

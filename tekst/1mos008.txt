@@ -1,11 +1,99 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 31.08.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
 
-===Første Mosebog, kapitel 8===
+===1. Mosebog, kapitel 8===
 
-v20 Noa byggede et alter for JHVH og tog af alt det rene kvæg og alle de rene fugle og ofrede brændoffer på alteret. 
-v21 Og JHVH nød den behagelige duft; da sagde JHVH i sit hjerte: >>Herefter vil jeg aldrig{T: Ordret: >>ikke endnu en gang fortsætte med at …<<} mere forbande jorden for menneskets skyld, for menneskets hjertes tanker er onde fra ungdommen af; og jeg vil aldrig mere dræbe alt hvad der lever, sådan som jeg har gjort. 
-v22 Så længe jorden står, skal såning og høst og kulde og hede og sommer og vinter og dag og nat ikke ophøre.<<
+==Gud lader vandet tørre væk==
+
+
+//0 v1 Gud huskede på Noa og alle de vilde dyr og alt kvæg
+//1 som var med ham i arken,
+//0 og Gud lod en vind $blæse$ hen over jorden,
+//1 og vandet faldt. 
+//2 v2 Urdybets kilder og himlens sluser lukkedes,
+//2 og regnen fra himlen holdt op. 
+//1 v3 Vandet trak sig efterhånden tilbage fra jorden,
+//1 og vandstanden var blevet mindre efter 150 dage. 
+//2 v4 Og i den syvende måned, på den syttende dag i måneden strandede{T: Ordret >>hvilede<<.} arken på Ararats bjerge. 
+//1 v5 Og der blev mindre og mindre vand indtil den tiende måned.
+//0 I den tiende $måned$, på den første dag i måneden, kom bjergtoppene til syne.
+
+==Noa sender fugle ud fra arken==
+
+
+//0 v6 Efter 40 dage
+//1 åbnede Noa det vindue
+//3 han havde lavet i arken. 
+//2 v7 Og han sendte en ravn ud.
+//3 Den fløj frem og tilbage
+//4 indtil vandet var tørret væk fra jorden. 
+//2 v8 Så sendte han en due ud
+//4 for at se
+//5 om vandet var sunket fra jordens overflade. 
+//3 v9 Men da duen ikke fandt et sted den kunne sætte sine fødder,
+//5 kom den tilbage til ham i arken,
+//4 for vandet dækkede $stadig$ hele jorden.
+//2 Han rakte hånden ud
+//3 og greb den
+//4 og tog den til sig i arken. 
+//4 v10 Så ventede han endnu syv dage,
+//4 og igen
+//6 sendte han duen ud fra arken. 
+//5 v11 Duen kom tilbage til ham ved aftenstid,
+//7 og se, den havde et friskt olivenblad i næbbet;{T: Ordret >>mund<<.}
+//6 da forstod Noa
+//7 at vandet var sunket væk fra jorden. 
+//4 v12 Han ventede endnu syv dage
+//4 og sendte så duen ud,
+//5 og
+//6 den kom ikke længere tilbage til ham.
+
+== Noa forlader arken==
+
+//0 v13 I
+//0 det 601. år, i den første $måned$, på den første dag i måneden, var vandet tørret væk fra jorden.
+//2 Da fjernede Noa arkens overdækning
+//3 og så sig om,
+//4 og se, jordens overflade var blevet tør. 
+//1 v14 I den anden måned, på den 27. dag i måneden var jorden blevet tør. 
+//2 v15 Da talte Gud til Noa
+//3 :
+//4 v16 >>Gå ud af arken, du og din kone og dine sønner og dine svigerdøtre med dig. 
+//5 v17 Alle de dyr
+//9 som er hos dig
+//8 af alt kød, af fugle og af kvæg og af alt kryb
+//9 som kryber på jorden,
+//7 skal gå ud med dig,
+//6 og de skal vrimle på jorden
+//6 og blive frugtbare
+//6 og talrige på jorden.<< 
+//2 v18 Så gik Noa ud sammen med sine sønner og sin kone og sine svigerdøtre. 
+//3 v19 Alle de vilde dyr, alt kryb og alle fugle, alt
+//5 hvad der kryber på jorden,
+//4 gik ud af arken art efter art{T: Ordret >>efter deres slægter<<.}.
+
+==Noas alter==
+
+//2 v20 Noa byggede et alter for HERREN
+//3 og tog af alle slags rene dyr og af alle slags rene fugle
+//3 og ofrede helofre på alteret. 
+//2 v21 HERREN duftede den behagelige duft.
+//3 Da sagde HERREN i sit hjerte:
+//3 >>Jeg vil ikke
+//7 forbande agerjorden yderligere på grund af mennesket,
+//6 selvom menneskets hjertes tanke er ond fra ungdommen af;
+//5 og jeg vil aldrig mere
+//7 dræbe alt levende,
+//6 sådan som jeg har gjort.
+
+//4 v22 Så længe jorden består, 
+
+skal såning og høst,
+
+frost og hede,
+
+sommer og vinter,
+
+dag og nat aldrig høre op.<<

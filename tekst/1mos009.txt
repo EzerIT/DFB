@@ -1,14 +1,125 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 10.09.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.12.2023>!!
 
-===Første Mosebog, kapitel 9===
+===1. Mosebog, kapitel 9===
 
-v12 Og Gud sagde: >>Dette er tegnet på den pagt som jeg slutter{T: Ordret: >>giver<<.} mellem mig og jer og hver levende sjæl som er hos jer, til evig tid.
-v13 Jeg har sat min bue i skyen, og den skal være pagtstegn mellem mig og jorden.
-v14 Når jeg fører en sky over jorden, da skal buen ses i skyen. 
-v15 Og jeg vil huske på min pagt som er mellem mig og jer og hver levende sjæl i alt kød, så vandene ikke igen skal blive til en vandflod der udsletter alt kød. 
-v16 Når buen er i skyen, vil jeg se den for at mindes den evige pagt mellem Gud og hver levende sjæl i alt kød som er på jorden.<< 
-v17 Og Gud sagde til Noa: >>Dette er tegnet på den pagt som jeg opretter mellem mig og alt kød som er på jorden.<<
+==Gud velsigner Noa og hans sønner==
+
+//0 v1 Gud velsignede Noa og hans sønner
+//1 og sagde til dem:
+//2 >>Bliv frugtbare
+//5 og talrige,
+//5 og opfyld jorden! 
+//4 v2 Frygt for jer og rædsel for jer skal være over alle jordens vilde dyr og over alle himlens fugle,
+//6 over alt det
+//8 som kryber på jorden,
+//7 og over alle havets fisk;
+//5 i jeres hænder{T: Ordret >>hånd<<.} skal de gives. 
+//6 v3 Alt det som bevæger sig,{T: Ordret >>kryber<<.}
+//10 som lever,
+//9 skal være jer til føde;
+//8 ligesom de grønne urter har jeg givet jer alt $dette$. 
+//7 v4 Dog kød med dets liv,{T: Kan også oversættes >>sjæl<<.} dets blod, må I ikke spise. 
+//9 v5 Men for jeres livsblod vil jeg derimod kræve $hævn$,
+//8 over ethvert dyr{T: Ordret >>fra hånden af ethvert dyr<<.} vil jeg kræve hævn for det;
+//9 og over $ethvert$ menneske{T: Ordret >>fra hånden af mennesket<<.} - over en mand for hans næstes{T: Ordret >>bror<<.} liv - vil jeg kræve hævn for menneskets liv.{T: Kan også oversættes >>sjæl<<.}
+ 
+//10 v6 Den som udgyder menneskets blod,
+
+//11 ved mennesket skal hans blod udgydes;
+
+//12 for i Guds billede skabte han mennesket. 
+
+//3 v7 Og I, bliv frugtbare
+
+//5 og talrige,
+
+//4 I skal vrimle på jorden
+
+//5 og blive talrige på den.<<
+
+==Pagten med Noa==
+
+//0 v8 Gud sagde til Noa og til hans sønner $som var$ hos ham
+//1 :
+//2 v9 >>Og hvad mig angår,
+//3 se, nu opretter jeg min pagt med jer og med jeres efterkommere{T: Ordret >>afkom<<.}
+//5 v10 og med hver levende sjæl
+//8 som er hos jer,
+//7 fuglene, kvæget og alle jordens vilde dyr hos jer,
+//6 alle
+//8 dem som gik ud af arken,
+//7 alle jordens dyr. 
+//4 v11 Jeg opretter min pagt med jer
+//5 at intet kød skal nogensinde mere ødelægges af vandfloden,
+//5 og der skal aldrig mere komme nogen vandflod
+//6 for at ødelægge jorden.<<
+//0 v12 Og Gud sagde:
+//1 >>Dette er et tegn på den pagt
+//4 som jeg laver mellem mig og jer og hver levende sjæl
+//5 som er hos jer,
+//3 til evig tid.
+//2 v13 Jeg har sat min bue i skyen,
+//3 og den skal være et pagtstegn mellem mig og jorden.
+//4 v14 Og det skal ske at
+//7 når jeg bringer skyer over jorden,
+//8 og buen kommer til syne i skyerne, 
+//6 v15 da vil jeg huske på min pagt
+//8 som er mellem mig og jer og enhver levende sjæl af alt kød,
+//7 at vandene ikke mere skal blive til en flod
+//8 der ødelægger alt kød. 
+//5 v16 Når buen er i skyerne,
+//6 vil jeg se den
+//7 for at huske på den evige pagt mellem Gud og enhver levende sjæl af alt kød
+//8 som er på jorden.<< 
+//0 v17 Og Gud sagde til Noa:
+//1 >>Dette skal være et tegn på den pagt
+//2 som jeg har oprettet mellem mig og alt kød som er på jorden.<<
+
+==Noas sønner==
+
+//0 v18 Noas sønner,
+//5 som gik ud af arken,
+//4 var Sem og Kam og Jafet.
+//3 (Kam
+//4 var Kana’ans far). 
+//2 v19 Disse tre var Noas sønner,
+//3 og gennem dem blev hele jorden befolket.
+
+==Noa som vinbonde==
+
+//1 v20 Men
+//2 Noa var jordbruger{T: Ordret: >>Noa var en mand af agerjorden<<.}
+//4 og plantede den første vingård.{E: De to verber i sætningen bør læses som en samlet konstruktion *wayyāḥel wayyiṭṭaʕ* >>begyndte at plante<<. Meningen må være at Noa var den første til at plante en vingård.} 
+//4 v21 Han drak af vinen
+//4 og blev fuld
+//4 og blottede sig i sit telt. 
+//5 v22 Da Kam, Kana’ans far, så sin far nøgen,
+//6 fortalte han det til begge sine brødre udenfor. 
+//5 v23 Da tog Sem og Jafet et stykke tøj
+//6 og lagde det over begges skuldre
+//6 og gik baglæns ind
+//6 og skjulte deres fars nøgenhed;
+//7 deres ansigter var bortvendt
+//8 så de ikke så deres far nøgen. 
+//3 v24 Da Noa vågnede op af sin rus{T: Ordret >>vin<<.}
+//4 og fik at vide
+//5 hvad hans yngste søn havde gjort mod ham, 
+//4 v25 sagde han:
+
+//5 >>Forbandet være Kana’an,
+//6 han skal være slavernes slave for sine brødre!<<
+
+//4 v26 Og han sagde:
+
+//5 >>Lovet{T: Kan også oversættes >>velsignet<<.} være HERREN, Sems Gud,
+//7 og Kana’an skal være deres slave! 
+
+//6 v27 Må Gud udbrede Jafet;
+//7 han skal bo i Sems telte,
+//8 og Kana’an skal være deres slave!<< 
+//1 v28 Efter vandfloden levede Noa 350 år. 
+//2 v29 Noas levealder blev $i alt$ 950 år;
+//3 så døde han.
