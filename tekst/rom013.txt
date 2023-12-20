@@ -1,24 +1,17 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering og Torben Kjær>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 05.04.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.12.2023>!!
+===Paulus' brev til romerne, kapitel 13===
 
-===Paulus' Brev til Romerne, kapitel 13===
 
-v1 Enhver person skal underordne sig de indsatte{T: Ordret: >>overordnede<<.} øvrigheder, for der er ingen øvrighed undtagen af Gud, og de der er, er indsat af Gud,
-v2 så den som sætter sig op imod øvrigheden, modsætter sig Guds ordning; men de som modsætter sig, de vil få deres dom.
-v3 For de styrende er ikke til skræk for den gode gerning, men for den onde. Men vil du være uden frygt for øvrigheden? Så gør det gode, og du skal få ros af den.
-v4 For den er en Guds tjener, til gode for dig. Men hvis du gør det onde, så frygt; for den bærer ikke sværdet for intet; den er nemlig Guds tjener, en hævner til straf for den som øver det onde.
-v5 Derfor er det nødvendigt at underordne sig, ikke alene for straffens skyld, men også for samvittighedens.
-v6 Derfor betaler I jo også skatter; for de som vedholdende tager vare på netop dette, er Guds tjenere.
-v7 Betal alle hvad I skylder dem: den I skylder skat, skat; den I skylder told, told; den I skylder frygt, frygt; den I skylder ære, ære.{T: Ordret står ordene i bestemt form: >>skatten … tolden … frygten … æren<<.}
+==Om staten som Guds tjener==
 
-v8 Skyld ikke nogen andet end det at elske hinanden, for den som elsker den anden, har opfyldt loven.
-v9 For det: >>Du må ikke begå ægteskabsbrud; du må ikke begå drab; du må ikke stjæle; du må ikke begære,<< og hvilket som helst andet bud sammenfattes i dette ord: >>Du skal elske din næste som dig selv.<<
-v10 Kærligheden gør ikke ondt imod næsten; altså er kærligheden lovens opfyldelse.
+v1 Enhver person skal underordne sig under de myndigheder som står over dem, for der findes ikke en myndighed uden at den er fra Gud. De som findes, er indsatte af Gud. v2 Derfor, den som sætter sig op imod myndigheden, sætter sig op imod Guds ordning, og de som sætter sig imod, vil blive dømt. v3 Herskerne er ikke genstand for frygt for den der gør det gode, men for den der gør det onde. Men ønsker du ikke at frygte myndigheden, så gør det gode, og du vil få ros fra den. v4 For den er Guds tjener til bedste for dig. Men hvis du gør det onde, så frygt, for myndigheden bærer ikke sværdet forgæves, for den er Guds tjener, en hævner, som viser sin vrede{T: Ordret: >>til vrede<<.} mod den der gør det onde. v5 Derfor er det nødvendigt at underordne sig, ikke alene på grund af vreden, men også på grund af samvittigheden. v6 For derfor betaler I også skat, for de er Guds tjenere, de som beskæftiger sig med netop dette. v7 Giv alle hvad I skylder dem: Skat til dem I skylder skat, told til dem I skylder told, frygt til dem I skylder frygt, og respekt til dem I skylder respekt.
 
-v11 Og dette netop fordi I kender tiden: at timen allerede er kommet{T: Kan også oversættes: >>at det er på høje tid<<.} til at stå op af søvnen, for nu er vores frelse nærmere end da vi kom til tro.
-v12 Natten er fremrykket, dagen er kommet nær. Lad os derfor aflægge mørkets gerninger og iføre os lysets våben.
-v13 Lad os vandre sømmeligt som ved dag, ikke i svir og druk, ikke i løsagtighed og udsvævelse, ikke i strid og misundelse,
-v14 men ifør jer Herren Jesus Kristus, og drag ikke omsorg for kødet så begær vækkes!
+==Om kærligheden==
+
+v8 I skal ikke skylde nogen noget uden at elske hinanden, for den som elsker en anden, har opfyldt loven. v9 For dette: Du må ikke begå ægteskabsbrud, du må ikke dræbe, du må ikke stjæle, du må ikke begære og ethvert andet bud, er sammenfattet i dette ord: Du skal elske din næste som dig selv. v10 Kærligheden gør ikke næsten noget ondt, derfor er kærligheden lovens opfyldelse. v11 Dette skal I gøre{T: Der er indsat: >>skal I gøre<<.} fordi I kender tiden, at det allerede er tid til at I skal stå op af søvnen, for nu er frelsen os nærmere end da vi kom til tro. v12 Natten er fremrykket, og dagen er kommet nær. Lad os da aflægge mørkets gerninger og iføre os lysets våben. v13 Lad os vandre sømmeligt som ved dag, ikke i svir og druk, ikke i løsagtighed og udsvævelse, ikke i strid og misundelse, v14 men ifør jer Herren Jesus Kristus og drag ikke omsorg for kødet så begær vækkes.
+
+

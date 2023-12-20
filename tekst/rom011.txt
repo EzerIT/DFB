@@ -1,13 +1,67 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.05.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.12.2023>!!
+===Paulus' brev til romerne, kapitel 11===
 
-===Paulus' Brev til Romerne, kapitel 11===
 
-v32 For Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.
-v33 Oh, dyb af Guds rigdom og visdom og kundskab! Hvor uransagelige er hans domme og uudgrundelige hans veje!
-v34 For hvem har kendt Herrens sind? Eller hvem er blevet hans rådgiver?
-v35 Eller hvem har givet ham først så at der skulle gives ham til gengæld?
-v36 For af ham og ved ham og til ham er alle ting; ham være ære i evighed! Amen.
+==En udvalgt rest af Israel==
+
+v1 Jeg spørger da: Har Gud forkastet sit folk? Slet ikke. For også jeg er en israelit, af Abrahams slægt, Benjamins stamme. v2 >>Gud har ikke forkastet sit folk som han forud har kendt.<<{H: 1 Sam 12,22; Sl 94,14.} Eller ved I ikke hvad Skriften siger i stykket om Elias, hvordan han anråber Gud imod Israel? v3 >>Herre, dine profeter har de dræbt, dine altre har de revet ned, og jeg er blevet alene tilbage, og de stræber efter at tage mit liv.<< v4 Men hvad siger gudsordet? >>Jeg har ladet syv tusinde mænd blive tilbage{T: Ordret: >>blive tilbage for mig<<.} som ikke har bøjet knæ for Ba’al.<< v5 På samme måde er der da også i denne tid en rest på grund af en nådesudvælgelse. v6 Men når det er på grund af nåde, er det ikke mere på grund af gerninger, ellers er nåden ikke mere nåde. v7 Hvordan forholder det sig da? Det Israel søger, har det ikke opnået, men de udvalgte har opnået det, og de øvrige blev forhærdede, v8 ligesom der står skrevet:
+
+	Gud gav dem sløvhedens ånd,
+
+	øjne så at de ikke ser, og ører så at de ikke hører,
+
+	indtil dagen i dag.
+
+ v9 Og David siger:
+
+	Deres bord blev til en snare og en fælde
+
+	og til anstød og til gengældelse for dem,
+
+	v10 lad deres øjne blive formørkede så de ikke ser,
+
+	og bøj altid deres ryg.
+
+==Israels fald og hedningernes frelse==
+
+v11 Jeg spørger da, snublede jøderne for at falde? Slet ikke, men ved deres fald er frelsen kommet til hedningerne for at skabe misundelse hos dem.{T: Der mangler et udsagnsord i verset, og der er indsat >>er kommet<<.} v12 Men når deres fald er blevet til rigdom for verden, og deres tab er blevet til rigdom for hedningerne,{T: Der mangler udsagnsord i de to sætninger, og der er indsat >>er blevet<<.} hvor meget mere vil deres frelse{T: Ordret: >>fylde<<.} blive til rigdom.{T: Der mangler et udsagnsord, og der er indsat >>blive<<.} v13 Men jeg siger til jer hedninger: Så længe jeg nu er apostel for hedningerne, ærer jeg min tjeneste, v14 om jeg dog kunne skabe misundelse hos mine landsmænd{T: Ordret: >>mit kød<<.} og frelse nogle af dem. v15 For når deres forkastelse er blevet til forsoning for verden{T: Der mangler et udsagnsord, og der er indsat >>er blevet<<.} hvad vil da deres antagelse blive uden liv af døde?{T: Der mangler et udsagnsord, og der er indsat >>blive<<.} v16 Men når førstegrøden er hellig, så er også dejen det; og når roden er hellig, så er også grenene det. v17 Men når nogle af grenene er blevet hugget af, og du, som er en gren fra et vildt oliventræ, er blevet indpodet blandt dem og har fået del i saften fra oliventræets rod, v18 så fremhæv dig ikke over for grenene, men hvis du fremhæver dig selv, så husk at du ikke bærer roden, men roden bærer dig. v19 Du vil da sige: Grenene blev hugget af for at jeg kunne blive indpodet. v20 Rigtigt! De blev hugget af på grund af vantro, men du står fast på grund af troen. Vær ikke overmodig, men frygt, v21 for når Gud ikke skånede de naturlige grene, vil han heller ikke skåne dig. v22 Se da Guds godhed og strenghed; hans strenghed mod dem som faldt, men Guds godhed mod dig hvis du bliver i hans godhed, ellers vil du også blive hugget af. v23 Men også disse vil blive indpodet hvis de ikke bliver i deres vantro, for Gud har magt til at indpode dem igen. v24 For når du er hugget af det vilde{T: Ordret: >>af det af natur vilde<<.} oliventræ, og imod naturen er blevet indpodet i det ædle oliventræ, hvor meget mere vil de naturlige grene blive indpodet i deres eget oliventræ!     
+   
+==Israels genantagelse==
+
+v25 For jeg vil ikke, brødre, at I skal være uvidende om denne hemmelighed for at I ikke skal være kloge i jer selv: En delvis forhærdelse er kommet over Israel indtil fylden af hedningerne{T: Alternativ oversættelse: >>fylden af hedningefolkene<<.}er gået ind, v26 og så{T: Alternativ oversættelse: >>således<<.} vil hele Israel blive frelst, ligesom der står skrevet:
+
+	Befrieren vil komme fra Zion,
+
+	han vil fjerne ugudeligheder fra Jakob,
+
+	v27 og dette vil være min pagt med dem
+
+	når jeg tager deres synder bort.
+
+v28 Ifølge evangeliet er jøderne fjender for jeres skyld, men ifølge udvælgelsen er de elskede for fædrenes skyld, v29 for Gud fortryder ikke sine nådegaver og sit kald. v30 For ligesom I engang var ulydige mod Gud, men nu er blevet vist barmhjertighed ved deres ulydighed, v31 således er også jøderne nu blevet ulydige for at også de skal blive vist barmhjertighed ved den barmhjertighed I er blevet vist.{T: Ordret: >>ved jeres barmhjertighed<<.} v32 For Gud har indesluttet alle under ulydighed for at vise alle barmhjertighed.
+
+	v32 O dyb af rigdom
+
+	og visdom og kundskab hos Gud,
+
+	hvor uransagelige er hans domme 
+
+	og usporlige hans veje!
+
+	v34 For hvem har kendt Herrens tanker?
+
+	Eller hvem hans rådgiver?
+
+	v35 Eller hvem har givet ham noget først
+
+	så han skulle gøre ham gengæld?
+
+	v36 For fra ham og ved ham og til ham er alt;
+
+	ham være ære i evighederne, Amen.
+
+

@@ -1,24 +1,16 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 23.02.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.12.2023>!!
+===Paulus' brev til romerne, kapitel 6===
 
-===Paulus' Brev til Romerne, kapitel 6===
+==Dåben==
+ 
+v1 Hvad skal vi da sige? Skal vi blive i synden for at nåden kan blive større? v2 Slet ikke! Hvordan kan vi som er døde i relation til synden, fortsat leve i den? v3 Eller er I uvidende om at alle vi som er blevet døbt til Kristus Jesus, blev døbt til hans død? v4 Vi blev altså begravet med ham ved dåben til døden for at vi, ligesom Kristus er blevet oprejst fra de døde ved Faderens herlighed, også skal leve et nyt liv. v5 For når vi er blevet forenet med hans døds skikkelse, skal vi også blive forenet med hans opstandelses skikkelse. v6 Vi ved at vores gamle menneske er blevet korsfæstet sammen med ham for at syndens krop skulle blive tilintetgjort, så vi ikke mere skal tjene synden. v7 For den der er død, er blevet befriet{T: Der bruges et verbum som vi normalt oversætter med >>erklære retfærdig<<.} fra synden. v8 Men når vi er døde sammen med Kristus, tror vi at vi også skal leve sammen med ham v9 fordi vi ved at Kristus, efter at han er blevet oprejst fra de døde, ikke mere dør; døden hersker ikke mere over ham. v10 For den død han døde, døde han en gang for altid i relation til synden; og det liv han lever, lever han for Gud. v11 Således skal også I betragte{T: Ordret: >>regne jer selv for at være<<.} jer selv som døde i relation til synden, men som levende for Gud i Kristus Jesus.
 
-v3 Eller ved I ikke at alle vi som blev døbt til Kristus Jesus, blev døbt til hans død?
-v4 Vi blev altså begravet med ham ved dåben til døden, for at ligesom Kristus blev oprejst fra de døde ved Faderens herlighed, således skal også vi vandre i et nyt liv{T: Ordret: >>i livets nyhed<<.}.
-v5 For er vi sammenvoksede med ham ved en død der ligner hans,{T: Ordret: >>sammenvoksenede med en død der ligner hans<<.} skal vi også være det ved opstandelsen
-v6 idet vi erkender dette: at vores gamle menneske blev korsfæstet med ham for at syndens legeme skulle blive tilintetgjort for at vi ikke mere skulle trælle for synden.
-v7 For den som er død, er retfærdiggjort fra synden.
-v8 Men dersom vi er døde med Kristus, tror vi at vi også skal leve med ham
-v9 fordi vi ved at Kristus, efter at være oprejst fra de døde, ikke mere dør; døden hersker ikke mere over ham.
-v10 For sin død døde han én gang for alle for synden; men sit liv lever han for Gud.
-v11 Således skal også I anse jer selv for døde for synden, men levende for Gud i Kristus Jesus.
+==Stil jer til rådighed for Gud==
 
+v12 Derfor, lad ikke synden herske i jeres dødelige legeme så I adlyder dens lyster, v13 stil heller ikke jeres lemmer til rådighed for synden som uretfærdigheds våben, men stil jer selv til rådighed for Gud som nogle der er blevet gjort levende fra de døde, og stil jeres lemmer til rådighed for Gud som retfærdigheds våben. v14 For synden skal ikke herske over jer, for I er ikke under lov, men under nåde. v15 Hvad da? Skal vi synde fordi vi ikke er under lov, men under nåde? Slet ikke! v16 Ved I ikke at I er slaver for den I stiller jer selv til rådighed for som lydige slaver, ja, I er slaver for den I adlyder, enten syndens slaver, og det fører til død, eller lydighedens slaver, og det fører til retfærdighed? v17 Men tak til Gud fordi I var syndens slaver, men blev lydige af hjertet mod den læreform I blev overgivet til. v18 Men efter at I er blevet befriet fra synden, er I blevet slaver for retfærdigheden. v19 Jeg taler menneskeligt på grund af jeres køds svaghed. For ligesom I har stillet jeres lemmer til rådighed som slaver for urenheden og lovløsheden så det førte til lovløshed, således har I nu stillet jeres lemmer til rådighed som slaver for retfærdigheden så det fører til helligelse. v20 For da I var syndens slaver, var I frie i forhold til retfærdigheden. v21 Hvilken frugt havde I da dengang? Frugter I nu skammer jer over, og som ender med døden.{T: Ordret: >>Deres ende/mål er døden<<.} v22 Men da I nu er blevet befriet fra synden og er blevet tjenere for Gud, har I jeres frugt til helligelse, og som ender med evigt liv.{T: Ordret: >>Og enden/målet er evigt liv<<.} v23 For syndens løn er død, men Guds nådegave er evigt liv i Kristus Jesus, vores Herre. 
 
-v19 Jeg taler på menneskelig vis på grund af jeres køds skrøbelighed. For ligesom I stillede jeres lemmer til rådighed som trælle for urenheden og lovløsheden til lovløshed,{T: Det vil sige: Så det fører til lovløshed.} således skal I nu stille jeres lemmer til rådighed som trælle for retfærdigheden til helliggørelse!
-v20 For da I var syndens trælle, var I frie over for retfærdigheden.
-v21 Hvilken slags frugt havde I da dengang? Ting som I nu skammer jer over; det de fører til, er jo død.
-v22 Men nu da I er blevet frigjorte fra synden og er blevet trælle for Gud, har I jeres frugt i helliggørelse, og det fører til evigt liv;
-v23 for syndens løn er død, men Guds nådegave er et evigt liv i Kristus Jesus, vor Herre.
+  

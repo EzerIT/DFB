@@ -1,12 +1,56 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 22.11.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.12.2023>!!
+===Paulus' brev til romerne, kapitel 15===
 
-===Paulus' Brev til Romerne, kapitel 15===
 
-v4 For alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver. 
-v5 Må udholdenhedens og trøstens Gud give jer at være enige indbyrdes, som Kristus Jesus vil det,
-v6 for at I enigt med én mund kan prise Gud og vor Herres Jesu Kristi far.
-v7 Tag derfor imod hinanden, ligesom også Kristus har taget imod os til Guds ære.
+==Kristi eksempel==
+
+v1 Men vi som er stærke, skylder at bære de svages svagheder og ikke glæde os selv. v2 Enhver af os skal glæde sin næste så {T: Ordret: >>til gode<<.} det bliver til gode og opbyggelse for ham. v3 For heller ikke Kristus glædede sig selv, men som der står skrevet: >>Forhånelserne fra dem som forhåner dig, faldt på mig.<< v4 For alt hvad der forud er blevet skrevet, blev skrevet til undervisning for os for at vi kan bevare håbet ved den udholdenhed og trøst, Skrifterne giver. v5 Udholdenhedens og trøstens Gud give os at mene det samme indbyrdes i overensstemmelse med Kristus Jesus v6 så at I enigt og med én mund kan prise Gud, vor Herre Jesu Kristi Far.  
+
+==Kristus for jøder og hedninger==
+
+v7 Tag derfor imod hinanden ligesom Kristus også tog imod jer til Guds ære. v8 For jeg siger at Kristus er blevet tjener for de omskårne for Guds sandfærdigheds skyld og for at bekræfte løfterne til fædrene, v9 men hedningefolkene skal prise Gud for hans barmhjertigheds skyld, ligesom der står skrevet: 
+
+Derfor vil jeg prise dig blandt hedningefolkene og lovsynge dit navn.
+
+v10 Og igen siger han:
+
+	Fryd jer, I hedningefolk, sammen med hans folk.
+
+v11 Og videre:
+
+	Lovsyng Herren, alle hedningefolk,
+
+	og pris ham alle folk.
+
+v12 Og videre siger Esajas:
+
+	Isajs rodskud skal komme
+
+	og han der rejser sig for at herske over hedningefolkene,
+
+	på ham skal hedningefolkene håbe.
+
+v13 Håbets Gud fylde jer med al glæde og fred i troen så at I må være rige på håbet ved Helligåndens kraft. 
+
+==Paulus’ tjeneste som apostel==
+
+v14 Vedrørende jer, mine brødre, er jeg selv overbevist om at I er fulde af godhed, fyldte af al erkendelse, så I også kan retlede hinanden. v15 Jeg har til dels skrevet mere dristigt til jer som en der påminder jer ved den nåde som er blevet givet mig af Gud, v16 den nåde{T: Der er indsat: >>den nåde<<.} at være Kristi Jesu tjener for hedningefolkene, som en der gør præstetjeneste for Guds evangelium for at hedningefolkene kan blive et kærkomment offer, helliget ved Helligånden. v17 I min tjeneste for Gud har jeg da min stolthed i Kristus Jesus, v18 for jeg vil ikke driste mig til at tale om andet end hvad Kristus har virket ved mig for at føre hedningerne til lydighed, ved ord og gerning, v19 ved tegns og underes kraft og ved Guds Ånds kraft, så at jeg fra Jerusalem og rundt om indtil Illyrien har fuldført forkyndelsen af Kristi evangelium, v20 og således at jeg har sat en  ære i ikke at forkynde evangeliet hvor Kristi navn er blevet nævnt, for at jeg ikke skal bygge på et fremmed fundament, v21 men ligesom der står skrevet:
+
+	De som der ikke er blevet forkyndt for om ham, vil se,
+
+	og de som ikke har hørt, vil forstå.
+
+==Rejseplaner==
+
+v22 Derfor er jeg også mange gange blevet forhindret i at komme til jer; v23 men nu, da jeg ikke mere har lejlighed til at arbejde i disse egne, men har længtes efter at komme til jer i mange år, v24 vil jeg komme til jer{T: Der er indsat: >>vil jeg komme til jer<<.} når jeg rejser til Spanien, for jeg håber at se jer på gennemrejsen og blive sendt videre af jer dertil når jeg først for en stund har stillet min længsel efter jer. v25 Men nu rejser jeg til Jerusalem for at tjene de hellige. v26 For Makedonien og Akaja har besluttet at samle ind til de fattige hellige i Jerusalem. v27 Ja, de har besluttet det, og de skylder dem det, for når hedningerne har fået del i deres åndelige goder, skylder de også at tjene dem med deres materielle goder. v28 Når jeg da har fuldført dette og sikret dem denne frugt, vil jeg rejse via jer til Spanien, v29 og jeg ved at når jeg kommer til jer, vil jeg komme med Kristi velsignelse i dens fylde.
+
+==Opfordring til forbøn==
+
+v30 Jeg formaner jer, brødre, ved vor Herre Jesus Kristus og ved Åndens kærlighed til at kæmpe sammen med mig i jeres bønner til Gud for mig v31 for at jeg kan blive befriet fra de ulydige i Judæa, og min hjælp til Jerusalem må blive accepteret af de hellige v32 for at jeg ved Guds vilje kan komme med glæde til jer og finde hvile sammen med jer. v33 Fredens Gud være med jer alle, amen.    
+
+
+

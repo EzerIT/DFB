@@ -1,31 +1,21 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 12.01.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 20.12.2023>!!
+===Paulus' brev til romerne, kapitel 12===
 
-===Paulus' Brev til Romerne, kapitel 12===
 
-v1 Jeg formaner jer altså, brødre, ved Guds barmhjertighed, til at bringe{E: Det græske ord er fagudtryk for frembæren af ofre.} jeres legemer som et levende, helligt, Gud velbehageligt offer; dette er jeres åndelige gudsdyrkelse.
-v2 Og tilpas jer ikke denne verden, men lad jer forvandle ved sindets fornyelse, så I kan skønne hvad der er Guds vilje, det gode og velbehagelige og fuldkomne.
-v3 For ved den nåde som er givet mig, siger jeg til enhver iblandt jer at han ikke skal tænke højere om sig selv end han bør tænke, men tænke med omtanke, efter det mål af tro som Gud har tildelt enhver.
-v4 For ligesom vi har mange lemmer paa ét legeme, men lemmerne ikke alle har den samme funktion,
-v5 sådan er vi mange ét legeme i Kristus, men hver for sig hinandens lemmer.
+==Den troendes helligelse==
 
-v6 Men fordi vi har forskellige nådegaver efter den nåde som er givet os, for eksempel profeti, da skal man bruge den i overenstemmelse troen; 
-v7 eller en tjeneste, da skal man tage vare på tjenesten; eller om nogen underviser, på undervisningen;
-v8 eller om nogen formaner, på formaningen; den som uddeler,{T: Til de fattige.} skal gøre det uden bagtanke; den som er forstander, skal være det med iver; den som øver barmhjertighed, skal gøre det med glæde!
-v9 Kærligheden skal være oprigtig; afsky det onde, hold jer til det gode;
-v10 vær i jeres broderkærlighed hinanden inderligt hengivne; overgå hinanden i at vise ære!{T: Kan også oversættes: >>kom hinanden i forkøbet med at vise ære<<.}
-v11 Vær ikke tøvende i jeres iver; vær brændende i Ånden; tjen Herren;
-v12 vær glade i håbet, udholdende i trængselen, vedholdende i bønnen!
-v13 Involvér jer i de helliges nød; stræb efter gæstfrihed!
-v14 Velsign dem som forfølger jer, velsign, og forband ikke!
-v15 Glæd jer med de glade og græd med de grædende!
-v16 Vær enige indbyrdes; stræb ikke efter de høje ting, men hold jer til det lave; anse ikke jer selv for kloge i jeres egne tanker!
-v17 Gengæld ikke nogen ondt med ondt; stræb efter{T: Ordret: >>tænk omhyggeligt over<<.} det der er godt over for alle mennesker!
-v18 Dersom det er muligt — så vidt det står til jer — da hold fred med alle mennesker!
-v19 Hævn ikke jer selv, I elskede, men giv plads for vreden;{T: Dvs. giv plads for Guds vrede.} for der er skrevet: >>Mig tilhører hævnen, jeg vil gengælde, siger Herren.<<
-v20 Men hvis din fjende sulter, giv ham mad; hvis han tørster, giv ham noget at drikke; for når du gør dette, vil du samle glødende kul på hans hoved.
-v21 Lad dig ikke overvinde af det onde, men overvind det onde med det gode!
-	
+v1 Jeg formaner jer da, brødre, ved Guds barmhjertighed til at bringe jeres kroppe som et levende, helligt og kærkomment offer for Gud; dette er jeres fornuftige gudstjeneste. v2 Tilpas jer ikke denne verden, men lad jer forvandle ved tankernes fornyelse så I kan vurdere hvad der er Guds vilje: Det gode, det kærkomne og fuldkomne.
+
+==Om nådegaver==
+
+v3 For jeg siger til enhver som er iblandt jer, ved den nåde som er blevet givet mig, at I ikke skal tænke højere om jer selv end I bør tænke, men I skal tænke forstandigt, svarende til det mål af tro Gud har tildelt enhver. v4 For ligesom vi har mange lemmer på én krop, men alle lemmer har ikke samme funktion, v5 således er vi mange én krop i Kristus, men hver for sig er vi hinandens lemmer. v6 Vi har forskellige nådegaver efter den nåde som er blevet givet os, enten profeti, og den skal bruges{T: Der er indsat: >>og den skal bruges<<.} i overensstemmelse med troen, v7 eller tjeneste, og den skal bruges{T: Der er indsat: >>og den skal bruges<<.} i tjenesten, eller den der underviser, skal gøre det{T: Her og i resten af afsnittet er >>skal gøre det<< indsat for forståelsens skyld.} i undervisningen, v8 eller den der formaner, skal gøre det i formaningen, den der deler med andre, skal gøre det gavmildt, den der leder, skal gøre det med iver, og den der viser barmhjertighed, skal gøre det med glæde. 
+
+==Om kærligheden til andre==
+
+v9 Kærligheden skal være oprigtig. Afsky det onde, hold jer til det gode, v10 vær hinanden hengivne i broderkærlighed, gå foran med at vise hinanden respekt, v11 vær ikke sløve i jeres iver, vær brændende i ånden, tjen Herren, v12 vær glade i håbet, vær udholdende i trængslen, vær vedholdende i bønnen, v13 hjælp de hellige i deres nød,{T: Ordret: >>tag del i de helliges nød<<.} stræb efter gæstfrihed. v14 Velsign dem som forfølger jer, velsign og forband ikke. v15 Vær glade med de glade, og græd med de grædende. v16 Vær enige indbyrdes, stræb ikke efter det høje, men knyt jer til det ringe, vær ikke kloge i jer selv. v17 Gengæld ingen ondt med ondt, vær opmærksomme på det gode i alle menneskers øjne, v18 Hvis det er muligt for jer, så hold fred med alle mennesker, v19 hævn jer ikke selv, elskede, men giv plads til vreden, for der står skrevet: >>Hævnen hører mig til, jeg vil gengælde, siger Herren.<< v20 Men hvis din fjende sulter, så giv ham noget at spise; hvis han tørster, så giv ham noget at drikke, for når du gør dette, samler du gloende kul på hans hoved. v21 Lad jer ikke overvinde af det onde, men overvind det onde med det gode. 
+
+
