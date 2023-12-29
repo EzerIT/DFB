@@ -495,11 +495,11 @@ $lessons1 = [
           <div class="table-responsive">
               <table class="table table-striped">
                   <tr>
-                      <th>Dag</th><th class="text-center">Dato i<br>2022-2023</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                      <th>Dag</th><th class="text-center">Dato i<br>2024-2025</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
                   </tr>
 
                   <?php
-                  $holidays = new Holiday(2022);
+                  $holidays = new Holiday(2024);
 
                   for ($hn=59; $hn<=66; ++$hn ) {
                       echo "<tr>\n";
@@ -515,7 +515,7 @@ $lessons1 = [
                       echo "</tr>\n";
                   }
 
-                  $holidays = new Holiday(2023);
+                  $holidays = new Holiday(2025);
 
                   for ($hn=0; $hn<=52; ++$hn ) {
                       echo "<tr>\n";
