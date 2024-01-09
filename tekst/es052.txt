@@ -1,29 +1,107 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 09.12.2021>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.01.2024>!!
 ===Esajas' Bog, kapitel 52===
 
-==Profeten lover Guds folk en uforskyldt og herlig befrielse gennem JHVHs tjener, 1-6; taler om, at evangeliet skal prædikes vidunderligt, 7-10; formaner de troende til at holde sig fra al urenhed og profeterer om Guds tjeners ophøjelse efter hans fornedrelse og om hedningernes omvendelse, 11-15.==
+==JHVHs folk skal bringes hjem==
 
+v1 Vågn op, vågn op, ifør dig din styrke, Zion, 
 
-v1 Vågn op, vågn op, klæd dig i din styrke, Zion! Tag din herligheds klæder på, Jerusalem, du hellige by! For ingen uomskåren eller uren skal mere komme ind i dig.
-v2 Ryst støvet af dig, rejs dig, tag plads på dit sæde, Jerusalem! Gør dig løs af lænkerne om din hals, du Zions fangne datter!
-v3 For sådan siger JHVH: I er solgt for intet, I skal heller ikke løskøbes med penge.
-v4 For sådan siger Herren JHVH: I begyndelsen tog mit folk ned til Egypten for at være fremmed dér; og så undertrykker Assur det for intet.
-v5 Og nu, hvad har jeg fået her? siger JHVH; for mit folk er bortført for intet; dets herskere hyler op, siger JHVH, og mit navn bliver spottet hele dagen.
-v6 Derfor skal mit folk lære at kende mit navn; ja, derfor, på denne dag; for det er mig, der taler, se, her er jeg.
+ifør dig dine pragtklæder, Jerusalem, du hellige by! 
 
-v7 Hvor herlige er fødderne på bjergene af en der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse, der siger til Zion: >>Din Gud er konge!<<
-v8 Hør, dine vægtere løfter røsten samtidigt! De jubler,{E: Der er tvivl om oversættelsen af det første *qôl*, der oftest skal oversættes >>røst<<, men her oftest opfattes som opfordring til at lytte. Sætningen kan dog også oversættes: >>Dine vægteres røst, de løfter røsten samtidig, de jubler<<.} for med egne øjne ser de at JHVH vender tilbage til Zion.
-v9 Råb med fryd, syng med jubel, alle I Jerusalems øde steder, for JHVH har trøstet sit folk, han har løskøbt Jerusalem.
-v10 JHVH har blottet sin hellige arm for alle folkenes{T: Kan også oversættes: >>hedningernes<<.} øjne, og alle jordens ender skal se vores Guds frelse.
+For ind i dig skal der ikke længere igen komme
 
-v11 Afsted, afsted! Gå bort fra den, rør ikke ved noget urent; gå væk fra dens midte {T: dvs. ud fra Babylon}, rens jer, I, der bærer JHVHs kar!
-v12 For I skal ikke tage af sted i hast, og heller ikke forsvinde i flugt; for foran jeres ansigt går JHVH, og Israels Gud er jeres bagtrop.
-v13 Se, min tjener får lykken med sig;{T: Kan også oversættes: >>skal handle klogt<<} han skal ophøjes og løftes op og blive vældig høj.
-v14 Ligesom mange blev forfærdede over ham{T: Den hebraiske tekst har: >>over dig<<, man følger som regel de gamle oversættelser.} – så skamferet var hans udseende at han ikke var som en mand, og hans skikkelse at han ikke var som menneskebørn - 
-v15 sådan skal han rense{T: Ordret: >>bestænke<<. Ofte følger man gamle oversættelser der oversætter: >>sætter i forundring<<.} mange folkeslag,{T: Kan også oversættes: >>hedninger<<} konger skal holde deres mund lukket for ham; for det der ikke var fortalt dem, har de set, og det de ikke havde hørt, har de erfaret.
+nogen uomskåren eller uren.
+
+v2 Ryst støvet af dig, rejs dig, 
+
+slå dig ned,{E: I stedet for tekstens: *ššᵊvî* (ordret: >>sæt dig<<), foreslås det ofte at der skulle stå: *šᵊvîyyāʰ*: >>du fangne<<. Det har dog ingen støtte i håndskrifter.} Jerusalem! 
+
+Gør dig fri af lænkerne om din hals, 
+
+du fangne Zions datter!
+
+v3 For sådan siger JHVH: I blev solgt for intet, I skal heller ikke løskøbes med penge.
+v4 For sådan siger Herren JHVH: Mit folk drog først ned til Egypten for at bo der som fremmede; og så undertrykte Assur det uden grund.{E: Oversættelsen af *bᵊʔefes* er omdiskuteret i sammenhængen. I de fleste sammenhænge ville det være: >>for intet<<. Andre foreslår: >>forgæves<<.}
+v5 Og nu, hvad{E: Den masoretiske tekst har: *-מי*, som forudsætter vokalisering: *-מִי*: >>hvem<<, men den masoretiske tekst har vokaliseret: *-ימַ *, der skulle skrives: *-מָה *: >>hvad<<. } er der for mig her? lyder JHVHs udsagn. For mit folk er taget for intet; de der hersker over det, jamrer, lyder JHVHs udsagn, og altid bliver mit navn spottet hele dagen.
+v6 Derfor skal mit folk lære mit navn at kende; derfor,{E: Nogle af de gamle oversættelser har ikke dette >>derfor<< (*lāxēn*). Det foreslås i stedet at læse: *yavîn*: >>skal forstå<<. Det er dog uden støtte i håndskrifterne.} på den dag, for det er mig der taler: se, her er jeg!
+***
+v7 Hvor herlige over bjergene 
+
+er fodtrinene af en der bringer glædeligt budskab,
+
+der forkynder fred, 
+
+der bringer glædesbudskab om noget godt, 
+
+der forkynder frelse, 
+
+der siger til Zion: 
+
+>>Din Gud er konge!<<
+
+v8 Lyt, dine vægtere løfter røsten, 
+
+de jubler sammen, 
+
+for med egne øjne{T: Ordret: >>øje ved øje<<., dvs. helt nært og tydeligt.} ser de 
+
+at JHVH vender tilbage til Zion.
+
+v9 Glæd jer, bryd sammen ud i jubel, 
+
+Jerusalems ruiner, 
+
+for JHVH har trøstet sit folk, 
+
+han har løskøbt Jerusalem.
+
+v10 JHVH har blottet sin hellige arm 
+
+for øjnene af alle folkene,{T: Kan også oversættes: >>hedningerne<<.} 
+
+og alle jordens ender skal se 
+
+vores Guds frelse.
+
+***
+
+v11 Bryd op, bryd op! Drag ud derfra, 
+
+rør ikke ved noget urent; 
+
+drag ud fra dens midte, 
+
+rens jer, I der bærer JHVHs kar!
+
+v12 For I skal ikke tage af sted i hast 
+
+og ikke flygte;{T: Ordret: >>gå i flugt<<.} 
+
+for foran jer{T: Ordret: >>foran jeres ansigt<<.} går JHVH, 
+
+og Israels Gud er jeres bagtrop.
+
+==JHVHs lidende tjener==
+
+v13 Se, min tjener får lykken med sig;{T: Kan også oversættes: >>skal handle klogt<<.} 
+
+han skal  knejse, og han løftes op og bliver meget ophøjet.
+
+v14 Ligesom mange gyste over ham{T: Den hebraiske tekst har: >>over dig<<; man følger som regel de gamle oversættelser.} 
+
+– så vansiret, så umenneskeligt{T: Kan også oversættes: >>ikke menneskeligt<<.} var hans udseende, 
+
+og hans skikkelse ikke som menneskebørns – 
+
+v15 sådan skal han rense{T: Ordret: >>bestænke<<. Ofte følger man gamle oversættelser der oversætter: >>sætte i forundring<<. Andre foreslår: >>få til at springe op<<.} mange folkeslag,{T: Kan også oversættes: >>hedninger<<.} 
+
+over ham skal konger lukke deres mund; 
+
+for det der ikke er blevet fortalt dem, ser de, 
+
+og det de ikke har hørt, forstår de.
 
 

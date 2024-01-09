@@ -91,7 +91,7 @@ og omfanget af dens styrke og dens elegante kropsbygning.{E: Teksten er vanskeli
 //9 v18 Når en angriber den med sværd,
 //11 bider det ikke på{T: Ordret: >>er det uden at det(sværdet) står op<<.}
 
-//10 hverken spyd, pil{: T: Ordret: >>brud-sten<<.} eller
+//10 hverken spyd, pil{T: Ordret: >>brud-sten<<.} eller
  lanse.
 
 //8 v19 Den betragter jern som strå

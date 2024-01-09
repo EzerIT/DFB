@@ -1,30 +1,148 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen m.fl.>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 14.04.2021>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.01.2024>!!
 ===Esajas' Bog, kapitel 54===
 
-==Esajas profeterer om udbredelsen af Guds menighed og om, hvordan JHVH med stor barmhjertighed skal holde sig til den som sin brud, 1-10; han vil smykke den herligt med Åndens gaver, beskytte den imod fjenderne, idet han selv leder alt til bedste for sine børn, 11-17.==
+==JHVH genrejser Jerusalem==
 
+v1 Råb af fryd, du ufrugtbare, du der ikke fødte! 
 
-v1 Syng med fryd, du ufrugtbare, du, der ikke fødte! Råb med frydesang, ja, råb højt, du, der ikke havde fødselssmerter! Den forladtes børn er nemlig flere end hendes, der har sin mand, siger JHVH.
-v2 Gør pladsen til dit telt større, og lad dem spænde din boligs tæpper ud, det skal du ikke forhindre; træk dine barduner langt ud, og sæt dine teltpæle fast!
-v3 for du skal brede dig til højre og venstre, og dit afkom skal arve hedningerne, og det skal befolke de øde byer.
-v4 Vær ikke bange, for du skal ikke blive skuffet, og vær ikke skamfuld, for du skal ikke komme til at skamme dig; for du skal glemme skammen over din ugifte stand og ikke mere huske din enkestands vanære.
-v5 For din skaber er din ægtemand, JHVH Zebaoth er hans navn; og din løskøber er Israels Hellige, han kaldes hele jordens Gud.
-v6 For JHVH har kaldet dig som en kvinde, forladt og bedrøvet i ånden, ja, som en ungdomshustru, der var forskudt, siger din Gud.
-v7 Et lille øjeblik forlod jeg dig, men i stor barmhjertighed vil jeg samle dig.{T: Som hyrden samler sin hjord.}
-v8 I overstrømmende vrede skjulte jeg et øjeblik mit ansigt for dig; men med evig, tilgivende kærlighed{T: Traditionelt oversat: >>nåde<<.} har jeg forbarmet mig over dig, siger din løskøber, JHVH.
-v9 For dette her er for mig som med Noas vande: som jeg svor at Noas vande ikke mere skulle oversvømme jorden, sådan har jeg svoret at jeg ikke mere vil være vred på dig eller skælde dig ud.
-v10 For bjergene kan flytte sig og højene vakle, men min tilgivende kærlighed{T: Traditionelt oversat: >>nåde<<.} skal ikke flytte sig fra dig, og min fredspagt skal ikke vakle, siger JHVH der forbarmer sig over dig.
+Bryd ud i frydefuld jubel, ja, råb af glæde, du der ikke havde veer! 
 
-v11 Du elendige, blæst omkuld af stormen! Du, der ikke er trøstet, se, jeg vil lægge dine byggesten i ædelt metal {T: Teksten har: >>Blyglans<<}og lægge din grundvold med safirer.
-v12 Og jeg vil lave dine murtinder af rubin og dine porte af ædelsten {T: Teksten har: >>Karbunkelstene<<} og hele din ringmur af kostbare sten.
-v13 Og alle dine børn skal være oplært af JHVH, og dine børn skal have stor fred.
-v14 Du skal gøres fast gennem retfærdighed; du skal være langt fra undertrykkelse, du skal nemlig ikke have noget at flygte for, og langt fra forfærdelse, for den skal ikke komme dig nær.
-v15 Se, er nogen fremmed, skal han dog ikke være langt fra mig; den, der er fremmed hos dig, skal tilfalde dig.
-v16 Se, jeg har skabt smeden, der blæser en kulild op og laver et redskab til dets brug, og jeg har skabt ødelæggeren til at ødelægge.
-v17 Intet redskab, der er lavet for at blive brugt imod dig, skal virke, og hver tunge, der rejser sig imod dig i retten, skal du få dømt; det er JHVHs tjeneres arv og deres retfærdighed, der kommer fra mig, siger JHVH.
+For den forladtes børn{T: Kan også oversættes: >>sønner<<.} er flere end den giftes børn, 
+
+siger JHVH.
+
+v2 Gør pladsen til dit telt større, 
+
+og de skal spænde din boligs teltduge ud, 
+
+det må du ikke afholde dig fra; 
+
+gør dine barduner lange, 
+
+og sæt dine pløkker fast!
+
+v3 for du skal brede dig til højre og venstre,{T: Kan også oversættes: >>mod syd og nord<<. Den hebraiske tekst har dog her ikke de oftest brugte ord for nord og syd.} 
+
+og dit afkom skal tage folkeslag{T: Kan også oversættes: >>hedninger<<.} i eje, 
+
+og øde byer skal de gøre beboelige.
+
+***
+
+v4 Frygt ikke, for du skal ikke skamme dig, 
+
+og vær ikke beskæmmet, for du skal ikke komme til at skamme dig; 
+
+for du skal glemme din ungdoms skam, 
+
+og din enkestands vanære skal du ikke mere huske.
+
+v5 For din ægtemand{T: Det hebraiske ord står i pluralis, der må opfattes som pluralis majetatis. Sætningen oversættes af nogle: >>Din skaber tager dig til hustru<<.} er din skaber,
+
+Hærskarers{N: Hærskarers} JHVHv er hans navn; 
+
+og din løskøber er Israels Hellige, 
+
+han skal kaldes hele jordens Gud.
+
+v6 For som en forladt hustru der var forladt
+
+og bedrøvet i ånden, har JHVH kaldet dig,
+
+som en ungdomshustru – skulle hun forstødes? 
+
+siger din Gud.
+
+***
+
+v7 Et lille øjeblik forlod jeg dig, 
+
+men i stor barmhjertighed vil jeg samle dig.{T: Som hyrden samler sin hjord.}
+
+v8 I overstrømmende vrede skjulte jeg et øjeblik mit ansigt for dig; 
+
+men med evig nåde forbarmer jeg mig over dig, 
+
+siger din løskøber, JHVH.
+
+***
+
+v9 For dette er for mig som Noas vande: 
+
+Som jeg svor 
+
+at Noas vande ikke mere skulle oversvømme jorden, 
+
+sådan har jeg svoret ikke at være vred på dig eller true dig.
+
+v10 Om også bjergene flytter sig 
+
+og højene vakler, 
+
+så flytter min nåde sig ikke fra dig, 
+
+og min fredspagt vakler ikke, 
+
+siger JHVH, der forbarmer sig over dig.
+
+***
+
+v11 Du arme, blæst omkuld af storm, ikke trøstet, 
+
+se, jeg lægger dine sten i mørtlen{E: Betydningen af ordet *pûx* er omdiskuteret. Det betegner normalt øjensminke og kan måske oversættes: >>i smukke farver<<, og er da udtryk for at Gud vil smykke sit folk. Men her går man ud fra, at det betegner mørtel. Andre går på baggrund af Septuaginta ud fra at der skulle stå: *nōfex*: >>malakit<<.}
+
+og lægger din grundvold med safirer.
+
+v12 Og jeg sætter dine murtinder med rubin{T: Det er usikkert hvilken ædelsten der er tale om. Det hebraiske ord findes kun her og Ez 27,16. Mange tænker på >>rubin<<, andre foreslår: >>agat<<.} 
+
+og dine porte med karfunkelsten 
+
+og hele din ringmur med ædelsten.
+
+v13 Og alle dine sønner skal være JHVHs elever, 
+
+og dine børn skal have stor fred.
+
+v14 Du skal grundfæstes på{T: Kan også oversættes: >>ved hjælp af/gennem<<.} retfærdighed; 
+
+du skal være{T: Den hebraiske tekst har imperativ, men her må den opfattes som løfte.} langt fra undertrykkelse, 
+
+for du skal ikke frygte, 
+
+og fra terror, 
+
+for den skal ikke komme dig nær.
+
+v15 Se, hvis man angriber, er intet fra mig; 
+
+den der angriber dig, skal tilfalde dig.{T: Der er nok en dobbelthed i den hebraiske formulering: Enten skal angriberen falde for Israel, eller han skal blive Israels ven.}
+
+***
+
+v16 Se, jeg har skabt en smed 
+
+der blæser en kulild op 
+
+og laver et redskab til sit brug, 
+
+og jeg har skabt en ødelægger til at tilintetgøre.
+
+v17 Hvert redskab der er lavet imod dig, 
+
+skal ikke være effektivt, 
+
+og hver tunge der rejser sig imod dig i retten, 
+
+skal du få dømt. 
+
+Det er JHVHs tjeneres arv, 
+
+og deres retfærdighed kommer fra mig, 
+
+lyder JHVHs udsagn.
 
 

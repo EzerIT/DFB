@@ -198,9 +198,9 @@ $style['præd']    = $modenhed['ufuldstændigt'];
 
 for ($k=1; $k<=7; ++$k)
     $style['es'][$k] = $modenhed['færdig'];
-for ($k=8; $k<=49; ++$k)
+for ($k=8; $k<=55; ++$k)
     $style['es'][$k] = $modenhed['delvis færdig'];
-for ($k=50; $k<=66; ++$k)
+for ($k=56; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['rå oversættelse'];
 
 $style['jer']     = [ 1  => $modenhed['færdig'],

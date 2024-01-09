@@ -1,26 +1,120 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.01.2024>!!
 ===Esajas' Bog, kapitel 50===
 
-==JHVH minder om, at det ikke er ham, der er årsag til, at jøderne er blevet forskudt, men deres utroskab imod ham, der er en almægtig Gud, 1-5; i sin lidelse trøster Messias sig med sin Fars hjælp og med sin retfærdighed og uskyld, 6-9; han trøster de troende og lydige med JHVHs hjælp i nød og fristelse og truer de ubodfærdige med angst og smerte, 10-11.==
+==Israel bliver tugtet på grund af sin synd==
+v1 Sådan siger JHVH: 
 
+>>Hvor er jeres mors skilsmissebrev, 
 
-v1 Sådan siger JHVH: Hvor er jeres mors skilsmissebrev, som jeg skulle have sendt hende bort med? eller hvem skyldte jeg penge, så jeg skulle have solgt jer til ham? Næ, I er solgt på grund af jeres misgerninger, og jeres mor er sendt bort på grund af jeres overtrædelser.
-v2 Hvorfor er der ingen, når jeg kommer? Hvorfor svarer ingen, når jeg kalder? Er min hånd blevet så kort, at den ikke kan befri? eller er der ingen kraft hos mig til at frelse? Se, jeg tørrer havet ud ved min trussel, jeg gør floder til ørken, så deres fisk stinker, fordi der ikke er vand, og de dør af tørst.
-v3 Jeg giver himlen sort tøj på og dækker den med sørgedragt.
-v4 Herren JHVH har givet mig de udlærtes tunge, så jeg kan styrke den trætte med et ord; han vækker mig hver morgen, ja, han vækker mit øre til at høre som de, der er udlært.
-v5 Herren JHVH har åbnet øret for mig, og jeg strittede ikke imod, jeg veg ikke tilbage.
+hvormed jeg har sendt hende bort? 
 
-v6 Jeg vendte min ryg hen til dem, der slog mig, og mine kinder til dem, der rykkede mig i skægget; jeg gemte ikke mit ansigt for hån og spyt.
-v7 Men Herren JHVH skal hjælpe mig, derfor bliver jeg ikke til skam, derfor gjorde jeg mit ansigt som en hård sten, og jeg ved, at jeg ikke bliver gjort til skamme.
-v8 Han, der gør mig retfærdig, er nær; Hvem vil ligge i strid med mig? Lad os træde frem sammen; Hvem er det, der fører sag imod mig? Lad ham komme her hen til mig!
-v9 Se, Herren JHVH skal hjælpe mig; hvem er den, der kan fordømme mig? Se, de skal alle sammen slides op som et stykke tøj, møl skal æde dem op.
+Eller hvem af mine kreditorer er det 
 
-v10 Er der nogen iblandt jer, der frygter JHVH, og der adlyder hans tjeners stemme? Når han går i mørket og ikke har lysets skin, skal han have tillid til JHVHs navn, ja, stole fast på sin Gud.
-v11 Se, alle I, der tænder ild og omgiver jeg med blus, gå I bare ved lyset fra jeres ild og ved de blus, I har tændt! Fra min hånd skal dette komme over jer, I skal ligge i smerte.
+som jeg skulle have solgt jer til? 
 
+Nej, på grund af jeres syner blev I solgt, 
+
+og på grund af jeres overtrædelser blev jeres mor sendt bort.
+
+v2 Hvorfor var der ingen da jeg kom? 
+
+Hvorfor{T: >>Hvorfor<< er underforstået fra foregående sætning.} svarede ingen da jeg kaldte? 
+
+Er min arm blevet alt for kort til at forløse? 
+
+Og er der ingen kraft hos mig til at redde? 
+
+Se, ved min trussel tørrer jeg et hav ud, 
+
+jeg gør floder til ørken, 
+
+så deres fisk stinker fordi der ikke er vand, 
+
+og så de dør af tørsten.
+
+v3 Jeg klæder himlene i sort{T: Kan også oversættes: >>i mørke<<. Der er her og i næste linje tænkt på sørgedragt.} 
+
+og giver dem sæk som dække.<<
+
+==JHVHs tjener==
+v4 Herren JHVH har givet mig 
+
+disciples tunge, 
+
+så jeg kan vide at støtte{E: Den præcise betydning af grundtekstens ord (*ʕût*), der kun forekommer her, er ikke klar.} den trætte med ord. 
+
+Han vækker hver morgen, han vækker mit øre 
+
+til at høre som disciplene.
+
+v5 Herren JHVH har åbnet mit øre, 
+
+og jeg strittede ikke imod, 
+
+jeg veg ikke tilbage.
+
+v6 Jeg vendte min ryg til dem der slog, 
+
+og mine kinder til dem der rev i skægget; 
+
+jeg skjulte ikke mit ansigt 
+
+for hån og spyt.
+
+***
+
+v7 For Herren JHVH vil hjælpe mig, 
+
+derfor er jeg ikke blevet beskæmmet, 
+
+derfor gjorde jeg mit ansigt som flinten, 
+
+og jeg vidste, at jeg ikke bliver gjort til skamme.
+
+v8 Han der erklærer mig retfærdig, er nær. 
+
+Hvem vil ligge i strid med mig? 
+
+Lad os træde frem sammen! 
+
+Hvem har en sag imod mig? 
+
+Lad ham komme hen til mig!
+
+v9 Se, Herren JHVH vil hjælpe mig; 
+
+hvem er han der vil dømme mig skyldig? 
+
+Se, de skal alle slides op som tøjet, 
+
+møl skal æde dem.
+
+***
+
+v10 Hvem blandt jer frygter JHVH{E: Ordret: >>er JHVH-frygtende<<.} 
+
+så han adlyder{E: Septuaginta og den syriske oversættelse forudsætter finit verbum (*yišmaʕ*), der skal oversættes: >>skal adlyde<<, i stedet for den hebraiske teksts participium (*šōmēₐʕ*).} hans tjeners stemme? 
+
+Den der vandrer i mørke og ikke har noget lys, 
+
+skal stole på JHVHs navn 
+
+og støtte sig til sin Gud.
+
+v11 Se, alle I der tænder ild, 
+
+som ruster jer med brandpile, 
+
+gå I selv ind i jeres ilds flamme 
+
+og i de brandpile I har tændt! 
+
+Fra min hånd kommer dette over jer, 
+
+på et pinested skal I ligge.
 
 
