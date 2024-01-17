@@ -116,6 +116,10 @@ makemenus(1);
               </div>
             <?php endforeach; ?>
 
+            <label for="fontsize">Skriftstørrelse (10-500% af normal):</label>
+            <input type="number" id="fontsize" name="fontsize" min="10" max="500">%
+
+                
             <p>&nbsp;</p>
 
             <h4>Bevar præferencer:</h4>

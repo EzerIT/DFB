@@ -19,3 +19,4 @@
    setdefault('markadded',  'off');
    setdefault('godsname',   'HERREN');
    setdefault('font',       'Helvetica');
+   setdefault('fontsize',   '100');

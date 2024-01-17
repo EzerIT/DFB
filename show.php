@@ -70,21 +70,27 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     <style>
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
+        font-size: 130%;   /* Configure */
+    }
+
+    .biblenotes {
+        font-family: <?= $allfonts[$_SESSION['font']] ?>;
+        font-size: 130%;   /* Configure */
     }
 
     span.verseno {
         vertical-align: super;
-        font-size: x-small;
+        font-size: 0.625em;
     }
 
     h2 {
-        font-size: large;
+        font-size: 1.125em;
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         text-transform: none;
     }
 
-    h2 small {
-      font-size: 75%;
+    h2 small { /* Used for "ERREN" in "HERREN" */
+      font-size: 85%;
       color: #333333;
       font-weight: 700;
     }
@@ -114,6 +120,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
         text-align: left;
         max-width: 70%;
         min-width: 100px;
+        font-size: 130%; /* Configure */
      }
      
     div.paragraph {
@@ -269,7 +276,7 @@ makemenus(null);
                           offset-sm-<?= $show_note ? 1 : 2 ?> col-sm-<?= $show_note ? 10 : 8 ?>">
                   <div class="card mt-3">
                       <h1 class="card-header bg-info text-light">Henvisninger</h1>
-                      <div class="card-body">
+                      <div class="card-body biblenotes">
                           <small>
                           <?php foreach ($references as $v => $ref): ?>
                               <?php $format_ref = formatref($ref,'.',false); ?>
@@ -288,7 +295,7 @@ makemenus(null);
                           offset-sm-1 col-sm-10">
                   <div class="card mt-3">
                       <h1 class="card-header bg-info text-light">Fodnoter</h1>
-                      <div class="card-body">
+                      <div class="card-body biblenotes">
                           <small id="footnotes">
                           </small>
                       </div>
@@ -317,7 +324,7 @@ makemenus(null);
                     offset-sm-2 col-sm-8">
             <div class="card mt-3">
                 <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
-                <div class="card-body">
+                <div class="card-body biblenotes">
                     <?php foreach ($credit as $c): ?>
                         <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
                     <?php endforeach; ?>
