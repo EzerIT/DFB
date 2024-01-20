@@ -153,7 +153,6 @@ makemenus(0);
       <div class="credit mt-3">
         <p>Idé til website-design: <a target="_blank" href="https://startbootstrap.com/">Start Bootstrap</a></p>
         <p>Baggrund: <a target="_blank" href="https://backgroundlabs.com/">Background Labs</a></p>
-        <p>Foto: Death to the Stock Photo</p>
       </div>
     </div>
   </div><!--End of row-->
