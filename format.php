@@ -27,7 +27,7 @@ makemenus(1);
         <h1 class="card-header bg-info text-light">Sæt dine læsepreferencer</h1>
         <div class="card-body">
 
-          <img class="img-fluid float-right d-none d-lg-block" style="margin-top: 60px" src="img/Community5-400.jpg" alt="">
+          <img class="img-fluid float-right d-none d-lg-block" style="margin-top: 60px" src="img/pexels-andrea-piacquadio-920387.jpg" alt="">
           <form action="updatepref.php" method="post" accept-charset="utf-8">
             <input type="hidden" name="referer"
                    value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : 'index.php' ?>">

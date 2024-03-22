@@ -484,7 +484,7 @@ $lessons1 = [
     <div class="col-lg-10 col-xl-9">
       <div class="card mt-4">
         <div class="card-body">
-          <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/61.jpg" alt="">
+          <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/pexels-mart-production-7220071-mod.jpg" alt="">
           <h1>Kirkeårets prædikentekster</h1>
 
           <p>På denne side vil der gradvis opstå links til Den Frie Bibels oversættelse af
