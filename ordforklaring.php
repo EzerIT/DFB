@@ -28,11 +28,13 @@ mb_internal_encoding('UTF-8');
                       if (!file_exists($file))
                           $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.html';
                   ?>
+                  <div style="font-size: <?= $_SESSION['fontsize'] ?>%">
                   <?php if (!file_exists($file)): ?>
                       <p class="card-text bg-warning">Ordforklaring findes ikke.</p>
                   <?php else: ?>
                       <?= replaceit_ordforkl($file) ?>
                   <?php endif; ?>
+                  </div>
               <?php endif; ?>
 
               <a class="btn btn-secondary" href="#" onclick="window.history.go(-1)">Tilbage</a>

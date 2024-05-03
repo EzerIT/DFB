@@ -70,12 +70,12 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     <style>
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
-        font-size: 130%;   /* Configure */
+        font-size: <?= $_SESSION['fontsize'] ?>%;
     }
 
     .biblenotes {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
-        font-size: 130%;   /* Configure */
+        font-size: <?= $_SESSION['fontsize'] ?>%;
     }
 
     span.verseno {
@@ -120,7 +120,7 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
         text-align: left;
         max-width: 70%;
         min-width: 100px;
-        font-size: 130%; /* Configure */
+        font-size: <?= $_SESSION['fontsize'] ?>%;
      }
      
     div.paragraph {
