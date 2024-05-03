@@ -41,23 +41,18 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
     <style>
     .bibletext {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
+        font-size: <?= $_SESSION['fontsize'] ?>%;
     }
 
     span.verseno {
         vertical-align: super;
-        font-size: x-small;
+        font-size: 0.625em;
     }
 
     h2 {
-        font-size: large;
+        font-size: 1.125em;
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         text-transform: none;
-    }
-
-    h2 small {
-      font-size: 75%;
-      color: #333333;
-      font-weight: 700;
     }
 
 
