@@ -13,7 +13,7 @@ makemenus(3);
     <div class="col-lg-10 col-xl-9">
       <div class="card mt-4">
         <div class="card-body">
-          <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/Meticulous-09-400.jpg" alt="">
+          <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/pexels-tima-miroshnichenko-5199817.jpg" alt="">
           <h1>Mål&shy;sæt&shy;ning med over&shy;sæt&shy;tel&shy;sen</h1>
               
           <p>Den Frie Bibel bliver skabt ud fra disse oversættelsesprincipper:</p>

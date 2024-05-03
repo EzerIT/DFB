@@ -74,7 +74,7 @@ makemenus(2);
               <p><span style="width: 130px;" class="btn btn-sm btn-info">Delvis færdig</span></p>
               <p><span style="width: 130px;" class="btn btn-sm btn-success">Færdig</span></p>
               <p>&nbsp;</p>
-            <img class="img-fluid" src="img/Community1-300.jpg" alt="">
+            <img class="img-fluid" src="img/pexels-jessika-arraes-19561462.jpg" alt="">
             </div>
           </div>
 

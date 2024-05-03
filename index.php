@@ -12,7 +12,7 @@ makemenus(0);
     <div class="col-md-9">
       <div class="card mt-4">
         <div class="card-body">
-          <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/Community6-300.jpg" alt="">
+          <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/pexels-tima-miroshnichenko-5199809-mod.jpg" alt="">
     
           <h1>Vel&shy;kom&shy;men til Den Frie Bibel</h1>
 
@@ -151,9 +151,9 @@ makemenus(0);
   <div class="row">
     <div class="col-sm-6">
       <div class="credit mt-3">
+        <p>Fotografier: <a target="_blank" href="https://www.pexels.com/da-dk/">Pexels</a></p>
         <p>Idé til website-design: <a target="_blank" href="https://startbootstrap.com/">Start Bootstrap</a></p>
         <p>Baggrund: <a target="_blank" href="https://backgroundlabs.com/">Background Labs</a></p>
-        <p>Foto: <a target="_blank" href="https://deathtothestockphoto.com/">Death to the Stock Photo</a></p>
       </div>
     </div>
   </div><!--End of row-->
