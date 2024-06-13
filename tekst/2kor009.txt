@@ -1,33 +1,21 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 03.03.2021>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 9===
 
-==Paulus er overbevist om korinthernes beredvillighed, 1-2; men for at hans rosende omtale af dem ikke skal blive gjort til skamme, sender han brødrene i forvejen, for at indsamlingen kan være færdig, når han selv kommer, 3-5. Han opfordrer til at give rigeligt og villigt; Gud er mægtig til at give evnen til det og gøre deres gerning frugtbar, 6-10. Denne indsamling vil også blive til Guds ære ved mange taksigelser for korinthernes sindelag og knytte et inderligt bånd imellem dem og modtagerne, 11-15.==
 
+==Opfordring til gavmildhed==
 
+v1 For det er overflødigt at jeg skriver til jer om hjælpen til de hellige, v2 for jeg kender jeres gode vilje, som jeg er stolt af over for makedonerne, så Akaja har været beredt fra sidste år, og jeres iver har tilskyndet de fleste. v3 Men jeg sender brødrene for at vores stolthed over jer ikke skal blive til intet i denne sag for at, som jeg har sagt, I må være beredte, v4 og for at vi ikke, når makedonierne kommer sammen med mig og finder jer uforberedte, skal blive skuffet, for ikke at sige I, i denne tillid. v5 Derfor har jeg anset det for nødvendigt at bede brødrene om at rejse i forvejen til jer og på forhånd bringe jeres rigelige gave i orden som I forud har lovet, så den kan være rede som en rigelig gave og ikke som en smålig.
 
-v1 For om hjælpen til de hellige er det overflødigt at skrive til jer;
-v2 jeg kender jo jeres villighed, som jeg roser mig af jer for hos makedonerne, at nemlig Akaja allerede fra i fjor har været forberedt; og jeres iver inspirerede de fleste.
+v6 Men det er sådan: Den som sår sparsomt, høster også sparsomt, og den som sår rigeligt, høster også rigeligt. v7 Enhver skal give{T: >>Skal give<< er indsat.} som hans hjerte har besluttet, ikke med bedrøvelse eller af tvang, for >>Gud elsker en glad giver<<. v8 Men Gud kan give jer al nåde i overflod for at I altid i alt kan have et godt udkomme og være rige på al god gerning, v9 ligesom der står skrevet:
 
+>>Han strøede ud, han gav til de fattige,
 
-v3 Men jeg sender brødrene, for at vores ros over jer i dette stykke ikke skal vise sig tom, og for at I, som jeg sagde, må være forberedte,
-v4 for at ikke, når der kommer makedonere med mig, og de finder jer uforberedte, vi (for ej at sige I) så skal blive til skamme med denne tillidsfuldhed.
-v5 Derfor har jeg anset det for nødvendigt at opfordre brødrene til at gå i forvejen til jer og på forhånd bringe jeres tidligere lovede velsignelse til udførelse, for at den kan være forberedt som velsignelse og ikke som griskhed.
+hans retfærdighed forbliver til evig tid.<<
 
-
-v6 Men altså: Den der sår sparsomt, skal også høste sparsomt, og den der sår med velsignelser, skal også høste med velsignelser.
-v7 Hver især skal gøre efter hvad han har sat sig for i sit hjerte, ikke tvært eller af tvang; for Gud elsker en glad giver.
-v8 Men Gud er mægtig til at lade jer få al nåde rigeligt for at I i alting altid kan have tilstrækkeligt udkomme og have rigeligt til al god gerning,
-v9 som der står skrevet: >>Han spredte ud, han gav til de fattige, hans retfærdighed varer ved til evig tid.<<
-v10 Men han der giver >>sædemanden sæd og brød at spise,<< han vil også give og mangfoldiggøre jeres sædekorn og give jeres retfærdigheds frugter vækst,
-v11 så I bliver rige på alle måder til al gavmildhed, der igennem os virker taksigelse til Gud.
-v12 At yde denne offertjenestes afhjælper nemlig ikke alene de helliges behov, men giver også et overskud ved manges taksigelser til Gud,
-v13 når de ved det prøvede sind, som denne ydelse viser, priser Gud for lydigheden i jeres bekendelse til Kristi evangelium og for oprigtigheden i jeres fællesskab med dem og med alle,
-v14 også ved deres bøn for jer, idet de længes efter jer på grund af Guds overvældende nåde imod jer.
-v15 Gud ske tak for hans uudsigelige gave!
-
+v10 Men han som giver ham der sår, korn og brød at spise, vil også give og forøge jeres korn og lade jeres retfærdigheds frugter vokse. v11 I vil blive rige på enhver gavmildhed som frembringer tak til Gud gennem os, v12 for denne tjenestes hjælp udfylder hvad de hellige mangler, men giver også overflod ved mange taksigelser til Gud. v13 Ved denne prøvede troskab i jeres tjeneste priser de Gud på grund af lydigheden mod jeres bekendelse til Kristi evangelium og på grund af oprigtigheden i fællesskabet med dem og med alle, v14 mens de med deres bøn for jer længes efter jer på grund af Guds overvældende nåde mod jer. v15 Gud ske tak for hans uudsigelige gave.
 
 

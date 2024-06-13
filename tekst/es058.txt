@@ -1,28 +1,147 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
-!!<Literært tjek: Endnu ikke sket>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 28.05.2021>!!
-
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 58===
 
-==Profeten irettesætte hårdt jødernes hykleriske gudsdyrkelse, især deres hykleriske faste, 1-5; og viser dem, hvad der er rigtig faste for Gud og den gudsdyrkelse, der behager ham, og som der følger stor velsignelse med, 6-14.==
+==Sand og falsk faste og tilbedelse==
 
+v1 Råb af fuld hals, hold ikke tilbage, 
 
-v1 Råb af fuld hals, spar ikke på den, løft din stemme som en basun, og meddel mit folk deres overtrædelser og Jakobs hus deres synder!
-v2 Mig søger de dagligt, og de har lyst til at kende mine veje; som om de var et folk, der havde øvet retfærdighed og ikke forladt sin Guds lov, spørger de mig om retfærdige love, de har lyst til at komme nær til Gud.
-v3 >>Hvorfor faster vi, og så ser du det ikke? Hvorfor er vi strenge imod os selv, og så vil du ikke vide af det?<< Se, på den dag, I faster, får I, hvad der lyster jer, og I har travlt med alle jeres gøremål.
-v4 Se, I faster for at kives og strides og for at slå med ugudeligheds næve; I faster ikke på den dag, så I får jeres stemme hørt i det høje.
-v5 Mon det er en faste som denne jeg foretrækker, en dag hvor et menneske er streng imod sig selv?{T: Ordret: >>mod sin sjæl<<.} At hænge med hovedet som et siv eller ligge i{T: Ordret: >>bruge som seng<<.} sæk og aske – vil du kalde det en faste og en velbehagelig dag for JHVH?
+løft din stemme som hornet, 
 
-v6 Mon ikke dette er en faste jeg foretrækker: At løse ugudeligheds lænker, sprænge ågets bånd, frigive undertrykte, og at I brækker hvert åg?
-v7 Mon det ikke er at dele dit brød med den sultne, og at du lader de elendige hjemløse komme i dit hus? Når du ser en nøgen, at du så klæder ham på, og at du ikke holder dig væk fra dit eget kød?{T: Der er enten ment slægtning eller medmenneske.}
-v8 Så skal dit lys bryde frem som morgenrøden, og din helbredelse skal komme hurtigt, og din retfærdighed skal gå foran dit ansigt, JHVHs herlighed skal være bagvagt for dig.
-v9 Da skal du kalde, og JHVH skal svare dig; du skal råbe, og han skal sige: >>Se, her er jeg,<< hvis du fjerner åget fra din midte og ikke peger fingre og ikke taler ondskab.{T: Ordret: >>hvis du fra din midte fjerner åg, at pege fingre og at tale ondskab<<.}
-v10 Hvis du rækker den sultne dig selv,{T: Ordret: >>din egen sjæl<<.} og mætter en forkuet sjæl, så skal dit lys bryde frem i mørket, og dit mulm skal blive som midt på dagen.
-v11 Og JHVH skal altid lede dig og mætte din sjæl i tørre egne, og han vil styrke dine knogler, du bliver som en vandrig have og som et kildevæld hvis vand ikke svigter.
-v12 Og de der nedstammer fra dig, skal genopbygge gamle ruiner, du skal genrejse grundvolde der har ligget hen fra slægt til slægt, og du skal kaldes Den-der-murer-det-revnede-til, Den-der-udbedrer-nedrevne-bygninger.{E: Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvāʰ* oversættes i alle andre sammenhænge: >>sti/vej<<, så oversættelsen kan være: >>Den-der-udbedrer-stier, hvor man kan bo<<. Men her forstås ordet oftest om nedrevne bygninger.}
-v13 Hvis du holder din fod i ro på sabbatten og på min hellige dag ikke gør, hvad du selv har lyst til, og hvis du kalder sabbatten en lyst og JHVHs helligdag en herlighed, og hvis du ærer ham, så du ikke går dine egne veje og ikke gør, hvad der behager dig, og ikke taler tom snak,
-v14 så skal du fryde dig i JHVH, og jeg vil lade dig færdes over landets høje og lade dig nyde din far Jakobs arv; for JHVHs mund har talt.
+og fortæl mit folk deres overtrædelse 
+
+og Jakobs hus deres synder!
+
+v2 Men mig søger de dag for dag, 
+
+og de ønsker at kende mine veje; 
+
+som et folk der har øvet retfærdighed 
+
+og ikke forladt sin Guds lov, 
+
+spørger de mig om retfærdige love, 
+
+de ønsker at komme nær til Gud.
+
+v3 >>Hvorfor har vi fastet, og du så det ikke? 
+
+Vi har ydmyget os selv,{T: Ordret: >>vores sjæl<<.} men du bemærkede det ikke.<< 
+
+Se, på den dag I faster, driver I handel,{T: Kan også oversættes: >>finder I fornøjelse<<.} 
+
+og alle jeres arbejdere skynder I på.
+
+v4 Se, I faster for at kives og strides{T: Ordret: >>for kiv og strid<<.} 
+
+og for at slå med ondskabs næve;{T: Skal muligvis oversættes: >>kølle<<.} 
+
+I faster ikke i dag 
+
+for at jeres stemme skal blive hørt i det høje.
+
+v5 Mon det er en faste som denne jeg foretrækker, 
+
+en dag hvor et menneske ydmyger sig selv?{T: Ordret: >> sin sjæl<<.} 
+
+Er det at hænge med sit hoved som et siv 
+
+eller ligge i{T: Ordret: >>bruge som seng<<.} sæk og aske – 
+
+vil du kalde det en faste 
+
+og en velbehagelig dag for JHVH?
+
+***
+
+v6 Mon ikke dette er en faste jeg foretrækker: 
+
+At løse ondskabs lænker, 
+
+løsne ågets bånd, 
+
+og give undertrykte frihed, 
+
+og at I sønderbryder hvert åg?
+
+v7 Mon det ikke er at dele{T: Ordret: >>bryde<<.} dit brød med den sultne, 
+
+og at du bringer de fattige hjemløse til dit hus, 
+
+når du ser en nøgen, at du så klæder ham på, 
+
+og at du ikke skjuler dig for dit eget kød?{T: Der er enten ment slægtning eller medmenneske.}
+
+v8 Så skal dit lys bryde frem som morgenrøden, 
+
+og din helbredelse skal hurtigt spire frem, 
+
+og din retfærdighed går foran dit ansigt, 
+
+JHVHs herlighed slutter bag dig.
+
+v9 Da skal du kalde, og JHVH skal svare dig; 
+
+du skal råbe om hjælp, og han skal sige: >>Se, her er jeg!<<
+
+*** 
+
+Hvis du fra din midte fjerner åg, 
+
+at pege finger og tale ondskab,
+
+v10 rækker den sultne dig selv{T: Ordret: >>din sjæl<<. Mange oversættere vælger at følge bl.a. Septuaginta, der i stedet for *nafšexā* (>>din sjæl<<) har forudsat: *laḥmexā*: >>dit brød<<.} 
+
+og mætter en forkuet sjæl, 
+
+så skal dit lys bryde frem i mørket 
+
+og dit mulm blive som midt på dagen.
+
+v11 Og JHVH skal altid lede dig 
+
+og mætte din sjæl i afsvedne egne, 
+
+og han vil styrke dine knogler, 
+
+og du bliver som en vandrig have 
+
+og som et kildevæld 
+
+hvis vand ikke svigter.
+
+v12 Og de der nedstammer fra dig, skal genopbygge fortids ruiner, 
+
+du skal genrejse fundamenter der har ligget hen fra slægt til slægt, 
+
+og du skal kaldes Den-der-murer-revne-til, 
+
+Den-der-genrejser-ruiner-til-at-bo-i.{E: Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvôt* (>>ruiner<<) oversættes i alle andre sammenhænge: >>stier/veje<<, så oversættelsen her kan være: >>Den-der-udbedrer-stier, hvor man kan bo<<. Men her forstås ordet oftest om ruiner. Det foreslås undertiden at der er en stavefejl, så der skulle stå: *nᵊtîṣôt*.}
+
+***
+
+v13 Hvis du holder din fod i ro på sabbatten,{T: Ordret: >>hvis du holder din fod tilbage fra sabbatten<<.} 
+
+fra at udføre dine anliggender{E: Ordet: *ḥēfeṣ* oversættes i de fleste sammenhænge: >>glæde/ønske/lyst<<. Mange håndskrifter har singularis.} på min hellige dag, 
+
+og kalder sabbatten en fryd 
+
+og JHVHs hellige ærværdig 
+
+og ærer den,{T: Kan også oversættes: >>ham<<.} så du ikke går dine egne veje, 
+
+ikke driver din handel og taler tomt ord,
+
+v14 så skal du fryde dig i JHVH, 
+
+og jeg vil lade dig færdes over landets høje 
+
+og lade dig nyde din far Jakobs arvelod. 
+
+For JHVHs mund har talt.
+
 
 

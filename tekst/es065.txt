@@ -1,40 +1,227 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 06.11.2021>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 65===
 
-==Esajas profeterer om, at hedningerne skal omvendes og jødernes forkastes på grund af deres genstridighed, afguderi og andre synder, 1-7; han trøster dog de bodfærdige og lover at skåne og velsigne dem, 8-10; han klager igen over jødernes afguderi og lover de troende velsignelse, men de vantro truer han med forbandelse, 11-16; han lover de troende evig glæde og fred i den nye himmel og jord og i det nye Jerusalem, 17-25.==
+==Guds svar: Straf over de ugudelige==
 
+v1 Jeg lod mig opsøge af dem der ikke spurgte, 
 
-v1 Jeg er søgt af dem, der ikke spurgte efter mig, jeg er fundet af dem, der ikke ledte; jeg sagde til et folk, der ikke er kaldt med mit navn: >>se, her er jeg, se, her er jeg.<<
-v2 Jeg strakte mine hænder ud hele dagen mod et genstridigt folk, der vandrer ad en vej, som ikke er god, og vandrer efter deres egne tanker; 
-v3 og mod det folk, der hele tiden krænker mig lige op i ansigtet, og der ofrer i haverne, og der tænder røgelse på teglstenene;
-v4 mod dem, der bor i gravene og holder til om natten i afkrogene, dem, der spiser svinekød og har modbydelig suppe i deres gryder;
-v5 mod dem, der siger: >>Hold dig væk, kom ikke hen til mig, for jeg er hellig over for dig;<< de er en røg i min næse, en ild, der brænder hele dagen.
-v6 Se, det er skrevet for mit ansigt: Jeg vil ikke tie stille, før jeg får betalt, ja, får betalt det i deres skød.
-v7 Jeres misgerninger og jeres fædres misgerninger vil jeg betale alle sammen, siger JHVH, misgerningerne hos dem, der tændte røgelse på bjergene og hånede mig på højene; deres løn vil jeg først af alt måle op til dem i deres skød.
+jeg lod mig finde af dem der ikke søgte mig; 
 
-v8 Sådan siger JHVH: Ligesom der findes saft i vinklasen, og man siger: >>Lad være med at ødelægge den, for der er velsignelse i den,<< sådan vil jeg gøre for min tjeners skyld og ikke ødelægge alt.
-v9 Men af Jakob vil jeg lade fremstå en slægt og af Juda den, der skal arve mine bjerge; og mine udvalgte skal arve dem og mine tjenere bo der.
-v10 Og Saron skal blive til en græsgang for får og Akors dal til et hvilested for okser, for mit folk, for dem, der søger mig.
+jeg sagde: >>Se, her er jeg; se, her er jeg!<< 
 
-v11 Men I, der forlader JHVH, I, der glemmer mit hellige bjerg, I, der dækker bord for Gad {T: Navnet på en afgud}, og I, der fylder bægeret op med blandet drik for Meni {T: Navnet på en afgud},
-v12 jer vil jeg give i sværdets vold, og I skal alle sammen bøje jer ned for at blive slagtet, fordi I ikke svarede, da jeg kaldte, fordi I ikke hørte, da jeg talte; men I gjorde det, der var ondt i mine øjne, og valgte jer det, som jeg ikke brød mig om.
-v13 Derfor siger Herren JHVH sådan: Se, mine tjenere skal spise, men I skal sulte; se, mine tjenere skal drikke, men I skal tørste; se, mine tjenere skal glædes, men I skal blive til skamme;
-v14 se, mine tjenere skal synge med glæde af hjertet, men I skal skrige i hjertekval og jamre af fortvivlelse i ånden.
-v15 Og I skal efterlade jeres navn til mine udvalgte til at sværge ved, og Herren JHVH skal dræbe jer; men mine tjenere skal han give et nyt navn.
-v16 Hver den, der velsigner sig i landet, skal velsigne sig i den trofaste Gud, og hver den, der sværger i landet, skal sværge ved den trofaste Gud; for de tidligere trængsler er glemt, og de er forsvundet for mine øjne.
+til et folkeslag der ikke er påkaldte mit navn. 
 
-v17 For se, jeg skaber nye himle og en ny jord; og de tidligere ting skal ikke huskes og ikke komme op i tankerne.
-v18 Men glæd jer og fryd jer til evig tid over det jeg skaber; for se, jeg skaber Jerusalem til fryd og dens folk til glæde.
-v19 Og jeg vil fryde mig over Jerusalem og glæde mig over mit folk, og der skal ikke mere høres gråd eller skrig der.{T: Ordret: >>i den<<, der henviser til Jerusalem.}
-v20 Fra byen skal der skal ikke mere komme noget barn, der kun lever få dage, eller nogen gammel, der ikke når sine levedages tal; for drengen skal dø hundrede år gammel, og synderen, der er hundrede år gammel, skal kaldes forbandet.
-v21 Og de skal bygge huse og bo i dem og plante vingårde og spise dens frugt.
-v22 De skal ikke bygge, for at en anden skal bo der, og ikke plante, for at en anden skal spise det; for som træets levedage skal mit folks levedage være, og mine udvalgte skal fuldt og helt nyde deres hænders arbejde.
-v23 De skal ikke slide forgæves og ikke føde børn til hurtig død; for de er den slægt, der er velsignet af JHVH, og deres afkom skal blive hos dem.
-v24 Og det sker, at jeg vil svare, før de råber; endnu mens de taler, vil jeg høre.
-v25 En ulv og et lam skal græsse sammen, og en løve skal æde halm som en okse, og en slanges føde skal være støv, de skal ikke gøre noget ondt og heller ikke ødelægge noget på hele mit hellige bjerg, siger JHVH.
+v2 Jeg bredte mine hænder ud hele dagen 
+
+til et genstridigt folk 
+
+der vandrer ad den vej som ikke er god, 
+
+efter deres egne tanker; 
+
+v3 det folk der krænker mig 
+
+hele tiden op i mit ansigt, 
+
+ofrer i haverne 
+
+og tænder røgelse på teglstenene, 
+
+v4 som bor i gravene 
+
+og overnatter på hemmelige steder, 
+
+som spiser svinekød 
+
+og har suppe{E: Den hebraiske tekst har ordet: *pārāq*, der betyder: >>stykke<<, men Qere og gamle oversættelser går ud fra at der skulle stå: *mārāq*: >>suppe<<.} af urent kød i deres gryder;
+
+v5 som siger: >>Træk dig tilbage,{T: Ordret:>>Træd hen til dig selv<<.} 
+
+kom ikke hen til mig, for jeg er hellig i forhold til dig;<< 
+
+sådanne er en røg i min næse, en ild der brænder hele dagen.
+
+v6 Se, det står skrevet for mit ansigt; 
+
+jeg vil ikke tie, medmindre jeg har gjort gengæld 
+
+og har gjort gengæld i deres skød,{E: Det hebraiske ord: *ḥêq* oversættes i forskellige sammenhænge: >>skød<< eller: >>bryst<<. Det parafraseres undertiden: >>krop<<.}
+
+v7 for jeres misgerninger og jeres fædres misgerninger tilsammen, 
+
+siger JHVH, 
+
+de som tændte røgelse på bjergene 
+
+og hånede mig på højene. 
+
+Så jeg tilmåler først deres løn
+
+i deres skød.
+
+==Guds fortsatte svar: Hans frelse og nyskabelse==
+
+v8 Sådan siger JHVH: 
+
+Ligesom der findes saft i druen, 
+
+og man siger: >>Ødelæg den ikke, 
+
+for der er velsignelse i den,<< 
+
+sådan vil jeg gøre for mine tjeneres skyld 
+
+for ikke at ødelægge det hele.
+
+v9 Så af Jakob vil jeg frembringe afkom 
+
+og af Juda en arving til mine bjerge; 
+
+mine udvalgte skal arve dem, 
+
+og mine tjenere skal bo der.
+
+v10 Og Saron skal blive til græsgang for småkvæg 
+
+og Akors dal til hvileplads for okser, 
+
+for mit folk der søger mig.
+
+***
+
+v11 Men I der forlader JHVH, 
+
+der glemmer mit hellige bjerg, 
+
+der dækker bord for Gad{T: Navnet på en afgud} 
+
+og fylder op med krydret vin for Meni,{T: Navnet på en afgud}
+
+v12 jer har jeg bestemt til sværdet, 
+
+og I skal alle knæle ned til slagtningen. 
+
+For jeg kaldte, men I svarede ikke, 
+
+jeg talte, men I hørte ikke; 
+
+men I gjorde det der var ondt i mine øjne, 
+
+og valgte jer det som jeg ikke brød mig om.
+
+v13 Derfor, sådan siger Herren JHVH: 
+
+Se, mine tjenere skal spise, 
+
+men I skal sulte; 
+
+se, mine tjenere skal drikke, 
+
+men I skal tørste; 
+
+se, mine tjenere skal glædes, 
+
+men I skal blive til skamme;
+
+v14 se, mine tjenere skal juble af hjertefryd, 
+
+men I skal skrige af hjertesmerte 
+
+og jamre af fortvivlelse.{T: Ordret: >>kvæstelse af ånden<<}
+
+v15 Og I skal efterlade jeres navn til forbandelse for mine udvalgte: 
+
+>>Må så Herren JHVH dræbe dig!<< 
+
+Men sine tjenere skal han give{E: I stedet for den hebraiske teksts: *wᵊlaʕᵃvādāʸw yiqrāˀ* (>>Men sine tjenere skal han give<<), forudsætter Septuaginta: *wᵊlaʕᵃvādaî yiqqārēˀ*: >>Men min tjener skal kaldes ved<<. En del oversættere følger denne tekst.} et andet navn.
+
+v16 Hver den der velsigner sig i landet,{T: Kan også oversættes: >>på jorden<<.} skal velsigne sig 
+
+ved den trofaste Gud, 
+
+og den der sværger i landet,{T: Kan også oversættes: >>på jorden<<.} 
+
+skal sværge ved den trofaste Gud; 
+
+for glemt er de tidligere trængsler, 
+
+ja, for de er skjult for mine øjne.
+
+***
+
+v17 For se, jeg skaber nye himle og den nye jord; 
+
+og de tidligere ting skal ikke huskes 
+
+og ikke komme op i tankerne.{T: Ordret: >>i hjertet<<.}
+
+v18 Tværtimod: Fryd jer og jubl til evig tid 
+
+over det jeg skaber! 
+
+For se, jeg skaber Jerusalem til jubel 
+
+og dens folk til fryd.
+
+v19 Og jeg vil juble over Jerusalem 
+
+og fryde mig over mit folk, 
+
+og i den{T: Kan også oversættes: >>i hende<< idet der henvises til Jerusalem.} 
+
+skal der ikke mere høres 
+
+gråd eller skrig.{T: Ordret: >>gråds røst eller skrigs røst<<.}
+
+v20 Derfra skal der ikke mere komme 
+
+et spædbarn der kun lever få dage,{T: Ordret: >>et få dage gammelt spædbarn<<.} 
+
+eller en gammel der ikke når sine levedages tal;{T: Ordret: >>der ikke opfylder sine dage<<.} 
+
+for drengen skal dø hundrede år gammel, 
+
+og synderen der er hundrede år gammel, skal regnes for forbandet.
+
+***
+
+v21 Og de skal bygge huse og bo i dem 
+
+og plante vingårde og spise deres frugt.
+
+v22 De skal ikke bygge for at en anden skal bebo, 
+
+og ikke plante for at en anden skal spise; 
+
+for som træets dage skal mit folks dage være, 
+
+og deres hænders arbejde skal mine udvalgte selv bruge.
+
+v23 De skal ikke slide forgæves 
+
+og ikke føde børn til hurtig død; 
+
+for de er en slægt af JHVHs velsignede, 
+
+og deres efterkommere er hos dem.
+
+v24 Og det sker at før de kalder, da vil jeg svare; 
+
+endnu mens de taler, da vil jeg høre.
+
+v25 Ulv og lam skal græsse sammen,{T: Ordret: >>som én<<.} 
+
+og løve skal æde halm som oksen, 
+
+og en slange – støv er dens føde. 
+
+De skal ikke handle ondt og ikke ødelægge 
+
+på hele mit hellige bjerg, siger JHVH.
+
 
 

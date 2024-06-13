@@ -38,10 +38,11 @@ $chap['rom']      = range(1,16);
 $chap['1kor']     = range(1,16);
 $chap['2kor']     = range(1,13);
 $chap['1thess']   = range(1,5);
-$chap['2thess']   = [2];
+$chap['2thess']   = range(1,3);
 $chap['1tim']     = range(1,6);
 $chap['2tim']     = range(1,4);
 $chap['tit']      = range(1,3);
+$chap['filem']    = [1];
 $chap['hebr']     = [1,8,13];
 $chap['jak']      = [1];
 $chap['1pet']     = [2,3,4,5];
@@ -97,6 +98,7 @@ $title['2thess']  = 'Paulus&rsquo; Andet Brev til Thessalonikerne';
 $title['1tim']    = 'Paulus&rsquo; Første Brev til Timotheus';
 $title['2tim']    = 'Paulus&rsquo; Andet Brev til Timotheus';
 $title['tit']     = 'Paulus&rsquo; Brev til Titus';
+$title['filem']   = 'Paulus&rsquo; Brev til Filemon';
 $title['hebr']    = 'Brevet til Hebræerne';
 $title['jak']     = 'Jakobs Brev';
 $title['1pet']    = 'Peters Første Brev';
@@ -151,6 +153,7 @@ $abbrev['2thess'] = '2 Thess';
 $abbrev['1tim'] = '1 Tim';
 $abbrev['2tim'] = '2 Tim';
 $abbrev['tit']  = 'Tit';
+$abbrev['filem']  = 'Filem';
 $abbrev['hebr'] = 'Heb';
 $abbrev['jak']  = 'Jak';
 $abbrev['1pet'] = '1 Pet';
@@ -198,10 +201,8 @@ $style['præd']    = $modenhed['ufuldstændigt'];
 
 for ($k=1; $k<=7; ++$k)
     $style['es'][$k] = $modenhed['færdig'];
-for ($k=8; $k<=55; ++$k)
+for ($k=8; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['delvis færdig'];
-for ($k=56; $k<=66; ++$k)
-    $style['es'][$k] = $modenhed['rå oversættelse'];
 
 $style['jer']     = [ 1  => $modenhed['færdig'],
                       2  => $modenhed['færdig'], 
@@ -226,16 +227,17 @@ $style['joh']     = $modenhed['ufuldstændigt'];
 $style['apg']     = $modenhed['ufuldstændigt'];
 $style['rom']     = $modenhed['delvis færdig'];
 $style['1kor']    = $modenhed['delvis færdig'];
-$style['2kor']    = $modenhed['rå oversættelse'];
+$style['2kor']    = $modenhed['delvis færdig'];
 $style['gal']     = $modenhed['delvis færdig'];
 $style['ef']      = $modenhed['delvis færdig'];
 $style['fil']     = $modenhed['delvis færdig'];
 $style['kol']     = $modenhed['delvis færdig'];
 $style['1thess']  = $modenhed['rå oversættelse'];
-$style['2thess']  = $modenhed['rå oversættelse'];
+$style['2thess']  = $modenhed['delvis færdig'];
 $style['1tim']    = $modenhed['delvis færdig'];
 $style['2tim']    = $modenhed['delvis færdig'];
 $style['tit']     = $modenhed['delvis færdig'];
+$style['filem']   = $modenhed['delvis færdig'];
 $style['hebr']    = $modenhed['ufuldstændigt'];
 $style['jak']     = $modenhed['ufuldstændigt'];
 $style['1pet']    = $modenhed['ufuldstændigt'];

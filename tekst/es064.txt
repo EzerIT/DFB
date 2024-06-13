@@ -1,24 +1,89 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 64===
 
-==De troende jøder bliver ved at bede Gud om hans hjælp til at sejre over fjenderne ligesom før i tiden, 1-4; de bekender deres store synder og uværdighed over for Gud, idet de beder om, at Gud vil vende sig fra sin vrede, huske deres elendighed og Jerusalem og det ødelagte tempel, 5-11.==
 
+==Fortsættelse af folkets bodsbøn og klage==
 
-v1 Som ild antænder kviste, som ild får vand til at koge, sådan må du lade dine fjender kende dit navn, så hedningerne ryster for dit ansigt.
-v2 Når du har gjort forunderlige ting, skulle vi så ikke vente? Du fór ned, bjerge flød bort for dit ansigt.
-v3 Og fra gammel tid af har man ikke hørt, har man ikke erfaret, intet øje set, at der ikke var nogen gud uden dig, der gjorde den slags ting for den, der venter på ham.
-v4 Du møder den, der gør retfærdighed med glæde, de skal huske dig på dine veje; se, du var vred, og vi blev ved med at synde; var vi for evigt blevet på dem {T: dvs. på retfærdigheds veje}, da var vi frelst nu.
+v1 {T: Sidste halvdel af kapitel 63 vers 19 hører indholdsmæssigt – og ifølge de gamle oversættelser – til her.} som ild antænder kvas, 
 
-v5 Men vi blev alle sammen som de urene og al vores retfærdighed som beskidt tøj; og vi faldt alle sammen, faldt af som et blad, og vores misgerning blæste os væk som en storm.
-v6 Og der er ingen, der påkalder dit navn, ingen, der rejser sig for at holde fast ved dig; for du har gemt dig ansigt for os og smeltet os for vores misgerningers skyld.
-v7 Men nu, JHVH, du er vores far; vi er leret, og det er dig, der har dannet os, og vi er alle sammen et værk af din hånd.
-v8 JHVH, vær ikke så enormt vred, og husk ikke for evigt på misgerninger; se, se dog her, vi er alle sammen dit folk!
-v9 Din helligdoms byer er blevet til en ørken; Zion er blevet til en ørken, Jerusalem til en ødelæggelse.
-v10 Vores helligheds og vores herligheds hus, som vores fædre lovsang dig i, er brændt op med ild, og alt det, der var vores lyst, er ødelagt.
-v11 Vil du med alt det for øje holde dig tilbage, JHVH? Vil du tie stille og nedbøje os så dybt?
+ild får vand til at koge, 
+
+for at lade dit navn blive kendt for dine fjender, 
+
+folkeslag skælve for dit ansigt,
+
+v2 når du gør undere vi ikke venter.
+
+Du steg ned, bjerge rystede foran dig.{T: Ordret: >>for dit ansigt<<.}
+
+v3 Og fra gammel tid af har man ikke hørt, 
+
+har man ikke erfaret, 
+
+intet øje set en Gud ud over dig 
+
+der handler for den der venter på ham.
+
+v4 Du kommer den i møde der glæder sig,
+
+og den der udøver retfærdighed, 
+
+som husker dig på dine veje. 
+
+Se, du blev vred, og vi syndede; 
+
+på dem {T: Dvs. på retfærdigheds veje} var vi bestandigt, men vi blev frelst.{E: På grund af parallellen >>vi syndede<< følger de fleste Septuaginta, der i stedet for: * bāhem ʕôlām wᵊniwwāšēₐʕ* (ordret: >>på dem bestandigt og/men vi blev frelst<<) forudsætter: * bᵊxā mēʕôlām wanifšāʕ*, hvor: *bᵊxā mēʕôlām* knyttes til den foregående linje og oversættes: >>mod dig fra fortiden<<, og det sidste ord: >>og vi faldt fra<<.}
+
+v5 Men vi blev alle som den urene 
+
+og al vores retfærdighed som beskidt tøj;{E: Ordret: >>menstruationstøj<<. Ordet: *ʕiddîm* angiver kvindens månedlige periode.} 
+
+og vi visnede som et blad, vi alle, 
+
+og vores misgerninger førte os væk som vinden.
+
+v6 Og ingen påkalder dit navn, 
+
+ingen{T: Dette: >>ingen<< er underforstået fra foregående linje.} rejser sig for at holde fast ved dig; 
+
+for du har skjult dit ansigt for os 
+
+og har fået os til at miste modet{E: ordret: >>smelte<< (wa*ttᵊmûgēnû*). De gamle oversættelser forudsætter: *wattᵊmaggᵊnēnû*: >>du har givet os hen til (vores misgerninger)<<.} for vores misgerningers skyld.
+
+***
+
+v7 Men nu, JHVH, du er vores far; 
+
+vi er leret, og du er den der har formet os, 
+
+og vi er alle værk af din hånd.
+
+v8 Vær ikke, JHVH, så enormt vred, 
+
+og husk ikke for evigt på misgerning; 
+
+ja, se dog her, dit folk er vi alle!
+
+v9 Din helligheds byer er blevet til ørken; 
+
+Zion er blevet til ørken, 
+
+Jerusalem til ødelæggelse.
+
+v10 Vores helligheds og vores herligheds hus, 
+
+hvor vores fædre lovsang dig, 
+
+er blevet brændt med ild, 
+
+og alt det der var kostbart for os, er blevet en ruinhob.
+
+v11 Vil du for disse ting holde dig tilbage, JHVH? 
+
+Vil du tie og ydmyge os så dybt?
 
 

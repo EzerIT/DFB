@@ -1,40 +1,17 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 8===
 
-==Paulus fremhæver det eksempel på gavmildhed, som Makedoniens menigheder har givet ved indsamlingen til de fattige i Jerusalem, 1-5. Med samme formål har han opfordret Titus til igen at rejse til korintherne, og han formaner dem til med en lignende gavmildhed efter Kristi forbillede at fuldende, hvad de tidligere har begyndt, 6-11; Gud ser på hjertets villighed, ikke på gavens størrelse, idet der kun skal tilstræbes ligelighed imellem de givende og de modtagende, 12-15. Så opfordres menigheden nu til at tage godt imod Titus, der er så ivrig for denne sag, og imod de to, der ledsager ham i samme ærinde, 16-24.==
 
+==Indsamlingen til Jerusalem==
 
+v1 Brødre, vi vil fortælle jer om den Guds nåde som blev givet til Makedoniens menigheder, v2 nemlig at deres glædes overflod og deres dybe fattigdom strømmede over i deres rigdom på gavmildhed under trængslens store prøvelse. v3 For jeg vidner at de frivilligt gav efter evne, ja, over evne, v4 for de bad os indtrængende om den nåde at måtte tage del i hjælpen til de hellige, v5 og de gav ikke kun som vi havde håbet, men gav først sig selv til Herren og ved Guds vilje til os v6 så at vi har bedt Titus om at afslutte indsamlingen af denne kærlighedsgave som han havde begyndt hos jer. v7 Men ligesom I er rige på alt, på tro, tale, kundskab, al engagement og på kærligheden fra os blandt jer, må I da være rige på denne kærlighedsgave. v8 Jeg siger det ikke som en befaling, men jeg vil prøve om jeres kærlighed er ægte ved hjælp af de andres engagement, v9 for I kender vores Herre Jesu Kristi nåde, at han blev fattig for jeres skyld da han var rig for at I kunne blive rige ved hans fattigdom. v10 I dette udtaler jeg min mening, for dette er til gavn for jer som sidste år ikke alene var de første til at begynde indsamlingen,{T: >>Indsamlingen<< er indsat.} men også til at beslutte den, v11 men bring den nu også til afslutning for at jeres villighed til at beslutte må være ligesom jeres villighed til at fuldføre hvad I har. v12 For når villighed er til stede, så er den acceptabel i forhold til hvad man har, og ikke i forhold til hvad man ikke har. v13 For det er ikke meningen at andre skal have det lettere, men I trængsel, men at der skal være lighed. v14 I tiden nu må jeres overflod hjælpe deres mangel for at også deres overflod må hjælpe jeres mangel for at der må være lighed 15 ligesom der står skrevet: >>Den som havde meget, havde ikke for meget, og den som havde lidt, havde ikke for lidt.<<
 
-v1 Men vi kundgør for jer, brødre, den Guds nåde, der er givet i Makedoniens menigheder,
-v2 at deres overstrømmende glæde og deres dybe fattigdom under prøvelse i megen trængsel er strømmet over i deres gavmildheds rigdom.
-v3 For efter evne (det vidner jeg) gav de, ja, over evne, af egen drift,
-v4 idet de med megen overtalelse bad os om den nåde at måtte tage del i hjælpen til de hellige,
-v5 og ikke alene som vi havde håbet, men sig selv gav de først og fremmest til Herren og så til os, ved Guds vilje,
-v6 så at vi opfordrede Titus til, ligesom han tidligere havde begyndt, ligesådan at tilendebringe hos jer også denne gave.
-v7 Men sådan som I er rige i alt, i tro og tale og erkendelse og al iver og i jeres kærlighed til os: Måtte I da være rige også i denne gave!
-v8 Jeg siger det ikke som en befaling, men for ved andres iver at prøve også jeres kærligheds ægthed.
-v9 I kender jo vor Herres Jesu Kristi nåde, at han for jeres skyld blev fattig, da han var rig, for at I ved hans fattigdom skulle blive rige.
-v10 Og jeg giver min mening om det til kende; for det er gavnligt for jer, I, der jo i fjor var de første til at begynde, ikke alene med gerningen, men endda med viljen til den.
-v11 Men fuldbring da nu også gerningen, for at I, ligesom I var parat til at ville, også må fuldføre det efter jeres evne.
-v12 For når villigheden er til stede, er den velbehagelig efter, hvad den evner, ikke efter, hvad den ikke evner.
-v13 Det er nemlig ikke meningen, at andre skal have lettelse og I trængsel; nej, det skal være ligeligt. Nu for tiden må jeres overflod komme de andres trang til hjælp,
-v14 for at også deres overflod kan komme jeres trang til hjælp, for at der kan blive ligelighed,
-v15 som der står skrevet: >>Den, der samlede meget, fik ikke for meget, og den, der samlede lidt, fik ikke for lidt.<<
+==Anbefaling af Titus==
 
-
-v16 Men tak til Gud, der giver den samme iver for jer i Titus' hjerte!
-v17 For ganske vist har han modtaget min opfordring; men da han er så ivrig, så er det af egen drift, at han rejser til jer.
-v18 Og sammen med ham sender vi den bror, hvis ros i evangeliet går igennem alle menighederne,
-v19 og ikke det alene, men han er også udvalgt af menighederne til at rejse med os med denne gave, der iværksættes af os, for at fremme selve Herrens ære og vores villighed,
-v20 idet vi undgår dette, at nogen skulle kunne bebrejde os i anledning af denne rige hjælp, der organiseres af os;
-v21 for vi lægger vægt på, hvad der er godt ikke alene i Herrens, men også i menneskers øjne.
-v22 Men sammen med dem sender vi vores bror, hvis iver vi ofte på mange måder har fået bevis for, men som nu er langt mere ivrig på grund af sin store tillid til jer.
-v23 Hvad Titus angår, er han min medtjener og medarbejder hos jer, og hvad vores brødre angår, er de menighedsudsendinge, Kristi ære.
-v24 Så giv dem da for menighedernes ansigt beviset på jeres kærlighed og for det, vi har rost jer for.
-
+v16 Men tak til Gud som har givet det samme engagement for jer i Titus’ hjerte, v17 for han har modtaget opfordringen, og da han var så ivrig, rejste han frivilligt til jer. v18 Sammen med ham sender vi den bror som lovprises for sin tjeneste for evangeliet i alle menighederne, v19 og ikke alene det, men han er også blevet valgt af menighederne som vores ledsager med denne gave som overbringes af os til Herrens ære og for at vise vores gode vilje, v20 for vi vil undgå dette at nogen bagtaler os på grund af denne store gave, den som overbringes af os, v21 For vi tænker på hvad der er godt, ikke kun i Herrens øjne, men også i menneskers. v22 Sammen med dem sender vi vores broder, som vi ofte på mange måder har prøvet og fundet at han er dedikeret, men som nu er meget mere dedikeret på grund af sin store tillid til jer. v23 Hvad Titus angår, så er han min partner og medarbejder hos jer, hvad angår vores brødre, er de menighedsudsendinge, Kristi ære. v24 Vis derfor beviset på jeres kærlighed og vores stolthed over jer synligt for menighederne.
 
 

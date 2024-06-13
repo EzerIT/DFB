@@ -1,28 +1,19 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 13===
 
-== Når Paulus snart kommer, vil han lade dem føle, hvilken kraft fra Herren der bor i ham, 1-4. Derfor skal de prøve sig selv, og ligesom han beder for deres forbedring, sådan har han skrevet dette brev for ikke at skulle være streng, når han kommer, 5-10. Derefter slutter han med formaning, hilsen og velsignelse, 11-13.==
+
+v1 Dette er tredje gang jeg kommer til jer: >>På to eller tre vidners udsagn skal enhver sag afgøres.<< v2 Jeg har sagt det før, og jeg siger på forhånd – som nærværende anden gang og fraværende nu – til dem som før har syndet, og til alle de andre at når jeg kommer igen, vil jeg ikke skåne nogen, v3 for I kræver et bevis på at Kristus taler i mig, han som ikke er svag over for jer, men er stærk i jer. v4 For han blev korsfæstet i svaghed, men lever på grund af Guds kraft. Ja, vi er også svage i ham, men vi skal leve sammen med ham på grund af Guds kraft mod jer.
+
+==Den sidste formaning==
+
+v5 Prøv jer selv om I er i troen. Test jer selv. Eller ved I ikke selv at Jesus Kristus er i jer? Ellers har I ikke bestået prøven. v6 Men jeg håber at I forstår at vi har bestået prøven. v7 Vi beder til Gud om at I ikke må gøre noget ondt, ikke for at vi må vise at vi har bestået prøven, men for at I må gøre det gode, mens vi står som nogle der ikke har bestået prøven. v8 For vi kan ikke noget imod sandheden, men kun for sandheden. v9 For vi glæder os, når vi er svage, men I er stærke. Vi beder også om jeres genrejsning. v10 Derfor skriver jeg dette mens jeg er fraværende, for at jeg, mens jeg er nærværende, ikke skal vise strenghed med den myndighed som Herren har givet mig til at opbygge og ikke til at nedbryde.
+
+==Hilsen og velsignelse==
+
+v11 I øvrigt, brødre, glæd jer, arbejd på jeres genrejsning, tag mod formaning,{T: Alternativ oversættelse: >>forman hinanden<<.} vær enige og hold fred, og kærlighedens og fredens Gud skal være med jer. v12 Hils hinanden med et helligt kys. Alle de hellige hilser jer. v13 Herren Jesu Kristi nåde, Guds kærlighed og Helligåndens fællesskab være med jer alle.
 
 
-
-v1 Det er nu tredje gang, jeg kommer til jer. På to og tre vidners munds ord skal enhver sag stå fast.
-v2 Jeg har sagt det før og siger det i forvejen, ligesom da jeg anden gang var nærværende, sådan også nu fraværende til dem, der tidligere har syndet, og til alle de andre, at jeg ikke vil skåne nogen, hvis jeg kommer igen,
-v3 eftersom I kræver bevis på, at Kristus taler i mig, han, der ikke er magtesløs over for jer, men er stærk iblandt jer.
-v4 For nok blev han korsfæstet i magtesløshed, men han lever ved Guds kraft; og også vi er svage i ham{T: for hans skyld underkastet lidelser}, men vi skal leve med ham ved Guds kraft over for jer.
-
-
-v5 Ransag jer selv, om I er i troen; prøv jer selv! Eller erkender I ikke om jer selv, at Jesus Kristus er i jer? Ellers har I ikke bestået prøven.
-v6 Men jeg håber, at I skal indse, at vi har bestået prøven.
-v7 Men vi beder til Gud om, at I ikke må gøre noget ondt; ikke for at vi må vise os egnede, men for at I må gøre det gode, vi derimod stå som uegnede.
-v8 For vi evner ikke noget imod sandheden, men for sandheden.
-v9 For vi glæder os, når vi er magtesløse, og I er stærke; det ønsker vi også: At I må blive gjort fuldkomne.
-v10 Derfor skriver jeg det her, mens jeg er fraværende, for at jeg ikke, når jeg er til stede, skal bruge strenghed, efter den myndighed, som Herren har givet mig til opbyggelse og ikke til nedbrydelse.
-
-
-v11 I øvrigt, brødre, glæd jer, bliv fuldkomne, lad jer formane, vær enige, vær fredsommelige, og kærlighedens og fredens Gud skal være med jer.
-v12 Hils hinanden med et helligt kys! Alle de hellige hilser jer.
-v13 Herren Jesu Kristi nåde og Guds kærlighed og Helligåndens fællesskab være med jer alle!

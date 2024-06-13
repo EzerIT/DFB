@@ -1,39 +1,24 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 12===
 
-==Paulus har oplevet en mirakuløs bortrykkelse til himmelen, hvad han nok kunne have grund til at rose sig af. Men for ikke at hovmode sig af de høje åbenbaringer har han som modvægt fået en »torn i kødet«. Men Guds kraft kan netop åbenbare sig i hans magtesløshed, og derfor vil han kun rose sig af den, 1-10. Han hævder igen sin apostelværdighed og sin uegennyttige optræden over for korintherne, 11-18. Med alt det sagte har han kun menighedens gavn for øje, idet han er bekymret for, hvordan han vil finde dens tilstand, når han kommer, 19-21.==
 
+==Styrken i svagheden==
 
+v1 Jeg skal være stolt. Selvom det ikke gavner, vil jeg gå over til syner og åbenbaringer fra Herren. v2 Jeg kender et menneske i Kristus som for fjorten år siden – jeg ved ikke om det var i kroppen eller uden for kroppen, Gud ved det – blev bortrykket til den tredje himmel. v3 Og jeg ved om dette menneske – jeg ved ikke om det var i kroppen eller uden for kroppen, Gud ved det – at det blev bortrykket til Paradis, og jeg hørte uudsigelige ord som det ikke er tilladt et menneske at udtale. v5 Jeg vil være stolt af dette menneske, men jeg vil ikke være stolt af mig selv, men af min svaghed. v6 For hvis jeg ville være stolt, ville jeg ikke være en tåbe, for jeg ville tale sandt, men jeg holder mig tilbage for at ingen skal tænke højere om mig end hvad han ser hos mig eller hører af mig, v7 og for at jeg ikke skal blive hovmodig på grund af mine store åbenbaringer, blev der derfor givet mig en torn i kødet, en Satans engel, for at han skulle slå mig for at jeg ikke skulle blive hovmodig. v8 Jeg bad tre gange til Herren med henblik på dette om at han måtte forlade mig. v9 Og han har sagt til mig: >>Min nåde er dig nok, for min kraft fuldendes i svaghed.<< Derfor vil jeg gerne være mere stolt af mine svagheder for at Kristi kraft kan tage bolig i mig. v10 Derfor er jeg tilfreds i svaghed, under hån, under pres, under forfølgelser, under angst for Kristi skyld, for når jeg er svag, så er jeg stærk.
 
-v1 Rose mig må jeg. Gavnligt er det ganske vist ikke; men nu kommer jeg til syner og åbenbaringer fra Herren.
-v2 Jeg kender et menneske i Kristus{T: der tilhører Kristus}, der for fjorten år siden (om han var i legemet, det ved jeg ikke, eller uden for legemet, det ved jeg ikke, Gud ved det) blev bortrykket indtil den tredje himmel.
-v3 Og jeg ved, at dette menneske (om han var i legemet, eller uden legemet, det ved jeg ikke, Gud ved det),
-v4 at han blev bortrykket ind i Paradiset og hørte uudsigelige ord, som det ikke er tilladt noget menneske at udtale.
-v5 Af sådan én vil jeg rose mig; men af mig selv vil jeg ikke rose mig, undtagen af min magtesløshed.
-v6 For ganske vist bliver jeg ikke en tåbe, hvis jeg ville rose mig; for det vil være sandhed, jeg siger; men jeg afholder mig fra det, for at ingen skal tænke højere om mig, end hvad han ser mig være, eller hvad han hører af mig.
-v7 Og for at jeg ikke skal hovmode mig af de høje åbenbaringer, blev der givet mig en torn i kødet, en Satans engel, så at han skulle slå mig i ansigtet, for at jeg ikke skulle hovmode mig.
-v8 Jeg bad Herren tre gange om den, at han måtte forsvinde fra mig;
-v9 og han har sagt til mig: >>Min nåde er nok for dig; for kraften fuldendes i magtesløshed.<< Allerhelst vil jeg derfor rose mig af min magtesløshed, for at Kristi kraft kan tage bolig i mig.
-v10 Derfor er jeg veltilfreds under magtesløshed, under overlast, under nød, under forfølgelser, under angster for Kristi skyld; for når jeg er magtesløs, da er jeg stærk.
+==En apostels tegn==
 
+v11 Jeg er blevet en tåbe. I tvang mig til det. For jeg skulle anbefales af jer, for jeg mangler intet i forhold til superapostlene, selvom jeg er intet. v12 En apostels tegn blev udført blandt jer med al udholdenhed, tegn og undere og kraftige gerninger. v13 Ja, i hvilket er det at I er blevet stillet ringere end de andre menigheder, med undtagelse af at jeg ikke har været en byrde for jer? Tilgiv mig denne uret!
 
-v11 Jeg er bleven en tåbe. I tvang mig til det. Jeg burde jo anbefales af jer; for jeg har ikke stået tilbage i noget for de fremragende Apostle, selvom jeg ikke er noget.
-v12 En apostels tegn blev jo udført iblandt jer under al udholdenhed, ved tegn og undere og kraftige gerninger.
-v13 For hvad er det lige, I blev stillet ringere end de andre menigheder i, undtagen det, at jeg ikke selv var til byrde for jer? Tilgiv mig denne uret!
-v14 Se, det er nu tredje gang, jeg står klar til at komme til jer, og jeg vil ikke ligge til last; for jeg er ikke ude efter jeres gods, men jer selv, for børnene skal ikke samle sammen til forældrene, men forældrene til børnene.
-v15 Men jeg vil med glæde bringe ofre, ja, blive ofret for jeres sjæle. Mon jeg, når jeg elsker jer højere, bliver elsket mindre?
-v16 Men lad så være, at jeg ikke har været jer til byrde, men jeg var snu og fangede jer med list!
-v17 Har jeg da draget fordel af jer igennem nogen af dem, jeg har sendt til jer?
-v18 Jeg opfordrede Titus og sendte broderen med; har Titus da draget nogen fordel af jer? Vandrede vi ikke i den samme ånd, i de samme fodspor?
+==Rejseplan==
 
+v14 Se, dette er tredje gang jeg er rede til at komme til jer, og jeg vil ikke være til byrde, for jeg ønsker ikke det I har, men jer. For børnene skal ikke samle til deres forældre, men forældrene til børnene. v15 Men jeg vil gerne bruge alt og blive brugt for jeres{T: Ordret: >>jeres sjæle<<.} skyld. Mon jeg elskes mindre når jeg elsker jer mere? v16 Men lad være at jeg har været til byrde for jer, men så skulle jeg have været snedig og fanget jer med bedrag. v17 Har jeg da udbyttet jer ved nogen af dem jeg har sendt til jer? v18 Jeg bad Titus og sendte en broder med. Har Titus udbyttet jer? Har vi ikke vandret i den samme ånd? Og i samme spor?
 
-v19 Nu har I længe ment, at vi forsvarer os over for jer. Nej, for Guds ansigt taler vi i Kristus. Men det sker alt sammen, I elskede, for jeres opbyggelses skyld.
-v20 Jeg er nemlig bange for, at jeg, når jeg kommer, så måske ikke skal finde jer sådan, som jeg ønsker, og at jeg skal blive fundet af jer sådan, som I ikke ønsker; at der skal være strid, misundelse, hidsighed, intriger, bagtalelser, øretuderier, opblæsthed, klammerier,
-v21 så at min Gud, når jeg kommer igen, skal ydmyge mig på grund af jer, og jeg skal sørge over mange af dem, der tidligere har syndet og ikke har omvendt sig fra den urenhed og utugt og skamløshed, som de bedrev.
+v19 Længe har I ment at vi forsvarer os over for jer. Vi taler i Kristus for Guds ansigt, og alt sker, elskede, til opbyggelse for jer. v20 Ja, jeg frygter at jeg ikke skal finde jer sådan som jeg ønsker, når jeg kommer, men jeg bliver fundet af jer sådan som I ønsker. Jeg frygter at der vil være strid, misundelse, vrede, stridigheder, bagtalelse, sladder, opblæsthed og uorden, v21 og jeg frygter at min Gud, når jeg kommer igen, skal ydmyge mig hos jer, og at jeg vil sørge over de mange som før har syndet og ikke har omvendt sig fra den urenhed, utugt og udsvævelse som de har praktiseret.
 
 
 

@@ -1,32 +1,177 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 20.12.2020>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 63===
 
-==Profeten beskriver, hvordan Messias skal sejre herligt over sin kirkes fjender, 1-6; de troende priser JHVH for hans store nåde og velgerninger og bekender det jødiske folks genstridighed, men forkynder, at Gud alligevel igen vil være både dem og hedningerne barmhjertig, hvad de beder JHVH ydmygt om, 7-19==
+==Dommen over folkeslagene==
+
+v1 Hvem er han der kommer fra Edom, 
+
+i højrøde klæder fra Bozra, 
+
+han der er prægtig i sin dragt, 
+
+han der skrider frem{E: Verbet: *ṣʕh* oversættes normalt med: >>er sammenbøjet/lænket<<, så der her skal oversættes: >>sammenbøjet under vægten af hans udrustning<<. I sammenhængen virker det mindre sandsynligt. Det er forslået at betydningen kan være: >>skride frem med tilbagebøjet hals<<, altså: >>skride stolt frem<<. Mange vælger dog med bl.a. Vulgata at forudsætte verbet: *ṣʕd*, der oversættes: >>skride frem<<.} i sin store kraft? 
+
+>>Det er mig, der taler om retfærdighed, 
+
+der er mægtig til at frelse!<<
+
+***
+
+v2 Hvorfor er der rødt på din dragt, 
+
+og dine klæder som en der træder vinpersen?
+
+v3 >>Persekar trådte jeg alene, 
+
+og fra folkene var der ingen med mig; 
+
+så jeg trådte på dem i min vrede 
+
+og trampede dem ned i min harme; 
+
+så deres livssaft{T: Brugt som synonym for: >>blod<<.} sprøjtede på mit tøj, 
+
+og jeg fik hele min dragt sølet til.
+
+v4 For en hævndag var i mit hjerte, 
+
+og mit befrielsesår var kommet.
+
+v5 Og jeg så mig om, men der var ingen hjælper, 
+
+og jeg undrede mig, men der var ingen støtte; 
+
+min arm frelste mig, 
+
+og min vrede, den støttede mig.
+
+v6 Og jeg trampede folk ned i min vrede 
+
+og gjorde dem berusede{E: I stedet for: *waˀᵃšakkᵊrēm* (>>og gjorde dem berusede<<), har mange håndskrifter: *waˀᵃšabbᵊrēm*: >>og smadrede dem<<.} i min harme 
+
+og lod deres livssaft løbe ned på jorden.<<
+
+==Bodsbøn og klage==
+
+v7 Jeg vil prisende forkynde JHVHs nåde, 
+
+JHVHs pris,{T: Oversættes undertiden: >>glorværdige gerninger<<.} 
+
+efter alt det som JHVH har gjort mod os, 
+
+og den store godhed mod Israels hus 
+
+som han viste dem i overensstemmelse med sin barmhjertighed 
+
+og sin store nåde.
+
+v8 Han sagde: >>Sandelig, de er mit folk, 
+
+sønner,{T: Oversættes ofte: >>børn<<.} der ikke vil svigte.<< 
+
+Og han blev frelser for dem.
+
+v9 I al deres trængsel var der ingen trængsel,{E: Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter rabbinernes vokalisering af grundtekstens *lōˀ* (>>ikke/ingen<<) til: *lô* (>>for ham<<) så der oversættes: >>I al deres trængsel havde han trængsel<<. Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (>>trængsel, men (hans ansigts) engel …<<) til: *ṣîr ûmalʔāx* (>>sendebud eller en engel<<) så der oversættes: >>… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.<<} 
+
+men hans ansigts engel{T: Den engel der var JHVH nærmest} frelste dem; 
+
+på grund af sin kærlighed og sin medlidenhed 
+
+løskøbte han dem, 
+
+han løftede dem op og bar dem 
+
+alle fortidens dage.
+
+v10 Men de, de var genstridige og krænkede 
+
+hans hellige Ånd; 
+
+derfor forvandlede han sig til en fjende for dem, 
+
+han kæmpede imod dem.
+
+***
+
+v11 Da huskede Moses’ folk fortids dage: 
+
+>>Hvor er han der førte dem op fra havet 
+
+med sin hjords hyrde? 
+
+Hvor er han der i hans{T: Kan også oversættes: >>dets<<.} indre lagde 
+sin hellige Ånd? 
+
+v12 han der ved Moses’ højre hånd 
+
+lod sin herligheds arm vandre, 
+
+han der kløvede vandene foran dem{T: Ordret: >>for deres ansigt<<.} 
+
+for at skabe sig et evigt navn?
+
+v13 han der lod dem vandre gennem vandmasserne 
+
+som hesten i ørkenen 
+
+uden at de snublede?
+
+v14 Som kvæget går ned i dalen, 
+
+gav JHVHs Ånd ham hvile;{E: Verbet er omdiskuteret. MT har verbet: *nwḥ* (i hif’il: >>give hvile<<, evt.: >>lede til hvile<<) med suffiks for 3. pers. sing., der må stå for Israel eller Moses. Ofte går man ud fra at der skulle have stået: *tanḥennû* (af verbet *nḥh)*: >>ledte os<<.} 
+
+sådan førte du dit folk 
+
+for at skabe dig et herligt navn.<<
+
+***
+
+v15 Se ned fra himlene, og se til 
+
+fra din helligheds og herligheds bolig! 
+
+Hvor er din lidenskab og din styrke, 
+
+dit indres røre 
+
+og din barmhjertighed der holder sig tilbage fra mig?
+
+v16 Du er jo vores far; 
+
+for Abraham ved ikke af os, 
+
+og Israel kendes ikke ved os. 
+
+Du, JHVH, er vores far, 
+
+fra evighed er dit navn: Vores Forløser!
+
+v17 Hvorfor, JHVH, lader du os fare vild fra dine veje, 
+
+forhærder vores hjerte så det ikke frygter dig?{T: Ordret: >>væk fra din frygt<<.} 
+
+Vend om for dine tjeneres skyld, 
+
+din arvelods stammer!
+
+v18 I kort tid{E: Det er omdiskuteret om: *miṣʕār*, der betyder: >>noget ringe/ubetydeligt<<, også kan forstås som: >>kort tid<<. Ellers må der oversættes: >>som det ubetydelige<<.} ejede dit hellige folk,{E: Hele sætningen er omdiskuteret. Den lyder: *lammiṣʕār yārᵊšû ʕam-qodšexā*. Ofte følger man Septuaginta og andre af de gamle oversættelser der ser ud til at have læst: *lāmmāʰ ṣᵃʕādû rᵊšāʕim qodšexā*: >>Hvorfor betræder gudløse din helligdom?<<. Ændringen i vokalteksten er minimal: >>d<< er rettet til det i udseende lignende: >>r<<, og ligeledes: >>y<< til: >>w<<.}
+
+vores fjender har trådt din helligdom ned.
+
+v19 Vi er som nogle du ikke har hersket over fra gammel tid, 
+
+over hvem dit navn ikke er nævnt.
+
+*** 
+
+Gid du ville flænge himlene og stige ned
+
+så bjergene rystede for dit ansigt,{T: Sidste halvdel af vers 19 hører indholdsmæssigt – og ifølge de gamle oversættelser – til kapitel 64.} 
 
 
-v1 Hvem er han, der kommer fra Edom, i højrøde klæder fra Bozra, han, der er så prægtig i sin dragt, han, der skrider frem i sin store kraft? Det er mig, der taler retfærdighed, mig, der er mægtig til at frelse!
-v2 Hvorfor er der rødt på din dragt, og hvorfor ser dit tøj ud som på den, der træder vinpersen?
-v3 Jeg trådte persekarret, jeg alene, og der var ikke noget af folkene med mig; så trådte jeg på dem i min vrede og stampede dem ned i min harme; så sprøjtede deres blod op på mit tøj, og jeg fik alle mine klæder svinet til.
-v4 For hævnens dag var besluttet i mit hjerte, og mit befrielsesår var kommet..
-v5 Og jeg så mig om, og der var ingen hjælper, og jeg undrede mig over, at der ikke var nogen, der holdt med mig; men min arm hjalp mig, og min harme bistod mig.
-v6 Og jeg trådte folkene ned i min vrede og gjorde dem berusede i min harme og lod deres blod løbe ned på jorden.
-
-v7 Jeg vil prisende forkynde JHVHs nåde, JHVHs glorværdige gerninger, efter alt det som JHVH har gjort imod os, ja, den store godhed imod Israels hus som han viste dem i overensstemmelse med sin barmhjertighed og sin store nåde.
-v8 Og han sagde: >>Netop de er mit folk, de er børn der ikke vil svigte.<< Og han blev en frelser for dem.
-v9 I al deres trængsel var der ingen trængsel{E: Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter grundtekstens *lōˀ* (>>ikke/ingen<<) til: *lô* (>>for ham<<) så der oversættes: >>I al deres trængsel havde han trængsel>>. Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (>>trængsel, men (hans ansigts) engel …<<) til: *ṣîr ûmalʔāx* (>>sendebud eller en engel<<) så der oversættes: >>… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.<<}, men hans ansigts engel{T: Den engel der var JHVH nærmest} frelste dem; på grund af sin kærlighed og sin medlidenhed løskøbte han dem, han løftede dem op og bar dem alle fortidens dage.
-v10 Men de, de var genstridige og bedrøvede hans hellige Ånd; derfor blev han til deres modstander, han kæmpede imod dem.
-v11 Så huskede hans folk de gamle dage under Moses: >>Hvor er han, der førte dem op fra havet sammen med sin hjords hyrde? Hvor er han, der gav sin hellige Ånd midt iblandt dem? 
-v12 han, der lod sin herligheds arm føre Moses' højre hånd, han, der kløvede vandene for deres ansigt for at skabe sig et evigt navn?
-v13 han, der førte dem gennem afgrundene som en hest igennem ørkenen, så de ikke snublede?
-v14 Ligesom kvæget går ned i dalen, har JHVHs Ånd ladet dem komme til hvilen; sådan førte du dit folk for at skabe dig et herligt navn.<<
-v15 Se ned fra himlene, og se til fra din helligheds og herligheds bolig! Hvor er din brændende iver og din magt, din dybe medlidenhed og din barmhjertighed, der holder sig tilbage fra mig?
-v16 Du er jo vores far; for Abraham ved ikke af os, og Israels kender os ikke; men du, JHVH, er vores far, fra evighed af er dit navn >>Vores løskøber<<!
-v17 JHVH! Hvorfor lader du os fare vild fra dine veje? Hvorfor lader du vores hjerte blive hårdt, så det ikke frygter dig? Vend om for dine tjeneres skyld, for din arvelods stammers skyld!
-v18 I kort tid har dit hellige folk ejet landet; men vores modstandere har trådt din helligdom ned.
-v19 Vi er, som om du ikke havde regeret over os fra gammel tid, og som om vi ikke var kaldt med dit navn; gid du ville flænge himlene og fare ned, så bjergene flød bort for dit ansigt!
 
 

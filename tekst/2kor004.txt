@@ -1,38 +1,21 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 4===
 
-==Denne den nye pagts tjeneste udfører Paulus frimodigt og redeligt ved sandhedens åbenbare forkyndelse for alle mennesker uden at have nogen skyld i de vantros forblindelse, idet han kun prædiker Kristus i overensstemmelse med den oplysning, han selv har fået del i, 1-6. Han taler om trængslerne og farerne under sin tjeneste, som Jesu kraft bliver åbenbaret igennem, 7-12, om sit vidnesbyrds kilde, fortrøstning og formål, 13-15, og den indre fornyelse under trængsler ved herlighedens håb, 16-18.==
 
+==Tjenesten for evangeliet==
 
+v1 Derfor, da vi har denne tjeneste af barmhjertighed,{T: Ordret: >>som vi er blevet vist af barmhjertighed<<} er vi ikke modløse, v2 men vi har sagt nej til det skjulte skammelige så vi ikke fører et liv med bedrag eller forfalsker Guds ord, men vi anbefaler os ved åbenbaringen af sandheden til alle menneskers samvittighed over for Gud. v3 Men selvom vores evangelium er tildækket, er det tildækket for dem som går fortabt, v4 for de vantro som denne verdens gud har blindet i deres tanker så de ikke ser lyset fra evangeliet om Kristi herlighed, han som er Guds billede. v5 For vi forkynder ikke os selv, men Jesus Kristus som Herre og os selv som jeres tjenere ved Jesus. v6 For Gud, som sagde: >>Af mørke skal lys skinne frem<<, har ladet lyset skinne i vores hjerter til oplysning om kundskaben om Guds herlighed på Jesu Kristi ansigt.
 
-v1 Derfor, da vi har denne tjeneste efter den barmhjertighed, der er blevet os til del, så taber vi ikke modet;
-v2 men vi har frasagt os de skammelige smugveje, så vi ikke går frem i snuhed, og heller ikke forfalsker Guds Ord, men ved afsløring af sandheden anbefaler os til alle menneskers samvittighed for Guds ansigt.
-v3 Men selvom vores evangelium også er tildækket, da er det tildækket iblandt dem, der fortabes,
-v4 dem, som denne verdens gud har forblindet de vantros tanker i, for at lyset ikke skulle skinne fra evangeliet om Kristi herlighed, han, der er Guds billede.
-v5 For det er ikke os selv, vi prædiker, men Kristus Jesus som Herre, os derimod som jeres tjenere for Jesu skyld.
-v6 For Gud, der sagde: >>Af mørke skal lys skinne frem<<, han har ladet det skinne i vores hjerter for at bringe kundskaben om Guds Herlighed på Kristi ansigt for lyset.
+ ==Skatten i lerkar==
 
+v7 Men denne skat har vi i lerkar for at den overvældende kraft skal være fra Gud og ikke fra os. v8 I alt presses vi, men vi er ikke indesluttede, vi er i vildrede, men ikke fortvivlede, v9 vi forfølges, men er ikke forladte, vi slås ned, men er ikke slået ihjel, v10 vi bærer altid Jesu død på vores krop for at også Jesu liv skal blive synligt i vores krop. v11 For vi som lever, overgives altid til døden for Jesu skyld for at også Jesu liv skal blive synligt i vores dødelige krop.{T: Ordret >>kød<<} v12 Derfor virker døden i os, men livet i jer. v13 Men da vi har den samme troens ånd, som der står skrevet: >>Jeg troede, derfor talte jeg,<< så tror vi, og derfor taler vi v14 fordi vi ved at han som har oprejst Herren Jesus, også vil oprejse os sammen med ham og føre os sammen med jer. v15 For alt er for jeres skyld for at nåden ved at vokse gennem flere må forøge takken til Guds ære.
 
-v7 Men denne skat har vi i lerkar, for at den overvældende kraft må være Guds og ikke fra os,
-v8 vi, der på alle måder bliver trængt, men ikke bliver stængt inde, er tvivlrådige, men ikke fortvivlede,
-v9 forfulgte, men ikke forladte, slået ned, men ikke slået ihjel,
-v10 idet vi altid går omkring med Jesu død i legemet, for at også Jesu liv må blive åbenbaret i vores legeme.
-v11 For vi, der lever, overgives altid til død for Jesu skyld, for at også Jesu liv må blive åbenbaret i vores dødelige kød.
-v12 Sådan er døden virksom i os, men livet i jer!
+==Håbet==
 
-
-v13 Men eftersom vi har den samme troens ånd, som der står skrevet: >>Jeg troede, derfor talte jeg,<< så tror også vi, og derfor taler vi også,
-v14 idet vi ved, at han, der oprejste Herren Jesus, også skal oprejse os med Jesus og fremstille os sammen med jer.
-v15 For det sker alt sammen for jeres skyld, for at nåden må vokse ved at nå til flere, og til Guds ære forøge taksigelsen.
-
-
-v16 Derfor taber vi ikke modet; men selvom vores ydre menneske også fortæres, fornyes dog vores indre dag for dag.
-v17 For vores trængsel, der er kortvarig og let, virker for os over al måde og mål en evig vægt af herlighed,
-v18 idet vi ikke ser på de synlige ting, men på de usynlige; for de synlige er timelige, men de usynlige er evige.
-
+v16 Derfor er vi ikke modløse, men selvom vores ydre menneske går til grunde, fornyes dog vores indre menneske dag for dag. v17 For vores nuværende lette trængsel virker for os en ud over alle grænser overvældende evig vægt af herlighed, v18 for vi ser ikke på det synlige, men på det usynlige, for det synlige varer en tid, men det usynlige evigt.
 
 

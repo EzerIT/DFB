@@ -1,33 +1,43 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.03.2022>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 6===
 
-==Paulus taler fortsat om sin aposteltjeneste, særlig under de store besværligheder og kampe, 1-10. Med inderlige ord taler han til menighedens hjerte, 11-13, og formaner til ikke at have fællesskab med de vantro hedninger, men arbejde på menighedens renselse og fuldkomne helliggørelse, 14-18.==
+
+==Guds tjenere==
+
+v1 Men som hans medarbejdere formaner vi så det ikke er forgæves at I har modtaget Guds nåde, v2 for han siger:
+
+>>Jeg har hørt dig i en gunstig tid,
+
+og jeg har hjulpet dig på frelsens dag.<<
+
+Se, nu er det en gunstig tid, se, nu er det frelsens dag. v3 I intet giver vi anledning til fald for at tjenesten ikke skal blive spottet, v4 men i alt anbefaler vi os som Guds tjenere, ved stor udholdenhed, under trængsel, i nød, i angst, v5 i pine, i fængsel, i uroligheder, under besvær, i søvnløse nætter, i sult, v6 ved renhed, ved kundskab, ved tålmodighed, ved godhed, ved Helligånden, ved oprigtig kærlighed, v7 ved sandhedens ord, ved Guds kraft, ved retfærdighedens våben til angreb og forsvar, v8 ved ære og vanære, under dårligt rygte og godt rygte, som bedragere og sandfærdige, v9 som ukendte og velkendte, som døende og se, vi lever, som tugtede, men ikke udleverede til døden, v10 som bedrøvede, men altid glade, som fattige som gør mange rige, og som de der intet har, og som ejer alt.
+
+v11 Vi har talt åbent til jer, korintere, vores hjerte er åbent, v12 I har ikke snæver plads i os, men I har snæver plads i jeres hjerter, v13 men som gengæld – jeg taler til jer som til mine børn – skal også I åbne jer.
+
+==Guds tempel==
+
+v14 Gå ikke i spænd{Ordret: >>Træk ikke i ulige åg med<<.} med vantro, for hvad har retfærdighed fælles med lovløshed, eller hvad har lys fælles med mørke? v15 Og hvilken enighed er der mellem Kristus og Beliar, eller hvilken del har troende fælles med vantro? v16 Hvilken overensstemmelse er der mellem Guds tempel og afguderne? For vi er den levende Guds tempel som Gud har sagt:
+
+>>Jeg vil bo og vandre blandt dem,
+
+og jeg være deres Gud, og de skal være mit folk.
+
+v17 Derfor, drag ud fra dem
+
+og skil jer ud, siger Herren,
+
+og rør ikke noget urent,
+
+og jeg vil tage imod jer,
+
+v18 og jeg være jeres far,
+
+og I skal være mine sønner og døtre,
+
+siger Herren den Almægtige<<
 
 
-
-v1 Men som medarbejdere formaner vi også til, at I ikke forgæves må have modtaget Guds nåde;
-v2 (han siger jo: >>På en velbehagelig tid bønhørte jeg dig, og på en frelsens dag hjalp jeg dig.<< Se, nu er det en velbehagelig tid, se, nu er det en frelsens dag;)
-v3 og vi vækker ikke anstød i nogen ting, for at tjenesten ikke skal blive kritiseret;
-v4 men i alting anbefaler vi som Guds tjenere os selv ved stor udholdenhed i trængsler, i nød, i angster,
-v5 under slag, i fængsler, under oprør, under besværligheder, i nattevågen, i faste,
-v6 ved renhed, ved kundskab, ved overbærenhed, ved velvillighed, ved Helligånden, ved oprigtig kærlighed,
-v7 ved sandheds ord, ved Guds kraft, ved retfærdighedens våben både til angreb og forsvar;
-v8 ved ære og vanære, ved dårligt rygte og godt rygte; som forførere og dog sandfærdige;
-v9 som ukendte og dog velkendte; som døende, og se, vi lever; som de, der straffes, dog ikke til døde;
-v10 som bedrøvede, dog altid glade; som fattige, der dog gør mange rige; som de, der intet har, og dog ejer alt.
-
-
-v11 Vores mund er åbnet over for jer, korinthere! Vores hjerte har udvidet sig.
-v12 I har ikke snæver plads i os, men der er snæver plads i jeres hjerter.
-v13 Men til gengæld (jeg taler som til mine børn), må I på samme måde også udvide jeres hjerter!
-
-
-v14 Træk ikke i ulige åg med vantro; for hvad har retfærdighed at gøre med lovløshed? Eller hvad har lys til fælles med mørke?
-v15 Hvad samklang er der mellem Kristus og Belial? Eller hvad delagtighed har en troende med en vantro?
-v16 Hvordan stemmer Guds tempel overens med afguder? For vi er den levende Guds tempel, ligesom Gud har sagt: >>Jeg vil bo og vandre iblandt dem, og jeg vil være deres Gud, og de skal være mit folk.<<
-v17 >>Gå derfor væk fra dem og udskil jer fra dem, siger Herren, og rør ikke noget urent; og jeg vil tage imod jer,<<
-v18 >>og jeg vil være eders Far, og I skal være mine sønner og døtre, siger Herren, den Almægtige.<<

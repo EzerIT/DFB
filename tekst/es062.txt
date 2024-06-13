@@ -1,24 +1,127 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 62===
 
-==Profeten lover menigheden retfærdighed, et nyt navn, stor ære og nåde, åndelig forening med dens frelser, trofaste lærere, ro og fred, 1-9; han forkynder igen hedningernes omvendelse og også de omvendte jøders lykketilstand, 10-12.==
 
+==Jerusalems frelse og herlighed==
 
-v1 For Zions skyld vil jeg ikke tie stille, og for Jerusalems skyld vil jeg ikke være tavs, indtil dens retfærdighed bryder frem som stråleglans og dens frelse som et blus, der brænder.
-v2 Og hedningerne skal se din retfærdighed og alle konger din herlighed; og du skal kaldes med et nyt navn, som JHVHs mund skal nævne.
-v3 Og du skal være en dejlig krone i JHVHs hånd og et kongeligt hovedsmykke i din Guds hånd.
-v4 Man skal ikke mere kalde dig >>den forladte<<, og dit land skal heller ikke mere kaldes >>det ødelagte<<; men du skal kaldes >>min lyst er i det<<, og dit land skal kaldes >>hustruen<<; for JHVH har sin lyst i dig, og dit land skal få sin ægtemand.
-v5 For som en ung mand gifter sig med en ung pige, sådan skal dine børn tage dig til ægte; og som en brudgom glæder sig over bruden, sådan skal din Gud glæde sig over dig.
-v6 På dine mure, Jerusalem! har jeg sørget for vægtere, de skal ikke tie stille dagen lang eller hele natten; I, der råber til JHVH {T: Teksten har: >>påminder om JHVH<<}, ti ikke stille!
-v7 Og lad ham ikke få ro, indtil han fpr grundlagt Jerusalem og gjort den til lovprisning på hele jorden.
-v8 JHVH svor ved sin højre hånd og ved sin magts arm: Jeg vil ikke mere give dine fjender dit korn at spise, og udlændinge skal heller ikke drikke din vin, som du har arbejdet for.
-v9 Men de, der har samlet kornet sammen, skal spise det og prise JHVH; og de, der har indhøstet vinen, skal drikke den i min helligdoms forgårde.
+v1 For Zions skyld vil jeg ikke tie, 
 
-v10 Gå ind, gå ind igennem portene, gør plads for folket; ban vej, ja, ban vejen, fjern stenene fra den, løft et banner for folkene!
-v11 Se, JHVH har ladet det høre til jordens ende; sig til Zions datter: Se, din frelse kommer; se, hans løn er med ham, og hans gengældelse går foran ham.
-v12 Og man skal kalde dem et helligt folk, JHVHs løskøbte; og dig skal man kalde >>den by, man søger til, den, der ikke er forladt<<.
+og for Jerusalems skyld vil jeg ikke hvile 
+
+indtil dens retfærdighed bryder frem som lysglans, 
+
+og dens frelse brænder som en fakkel.
+
+v2 Og folkeslag{T: Kan også oversættes: >>hedninger<<.} skal se din retfærdighed 
+
+og alle konger din herlighed; 
+
+og du skal kaldes med et nyt navn 
+
+som JHVHs mund skal bestemme.
+
+v3 Og du skal være en prægtig krone i JHVHs hånd 
+
+og en kongelig turban i din Guds hånd.
+
+v4 Det skal ikke mere siges om dig: >>forladt<<, 
+
+og om dit land skal der ikke mere siges: >>ødelæggelse<<; 
+
+men dig kalder man: >>mit behag er i hende<<, 
+
+og dit land: >>hustru<<; 
+
+for JHVH har behag i dig, 
+
+og dit land bliver taget til hustru.
+
+v5 Som en yngling gifter sig med en jomfru, 
+
+sådan skal dine børn tage dig til hustru; 
+
+og med en brudgoms glæde over en brud, 
+
+skal din Gud glæde sig over dig.
+
+***
+
+v6 På dine mure, Jerusalem, 
+
+anbringer jeg vægtere; 
+
+hele dagen og hele natten
+
+- aldrig skal de tie; 
+
+I, der påkalder JHVH,{T: Teksten har ordret: >>påminder JHVH<<} 
+
+I har ingen ro!
+
+v7 Og giv ham ingen ro 
+
+indtil han genrejser, 
+
+og indtil han gør Jerusalem 
+
+til lovprisning på jorden.
+
+***
+
+v8 JHVH har svoret ved sin højre hånd 
+
+og ved sin styrkes arm: 
+
+Jeg vil afgjort ikke mere give{E: Ordret: >>Hvis jeg giver dit korn<<. Men da eftersætningen er udeladt, får: *ʔim* (>>hvis<<) betydningen: >>afgjort ikke<<.} dit korn 
+
+som føde til dine fjender, 
+
+og fremmede skal afgjort ikke drikke din vin, 
+
+som du har anstrengt dig for.
+
+v9 Men de der samler kornet{T: Ordret blot: >>det<<.} ind, skal spise det, 
+
+og de skal prise JHVH; 
+
+og de der indhøster vinen,{T: Ordret blot: >>den<<.} skal drikke den 
+
+i mine hellige forgårde.
+
+***
+
+v10 Gå igennem, gå igennem portene, 
+
+ryd folkets vej; 
+
+byg, byg den banede vej, 
+
+rens den for sten, 
+
+rejs et banner over folkene!
+
+v11 Se, JHVH har ladet det høre 
+
+til jordens ende: 
+
+Sig til Zions datter: 
+
+Se, din frelse{E: Septuaginta har: >>din frelser<<, der synes forudsat i næste linje, men de hebraiske håndskrifter har: *yišʕēx* (>>din frelse<<) og ikke: *môšîʕēx*: >>din frelser<<.} kommer; 
+
+se, hans løn er med ham, 
+
+og hans fortjeneste er foran ham.
+
+v12 Og man skal kalde dem Det Hellige Folk, 
+
+JHVHs Løskøbte; 
+
+og dig skal man kalde Eftertragtet, 
+
+en by der ikke bliver forladt.
+
 

@@ -1,37 +1,15 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 5===
 
-==Selv om apostelens legeme skulle nedbrydes i døden, har han det himmelske herlighedslegeme i vente. Helst ønskede han at nå frem til det ved at opleve Herrens komme, uden at aflægge legemet i døden, 1-4. Men hvordan det end skal gå med det, er han frimodig - fra en anden side set er døden jo en vinding for ham - og han søger under alle forhold at være Herren til behag, 5-10. Sin tjeneste udfører han derfor i Herrens frygt, hvad korintherne kan vise over for hans modstandere. Kristi død for alle mennesker er det, der behersker ham i hele hans tjeneste, 11-17; han betragter den som en forligelsens tjeneste imellem Gud og menneskene, på Guds vegne og i Kristi sted, 18-21.==
 
+v1 For vi ved at hvis vores jordiske hus, som er et telt, nedbrydes, har vi en bolig fra Gud, et evigt hus som ikke er bygget md hænder, i himlene. v2 Ja, i dette telt sukker vi i længsel efter at iklædes vores bolig fra himlen, v3 så sandt vi som afklædte, ikke vil blive fundet nøgne. v4 For vi som er i dette telt, sukker tyngede fordi vi ikke vil afklædes, men iklædes for at det dødelige kan blive opslugt af livet. v5 Han som har forberedt os til netop dette, er Gud som gav os Ånden som pant. v6 Derfor er vi altid modige skønt vi ved at når vi har hjemme i denne krop, har vi ikke hjemme hos Herren, v7 ja, vi vandrer i tro, ikke i skuen, v8 og vi er modige, men vi vil hellere forlade denne krop og være hjemme hos Herren. v9 Derfor sætter vi også en ære i at tjene ham, hvad enten vi er hjemme eller borte. v10 For vi skal alle åbenbares foran Kristi domstol for at enhver kan få igen for det han har gjort i livet,{T: Ordret: >>ved kroppen<<} hvad enten det er godt eller ondt.
 
+==Forsoningens tjeneste==
 
-v1 For vi ved, at hvis vores jordiske teltbolig nedbrydes, har vi en bygning fra Gud, en bolig, der ikke er gjort med hænder, en evig i himlene.
-v2 Ja, også i den{T: den jordiske teltbolig.} sukker vi, længselsfulde efter at blive iklædt vores bolig fra himmelen,
-v3 så sandt vi da som påklædte ikke skal findes nøgne.{T: dvs. uden legeme, i dødsriget, jfr. v. 4.}
-v4 Ja, vi, der er i dette telt, sukker besværede, eftersom vi ikke vil klædes af, men klædes på, for at det dødelige kan blive opslugt af livet.
-v5 Men den, der har sat os i stand til netop det, er Gud, der gav os Åndens pant.
-v6 Derfor er vi altid frimodige og ved, at mens vi er hjemme i legemet, er vi borte fra Herren -
-v7 For det er i tro, vi vandrer, ikke i skuen -
-v8 ja, vi er frimodige og har snarere lyst til at vandre bort fra legemet og være hjemme hos Herren.
-v9 Derfor sætter vi også vores ære i at være velbehagelige for ham, hvad enten vi er hjemme eller borte.
-v10 For vi skal alle åbenbares for Kristi domstol, for at enhver kan få igen, hvad der er gjort i legemet, efter det, han har øvet, enten godt eller ondt.
- 
-
-v11 Eftersom vi da kender frygten for Herren, søger vi at vinde mennesker; men for Gud er vi åbenlyse; ja, jeg håber, at vi også er åbenlyse for jeres samvittigheder.
-v12 Vi anbefaler ikke igen os selv til jer; men vi giver jer anledning til at rose jer af os, for at I kan have noget at svare dem, der roser sig af det ydre og ikke af hjertet.
-v13 For når vi >>blev afsindige<<, var det for Guds skyld, og når vi er besindige, er det for jeres skyld.
-v14 For Kristi kærlighed tvinger os,
-v15 idet vi har konkluderet sådan: Én er død for alle, altså er de alle døde; og han døde for alle, for at de levende ikke mere skal leve for sig selv, men for ham, der er død og oprejst for dem.
-v16 Sådan ved vi fra nu af ikke af nogen efter kødet{T: efter det ydre}; selvom vi også har kendt Kristus efter kødet, gør vi det dog ikke mere nu.
-v17 Derfor, hvis nogen er i Kristus, er han en ny skabning; det gamle er gået forbi, se, det er blevet nyt!
-v18 Men alt dette er fra Gud, der forligte os med sig selv ved Kristus og gav os forligelsens tjeneste,
-v19 eftersom det jo var Gud, der i Kristus forligte verden med sig selv, idet han ikke tilregner dem deres overtrædelser og har nedlagt forligelsens ord i os.
-v20 Vi er altså sendebud i Kristi sted, som om Gud formaner ved os; vi beder i Kristi sted: Bliv forligt med Gud!
-v21 Den, der ikke kendte synd, har han gjort til synd for os, for at vi skal blive Guds retfærdighed i ham.
-
+v11 Da vi altså kender frygt for Herren, søger vi at overbevise mennesker, men for Gud er vi blevet åbenbaret, og jeg håber også, at vi er blevet åbenbaret for jeres samvittighed. v12 Vi anbefaler os ikke igen over for jer, men giver jer anledning til at være stolte af os for at I kan have noget at være stolte af over for dem som er stolte af det ydre og ikke af hjertet. v13 For var vi ude af os selv, var vi det for Gud, eller var vi beherskede, var vi det for jer. v14 For Kristi kærlighed tvinger os, for vi har sluttet dette: Én er død i stedet for alle, altså er alle døde, v15 og han døde i stedet for alle for at de som lever, ikke mere skal leve for sig selv, men for ham som døde og opstod for dem. v16 Derfor kender vi fra nu af ingen rent menneskeligt,{T: Ordret: >>efter kødet<<.} og selvom vi har kendt Kristus rent menneskeligt,{T: Ordret: >>efter kødet<<.} så kender vi ham nu ikke mere rent menneskeligt.{T: Der er indsat >>menneskeligt<<.} v17 Derfor hvis nogen er i Kristus, er han en ny skabning, det gamle er forbi, se, det er blevet nyt. v18 Men alt er fra Gud som forsonede os med sig selv ved Kristus, og som gav os forsoningens tjeneste, v19 for det var Gud i Kristus som forsonede verden med sig selv, og han tilregnede dem ikke deres fejltrin, og han satte ordet om forsoningen blandt os. v20 Vi er da udsendinge i Kristi sted som om Gud formaner ved os. Vi beder i Kristi sted: Forson jer med Gud. v21 Ham som ikke kendte synd, har han gjort til synd for os for at vi skulle blive Guds retfærdighed i ham.
 
 

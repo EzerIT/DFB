@@ -1,36 +1,170 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 59===
 
-==Profeten viser, at JHVH så let som ingenting kunne og ville høre og frelse folket, men at det ikke skete, og det var ene og alene på grund af deres synder, som han opregner her, 1-8; han beklager og bekender folkets synder og overtrædelser imod Gud, 9-15; Gud lover at befri dem, at straffe deres fjender, at sende Messias til dem og evigt at regere over dem med sin Ånd og sit Ord, 16-21.==
+==Folkets synder skiller dem fra Gud, der ønsker at frelse==
 
+v1 Se, JHVHs hånd er ikke for kort til at frelse; 
 
-v1 Se, JHVHs hånd er ikke blevet så kort, at han ikke kunne frelse; og hans øre er ikke så tunghørt, at han ikke kunne høre.
-v2 Men jeres misgerninger sætter et skel mellem jer og jeres Gud; og jeres synder gør, at han gemmer ansigtet for jer, så han ikke hører.
-v3 For jeres hænder er plettet med blod og jeres fingre med misgerning; jeres læber taler løgn, jeres tunge fremsiger uret.
-v4 Der er ingen, der påkalder i retfærdighed, og ingen, der går i rette med redelighed; man holder sig til tomhed og taler løgn, undfanger uret og føder forbrydelse.
-v5 De udruger basilisk-æg og væver spindelvæv; den, der spiser af deres æg, må dø, og trykkes et i stykker, farer der en øgle ud.
-v6 Deres væveri skal ikke blive til tøj, og man kan ikke dække sig med deres arbejde, deres arbejder er uretfærdige arbejder, og der er voldsgerninger i deres hænder.
-v7 Deres fødder løber efter det onde og iler efter at at udgyde uskyldigt blod, deres tanker er uretfærdige tanker; der er ødelæggelse og undergang på deres veje.
-v8 Fredens vej kender de ikke, og der er ingen ret i deres spor; deres stier gør de krogede for sig selv, hver den, der går ad dem, kender ikke til fred.
+og hans øre er ikke for tunghørt{T: Ordret: >>tungt<<.} til at høre.
 
-v9 Derfor er retten langt væk fra os, og retfærdigheden når ikke hen til os; vi regner med lys, og se, der er mørke; vi venter kun solskin, og se, vi vandrer i sort nat.
-v10 Vi famler som de blinde efter en væg, ja, vi famler som de, der ikke har øjne; vi støder os om middagen som i tusmørket, vi er på de øde steder som de døde.
-v11 Vi brummer alle sammen som bjørne og kurrer som duer; vi venter på ret, og den kommer ikke, på frelse, og den er langt borte fra os.
-v12 For vores overtrædelser er mange for dig, og vores synder vidner imod os; for vores overtrædelser følger os, og vi kender vores misgerninger,
-v13 at vi har forbrudt os og fornægtet JHVH, og at vi har vendt os bort fra vores Gud, at vores tale gik ud på undertrykkelse og frafald, at vi har udtænkt og udtalt falske ord af vores hjerte.
-v14 Retten er trådt tilbage, og retfærdigheden står langt borte, for sandheden snubler på gaden, og retten finder ingen indgang.
-v15 Sandheden er borte, og den, der undgår det onde, bliver til rov. Og JHVH så det, og det var ondt i hans øjne, at der ingen ret var.
+v2 Derimod satte jeres misgerninger skel 
 
-v16  Og han så, at der ikke var nogen, og han undrede sig meget over, at der ikke var nogen mellemmand; men hans egen arm hjalp ham, og hans retfærdighed støttede ham.
-v17 Og han iførte sig retfærdighed som sin brynje, og frelsens hjælm var på hans hoved; og som dragt tog han hævnens klæder på og iførte sig brændende iver som en kappe.
-v18 Som de har fortjent, ja efter fortjeneste skal han betale sine modstandere med vrede, sine fjender med gengældelse; ja, dem på øerne skal han betale efter fortjeneste.
-v19 Og de fra Vesten skal frygte JHVHs navn, og de fra solens opgang hans herlighed; når fjenden kommer som en flod, skal JHVH, skal JHVHs Ånd rejse et banner imod ham.
-v20 Og der skal komme en løskøber for Zion og for dem, der omvender sig fra overtrædelse i Jakob, siger JHVH.
-v21 Og hvad angår mig, dette er min pagt med dem, siger JHVH: Min Ånd, der er over dig, og mine ord, som jeg har lagt i din mund, skal ikke forlade din mund eller dine børns mund eller dine børnebørns mund, siger JHVH, fra nu af og til evig tid.
+mellem jer og jeres Gud; 
 
+og jeres synder skjulte ansigtet{E: Ordret blot ubestemt: >>ansigt<< (*pānîm*). De gamle oversættelser forudsætter: *pānāʸw*: >>hans ansigt<<.} for jer, 
+
+så han ikke hørte.
+
+v3 For jeres hænder er plettet med blod 
+
+og jeres fingre med misgerning; 
+
+jeres læber har talt løgn, 
+
+jeres tunge fremsiger ondskab.
+
+v4 Der er ingen der indstævner i retfærdighed, 
+
+og ingen der går i rette med redelighed; 
+
+man stoler på tomhed og taler løgn, 
+
+undfanger ulykke og føder ondskab.
+
+v5 De udruger slangeæg 
+
+og væver edderkoppespind; 
+
+den der spiser af deres æg, vil dø, 
+
+og det der er trådt i stykker, udklækker{T: Ordret: >>spaltes til<<.} en øgle.
+
+v6 Deres spind duer ikke til tøj, 
+
+og man kan ikke tildække sig med deres arbejde. 
+
+Deres arbejder er ondskabs arbejder, 
+
+og der er voldsgerninger i deres hænder.
+
+v7 Deres fødder løber til det onde, 
+
+og de skynder sig at udgyde uskyldigt blod. 
+
+deres planer er ondskabs planer; 
+
+der er vold og ødelæggelse på deres veje.
+
+v8 Fredens vej kender de ikke, 
+
+og der er ingen ret i deres spor; 
+
+deres stier gør de krogede for sig selv, 
+
+hver den der træder ad den, kender ikke til fred.
+
+==Profeten bekender folkets synd==
+
+v9 Derfor er retten langt væk fra os, 
+
+og retfærdigheden indhenter os ikke; 
+
+vi venter på lys, men se, der er mørke; 
+
+på lysglans, men se, vi vandrer i mulm.
+
+v10 Vi famler som de blinde efter en væg, 
+
+og som en der ikke har øjne, famler vi; 
+
+vi snubler ved middagstid som var det skumringen, 
+
+i den sunde alder som de døde.
+
+v11 Vi brummer alle som bjørnene, 
+
+og vi kurrer som duerne; 
+
+vi venter på retfærdigheden, men den kommer ikke, 
+
+på frelse, den er langt borte fra os.
+
+v12 For vores overtrædelser er mange foran dig, 
+
+og vores synder vidner{T: Den hebraiske tekst har verbet i singularis.} imod os; 
+
+for vores overtrædelser er foran os, 
+
+og vores misgerninger – dem kender vi:
+
+v13 Vi faldt fra og fornægtede JHVH, 
+
+vi trak os bort fra vores Gud, 
+
+vi talte undertrykkelse og frafald, 
+
+vi udtænkte{T: Kan også oversættes: >>undfangede<<.} og udtalte fra hjertet løgneord.{E: Verberne i verset står alle i inf. Abs., der i en del sammenhænge skal oversættes som finite verber.}
+
+v14 Og retten er trængt tilbage, 
+
+og retfærdighed står langt borte, 
+
+for sandhed er snublet på torvet, 
+
+og retskaffenhed kan ikke finde indgang.
+
+v15 Så sandhed vil mangle, 
+
+og den der holder sig fra ondt, bliver udplyndret rov. 
+
+==Gud vil befri sit folk og sende forløseren==
+
+JHVH så det; det var ondt i hans øjne 
+
+at der ingen retfærdighed var.
+
+v16 Og han så at der ikke var nogen, 
+
+han undrede sig over at der ikke var nogen der greb ind.{T: Verbet oversættes i andre sammenhænge: >>der gik i forbøn<< eller: >>der trådte i stedet for<< (53,12). Det er også en mulighed her.} 
+
+Men hans egen arm bragte ham sejr, 
+
+og hans retfærdighed, den støttede ham.
+
+v17 Han iførte sig retfærdighed som brynje, 
+
+og frelsens hjelm på sit hoved; 
+
+han iførte sig hævnens klæder som dragt, 
+
+hyllede sig i nidkærhed som sin kappe.
+
+v18 Alt efter handlinger vil han gengælde: 
+
+vrede mod sine modstandere, 
+
+handling mod sine fjender; 
+
+fjerne øer vil han gengælde handling,
+
+v19 så de fra vest{T: Ordret: >>(solens) nedgang<<.} skal frygte JHVHs navn, 
+
+og fra øst{T: Ordret: >>solens opgang<<.} hans herlighed; 
+
+for han kommer som den rivende flod;{E: Det er usikkert og omdiskuteret hvordan ordet: *ṣār* skal oversættes i sammenhængen, og om det er adjektiv eller substantiv. Her er det oversat som adjektiv: >>rivende<<. Andre opfatter det som substantiv og oversætter enten: >>fjende<< eller: >>nød<<. Det får indflydelse på oversættelsen af både denne og næste linje. Enten: >>når en fjende kommer ind som floden / skal JHVHs Ånd drive ham væk<<, eller: >>for nød kommer ind som en flod, / JHVHs Ånd driver den<<.} 
+
+den drives frem af JHVHs Ånd.
+
+v20 Og der skal komme en forløser til Zion 
+
+og til dem der omvender sig fra overtrædelse i Jakob, lyder JHVHs udsagn.
+
+***
+
+v21 Og hvad angår mig – dette er min pagt med dem, siger JHVH: Min Ånd, der er over dig, og mine ord, som jeg har lagt i din mund, skal ikke vige fra din mund eller dit afkoms mund eller dit afkoms afkoms mund, siger JHVH, fra nu af og til evig tid.
 
 

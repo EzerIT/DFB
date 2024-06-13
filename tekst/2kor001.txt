@@ -1,48 +1,27 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 1===
 
-==Efter en Hilsen til menigheden, 1-2, priser Paulus Gud, fordi han trøster ham i al trængsel og samtidig har omsorg for læsernes trøst og frelse, 3-7; han omtaler særligt sin udfrielse af stor trængsel og dødsfare i Asien, 8-11.  På samme måde som hele hans handlemåde og hans breve er uden svig, 12-14, sådan kan heller ikke ændringen af hans rejseplan skabe tvivl om, at han er til at stole på, hvad der tværtimod må fremgå af hans prædiken om Kristus, 15-22; det var kun for at skåne korintherne, at han ikke kom til dem, 23-24.==
 
+==Forord==
 
+v1 Paulus, ved Guds vilje Jesu Kristi apostel, og broderen Timotheus til Guds menighed som er i Korinth, sammen med alle de hellige, som er i hele Akaja: v2 Nåde og fred fra Gud vores far og fra Herren Jesus Kristus.
 
-v1 Paulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus til Guds menighed, der er i Korinth, sammen med alle de hellige, der er i hele Akaja:
-v2 Nåde være med jer og fred fra Gud, vor Far, og Herren Jesus Kristus!
+==Velsignelse==
 
+v3 Priset være Gud og vores Herre Jesu Kristi far, barmhjertighedens far og al trøsts Gud, v4 som trøster os i al vores trængsel så vi kan trøste dem der er i enhver slags trængsel, med den trøst som vi selv trøstes med af Gud. v5 For ligesom Kristi lidelser kommer til os i overflod, således kommer også trøsten til os i overflod ved Kristus. v6 Hvad enten vi trænges, så sker det til jeres trøst og frelse, eller vi trøstes, så sker det til jeres trøst, som virker i udholdenheden under de samme lidelser som også vi lider. v7 Vores håb for jer står fast fordi vi ved at ligesom I har del i lidelserne, således har I også del i trøsten.
 
-v3 Lovet være Gud og vor Herres Jesu Kristi Far, barmhjertighedens Far og al trøsts Gud,
-v4 som trøster os under al vor trængsel, for at vi må kunne trøste dem, som er i al slags trængsel, med den trøst, som vi selv trøstes med af Gud!
-v5 Ligesom Kristi Lidelser nemlig kommer rigeligt over os, sådan bliver også vores trøst rigelig ved Kristus.
-v6 Men hvad enten vi lider trængsel, sker det til jeres trøst og frelse, eller vi trøstes, sker det til jeres trøst, der viser sin kraft i, at I udholder de samme lidelser, som også vi lider; og vores håb om jer er fast,
-v7 eftersom vi ved, at ligesom I er delagtige i lidelserne, sådan er I det også i trøsten.
+v8 For jeg vil ikke, brødre, at I skal være uvidende om vores trængsel som mødte os i provinsen Asien, for vi blev til overflod, og ud over hvad vi magtede, bebyrdede så vi tvivlede på om vi ville bevare livet. v9 Ja, vi havde selv fældet dødsdommen over os for at vi ikke skulle have tillid til os selv, men til Gud, som oprejser de døde. v10 Han har befriet os af så stor en dødsfare, og han vil befri os, og til ham har vi sat vores håb at han fortsat vil befri os v11 når I hjælper med bøn for os, så der må blive sagt tak for os fra mange personer for den nådegave som er givet os gennem mange.
 
+==Det aflyste besøg i Korinth==
 
-v8 For vi vil ikke, brødre, at I skal være uvidende om den trængsel, der ramte os i Asien, at vi led overlast, over evne, så at vi endda mistede troen på livet.
-v9 Ja, selv gav vi hos os selv det svar: >>Døden<<, for at vi ikke skulle stole på os selv, men på Gud, der oprejser de døde,
-v10 han, der friede os ud af så stor en dødsfare og vil fri os, og som vi har sat vores håb til, at han også for fremtiden vil fri os,
-v11 idet også I kommer os til hjælp med bøn for os, for at der fra mange munde må blive rigeligt takket for os, for den nåde, der er vist os.
+v12 For dette er vores stolthed, vores samvittigheds vidnesbyrd, at vi færdedes i verden og især hos jer med oprigtighed og renhed fra Gud, ikke med menneskelig visdom, men med Guds nåde. v13 For vi skriver ikke andet til jer end hvad I kan læse og forstå, og jeg håber at I til sidst vil forstå, v14 ligesom også I til dels har forstået på os, at vi er jeres stolthed, ligesom også I er vores på vores Herre Jesu dag.
 
+v15 I tillid hertil besluttede jeg at komme til jer først for at I kunne få nåden for anden gang, v16 og via jer at rejse til Makedonien og igen fra Makedonien at komme til jer og fra jer at blive hjulpet videre til Judæa. v17 Når jeg altså besluttede dette, har jeg så handlet letsindigt? Eller er det sådan at det jeg beslutter, beslutter jeg ifølge kødet så der fra mig lyder både et ja, ja og et nej, nej? v18 Så sandt Gud er trofast, er vores ord til jer ikke både ja og nej. v19 For Guds Søn, Jesus Kristus, som er blevet forkyndt blandt jer ved os, ved mig, Silvanus og Timotheus, blev ikke ja og nej, men i ham er der blevet et ja. v20 For alle Guds løfter har i ham et ja, og derfor lyder der også ved ham et amen, Gud til ære, ved os. v21 Men Gud er den som knytter os og jer fast til Kristus som har salvet os, v22 og som også har beseglet os og givet os Ånden som pant i vores hjerter.
 
-v12 For det er vores ros, vores samvittigheds vidnesbyrd, at det var i i Guds hellighed og renhed, ikke i kødelig visdom, men i Guds nåde, at vi er færdedes i verden, men mest hos jer.
-v13 For vi skriver ikke andet til jer end det, som I læser eller også erkender; men jeg håber, at I indtil enden skal erkende,
-v14 ligesom I også til dels har erkendt om os, at vi er jeres ros, ligesom I er vores, på Herren Jesu Dag.
-
-
-v15 Og i tillid til det havde jeg i sinde at komme først til jer, for at I skulle få nåde to gange,
-v16 og om ad jer at tage til Makedonien og igen fra Makedonien at komme til jer og blive hjulpet videre af jer til Judæa.
-v17 Når jeg nu havde det i sinde, mon jeg så handlede i letsindighed? Eller hvad jeg beslutter, beslutter jeg det efter kødet, for at der hos mig skal være både ja, ja og nej, nej?
-v18 Så sandt Gud er trofast, er vores tale til jer ikke ja og nej.
-v19 For Guds Søn, Kristus Jesus, som blev prædiket iblandt jer ved os, ved mig og Silvanus og Timotheus, han blev ikke ja og nej, men er blevet ja i ham.
-v20 For så mange, som Guds løfter er, har de deres ja i ham; derfor får de også ved ham deres amen, Gud til ære ved os.
-v21 Men den, som sammen med jer holder os fast til Kristus og salvede os, er Gud,
-v22 som også beseglede os og gav os Åndens pant i vores hjerter.
-
-
-v23 Men jeg kalder Gud til vidne over min sjæl på, at det var for at skåne jer, at jeg ikke kom til Korinth igen.
-v24 Ikke at vi er herrer over jeres tro, men vi er medarbejdere på jeres glæde; for i troen står I.
-
+v23 Jeg kalder Gud til vidne mod mig,{T: Ordret: >>min sjæl<<.} at det var for at skåne jer at jeg ikke kom til Korinth igen. v24 Det er ikke sådan at vi er herrer over jeres tro, men vi er medarbejdere på jeres glæde, for i troen står I.
 
 

@@ -1,32 +1,17 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.03.2022>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 7===
 
-==Efter nogle hjertelige ord om sit forhold til læserne, 1-4, udtaler Paulus sin glæde over de efterretninger, som Titus har bragt om virkningerne af hans forrige brev, 5-7, at de lod sig bevæge til omvendelse, så at brevets hensigt blev nået, 8-12. Derfor er han nu trøstet og glæder sig med Titus over deres lydighed og alvor, 13-16.==
 
+==Gode nyheder fra menigheden==
 
-v1 Da vi altså har disse løfter, I elskede, så lad os rense os selv fra al besmittelse af kødet og ånden, så vi fuldfører hellighed i gudsfrygt!
+v1 Da vi nu har disse løfter, elskede, så lad os rense os selv fra al kødelig og åndelig besmittelse så vi fuldender helligheden i gudsfrygt.
 
-v2 Giv os plads; ingen har vi gjort uret, ingen ødelagt, ingen bedraget.
-v3 Jeg siger det ikke for at fælde dom; jeg har jo sagt tidligere, at I er i vores hjerter, så at vi dør sammen og lever sammen.
-v4 Jeg har stor frimodighed over for jer; jeg roser mig meget af jer, jeg er fuld af trøst, jeg strømmer over af glæde under al vores trængsel.
-v5 For heller ikke, da vi kom til Makedonien, havde vores kød nogen ro, men vi trængtes på alle måder: udadtil kampe, indadtil angster.
-v6 Men han, der trøster de nedbøjede, Gud, han trøstede os ved Titus' ankomst;
-v7 dog ikke alene ved hans ankomst, men også ved den trøst, som han var blevet trøstet over jer med, idet han fortalte os om jeres længsel, jeres gråd, jeres iver for mig, så at jeg glædede mig endnu mere.
-v8 For selvom jeg har bedrøvet jer med brevet, fortryder jeg det ikke. Selv, hvis jeg har fortrudt det, - jeg ser jo, at det brev, skønt kun til en tid, har bedrøvet jer, -
-v9 så glæder jeg mig nu, ikke over, at I blev bedrøvede, men over, at I blev bedrøvede til omvendelse; for I blev bedrøvede efter Guds sind, for at I ikke skulle lide nogen skade på grund af os.
-v10 For den bedrøvelse, der er efter Guds sind, virker omvendelse til frelse, der ikke fortrydes; men verdens bedrøvelse virker død.
-v11 For se, netop dette, at I blev bedrøvede efter Guds sind, hvor stor en iver virkede det ikke hos jer, ja forsvar, ja harme, ja frygt, ja længsel, ja brændende iver, ja straf! På enhver måde beviste I, at I selv var rene i den sag.
-v12 Altså, når jeg skrev til jer, var det ikke for hans skyld, der gjorde uret, heller ikke for hans skyld, der led uret, men for at jeres iver for os skulle blive åbenbar hos jer for Guds ansigt.
+v2 Giv os plads. Vi har ikke gjort nogen uret, vi har ikke ødelagt nogen, og vi har ikke snydt nogen. v3 Jeg siger det ikke for at fordømme{T: Ordret: >>til fordømmelse<<.} jer, for jeg har tidligere sagt at I er i vores hjerter så vi dør sammen og lever sammen. v4 Jeg har stor tillid til jer, jeg er meget stolt af jer, jeg er fuld af trøst, og jeg strømmer over af glæde i al vores trængsel.
 
-
-v13 Derfor er vi blevet trøstet. Men til vores trøst kom oveni glæden over Titus' glæde, fordi hans ånd er bragt til ro ved jer alle.
-v14 For i alt, hvad jeg har rost mig af jer over for ham, er jeg ikke blevet til skamme; men ligesom vi i alle ting har talt sandhed til jer, sådan er også vor ros over for Titus blevet sandhed.
-v15 Og hans hjerte drages inderligere til eder, når han mindes lydigheden hos jer alle, hvordan I modtog ham med frygt og bæven.
-v16 Jeg glæder mig over, at jeg i alt kan stole på jer.
-
+v5 For da vi kom til Makedonien, havde vi{T: Ordret: >>vores kød<<.} ingen ro, men vi blev trængt i alt: Udadtil kampe, indadtil frygt. v6 Men Gud, som trøster de undertrykte, trøstede os da Titus kom, v7 men ikke alene ved at han kom, men også ved den trøst som han var blevet trøstet med hos jer, da han fortalte os om jeres længsel, jeres klage og jeres iver for mig så jeg glædede mig endnu mere. v8 For selvom jeg har bedrøvet jer ved mit brev, fortryder jeg ikke, og hvis jeg havde fortrudt – jeg ser jo at dette brev, om så kun for en tid, har bedrøvet jer, v9 – så glæder jeg mig nu, ikke fordi I blev bedrøvede, men fordi I blev bedrøvede til omvendelse, for I blev bedrøvede som Gud ville for at I ikke skulle lide tab på nogen måde på grund af os. v10 For den bedrøvelse som er efter Guds vilje, virker omvendelse til frelse som ikke fortrydes, men verdens bedrøvelse virker død. v11 For se hvor stor et engagement netop dette at I blev bedrøvede efter Guds vilje, har virket hos jer, ja, forsvar, ja, indignation, ja, frygt, ja, længsel, ja, iver, ja, straf har det virket hos jer. I alt har I vist at være rene i denne sag. v12 Altså, når jeg skrev til jer, var det ikke på grund af ham som handlede uret, eller på grund af ham som led uret, men for at jeres engagement for os skulle blive åbenbaret hos jer for Guds ansigt. v13 Derfor er vi blevet trøstet. Men ud over vores trøst glædede vi os endnu meget mere over Titus’ glæde, for hans ånd er blevet fornyet af jer alle. v14 For når jeg har været stolt af noget hos jer over for ham, er jeg ikke blevet skuffet, men ligesom vi i alt har talt sandhed til jer, således er også vores stolthed over for Titus blevet til sandhed. v15 Hans hjerte drages endnu mere til jer når han husker lydigheden hos jer alle, og hvordan I modtog ham med frygt og bæven. v16 Jeg glæder mig over at jeg i alt kan have tillid til jer.
 
 

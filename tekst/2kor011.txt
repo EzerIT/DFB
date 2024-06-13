@@ -1,51 +1,23 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.11.2018>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Paulus' Andet Brev til Korintherne, kapitel 11===
 
-==Paulus har i sinde at rose sig lidt, han er nemlig bange for, at korintherne skal lade sig forføre af de falske apostle, 1-6. Han minder om sin uegennyttige optræden, som han fortsat vil modvirke disse svigefulde arbejdere med, 7-15. Som en tåbe, men af nødvendigt hensyn til modstanderne, må han nu rose sig selv af sin afstamning, sin tjeneste og sine trængsler, 16-33.==
 
+==Paulus og de falske apostle==
 
+v1 Jeg vil ønske at I ville bære over med en smule tåbelighed fra mig. Ja, bær{T: Alternativ oversættelse: >>ja, I bærer<<.} over med mig. v2 For jeg er dedikeret til jer/ med Guds dedikation, for jeg har forlovet jer med én mand for at føre jer frem som en ren jomfru for Kristus, v3 men jeg frygter at jeres tanker er blevet ført bort fra oprigtigheden og renheden for Kristus, ligesom slangen forledte Eva med sin list. v4 For hvis nogen kommer og forkynder en anden Jesus end den vi har forkyndt, eller I modtager en anden ånd end den I modtog, eller et andet evangelium end det I modtog, så bærer I smukt over med det.
 
-v1 Gid I ville finde jer i en smule tåbelighed af mig! Det gør I gør jo dog nok.
-v2 For jeg er ivrig for jer med Guds jalousi; jeg har jo forlovet jer med én mand for at stille en ren jomfru frem for Kristus.
-v3 Men jeg er bange for, at ligesom slangen bedrog Eva ved sin snuhed, sådan skal jeres tanker blive fordærvet og miste det oprigtige sindelag over for Kristus.
-v4 For hvis nogen kommer og prædiker en anden Jesus, som vi ikke prædikede, eller I får en anderledes ånd, som I ikke fik, eller et anderledes evangelium, som I ikke modtog, ville I finde jer pænt i det.
-v5 For jeg mener ikke at stå tilbage i noget for de fremragende apostle.
-v6 Selvom jeg er ulærd i talekunst, er jeg det dog ikke i kundskab; tværtimod har vi på enhver måde lagt den for dagen for jer i alle ting.
+v5 For jeg mener ikke at jeg er ringere end superapostlene. v6 Selvom jeg ikke er uddannet i at tale, så er jeg det ikke i erkendelse, men på enhver måde har vi åbenbaret den for jer. v7 Har jeg syndet ved at ydmyge mig selv for at I kunne blive ophøjet, fordi jeg har forkyndt Guds evangelium gratis for jer? v8 Andre menigheder har jeg plyndret da jeg modtog løn fra dem med henblik på tjenesten for jer, v9 og da jeg var hos jer og manglede noget, var jeg ikke en byrde for nogen, for da brødrene kom fra Makedonien, supplerede de hvad jeg manglede, og i alt har jeg afholdt mig fra at være en byrde, og jeg vil afholde mig fra det. v10 Så sandt Kristi sandhed er i mig, skal denne stolthed ikke fratages mig i Akajas egne. v12 Hvorfor? Fordi jeg ikke elsker jer? Gud ved at jeg gør.
 
+v12 Men hvad jeg gør, vil jeg fortsat gøre for at jeg kan fjerne en anledning for dem som søger en anledning til at være ligesom os i det som de er stolte af. v13 For den slags er falske apostle, uærlige arbejdere, som har forklædt sig som Kristi apostle. v14 Det er intet under, for Satan selv forklæder sig som lysets engel. v15 Derfor er det ikke noget stort hvis også hans tjenere forklæder sig som retfærdigheds tjenere; deres ende vil være i overensstemmelse med deres gerninger.
 
-v7 Eller syndede jeg ved at fornedrede mig selv, for at I skulle ophøjes, idet jeg forkyndte Guds evangelium gratis for jer?
-v8 Andre menigheder plyndrede jeg, idet jeg tog løn af dem for at tjene jer, og mens jeg var til stede hos jer og fik behov for noget, blev jeg ikke til byrde for nogen;
-v9 for det, jeg manglede, hjalp brødrene mig med, da de kom fra Makedonien, og i alt har jeg ikke og vil jeg ikke ligge nogen af jer til last.
-v10 Så vist som Kristi sandhed er i mig, skal denne ros ikke fratages mig i Akajas egne.
-v11 Hvorfor? Mon fordi jeg ikke elsker jer? Gud ved det.
-v12 Men hvad jeg gør, det vil jeg fortsat gøre, for at jeg kan fratage muligheden for dem, der søger en anledning til at vise sig som vores ligemænd i det, som de roser sig af.
-v13 For sådan nogle er falske apostle, svigefulde arbejdere, der klæder sig ud som Kristi apostle.
-v14 Og det er ikke noget under; for Satan selv skaber sig om til en lysets engel.
-v15 Derfor er det ikke noget stort, hvis også hans tjenere tager sig ud som retfærdighedens tjenere; men deres endeligt skal være efter deres gerninger.
+v16 Jeg siger igen: Ingen må mene at jeg er tåbelig, men hvis I gør det, så accepter mig som tåbelig for at jeg kan være en lille smule stolt. v17 Hvad jeg taler, taler jeg ikke i overensstemmelse med Herren, men som i tåbelighed, i tillid til at have grund til at være stolt. v18 Da mange er stolte i overensstemmelse med kødet, vil jeg også være stolt. v19 For I tåler gerne de tåbelige fordi I selv er fornuftige, v20 for I tåler hvis nogen gør jer til slaver, hvis nogen udsuger jer, hvis nogen udnytter jer, hvis nogen ophøjer sig, hvis nogen slår jer i ansigtet. v21 Jeg siger med skam at vi var for svage til det.
 
+==Paulus’ lidelser==
 
-v16 Jeg siger igen: Ingen må anse mig for en tåbe; men hvis det skal være, så find jer endda i mig som en tåbe, for at også jeg kan rose mig en smule.
-v17 Hvad jeg nu siger, siger jeg ikke efter Herrens sind, men som i tåbelighed, når jeg så tillidsfuldt roser mig.
-v18 Eftersom mange roser sig med hensyn til kødet, vil også jeg rose mig.
-v19 I finder jer jo gerne i tåberne, fordi I er kloge.
-v20 I finder jer jo i det, hvis nogen gør jer til trælle, hvis nogen æder jer op, hvis nogen tager noget fra jer, hvis nogen ophøjer sig, hvis nogen slår jer i ansigtet.
-v21 Med skamfuldhed siger jeg det, siden vi har været så svage; men hvad nogen end bryster sig af (jeg taler i tåbelighed), det bryster jeg mig også af.
-v22 Er de hebræere? Det er jeg også. Er de israelitter? Det er jeg også. Er de Abrahams efterkommere? Det er jeg også.
-v23 Er de Kristi tjenere? Jeg taler i vanvid: Det er jeg endnu mere. Jeg har tålt langt flere besværligheder, fået langt flere slag, har tit været i fængsel, tit i dødsfare.
-v24 Af jøder har jeg fem gange fået fyrre slag på nær ét.
-v25 Tre gange er jeg blevet pisket, én gang stenet, tre gange har jeg lidt skibbrud, et døgn har jeg tilbragt på dybet;
-v26 tit på rejser, i farer på floder, i farer iblandt røvere, i farer iblandt mit folk, i farer iblandt hedninger, i farer i by, i farer i ørken, i farer på havet, i farer iblandt falske brødre;
-v27 i møje og besvær, tit i nattevågen, i sult og tørst, tit i faste, i kulde og uden tøj;
-v28 dertil kommer alt det andet, jeg dagligt har liggende over mig, bekymringen for alle menighederne.
-v29 Hvem er skrøbelig, uden at også jeg er det? Hvem bliver bragt til fald, uden at det brænder i mig?
-v30 Hvis jeg skal rose mig, vil jeg rose mig af min magtesløshed.
-v31 Gud og Herren Jesu Fader, der er højlovet i evighed, ved, at jeg ikke lyver.
-v32 I Damaskus holdt Kong Aretas' statholder damaskenernes by bevogtet for at fange mig;
-v33 men igennem en luge blev jeg firet ned over muren i en kurv og undslap hans hænder.
-
+Men hvad end nogen tør være stolt af – jeg taler tåbeligt – det tør jeg også. v22 Er de hebræere? Det er jeg også. Er de israelitter? Det er jeg også. Er de Abrahams efterkommere? Det er jeg også. v23 Er de Kristi tjenere? – ude af mig selv taler jeg – jeg er det endnu mere. Jeg har slidt endnu mere, været endnu mere i fængsel, fået mange flere slag, mange gange været i livsfare. v24 Af jøderne har jeg fået fem gange fyrre minus et slag, v25 jeg er blevet pisket tre gange, én gang er jeg blevet stenet, tre gange har jeg lidt skibbrud, en nat og en dag har jeg været i havsnød, v26 ofte på rejser, i fare på floder, i fare blandt røvere, i fare fra landsmænd, i fare fra hedninger, i fare i byer, i fare i ørkener, i fare på havet, i fare blandt falske brødre, v27 i besvær og slid, ofte søvnløs, i sult og tørst, ofte i faste, i kulde og uden klæder, v28 og foruden alt andet det daglige pres: Bekymringen for alle menighederne. v29 Hvem er svag uden at jeg også er svag? Hvem falder fra uden at det brænder i mig? v30 Hvis jeg skal være stolt, vil jeg være stolt af mine svagheder. v31 Gud og Herren Jesu far, som er priset i evighed, ved at jeg ikke lyver. v32 I Damaskus bevogtede kong Aretas’ statholder damaskenernes by for at gribe mig, v33 men jeg blev firet ned i en kurv gennem et vindue i muren, og jeg undslap hans hånd.
 
 

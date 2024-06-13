@@ -1,26 +1,138 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Svend Erik Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.11.2016>!!
-
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 13.06.2024>!!
 ===Esajas' Bog, kapitel 56===
 
-==JHVH formaner alle til gudfrygtighed og lover også de omvendte og lydige hedninger sin nåde, 1-8; han kalder på fjenderne, for at de skal straffe de blinde og hykleriske lærere, der er stumme hunde og vandrer efter deres egne lyster, 9-12.==
+==Templet – et bedehus for alle mennesker==
+
+v1 Sådan siger JHVH: 
+
+>>Hold jer til ret og øv retfærdighed; 
+
+for min frelse er nær ved at komme 
+
+og min retfærdighed ved at åbenbares.<<
+
+v2 Lykkeligt{T: Kan også oversættes: >>saligt<<.} er et menneske der gør det, 
+
+og et menneskebarn der holder fast ved det, 
+
+den der holder sabbatten uden at vanhellige den, 
+
+og holder sin hånd fra at gøre noget ondt.
+
+***
+
+v3 Og den fremmede{T: Ordret: >>fremmedhedens søn<<.} der har sluttet sig til JHVH, 
+
+skal ikke tale og sige: 
+
+>>JHVH vil helt sikkert skille mig ud fra sit folk;<< 
+
+og den kastrerede skal ikke sige: 
+
+>>Se, jeg er et vissent træ.<<
+
+***
+
+v4 For sådan siger JHVH: 
+
+Til eunukkerne 
+
+der vil holde mine sabbatter 
+
+og vælger det der behager mig, 
+
+og holder fast ved min pagt,
+
+v5 til dem giver jeg i mit hus 
+
+og inden for mine mure et mindesmærke{T: Kan også oversættes: >>hånd<<.} og et navn, 
+
+bedre end sønner og end døtre; 
+
+jeg vil give ham{T: De gamle oversættelser har: >>dem<<.} et evigt navn 
+
+der ikke skal udslettes.
+
+***
+
+v6 Og de fremmede{T: Ordret: >>fremmedhedens sønner<<.} 
+
+der har sluttet sig 
+
+til JHVH for at tjene ham 
+
+og for at elske JHVHs navn, 
+
+for at være tjenere for ham, 
+
+enhver der holder sabbat uden at vanhellige den, 
+
+og de der holder fast ved min pagt,
+
+v7 dem fører jeg til mit hellige bjerg 
+
+og glæder dem i mit bedehus; 
+
+deres brændofre og deres slagtofre 
+
+skal være til behag på mit alter; 
+
+for mit hus skal kaldes et bedehus for alle folkeslagene.
+
+v8 Et udsagn fra Herren JHVH, 
+
+der samler Israels fordrevne: 
+
+Jeg vil samle endnu flere hos ham 
+
+oven i dem der allerede er samlet hos ham.
 
 
-v1 Sådan siger JHVH: Hold jer til ret og øv retfærdighed; for min frelse skal til at komme og min retfærdighed til at åbenbares.
-v2 Lykkeligt er det menneske, der gør det, og det menneskebarn, der holde fast ved det, den, der overholder sabbatten, så han ikke vanhelliger den, og der passer på sin hånd, så den aldrig gør ondt.
-v3 Og den fremmede, der har sluttet sig til JHVH, skal ikke sige: >>JHVH skal helt sikkert skille mig ud fra sit folk;<< og den kastrerede skal ikke sige: >>Se, jeg er et vissent træ.<<
-v4 For sådan siger JHVH: De kastrerede, der vil overholde mine sabbatter og vælge det, der behager mig, og holde fast ved min pagt,
-v5 dem vil jeg give en plads i mit hus og inden for mine mure og et bedre navn end sønner og end døtre; jeg vil give dem et evigt navn, der ikke skal slettes.
-v6 Og de fremmede, der har sluttet sig til JHVH for at tjene ham og at elske JHVHs navn for at være hans tjenere, hver af dem, der holder sabbat, så han ikke vanhelliger den, men holder fast ved min pagt,
-v7 dem vil jeg føre til mit hellige bjerg og glæde dem i mit bedehus; deres brændofre og deres slagtofre skal være mig til behag på mit alter; for mit hus skal kaldes et bedehus for alle folkeslag.
-v8 Sådan siger Herren JHVH, der samler de fordrevne af Israel: Jeg vil samle endnu flere om ham end dem, der allerede er samlet om ham.
+==Fjenderne skal straffe de troløse ledere==
 
-v9 Alle I markens dyr! Kom og æd, alle I dyr i skoven!
-v10 Alle hans {T: dvs. Israels} vægtere er blinde, de ved ingenting, de er alle stumme hunde, der ikke kan gø, de ligger og drømmer, de holder af søvn.
-v11 Og det er hunde, der er grådige, de kender ikke til at blive mætte, og det er hyrder, der mangler forstand; de har vendt sig hver sin vej, hver til sin fordel, den ene som den anden.
-v12 >>Kom, jeg henter vin, og lad os drikke stærk drik; og i morgen skal det gå til ligesom dagen i dag, stort og overdådigt!<<
+v9 Alle markens dyr! 
 
+Kom for at æde, 
+
+alle dyr i skoven!
+
+v10 Hans vægtere er blinde, 
+
+de ved alle ingenting, 
+
+de er alle stumme hunde 
+
+der ikke kan gø; 
+
+drømmende, liggende, 
+
+de elsker at slumre.
+
+v11 Og hundene er grådige, 
+
+de kender ikke til mæthed; 
+
+og de er hyrder 
+
+der ikke kender til indsigt; 
+
+de vender sig alle hver sin vej, 
+
+enhver til sin fordel, 
+
+den ene som den anden.{T: Ordret: >>fra hans grænse<<, oftest oversat: >>i hele 
+sin udstrækning<< eller: >>den ene som den anden<<. En del fortolkere og oversættere stryger denne linje.}
+
+v12 >>Kom, lad mig hente vin, 
+
+og lad os svire i stærk drik! 
+
+Og dagen i morgen skal blive ligesom denne, 
+
+Stor, overdådig!<<
 
 
