@@ -1,15 +1,23 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Ulrik Sandborg-Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 18.02.2021>!!
-
-=== Paulus' Første Brev til Thessalonikerne, kapitel 4 ===
-
-v1 I øvrigt, brødre, beder vi jer og formaner jer i Herren Jesus at I lever{T: Ordret, >>vandrer<<.} mere og mere sådan som I modtog det af os, nemlig hvordan I bør leve og behage Gud, som I jo også gør.  v2 I ved jo hvilke leveregler vi gav jer ved Herren Jesus.  
-
-v3 For dette er nemlig Guds gode vilje med jer, at I helliges: at I afholder jer fra utugt; v4 at hver af jer véd at vinde sig sin egen hustru i hellighed og ære, v5 ikke i lidenskabeligt begær ligesom hedningerne, der ikke kender Gud; v6 og at ingen foruretter eller misbruger sin egen bror i nogen sag{T: Kan også oversættes: >>forretning/foretagende<<.}. For Herren hævner alt dette,{E: Kan også oversættes: >>for Herren er en hævner over alle den slags mennesker<<. Grundteksten er tvetydig.} som vi også førhen rent ud sagde til jer og vidnede for jer. v7 For Gud kaldte os jo ikke til urenhed, men til helliggørelse.
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 28.06.2024>!!
+===Paulus' Første Brev til Thessalonikerne, kapitel 4===
 
 
-v9 Men om broderkærlighed har I ikke brug for, at jeg skriver til jer.  I er nemlig selv oplært af Gud til at elske hinanden. v10 Det samme gør I jo også imod alle brødrene i hele Makedonien.  Men vi opmuntrer jer, brødre, til at gøre det mere og mere, v11 og til at sætte en ære i at leve stilfærdigt og varetage enhver sit, og til at enhver arbejder med sine egne hænder, sådan som vi pålagde jer det. Det gjorde vi, for at I må leve{T: Ordret: >>vandre<<.} sømmeligt over for dem, som er udenfor, og for at I ikke skal mangle noget.
+==Formaning til hellighed==
 
-v13 Men vi ønsker ikke, brødre, at I skal være udvidende om dem som er sovet hen, for at I ikke skal sørge ligesom de andre, som ikke har noget håb. v14 For når vi tror at Jesus døde og opstod, så vil Gud også på samme måde føre de hensovede i Jesus sammen med ham. v15 For dette siger jeg til jer med et Herrens ord, at vi der lever og bliver tilbage indtil Herrens komme, vi skal på ingen måde komme forud for dem som er hensovet. v16 For Herren selv vil med et kommandoråb, med en ærkeengels røst og med en Guds basun stige ned fra himlene. Og de som er døde i Kristus, skal opstå først. v17 Derefter skal vi som lever, som er blevet tilbage, bortrykkes sammen med dem i skyerne for at mødes med Herren i luften. Og sådan skal vi altid være sammen med Herren. v18 Trøst derfor hinanden med disse ord.
+v1 I øvrigt, brødre, så beder vi og formaner jer i Herren Jesus til – ligesom I modtog af os om hvordan I skal leve og imødekomme Gud, ligesom I også lever – at gøre yderligere fremgang. v2 For I ved hvilke befalinger vi gav jer ved Herren Jesus. 
+
+v3 For dette er Guds vilje, jeres helligelse, at I afholder jer fra utugt, v4 at enhver af jer forstår at vinde sin egen hustru{T: Det græske ord betyder >>kar<< eller >>redskab<< og bruges billedligt om en hustru (jf. 1 Pet 3,7).} i hellighed og ære, v5 og ikke i begærets lidenskab ligesom hedningerne, som ikke kender Gud, v6 at ingen krænker og bedrager sin bror i nogen sag, for Herren gengælder alt dette, ligesom vi også før har sagt og bevidnet. v7 For Gud kaldte jer ikke til urenhed, men til helligelse. v8 Altså, den der forkaster dette, forkaster ikke et menneske, men Gud som giver jer sin Helligånd.
+
+==Om broderkærlighed==
+
+v9 Men om broderkærlighed har I ikke brug for at jeg skriver til jer, for I er selv blevet undervist af Gud til at elske hinanden, v10 for I gør det også mod alle brødrene i hele Makedonien. Men jeg formaner jer, brødre, til at gøre yderligere fremgang v11 og sætte en ære i at leve roligt og passe jeres egne sager og arbejde med jeres egne hænder, som vi også har befalet jer, v12 for at I kan leve ordentligt over for dem udenfor og ikke have brug for noget.
+
+==Om Jesu genkomst==
+
+v13 Men vi vil ikke, brødre, at I skal være uvidende om dem der sover,{T: Med >>dem der sover<< menes troende som er døde.} for at I ikke skal sørge, ligesom de øvrige, som ikke har noget håb. v14 For når vi tror at Jesus er død og opstået, så tror vi{T: >>Tror vi<< er tilføjet.} at Gud også ved Jesus vil føre dem som sover, sammen med ham. v15 For dette siger vi jer med Herrens ord at vi som lever og bliver tilbage ved Herrens komme, ikke skal gå forud for dem som sover, v16 for Herren selv vil stige ned fra himlen ved en befaling, med en ærkeengels stemme og med Guds basun, og de døde i Kristus vil opstå først, v17 derefter vil vi som lever, og som bliver tilbage, sammen med dem blive bortrykket i skyerne for at møde Herren i luften, og så skal vi altid være sammen med Herren. v18 Derfor, trøst hinanden med disse ord.
+
+

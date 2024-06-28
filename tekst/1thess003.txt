@@ -1,12 +1,21 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Ulrik Sandborg-Petersen>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Dato for denne version: 12.05.2017>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 28.06.2024>!!
+===Paulus' Første Brev til Thessalonikerne, kapitel 3===
 
-=== Paulus' Første Brev til Thessalonikerne, kapitel 3 ===
 
-v1 Derfor, da vi ikke længere kunne holde det ud, besluttede vi at lades alene tilbage i Athen.{T: Se ApG 17,15.} v2 Og vi sendte Timotheus, vores broder og medtjener for Gud i Kristi evangelium, for at styrke jer og opmuntre jer i jeres tro, v3 så at ingen skulle blive rystet af disse trængsler; I ved jo selv, at dertil er vi bestemt. v4 For også mens vi var hos jer, forudsagde vi det for jer, at der ville komme forfølgelse, sådan som det også skete, som I jo ved. v5 På grund af dette sendte jeg også bud, da jeg ikke længere kunne holde det ud, for at få besked om jeres tro, at fristeren forhåbentlig ikke havde fristet jer, og vores slid havde været spildt.
+==Timotheus’ sendelse==
 
-v6 Men nu er Timotheus kommet til os fra jer, og har fortalt os de gode nyheder om jeres tro og kærlighed, og om, at I altid husker os for noget godt og længes efter at se os, ligesom vi længes efter at se jer. v7 Derfor er vi blevet trøstet, brødre, over jer og jeres tro, oven på al vores nød og trængsel. v8 For nu lever vi, hvis I står fast i Herren.  v9 For hvilken tak kunne vi bringe Gud for jer til gengæld for al den glæde, som vi glæder os med foran vores Gud, v10 når vi nat og dag overstrømmende beder om at måtte få jeres ansigt at se, og om at få lov at bringe de ting, som mangler i jeres tro, til fuldstændighed? 
+v1 Derfor, da vi ikke mere kunne holde det ud, besluttede vi at blive efterladt alene i Athen, v2 og vi sendte Timotheus, vores broder og Guds medarbejder i forkyndelsen af evangeliet om Kristus, for at styrke jer og opmuntre jer i jeres tro v3 så at ingen skulle blive rokket under disse trængsler. For I ved selv at dertil er vi bestemt. v4 For da vi var hos jer, sagde vi forud til jer at vi skulle lide trængsel, ligesom det også er sket, og I ved det. v5 Derfor, da jeg ikke længere kunne holde det ud, sendte jeg bud for at få viden om jeres tro, om måske Fristeren skulle have fristet jer, og vores slid været forgæves.
 
-v11 Måtte han selv, vores Gud og Far og vores Herre, Jesus Kristus, styre vor vej til jer. v12 Måtte Herren give jer vækst og lade jer strømme over i kærligheden til hinanden og til alle, ligesom vi har den til jer, v13 så at han gør jeres hjerter faste og gør dem ulastelige i hellighed for Gud, vores far, når vor Herre Jesus kommer med alle sine hellige. Amen.
+==Timotheus’ rapport==
+
+v6 Men nu, da Timotheus er kommet til os fra jer, og da han har forkyndt godt budskab om jeres tro og kærlighed, og at I altid erindrer os med glæde og længes efter at se os, ligesom vi også længes efter jer. v7 Derfor er vi blevet trøstet ved jeres tro, brødre, med hensyn til jer i al vores nød og trængsel, v8 for nu lever vi, så sandt I står fast i Herren. v9 For hvilken tak kan vi bringe til Gud for jer til gengæld for al den glæde som vi fyldes med på grund af jer over for vores Gud, v10 når vi nat og dag inderligt beder om at se jer og udbedre manglerne i jeres tro.
+
+==Bøn==
+
+v11 Men han, Gud og vores Far og vores Herre Jesus, lede vores vej til jer, v12 og Herren lade jer vokse og blive overvældende rige på kærlighed til hinanden og til alle, ligesom også vi har til jer, v13 for at styrke jeres hjerter til uangribelighed i hellighed over for Gud og vores Far ved vores Herre Jesu komme med alle hans hellige, amen.
+
+
