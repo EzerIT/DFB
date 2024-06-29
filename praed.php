@@ -98,9 +98,9 @@ function refh($book,$chap,$from=0,$to=0) {
     $hbook = $hebbooks[$book];
 
     if ($from==0)
-        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$hbook/$chap\">Ⓗ</a>";
+        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chap\">Ⓗ</a>";
 
-    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/ETCBC4/$hbook/$chap/$from/$to\">Ⓗ</a>";
+    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chap/$from/$to\">Ⓗ</a>";
 }
 
 function refg($book,$chap,$from=0,$to=0) {
@@ -108,9 +108,9 @@ function refg($book,$chap,$from=0,$to=0) {
     $gbook = $grbooks[$book];
 
     if ($from==0)
-        return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$gbook/$chap\">Ⓖ</a>";
+        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chap\">Ⓖ</a>";
 
-    return "<a target=\"_blank\" href=\"https://bibleol.3bmoodle.dk/text/show_text/nestle1904/$gbook/$chap/$from/$to\">Ⓖ</a>";
+    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chap/$from/$to\">Ⓖ</a>";
 }
 
 function ref_refh($book,$chap,$from=0,$to=0,$alt_refname=null) {
