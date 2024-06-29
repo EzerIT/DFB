@@ -1,5 +1,7 @@
 <?php
 
+// Convert old markup format to USFM
+
 require_once('../oversigt.inc.php');
 
 function replaceitsfm(array $filenames) {
