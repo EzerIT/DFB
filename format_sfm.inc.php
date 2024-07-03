@@ -1,129 +1,21 @@
 <?php
-require_once('oversigt.inc.php');
 
-class ParserException extends Exception {
-    public function __construct($message) {
-        parent::__construct($message);
-    }
-
-    public function __toString() {
-        return __CLASS__ . ": [{$this->code}]: {$this->message}\n";
-    }
-}
-
-
-
-class SfmTokenizer {
-    public function __construct(string $text) {
-        $this->text = $text;
-        $this->pos = 0;
-    }
-
-    // Get the next token
-    public function get_token(): string {
-        return $this->get_token2($this->pos);
-    }
-
-    // Retrieve the next token, but don't update the current position
-    public function peek_token(): string {
-        $pos = $this->pos;
-        return $this->get_token2($pos);
-    }
-
-    private function get_token2(&$pos): string {
-        while (true) {
-            if ($pos==strlen($this->text))
-                return "";
-            
-            // Use \G instead of ^ because the latter doesn't work with an offset!=0
-            // Look for \xx or \+xx or \xx*
-            if (preg_match('/\G\\\\\\+?[a-z0-9]+\*?/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-                return $matches[0];
-            }
-
-            // Look for sequence of non-backslash and non-space characters
-            elseif (preg_match('/\G[^\\\\\s]+/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-                return $matches[0];
-            }
-
-            // Look for spaces, but don't return them to caller
-            elseif (preg_match('/\G\s+/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-            }
-            else
-                throw new ParserException("Error in SfmTokenizer");
-        }
-    }
-
-    private $text;
-    private $pos;
-}
-    
-
-
-function Xformatref($ref,$endchar,$target_blank) {
-    global $deabbrev, $chap;
-
-    $links = '';
-    
-    $offset = 0;
-    while (preg_match('/((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+)(,([0-9]+)(-([0-9]+))?)?)([;\.]\s*)?/',
-                      // Matches:
-                      // 0: Everything
-                      // 1: ((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
-                      // 2: (([1-5]? )?[A-ZÆØÅ][a-zæøå]+)  - Book
-                      // 3: ([1-5]? )?
-                      // 4: ([0-9]+)  - Chapter
-                      // 5: (,([0-9]+)(-([0-9]+))?)?
-                      // 6: ([0-9]+)  - 'From' verse
-                      // 7: (-([0-9]+))?
-                      // 8: ([0-9]+)  - 'To' verse
-                      // 9: ([;\.]\s*)?
-                      $ref,
-                      $matches,
-                      PREG_OFFSET_CAPTURE,
-                      $offset)) {
-
-        if (!isset($deabbrev[$matches[2][0]]) || !in_array($matches[4][0],$chap[$deabbrev[$matches[2][0]]]))
-            $links .= $matches[0][0];
-        else {
-            $links .= '<a '
-                    . ($target_blank ? 'target="_blank" ' : '')
-                    . 'href="show.php?bog='
-                    . $deabbrev[$matches[2][0]]
-                    . "&kap=" . $matches[4][0];
-
-            if (!empty($matches[6][0])) {
-                // 'From' verse is set
-                $links .=  "&fra=" . $matches[6][0]
-                         . "&til=" . (!empty($matches[8][0]) ? $matches[8][0] : $matches[6][0]);
-            }
-            
-            $links .= '">'
-                    . $matches[1][0] . '</a>'
-                    . (isset($matches[9]) && !empty($matches[9][0]) ? $matches[9][0] : $endchar);
-        }
-        $offset = $matches[4][1];
-                
-    }
-    return $links;
-}
-
-
-class FormatSfm {
+class FormatSfm extends Formatter {
     private $output = '';       // HTML string is generated here
-    public $nextletter = 'a';  // Next footnote letter
-    public $nextnumber = 1;    // Next footnote number
+    private $filename;
+    private $chapter;
+    private $from_verse;
+    private $to_verse;
 
-    public $title = '';
-    public $credit = '';
-    public $read_chapter;       // When we're dealing with only one chapter, this is the same as the requested chapter
 
-    public $references = [];
+    public function __construct(string $filename, int $chapter, int $from_verse, int $to_verse) {
+        $this->filename = $filename;
+        $this->chapter = $chapter;
+        $this->from_verse = $from_verse;
+        $this->to_verse = $to_verse;
+    }
     
-    private function finish($building,$buffer) {
+    private function finish($building, string $buffer) {
         switch ($building) {
             case 'MT1':
                 $this->title = $buffer;
@@ -140,8 +32,8 @@ class FormatSfm {
         }
     }
 
-    public function to_html($filename, $chapter, $from_verse, $to_verse) {
-        $txt = file_get_contents($filename);
+    public function to_html() {
+        $txt = file_get_contents($this->filename);
 
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");
@@ -150,26 +42,26 @@ class FormatSfm {
 
 
         // Remove following chapters
-        $chapter1 = $chapter+1;
+        $chapter1 = $this->chapter+1;
         $txt = preg_replace("/\\\\c +${chapter1}[^0-9].*/s",'',$txt);
         
         // Remove preceding chapters, if any
-        if ($chapter>1)
-            $txt = preg_replace("/\\\\c +1[^0-9].*(\\\\c +${chapter}[^0-9].*)/s",'\1',$txt);
+        if ($this->chapter>1)
+            $txt = preg_replace("/\\\\c +1[^0-9].*(\\\\c +{$this->chapter}[^0-9].*)/s",'\1',$txt);
 
         // TODO:
         //    // Handle verse restriction
-        //    if ($from_verse>0)
-        //        $txt = preg_replace("/(===[^=]+===).*(v$from_verse )/s",'\1\2',$txt);
+        //    if ($this->from_verse>0)
+        //        $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
         // 
         // 
-        //    if ($to_verse>0) {
-        //        // Find first verse > $to_verse
+        //    if ($this->to_verse>0) {
+        //        // Find first verse > $this->to_verse
         //        $matches=array();
         //        $offset=0;
         //        while ($found = preg_match('/v([0-9]+)/',$txt,$matches,PREG_OFFSET_CAPTURE,$offset)) {
         //            $offset = $matches[1][1];
-        //            if (intval($matches[1][0])>intval($to_verse))
+        //            if (intval($matches[1][0])>intval($this->to_verse))
         //                break;
         //        }
         //        if ($found) {
@@ -474,7 +366,7 @@ class FormatSfm {
 // 
 // 
 //    $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
-//    $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$chapter.':</span>\2</span>';
+//    $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$this->chapter.':</span>\2</span>';
 // 
 //    if ($exegetic_layout) {
 //        // Handle indentation
@@ -695,10 +587,5 @@ class FormatSfm {
 //}
 //}
 
-//    $credit = "";
 
-//$format_sfm = new FormatSfm;
-// 
-//$format_sfm->to_html($_SERVER['argv'][1], 2, $title, $credit, 0,0);
-// 
-//echo $format_sfm->output;
+

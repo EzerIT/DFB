@@ -1,7 +1,7 @@
 <?php
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
-require_once('replaceit.inc.php');
+require_once('formatter.inc.php');
 
 makeheadstart('Ordforklaring');
 makeheadend();
@@ -32,7 +32,7 @@ mb_internal_encoding('UTF-8');
                   <?php if (!file_exists($file)): ?>
                       <p class="card-text bg-warning">Ordforklaring findes ikke.</p>
                   <?php else: ?>
-                      <?= replaceit_ordforkl($file) ?>
+                      <?= FormatText::replaceit_ordforkl($file) ?>
                   <?php endif; ?>
                   </div>
               <?php endif; ?>
