@@ -11,58 +11,6 @@ class ParserException extends Exception {
     }
 }
 
-
-
-class SfmTokenizer {
-    public function __construct(string $text) {
-        $this->text = $text;
-        $this->pos = 0;
-    }
-
-    // Get the next token
-    public function get_token(): string {
-        return $this->get_token2($this->pos);
-    }
-
-    // Retrieve the next token, but don't update the current position
-    public function peek_token(): string {
-        $pos = $this->pos;
-        return $this->get_token2($pos);
-    }
-
-    private function get_token2(&$pos): string {
-        while (true) {
-            if ($pos==strlen($this->text))
-                return "";
-            
-            // Use \G instead of ^ because the latter doesn't work with an offset!=0
-            // Look for \xx or \+xx or \xx*
-            if (preg_match('/\G\\\\\\+?[a-z0-9]+\*?/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-                return $matches[0];
-            }
-
-            // Look for sequence of non-backslash and non-space characters
-            elseif (preg_match('/\G[^\\\\\s]+/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-                return $matches[0];
-            }
-
-            // Look for spaces, but don't return them to caller
-            elseif (preg_match('/\G\s+/',$this->text,$matches,0,$pos)) {
-                $pos += strlen($matches[0]);
-            }
-            else
-                throw new ParserException("Error in SfmTokenizer");
-        }
-    }
-
-    private $text;
-    private $pos;
-}
-    
-
-
 function formatref($ref,$endchar,$target_blank) {
     global $deabbrev, $chap;
 
@@ -122,6 +70,18 @@ abstract class Formatter {
 
     public $references = [];
 
+    protected $book;
+    protected $chapter;
+    protected $from_verse;
+    protected $to_verse;
+
+    public function __construct(string $book, int $chapter, int $from_verse, int $to_verse) {
+        $this->book = $book;
+        $this->chapter = $chapter;
+        $this->from_verse = $from_verse;
+        $this->to_verse = $to_verse;
+    }
+
     abstract public function to_html();
 }    
 
@@ -130,10 +90,15 @@ require_once('format_text.inc.php');
 require_once('format_sfm.inc.php');
 
 
-function make_formatter(bool $use_sfm, string $book, int $chapter, int $from_verse, int $to_verse) {
-    if ($use_sfm)
-        return new FormatSfm(sprintf('ptx/%s.sfm',$book),$chapter,$from_verse,$to_verse);
-    else
-        return new FormatText(sprintf('tekst/%s%03d.txt',$book,$chapter),$chapter,$from_verse,$to_verse);
+function make_formatter(string $book, int $chapter, int $from_verse, int $to_verse) {
+    global $filetype;
+    
+    switch (is_array($filetype[$book]) ? $filetype[$book][$chapter] : $filetype[$book]) {
+        case 'sfm':
+            return new FormatSfm($book,$chapter,$from_verse,$to_verse);
+
+        case 'txt':
+            return new FormatText($book,$chapter,$from_verse,$to_verse);
+    }
 }
         

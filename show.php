@@ -127,6 +127,18 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
         text-indent: 2em;
         display: block;
     }
+
+    div.poetry1 {
+        margin-left: 7em;
+        text-indent: -5em;
+        display: block;
+    }
+
+    div.poetry2 {
+        margin-left: 7em;
+        text-indent: -3em;
+        display: block;
+    }
     </style>
 
     <script>
@@ -196,11 +208,13 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 
             <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
                 $('.paragraph').css('display','inline');
+                $('.poetry').css('display','inline').css('margin-left','0');
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
             <?php if ($_SESSION['linespace']=='on'): ?>
                 $('.paragraph').css('line-height','2');
+                $('.poetry').css('line-height','2');
                 $('.indent').css('line-height','2');
             <?php endif; ?>
 
@@ -244,7 +258,7 @@ makemenus(null);
       <div class="row">
         <div class="col-lg-9 col-xl-8">
             <?php
-            $formatter = make_formatter(false, $bog, $kap, $fra, $til);
+            $formatter = make_formatter($bog, $kap, $fra, $til);
             $text = $formatter->to_html();
             $heading = trim($formatter->title) . ", kapitel $formatter->read_chapter";
             $credit = $formatter->credit;

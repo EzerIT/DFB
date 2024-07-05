@@ -51,7 +51,7 @@ function replaceitsfm(array $filenames) {
             global $thisverse, $thischapter;
             if ($match[2]) { // We have a chapter number
                 $thischapter = $match[2];
-                return '\\c ' . $match[2] . PHP_EOL . '\\m';
+                return '\\c ' . $match[2] . PHP_EOL . '\\m ';
             }
             elseif ($match[4]) { // We have a verse number
                 $thisverse = $match[4];
@@ -60,11 +60,11 @@ function replaceitsfm(array $filenames) {
             elseif ($match[5]) { // We have a footnote or reference
                 switch ($match[5]) {
                     case 'E':
-                        return '\\fe + \\fr ' . "$thischapter,$thisverse" . ' \\ft ' . $match[6] . '\\fe*';
+                        return '\\fe + \\fr ' . "$thischapter,$thisverse" . ' \\ft ' . $match[6] . '\\fe* ';
                     case 'T':
-                        return '\\f + \\fr '  . "$thischapter,$thisverse" . ' \\ft ' . $match[6] . '\\f*';
+                        return '\\f + \\fr '  . "$thischapter,$thisverse" . ' \\ft ' . $match[6] . '\\f* ';
                     case 'H':
-                        return '\\x + \\xo '  . "$thischapter,$thisverse" . ' \\xt ' . $match[6] . '\\x*';
+                        return '\\x + \\xo '  . "$thischapter,$thisverse" . ' \\xt ' . $match[6] . '\\x* ';
                 }
             }
             else
@@ -77,16 +77,16 @@ function replaceitsfm(array $filenames) {
     $to[] = '';
     
 //    $from[] = '/===.*(apitel|alme) (.*){E:\s*([^}]+)}===/';
-//    $to[] = '\\c \2 \\p\\fe + \\ft \3\\fe*' . PHP_EOL . '\\m';
+//    $to[] = '\\c \2 \\p\\fe + \\ft \3\\fe*' . PHP_EOL . '\\m ';
 //    
 //    $from[] = '/===.*(apitel|alme) (.*){T:\s*([^}]+)}===/';
-//    $to[] = '\\c \2 \\p\\f + \\ft \3\\f*' . PHP_EOL . '\\m';
+//    $to[] = '\\c \2 \\p\\f + \\ft \3\\f*' . PHP_EOL . '\\m ';
 //    
 //    $from[] = '/===.*(apitel|alme) (.*)===/';
-//    $to[] = '\\c \2' . PHP_EOL . '\\m';
+//    $to[] = '\\c \2' . PHP_EOL . '\\m ';
 
     $from[] = '/==(.*)==/';
-    $to[] = PHP_EOL . '\\s \1' . PHP_EOL . '\\m';
+    $to[] = PHP_EOL . '\\s \1' . PHP_EOL . '\\m ';
 
     $from[] = '/>>>/';
     $to[] = '»›';
@@ -122,17 +122,17 @@ function replaceitsfm(array $filenames) {
     $to[] = 'HERRE';
  
     $from[] = '/\$([^\$]*)\$/';
-    $to[] = '\\add \1\add*';
+    $to[] = '\\add \1\add* ';
  
     $from[] = '~//(\d*) *~';
     $to[] = ' \\zei \1\\zei* '; // We add a space before \\zei because Paratext's punctuation test does not like
                                 // a \\zei immediately following a punctuation mark
  
     $from[] = '/\R *\R/';
-    $to[] = "\n\\\\p";
+    $to[] = "\n\\\\p ";
  
     $from[] = '/\*\*\*/';
-    $to[] = '\\b';
+    $to[] = '\\b ';
 
     $from[] = '/(\\\\p[ \n\r]*)+(\\\\[spc])/';  // Replace multiple \p followed by \p, \s, or \c with just the final marker
     $to[] = "\\2";
@@ -140,17 +140,21 @@ function replaceitsfm(array $filenames) {
     $from[] = '/(\\\\p[ \n\r]*)+(\\\\toc)/';  // Replace multiple \p followed by \toc with just the final marker
     $to[] = "\\2";
 
-    $from[] = '/\\\\m[ \n\r]*+\\\\p/';  // Replace \m\p with \m
+    $from[] = '/\\\\m[ \n\r]*\\\\p/';  // Replace \m\p with \m
     $to[] = '\\m';
 
-    $from[] = '/\\\\m[ \n\r]*+\\\\s/';  // Replace \m\s with \s
+    $from[] = '/\\\\m[ \n\r]*\\\\s/';  // Replace \m\s with \s
     $to[] = "\\s";
 
-    $from[] = '/\\\\p\\\\b/';  // Replace \p\b with \b
+    $from[] = '/\\\\p[ \n\r]*\\\\b/';  // Replace \p\b with \b
     $to[] = '\\b';
     
     $txt = preg_replace($from, $to, $txt);
 
+    // Remove duplicate and trailing spaces
+
+    $txt = preg_replace(['/  +/','/ +\R/'],[' ',"\n"],$txt);
+    
     return  $txt;
   }
 

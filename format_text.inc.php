@@ -1,21 +1,8 @@
 <?php
 
 class FormatText extends Formatter {
-    private $filename;
-    private $chapter;
-    private $from_verse;
-    private $to_verse;
-
-
-    public function __construct(string $filename, int $chapter, int $from_verse, int $to_verse) {
-        $this->filename = $filename;
-        $this->chapter = $chapter;
-        $this->from_verse = $from_verse;
-        $this->to_verse = $to_verse;
-    }
-
     public function to_html() {
-        $txt = file_get_contents($this->filename);
+        $txt = file_get_contents(sprintf('tekst/%s%03d.txt',$this->book,$this->chapter));
 
         if (preg_match('/"/',$txt)) {
             echo "<h1>Fejl</h1>\n";
@@ -42,8 +29,12 @@ class FormatText extends Formatter {
             if ($found) {
                 $txt = substr($txt,0,$offset-1);
 
+                // Remove trailing //#
+                $txt = preg_replace('|(.*)//[0-9]+\s*$|','\1', $txt);
+
+                
                 // Remove a possible final heading
-                if (preg_match('/[^=]==[^=]+==\s*$/',$txt,$matches,PREG_OFFSET_CAPTURE,0)) {
+                if (preg_match('/[^=]==[^=]+==\s*$/s',$txt,$matches,PREG_OFFSET_CAPTURE,0)) {
                     $txt = substr($txt,0,$matches[0][1]);
                 }
             }
