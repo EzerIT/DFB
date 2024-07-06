@@ -66,8 +66,6 @@ abstract class Formatter {
 
     public $title = '';
     public $credit = '';
-    public $read_chapter;       // When we're dealing with only one chapter, this is the same as the requested chapter
-
     public $references = [];
 
     protected $book;

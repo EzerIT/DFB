@@ -260,11 +260,9 @@ makemenus(null);
             <?php
             $formatter = make_formatter($bog, $kap, $fra, $til);
             $text = $formatter->to_html();
-            $heading = trim($formatter->title) . ", kapitel $formatter->read_chapter";
-            $credit = $formatter->credit;
             ?>
           <div class="card mt-4">
-              <h1 class="card-header bg-warning"><?= $heading ?></h1>
+              <h1 class="card-header bg-warning"><?= $formatter->title ?></h1>
             <div class="card-body bibletext">
                 <?= $text ?>
                 <span id="tenspaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -347,7 +345,7 @@ makemenus(null);
             <div class="card mt-3">
                 <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
                 <div class="card-body biblenotes">
-                    <?php foreach ($credit as $c): ?>
+                    <?php foreach ($formatter->credit as $c): ?>
                         <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
                     <?php endforeach; ?>
                 </div>

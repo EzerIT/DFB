@@ -51,14 +51,15 @@ class SfmTokenizer {
 
 
 class FormatSfm extends Formatter {
-    private $output = '';       // HTML string is generated here
+    private $output = '';      // HTML string is generated here
     private $exegetic_layout;  // True if exegetic indentation is available and requested
     private $exindent;         // Exegetic indentation value
+    private $read_chapter;     // Chapter number read from file
 
     private function finish($building, string $buffer) {
         switch ($building) {
             case 'MT1':
-                $this->title = $buffer;
+                $this->title = rtrim($buffer) . ", kapitel $this->read_chapter";
                 break;
             case 'HEADER':
                 if (!$this->exegetic_layout)
