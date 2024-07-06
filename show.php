@@ -5,7 +5,7 @@
 
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
-require_once('replaceit.inc.php');
+require_once('formatter.inc.php');
 
 
 // $minchap: Minimum chapter number
@@ -128,6 +128,17 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
         display: block;
     }
 
+    div.poetry1 {
+        margin-left: 7em;
+        text-indent: -5em;
+        display: block;
+    }
+
+    div.poetry2 {
+        margin-left: 7em;
+        text-indent: -3em;
+        display: block;
+    }
     </style>
 
     <script>
@@ -175,8 +186,12 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 
             <?php if ($_SESSION['showh2']=='on'): ?>
                 $('h2').show();
+                $('.paragraph1').css('text-indent','0');
             <?php else: ?>
                 $('h2').hide();
+                <?php if ($_SESSION['showh2']=='off'): ?>
+                    $('.paragraph1:first-of-type').css('text-indent','0');
+                <?php endif; ?>
             <?php endif; ?>
 
             <?php if ($_SESSION['showfna']=='on'): ?>
@@ -193,11 +208,13 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 
             <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
                 $('.paragraph').css('display','inline');
+                $('.poetry').css('display','inline').css('margin-left','0');
                 $('.verseno').before('<br class="versebreak">');
             <?php endif; ?>
 
             <?php if ($_SESSION['linespace']=='on'): ?>
                 $('.paragraph').css('line-height','2');
+                $('.poetry').css('line-height','2');
                 $('.indent').css('line-height','2');
             <?php endif; ?>
 
@@ -240,7 +257,12 @@ makemenus(null);
     <div class="container">
       <div class="row">
         <div class="col-lg-9 col-xl-8">
-          <?php $text = replaceit(sprintf('tekst/%s%03d.txt',$bog,$kap), $kap, $heading, $credit, $fra, $til); ?>
+            <?php
+            $formatter = make_formatter($bog, $kap, $fra, $til);
+            $text = $formatter->to_html();
+            $heading = trim($formatter->title) . ", kapitel $formatter->read_chapter";
+            $credit = $formatter->credit;
+            ?>
           <div class="card mt-4">
               <h1 class="card-header bg-warning"><?= $heading ?></h1>
             <div class="card-body bibletext">
@@ -262,10 +284,10 @@ makemenus(null);
       </div>
 
       <?php
-      $show_ref = !empty($references);
+      $show_ref = !empty($formatter->references);
       $show_note = $_SESSION['showfnblock']=='on'
                 && ($_SESSION['showfna']=='on' || $_SESSION['showfn1']=='on')
-                && ($nextnumber>1 || $nextletter>'a');
+                && ($formatter->nextnumber>1 || $formatter->nextletter>'a');
       ?>
       
       <div class="row">
@@ -278,7 +300,7 @@ makemenus(null);
                       <h1 class="card-header bg-info text-light">Henvisninger</h1>
                       <div class="card-body biblenotes">
                           <small>
-                          <?php foreach ($references as $v => $ref): ?>
+                          <?php foreach ($formatter->references as $v => $ref): ?>
                               <?php $format_ref = formatref($ref,'.',false); ?>
                               v<?= $v?>: <?= $format_ref ?><br>
                           <?php endforeach; ?>
