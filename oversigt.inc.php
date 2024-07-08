@@ -134,6 +134,7 @@ $abbrev['jon']  = 'Jon';
 $abbrev['nah']  = 'Nah';
 $abbrev['hab']  = 'Hab';
 $abbrev['sef']  = 'Sef';
+$abbrev['mal']  = 'Mal';
 $abbrev['hagg'] = 'Hagg';
 $abbrev['zak']  = 'Zak';
 $abbrev['matt'] = 'Matt';

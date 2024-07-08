@@ -65,7 +65,7 @@ $grbooks = [
     '1thess' => 'I_Thessalonians',
     '2thess' => 'II_Thessalonians',
     '1tim'   => 'I_Timothy',
-    '1tim'   => 'II_Timothy',
+    '2tim'   => 'II_Timothy',
     'tit'    => 'Titus',
     'filem'  => 'Philemon',
     'hebr'   => 'Hebrews',
@@ -149,7 +149,7 @@ $lessons1 = [
     // 1. søndag efter helligtrekonger
     2 => [ ref_refh("sl",84),
            ref_refg("rom",12,1,5),
-           ref_refg("luk",2,41,52) ],
+           ref_refg("luk",2,41,52) . "<br>eller " . ref_refg("mark",10,13,16) ],
 
     // 2. søndag efter helligtrekonger
     3 => [ ref_refh("2mos",33,18,23),
@@ -476,6 +476,313 @@ $lessons1 = [
             ref_refg("åb",7,1,17,"Åb 7,1-12[17]"),
             ref_refg("matt",5,1,12) ]
 ];
+
+$lessons2 = [
+    // Nytårsdag
+    0 => [ ref_refh("sl",90),
+           ref_refg("jak",4,13,17),
+           ref_refg("matt",6,5,13) ],
+
+    // Helligtrekongers søndag
+    1 => [ ref_refh("es",60,1,6) . "<br>eller " . ref_refh("job",28,12,28),
+           ref_refg("1joh",2,7,11),
+           ref_refg("matt",2,1,12) . "<br>eller " . ref_refg("matt",8,12,20) ],
+
+    // 1. søndag efter helligtrekonger
+    2 => [ ref_refh("sl",84), 
+           ref_refg("rom",12,1,5),
+           ref_refg("luk",2,41,52) ],
+
+    // 2. søndag efter helligtrekonger
+    3 => [ ref_refh("2mos",33,18,23),
+           ref_refg("rom",12,6,16,"Rom 12,[6]9-16a"),
+           ref_refg("joh",2,1,11) ],
+
+    // 3. søndag efter helligtrekonger
+    4 => [ ref_refh("1mos",15,1,6),
+           ref_refg("hebr",11,1,6),
+           ref_refg("luk",17,5,10) ],
+
+    // 4. søndag efter helligtrekonger
+    5 => [ ref_refh("es",40,26,31),
+           ref_refg("rom",4,18,25,"Rom 4,18-22[25]"),
+           ref_refg("matt",14,22,33) ],
+
+    // 5. søndag efter helligtrekonger
+    6 => [ ref_refh("præd",8,9,15),
+           ref_refg("kol",3,12,17),
+           ref_refg("matt",13,24,30) ."<br>eller ". ref_refg("matt",13,44,52) ],
+
+    // Sidste søndag efter helligtrekonger
+    7 => [ ref_refh("es",2,2,5),
+           ref_refg("kol",1,25,28,"Kol 1,25d-28"),
+           ref_refg("joh",12,23,33) ],
+
+    // Søndag septuagesima
+    8 => [ ref_refh("job",9,1,12),
+           ref_refg("apg",17,22,34),
+           ref_refg("matt",25,14,30 ) ],
+
+    // Søndag seksagesima
+    9 => [ ref_refh('es',45,5,12),
+           ref_refg('1kor',1,18,25,'1 Kor 1,18-21[25]') ."<br>eller ". ref_refg("2tim",3,10,17),
+           ref_refg('mark',4,26,32) ],
+
+    // Fastelavns søndag
+    10 => [ ref_refh('sl',31,2,6),
+            ref_refg('1kor',13),
+            ref_refg('luk',18,31,43) ],
+
+    // 1. søndag i fasten
+    11 => [ ref_refh('1mos',4,1,12),
+            ref_refg('jak',1,9,16),
+            ref_refg('luk',22,24,32) ],
+
+    // 2. søndag i fasten
+    12 => [ ref_refh('1mos',1,27,31),
+            ref_refg('hebr',5,1,10),
+            ref_refg('mark',9,14,29) ],
+
+    // 3. søndag i fasten
+    13 => [ ref_refh('2mos',32,7,10) ."<br>og ". ref_refh('2mos',32,30,32),
+            ref_refg('åb',2,1,7),
+            ref_refg('joh',8,42,51) ],
+
+    // Midfaste søndag
+    14 => [ ref_refh('2mos',16,11,18) ."<br>eller ". ref_refh('sl',145,8,16),
+            ref_refg('2pet',1,3,11),
+            ref_refg('joh',6,24,37,"Joh 6,24-35[37]") ],
+
+    // Mariæ bebudelses dag
+    15 => [ ref_refh('es',7,10,14) ."<br>eller ". ref_refh('1mos',18,1,15),
+            ref_refg('1kor',1,21,31),
+            ref_refg('luk',1,46,55) ],
+
+    // Palmesøndag
+    16 => [ ref_refh('zak',9,9,10),
+            ref_refg('fil',2,5,11),
+            ref_refg('mark',14,3,9) ."<br>eller ". ref_refg('joh',12,1,16) ],
+
+    // Skærtorsdag
+    17 => null,
+
+    // Langfredag
+    18 => null,
+
+    // Påskedag
+    19 => null,
+
+    // Anden påskedag
+    20 => null,
+
+    // 1. søndag efter påske
+    21 => null,
+
+    // 2. søndag efter påske
+    22 => null,
+
+    // 3. søndag efter påske
+    23 => null,
+
+    // Bededag
+    24 => null,
+
+    // 4. søndag efter påske
+    25 => null,
+
+    // 5. søndag efter påske
+    26 => null,
+
+    // Kristi himmelfarts dag
+    27 => null,
+
+    // 6. søndag efter påske
+    28 => null,
+
+    // Pinsedag
+    29 => null,
+
+    // Anden pinsedag
+    30 => null,
+
+    // Trinitatis søndag
+    31 => null,
+
+    // 1. søndag efter trinitatis
+    32 => null,
+
+    // 2. søndag efter trinitatis
+    33 => null,
+
+    // 3. søndag efter trinitatis
+    34 => null,
+
+    // 4. søndag efter trinitatis
+    35 => null,
+
+    // 5. søndag efter trinitatis
+    36 => null,
+
+    // 6. søndag efter trinitatis
+    37 => null,
+
+    // 7. søndag efter trinitatis
+    38 => null,
+
+    // 8. søndag efter trinitatis
+    39 => null,
+
+    // 9. søndag efter trinitatis
+    40 => null,
+
+    // 10. søndag efter trinitatis
+    41 => null,
+
+    // 11. søndag efter trinitatis
+    42 => null,
+
+    // 12. søndag efter trinitatis
+    43 => null,
+
+    // 13. søndag efter trinitatis
+    44 => null,
+
+    // 14. søndag efter trinitatis
+    45 => null,
+
+    // 15. søndag efter trinitatis
+    46 => null,
+
+    // 16. søndag efter trinitatis
+    47 => null,
+
+    // 17. søndag efter trinitatis
+    48 => null,
+
+    // 18. søndag efter trinitatis
+    49 => null,
+
+    // 19. søndag efter trinitatis
+    50 => null,
+
+    // 20. søndag efter trinitatis
+    51 => null,
+
+    // 21. søndag efter trinitatis
+    52 => null,
+
+    // 22. søndag efter trinitatis
+    53 => null,
+
+    // 23. søndag efter trinitatis
+    54 => null,
+
+    // 24. søndag efter trinitatis
+    55 => null,
+
+    // 25. søndag efter trinitatis
+    56 => null,
+
+    // 26. søndag efter trinitatis
+    57 => null,
+
+    // Sidste søndag i kirkeåret
+    58 => null,
+
+    // 1. søndag i advent
+    59 =>  [ ref_refh('es',42,1,9),
+             ref_refg('rom',13,11,14),
+             ref_refg('luk',4,16,30) ],
+
+    // 2. søndag i advent
+    60 =>  [ ref_refh('es',11,1,10) ."<br>eller ". ref_refh('mal',3,1,3),
+             ref_refg('jak',5,7,8),
+             ref_refg('matt',25,1,13) ],
+    
+    // 3. søndag i advent
+    61 => [ ref_refh('es',40,1,8),
+            ref_refg('2kor',4,5,10),
+            ref_refg('luk',1,67,80) ],
+
+
+    // 4. søndag i advent
+    62 => [ ref_refh('es',12),
+            ref_refg('1kor',1,18,22),
+            ref_refg('joh',3,25,36) ],
+
+    // Juleaften
+    63 => [ ref_refh("es",9,1,6,"Es 9,1-6a"),
+            "",
+            ref_refg("luk",2,1,14) ."<br>eller ". ref_refg("matt",1,18,25) ],
+
+    // Juledag
+    64 => [ ref_refh("es",9,1,6,"Es 9,1-6a") ."<br>eller ". ref_refh("1mos",1,1,5),
+            ref_refg("1joh",4,7,11), 
+            ref_refg("joh",1,1,14) ],
+
+    // Anden juledag / Sankt Stefans dag
+    65 => [ ref_refh("es",50,4,7),
+            ref_refg("apg",6,8,14) ."<br>og ". ref_refg("apg",7,54,60),
+            ref_refg("matt",10,32,42) ],
+
+    // Julesøndag
+    66 => [ ref_refh("sl",27,1,5) ."<br>eller ". ref_refh("jer",31,15,17),
+            ref_refg("rom",3,19,22,"Rom 3,19-22a"),
+            ref_refg("matt",2,13,23) ],
+
+    // Alle helgens søndag
+    99 => [ ref_refh("es",49,8,11),
+            ref_refg("åb",21,1,7),
+            ref_refg("matt",5,13,16) ."<br>eller ". ref_refg("matt",5,1,12) ]
+];
+
+
+$year = idate('Y');
+$month = idate('m');
+$day = idate('d');
+
+if ($month<11) {
+    $tekstraekke = $year%2==0 ? 2 : 1;
+    $start_year = $year-1;
+}
+else {
+    $hd = new Holiday($year);
+    $start_of_eccl_year = $hd->get_advent(1);
+
+    if ($month < $start_of_eccl_year->month ||
+        ($month==$start_of_eccl_year->month && $day < $start_of_eccl_year->day)) {
+        $tekstraekke = $year%2==0 ? 2 : 1;
+        $start_year = $year-1;
+    }
+    else {
+        $tekstraekke = $year%2==0 ? 1 : 2;
+        $start_year = $year;
+    }
+}
+
+if ($tekstraekke==1) {
+    $active1 = "active";
+    $active2 = "";
+    $show1 = "show";
+    $show2 = "";
+
+    $start_year1 = $start_year;
+    $start_year2 = $start_year+1;
+    $lesson_name = "første";
+}
+else {
+    $active1 = "";
+    $active2 = "active";
+    $show1 = "";
+    $show2 = "show";
+
+    $start_year1 = $start_year+1;
+    $start_year2 = $start_year;
+    $lesson_name = "anden";
+}
+
+$ugedage = ["søndag","mandag","tirsdag","onsdag","torsdag","fredag","lørdag"];
+$dow = idate('w');
 ?>
 
 <div class="container">
@@ -487,82 +794,149 @@ $lessons1 = [
           <img class="img-fluid float-right d-none d-lg-block" style="width: 300px; margin-top: 0px; margin-left: 10px" src="img/pexels-mart-production-7220071-mod.jpg" alt="">
           <h1>Kirkeårets prædikentekster</h1>
 
-          <p>På denne side vil der gradvis opstå links til Den Frie Bibels oversættelse af
+          <p>På denne side finder du links til Den Frie Bibels oversættelse af
               kirkeårets læsninger i den danske folkekirke.</p>
           <p>Et klik på Ⓗ eller Ⓖ giver adgang til den hebraiske eller græske grundtekst.</p>
 
-          <p><b>Første tekstrække:</b></p>
-          <div class="table-responsive">
-              <table class="table table-striped">
-                  <tr>
-                      <th>Dag</th><th class="text-center">Dato i<br>2024-2025</th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
-                  </tr>
+          <p>Det er i dag <?=$ugedage[$dow]?> den <?=$day?>.<?=$month?>.<?=$year?>. Der læses for tiden efter <?=$lesson_name?> tekstrække.</p>
+          <p>Vælg tekstrække her:</p>
+          
+          <ul class="nav nav-tabs" id="myTab">
+              <li class="nav-item">
+                  <button class="nav-link <?=$active1?>" id="lesson1-tab" data-toggle="tab" data-target="#lesson1"
+                          type="button">Første tekstrække</button>
+              </li>
+              <li class="nav-item">
+                  <button class="nav-link <?=$active2?>" id="lesson2-tab" data-toggle="tab" data-target="#lesson2"
+                          type="button">Anden tekstrække</button>
+              </li>
+          </ul>
+          
+          <div class="tab-content" id="myTabContent">
+              <div class="tab-pane fade <?=$show1?> <?=$active1?>" id="lesson1">
+                  <div class="table-responsive">
+                      <table class="table table-striped">
+                          <tr>
+                              <th>Dag</th><th class="text-center">Dato i<br><?=$start_year1?>-<?=$start_year1+1?></th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                          </tr>
 
-                  <?php
-                  $holidays = new Holiday(2024);
+                          <?php
+                          $holidays = new Holiday($start_year1);
 
-                  for ($hn=59; $hn<=66; ++$hn ) {
-                      echo "<tr>\n";
-                      echo make_holiday($holidays,$hn),"\n";
+                          for ($hn=59; $hn<=66; ++$hn ) {
+                              echo "<tr>\n";
+                              echo make_holiday($holidays,$hn),"\n";
 
-                      if (!is_null($lessons1[$hn])) {
-                          echo "<td>{$lessons1[$hn][0]}</td>\n";
-                          echo "<td>{$lessons1[$hn][1]}</td>\n";
-                          echo "<td>{$lessons1[$hn][2]}</td>\n";
-                      }
-                      else
-                          echo "<td colspan=\"3\"><hr></td>\n";
-                      echo "</tr>\n";
-                  }
+                              if (!is_null($lessons1[$hn])) {
+                                  echo "<td>{$lessons1[$hn][0]}</td>\n";
+                                  echo "<td>{$lessons1[$hn][1]}</td>\n";
+                                  echo "<td>{$lessons1[$hn][2]}</td>\n";
+                              }
+                              else
+                                  echo "<td colspan=\"3\"><hr></td>\n";
+                              echo "</tr>\n";
+                          }
 
-                  $holidays = new Holiday(2025);
+                          $holidays = new Holiday($start_year1+1);
 
-                  for ($hn=0; $hn<=52; ++$hn ) {
-                      echo "<tr>\n";
-                      echo make_holiday($holidays,$hn),"\n";
+                          $all_saints_found = false;
+                          
+                          for ($hn=0; $hn<=58; ++$hn ) {
+                              if (!$all_saints_found && $holidays->holiday_is_all_saints($hn)) {
+                                  // Alle helgens søndag:
+                                  echo "<tr>\n";
+                                  echo make_all_saints_holiday($holidays),"\n";
 
-                      if (!is_null($lessons1[$hn])) {
-                          echo "<td>{$lessons1[$hn][0]}</td>\n";
-                          echo "<td>{$lessons1[$hn][1]}</td>\n";
-                          echo "<td>{$lessons1[$hn][2]}</td>\n";
-                      }
-                      else
-                          echo "<td colspan=\"3\"><hr></td>\n";
-                      echo "</tr>\n";
-                  }
+                                  if (!is_null($lessons1[99])) {
+                                      echo "<td>{$lessons1[99][0]}</td>\n";
+                                      echo "<td>{$lessons1[99][1]}</td>\n";
+                                      echo "<td>{$lessons1[99][2]}</td>\n";
+                                  }
+                                  else
+                                      echo "<td colspan=\"3\"><hr></td>\n";
+                                  echo "</tr>\n";
+                                  $all_saints_found = true;
+                              }
+                              
+                              echo "<tr>\n";
+                              echo make_holiday($holidays,$hn),"\n";
 
+                              if (!is_null($lessons1[$hn])) {
+                                  echo "<td>{$lessons1[$hn][0]}</td>\n";
+                                  echo "<td>{$lessons1[$hn][1]}</td>\n";
+                                  echo "<td>{$lessons1[$hn][2]}</td>\n";
+                              }
+                              else
+                                  echo "<td colspan=\"3\"><hr></td>\n";
+                              echo "</tr>\n";
+                          }
+                          ?>
+                      </table>
+                  </div>
+              </div>
 
-                  // Alle helgens søndag:
-                  echo "<tr>\n";
-                  echo make_all_saints_holiday($holidays),"\n";
+              <div class="tab-pane fade <?=$show2?> <?=$active2?>" id="lesson2">
+                  <p class="bg-warning mt-2">Bemærk: Ikke alle tekster for anden tekstrække foreligger i Den Frie Bibel</p>
+                  <div class="table-responsive">
+                      <table class="table table-striped">
+                          <tr>
+                              <th>Dag</th><th class="text-center">Dato i<br><?=$start_year2?>-<?=$start_year2+1?></th><th>1. læsning</th><th>2. læsning</th><th>3. læsning</th>
+                          </tr>
 
-                  if (!is_null($lessons1[99])) {
-                      echo "<td>{$lessons1[99][0]}</td>\n";
-                      echo "<td>{$lessons1[99][1]}</td>\n";
-                      echo "<td>{$lessons1[99][2]}</td>\n";
-                  }
-                  else
-                      echo "<td colspan=\"3\"><hr></td>\n";
-                  echo "</tr>\n";
+                          <?php
+                          $holidays = new Holiday($start_year2);
 
+                          for ($hn=59; $hn<=66; ++$hn ) {
+                              echo "<tr>\n";
+                              echo make_holiday($holidays,$hn),"\n";
 
-                  for ($hn=53; $hn<=58; ++$hn ) {
-                      echo "<tr>\n";
-                      echo make_holiday($holidays,$hn),"\n";
+                              if (!is_null($lessons2[$hn])) {
+                                  echo "<td>{$lessons2[$hn][0]}</td>\n";
+                                  echo "<td>{$lessons2[$hn][1]}</td>\n";
+                                  echo "<td>{$lessons2[$hn][2]}</td>\n";
+                              }
+                              else
+                                  echo "<td colspan=\"3\"><hr></td>\n";
+                              echo "</tr>\n";
+                          }
 
-                      if (!is_null($lessons1[$hn])) {
-                          echo "<td>{$lessons1[$hn][0]}</td>\n";
-                          echo "<td>{$lessons1[$hn][1]}</td>\n";
-                          echo "<td>{$lessons1[$hn][2]}</td>\n";
-                      }
-                      else
-                          echo "<td colspan=\"3\"><hr></td>\n";
-                      echo "</tr>\n";
-                  }
+                          $holidays = new Holiday($start_year2+1);
 
+                          $all_saints_found = false;
+                          
+                          for ($hn=0; $hn<=58; ++$hn ) {
+                              if (!$all_saints_found && $holidays->holiday_is_all_saints($hn)) {
+                                  // Alle helgens søndag:
+                                  echo "<tr>\n";
+                                  echo make_all_saints_holiday($holidays),"\n";
 
-                  ?>
-              </table>
+                                  if (!is_null($lessons2[99])) {
+                                      echo "<td>{$lessons2[99][0]}</td>\n";
+                                      echo "<td>{$lessons2[99][1]}</td>\n";
+                                      echo "<td>{$lessons2[99][2]}</td>\n";
+                                  }
+                                  else
+                                      echo "<td colspan=\"3\"><hr></td>\n";
+                                  echo "</tr>\n";
+                                  $all_saints_found = true;
+                              }
+                              
+                              echo "<tr>\n";
+                              echo make_holiday($holidays,$hn),"\n";
+
+                              if (!is_null($lessons2[$hn])) {
+                                  echo "<td>{$lessons2[$hn][0]}</td>\n";
+                                  echo "<td>{$lessons2[$hn][1]}</td>\n";
+                                  echo "<td>{$lessons2[$hn][2]}</td>\n";
+                              }
+                              else
+                                  echo "<td colspan=\"3\"><hr></td>\n";
+                              echo "</tr>\n";
+                          }
+                          ?>
+                      </table>
+                  </div>
+              </div>
           </div>
         </div>
       </div>

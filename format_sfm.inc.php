@@ -106,13 +106,28 @@ class FormatSfm extends Formatter {
 
         // Handle verse restriction
         if ($this->from_verse>0) {
-            if ($this->exegetic_layout)
-                $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \Z 0 \2',$txt);
-            else
-                $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \m \2',$txt);
+            if (preg_match("/(\\\\v\s+$this->from_verse\s)/s",$txt)) {
+                if ($this->exegetic_layout)
+                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \Z 0 \2',$txt);
+                else
+                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \m \2',$txt);
+            }
+            else {
+                global $title;
+                $this->title = $title[$this->book] . ", kapitel " . $this->chapter;
+                return "Vers $this->from_verse findes ikke i kapitlet.";
+            }
+
         }
 
         if ($this->to_verse>0) {
+            if (!preg_match("/(\\\\v\s+$this->to_verse\s)/s",$txt)) {
+                if ($this->exegetic_layout)
+                    $txt .= "\n\\b\n\\Z 0\n\\em [Vers $this->to_verse findes ikke i kapitlet.]\\em*\n";
+                else
+                    $txt .= "\n\\b\n\\m\n\\em [Vers $this->to_verse findes ikke i kapitlet.]\\em*\n";
+            }
+            
             // Find first verse > $this->to_verse
             $matches=array();
             $offset=0;
@@ -353,10 +368,12 @@ class FormatSfm extends Formatter {
                     }
                     break;
 
+                case '\em': // Emphasis text
                 case '\+tl': // Transliterated text
                     $buffer .= '<i>';
                     break;
 
+                case '\em*': // Emphasis text
                 case '\+tl*': // Transliterated text ends
                     $buffer .= '</i>';
                     break;

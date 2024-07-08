@@ -55,7 +55,7 @@ function pagination($book, $kapitel) {
 
 
 
-if (!isset($_GET['bog']) || !isset($minchap[$_GET['bog']]) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
+if (!isset($_GET['bog']) || !isset($_GET['kap']) || !is_numeric($_GET['kap'])) {
     echo "<pre>Forkerte parametre</pre>";
     die;
 }
@@ -270,15 +270,17 @@ makemenus(null);
           </div>
         </div>
 
-        <!-- Chapter chooser displayed at right for size lg and xl -->
-        <div class="d-none d-lg-block col-lg-3 col-xl-4">
-          <div class="card mt-4">
-            <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
-            <div class="card-body pl-xl-4 pl-lg-1 pr-0">
-              <?php pagination($bog,$kap); ?>
+        <?php if (isset($chap[$bog])): ?>
+            <!-- Chapter chooser displayed at right for size lg and xl -->
+            <div class="d-none d-lg-block col-lg-3 col-xl-4">
+                <div class="card mt-4">
+                    <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
+                    <div class="card-body pl-xl-4 pl-lg-1 pr-0">
+                        <?php pagination($bog,$kap); ?>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
+        <?php endif; ?>
       </div>
 
       <?php
@@ -325,17 +327,19 @@ makemenus(null);
       </div>
 
       
-      <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
-      <div class="row justify-content-center d-flex d-lg-none">
-        <div class="col-sm-8 col-md-6">
-          <div class="card mt-3">
-            <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
-            <div class="card-body pl-1 pl-sm-3 pr-0">
-              <?php pagination($bog,$kap); ?>
-            </div>
+      <?php if (isset($chap[$bog])): ?>
+          <!-- Chapter chooser displayed at bottom for size xs, sm, and md -->
+          <div class="row justify-content-center d-flex d-lg-none">
+              <div class="col-sm-8 col-md-6">
+                  <div class="card mt-3">
+                      <h1 class="card-header bg-info text-light">Vælg <?= $chaptype[$bog] ?></h1>
+                      <div class="card-body pl-1 pl-sm-3 pr-0">
+                          <?php pagination($bog,$kap); ?>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
-      </div>
+      <?php endif; ?>
 
       <div class="row">
         <div class="offset-xl-2 col-xl-4

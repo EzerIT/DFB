@@ -1,6 +1,8 @@
 <?php
 
 class FormatText extends Formatter {
+    private $exegetic_layout;  // True if exegetic indentation is available and requested
+
     public function to_html() {
         $txt = file_get_contents(sprintf('tekst/%s%03d.txt',$this->book,$this->chapter));
 
@@ -10,14 +12,28 @@ class FormatText extends Formatter {
             die;
         }
 
-        $exegetic_layout = preg_match('~//~',$txt) && $_SESSION['exegetic']=='on';
+        $this->exegetic_layout = preg_match('~//~',$txt) && $_SESSION['exegetic']=='on';
 
         // Handle verse restriction
-        if ($this->from_verse>0)
-            $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
+        if ($this->from_verse>0) {
+            if (preg_match("/(v$this->from_verse )/s",$txt))
+                $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
+            else {
+                global $title;
+                $this->title = $title[$this->book] . ", kapitel " . $this->chapter;
+                return "Vers $this->from_verse findes ikke i kapitlet.";
+            }
+        }
 
 
         if ($this->to_verse>0) {
+            if (!preg_match("/(v$this->to_verse )/s",$txt)) {
+                if ($this->exegetic_layout)
+                    $txt .= "\n//0&nbsp;//0 *[Vers $this->to_verse findes ikke i kapitlet.]*\n";
+                else
+                    $txt .= "\n***\n\n*[Vers $this->to_verse findes ikke i kapitlet.]*\n";
+            }
+
             // Find first verse > $this->to_verse
             $matches=array();
             $offset=0;
@@ -105,7 +121,7 @@ class FormatText extends Formatter {
         $from[] = '/===(.*)===/';  // Titles have been handled above
         $to[] = '';
         
-        if ($exegetic_layout) {
+        if ($this->exegetic_layout) {
             $from[] = '/==(.*)==/';
             $to[] = '';
 
@@ -198,7 +214,7 @@ class FormatText extends Formatter {
         $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
         $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$this->chapter.':</span>\2</span>';
      
-        if ($exegetic_layout) {
+        if ($this->exegetic_layout) {
             // Handle indentation
             //      (Regexp (.*?) matches the minimum number of arbitrary characters
             //       (?= indicates a lookahead condition).

@@ -65,7 +65,7 @@ abstract class Formatter {
     public $nextnumber = 1;    // Next footnote number
 
     public $title = '';
-    public $credit = '';
+    public $credit = [];
     public $references = [];
 
     protected $book;
@@ -83,13 +83,24 @@ abstract class Formatter {
     abstract public function to_html();
 }    
 
+// Formatter for non-exitant chapter
+class FormatNull extends Formatter {
+    public function to_html() {
+        $this->title = "Fejl";
+        $this->credit = ["Kapitel findes ikke"];
+        return "Den angivne bibeltekst findes ikke i Den Frie Bibel.";
+    }
+}
 
 require_once('format_text.inc.php');
 require_once('format_sfm.inc.php');
 
 
 function make_formatter(string $book, int $chapter, int $from_verse, int $to_verse) {
-    global $filetype;
+    global $filetype, $chap;
+
+    if (!isset($chap[$book]) || !in_array($chapter,$chap[$book]))
+        return new FormatNull($book,$chapter,$from_verse,$to_verse);
     
     switch (is_array($filetype[$book]) ? $filetype[$book][$chapter] : $filetype[$book]) {
         case 'sfm':
