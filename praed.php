@@ -1,6 +1,7 @@
 <?php
 require_once('head.inc.php');
 require_once('oversigt.inc.php');
+require_once('verses.inc.php');
 require_once('holiday.inc.php');
 
 makeheadstart('Prædikentekster');
@@ -80,45 +81,51 @@ $grbooks = [
 ];
 
 
-function ref($book,$chap,$from=0,$to=0,$alt_refname=null) {
-    global $abbrev;
+function ref($book,$chapt,$from=0,$to=0,$alt_refname=null) {
+    global $abbrev, $chap, $verses, $style, $modenhed;
 
     $refname = !is_null($alt_refname) ? $alt_refname :
-               ($from==0 ? "$abbrev[$book] $chap" :
-               "$abbrev[$book] $chap,$from-$to");
+               ($from==0 ? "$abbrev[$book] $chapt" :
+               "$abbrev[$book] $chapt,$from-$to");
 
-    if ($from==0)
-        return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chap\">$refname</a>";
+    if (!isset($chap[$book]) || !in_array($chapt,$chap[$book]))
+        return $refname;
+    else if (($style[$book]==$modenhed['ufuldstændigt'] ||
+             is_array($style[$book]) && $style[$book][$chapt]==$modenhed['ufuldstændigt']) &&
+            !in_array(($from==0?1:$from),$verses[$book][$chapt]))
+        return $refname;
+    elseif ($from==0)
+        return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chapt\">$refname</a>";
 
-    return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chap&fra=$from&til=$to\">$refname</a>";
+    return "<a target=\"_blank\" href=\"show.php?bog=$book&kap=$chapt&fra=$from&til=$to\">$refname</a>";
 }
 
-function refh($book,$chap,$from=0,$to=0) {
+function refh($book,$chapt,$from=0,$to=0) {
     global $hebbooks;
     $hbook = $hebbooks[$book];
 
     if ($from==0)
-        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chap\">Ⓗ</a>";
+        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chapt\">Ⓗ</a>";
 
-    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chap/$from/$to\">Ⓗ</a>";
+    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chapt/$from/$to\">Ⓗ</a>";
 }
 
-function refg($book,$chap,$from=0,$to=0) {
+function refg($book,$chapt,$from=0,$to=0) {
     global $grbooks;
     $gbook = $grbooks[$book];
 
     if ($from==0)
-        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chap\">Ⓖ</a>";
+        return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chapt\">Ⓖ</a>";
 
-    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chap/$from/$to\">Ⓖ</a>";
+    return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chapt/$from/$to\">Ⓖ</a>";
 }
 
-function ref_refh($book,$chap,$from=0,$to=0,$alt_refname=null) {
-    return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refh($book,$chap,$from,$to);
+function ref_refh($book,$chapt,$from=0,$to=0,$alt_refname=null) {
+    return ref($book,$chapt,$from,$to,$alt_refname) . ' ' . refh($book,$chapt,$from,$to);
 }
 
-function ref_refg($book,$chap,$from=0,$to=0,$alt_refname=null) {
-    return ref($book,$chap,$from,$to,$alt_refname) . ' ' . refg($book,$chap,$from,$to);
+function ref_refg($book,$chapt,$from=0,$to=0,$alt_refname=null) {
+    return ref($book,$chapt,$from,$to,$alt_refname) . ' ' . refg($book,$chapt,$from,$to);
 }
 
 function make_holiday($holidays,$hn) {
@@ -132,7 +139,6 @@ function make_all_saints_holiday($holidays) {
     return "<td>" . Holiday::get_holiday_name_from_number(99) . "</td>"
          . "<td class=\"text-center\">" . $holidays->format_date($holidays->get_all_saints_sunday()) . "</td>";
 }
-
 
 
 $lessons1 = [
@@ -227,9 +233,9 @@ $lessons1 = [
             ref_refg('matt',26,17,30) ],
 
     // Langfredag
-    18 => [ ref_refh('es',52,13,15) ."<br>og ". ref_refh('es',53),
+    18 => [ ref_refh('1mos',22,1,18) ."<br>og/eller: ". ref_refh('es',52,13,15) ."<br>og ". ref_refh('es',53),
             "",
-            ref_refg('matt',27,31,56) ],
+            ref_refg('matt',27,31,56) ."<br>eller ". ref_refg('mark',15,20,39) ],
 
     // Påskedag
     19 => [ ref_refh('sl',118,19,29),
@@ -243,17 +249,17 @@ $lessons1 = [
 
     // 1. søndag efter påske
     21 => [ ref_refh('sl',30),
-            ref_refg('1joh',5,1,5),
+            ref_refg('1joh',5,1,5) ."<br>eller ". ref_refg('apg',2,22,28),
             ref_refg('joh',20,19,31) ],
 
     // 2. søndag efter påske
     22 => [ ref_refh('ez',34,11,16),
-            ref_refg('1pet',2,20,25),
+            ref_refg('1pet',2,20,25)  ."<br>eller ". ref_refg('apg',2,36,41),
             ref_refg('joh',10,11,16) ],
 
     // 3. søndag efter påske
     23 => [ ref_refh('es',54,7,10),
-            ref_refg('hebr',13,12,16),
+            ref_refg('hebr',13,12,16) ."<br>eller ". ref_refg('apg',4,7,12),
             ref_refg('joh',16,16,22) ],
 
     // Bededag
@@ -263,12 +269,12 @@ $lessons1 = [
 
     // 4. søndag efter påske
     25 => [ ref_refh('ez',36,26,28),
-            ref_refg('jak',1,17,21),
+            ref_refg('jak',1,17,21) ."<br>eller ". ref_refg('apg',9,1,18),
             ref_refg('joh',16,5,15) ],
 
     // 5. søndag efter påske
-    26 => [ ref_refh('1mos',32,25,32),
-            ref_refg('jak',1,22,25),
+    26 => [ ref_refh('1mos',32,25,32) ."<br>eller ". ref_refh('jer',29,11,13,'Jer 29,11-13a'),
+            ref_refg('jak',1,22,25) ."<br>eller ". ref_refg('apg',6,1,4),
             ref_refg('joh',16,23,28,'Joh 16,23b-28') ],
 
     // Kristi himmelfarts dag
@@ -277,12 +283,12 @@ $lessons1 = [
             ref_refg('mark',16,14,20) ],
 
     // 6. søndag efter påske
-    28 => [ ref_refh('hagg',2,4,9,'Hagg 2,4b-9'),
-            ref_refg('1pet',4,7,11,'1 Pet 4,7b-11'),
+    28 => [ ref_refh('hagg',2,4,9,'Hagg 2,4b-9') ."<br>eller ". ref_refh('joel',3,1,5),
+            ref_refg('1pet',4,7,11,'1 Pet 4,7b-11') ."<br>eller ". ref_refg('apg',1,12,14),
             ref_refg('joh',15,26,27) ."<br>og ". ref_refg('joh',16,1,4) ],
 
     // Pinsedag
-    29 => [ ref_refh('1mos',11,1,9),
+    29 => [ ref_refh('1mos',11,1,9) ."<br>eller ". ref_refh('1mos',2,4,7,"1 Mos 2 4b-7"),
             ref_refg('apg',2,1,11),
             ref_refg('joh',14,22,31) ],
 
@@ -363,7 +369,7 @@ $lessons1 = [
 
     // 14. søndag efter trinitatis
     45 => [ ref_refh('sl',103,1,22,'Sl 103,1-13[22]'),
-            ref_refg('gal',5,16,25,'Gal 5,[16]22-25'),
+            ref_refg('gal',5,16,25,'Gal 5,[16]22-25') ."<br>eller ". ref_refg('rom',7,15,19),
             ref_refg('luk',17,11,19) ],
 
     // 15. søndag efter trinitatis
@@ -372,7 +378,7 @@ $lessons1 = [
             ref_refg('matt',6,24,34) ],
 
     // 16. søndag efter trinitatis
-    47 => [ ref_refh('job',19,23,27,'Job 19,23-27a'),
+    47 => [ ref_refh('job',19,23,27,'Job 19,23-27a') ."<br>eller ". ref_refh('job',3,11,22),
             ref_refg('ef',3,13,21),
             ref_refg('luk',7,11,17) ],
 
@@ -397,7 +403,7 @@ $lessons1 = [
             ref_refg('matt',22,1,14) ],
 
     // 21. søndag efter trinitatis
-    52 => [ ref_refh('2kong',5,1,5) ."<br>og ". ref_refh('2kong',5,9,15),
+    52 => [ ref_refh('2kong',5,1,5) ."<br>og ". ref_refh('2kong',5,9,15) ."<br>eller ". ref_refh('ez',18,1,4,"Ez 18,1-4a"),
             ref_refg('ef',6,10,17),
             ref_refg('joh',4,46,53) ],
 
@@ -412,7 +418,7 @@ $lessons1 = [
             ref_refg('matt',22,15,22) ],
 
     // 24. søndag efter trinitatis
-    55 => [ ref_refh('ez',37,1,14),
+    55 => [ ref_refh('ez',37,1,14) ."<br>eller ". ref_refh('dan',7,9,10) ."<br>og ". ref_refh('dan',7,13,14),
             ref_refg('kol',1,9,14,'Kol 1,9b-14'),
             ref_refg('matt',9,18,26) ],
 
@@ -489,7 +495,7 @@ $lessons2 = [
            ref_refg("matt",2,1,12) . "<br>eller " . ref_refg("matt",8,12,20) ],
 
     // 1. søndag efter helligtrekonger
-    2 => [ ref_refh("sl",84), 
+    2 => [ ref_refh("sl",84),
            ref_refg("rom",12,1,5),
            ref_refg("luk",2,41,52) ],
 
@@ -564,130 +570,214 @@ $lessons2 = [
             ref_refg('mark',14,3,9) ."<br>eller ". ref_refg('joh',12,1,16) ],
 
     // Skærtorsdag
-    17 => null,
+    17 => [ ref_refh('sl',116),
+            ref_refg('1kor',11,23,26),
+            ref_refg('joh',13,1,15) ],
 
     // Langfredag
-    18 => null,
+    18 => [ ref_refh('sl',22,2,22,"Sl 22,2-22a") ."<br>og/eller: ". ref_refh('es',52,13,15) ."<br>og ". ref_refh('es',53),
+            "",
+            ref_refg('luk',23,26,49) ."<br>eller ". ref_refg('joh',19,17,37) ],
 
     // Påskedag
-    19 => null,
+    19 => [ ref_refh('sl',118,19,29) ."<br>eller ". ref_refh('sl',118,13,18),
+            ref_refg('1pet',1,3,9),
+            ref_refg('matt',28,1,8) ],
 
     // Anden påskedag
-    20 => null,
+    20 => [ ref_refh('sl',16,5,11),
+            ref_refg('1kor',15,12,20) ."<br>eller ". ref_refg('apg',10,34,41),
+            ref_refg('joh',20,1,18) ],
 
     // 1. søndag efter påske
-    21 => null,
+    21 => [ ref_refh('es',43,10,12),
+            ref_refg('apg',2,22,28) ."<br>eller ". ref_refg('1pet',1,17,25),
+            ref_refg('joh',21,15,19) ],
 
     // 2. søndag efter påske
-    22 => null,
+    22 => [ ref_refh('sl',23),
+            ref_refg('apg',2,36,41) ."<br>eller ". ref_refg('hebr',13,20,21),
+            ref_refg('joh',10,22,30) ],
 
     // 3. søndag efter påske
-    23 => null,
+    23 => [ ref_refh('2mos',3,1,7) ."<br>og ". ref_refh('2mos',3,10,14),
+            ref_refg('apg',4,7,12) ."<br>eller ". ref_refg('hebr',4,14,16),
+            ref_refg('joh',14,1,11) ],
 
     // Bededag
-    24 => null,
+    24 => [ ref_refh('sl',130),
+            ref_refg('hebr',10,19,25),
+            ref_refg('matt',7,7,14) ],
 
     // 4. søndag efter påske
-    25 => null,
+    25 => [ ref_refh('sl',124),
+            ref_refg('apg',9,1,18) ."<br>eller ". ref_refg('2kor',5,14,21),
+            ref_refg('joh',8,28,36) ],
 
     // 5. søndag efter påske
-    26 => null,
+    26 => [ ref_refh('es',44,1,8),
+            ref_refg('rom',8,24,28) ."<br>eller ". ref_refg('apg',6,1,4),
+            ref_refg('joh',17,1,11) ],
 
     // Kristi himmelfarts dag
-    27 => null,
+    27 => [ ref_refh('sl',113),
+            ref_refg('apg',1,1,11),
+            ref_refg('luk',24,46,53) ],
 
     // 6. søndag efter påske
-    28 => null,
+    28 => [ ref_refh('joel',3,1,5),
+            ref_refg('rom',8,31,39,'Rom 8,31b-39') ."<br>eller ". ref_refg('apg',1,12,14),
+            ref_refg('joh',17,20,26) ],
 
     // Pinsedag
-    29 => null,
+    29 => [ ref_refh('jer',31,31,34),
+            ref_refg('apg',2,1,11),
+            ref_refg('joh',14,15,21) ],
 
     // Anden pinsedag
-    30 => null,
+    30 => [ ref_refh('ez',11,19,20),
+            ref_refg('apg',2,42,47),
+            ref_refg('joh',6,44,51) ],
 
     // Trinitatis søndag
-    31 => null,
+    31 => [ ref_refh('es',49,1,6),
+            ref_refg('ef',1,3,14),
+            ref_refg('matt',28,16,20) ],
 
     // 1. søndag efter trinitatis
-    32 => null,
+    32 => [ ref_refh('præd',5,9,19),
+            ref_refg('1tim',6,6,12),
+            ref_refg('luk',12,13,21) ],
 
     // 2. søndag efter trinitatis
-    33 => null,
+    33 => [ ref_refh('jer',15,10,10,"Jer 15,10") ."<br>og ". ref_refh('jer',15,15,21),
+            ref_refg('åb',3,14,22),
+            ref_refg('luk',14,25,35) ],
 
     // 3. søndag efter trinitatis
-    34 => null,
+    34 => [ ref_refh('es',65,1,2),
+            ref_refg('ef',2,17,22),
+            ref_refg('luk',15,11,32) ],
 
     // 4. søndag efter trinitatis
-    35 => null,
+    35 => [ ref_refh('5mos',24,17,22),
+            ref_refg('rom',14,7,13),
+            ref_refg('matt',5,43,48) ],
 
     // 5. søndag efter trinitatis
-    36 => null,
+    36 => [ ref_refh('jer',1,4,9),
+            ref_refg('1pet',2,4,10),
+            ref_refg('matt',16,13,26) ],
 
     // 6. søndag efter trinitatis
-    37 => null,
+    37 => [ ref_refh('2mos',20,1,17),
+            ref_refg('rom',3,23,28),
+            ref_refg('matt',19,16,26) ],
 
     // 7. søndag efter trinitatis
-    38 => null,
+    38 => [ ref_refh('præd',3,1,11),
+            ref_refg('rom',8,1,4),
+            ref_refg('matt',10,24,31) ],
 
     // 8. søndag efter trinitatis
-    39 => null,
+    39 => [ ref_refh('mika',3,5,7),
+            ref_refg('1joh',4,1,6),
+            ref_refg('matt',7,22,29) ],
 
     // 9. søndag efter trinitatis
-    40 => null,
+    40 => [ ref_refh('es',10,1,3),
+            ref_refg('2tim',1,6,11),
+            ref_refg('luk',12,32,48) ."<br>eller ". ref_refg('luk',18,1,8) ],
 
     // 10. søndag efter trinitatis
-    41 => null,
+    41 => [ ref_refh('ez',33,23,23,"Ez 33,23") ."<br>og ". ref_refh('ez',33,30,33),
+            ref_refg('hebr',3,12,14),
+            ref_refg('matt',11,16,24) ],
 
     // 11. søndag efter trinitatis
-    42 => null,
+    42 => [ ref_refh('5mos',30,15,20),
+            ref_refg('rom',10,4,17,'Rom 10,4-13[17]'),
+            ref_refg('luk',7,36,50) ],
 
     // 12. søndag efter trinitatis
-    43 => null,
+    43 => [ ref_refh('jon',2),
+            ref_refg('jak',3,1,12),
+            ref_refg('matt',12,31,42) ],
 
     // 13. søndag efter trinitatis
-    44 => null,
+    44 => [ ref_refh('mika',6,6,8),
+            ref_refg('1tim',1,12,17),
+            ref_refg('matt',20,20,28) ],
 
     // 14. søndag efter trinitatis
-    45 => null,
+    45 => [ ref_refh('sl',39,5,14),
+            ref_refg('2tim',2,8,13),
+            ref_refg('joh',5,1,15) ],
 
     // 15. søndag efter trinitatis
-    46 => null,
+    46 => [ ref_refh('sl',73,23,28),
+            ref_refg('apg',8,26,39),
+            ref_refg('luk',10,38,42) ],
 
     // 16. søndag efter trinitatis
-    47 => null,
+    47 => [ ref_refh('sl',139,1,12),
+            ref_refg('1kor',15,21,28),
+            ref_refg('joh',11,19,45) ],
 
     // 17. søndag efter trinitatis
-    48 => null,
+    48 => [ ref_refh('sl',40,2,6),
+            ref_refg('jud',1,20,25),
+            ref_refg('mark',2,14,22) ],
 
     // 18. søndag efter trinitatis
-    49 => null,
+    49 => [ ref_refh('sl',121),
+            ref_refg('1joh',4,12,16,"1 Joh 4,12-16a"),
+            ref_refg('joh',15,1,11) ],
 
     // 19. søndag efter trinitatis
-    50 => null,
+    50 => [ ref_refh('1mos',28,10,18),
+            ref_refg('1kor',12,12,20),
+            ref_refg('joh',1,35,51) ],
 
     // 20. søndag efter trinitatis
-    51 => null,
+    51 => [ ref_refh('es',5,1,7),
+            ref_refg('rom',11,25,32),
+            ref_refg('matt',21,28,44) ],
 
     // 21. søndag efter trinitatis
-    52 => null,
+    52 => [ ref_refh('ez',18,1,4,"Ez 18,1-4a"),
+            ref_refg('åb',3,7,13),
+            ref_refg('luk',13,1,9) ],
 
     // 22. søndag efter trinitatis
-    53 => null,
+    53 => [ ref_refh('es',49,13,18),
+            ref_refg('ef',4,30,32),
+            ref_refg('matt',18,1,14) ],
 
     // 23. søndag efter trinitatis
-    54 => null,
+    54 => [ ref_refh('jer',7,1,11),
+            ref_refg('fil',3,17,21),
+            ref_refg('mark',12,38,44) ],
 
     // 24. søndag efter trinitatis
-    55 => null,
+    55 => [ ref_refh('dan',7,9,10) ."<br>og ". ref_refh('dan',7,13,14),
+            ref_refg('2kor',5,1,10),
+            ref_refg('joh',5,17,29) ],
 
     // 25. søndag efter trinitatis
-    56 => null,
+    56 => [ ref_refh('job',14,7,15),
+            ref_refg('2pet',3,8,15,"2 Pet 3,8-15a") ."<br>eller ". ref_refg('1kor',15,50,57),
+            ref_refg('luk',17,20,33) ],
 
     // 26. søndag efter trinitatis
-    57 => null,
+    57 => [ ref_refh("præd",8,9,15),
+            ref_refg("kol",3,12,17),
+            ref_refg("matt",13,24,30) ."<br>eller ". ref_refg("matt",13,44,52) ],
 
     // Sidste søndag i kirkeåret
-    58 => null,
+    58 => [ ref_refh('mika',4,1,3),
+            ref_refg('1kor',3,10,17),
+            ref_refg('matt',11,25,30) ],
 
     // 1. søndag i advent
     59 =>  [ ref_refh('es',42,1,9),
@@ -814,6 +904,7 @@ $dow = idate('w');
           
           <div class="tab-content" id="myTabContent">
               <div class="tab-pane fade <?=$show1?> <?=$active1?>" id="lesson1">
+                  <p class="bg-warning mt-2">Bemærk: Nogle få tekster for første tekstrække foreligger endnu ikke i Den Frie Bibel.</p>
                   <div class="table-responsive">
                       <table class="table table-striped">
                           <tr>
@@ -876,7 +967,7 @@ $dow = idate('w');
               </div>
 
               <div class="tab-pane fade <?=$show2?> <?=$active2?>" id="lesson2">
-                  <p class="bg-warning mt-2">Bemærk: Ikke alle tekster for anden tekstrække foreligger i Den Frie Bibel</p>
+                  <p class="bg-warning mt-2">Bemærk: En del tekster for anden tekstrække foreligger endnu ikke i Den Frie Bibel.</p>
                   <div class="table-responsive">
                       <table class="table table-striped">
                           <tr>

@@ -21,7 +21,7 @@ class FormatText extends Formatter {
             else {
                 global $title;
                 $this->title = $title[$this->book] . ", kapitel " . $this->chapter;
-                return "Vers $this->from_verse findes ikke i kapitlet.";
+                return "Vers $this->from_verse i dette kapitel findes ikke i Den Frie Bibel.";
             }
         }
 
@@ -29,9 +29,9 @@ class FormatText extends Formatter {
         if ($this->to_verse>0) {
             if (!preg_match("/(v$this->to_verse )/s",$txt)) {
                 if ($this->exegetic_layout)
-                    $txt .= "\n//0&nbsp;//0 *[Vers $this->to_verse findes ikke i kapitlet.]*\n";
+                    $txt .= "\n//0&nbsp;//0 *[Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]*\n";
                 else
-                    $txt .= "\n***\n\n*[Vers $this->to_verse findes ikke i kapitlet.]*\n";
+                    $txt .= "\n***\n\n*[Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]*\n";
             }
 
             // Find first verse > $this->to_verse

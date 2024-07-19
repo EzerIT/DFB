@@ -115,7 +115,7 @@ class FormatSfm extends Formatter {
             else {
                 global $title;
                 $this->title = $title[$this->book] . ", kapitel " . $this->chapter;
-                return "Vers $this->from_verse findes ikke i kapitlet.";
+                return "Vers $this->from_verse i dette kapitel findes ikke i Den Frie Bibel.";
             }
 
         }
@@ -123,9 +123,9 @@ class FormatSfm extends Formatter {
         if ($this->to_verse>0) {
             if (!preg_match("/(\\\\v\s+$this->to_verse\s)/s",$txt)) {
                 if ($this->exegetic_layout)
-                    $txt .= "\n\\b\n\\Z 0\n\\em [Vers $this->to_verse findes ikke i kapitlet.]\\em*\n";
+                    $txt .= "\n\\b\n\\Z 0\n\\em [Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]\\em*\n";
                 else
-                    $txt .= "\n\\b\n\\m\n\\em [Vers $this->to_verse findes ikke i kapitlet.]\\em*\n";
+                    $txt .= "\n\\b\n\\m\n\\em [Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]\\em*\n";
             }
             
             // Find first verse > $this->to_verse

@@ -36,7 +36,7 @@ foreach ($chap as $book => $chaps) {
 function pagination($book, $kapitel) {
     global $chaptype, $chap, $style;
 
-    $outline_style = is_array($style[$book]) ? $style[$book][$kapitel] : $style[$book];
+    $outline_style = is_array($style[$book]) ? ($style[$book][$kapitel]??'') : $style[$book];
     $outline_style = str_replace('btn','btn-outline',$outline_style);
 
     echo "  <div style=\"margin-left: auto; margin-right: auto;\">\n";
