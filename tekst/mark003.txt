@@ -2,13 +2,13 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.10.2022>!!
+!!<Dato for denne version: 25.07.2024>!!
 
 === Markusevangeliet, kapitel 3===
 
 ==Manden med den visne hånd== 
 
-v1 Han gik igen ind i en synagoge, og der var dér en mand med en vissen hånd. v2 De holdt nøje øje med om han ville helbrede ham på sabbatten så de kunne anklage ham. v3 Han sagde til manden med den visne hånd: >>Træd ind i midten!<< v4 Og han sagde til dem: >>Er det tilladt at gøre godt på en sabbat eller at gøre ondt, at redde liv eller at slå ihjel?<< Men de tav. v5 Han så rundt på dem med vrede, bedrøvet over deres hjertes hårdhed, og sagde til manden: >>Stræk hånden frem!<< og han strakte den frem, og hans hånd blev helbredt. v6 Farisæerne gik straks ud, og sammen med herodianerne traf de en beslutning om at slå ham ihjel.
+v1 Han gik igen ind i en synagoge, og der var dér en mand med en vissen hånd. v2 De holdt nøje øje med om han ville helbrede ham på sabbatten så de kunne anklage ham. v3 Han siger til manden med den visne hånd: >>Træd ind i midten!<< v4 Og han sagde til dem: >>Er det tilladt at gøre godt på en sabbat eller at gøre ondt, at redde liv eller at slå ihjel?<< Men de tav. v5 Han så rundt på dem med vrede, bedrøvet over deres hjertes hårdhed, og siger til manden: >>Stræk hånden frem!<< og han strakte den frem, og hans hånd blev helbredt. v6 Farisæerne gik straks ud, og sammen med herodianerne traf de en beslutning om at slå ham ihjel.
 
 ==Mange helbredelser==
 
@@ -16,13 +16,13 @@ v7 Jesus drog bort til søen sammen med sine disciple, og en stor skare fra Gali
 
 ==Udvælgelsen af de tolv==
 
-v13 Han gik op på bjerget og tilkaldte dem han ville; og de kom til ham. v14 Han udvalgte tolv{T: Nogle få håndskrifter tilføjer: >>som han også kaldte apostle<<.} for at de kunne være sammen med ham, og for at han kunne udsende dem til at forkynde v15 og til at have magt til at uddrive dæmonerne. v16 Han udvalgte de tolv, og han gav Simon navnet Peter, v17 og Jakob, Zebedæus' søn, og Johannes, Jakobs bror, og han gav dem navnet Boanerges, det vil sige Tordensønner; v18 og Andreas og Filip og Bartholomæus og Matthæus og Thomas og Jakob, Alfæus' søn, og Thaddæus og Simon Kananæeren v19 og Judas Iskariot, som forrådte ham.
+v13 Han går op på bjerget og tilkalder dem han ville; og de kom til ham. v14 Han udvalgte tolv{T: Nogle få håndskrifter tilføjer: >>som han også kaldte apostle<<.} for at de kunne være sammen med ham, og for at han kunne udsende dem til at forkynde v15 og til at have magt til at uddrive dæmonerne. v16 Han udvalgte de tolv, og han gav Simon navnet Peter, v17 og Jakob, Zebedæus' søn, og Johannes, Jakobs bror, og han gav dem navnet Boanerges, det vil sige Tordensønner; v18 og Andreas og Filip og Bartholomæus og Matthæus og Thomas og Jakob, Alfæus' søn, og Thaddæus og Simon Kananæeren v19 og Judas Iskariot, som forrådte ham.
 
 ==De skriftlærdes anklage==
 
-v20 Han kom hjem, og igen samledes en skare så de ikke engang kunne spise. v21 Da hans familie hørte det, gik de ud for at gribe ham med magt. For de sagde: >>Han er ude af sig selv<< v22 De skriftlærde som var kommet ned fra Jerusalem, sagde: >>Han er besat af Beelzebul,<< og >>Han uddriver dæmonerne ved dæmonernes hersker.<< v23 Han tilkaldte dem og sagde til dem i lignelser: >>Hvordan kan Satan uddrive Satan? v24 Hvis et rige er i splid med sig selv, kan det rige ikke bestå. v25 Hvis et hus er blevet i splid med sig selv, kan dette hus ikke bestå. v26 Og hvis Satan rejser sig mod sig selv og er blevet i splid med sig selv, kan han ikke bestå, men det er slut med ham. v27 Men ingen kan gå ind i den stærkes hus og plyndre hans ejendele hvis ikke han først har bundet den stærke, og så kan han plyndre hans hus. v28 Sandelig siger jeg jer: Alt skal tilgives menneskenes børn, synder og gudsbespottelser, hvad de end spotter Gud med. v29 Men den som spotter Helligånden, har ikke i evighed tilgivelse, men er skyldig i en evig synd.<< v30 For de havde sagt: >>Han har en uren ånd.<<
+v20 Han kommer hjem, og igen samledes en skare så de ikke engang kunne spise. v21 Da hans familie hørte det, gik de ud for at gribe ham med magt. For de sagde: >>Han er ude af sig selv<< v22 De skriftlærde som var kommet ned fra Jerusalem, sagde: >>Han er besat af Beelzebul,<< og >>Han uddriver dæmonerne ved dæmonernes hersker.<< v23 Han tilkaldte dem og sagde til dem i lignelser: >>Hvordan kan Satan uddrive Satan? v24 Hvis et rige er i splid med sig selv, kan det rige ikke bestå. v25 Hvis et hus er blevet i splid med sig selv, kan dette hus ikke bestå. v26 Og hvis Satan rejser sig mod sig selv og er blevet i splid med sig selv, kan han ikke bestå, men det er slut med ham. v27 Men ingen kan gå ind i den stærkes hus og plyndre hans ejendele hvis ikke han først har bundet den stærke, og så kan han plyndre hans hus. v28 Sandelig siger jeg jer: Alt skal tilgives menneskenes børn, synder og gudsbespottelser, hvad de end spotter Gud med. v29 Men den som spotter Helligånden, har ikke i evighed tilgivelse, men er skyldig i en evig synd.<< v30 For de havde sagt: >>Han har en uren ånd.<<
 
 ==Jesu familie==
 
-v31 Hans mor og hans brødre kom, og de stod udenfor og sendte bud ind til ham for at kalde på ham. v32 En skare sad rundt om ham, og de sagde til ham: >>Se, din mor og dine brødre og dine søstre står udenfor og spørger efter dig.<< v33 Han svarede dem: >>Hvem er min mor og mine brødre?<< v34 Og han så rundt på dem som sad omkring ham, og sagde: >>Se, her er min mor og mine brødre. v35 For den som gør Guds vilje, er min bror og min søster og min mor.<<
+v31 Hans mor og hans brødre kom, og de stod udenfor og sendte bud ind til ham for at kalde på ham. v32 En skare sad rundt om ham, og de siger til ham: >>Se, din mor og dine brødre og dine søstre står udenfor og spørger efter dig.<< v33 Han svarede dem: >>Hvem er min mor og mine brødre?<< v34 Og han så rundt på dem som sad omkring ham, og siger: >>Se, her er min mor og mine brødre. v35 For den som gør Guds vilje, er min bror og min søster og min mor.<<
 

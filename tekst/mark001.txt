@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.10.2022>!!
+!!<Dato for denne version: 25.07.2024>!!
 
 ===Markusevangeliet, kapitel 1===
 
@@ -14,7 +14,7 @@ v1 Begyndelsen på evangeliet om Jesus Kristus, Guds Søn, v2 var ligesom der st
 
 v3 Der er en stemme af en der råber i ørkenen: Forbered Herrens vej, gør hans stier jævne!<<{H: Mal 3,1; Es 40,3}. 
 
-v4 Frem trådte Johannes, som døbte i ørkenen og forkyndte omvendelsesdåb til tilgivelse af syndere. v5 Hele Judæas land og alle i Jerusalem gik ud og blev døbt af ham i Jordanfloden idet de bekendte deres synder. v6 Johannes var klædt i kamelhår og havde et læderbælte om livet og spiste græshopper og vild honning. v7 Han forkyndte: >>Efter mig kommer den der er stærkere end jeg, hvis sandalrem jeg ikke er værdig til at bøje mig ned og løse. v8 Jeg har døbt jer med vand, men han vil døbe jer med Helligånd.<<
+v4 Frem trådte Johannes, som døbte i ørkenen og forkyndte omvendelsesdåb til tilgivelse af synderne. v5 Hele Judæas land og alle i Jerusalem gik ud og blev døbt af ham i Jordanfloden hvorved de bekendte deres synder. v6 Johannes var klædt i kamelhår og havde et læderbælte om livet og spiste græshopper og vild honning. v7 Han forkyndte: >>Efter mig kommer den der er stærkere end jeg, hvis sandalrem jeg ikke er værdig til at bøje mig ned og løse. v8 Jeg har døbt jer med vand, men han vil døbe jer med Helligånd.<<
 
 ==Jesu dåb==
 
@@ -22,7 +22,7 @@ v9 Det skete i de dage at Jesus kom fra Nazaret i Galilæa og blev døbt af Joha
 
 ==Jesu fristelse==
 
-v12 Straks efter førte Ånden ham ud i ørkenen. v13 Han var i ørkenen fyrre dage mens han blev fristet af Satan, og han var blandt dyrene, og englene tjente ham.
+v12 Straks efter fører Ånden ham ud i ørkenen. v13 Han var i ørkenen fyrre dage mens han blev fristet af Satan, og han var blandt dyrene, og englene tjente ham.
 
 ==Jesu forkyndelse i Galilæa==
 
@@ -34,7 +34,7 @@ v16 Mens han gik langs Galilæas sø, så han Simon og Andreas, Simons bror, i f
 
 ==Uddrivelsen af en uren ond==
 
-v21 De kom til Kapernaum, og straks på sabbatten kom han ind i synagogen og underviste, v22 og de blev slået af forundring over hans undervisning; for han underviste dem som en med myndighed og ikke som de skriftlærde. v23 Straks var der i deres synagoge et menneske med en uren ånd, og han skreg: v24 >>Hvad har vi med dig at gøre, Jesus af Nazaret? Er du kommet for at ødelægge os? Jeg ved hvem du er: Guds hellige.<< v25 Jesus truede den: >>Ti stille, og far ud af ham!<< v26 Den urene ånd sled i ham, skreg med høj stemme og for ud af ham. v27 De blev alle forfærdede, så de diskuterede med hinanden: >>Hvad er dette? En ny lære med myndighed; selv de urene ånder befaler han over, og de adlyder ham.<< v28 Rygtet om ham kom straks ud overalt i hele omegnen, nemlig Galilæa.
+v21 De kommer til Kapernaum, og straks på sabbatten gik han ind i synagogen og underviste, v22 og de blev slået af forundring over hans undervisning; for han underviste dem som en med myndighed og ikke som de skriftlærde. v23 Straks var der i deres synagoge et menneske med en uren ånd, og han skreg: v24 >>Hvad har vi med dig at gøre, Jesus af Nazaret? Er du kommet for at ødelægge os? Jeg ved hvem du er: Guds hellige.<< v25 Jesus truede den: >>Ti stille, og far ud af ham!<< v26 Den urene ånd sled i ham, skreg med høj stemme og for ud af ham. v27 De blev alle forfærdede, så de diskuterede med hinanden: >>Hvad er dette? En ny lære med myndighed; selv de urene ånder befaler han over, og de adlyder ham.<< v28 Rygtet om ham kom straks ud overalt i hele omegnen, nemlig Galilæa.
 
 ==Peters svigermor==
 
@@ -42,9 +42,9 @@ v29 Straks da de var kommet ud af synagogen, kom de til Simons og Andreas’ hus
 
 ==Jesu forkyndelse i synagoger==
 
-v35 Tidligt, mens det var helt mørkt, stod han op, gik ud og hen til et øde sted, og dér bad han. v36 Simon og de der var sammen med ham, skyndte sig efter ham. v37 De fandt ham og sagde til ham: >>Alle søger dig.<< v38 Han sagde til dem: >>Lad os gå andet steds hen, til de nærliggende landsbyer, for at jeg også kan forkynde dér; for det er derfor jeg kommet.<< v39 Han kom og forkyndte i deres synagoger i hele Galilæa og uddrev dæmoner.
+v35 Tidligt, mens det var helt mørkt, stod han op, gik ud og hen til et øde sted, og dér bad han. v36 Simon og de der var sammen med ham, skyndte sig efter ham. v37 De fandt ham og siger til ham: >>Alle søger dig.<< v38 Han sagde til dem: >>Lad os gå andet steds hen, til de nærliggende landsbyer, for at jeg også kan forkynde dér; for det er derfor jeg kommet.<< v39 Han kom og forkyndte i deres synagoger i hele Galilæa og uddrev dæmoner.
 
 ==Helbredelsen af en spedalsk==
 
-v40 En spedalsk kom til ham, bad ham og faldt på knæ for ham og sagde til ham: >>Hvis du vil, kan du gøre mig ren.<< v41 Han fik medlidenhed med ham, rakte sin hånd frem, rørte ved ham og sagde til ham: >>Jeg vil, bliv ren!<< v42 Straks forlod spedalskheden ham, og han blev renset. v43 Han talte strengt til ham og sendte ham straks væk, v44 og sagde: >>Se til at du ikke siger det til nogen; men gå hen og vis dig for præsten, og bring det offer for din renselse som Moses har befalet, til vidnesbyrd for dem!<<{H: 3 Mos 14,1-32} v45 Men han gik ud og begyndte at forkynde ivrigt og udbrede ordet, så at Jesus ikke mere kunne gå åbenlyst ind i en by, men var udenfor på øde steder, og de kom til ham alle vegne fra.
+v40 En spedalsk kommer til ham, beder ham og falder på knæ for ham og siger til ham: >>Hvis du vil, kan du gøre mig ren.<< v41 Han fik medlidenhed med ham, rakte sin hånd frem, rørte ved ham og siger til ham: >>Jeg vil, bliv ren!<< v42 Straks forlod spedalskheden ham, og han blev renset. v43 Han talte strengt til ham og sendte ham straks væk, v44 og siger: >>Se til at du ikke siger det til nogen; men gå hen og vis dig for præsten, og bring det offer for din renselse som Moses har befalet, til vidnesbyrd for dem!<<{H: 3 Mos 14,1-32} v45 Men han gik ud og begyndte at forkynde ivrigt og udbrede ordet, så at Jesus ikke mere kunne gå åbenlyst ind i en by, men var udenfor på øde steder, og de kom til ham alle vegne fra.
 
