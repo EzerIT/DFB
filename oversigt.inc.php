@@ -120,6 +120,7 @@ $abbrev['5mos']   = '5 Mos';
 $abbrev['dom']    = 'Dom';
 $abbrev['ruth']   = 'Ruth';
 $abbrev['2sam']   = '2 Sam';
+$abbrev['1kong']  = '1 Kong';
 $abbrev['2kong']  = '2 Kong';
 $abbrev['job']    = 'Job';
 $abbrev['sl']     = 'Sl';

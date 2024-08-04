@@ -288,7 +288,7 @@ $lessons1 = [
             ref_refg('joh',15,26,27) ."<br>og ". ref_refg('joh',16,1,4) ],
 
     // Pinsedag
-    29 => [ ref_refh('1mos',11,1,9) ."<br>eller ". ref_refh('1mos',2,4,7,"1 Mos 2 4b-7"),
+    29 => [ ref_refh('1mos',11,1,9) ."<br>eller ". ref_refh('1mos',2,4,7,"1 Mos 2,4b-7"),
             ref_refg('apg',2,1,11),
             ref_refg('joh',14,22,31) ],
 
@@ -492,17 +492,18 @@ $lessons2 = [
     // Helligtrekongers søndag
     1 => [ ref_refh("es",60,1,6) . "<br>eller " . ref_refh("job",28,12,28),
            ref_refg("1joh",2,7,11),
-           ref_refg("matt",2,1,12) . "<br>eller " . ref_refg("matt",8,12,20) ],
+           ref_refg("matt",2,1,12) . "<br>eller " . ref_refg("joh",8,12,20) ],
 
     // 1. søndag efter helligtrekonger
-    2 => [ ref_refh("sl",84),
-           ref_refg("rom",12,1,5),
-           ref_refg("luk",2,41,52) ],
+    2 => [ ref_refh("sl",8),
+           ref_refg("kol",1,15,19),
+           ref_refg("mark",10,13,16) ],
 
     // 2. søndag efter helligtrekonger
-    3 => [ ref_refh("2mos",33,18,23),
-           ref_refg("rom",12,6,16,"Rom 12,[6]9-16a"),
-           ref_refg("joh",2,1,11) ],
+    3 => [ ref_refh("1kong",8,1,1,"1 Kong 8,1") . "<br>og " . ref_refh("1kong",8,12,13) . "<br>og " . ref_refh("1kong",8,22,30)
+        . "<br>eller " . ref_refh("jer",17,12,14),
+           ref_refg("1joh",2,28,29) . "<br>og " . ref_refg("1joh",3,1,3),
+           ref_refg("joh",4,5,26) ],
 
     // 3. søndag efter helligtrekonger
     4 => [ ref_refh("1mos",15,1,6),
@@ -726,7 +727,7 @@ $lessons2 = [
 
     // 17. søndag efter trinitatis
     48 => [ ref_refh('sl',40,2,6),
-            ref_refg('jud',1,20,25),
+            ref_refg('jud',1,20,25,"Jud 20-25"),
             ref_refg('mark',2,14,22) ],
 
     // 18. søndag efter trinitatis
@@ -797,7 +798,7 @@ $lessons2 = [
 
     // 4. søndag i advent
     62 => [ ref_refh('es',12),
-            ref_refg('1kor',1,18,22),
+            ref_refg('2kor',1,18,22),
             ref_refg('joh',3,25,36) ],
 
     // Juleaften
