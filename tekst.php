@@ -34,7 +34,9 @@ makemenus(2);
                         <?php if ($abbr1=='matt'): ?>
                             <hr>
                         <?php endif; ?>
-                        <a href="#<?= $abbr1?>" class="mt-1 mb-0 ml-0 mr-0 btn book-btn btn-danger"><?= $abbr2 ?></a>
+                        <?php if (!empty($chap[$abbr1])): ?>
+                            <a href="#<?= $abbr1?>" class="mt-1 mb-0 ml-0 mr-0 btn book-btn btn-danger"><?= $abbr2 ?></a>
+                        <?php endif; ?>
                     <?php endforeach; ?>
                 </div><!--card-body-->
             </div><!--card-->
