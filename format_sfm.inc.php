@@ -98,7 +98,7 @@ class FormatSfm extends Formatter {
 
         // Remove following chapters
         $chapter1 = $this->chapter+1;
-        $txt = preg_replace("/\\\\c +${chapter1}[^0-9].*/s",'',$txt);
+        $txt = preg_replace("/\\\\c +{$chapter1}[^0-9].*/s",'',$txt);
 
         // Remove preceding chapters, if any
         if ($this->chapter>1)

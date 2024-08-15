@@ -1,21 +1,18 @@
-!!<Modenhed: Rå oversættelse>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 28.02.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.08.2024>!!
 
 ===Johannes' Første Brev, kapitel 1===
 
-==Johannes skriver som øjenvidne om Jesus som livets ord==
+	
+==Forord==
 
-v1 Det som var fra begyndelsen, det vi har hørt, det vi har set med vores egne øjne, det vi betragtede, og vores hænder følte på, nemlig om livets ord
-v2 – og livet åbenbarede sig, og vi har set og vidnet og forkyndt jer det evige liv, som jo var hos Faderen og blev åbenbaret for os –
-v3 hvad vi har set og hørt, forkynder vi også jer for at også I må have fællesskab med os; og vores fællesskab er også med Faderen og med hans søn Jesus Kristus.
+v1 Det der var fra begyndelsen, det som vi har hørt, det som vi har set med vores øjne, det som vi har betragtet og vores hænder har rørt ved: Ordet, som er livet – v2 og livet blev åbenbaret, og vi har set det og vidner og forkynder jer det evige liv, som var hos Faderen og blev åbenbaret for os – v3 det, som vi har set og hørt, forkynder vi også jer for at også I kan have fællesskab med os, og vores fællesskab er med Faderen og med hans Søn, Jesus Kristus. v4 Og dette skriver vi for at vores glæde må blive fuld. 
+
+==Tema og konsekvenser==
+
+v5 Dette er budskabet som vi har hørt af ham og forkynder jer, at Gud er lys, og der er intet mørke i ham. v6 Hvis vi siger at vi har fællesskab med ham og lever i mørket, lyver vi og praktiserer ikke sandheden. v7 Men hvis vi lever i lyset, ligesom han er i lyset, har vi fællesskab med hinanden, og Jesu, hans søns, blod renser os fra al synd. v8 Hvis vi siger at vi ikke har synd, bedrager vi os selv, og sandheden er ikke i os. v9 Hvis bekender vores synder, er han trofast og retfærdig så han tilgiver os vores synder og renser os fra enhver uretfærdighed. v10 Hvis vi siger at vi ikke har syndet, gør vi ham til en løgner, og hans ord er ikke i os.
 
 
-v5 Dette er det budskab som vi har hørt af ham og forkynder for jer: at Gud er lys, og der er slet intet mørke i ham.
-v6 Hvis vi siger at vi har fællesskab med ham, og vandrer i mørket, så lyver vi og gør ikke sandheden.
-v7 Men hvis vi vandrer i lyset ligesom han er i lyset, har vi fællesskab med hinanden, og Jesu, hans søns, blod renser os fra al synd.
-v8 Hvis vi siger at vi ikke har synd, bedrager vi os selv, og sandheden er ikke i os.
-v9 Hvis vi bekender vores synder, er han trofast og retfærdig så at han tilgiver os synderne og renser os fra al uretfærdighed.
-v10 Hvis vi siger at vi ikke har syndet, gør vi ham til en løgner, og hans ord er ikke i os.
