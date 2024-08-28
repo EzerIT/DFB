@@ -34,13 +34,15 @@ function formatref($ref,$endchar,$target_blank) {
                       PREG_OFFSET_CAPTURE,
                       $offset)) {
 
-        if (!isset($deabbrev[$matches[2][0]]) || !in_array($matches[4][0],$chap[$deabbrev[$matches[2][0]]]))
+        $book = trim($matches[2][0]);
+        
+        if (!isset($deabbrev[$book]) || !isset($chap[$deabbrev[$book]]) || !in_array($matches[4][0],$chap[$deabbrev[$book]]))
             $links .= $matches[0][0];
         else {
             $links .= '<a '
                     . ($target_blank ? 'target="_blank" ' : '')
                     . 'href="show.php?bog='
-                    . $deabbrev[$matches[2][0]]
+                    . $deabbrev[$book]
                     . "&kap=" . $matches[4][0];
 
             if (!empty($matches[6][0])) {
