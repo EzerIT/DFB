@@ -1,0 +1,78 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 43===
+
+
+==Jeremias’ råd forkastes==
+
+
+//0 v1 Men
+//2 så snart Jeremias var færdig med
+//3 at tale til hele folket alle HERREN deres Guds ord,
+//4 ja, alle disse ord med hvilke HERREN deres Gud havde sendt ham til dem,{T: Gentagelserne her er en kraftig understregning af indholdet.}
+
+
+//1 v2 da sagde Azarja, Hoshajas søn, og Johanan, Kareas søn, og alle de overmodige mænd -
+//4 de sagde til Jeremias:
+//3 >>Du taler løgn!
+//5 HERREN vores Gud har ikke sendt dig
+//6 til at sige:
+//7 >Tag ikke til Egypten
+//8 for at bo som fremmede der!<
+//4 v3 Men Baruk, Nerijas søn, sætter dig op imod os
+//5 for at give os i kaldæernes hånd
+//6 så vi dør
+//7 eller bliver ført i eksil til Babylon.<<
+//2 v4 Og Johanan, Kareas søn, og alle hærcheferne og hele folket adlød ikke HERRENS røst
+//3 om at blive i Judas land.
+//1 v5 Og Johanan, Kareas søn, og alle hærcheferne tog hele Judas rest,
+//4 som var vendt tilbage fra alle de folkeslag
+//6 som de der var fordrevet til,
+//5 for at opholde sig i Judas land{H: Jer 40,11.}
+//3 v6 - de unge, stærke mænd, kvinderne og børnene, kongens døtre{H: Jer 41,10.} og enhver sjæl
+//5 som Nebuzar’adan, chefen for livvagten, havde efterladt hos Gedalja, Ahikams søn, søn af Shafan,
+//4 også profeten Jeremias og Baruk, Nerijas søn.
+//2 v7 Og de kom til Egyptens land,{T: 598 f. Kr.}
+//3 for de hørte ikke på{T: Eller >>adlød ikke<<.} HERRENS røst.
+//2 Og de kom til Takpankes.{H: Jer 2,16; 44,1.}
+
+
+==Nebukadnezar besætter Egypten og brænder Egyptens gudetempler ned==
+
+
+//0 v8 HERRENS ord kom til Jeremias i Takpankes
+//1 :
+//2 v9 >>Tag store sten i din hånd
+//3 og skjul dem med cement i belægningen{T: Ordret: >>mursten<<. >>Murstensterrase<< er også foreslået.}
+//6 som ligger ved indgangen til Faraos hus i Takpankes, 
+//5 for øjnene af Judas mænd!
+//4 v10 Og du skal sige til dem:
+//5 >Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud: 
+//6 Se, jeg sender,
+//7 og jeg vil tage Nebukadnesar, Babylons konge, min tjener,{T: Det skete i 582 og 568 f.Kr.}{H: Ez 29-32; 30,18.}
+//7 og jeg vil sætte hans trone oven på disse sten
+//10 som jeg har skjult,
+//9 og han vil brede sin baldakin{T: >>Tæppe<< eller >>pavillon<<. Ordet er en hapax legomenon og findes kun her.} ud over dem.
+//9 v11 Og han skal komme
+//9 og slå Egyptens land:
+//11 Den{T: Eller >>de<<.} som er {T: Nogle oversættelser tilføjer >>bestemt til<< eller >>hører til<<.}{H: Jer 15,2.} til døden -
+//10 overgives{T: >>Overgives<< er tilføjet.} til døden
+//11 og
+//13 den som er til fangenskab -
+//12 til fangenskab
+//11 og 
+//13 den som er til sværdet - 
+//12 til sværdet.
+//8 v12 Og jeg vil sætte ild til Egyptens guders huse,
+//9 og han{T: Nebukadnesar.} skal brænde dem fuldstændigt ned,
+//9 og han skal tage dem til fange,{T: Eller >>føre dem bort<<}{H: Jer 48,7; Amos 5,26-27; Es 46,2.}
+//10 og han skal samle Egyptens land sammen omkring sig,{E: Da *ʕāṭāh* >>dække sig til<<, >>gribe<< også kan betyde >>afluse<<, >>rense<<, oversætter LXX >>han skal afluse/rense<<, og Targum oversætter >>de skal tømme landet<<. De forskellige oversættelser vælger frit.}
+//11 ligesom hyrden samler sit tøj omkring sig,
+//10 og han skal drage bort derfra i fred.
+//10 v13 Han skal knuse stenstøtterne i Bet-Shemesh,
+//12 som er i Egyptens land,
+//11 og Egyptens guders huse skal han brænde fuldstændigt ned.<<<

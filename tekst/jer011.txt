@@ -1,0 +1,166 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias' bog, kapitel 11===
+
+
+==HERREN gentager pagtens ord og forbandelsen når den brydes==
+
+
+//0 v1 Ordet
+//4 som kom til Jeremias fra HERREN
+//3 :
+//4 v2 >>Hør denne pagts ord.
+//5 Du skal tale dem til Judas mænd og imod{T: Eller: >>til<<.} Jerusalems indbyggere,
+//6 v3 og du skal sige til dem:
+//7 Sådan siger HERREN Israels Gud:
+//8 Forbandet være det menneske
+//9 som ikke vil høre denne pagts ord,{H: 5 Mos 27,15-16.}
+//10 v4 som jeg befalede jeres fædre den dag
+//12 jeg førte dem ud af Egyptens land, ud af jernsmelteovnen
+//11 :
+//12 Hør min røst{T: Eller >>adlyd<<.}
+//15 og I skal handle efter dem,{T: Pagtens ord.} efter alt 
+//16 hvad jeg befalede jer.
+//14 I skal være mit folk,
+//15 og jeg, jeg vil være jeres Gud 
+//13 v5 for at jeg kan holde den ed
+//16 som jeg svor til jeres fædre,
+//15 at give dem et land der flyder med mælk og honning{H: 1 Mos 15,18-21; 5 Mos 7,8; 8,18.}
+//14 som på denne dag.<<{H: 5 Mos 2,30; 4,20.38; 8,18; Jer 25,18; 32,20; 44,6.22.23}
+//2 Jeg svarede{T: Ordret: >>jeg svarede og sagde<<.}
+//2 :
+//3 >>Amen,{T: Betyder >>det er sandt<<. Udtrykket som svar findes i slutningen af hver forbandelse i 5 Mos 27.}
+//4 HERRE!<<
+
+//1 v6 HERREN sagde til mig:
+//2 >>Råb alle disse ord i Judas byer og i Jerusalems gader
+//3 :
+//4 Hør denne pagts ord
+//6 og I skal handle efter dem!
+//5 v7 For jeg formanede{T: >>Gentaget<< ligger også i verbet.} indtrængende jeres fædre den dag
+//10 da jeg førte dem op fra Egyptens land,
+//9 og indtil denne dag
+//8 har jeg tidligt og
+//9 ustandseligt advarende{T: Ordret: >>stående tidligt op og advarende<<. Dette udtryk med to infinitiv absolut anvendes talrige gange af Jeremias.}{H: Jer 7,13.25; 25,4; 26,5; 29,19; 32,33; 35,14; 44,4.} 
+//7 sagt:
+//8 >Hør min røst!<{T: I udtrykket ligger også: >>adlyd mig<<.}
+//6 v8 Men de hørte ikke
+//6 og bøjede ikke deres øre;
+//7 derimod fulgte de hver sit onde hjertes trodsighed.{T: Eller >>opsætsighed<<.}
+//8 Jeg bragte dem hele denne pagts ord
+//9 som jeg befalede
+//11 at de skulle handle efter,
+//10 men de gjorde det ikke.<<
+
+
+==Israel og Juda har brudt pagten, og HERREN profeterer ulykke==
+
+
+//1 v9 HERREN sagde til mig:
+//4 >>En sammensværgelse har fundet sted blandt Judas mænd og Jerusalems indbyggere.
+//8 v10 De er vendt tilbage til deres forfædres overtrædelser, 
+//11 de som afslog
+//12 at høre mine ord.
+//10 Og de er også gået efter andre guder
+//11 for at tjene dem.
+//9 Israels hus og Judas hus brød min pagt
+//10 som jeg havde sluttet{T: Ordret: >>skåret<<.} med deres fædre.
+
+//7 v11 Derfor sådan siger HERREN:
+//8 Se, jeg bringer over dem en ulykke
+//10 som de ikke vil være i stand til 
+//11 at undslippe fra.
+//9 De vil råbe om hjælp til mig,
+//11 men jeg vil ikke høre på dem.
+//10 v12 Så vil Judas byer og Jerusalems indbyggere gå hen
+//11 og råbe om hjælp til guderne{H: 5 Mos 32,37-38; Jer 2,27-28.}
+//14 som de brænder røgelse til.{T: Ordret: >>ofrer/brænder røgelse<<.}{H: Jer 11,13.17, 2 Kong 23,5.}
+//13 Men de vil på ingen måde frelse dem når ulykken kommer.
+//12 v13 For så mange som dine byer er dine guder,
+//14 Juda.
+//13 Så mange som Jerusalems gader er de altre I har opsat til skændslen,{E: *bbōšet* >>skam<<.}{H: Hos 9,10; Jer 3,24.}
+//14 altre 
+//15 til at brænde røgelse til Ba'al.
+
+//6 v14 Men du, gå ikke i forbøn for dette folk,{H: Jer 7,16.}
+//8 og opløft hverken klageskrig eller bøn for dem,
+//7 for jeg vil ikke høre dem til den tid
+//8 de kalder på mig, tiden for deres ulykke.
+
+***
+
+//5 v15 Hvad vil min elskede i mit hus,{T: Ordret: >>hvad med hensyn til min elskede i mit hus<<. >>Min elskede<< er her maskulinum. Jeremias skifter frit mellem maskulinum og femininum former i omtalen af folket. Se Jer 2,2.27.}{H: Es 5,1; Jer 23,9-11; 7,1-15; 12,7.}
+
+//6 hun som har onde hensigter?{T: Ordret: >>hende gørende den onde plan, de mange<<.} 
+
+//7 De er mange,{E: *rabbîm* er maskulinum pluralis og kan grammatisk set ikke knytte sig til >>den onde plan<<, der er femininum, alligevel oversætter flere >>mange onde gerninger<< eller >>de er mange<<. Teksten er vanskelig og uklar. Andre tolker >>de mange<< som lederne, >>præster og andre i templet<< og betragter >>de mange<< som subjekt i efterfølgende sætning. Andre igen ændrer vokaliseringen af *rabbîm* til *ḥᵃlāvîm* >>fedtstykker<<. Septuaginta ændrer vokaliseringen til *nᵊdārîm* >>løfter<< og ændrer verbet fra en qal til en hifil og oversætter >>Kan løfter og helligt kød ændre din ulykke<<.} og de frembærer helligt kød{T: >>offerkød<<.} fra dig 
+
+//9 på grund af din ondskab,{H: Jer 23,11; 13,27.}
+//8 og da jubler du.{T: På grund af ofrene som skal gøre Gud venligt stemt over for folket.}{H: Jer 15,17; 50,11; 51,39.}
+
+//3 v16 Et grønt{T: Eller >>frisk<<.} oliventræ, smukt i frugt og form,
+
+kaldte HERREN dit navn.{T: Eller >>dig<<.}
+
+//5 Til lyden af en mægtig raslen
+
+har han sat ild til det,
+
+//6 og dets grene er brækket.{E: Verbet er et aramaisk låneord med en anden betydning end det samme hebraiske ord >>være ond<<.}
+
+//4 v17 Hærskarers{N: Hærskarers} HERRE,
+//6 han som plantede dig,{H: Jer 2,21; Es 5,2.7; Jer 1,10; 45,4.}
+//5 han har talt ulykke over dig på grund af den ondskab som Israels hus og Judas hus
+//6 gjorde mod sig selv
+//7 ved at krænke mig,{T: Eller >>gøre mig vred<<.}
+//8 ved at brænde røgelse til Ba'al.<<
+
+
+==Jeremias' fjender lægger onde planer imod ham==
+
+
+//2 v18 HERREN kundgjorde mig det,
+//7 og således vidste jeg det
+
+//6 da han lod mig se deres bedrageriske gerninger.
+
+//5 v19 Men jeg var som et tillidsfuldt{T: Ordret: >>tam<<.} lam
+//7 der bringes hen
+//8 for at blive slagtet.
+
+//6 Og jeg vidste ikke
+//7 at de udtænkte planer mod mig:
+
+//8 >>Lad os ødelægge træet med dets frugt{T: Ordret: >>dets brød<<.}
+
+//9 og lad os skære ham af fra de levendes land,
+
+//10 så hans navn ikke huskes mere.<<
+
+//4 v20 Hærskarers HERRE, som dømmer retfærdigt,
+
+//6 som prøver nyrer og hjerte,
+
+//5 lad mig se din hævn over dem,
+
+//6 når jeg har gjort dig opmærksom på{T: Ordret: >>åbenbaret<<.} min sag. 
+
+***
+
+//3 v21 Derfor, sådan siger{T: Eller >>sagde<<.} HERREN angående mændene i Anatot,
+//4 de som stræber dig efter livet{T: Ordret >>søger din sjæl<<.}
+//5 og siger:
+//6 >>Du skal ikke profetere i HERRENS navn,
+//7 ellers vil du sandelig dø ved vores hånd!<<
+
+//3 v22 Derfor, sådan siger Hærskarers HERRE:
+//4 >>Se, jeg vil hjemsøge dem,
+//6 de unge mænd{T: Ordret: >>de udvalgte<<.} vil dø ved sværdet;
+
+//7 deres sønner og deres døtre vil dø af hungersnød.
+//5 v23 Der vil ikke blive en rest tilbage af dem,
+//6 for jeg bringer ulykke over mændene i Anatot i året for deres hjemsøgelse.<<

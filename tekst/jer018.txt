@@ -1,13 +1,203 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Er sket>!!
-!!<Dato for denne version: 06.10.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
 
-===Jeremias' Bog, kapitel 18===
- 
-v1 Det ord som kom til Jeremias fra JHVH: 
-v2 >>Stå op og gå ned til pottemagerens hus, og der vil jeg lade dig høre mine ord.<< 
-v3 Og jeg gik ned til pottemagerens hus, og se, han var ved at lave et arbejde på drejeskiven. 
-v4 Og så blev et kar ødelagt under pottemagerens formning mens han var ved at fremstille det i leret,{T: Enkelte håndskrifter læser >>som leret<<, så sætningen kan oversættes >>som (det kan gå med) leret i pottemagerens hånd …<<} men så begyndte han forfra og lavede et andet kar af det, sådan som det var ret at gøre i pottemagerens øjne.
-v5 Da kom JHVHs ord til mig således: 
-v6 >>Mon ikke jeg kan gøre ved jer, Israels hus, ligesom denne pottemager?<< siger JHVH; >>Se, ligesom leret er i pottemagerens hånd, således er I, Israels hus, i min hånd.<<
+===Jeremias' bog, kapitel 18===
+
+
+==HERREN sender Jeremias til pottemageren==
+
+
+//0 v1 Ordet
+//3 som kom til Jeremias fra HERREN
+//2 :
+//3 v2 >>Rejs dig
+//4 og gå ned til pottemagerens hus,
+//5 der vil jeg lade dig høre mine ord!<<
+//1 v3 Og jeg gik ned til pottemagerens hus 
+//3 og se, han var ved at lave et arbejde på drejeskiven.{T: Ordret: >>hjul<<.} 
+//4 v4 Blev karret
+//7 som han var ved at lave i ler, ødelagt
+//6 i pottemagerens hånd,
+//5 begyndte han igen
+//6 og lavede det til et andet kar,
+//7 sådan som det var ret i pottemagerens øjne
+//8 at gøre.
+
+
+==HERREN kan gøre som pottemageren==
+
+
+//2 v5 Og HERRENS ord kom{T: Ordret: >>skete<< eller >>var<<.} til mig 
+//4 :
+//5 v6 >>Kan jeg ikke gøre ligesom denne pottemager 
+//10 med jer, 
+//11 Israels hus?
+//9 – Det er HERRENS udsagn.
+//8 Se, som leret i pottemagerens hånd
+//9 sådan er I i min hånd,
+//10 Israels hus.
+
+
+//7 v7 Et øjeblik taler jeg angående et folk og angående et kongerige
+//10 at jeg vil rykke op{E: *li* kan betyde >>at<<, der opfattes forklarende. Men det kan også oversættes >>for at rykke op<< og udtrykker da en hensigt. Dette gælder også i vers 9.} 
+//11 og bryde ned
+//11 og ødelægge.{H: Jer 1,10.}
+//9 v8 Og vender dette folk 
+//11 som jeg har talt imod, om fra sin ondskab,
+//10 vil jeg fortryde den ulykke{T: Ordret: >>ondskab<<.}
+//11 som jeg havde tænkt
+//12 at gøre mod det.{H: Jer 42,10.}
+
+
+
+//8 v9 Et andet øjeblik taler jeg angående et folk og angående et kongerige
+//10 at jeg vil bygge op{H: Jer 1,10.}
+//11 og plante.
+//9 v10 Men gør det
+//12 hvad der er ondt i mine øjne,
+//11 og ikke hører min røst,{T: Eller >>adlyder mig<<.}
+//10 vil jeg fortryde det gode
+//11 som jeg har sagt, 
+//12 - det gode jeg ville gøre mod det.
+
+
+//6 v11 Og nu,
+//7 sig til mændene i Juda og til indbyggerne i Jerusalem
+//9 :
+//10 >Sådan siger HERREN:
+//11 Se, jeg er ved at forberede en ulykke{T: Ordret: >>forme ondt<<.} imod jer
+//13 og udtænke en plan{T: Ordret: >>tanke<<.} imod jer.
+//12 Vend om, enhver fra sin onde færd,
+//13 og gør jeres veje og gerninger gode!<{H: Jer 7,3.5; 26,13.}
+//8 v12 Men de siger:
+//10 >Det er håbløst!
+//11 For vi vil gå efter vores egne planer
+//12 og 
+//14 enhver vil gøre efter sit eget onde hjertes forstokkethed.<
+//13
+
+
+==Det forvildede folk==
+
+
+//9 v13 Derfor sådan siger HERREN:
+
+//10 Spørg blandt folkeslagene!
+
+//12 Hvem har hørt ting som disse?
+
+//14 Helt afskyeligt har hun handlet, 
+
+Israels jomfru.
+
+//13 v14 Kan Libanons sne forsvinde
+
+fra en klippe på sletten?
+
+//14 Eller kan det kolde, rislende vand 
+
+fra det fremmede tørre ud?
+
+//11 v15 Men mit folk har glemt mig.{H: Jer 2,32; 3,21; 13,25; 23,17; 5 Mos 32,18.}
+
+//16 Til den falske{T: >>gud<< er underforstået. Det er det samme ord som anvendes i det andet bud.}{H: 2 Mos 20,7; Sl 139,20.} brænder de røgelse.{T: Ordret: >>laver røgoffer<<.}
+
+//15 De{T: Afguderne.} får dem til at snuble på deres veje,
+
+de ældgamle stier,{H: Jer 6,16; Job 22,15; Jer 2,10-11.}
+
+//16 ved{T: Her opfattet som hensigt. >>til<< som forklarende er også en mulig oversættelse.} at gå ad stier,
+
+//17 en vej 
+//18 der ikke er banet,{T: Eller >>bygget op<<.} 
+
+//14 v16 ved at gøre deres land til en ødemark
+
+til evig spot.{T: Ordret: >>piften<<.}
+
+//15 Enhver 
+//17 der går igennem den,
+//16 vil forfærdes{H: Jer 19,8; 49,17; 50,13.}
+
+//17 og ryste på hovedet.
+
+//13 v17 Som en østenvind{T: Flere oversætter >>i en østenvind<<.} {H: Jer 13,24; 4,11.} vil jeg sprede dem
+
+foran fjenden,
+
+//12 med ryggen
+//14 og ikke med ansigtet
+//13 vil jeg se på dem{E: *ʔerʔēm* er en qal >>jeg vil se<<. LXX, Vulgata, Targum og Syric m.fl. oversætter verbet som en hifil >>vil jeg vise dem<<, >>vil jeg lade dem se<<. Den valgte oversættelse er i overensstemmelse med masoreterne.}{H: Jer 2,27; 7,24; 32,33.} 
+
+på deres ulykkes dag.<<
+
+
+==Jeremias klager til HERREN over anklagerne==
+
+
+//3 v18 Og de sagde:
+//5 >>Kom,{T: Ordret. >>gå<<.}
+//7 lad os udtænke planer imod Jeremias,
+//6 for præstens undervisning i loven{T: Ordret: >>loven<<.}  hører ikke{T: >>Ikke<< går på hele sætningen, >>heller ikke<< er derfor tilføjet.} op
+//7 og heller ikke råd fra den vise
+//7 eller ord fra profeten.
+//5 Kom,
+//6 vi vil slå ham med tungen,
+//7 lad os ikke give agt på alle hans ord!<<
+
+//4 v19 Giv agt
+//8 HERRE,
+//7 på mig
+
+//6 og lyt til mine modstanderes røst!
+
+//5 v20 Skal godt gengældes med ondt?
+
+//6 For de har gravet en grav for min sjæl.
+
+//4 Husk
+//7 at jeg stod for dit ansigt
+
+//8 for at tale godt for dem,
+
+//8 for at bringe din vrede væk fra dem.
+
+//6 v21 Derfor, overgiv deres sønner til hungersnød
+
+//9 og hæld dem ud til sværdets magt,
+
+//8 lad deres kvinder 
+
+blive barnløse og enker,
+
+//9 og lad deres mænd blive ramt af døden,
+
+//10 deres unge mænd{H: Jer 6,11; 9,20; 11,22; 48,15; 49,26; 50,3; 51,3.} 
+
+blive dræbt af sværd i krigen!
+
+//7 v22 Skrig skal man høre fra deres huse
+
+//9 når du pludselig bringer en flok over dem,
+
+//8 for de har gravet en grav 
+//10 for at fange mig,
+
+//9 og fælder har de skjult for mine fødder.
+
+//5 v23 Men du
+//7 HERRE,
+//6 du kender 
+
+alle deres råd om død mod mig.
+
+//7 Tilgiv{T: Eller >>skjul<<.} ikke deres overtrædelse
+
+//10 og udslet ikke deres synder for dit ansigt, 
+
+//9 men lad dem snuble for dit ansigt.
+
+//8 Når det er tid for din vrede, da grib ind over for dem!{T: Præpositionen som er anvendt her antyder dom.}

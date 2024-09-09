@@ -1,0 +1,42 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 45===
+
+
+==HERREN tilretteviser og trøster Baruk==
+
+
+//0 v1 Det ord
+//2 som profeten Jeremias talte til Baruk,{H: Jer 36,4.18-19.26,32; 43,3-6; 32,12-15.} Nerijas søn,
+//3 da han skrev disse ord fra Jeremias' mund på skriftrullen i Judas konge Jojakim, Josijas søns fjerde år{T: Regeringsår.}
+//1 :
+
+
+//3 v2 >>Sådan siger HERREN, Israels Gud til dig
+//5 Baruk:
+//4 v3 Du har sagt:
+//5 >Ve mig!
+//7 For HERREN har føjet sorg til min smerte,
+//6 jeg er blevet træt af at sukke,
+//7 og ro finder jeg ikke.<<<
+
+
+//2 v4 Sådan skal du sige til ham:
+//3 >>Sådan siger HERREN:
+//4 Se,
+//7 hvad jeg har bygget op
+//6 bryder jeg ned;{H: Jer 1,1o; 31,28.}
+//7 og
+//9 hvad jeg har plantet 
+//8 river jeg op med rod, 
+//9 og det gælder hele jorden.{E: *haʔāreṣ* >>jorden<< eller >>landet<<. Targum oversætter >>hele landet (Israel)<<. Flere skrifter tilføjer *li* >>det er min<< eller >>som tilhører mig<<.}{H: Jer 27,5-7.}
+//5 v5 Og du, tragter du efter store ting for dig selv? 
+//6 Tragt ikke derefter!
+//7 For se, jeg bringer ulykke over alt kød
+//9 – det er HERRENS udsagn -
+//8 men jeg giver dig dit liv{T: Ordret: >>din sjæl<<.} som bytte alle de steder
+//9 hvor du går hen.<<

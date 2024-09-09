@@ -14,7 +14,7 @@ $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
 $chap['præd']     = [8];
 $chap['es']       = range(1,66);
-$chap['jer']      = [1, 2, 7, 9, 18, 23];
+$chap['jer']      = range(1,52);
 $chap['ez']       = [34,36,37];
 $chap['am']       = [8];
 $chap['obad']     = [1];
@@ -216,12 +216,12 @@ for ($k=1; $k<=7; ++$k)
 for ($k=8; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['delvis færdig'];
 
-$style['jer']     = [ 1  => $modenhed['færdig'],
-                      2  => $modenhed['færdig'], 
-                      7  => $modenhed['færdig'], 
-                      9  => $modenhed['ufuldstændigt'], 
-                      18 => $modenhed['ufuldstændigt'],
-                      23 => $modenhed['ufuldstændigt']];
+
+for ($k=1; $k<=52; ++$k)
+    $style['jer'][$k] = $modenhed['delvis færdig'];
+$style['jer'][1] = $modenhed['færdig'];
+$style['jer'][2] = $modenhed['færdig'];
+$style['jer'][7] = $modenhed['færdig'];
 
 $style['ez']      = $modenhed['ufuldstændigt'];
 $style['am']      = $modenhed['ufuldstændigt'];

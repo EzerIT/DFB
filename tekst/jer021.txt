@@ -1,0 +1,99 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 21===
+
+==Kong Sidkija sender bud til Jeremias for at han skal bede for dem==
+
+//0 v1 Det ord,
+//2 som kom til Jeremias fra HERREN
+//3 da kong Sidkija sendte Pashkur, Malkias’ søn, og præsten Sefanija, Ma’asejas søn,{H: Jer 37,3; 29,25-26.} til ham 
+//4 for at sige:
+//5 v2 >>Søg{H: Sl 34,5; 77,3.} HERREN for os,
+//7 for Nebukadnesar, Babylons konge, fører krig imod os.
+//6 Måske HERREN vil gøre med os ligesom ved alle hans undere,{H: Sl 119,18.}
+//7 så han{T: Nebukadnesar.} drager væk fra os.<< 
+
+
+==Jeremias’ budskab fra HERREN==
+
+
+//1 v3 Men Jeremias sagde til dem:
+//2 >>Sådan skal I sige til Sidkija:
+//4 v4 >Sådan siger HERREN, Israels Gud:
+//5 Se, jeg vender alle krigsvåbnene rundt,{E: *mēsēv* kan betyde >>vende rundt<<, >>vende tilbage<<, >>omringe<< og kan i krigsøjemed opfattes både positivt og negativt. Atter et af Jeremias’ fine ordspil.}
+//9 de som er i jeres hånd,
+//8 med hvilke I kæmper mod Babylons konge og kaldæerne{T: Babylons hær.}{H: Jer 22,25; 32,4-5.24-25.28-29; 33,5; 2 Kong 25,4-5.10.13}
+//10 der belejrer jer
+//9 uden for muren.{T: Ordret: >>fra uden for muren<<. Nogle opfatter udtrykket her at kaldæerne ikke er lige >>uden for muren<<, men >>ude på marken<<, og at kampen foregår der.}
+//7 Jeg vil samle dem{T: Kaldæerne.} ind i denne bys midte. 
+//8 v5 Jeg vil selv kæmpe mod{T: Ordret: >>med<<.} jer med udstrakt hånd{H: Jer 6,12; 15,6; Klag 2,5.} og med stærk arm, med vrede og harme og voldsomt raseri.{H: Jer 10,10; 32,27; 50,13.} 
+//9 v6 Jeg vil slå denne bys indbyggere ned, både menneskene og de vilde dyr.{H: Jer 27,6.}
+//10 Ved en stor pest skal de dø.
+//6 v7 Og derefter
+//8 – det er HERRENS udsagn -
+//7 vil jeg give Sidkija, Judas konge, og hans tjenere og folket
+//10 - og de som er tilbage i denne by efter pesten, efter sværdet og efter hungersnøden -
+//9 i Nebukadnesars, Babylons konges hånd og i deres fjenders hånd og i deres hånd som tragter dem efter livet.{T: Ordret: >>de som hjemsøger deres sjæl<<.}
+//8 Han vil slå dem ned med sværdet helt op til skaftet.{E: *lᵊfî-ḥerev* ordret: >>til sværdets mund<<. I Vulgata og flere andre oversættelser oversættes det >>med sværdets æg<<, dvs. med sværdets skarpe kant. Septuaginta derimod oversætter det hebraiske ordret: >>indtil daggertens (stikvåben) mund<<.} 
+//9 Han vil ikke skåne dem,
+//10 og ikke have medynk 
+//10 og ikke være barmhjertig.<<<{T: >>Eller være nådig<<.}{H: Jer 13,14.}
+
+
+//3 v8 Til dette folk skal du sige:
+//5 >>Sådan siger HERREN:
+//6 Se, jeg lægger foran jer livets vej og dødens vej.{H: 5 Mos 11,26-32; 30,15-20.}
+//9 v9 Den som bliver i denne by,
+//8 skal dø ved sværdet og ved hungersnøden og ved pesten;
+//9 men den som går ud
+//11 og går over{T: Ordret: >>falder<<, >>deserterer<<.} til kaldæerne
+//12 der belejrer jer,
+//10 skal leve,
+//11 og sit liv{T: Ordret: >>sin sjæl<<.} skal han have som bytte.{H: Jer 38,2; 39,18; 45,5.}
+//7 v10 For jeg har vendt mit ansigt mod denne by til det onde
+//9 og ikke til det gode 
+//10 – det er HERRENS udsagn -
+//8 den skal gives i Babylons konges hånd,
+//9 og han skal brænde den fuldstændigt ned.<<{T: Ordret: >>brænde fuldstændigt med ild.<<.}
+
+==Domsord mod Judas konger==
+
+//4 v11 Og til Judas konges hus:
+//5 >>Hør HERRENS ord,
+//7 v12 Davids hus!
+//6 Sådan siger HERREN:
+
+//7 Døm ret om morgenen,
+
+//10 udfri den berøvede af undertrykkerens hånd
+
+//9 for at ikke min vrede skal bryde ud som ild
+//11 og brænde
+//12 så ingen kan slukke den
+
+//10 på grund af deres gerningers ondskab.{H: Jer 4,4; 23,2.22; 25,5; 26,3; 44,22.}
+
+//8 v13 Se, jeg vil komme over dig,{T: Eller >>til dig<<.}
+//10 du som troner over dalen,{E: Ordret: >>siddende/boende dalen<<. Denne hebraiske konstruktion finder vi også om HERREN, der troner over keruberne på pagtens ark.}{H: 1 Sam 4,4; 2 Sam 6,2; Jer 49,4.}
+
+//12 klippen på sletten{H: Jer 48,21.}
+
+//13 – det er HERRENS udsagn.
+//11 I som siger:
+
+//12 >Hvem kan drage ned imod os?{T: For at angribe.}
+//13 Hvem kan komme ind i vores boliger?<
+
+//9 v14 Jeg vil hjemsøge jer 
+
+ligesom frugten af jeres gerninger
+
+//10 – det er HERRENS udsagn.
+
+//9 Jeg vil sætte ild til hendes skov,
+
+//10 og den vil fortære alt omkring hende.<<

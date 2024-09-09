@@ -1,0 +1,90 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 39===
+
+
+==Jerusalems fald, og Sidkija tages til fange==
+
+//0 v1 I Sidkija,{T: Se note til Jer 1,3.} Judas konges niende år, i den tiende måned{T: 587/88 f.Kr., se note til Jer 46,2.} kom Nebukadnesar, Babylons konge, og hele hans hær til Jerusalem,
+//2 og de belejrede den.{H: Jer 32,2; 37,5; 39,9.}
+
+
+//1 v2 I Sidkijas elvte år, i den fjerde måned, den niende i måneden{T: 586 f.Kr.}{H: Jer 52,4.} blev bymuren{T: Ordret: >>byen<<.} gennembrudt, 
+//2 v3 og alle Babylons konges ledere kom
+//6 og satte sig i den midterste port:
+//5 Nergal-Sareser, den øverste embedsmand,{E: Ordet *samgar* er enten en titel på en højtstående embedsmand eller et stednavn >>fra Sin-magir<<.} Nebu-Sarsekim, hofchefen, Nergal-Sareser, militærchefen,{T: Der anføres her tre navne med titler, dog ikke de samme som i vers 13. Nogle læser *Samgar-nebu* som ét navn og får derfor fire navne.} og alle Babylons konges øvrige embedsmænd.
+//4 v4 Da
+//6 Sidkija, Judas konge, og alle krigens mænd så dem,
+//5 flygtede de
+//5 og drog om natten ud af byen i retning af kongens have gennem porten mellem de to mure,
+//6 og han{T: Sidkija} drog i retning af Araba-dalen.{T: Her med artikel, uden artikel betyder det >>ørken<<.} 
+//7 v5 Men kaldæernes hær fulgte efter dem,
+//9 og indhentede{H: Jer 52,8.} Sidkija på Jeriko-sletten,
+//9 fangede ham,
+//10 førte ham til Babylons konge, Nebukadnesar, i Ribla i Hamats land,
+//12 og han fældede dom{T: Pluralis.} over ham.
+//11 v6 Kongen af Babylon slagtede{T: Eller >>halshuggede<<. Ordet bruges almindeligvis om offerdyr.}{H: 2 Kong 25,7; Jer 39,6; 52,10.} Sidkijas sønner i Ribla for øjnene af ham,
+//12 også alle Judas fornemme slagtede kongen af Babylon.
+//13 v7 Han stak øjnene ud på Sidkija{T: Ordret: >>gjorde Sidkijas øjne blinde<<.} 
+//14 og bandt ham med bronzelænker{T: Eller >>kobberlænker<<.} 
+//15 for at bringe ham til Babylon.
+//8 v8 Kongens hus og folkets huse brændte kaldæerne fuldstændigt ned,{T: Ordret: >>brændte fuldstændigt med ild<<.}
+//9 og Jerusalems mure rev de ned.
+//10 v9 En rest af folket,
+//14 af dem som var ladt tilbage i byen,
+//13 og de som havde overgivet sig,
+//15 som var gået over til ham,
+//14 ja, en rest af folket,
+//15 af dem som var ladt tilbage,
+//12 førte Nebuzar’adan, chefen for livvagten,{T: Egentlig Rab-tabahim, en babylonisk titel.} i eksil til Babylon. 
+//11 v10 Men nogle af de fattige af folket,
+//13 de som slet ikke havde noget,
+//12 lod Nebuzar’adan, chefen for livvagten, blive tilbage i Judas land,
+//13 og han gav dem vingårde og marker på den dag.
+
+
+==Jeremias kommer til at bo midt blandt folket==
+
+
+//3 v11 Nebukadnesar, konge af Babylon, gav en befaling angående Jeremias ved Nebuzar’adan, chefen for livvagten
+//4 :
+//5 v12 >>Tag ham,
+//7 hold øje med ham{T: Ordret: >>ret dine øjne mod ham<<.}
+//6 og gør ham ikke noget ondt.
+//7 Men
+//9 som han taler til dig,
+//8 gør sådan med ham.<<
+//3 v13 Da sendte Nebuzar’adan, chefen for livvagten, og Nebushazban, hofchefen, og Nergal-Sareser, militærchefen, og alle Babylons konges embedsmænd -
+//5 v14 de sendte bud
+//5 og tog Jeremias fra vagtgården
+//5 og overgav ham til Gedalja, Ahikams søn, søn af Shafan,
+//7 for at han skulle bringe ham ud til huset.{T: Gedaljas hus, se Jer 40,6.}
+//6 Og han boede midt iblandt folket.
+
+
+==Ebed-Melek stolede på HERREN og bevarer sit liv==
+
+
+//4 v15 Og til Jeremias kom HERRENS ord
+//6 mens han var spærret inde i vagtgården{H: Jer 33,1.}
+//5 :
+//6 v16 >>Gå
+//7 og sig til kushitten Ebed-Melek
+//8 :
+//9 >Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//10 Se, jeg lader mine ord komme over denne by til ulykke{T: >>ondt<<.}
+//13 og ikke til lykke,{T: Ordret: >>til godt<<.}
+//12 og det vil ske foran dig på denne dag!
+//11 v17 Men jeg vil udfri dig på denne dag
+//13 – det er HERRENS udsagn -
+//12 og du vil ikke blive overgivet{T: Ordret: >>blive givet i de mænds hånd<<.} til de mænd
+//14 som du er bange for.{T: Ordret: >>bange for deres ansigt<<.}{H: Jer 22,25.}
+//13 v18 Jeg vil helt sikkert udfri dig,
+//15 og for sværdet skal du ikke falde,
+//14 og du skal have dit liv{T: Ordret: >>din sjæl<<.} som bytte,{H: Jer 21,9; 38,5; 45,4.}
+//15 for du stolede på mig
+//16 – det er HERRENS udsagn.<<<

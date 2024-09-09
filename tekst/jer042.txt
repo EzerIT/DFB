@@ -1,0 +1,140 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 42===
+
+
+==Folket søger Jeremias’ råd==
+
+
+//0 v1 Alle hærcheferne og Johanan, Kareas søn, og Jezanja, Hoshajas søn, og hele folket, fra den mindste til den største, kom
+//2 v2 og sagde til profeten Jeremias:
+//5 >>Lad vores indtrængende bøn komme frem for dig,{T: Ordret: >>falde ned for dit ansigt<<.}{H: Jer 42,9; 36,7; 37,20; 38,26.}
+//6 og gå du i forbøn for os hos HERREN din Gud, for hele denne rest
+//8 - for vi blev ladt tilbage, få af de mange,
+//9 som du selv{T: Ordret: >>dine øjne<<.} ser os -
+//7 v3 at HERREN din Gud vil fortælle os vejen
+//9 som vi skal gå ad,
+//8 og det
+//9 vi skal gøre!<<
+//4 v4 Og profeten Jeremias sagde til dem:
+//5 >>Jeg hører det,
+//7 og se, jeg vil bede til HERREN jeres Gud efter jeres ord,
+//6 og det skal ske,
+//7 ethvert ord
+//9 som HERREN svarer jer, 
+//8 vil jeg meddele jer,
+//9 jeg vil ikke holde et ord tilbage for jer.<<
+//3 v5 Og de sagde til Jeremias:
+//4 >>HERREN skal være et sandt og troværdigt vidne imod os 
+//5 hvis vi ikke handler sådan,
+//8 efter hvert et ord
+//9 som HERREN din Gud sender dig til os!
+//7 
+//6 v6 Hvad enten det er godt
+//8 eller ondt,
+//7 HERREN vores Gud,
+//9 ham som vi sender dig til, 
+//8 hans røst{T: >>hans<< er tilføjet.} vil vi adlyde
+//9 for at det må gå os godt,
+//10 når vi adlyder HERREN vores Guds røst.<<{T: En gentagelse af et udsagn som her er udtryk for en forstærkelse, en understregning af noget vigtigt.}
+
+
+==HERRENS svar til de tilbageblevne af folket==
+
+
+//1 v7 Ved afslutningen af ti dage
+//2 kom HERRENS ord til Jeremias.
+//3 v8 Og han tilkaldte Johanan, Kareas søn, og alle hærcheferne 
+//5 som var hos ham,
+//4 og hele folket, fra den mindste til den største,
+//3 v9 og han sagde til dem:
+//6 >>Sådan siger HERREN, Israels Gud,
+//8 ham som I har sendt mig til
+//9 for at bringe jeres indtrængende bøn frem for ham:
+//7 v10 Hvis I virkelig bliver boende{E: Teksten er vanskelig idet den kombinerer en infinitiv absolut *šôv* fra roden *šub* >>vende tilbage<< med en imperfektum af *ysb* >>at bo<<. Lignende ordspil findes i Jer 8,13; 48,9. De fleste oversætter verberne >>virkelig bliver boende<<. Men i vers 12 anvendes en hifil af *sub* >>bringe tilbage<<. Nogle antyder at *šôv* her i vers 10 er en anden form af verbet *ysb* og betyder >>bo<< også på grund af præpositionen *be* >>i<<. Se Sl 23,6.} i dette land,
+//10 så vil jeg bygge jer op
+//11 og ikke bryde ned,
+//10 jeg vil plante jer
+//12 og ikke rykke op med rod,
+//11 sandelig,{E: *kî* opfattes her emfatisk.} jeg vil fortryde{H: Jer 26,3.13.19; 18,7-8; 24,6; 31,28.} det onde
+//12 som jeg vil gøre mod jer.{E: De to verber i ren perfektum >>fortryde<< og >>gøre<< opfattes som profetisk perfektum. Nogle oversætter >>Jeg fortryder/har fortrudt/er ked af det onde jeg har gjort mod jer<<.}{H: Jon 3,9-10.}
+//9 v11 Frygt ikke for Babylons konge
+//10 som I frygter for,
+//9 frygt ikke for ham
+//11 – det er HERRENS udsagn -
+//10 for jeg er med jer
+//12 for at frelse jer
+//13 og for at befri jer af hans hånd.
+//11 v12 Jeg vil vise jer barmhjertighed
+//12 så han forbarmer sig over jer
+//12 og lader jer komme tilbage til jeres jord.
+//8 v13 Men hvis I siger: 
+//10 >Vi vil ikke bo i dette land,<
+//9 – og ikke adlyder HERREN jeres Guds røst,{H: 5 Mos 8,18-20; 28,15.45.62.} 
+//10 v14 idet I siger:
+//11 >Nej,
+//12 sandelig, vi vil tage til Egypten,
+//14 hvor vi ikke vil se krig
+//15 og ikke høre lyden af vædderhorn 
+//16 og ikke være sultne efter brød,
+//13 og der vil vi bo!<
+//5 v15 så nu,
+//7 derfor hør HERRENS ord,
+//8 Judas rest!
+//6 Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//8 Hvis I virkelig sætter jer for{T: Ordret: >>vender jeres ansigt mod<<.}
+//11 at tage til Egypten,
+//10 og I tager af sted 
+//11 for at bo som fremmede der. 
+//9 v16 Da skal 
+//11 sværdet,
+//14 som I er bange for,
+//13 indhente jer der i Egyptens land,
+//12 og hungersnøden,
+//14 som I ængstes for,
+//13 skal følge jer tæt{T: Ordret: >>klæbe til jer<<.} der i Egypten,
+//14 og der skal I dø.
+//10 v17 Det vil ske at alle de mænd
+//12 som har sat sig for
+//13 at komme til Egypten
+//14 for at bo der som fremmede,
+//11 de skal dø ved sværdet, ved hungersnøden og ved pesten,
+//12 og der vil ikke være en overlevende eller en der undslipper af dem, på grund af den ulykke
+//13 som jeg bringer{T: Eller >>lader komme<<.} over dem.{H: Jer 44,14.}
+
+
+==>>I kommer til at dø i Egypten<<==
+
+
+//7 v18 For sådan siger Hærskarers HERRE, Israels Gud: 
+//8 Ligesom min vrede og min harme er blevet hældt ud over Jerusalems indbyggere,
+//10 sådan hælder jeg min harme ud over jer
+//11 når I tager til Egypten.
+//9 I vil blive til rædsel og til forbandelse og til skam{T: Eller >>foragt<<.} for dem,
+//10 og I skal ikke se dette sted igen.
+//4 v19 HERREN har talt angående jer,
+//7 Judas rest:
+//6 Tag ikke til Egypten!
+//5 Vid med sikkerhed
+//8 at jeg har advaret jer i dag.
+//9 v20 Sandelig, I bedrager jer selv,
+//10 ja, I har sendt mig til HERREN jeres Gud
+//11 og sagt:
+//12 >Gå i forbøn for os hos HERREN vores Gud!
+//13 Og alt
+//15 det som HERREN vores Gud siger,
+//14 meddel os det,
+//15 og vi vil gøre det!<
+//7 v21 Jeg har meddelt jer det i dag,
+//8 men I har ikke hørt på HERREN jeres Guds røst
+//9 og på alt det
+//10 som han sendte mig til jer med.
+//6 v22 Og nu skal I vide med sikkerhed,
+//7 at ved sværdet, ved hungersnøden og ved pesten skal I dø på det sted
+//8 som I har lyst 
+//9 til at komme til
+//10 for at bo der som fremmede.<<

@@ -1,17 +1,325 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 23.02.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
 
-===Jeremias' Bog, kapitel 23===
- 
-v16 Dette siger Hærskarers HERRE: >>Hør ikke på profeternes ord når de profeterer for jer, de fylder jer med forkerte forestillinger, de taler efter deres eget hjertes syn, ikke af HERRENS mund. 
-v17 De siger hele tiden til dem som foragter mig: >HERREN har udtalt: I vil få fred.< Og til enhver som vandrer i sit hjertes stivsind, har de sagt: >Der kommer ikke nogen ulykke over jer.< 
-v18 For hvem har stået i HERRENS fortrolige råd og har set og hørt hans ord? Hvem har lyttet opmærksomt til hans{T: Således de fleste håndskrifter; enkelte håndskrifter har: >>mit<<.} ord så han hørte efter? 
-v19 Se, HERRENS orkan, vrede, er brudt ud, en hvirvelstorm! Den skal hvirvle over ugudeliges hoved. 
-v20 HERRENS vrede skal ikke vende om før han har udført og fuldført sit hjertes planer; i de sidste dage skal I forstå det helt. 
-v21 Jeg sendte ikke profeterne, alligevel løb de; jeg talte ikke til dem, alligevel profeterede de. 
-v22 Men hvis de havde stået i mit fortrolige råd, ville de lade mit folk høre mine ord, og de vilde føre dem tilbage fra deres onde vej og fra deres gerningers ondskab. 
-v23 Er jeg kun en Gud nær ved?<< lyder det fra{T: Der er tale om et højtideligt udsagn.} HERREN, >>og ikke en Gud langt borte? 
-v24 Mon et menneske kan gemme sig på skjulesteder så jeg ikke kan se ham?<< lyder det fra HERREN. >>Er jeg ikke den som fylder både himlen og jorden?<< lyder det fra HERREN.
+===Jeremias’ bog, kapitel 23===
+
+==HERREN vil oprejse sande hyrder==
+
+//0 v1 >>Ve hyrderne,
+//2 de som ødelægger
+//3 og spreder fårene{T: Eller >>flokken<<. Ordret: >>får og geder<<. Da metaforen er folket, oversættes det bedst med >>får<<.} fra min græsgang 
+//4 – det er HERRENS udsagn.<<
+//1 v2 Derfor, sådan siger HERREN, Israels Gud angående hyrderne
+//3 som er hyrder for mit folk:
+//2 >>I har selv spredt min fåreflok
+//4 og jaget dem væk fra hinanden,
+//5 og I har ikke taget jer af dem.
+//3 Se, nu hjemsøger jeg jer for jeres onde gerninger{H: Jer 23,22; 25,5; 26,3; 44,22; Sl 28,4.}
+//6 – det er Herrens udsagn.
+//5 v3 Og jeg vil selv samle en rest af min fåreflok fra alle de lande
+//7 som jeg der har fordrevet dem til, 
+//6 og jeg vil bringe dem tilbage til deres græsgang,
+//7 og de skal bære frugt
+//7 og blive talrige.
+//6 v4 Jeg vil oprejse over dem hyrder,
+//7 og de skal være hyrde for dem.
+//8 De skal ikke frygte længere
+//8 og ikke forfærdes
+//8 og ikke blive hjemsøgt
+//9 – det er HERRENS udsagn.
+
+==HERREN oprejser en retfærdig spire==
+
+
+//4 v5 Se, dage skal komme
+
+//8 – det er HERRENS udsagn -
+
+//7 da jeg vil oprejse en retfærdig spire{H: Sef 3,8; Es 11,1; Sl 132,17; Luk 1,69.} af David.{T: Dvs. af Davids slægt.}
+
+//8 Han skal regere som konge
+//8 og have lykken med sig{T: >>Handle klogt og vist<< ligger også i verbet.}
+
+//8 og øve ret og retfærdighed i landet.
+
+//6 v6 I hans dage skal Juda frelses
+
+//8 og Israel skal bo i sikkerhed,
+
+//7 og dette er hans navn
+//9 som man vil kalde ham:
+
+//8 >HERREN, vores retfærdighed<.
+
+***
+
+//5 v7 Derfor, se, dage skal komme
+//7 – det er HERRENS udsagn -
+//6 da de ikke længere skal sige:
+//8 >Så sandt HERREN lever,
+//9 som førte Israels sønner op fra Egyptens land,<
+//7 v8 men:
+//8 >så sandt HERREN lever,
+//9 som førte
+//10 og bragte Israels hus’ afkom{T: Ordret: >>sæd<<.} fra nordens land og fra alle de lande
+//12 som jeg fordrev dem til,<
+//11 og de skal bo i deres eget land.<<
+
+
+==Jeremias klager over profeterne og folket==
+
+
+//0 v9 Med hensyn til profeterne,
+
+//4 er mit hjerte knust i mit indre,
+
+//6 alle mine knogler ryster; 
+
+//7 jeg er blevet som en beruset mand,
+
+som en stærk mand 
+//9 hvem vinen har overmandet,
+
+//8 foran{T: Eller >>på grund af<<.} HERREN,
+
+og foran{T: Eller: >>på grund af<<.} hans hellige ord.
+
+//5 v10 For{T: Eller >>Sandelig<<.} landet er fuldt af dem som horer.{T: Eller >>ægteskabsbrydere<<.}
+
+//6 ja, landet sørger{T: Eller ordret: >>udtørrer<<.} på grund af forbandelsen, 
+
+//8 og ørkenens græsgange er visnet.
+
+//7 Deres livsløb er ondskab,
+
+//8 og deres styrke er uret.
+
+
+==HERRENS ord til de falske profeter==
+
+
+//3 v11 >>Ja, også profet og endda præst – de er gudløse, 
+
+//6 også i mit hus har jeg fundet deres ondskab
+
+//7 - det er HERRENS udsagn.
+
+//5 v12 Derfor bliver deres vej for dem
+
+som glatte veje{T: >>Veje<< er tilføjet.}
+
+i det dybeste mørke, 
+//7 de bliver stødt ned{H: Sl 36,12; 73,18; Ordsp 14,32.}
+
+//8 og falder i det.{T: Mørket.} 
+
+//6 For jeg bringer ulykke{T: Ordret: >>ondskab<<.} over dem
+
+i året for deres hjemsøgelse
+
+//7 – det er HERRENS udsagn.
+
+//4 v13 Også hos Samarias profeter
+
+ har jeg set modbydelige ting,
+
+//5 de profeterede i Ba’als navn{T: Ordret: >>ved Ba’al<<.} 
+
+//6 og førte mit folk Israel vild.
+
+***
+
+//4 v14 Også hos Jerusalems profeter 
+
+har jeg set rædselsfulde ting:
+
+//6 De horer,
+//8 og de vandrer i løgn.
+
+//7 De styrker hænderne hos dem som handler ondt,
+
+//8 så de ikke vender om,
+
+//9 enhver fra sin ondskab.
+
+//5 De er alle for mig som Sodoma
+
+//6 og dets indbyggere som Gomorra.<<
+
+***
+
+//2 v15 Derfor, sådan sagde Hærskarers{N: Hærskarers.} HERRE angående profeterne:
+
+//3 >>Se, jeg fodrer dem med malurt,
+
+//5 og jeg vil give dem forgiftet vand,
+
+//4 for fra Jerusalems profeter 
+
+udgår forurening til hele landet.<<
+
+
+==Lyt ikke til de falske profeter!==
+
+
+//1 v16 Sådan siger Hærskarers HERRE:
+
+//2 >>Lyt ikke til profeternes ord,
+
+//9 de som profeterer for jer;
+//8 de vildleder jer,
+//10 et syn{T: Eller: >>profeti<<.} fra deres eget hjerte taler de,
+//11 ikke fra HERRENS mund.
+//9 v17 De siger hele tiden til dem som foragter mig:
+//11 >HERREN har talt,
+//12 I skal have fred!<
+//10 Og til enhver der vandrer i sit hjertes forhærdelse{T: Eller >>genstridighed<<.}
+//11 siger de:
+//12 >Ingen ulykke vil komme over jer!<
+
+//7 v18 Men hvem har stået i HERRENS råd,{H: Jer 23,22; 18,20; Es 6,8; Job 15,8.}
+
+//9 så han har set
+//9 og har hørt hans ord?{E: Verberne kan opfattes som en jussive form, og oversættes >>da lad ham se, og lad ham høre hans ord!<<.}
+
+//8 Hvem har lyttet opmærksomt til hans ord{E: Masoreterne har udeladt vokaliseringen. Konsonanterne antyder >>mit ord<< (ketiv), men qere giver >>hans ord<<. Begge udtryk kan forsvares ud fra Jeremias’ ofte pludselige skift i tiltaleform.}
+//9 og har hørt det?
+
+***
+
+//6 v19 Se, HERRENS storm{T: Jer 23,19-20 er næsten identisk med Jer 30,23-24.} - 
+//8 en harme er brudt ud,
+
+//9 en hvirvlende stormvind; 
+
+//10 over de gudløses hoved hvirvler den. 
+
+//7 v20 HERRENS vrede vender ikke{T: Ordret >>vender tilbage<<. >>Til HERREN<< er underforstået. Dvs. hører ikke op.}
+
+//8 før den har udført,
+//9 og før den har fuldført hans hjertes planer.{H: Jer 30,24.}
+
+//5 I de sidste dage{T: Ordret >>ved dagenes ende<<.}
+
+skal I forstå det helt.{T: Eller >>forstå meningen med det<<. Ordret: >>I skal forstå forståelsen med det<<.}{H: Jer 30,23-24.}
+
+//4 v21 Jeg har ikke sendt profeterne, 
+
+//5 alligevel løb de.
+
+//4 Jeg har ikke talt til dem,
+
+//6 alligevel profeterede de.
+
+//5 v22 Men hvis de havde stået i mit råd,
+
+//6 havde de forkyndt mine ord til mit folk
+
+//7 og fået dem til at vende om{T: Eller >>havde ført dem tilbage<<.} fra deres onde vej 
+
+og fra deres onde gerninger.
+
+***
+
+//3 v23 Er jeg en Gud i nærheden
+
+//8 – det er HERRENS udsagn -
+
+//7 men ikke også en Gud i det fjerne?{T: Ordret: >>fra det fjerne<<.}
+
+//6 v24 Hvis en skjuler sig på hemmelige steder,
+
+//7 ser jeg ham så ikke?
+
+//8 – Det er HERRENS udsagn.
+
+//5 Er det ikke mig der fylder himlen og jorden? 
+
+//6 – Det er HERRENS udsagn.
+
+//4 v25 Jeg har hørt 
+//7 hvad profeterne siger,
+//9 de som profeterer løgn i mit navn
+//8 og siger:
+//9 >Jeg har drømt,
+//9 jeg har drømt!<
+//6 v26 Hvor længe endnu{T: Ordret: >>indtil hvor længe<<.}
+//8 vil profeterne - de der profeter løgn, og de der profeterer deres hjertes bedrag – have dette i sinde?
+//10 v27 Har de til hensigt
+//11 at få mit folk til at glemme mit navn ved deres drømme
+//13 som de bekendtgør
+//14 til hinanden,{T: Eller: >>enhver til sin ven<<.}
+//12 ligesom deres fædre glemte mit navn på grund af Ba’al?
+//9 v28 Den profet
+//12 der har en drøm,
+//11 lad ham fortælle drømmen! 
+//10 Men
+//12 den som har mit ord hos sig,
+//11 lad ham tale mit ord i sandhed!
+//7 Hvad har kornet med strå at gøre?
+//9 – Det er HERRENS udsagn.
+//8 v29 Er mit ord ikke sådan{E: *xōʰ* >>sådan<< ændres af nogle til *xōʰweh* >>brændende<<.}
+//9 som ilden
+//11 – det er HERRENS udsagn -
+//10 og som en hammer
+//11 der knuser klipper?
+
+==HERREN vil selv hjemsøge de falske profeter==
+
+//5 v30 Derfor, se, jeg kommer over{T: Ordret: >>jeg er imod<<.} profeterne
+//8 – det er HERRENS udsagn -
+//7 de som stjæler mine ord fra hinanden.{T: Ordret: >>enhver fra sin ven<<. Kan oversættes >>den ene fra den anden<<.}
+//6 v31 Se, jeg kommer over{T: Eller >>er imod<<.} profeterne
+//8 - det er HERRENS udsagn -
+//7 de som bruger deres egen tunge
+//8 og kundgør: >Udsagn!<{E: >>Fra HERREN<< er underforstået. *nᵊʔum* >>udsagn<< betegner åbenbaringsord fra HERREN. Verbet der er afledt af substantivet, er en hapax legomenon. Kombinationen er et ordspil.}
+//6 v32 Se, jeg er imod dem som profeterer løgnedrømme
+//8 - det er HERRENS udsagn -
+//7 og de bekendtgør dem
+//8 og fører mit folk vild med deres løgne og deres praleri.{T: >>letfærdighed<<, og >>tankeløshed<< ligger også i ordet.}
+//10 Jeg, jeg har ikke sendt dem,
+//11 og jeg har ikke befalet dem,
+//9 og de er overhovedet ikke til gavn for dette folk 
+//10 – det er HERRENS udsagn.
+//0 v33 Og når dette folk eller profeterne eller præsten spørger dig
+//2 :
+//3 >Hvad er HERRENS byrde?<{E: Eller >>budskab<<.  *maśśāˀ* >>byrde<< er afledt af verbet >>bære<<, >>opløfte<< og kan derfor også betyde >>opløfte røsten<<. *maśśāˀ* får derved betydningen >>udsagn/budskab/ord<< fra HERREN. Esajas og flere andre profeter anvender *maśśāˀ* i betydningen >>udsagn<<, >>budskab<< fra HERREN. I Jeremias’ bog har ordet begge betydninger i sig, både den negative betydning >>byrde<<, men også betydningen HERRENS >>udsagn/budskab<<.}{H: Es 13,1; Nah 1,1; Hab 1,1; Ez 12,10; Zak 9,1; Mal 1,1; Klag 2,14.}
+//1 skal du sige til dem:
+//2 >I er byrden!{T: Eller >>I er budskabet!<<. Denne dobbelte betydning ligger i det hebraiske udtryk.}{E: Ordret: >>Hvad byrden<<. De fleste ændrer *ʔet-mah* til *ʔettem* og oversætter >>I<< ligesom i LXX og Vulgata.}
+//4 Og jeg vil forkaste jer<
+//5 – det er HERRENS udsagn.
+//3 v34 Den profet og den præst og den i folket
+//6 som siger:
+//7 >HERRENS byrde<,{T: Eller >>HERRENS budskab<<.}
+//5 den mand og hans hus vil jeg hjemsøge.
+//4 v35 Sådan skal I sige,
+//8 enhver til sin ven
+//9 og enhver til sin bror: 
+//7 >Hvad har HERREN svaret?<
+//8 eller >Hvad har HERREN talt?<
+//6 v36 Men >HERRENS byrde< skal I ikke længere huske på,
+//7 for byrden vil for enhver være hans egne ord.{T: Dvs. falsk profeti.}
+//8 For I fordrejer ordene fra den levende Gud, Hærskarers HERRE, vores Gud.
+//5 v37 Sådan skal du sige til profeten:
+//7 >Hvad har HERREN svaret dig?<
+//8 eller >Hvad har HERREN talt?<
+//6 v38 Men hvis
+//9 I siger: >HERRENS byrde<
+//8 
+//7 derfor - sådan siger HERREN:
+//8 Fordi I siger dette ord:
+//11 >HERRENS byrde<,{T: Eller >>HERRENS budskab<<.}
+//10 selvom jeg har sendt jer 
+//11 for at sige:
+//12 >I må ikke sige:
+//13 HERRENS byrde< -
+//9 v39 derfor se, så vil jeg, 
+//10 ja, jeg vil bestemt glemme jer{E: Eller >>jeg vil sandelig løfte jer op<<. Teksten er vanskelig. Masoreterne antager at begge verber kommer fra roden *NŠH* og betyder >>glemme<< eller >>låne ud<<.  En del oversættelser ændrer *shin* til *sin* i begge verberne, så *nāšōˀ* (glemme) i teksten bliver til *nāśōˀ* (løfte op). LXX, Symmachus, Syric og Vulgata m.fl. støtter oversættelsen >>løfte op<<. Man mener at udsagnet >>HERREN vil glemme<< ikke passer til GTs gudsbillede, se Es 49,14-15.}
+//10 og jeg vil kaste jer og byen 
+//12 som jeg gav jer og jeres fædre,
+//11 bort fra mit ansigt,
+//10 v40 og jeg vil lægge på jer en evig skam og en evig vanære{T: Eller >>skændsel<<.}
+//11 som ikke vil blive glemt.<<

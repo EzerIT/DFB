@@ -1,0 +1,201 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 44===
+
+
+==HERRENS dom over sit folks afgudsdyrkelse i Egypten==
+
+
+//0 v1 Det ord
+//4 som kom til Jeremias 
+//3 angående alle judæerne,
+//4 de som boede i Egyptens land,  
+//4 de som boede i Migdol{T: Grænseby nordøst for Takpankes.}{H: 2 Mos 14,2; 4 Mos 33,8; 46,14; Ez 29,10; 30,6.} og i Takpankes{T: Se note til Jer 43,7.} og i Nof{T: Det samme som Memphis, der anvendes i mange oversættelser. Memhpis var hovedstad i det nedre Egypten.} og i landet Patros{T: Også kaldt Patrusim. Patros er Øvre Egypten.}{H: 1 Mos 10,14; 1 Krøn 1,12; Es 11,11; Ez 29,14; 40,14.}
+//2 :
+
+
+//4 v2 >>Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//5 I, ja, I har set al den ulykke
+//7 som jeg har bragt over Jerusalem og over alle Judas byer.
+//9 Og se, de er denne dag en ruin,{T: Eller >>ørken<<.} 
+//10 og ingen bor i dem
+//8 v3 på grund af deres ondskab 
+//9 som de gjorde
+//10 for at ægge mig til vrede{T: Eller >>krænke mig<<.}{H: Jer 8,19; 32,30.}
+//11 ved at gå hen
+//13 og brænde røgelse
+//12 for at tjene andre guder
+//13 som de ikke har kendt -
+//14 de, I og jeres fædre.
+//6 v4 Og jeg har sendt til jer alle mine tjenere, profeterne - tidligt og ustandseligt har jeg sendt - 
+//9 for at sige:
+//10 >Gør dog ikke denne afskyelighed
+//11 som jeg hader!<
+//8 v5 Men de hørte ikke
+//8 og bøjede ikke deres øre
+//9 for at vende om fra deres ondskab
+//9 og ikke brænde røgelse til andre guder.
+//7 v6 Så min harme og vrede blev hældt ud 
+//8 og brændte i Judas byer og i Jerusalems gader,
+//9 og de blev til en ruin,{T: Eller >>ørken<<.}
+//10 til rædsel som på denne dag.
+
+
+//3 v7 Og nu,
+//4 sådan siger Hærskarers HERRE, Israels Gud:
+//6 Hvorfor gør I en så stor ulykke mod jer selv{T: Ordret: >>jeres sjæl<<.}
+//8 - at lade jer udslette, mand og hustru, barn og spædbørn, af Judas midte
+//10 så at der ikke lades en rest tilbage af jer -
+//9 v8 ved at ægge mig til vrede{T: Eller >>krænke mig<<.} ved jeres hænders gerninger, 
+//11 ved at brænde røgelse til andre guder i Egyptens land
+//12 - som I er kommet til 
+//13 for at bo der som fremmede -
+//10 så at I udsletter jer selv,
+//11 og så at I bliver til forbandelse og til spot for alle jordens folkeslag?
+//7 v9 Har I glemt jeres fædres onde gerninger og Judas kongers onde gerninger og deres{T: Ordret: >>hans<<, henførende til hver konges hustruer.} hustruers onde gerninger og jeres egne onde gerninger og jeres hustruers onde gerninger
+//9 som de gjorde i Judas land og i Jerusalems gader?
+//8 v10 Indtil denne dag er de ikke sønderknuste,{E: Verberne i vers 10 står i perfektum, men pga. tidsangivelsen er præsens valgt. Nogle oversætter med perfektum.}
+//9 og de frygter ikke
+//9 og vandrer ikke i min lov og mine lovbud
+//10 som jeg har sat foran jer og foran jeres fædre.
+
+
+//5 v11 Derfor sådan siger Hærskarers HERRE, Israels Gud:
+//6 Se, jeg retter mit ansigt mod jer til ulykke
+//8 og for at udslette hele Juda,
+//7 v12 og jeg vil tage Judas rest,
+//9 de som har sat sig for{T: Ordret: >>rettet deres ansigter mod<<.} 
+//10 at drage til landet Egypten 
+//11 for at bo der som fremmede.
+//8 De skal alle blive fortæret,
+//9 i landet Egypten skal de falde for sværdet,
+//10 ved hungersnøden skal den mindste til den største rives væk,
+//10 og ved sværdet og ved hungersnøden skal de dø.
+//8 Og de skal blive til afsky, til rædsel og til forbandelse og til spot.
+//7 v13 Jeg vil hjemsøge
+//10 dem som bor i Egyptens land,
+//9 ligesom jeg har hjemsøgt Jerusalem med sværdet, med hungersnøden og med pesten.
+//8 v14 Der skal ikke være en der undslipper, eller en overlevende blandt Judas rest,{H: Jer 42,17.}
+//10 - de som kommer
+//11 for at bo der som fremmede i Egyptens land
+//12 og for at vende tilbage til Judas land,
+//13 som de længes efter{T: Ordret: >>de løftende deres sjæl<<.}
+//14 at vende tilbage til 
+//15 for at bo der.
+//9 Sandelig, de skal ikke vende tilbage,
+//10 undtagen dem der er undsluppet.<<{H: Jer 42,17.}
+
+
+==Israels rest i Egypten insisterer på at fortsætte afgudsdyrkelsen==
+
+
+//1 v15 Så svarede de Jeremias - alle de mænd
+//4 som vidste
+//5 at deres hustruer brændte røgelse til andre guder,
+//3 og alle kvinderne
+//5 som stod der,
+//4 en stor forsamling og hele folket,
+//5 som boede i Egyptens land i Patros{T: Øvre Egypten.}
+//2 :
+//3 v16 >>Det ord{T: Underforstået >>angående<<.}
+//5 som du har talt til os i HERRENS navn -
+//4 vi vil ikke lytte til dig.
+//5 v17 For vi vil bestemt gøre efter hvert et ord
+//8 som er udgået af vores egen mund:
+//7 At brænde røgelse til himlens dronning
+//8 og udøse drikofre{H: Jer 7,17.} til hende,
+//6 ligesom vi har gjort – vi og vores fædre, vores konger og vores ledere - i Judas byer og i Jerusalems gader.
+//8 Vi blev mætte af brød,
+//8 og vi havde det rigtig godt, 
+//9 og ulykke så vi ikke.
+//10 v18 Men siden den tid vi er holdt op med
+//12 at brænde røgelse til himlens dronning
+//13 og udøse drikofre til hende,
+//11 har vi manglet alt,
+//12 og ved sværdet og ved hungersnøden er vi omkommet.
+//7 v19 Når vi brænder røgelse til himlens dronning 
+//9 og udøser drikofre til hende,
+//8 mon det er uden vores mænd{T: >>Viden<< eller >>samtykke<< er underforstået.} at vi har lavet kager til hende
+//9 for at afbilde hende
+//10 og udøse drikofre til hende?<<
+
+
+==Jeremias’ fordømmelse af afgudsdyrkelsen==
+
+
+//1 v20 Da sagde Jeremias til hele folket - imod de unge, stærke mænd og kvinderne og imod hele folket,
+//3 de som havde svaret ham{H:  Jer 44,16-19.} 
+//2 :
+//3 v21 >>Røgelsen{H: Jer 1,16; 19,13.}
+//6 som I har brændt i Judas byer og i Jerusalems gader - I og jeres fædre, jeres konger og jeres ledere og landets folk -
+//5 har HERREN ikke husket det 
+//6 og lagt mærke til det?{H: Jer 3,16; 7,31; 19,5; 32,35.}{T: Ordret: >>gik det op på hans hjerte<<.}
+//7 v22 HERREN kunne ikke længere
+//9 bære det
+//8 på grund af jeres onde gerninger, på grund af de afskyelige ting
+//9 som I har gjort.
+//4 Og jeres land er blevet til ørken og til rædsel og til forbandelse uden indbygger ligesom på denne dag.
+//5 v23 Fordi I brændte røgelse,
+//7 og fordi I syndede imod HERREN
+//8 og ikke hørte på HERRENS røst
+//9 og ikke vandrede i hans lov{N: Lov.}{T: Grundbetydningen er >>vejledning/belæring<<.} og hans lovbud og hans vedtægter,
+//6 derfor har denne ulykke ramt jer som på denne dag.<<{H: Jer 9,12; 32,23}
+
+
+//1 v24 Så sagde Jeremias til hele folket og til alle kvinderne:
+//2 >>Hør HERRENS ord,
+//5 hele Juda
+//6 som er i Egyptens land!
+
+
+//4 v25 Sådan siger Hærskarers HERRE, Israels Gud
+//5 :
+//6 I og jeres hustruer,
+//8 I har talt med jeres mund
+//10 - og med jeres hænder har I udført det -
+//9 og sagt:
+//10 >Vi vil bestemt udføre vores løfter
+//11 som vi har lovet:
+//12 at brænde røgelse for himlens dronning,
+//13 og vi skal udøse{E: Verbet er en infinitiv absolut, der udtrykker her en forstærkning.} drikofre til hende.<
+//7 Hold sandelig jeres løfter,{T: Eller >>I skal bestemt holde jeres løfter<<. Verberne er absolut infinitiv og imperfektum af samme rod både her og i den følgende verslinje. Dette forstærker udtrykkene.}
+//8 og udfør sandelig jeres løfter!{T: Eller >>I skal sandelig udføre jeres løfter<<. Kan også oversættes som en konstatering af vers 17, >>I holder virkelig jeres løfter<< og >>I udfører virkelig.<<.}
+
+
+==Den endelige dom over Judas rest==
+
+
+//3 v26 Derfor, hør HERRENS ord,
+//5 hele Juda,
+//6 I som bor i Egyptens land: 
+//4 Se, jeg sværger{T Ordret: >>Jeg har sværget<<.} ved mit mægtige navn
+//7 – siger HERREN:
+//6 Mit navn skal ikke længere 
+//8 nævnes af noget menneskes mund fra Juda
+//10 der siger:
+//11 >Så sandt min herre HERREN lever!< {H: Jer 5,2.7; 7,9; 12,16.}
+//9 i hele Egyptens land.
+//7 v27 Se, jeg våger over{H: Jer 31,28.} dem til ulykke{T: Ordret: >>det onde<<.} 
+//9 og ikke til lykke{T: Ordret: >>det gode<<.}{H: Jer 21,10; 39,16.}
+//8 Og enhver fra Juda
+//12 som er i Egyptens land,
+//11 skal fortæres af sværdet og af hungersnøden 
+//10 indtil de er tilintetgjort.
+//9 v28 De som undslipper sværd, skal vende tilbage fra Egyptens land til Judas land, et fåtal,{T: Ordret: >>mænd af tal<<.}
+//10 og hele Judas rest skal vide
+//12 - de som er kommet til Egyptens land
+//13 for at bo der som fremmede -
+//11 hvis ord der vil blive opfyldt{T: Ordret: >>vil stå<<.} - mine eller deres.
+//5 v29 Dette er tegnet til jer
+//8 – det er HERRENS udsagn -
+//7 at jeg hjemsøger jer på dette sted
+//8 for at I skal vide
+//9 at mine ord til ulykke helt bestemt vil blive opfyldt{T: Eller >>vil ske<<.} på jer. 
+
+//6 v30 Sådan siger HERREN:
+//7 Se, jeg giver Farao Hofra,{T: Farao 589-570 f.Kr.}{H: Jer 46,17.} Egyptens konge, i hans fjenders hånd og i hænderne på dem som stræber ham efter livet,
+//8 ligesom jeg har givet Sidkija, Judas konge, i Nebukadnesar, Babylons konges hånd, hans fjende og ham som stræbte ham efter livet.<<

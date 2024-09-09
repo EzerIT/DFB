@@ -1,9 +1,264 @@
-!!<Modenhed: Færdig>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 01.02.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
 
-===Jeremias' Bog, kapitel 9===
+===Jeremias' bog, kapitel 9===
 
-v22 Sådan siger JHVH: Den vise skal ikke rose sig af sin visdom, og den stærke skal ikke rose sig af sin styrke, den rige skal ikke rose sig af sin rigdom; 
-v23 men den som vil rose sig, skal rose sig af dette: at forstå og kende mig, at jeg er JHVH som udøver nåde,{N: nåde} ret og retfærdighed på jorden; for det behager mig, siger JHVH. 
+
+==Jeremias ønsker at forlade sit folk==
+
+
+//0 v1 Gid{T: Ordret: >>hvem vil give mig<<.} der i ørkenen
+
+var et opholdssted{T: Eller >>herberg<<.} for rejsende til mig!
+
+//2 Så kunne jeg{T: Eller >>da ville jeg<<.} forlade mit folk
+
+//2 og gå bort fra dem,
+
+//1 for de er alle ægteskabsbrydere,
+
+//4 en samling bedragere.{T: Eller >>troløse<<.}
+
+
+==HERREN beskriver folkets frafald==
+
+
+//3 v2 >>De har spændt deres tunge
+//2 som en bue 
+
+til løgn,
+//4 og det er ikke med troskab{T: Eller >>sandhed<<.}{E: Præpositionen foran >>sandhed/troskab<< kan opfattes emfatisk >>sandelig<<. Nogle ændrer verbet til 3. person singularis og oversætter >>og ikke troskab dominerer i landet<<.} 
+
+at de er blevet mægtige i landet,
+
+//3 for de går fra ondskab til ondskab, 
+
+//4 og mig{H: Jer 4,22; 8,5; Hos 4,1-6,} kender de ikke{T: Ordret: >>kende<< har på hebraisk en dybere og mere omfattende betydning med emotionel og villet forpligtelse som >>erkende<<, >>vedkende sig<<, også seksuelt >>ligge med<< som i 1 Mos 4,1.}{H: 1 Krøn 28,9; Es 29,21; Hos 2,20; Ordsp 3,6; Sl 36,11.} 
+
+//5 – det er HERRENS udsagn.
+
+***
+
+//1 v3 Vogt jer enhver for sin ven,{T: Eller >>nabo<<, >>næste<<.}
+//0 
+
+//3 og stol ikke på nogen bror;
+
+//2 for enhver bror er en rigtig bedrager,{T: Ordret: >>følge i hælen på<<, her i overført betydning og emfatisk ved gentagelsen af samme verbum.}
+
+//3 og enhver ven går med sladder. 
+
+//1 v4 Enhver bedrager sin ven,{T: Eller >>nabo<<, >>næste<<.}
+//5
+//4
+
+//3 og sandhed taler de ikke.
+
+//2 De har undervist{T: Eller >>de underviser<<.} deres tunge
+//5 i at tale løgn,
+
+//4 de anstrenger sig{T: Ordret: >>gøre sig træt<<.} for at handle ondt.{T: Ordret: >>bøje/fordreje<<.}{E: LXX ændrer delingen af konsonanter i overgangen fra vers 4-5 og læser *šub* >>fortryde<<. Flere vælger denne oversættelse: >>De handler ondt og er for trætte til at fortryde<<.}
+
+//3 v5 Din bolig{E: *šivtᵊxā* infinitiv construct af roden *yšb* (*šebet*) men *šebet* kan også være et feminint substantiv >>sæde<<, >>trone<<. Am 6,3 har >>volds sæde<<.} er midt i bedrag
+
+//4 på bedrag.{E: Udtrykket *mirmāʰ bᵊmirmāʰ* kan opfattes som en superlativ >>blandt de værste bedragere<<.}{H: Es 6,5.}
+
+De nægter{T: Kan oversættes: >>i bedrag nægter de<<.}
+
+//5 at kende mig
+
+//6 – det er HERRENS udsagn.<<{T: HERREN taler til og om folket i samme tale. Det er noget helt generelt i Jeremias’ bog at HERREN taler til flere og også direkte. Indimellem kan man være i tvivl om hvem der tales til, og hvem der taler.}
+
+
+==Straffen må komme== 
+
+
+//0 v6 Derfor,
+//1 sådan siger Hærskarers{N: Hærskarers} HERRE:
+
+//2 >>Se, jeg er den som smelter dem,
+//5 og jeg vil prøve dem,{H: Jer 6,27.}
+
+//4 for hvad ellers kan jeg gøre for mit folks datter?{H: Amos 3,2.}
+
+//6 v7 Deres tunge er en dræbende pil{T: Kan oversættes >>en pil der er gjort skarp<<.}
+
+//8 der taler svig.
+
+//7 Med sin mund taler man fred til sin næste,
+
+//8 men i sit indre lægger man en fælde{T: Eller >>baghold<<.} for ham.
+
+//5 v8 Skal jeg ikke hjemsøge dem for disse ting?
+
+//7 – Det er HERRENS udsagn.
+
+//6  Hvis en nation{E: * gôy* betyder hedningefolk. Her anvendes det på Israel i stedet for *ʕam* (folk) eller *ʕammî* (mit folk) som HERREN hele tiden har kaldt Israel.}
+//8 er som denne,
+
+//7 skal min sjæl da ikke tage hævn?<<{H: Jer 5,9.29.}
+
+
+==Jeremias græder over sit folk==
+
+
+//3 v9 Over bjergene vil jeg{T: Jeremias, men det kan også være HERREN der taler her.} løfte min gråd og min klage
+
+//6 og over ørkenens{T: Ubeboet land.}{H: 2 Mos 3,1.} græsgange{H: Joel 2,22.} en klagesang,
+
+//5 for de er brændt af,
+//8 intet menneske går igennem,
+
+//7 de hører heller ikke lyden af kvæg.
+
+//6 Lige fra himlens fugle
+og til de vilde dyr 
+
+er de flygtet
+//7 og draget væk.
+
+
+==HEREREN profeterer om Jerusalem og Juda==
+
+
+//4 v10 >>Jeg gør{T: Ordret: >>giver<<.} Jerusalem til stendynger,
+
+en bolig for sjakaler,{H: Jer 9,10; 10,22; 49,33; 51,37.}
+
+//5 og jeg gør Judas byer til ørken
+
+uden indbyggere.<<
+
+
+==Jeremias udtrykker sin afmagt==
+
+
+//0 v11 Hvem er den mand som er så vis
+//4 at han forstår dette,
+//3 og som HERRENS mund har talt til,
+//4 at han skal forkynde det?
+//2 Hvorfor er landet gået til grunde, 
+//3 lagt i ruiner som en ørken ingen går igennem?
+
+
+==Årsagen til dommen, deres bitre ulykke==
+
+
+//1 v12 HERREN siger:
+//2 >>Fordi de har forladt min lov,{H: 2 Kong 17,13-23.34-41.}
+//5 som jeg havde sat foran dem,
+//4 og ikke lyttede til min røst
+//4 og ikke levede efter den,{T: Ordret: >>vandrede i den<<.}
+//5 v13 men fulgte deres hjertes stædighed og fulgte Ba’alerne 
+//6 som deres fædre havde lært dem. 
+
+//3 v14 Derfor, sådan siger Hærskarers HERRE, Israels Gud:
+//4 Se, jeg vil give dette mit folk malurt at spise
+//5 og jeg vil give dem forgiftet vand at drikke.
+//5 v15 Jeg vil sprede dem blandt folkeslag
+//7 som hverken de eller deres fædre kender,
+//6 og jeg vil sende sværdet efter dem
+//7 indtil jeg får gjort ende på dem.<<{T: Den litterære form med spørgsmål (vers 11), svar og forklaring (vers 12-13) og dommen (vers 14-15) går igen flere steder i Jeremias’ bog.}{H: Jer 5,19; 16,10-13 og 22,8-9. Jer 49,37; 5 Mos 28,21.}
+
+
+==Klagesange over Juda==
+
+
+//0 v16 Sådan siger Hærskarers HERRE:
+
+//1 >>Vær opmærksom
+//5 og kald på grædekonerne
+
+//7 at de skal komme,
+
+//6 send bud efter de vise kvinder
+
+//7 at de skal komme!<<
+
+//7 v17 De skal skynde sig
+
+//7 og opløfte en klagen{T: Eller >>jamren<<.} over os
+
+//8 så vores øjne kan løbe over{T: Ordret: >>gå ned<<.} med tårer 
+
+//9 og vores øjenlåg flyde over med vand!
+
+//4 v18 For lyden af klagen høres fra Zion:
+
+//5 >>Hvor er vi lagt øde! 
+
+//7 Vi er blevet fuldstændig til skamme
+//6 fordi vi har forladt landet,
+
+//7 fordi de har brudt vores boliger ned.<< 
+
+***
+
+//3 v19 Så hør, 
+//7 I kvinder,
+//6 HERRENS ord,
+
+//5 lad jeres øre tage imod ordet fra hans mund:
+
+//4 Lær jeres døtre sørgesang,
+
+//6 og enhver kvinde skal lære{T: >>skal lære<< er tilføjet.} sin ven en klagesang!
+
+//5 v20 For døden er kommet op i vores vinduer,
+
+//7 den er kommet i vores paladser
+
+//6 for at skære barnet fra gaden af,
+
+//7 og de unge mænd fra torvene.
+
+//2 v21 >>Tal!
+//4 - sådan er HERRENS udsagn:
+
+//3 Liget af mennesket vil falde
+
+som gødning{H: Jer 8,2; 16,4; 25,33.} på markens overflade,
+
+//5 som neg efter den der høster,
+
+//4 og ingen samler ind.<<
+
+
+==Dette har HERREN velbehag i==
+
+
+//0 v22 Sådan siger HERREN:
+
+//2 >>Den vise skal ikke rose sig af sin visdom,
+
+//3 den stærke skal ikke rose sig af sin styrke,
+
+//2 den rige skal ikke rose sig af sin rigdom!
+
+//3 v23 Men den som vil rose sig, skal rose sig af dette:
+
+//4 at forstå
+//6 og kende mig,
+
+//5 at jeg er HERREN
+
+//7 som udøver nåde,{N: nåde} ret og retfærdighed på jorden;
+
+//6 for det behager mig
+
+//7 – det er HERRENS udsagn.
+
+
+==HERRENS plan for omskårne og uomskårne==
+
+
+//1 v24 Se, dage skal komme
+//3 – det er HERRENS udsagn -
+//2 da jeg hjemsøger alle omskårne som er uomskåret -
+//4 v25 Egypten, Juda, Edom, Ammons sønner, Moab,
+//5 og alle indbyggere i ørkenen som har klippede tindinger{T: Ordret: >>side<<, >>hjørne<<.}
+//3 for alle folkeslagene{T: Eller >>nationerne<<, >>hedningefolkene<<.} er uomskårne,
+//4 og hele Israels hus er uomskåret på hjertet.<<

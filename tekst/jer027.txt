@@ -1,0 +1,117 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 27===
+
+
+==Folkeslagene skal tjene Babylons konge==
+
+
+//0 v1 I begyndelsen af Sidkija,{T: 597 f.Kr.}{E: Den masoretiske tekst og Targum har >>Jojakim<<. Jødiske fortolkere opfattede befalingen til Jeremias som givet før Sidkija blev konge. De fleste bibeloversættelser vælger >>Sidkija<<, som også er anført i Jer 27,3.12 og Jer 28,1.} Josijas søn, Judas konges regering kom dette ord til Jeremias fra HERREN
+//1 :
+//2 v2 Sådan sagde HERREN til mig:
+//4 >>Lav dig reb{T: Ordret: >>bånd<<, >>rem<<.} og stænger til et åg
+//5 og læg dem over din nakke!
+//5 v3 Og du skal sende dem til kongen af Edom, til kongen af Moab, til ammonitternes{T: Ordret: >>Ammons sønners<<.} konge, til kongen af Tyrus og til kongen af Sidon gennem de sendebud
+//7 som kommer til Jerusalem til Sidkija, Judas konge.
+//6 v4 Og du skal befale dem at sige til deres herrer
+//7 :
+//8 Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//9 Sådan skal I sige til jeres herrer:
+//10 v5 Jeg, jeg har dannet jorden, menneskerne og de vilde dyr,
+//15 som er på jordens overflade,
+//14 med min mægtige styrke og med min udstrakte arm,
+//13 og jeg giver den 
+//14 til hvem det er ret i mine øjne.
+//12 v6 Og nu
+//13 jeg, jeg har givet alle disse lande i Nebukadnesar, Babylons konge, min tjeners hånd,
+//16 og også markens vilde dyr har jeg givet ham 
+//17 til at tjene ham.
+//15 v7 Alle folkeslag skal tjene{T: >>Tjene<< betyder her at underkaste sig, være slave for.} ham, hans søn og hans sønnesøn{T: Tre generationer, ligesom de 70 år.}{H: 2 Mos 34,7; Jer 25,11-12; 29,10.}
+//16 indtil tiden kommer for hans land{T: Dvs. dommen.} – også for ham.
+//15 Da skal mange folkeslag og mægtige konger få ham til at tjene.{T: Eller >>gøre ham til slave<<.}{H: Jer 25,14.}
+//14 v8 Og det vil ske
+//15 at det folkeslag og kongerige
+//17 som ikke vil tjene ham, Nebukadnesar, Babylons konge,
+//18 og som ikke vil give sin nakke ind under Babylons konges åg,
+//16 med sværdet og med hungersnøden og med pesten vil jeg hjemsøge dette folkeslag
+//18 – det er HERRENS udsagn -
+//17 indtil jeg har gjort ende{E: *tummî* ordret: >>være afsluttet<<. Verbalformen er qal og er normalt intransitivt (der er ingen piel), men tager her objekt.}{H: Jer 24,10.} på dem ved hans hånd.{T: Eller >>magt<<.}
+//11 v9 Men I,
+//13 hør ikke på jeres profeter og jeres spåmænd, jeres drømmetydere,{T: Ordret: >>jeres drømme<<. Nogle oversætter >>drømmere<<.} jeres sandsigere og jeres troldmænd,{H: Jer 23,16; 27,14.17; 29,8.}
+//15 de som siger til jer
+//16 :
+//17 >I skal ikke tjene Babylons konge!<
+//14 v10 For det er løgn de profeterer for jer
+//15 for at fjerne jer fra jeres jord,
+//16 så jeg må fordrive jer,
+//17 og I vil gå til grunde.
+//12 v11 Det folkeslag
+//14 som bringer sin nakke ind under Babylons konges åg 
+//15 og tjener ham,
+//13 vil jeg lade blive på dets egen jord
+//15 – det er HERENS udsagn -
+//14 og det skal dyrke den
+//15 og bo på den.<<
+
+==Sidkija og Israels folk skal tjene Babylons konge og leve==
+
+//3 v12 Og til Sidkija,{E: *ṣidqiyyāʰ* er her den forkortede form af *ṣidqiyyāhû* i vers 3. Den findes flere steder i Jeremias’ bog.}{H: Jer 28,1; 29,3; 49,34.} Judas konge, talte jeg alle de samme ord
+//4 :
+//5 >>Bring jeres nakke ind under Babylons konges åg
+//8 og tjen ham og hans folk
+//8 og lev!{H: Jer 27,17;  29,5-6.}
+//7 v13 Hvorfor vil du og dit folk dø ved sværdet, ved hungersnøden og ved pesten,
+//8 ligesom HERREN har talt til det folkeslag
+//9 som ikke vil tjene Babylons konge?
+//6 v14 Lyt ikke til profeternes ord,
+//8 de som siger til jer
+//9 :
+//10 >I skal ikke tjene Babylons konge!<
+//7 for det er løgn de profeterer for jer,
+//9 v15 for jeg har ikke sendt dem
+//10 – det er HERRENS udsagn.
+//8 Og de har profeteret løgn i mit navn
+//9 for at jeg skal fordrive jer,
+//10 og I vil gå til grunde, I og profeterne,
+//11 de som profeterer for jer.<<
+//3 v16 Og til præsterne og til hele dette folk talte jeg
+//4 :
+//5 >>Sådan siger HERREN:
+//6 Hør ikke på jeres profeters ord
+//8 de som profeterer for jer
+//9 :
+//10 >Se, karrene fra HERRENS hus bringes nu snart tilbage fra Babylon!<
+//7 For det er løgn de profeterer for jer.
+//6 v17 Hør ikke på dem!
+//9 Tjen Babylons konge
+//10 og lev!
+//8 Hvorfor skal denne by blive en ørken?
+//7 v18 Og hvis de er profeter,
+//8 og hvis HERRENS ord er i dem,{T: Ordret: >>med dem<<.}
+//9 så lad dem bønfalde Hærskarers HERRE om
+//10 at karrene,
+//13 de som er tilbage i HERRENS hus og Judas konges hus og i Jerusalem,
+//12 ikke kommer til Babylon.<<
+
+
+==Karrene kommer til Babylon, men HERREN bringer dem tilbage==
+
+
+//11 v19 For sådan siger Hærskarers HERRE vedrørende søjlerne og vedrørende havet og vognstellene,{T: Ordret: >>base<<, >>opbevaringssted<<.} og vedrørende de resterende kar,{E: *kkēlîm* kan oversættes med >>kar<<, >>redskaber<<, >>ting<<, >>genstande<< og er et ikke specifikt udtryk og må tolkes ud fra sammenhængen i teksten.}
+//13 de som er tilbage i denne by,
+//12 v20 de som Nebukadnesar, Babylons konge, ikke tog med, 
+//13 da han førte Jekonja, Jojakims søn, Judas konge, i eksil fra Jerusalem til Babylon{T: I år 597 f.Kr.}
+//14 og også alle Judas og Jerusalems fornemme.
+
+//11 v21 For sådan siger Hærskarers HERRE, Israels Gud, vedrørende karrene,
+//13 de som er ladt tilbage i HERRENS hus og Judas konges hus og i Jerusalem:
+//12 v22 >>Til Babylon vil de blive bragt, 
+//13 og der bliver de indtil den dag
+//14 jeg hjemsøger dem
+//16 – det er HERRENS udsagn -
+//15 og jeg fører dem op, og 
+//15 jeg bringer dem tilbage til dette sted.<<

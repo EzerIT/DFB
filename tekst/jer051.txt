@@ -1,0 +1,563 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 51===
+
+
+==HERRENS dom over Babylon==
+
+
+//0 v1 Sådan siger HERREN:
+
+//2 >>Se, jeg vækker mod Babylon
+
+og mod indbyggerne i Leb-Kamaj{T: Et udtryk der er en omskrivning for Kaldæa, kaldæerne.}{H: Jer 51,41; 25,26.}
+
+en ødelæggers ånd.{E: Nogle oversættelser vælger >>ødelæggende vind<<. Oversættelsen af *rûₐḥ* her med >>ånd<< henfører til >>medernes kongers ånd<< i Jer 51,11.}{H: Jer 4,11-12; 18,17; Hag 1,14; 1 Krøn 5,26; 2 Krøn 21,16; Ezra 1,1.5.}
+
+//8 v2 Og jeg vil sende fremmede{E: Nogle ændrer - her med baggrund i bl.a. Symmachus og Vulgata - *zārîm* til *zorîm* og oversætter med >>kornkastere<<, idet substantivet opfattes som afledt af verbet *zrh* >>sprede<<. Oversættelsen her henfører til Jer 4,11-12.}{H: Jer 5,19; 30,8; 51,51.} til Babylon,
+//10 og de skal sprede hende{H: Jer 31,10; 49,32.36.} 
+
+//11 og lægge hendes land øde,
+
+//9 fordi de{T: Babylonerne.} var{E: *hāyû* opfattes her ligesom i Targum som ren perfektum, skønt mange oversættelser vælger at opfatte *hāyû*, som en profetisk perfektum og oversætter >>for de (fremmede) vil være imod/komme over hende (Babylon)<<. Grammatisk set er begge oversættelser mulige.} imod hende{T: Jerusalem.}{H: Jer 20,4-5; 4,17.} fra alle sider 
+
+på ulykkens dag.
+
+//7 v3 Imod ham som spænder sin bue,{T: >>sin bue<< er underforstået i verbet.} lad bueskytten spænde sin bue{E: Teksten er vanskelig. Især de to *ʔel* volder problemer. De oversættes som præposition, >>imod<<, >>til<< eller som negation (med vokalisering: *ʔal*); emfatisk (forstærkende) eller >>Gud<< forekommer også, idet man ændrer på vokaliseringen. Dertil kommer at vokaliseringen af det andet *drx* >>spænde<< mangler (da masoreterne dermed har ment at det bør udgå). Ordret: >>imod, lad spænde, lad spænde, bueskytten, sin bue; imod, lad ham rejse sig i sin brynje<<. Oversættelserne er meget forskellige. Syric, Targum, Vulgata og mange manuskripter ændrer *ʔel* til det negative *ʔal* i begge tilfælde og udelader det ikke vokaliserede *drx* >>lad spænde<<. De oversætter >>han som spænder sin bue, lad ham ikke spænde den<<. Andre oversætter begge *ʔel* i verset emfatisk; ved en lille ændring i vokaliseringen kan *ʔel* også betyde >>Gud<< (*ʔēl*), og der oversættes da >>Gud vil spænde, vil spænde, bueskytten vil spænde sin bue og Gud vil rejse sig i sin brynje<<. Gud bliver derved subjekt og Jeremias den der taler. Vi møder *ʔēl* som >>Gud<< i Jer 51,56 og i Jer 50,25 åbner HERREN sit våbenkammer. Gentagelser som >>vil spænde<<, >>vil spænde<< ses ofte i Jeremias’ bog. LXX udelader *ʔel*. Nogle oversætter >>mod ham som spænder (sin bue), lad bueskytten spænde sin bue og mod ham som tager sin brynje på<<.}{H: Jer 4,19; 22,2.}
+//11
+
+//10 og mod den der rejser sig op i sin brynje.{T: Eller >>Gud vil spænde, vil spænde, bueskytten vil spænde sin bue, og Gud vil rejse sig i sin brynje<<, jf. note. Hvis denne oversættelse er den rigtige, kan Jer 51,3-19 opfattes som Jeremias’ tale.}
+
+//9 Og skån ikke hendes unge mænd,
+
+//8 læg band på hele hendes hærskare!
+
+//9 v4 De dødeligt sårede skal falde i kaldæernes land
+
+//10 og de der er stukket ned, i hendes gader.
+
+//6 v5 Men hverken Israel eller Juda er blevet forladt som enke{E: En hapax legomenon – findes kun her og er maskulinum. >>Forladt som<< er tilføjet pga. præpositionen *mē* >>af (sin Gud)<<.}
+
+af sin Gud, af Hærskarers{N: Hærskarers.} HERRE, 
+
+//7 skønt deres land{T: Israels land, se Jer 50,7.} er fuld af skyld
+over for Israels Hellige.{H: Jer 50,29.} 
+
+//5 v6 Flygt ud af Babylon
+
+//7 og red hver sit eget liv!
+
+//6 Omkom ikke{T: Ordret: >>bliv ikke gjort stille<<.} på grund af hendes{T: Babylon.} skyld,{T: Eller >>i hendes straf<<.}
+
+//7 for det er HERRENS tid for hævn,{H: Jer 51,56; 50,15.29; Åb 18,6.}
+
+//8 hendes gerning gengælder han hende.
+
+//4 v7 Et guldbæger{H: Jer 25,15.17.28; 49,12.} var Babylon i HERRENS hånd,
+
+//7 der gør hele jorden beruset.
+
+//6 Af hendes vin har folkeslagene drukket,
+//7 derfor opfører folkeslagene sig som vanvittige.{H: Jer 50,38; 25,16; Åb 18,3.}
+
+//5 v8 Pludselig er Babylon faldet{H: Es 21,9.}
+//7 og brudt sammen.
+
+//6 Jamr over hende!
+
+//6 Hent balsam{H: Jer 8,22; 46,11.} for hendes smerte,
+
+//8 måske kan hun blive helbredt!<<
+
+//7 v9 >>Vi{T: Babylons fremmede folk.} ville helbrede Babylon,
+//9 men hun kunne ikke helbredes.
+
+//8 Forlad hende
+//12 og lad os drage hver til sit land!
+//13
+
+//11 For hendes dom når{T: Ordret: >>rører<<} til himlene
+
+//12 og hæver sig helt til skyerne.
+
+//10 v10 HERREN har bragt hele vores retfærdige sag for dagen.{T: Ordret: >>bragt frem/ladet komme frem vores retfærdigheder<<.}{H: Es 62,1-2.}
+
+//9 Kom
+//10 og lad os forkynde i Zion 
+
+HERREN, vores Guds gerning!<<{H: Jer 50,28; Sl 26,7; 40,6; 75,2; 78,3-4; 118,17.}
+
+//3 v11 Spids pilene,
+
+//3 fyld koggerne!{E: Både LXX og Vulgata oversætter >>koggerne<<. Det menes at være et aramaisk låneord, der betyder >>bue- (og pil)beholder<< eller til andre våben. Nogle oversætter >>saml/grib skjoldene<<, da ordet andre steder i GT oversættes med >>skjolde<<.}{H: Ez 27,11, 1 Krøn 18,7; 2 Kong 11,10; 2 Krøn 23,9.} 
+
+//1 HERREN har vakt 
+
+Mediens kongers ånd,{H: Jer 25,25; 51,28.}
+
+//4 for hans plan imod Babylon er
+
+//6 at ødelægge hende.
+
+//5 For dette er HERRENS hævn,
+
+//6 hævnen for hans tempel.
+
+//3 v12 Løft banner imod Babylons mure,
+
+//4 forstærk vagten,
+
+//4 sæt vagtposter op,
+
+//4 gør bagholdene klar!
+
+//2 For HERREN både planlægger
+
+//3 og udfører
+
+//4 det som han har talt angående Babylons indbyggere:
+
+//5 v13 >>Du som bor{E: Ketiv-formen er en aramaisk form, 2. person, femininum, singularis.} ved de mange vande,
+
+//7 rig på skatte,
+
+//6 din ende er kommet,{H: Åb 17,1.}
+//7 det mål{T: Eller >>punkt<<.} hvor du skal skæres af.<<{E: Ordret: >>alen for at skære dig af<< eller >>din afskærings alen<<, idet roden *BṢʕ* kan opfattes både som verbum (infinitiv constructus) og som substantiv.} 
+
+//1 v14 Hærskarers HERRE har svoret ved sig selv:
+
+//3 >>Sandelig, jeg fylder dig med mennesker som græshopper,
+
+//4 og de vil istemme jubelråb over dig!<<
+
+
+==Lovprisning til HERREN, Jakobs Gud==
+
+
+//2 v15 Han er den som dannede jorden ved sin kraft,
+//2 grundlagde verden{T: Eller >>jorden<<.} i sin visdom,
+
+//4 og ved sin indsigt bredte han himlene ud.
+
+//6 v16 Når han oplader sin røst
+//8 
+//7 bruser vandene i himlene,
+
+//5 og han får skyerne til at stige op fra jordens ende.
+
+//6 Han gør lynene til regn,
+
+//5 og han får vinden til at fare ud fra sine forrådskamre.
+
+//3 v17 Ethvert menneske er en tåbe og uden kundskab,
+
+//3 enhver smed er blevet virkelig til skamme på grund af afgudsbilledet,
+
+//5 for hans smeltede billede er en løgn,
+
+//8 og der er ingen ånd i dem.
+
+//7 v18 De er tomhed,{E: *hevel* betyder >>vindpust<<, >>tomhed<<, >>intet<<.}{H: Præd 1,2; Jer 8,13; 14,22; 16,19; 51,18; 1 Kor 8,4.}
+
+//8 - et latterligt arbejde!
+
+//6 På tidspunktet for deres hjemsøgelse skal de gå til grunde.
+
+//4 v19 Jakobs del{T: Eller >>arvelod<<.}{H: 5 Mos 32,9; Jer 10,16; Amos 8,7; 4 Mos 18,20; Klag 3,24; Sl 16,5; Sl 73,26; Sl 119,57.} er ikke som disse,
+//5 for det er ham som har formet det hele,
+
+//7 også stammen som er hans ejendom.{T: Mange oversættelser tilføjer >>Israel<<, det findes også i nogle manuskripter.}{H: Jer 10,16.}
+
+//6 Hærskarers HERRE er hans navn.{H: Jer 51,15-19 = Jer 10,12-16.}
+
+
+==Babylon var HERRENS hammer over for Israel==
+
+
+//1 v20 >>Du var min hammer,{T: Der er forskellige forslag til hvem der er >>min hammer<<: Babylon, Jeremias og Israel. Jer 50,23 antyder at hammeren er Babylon. Flere oversættelser vælger profetisk perfektum og oversætter med præsens.}{H: Jer 1,10; 51,27; 50,23; Es 10,5ff.}
+
+//5 et krigsvåben,
+
+//4 og med dig knuste{H: Jer 22,28; 48,12; 13,14.}{E: *nippaṣtî* anvendes om at knuse lertøj. Verberne med præfikset *waw* i vers 20-23 kan opfattes som ren perfektum som her. De kan også tolkes som waw consecutive/profetisk perfektum - det står fast så det vil ske - som LXX gør og oversætter med futurum. Flere oversættelser vælger præsens af samme grund.} jeg folkeslag,
+
+//4 med dig ødelagde jeg kongeriger,
+
+//4 v21 med dig knuste jeg hest og dens rytter,
+
+//4 med dig knuste jeg stridsvogn og dens rytter,{T: Mange oversættelser vælger >>vognstyrer<< i stedet for >>rytter<< for at undgå gentagelsen, som er i den hebraiske tekst.}
+
+//4 v22 med dig knuste jeg mand og hustru,
+
+//4 med dig knuste jeg gammel og ung,
+
+//4 med dig knuste jeg den unge mand og jomfruen,
+
+//4 v23 med dig knuste jeg hyrde og hans hjord,
+
+//4 med dig knuste jeg bonde og hans oksespand,
+
+//4 med dig knuste jeg statholdere og fyrster.{T: Eller >>embedsmænd<<. Betydningen af ordet er militær administrator eller embedsmand af lavere rang under kongen. Men i GT anvendes >>statholder<< og >>fyrster/embedsmænd mere eller mindre om det samme.}
+
+//3 v24 Og jeg vil gengælde Babylon og alle Kaldæas indbyggere{H: Jer 25,14; 50,29; 51,6.56; Es 10,5-19; 37,22-29; Jer 50,1; Jer 27,5-7.} alt det onde
+//6 som de har gjort mod Zion, for øjnene af jer{H: Sl 91,8; Matt 24,33-34.}
+//5
+//4 – det er HERRENS udsagn.
+
+
+==Babylons ende er truende nær==
+
+
+//2 v25 Se, jeg er imod dig,
+//6 du ødelæggelsens bjerg
+
+//5 – det er HERRENS udsagn -
+
+//4 du der ødelægger hele jorden!
+
+//3 Jeg vil strække min hånd ud mod dig,
+
+//4 og jeg vil vælte dig ned fra klipperne
+
+//5 og gøre dig til et udbrændt{T: Eller >>afsvedet<<.} bjerg.
+
+//6 v26 De skal hverken tage hjørnesten 
+
+eller grundsten fra dig.
+
+//7 Sandelig, evige ødemarker{T: Eller >>evig ørken<<.} skal du blive til{H: Jer 25,12; 51,62.}
+
+//8 – det er HERRENS udsagn.
+
+//1 v27 Rejs et banner i landet,
+
+//1 stød i hornet blandt folkeslagene!
+
+//1 Hellig{T: >>Til krig<< er underforstået.} folkeslag mod hende,
+
+//1 tilkald kongerigerne 
+
+Ararat,{T: Bjergområde nord for Assyrien. Kaldt Armenien i LXX i Es 37,38.}{H: 1 Mos 8,4.} Minni{T: Et lille rige nord for Assyriens grænse. LXX opfatter det ikke som et navn og oversætter >>ved mig<<.} og Ashkenaz{T: Et rige nord for Ararat og Mini, mellem Sortehavet og Det Kaspiske Hav.}{H: 1 Mos 10,13; 1 Krøn 1,6; Jer 25,26.} mod hende!
+
+//1 Indsæt en general{E: *ṭifsār* >>skriver<<, men her en >>militær officer<< af høj rang.} imod hende,
+
+//1 få heste som hårede{E: Ordet er en hapax legomenon, findes kun her, og betydningen er usikker. Verbet til ordet betyder >>ryste<< i qal og i piel >>få hårene til at rejse sig<<. Ordet *yeleq* som er brugt her om græshoppe, er en græshoppe i tidligt stadium uden vinger - der findes i GT 12 forskellige ord for græshopper.} græshopper{H: Åb 9,7.} til at drage op! 
+
+//1 v28 Hellig{T: >>Til krig<< er underforstået.} folkeslag mod hende,
+
+Mediens konger, 
+
+hendes statholdere og alle hendes fyrster 
+
+og hele landet under hans{T: Generalens i vers 27.} herredømme!
+
+//2 v29 Da skælver og bæver jorden,{T: Eller >>landet<<.}
+//6 
+
+//5 for da opfyldes på Babylon HERRENS planer
+
+//6 - at gøre Babylons land 
+
+til rædsel uden beboer.
+
+//4 v30 Babylons krigere er holdt op med
+//8 at kæmpe,
+
+//7 de sidder i fæstningerne.
+
+//6 Deres kraft er forsvundet,{T: Ordret: >>tørret ud<<.} 
+
+//5 de er blevet som kvinder.
+
+//6 De har sat ild til hendes boliger,
+
+//7 hendes slåer er brækket.
+
+//3 v31 Løber 
+//7 løber for at møde løber
+//6
+
+//5 og budbringer 
+//6 for at møde budbringer
+
+//7 for så at fortælle Babylons konge 
+
+//8 at hans by er indtaget fra hver side.{T: Ordret: >>fra ende<<, dvs. fra ende til ende eller fra en ende til den anden. Dette medfører >>fra hver side<<.}{H: Jer 50,26.}
+
+//9 v32 Også forterne{T: Broer over Eufrat, vandkanaler eller voldgrav omkring Babylons ydre mur.} er blevet besat,
+
+//10 og sivsøerne{T: Nogle oversætter >>fæstninger<<, men det ligger ikke i det hebraiske ord. Targum har >>marsklande<<.} har de brændt fuldstændigt ned.{T: Dvs. marskgræsset.}
+
+//11 Og krigens mænd er skrækslagne.
+
+***
+
+//4 v33 For sådan siger Hærskarers HERRE, Israels Gud:
+
+//5 Babylons datter{H: Jer 50,42.} er som en tærskeplads
+
+//7 på den tid 
+//8 man tærsker{T: Eller >>stamper<<.} hende.
+
+//6 Endnu en kort tid
+
+//7 så kommer høstens tid for hende.<<
+
+//1 v34 >>Han fortærede{H: Jer 2,30; 5,14.17; 46,10.14; 50,17.} mig, 
+
+//2 Nebukadnesar, Babylons konge rystede mig,{E: Der er forskellige forståelser af verbet. Targum oversætter >>han ødelagde mig<<, LXX >>han delte mig, skar mig op<<. Ordret: >>bringe i bevægelse og forvirring<<.}{H: Jos 10,10; 1 Sam 7,10; 2 Mos 14,24.} 
+
+//3 han satte mig hen som et tomt kar,
+
+//3 han slugte mig som dragen,{T: Eller >>havdyret<<.}{E: *ttannîn* oversættes forskelligt i GT alt efter den sammenhæng ordet står i: >>havdyr<<, >>slange<<, >>hav/søuhyre<<, >>drage<<.}{H: 1 Mos 1,21; 2 Mos 7,9; Sl 91,13; Es 27,1; 51,9; Ez 29,3; 32,2; Sl 74,13.}
+
+//4 han fyldte sin bug med mine lækkerier.
+
+//5 Han rensede mig ud.{E: *hedîḥāni*, rod *dwh* >>rense ud/rense<<. Dette må foregå i munden. Men mange oversætter som i LXX og Vulgata >>han kastede mig op<<, hvilket peger i retning af eksil. Da verbet står uden vokalisering kan det læses *hiddîḥāni*, rod *ndh* >>fordrive<<, >>sprede<<. Targum oversætter >>han har ført mig i eksil<<. Da begge oversættelser er mulige og ligger tæt op ad hinanden, kan det opfattes som et af Jeremias’ mange ordspil.}{H: Jer 8,3; 16,15; 23,8; 24,9; 46,28; 50,17.} 
+
+//7 v35 Må volden mod mig og mit kød{H: Mika 3,2-3.} komme over Babylon!<<
+
+//9 - skal Zions indbyggere{T: Ordret: >>indbygger<<, femininum singularis. Må opfattes kollektivt. Dette udtryk findes kun her og i Es 12,6.} sige -
+
+//8 og >>mit blod over Kaldæas indbyggere!<<
+
+//9 skal Jerusalem sige.
+
+
+==HERREN tager hævn på Israels vegne==
+
+
+//6 v36 Derfor sådan siger HERREN:
+
+//7 >>Se, jeg fører din sag, 
+
+//9 og jeg vil tage hævn på dine vegne;{T: Ordret: >>jeg vil hævne din hævn<<.}
+
+//9 jeg vil udtørre hendes hav{T: Eufrat.}
+
+//9 og lade hendes kilde tørre ud.{T: Eufrat.}
+
+//10 v37 Og Babylon skal blive til stendynger,
+
+en bolig for sjakaler,{H: Jer 9,10; 10,22; 14,6; 49,33.}
+
+til rædsel og til spot{T: Ordret: >>piften<<, >>fløjten<<.}{H: Jer 18,16; 19,8; 25,9.18; 29,18.} uden beboer.
+
+//11 v38 Sammen brøler de som unge løver,
+
+//12 knurrer{T: Ordret: >>ryste af<<.} som hunløvernes unger.
+
+//9 v39 Når de er ophedet,{T: Eller >>varmet op<<.}
+//8 arrangerer jeg et drikkegilde for dem{T: Ordret: >>sætter jeg deres drinks frem<<.}
+
+//10 og gør dem beruset,{H: Jer 51,7.57.}
+//12 så de bliver lystige.
+
+//11 Og de skal falde i en evig søvn{H: Jer 51,57.}
+//12 og ikke vågne igen
+
+//13 – det er HERRENS udsagn.
+
+//9 v40 Jeg fører dem ned som vædderlam
+//11 til slagtning,
+
+//10 som væddere sammen med bukke.
+ 
+//5 v41 Hvor er Sheshak{T: Kodeord for Babylon.}{H: Jer 25,26.} blevet indtaget,
+
+//6 og erobret er hele jordens lovprisning!{H: Jer 49,25; 48,2; 13,11.}
+
+//5 Hvor er Babylon blevet til rædsel 
+
+blandt folkeslagene!{H: Jer 50,23; 51,20-23.} 
+
+//8 v42 Havet er steget op over Babylon, 
+
+//9 og med dets brusende bølger er hun blevet skjult. 
+
+//7 v43 Hendes byer er blevet til rædsel,
+
+et tørt og øde land
+
+- et land 
+//8 hvor ingen bor, 
+
+//9 og hvor intet menneskebarn{T: Eller >>ingen søn af et menneske<<.} drager igennem.
+
+//6 v44 Og jeg vil hjemsøge Bel{T: >>Bel<< er en forkortet titel >>herre<<  for Babylons gud, Bel Marduk, Jer 50,2.} i Babylon,
+
+//6 og jeg vil tage det han har slugt, ud af hans mund;
+//8 og folkeslagene skal ikke mere strømme til ham.
+
+//7 Også Babylons mur er faldet.
+
+//5 v45 Drag ud fra hende,{T: Ordret: >>fra hendes midte<<.}
+//8 mit folk!
+
+//7 Og red 
+//9 enhver sit eget liv{H: Jer 51,6.}
+
+//8 fra HERRENS glødende vrede!
+
+//6 v46 Så I ikke bliver modløse,{T: Ordret: >>jeres hjerte bliver svagt<<.}
+
+//7 og I frygter budskabet
+
+//9 der høres i landet!
+
+//8 For budskabet kommer i dette år,
+
+//11 og efter det, budskabet i det andet år,{T: Meningen er at rygter cirkulerer et år og igen det næste år.}
+
+//10 og vold er i landet,
+
+//11 og hersker rejser sig imod hersker.
+
+//9 v47 Derfor se, dage kommer
+
+//13 da jeg vil hjemsøge Babylons gudebilleder,
+
+//12 og hele hendes land skal blive til skamme,
+
+//14 og alle hendes dødeligt sårede skal falde i hendes midte.
+
+//13 v48 De skal juble over Babylon,
+
+himmel og jord{H: Es 14,7; Sl 148; 19,2-5.} og alle
+
+//15 som er i dem,
+
+//14 for fra nord skal ødelæggerne komme{E: Verbet er singularis her, i Jer 51,53, der er enslydende, er verbet pluralis.} til hende
+
+//15 – det er HERRENS udsagn.
+
+//11 v49 Selv Babylon 
+//13 skal falde,{H: Es 21,9; Jer 51,8; 8,23.} I Israels dødeligt sårede,{E: Udtrykket opfattes som vokativ. Nogle oversættelser tilføjer *lᵊ* >>på grund af<< foran >>Israels dødeligt sårede<< ligesom *lᵊ* står foran >>Babylon<<, med ønsket om en parallelisme.}
+
+//12 ligesom hele jordens dødeligt sårede faldt på grund af Babylon. 
+//10 v50 I overlevende fra sværd,
+//11 gå,
+
+//12 bliv ikke stående!
+
+//11 Husk HERREN fra det fjerne
+
+//12 og tænk på Jerusalem i jeres hjerte!<<{T: Ordret: Lad Jerusalem gå op på jeres hjerte<<.}{H: Jer 137,5.}
+
+//5 v51 >>Vi skammer os,{T: Eller >>vi blev til skamme<<.}
+//8 for vi lyttede til skændsel,{T: Eller >>spot<<.}{H: Jer 20,8; Sl 44,16-17.}
+
+//7 vanære{T: Eller >>skam<<.} dækker vores ansigter,
+
+//8 for fremmede er kommet imod de hellige steder{E: *miqdᵊšê* kan tolkes som en intensiv pluralis og oversættes >>helligdom<< som Syriac, Targum og Vulgata gør.} i HERRENS hus.<<
+ 
+
+==Babylons fuldstændige ødelæggelse==
+
+
+//6 v52 >>Derfor se, dage kommer
+
+//8 – det er HERRENS udsagn -
+
+//7 da jeg vil hjemsøge hendes gudebilleder;
+
+//9 og i hele landet skal de dødeligt sårede{T: Ordret: >>gennemstukket<<, med sværd.} sukke.
+
+/10 v53 Om så Babylon stiger op til himlen,
+
+//11 og skønt hun gør sin højtliggende fæstning uindtagelig,
+
+//12 så skal der fra mig komme ødelæggere til hende{H: 1 Mos 11,1-8.}
+
+//13 – det er HERRENS udsagn.<< 
+
+
+==Babylons fuldstændige ødelæggelse==
+
+
+//8 v54 Der høres skrig om hjælp fra Babylon,
+
+//13 et stort sammenbrud fra kaldæernes land.
+
+//12 v55 For HERREN er i færd med at ødelægge Babylon
+
+//13 og gør ende på et højt skrig fra hende.
+
+//11 Og deres bølger{H: Jer 6,23; 51,42.} bruser som mange vande,
+
+//10 og deres buldrende røst lyder.
+
+//9 v56 For over hende, over Babylon, er en ødelægger{T: Singularis, kan opfattes kollektivt og oversættes >>ødelæggere<< som i Jer 51,53.} kommet,
+
+//11 og hendes krigere er blevet fanget{H: Jer 46,5-6.12; 51,30.}
+
+//12 og deres buer smadret.
+
+//10 For HERREN er en Gud der gengælder,{E: *gᵊmulôt* har både en positiv >>velgerninger<< og en negativ betydning >>gengældelse<<.}{H: Jer 51,6.}
+
+han vil sandelig gengælde.
+
+//7 v57 >>Jeg vil gøre hendes ledere og hendes vise berusede,
+
+både hendes statholdere, hendes fyrster{T: Eller >>embedsmænd<<.} og hendes krigere,
+
+//8 og de skal falde i en evig søvn,
+
+//9 og ikke vågne igen
+
+//10 – det er kongens{H: Jer 46,18; 48,15.} udsagn,
+
+//11 Hærskarers HERRE er hans navn.<<
+
+***
+
+//0 v58 Sådan siger Hærskarers HERRE:
+
+//1 >>Det vidtstrakte{E: *rᵊḥāvāh* >>brede<< kan grammatisk set gå enten på >>Babylon<< eller på >>mure<<. Oversættelserne vælger frit. Nogle oversætter >>mure<< til singularis og opfatter pluralis af ordet som en intensiv pluralis som i Jer 1,18 og oversætter >>en tyk mur<<.} Babylons mure 
+
+skal fuldstændigt tilintetgøres,
+
+//3 og hendes høje porte skal sættes i brand.{T: Eller >>gå op i flammer<<. Ordret: >>antændes med ild<<. LXX udelader >>med ild<<.}
+
+//2 Sådan slider{T: Eller >>anstrenger sig<<.} folkene for tomheden,{T: Eller >>forgæves<<.} 
+
+//4 og folkeslagene for ilden,{H: Hab 2,13; Jer 51,64.}
+//3 så de udmattes.<<
+
+
+==Jeremias’ befaling til Seraja==
+
+
+//0 v59 Det ord 
+//1 som profeten Jeremias befalede Seraja,{T: Bror til Baruk.}{H: Jer 32,12; 36,1-8.26.32; 45,1.} Nerijas søn, søn af Makseja,
+//4 da han drog af sted til Babylon med{E: *ʔet* er oversat her >>med<< som  er almindeligt. LXX og Targum oversætter *ʔet* med >>fra<< Sidkija, idet *ʔet* kan betyde >>fra<< i arkaisk og ugaritic.} Sidkija, Judas konge, i det fjerde år af hans regering;{T: 594/593 f.Kr.}
+//5 
+//3 Seraja var kvartermester.{T: Dvs. den der havde ansvar for forplejning, regnskab m.m. Ordret: >>leder for hvilested<<.}
+//2 v60 Jeremias skrev al den ulykke{T: Ordret: >>al det onde<<.} 
+//4 som skulle komme over Babylon,
+//3 på én skriftrulle; alle disse ord
+//4 som er skrevet angående Babylon.
+//2 v61 Og Jeremias sagde til Seraja:
+//3 >>Når du kommer til Babylon,
+//5 da se til
+//5 og læs alle disse ord,
+//5 v62 og du skal sige:
+//6 >HERRE,
+//7 du har selv talt mod dette sted
+//8 at du vil ødelægge{T: Ordret: >>skære af det af<<.} det,
+//9 at der ikke skal være nogen beboer der, hverken mennesker eller dyr.
+//10 Sandelig, evige ødemarker{T: Eller >>evig ørken<<.} skal hun blive til.<{H: Jer 25,12; 51,26.}
+//4 v63 Og 
+//6 så snart du er færdig med at
+//7 læse denne skriftrulle højt,
+//5 skal du binde en sten til den
+//6 og kaste den ud midt i Eufrat.
+//7 v64 Og du skal sige:
+//8 >Sådan skal Babylon synke 
+//10 og ikke rejse sig på grund af den ulykke{H: Jer 6,19.}
+//11 som jeg bringer over hende,
+//9 så de bliver trætte.<<<{E: Eller >>udmattes<<. LXX og en del oversættelser udelader sætningen. Den kan opfattes retorisk forstærkende, idet den er en gentagelse af sidste linje i vers 58.}
+//0 Hertil går Jeremias ord.{T: Også denne linje er udeladt i LXX.}

@@ -1,0 +1,391 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 31===
+
+
+==Israel bringes tilbage til HERREN==
+
+
+//0 v1 >>Til den tid
+//4 – det er HERRENS udsagn -
+//3 vil jeg være alle Israels slægters Gud,
+//2 og de skal være mit folk.
+
+//1 v2 Sådan siger HERREN:
+
+//3 Et folk, der har overlevet sværdet, fandt nåde i ørkenen.
+
+//6 Jeg vil gå
+//8 og skaffe Israel hvile.<<{T: Nogle opfatter Israel i stedet for Gud som subjekt og oversætter >>det går for at finde sin hvile, Israel<<.}
+//7 
+
+//5 v3 Fra det fjerne viste HERREN sig for mig.{E: Jeremias. LXX m.fl. har >>for ham<< (de som er i eksil), men Israel kaldes >>jomfru<<. Andre oversætter >>for dem<< og oversætter >>fra det fjerne<< med >>for længe siden<<. Sprogligt set er det muligt, men det stemmer ikke overens med at HERREN i samme tale siger om Israel >>igen vil jeg bygge dig op<<.}
+
+//4 >>Med en evig kærlighed har jeg elsket dig,
+
+//5 derfor har jeg bevaret{T: Verbet betyder også >>drog<<, så der oversættes >>drager/drog jeg dig i nåde<<. Måske skal begge betydninger tænkes med i oversættelsen. Sl 36,11 ligger til grund for valget af oversættelse her.} min nåde{N: Nåde.} mod dig.{H: 2 Mos 34,6-7; Es 43,4, Sl 36,11; 109,12; Es 54,8; Jer 2,2.}
+
+//6 v4 Igen vil jeg bygge dig op,
+//8 og du skal blive bygget op,
+
+//9 jomfru Israel!
+
+//7 Igen kan du pynte dig med din tamburin,{T: Oversættes også med >>pauke<<.} 
+
+//8 og du kan gå ud i de legendes ringdans.
+
+//7 v5 Igen kan du plante vingårde
+
+på Samarias bjerge.
+
+//9 De som planter, skal plante
+//10 og spise frugten.
+
+//8 v6 For der kommer en dag, 
+//9 da vægtere skal råbe
+
+på Efraims bjerg:
+
+//10 >Rejs jer,
+//11 og lad os gå op til Zion,
+
+til HERREN, vores Gud!<
+
+
+==HERREN bringer sit folk hjem==
+
+
+//2 v7 For sådan siger HERREN:
+
+//3 Råb af glæde over Jakob, 
+
+//4 og jubl over folkeslagenes hoved,
+
+//3 forkynd,
+//3 lovpris,
+//6 og sig:
+
+//7 >HERREN har frelst dit folk,{E: Ordret: >>Frels, HERRE, dit folk<<. LXX og Targum og flere andre oversætter imperativen med perfektum og oversætter >>HERREN har frelst sit folk<<. Studier af dødehavsrullerne understøtter læsningen af *hôšaʕ* som defective af *hôšiaʕ* (perfektum), men fastholder >>dit folk<<.} 
+//9 
+
+//8 Israels rest!<
+
+//5 v8 Se, jeg bringer dem fra nordens land
+
+//8 og samler dem fra jordens fjerneste egne,{H: Jer 6,22; 25,32; 50,41.}
+
+//7 blandt dem er blinde og lamme, 
+
+gravide sammen med fødende,
+
+//8 som en stor forsamling vender de her tilbage.
+
+//9 v9 Med gråd kommer de,
+
+//11 under tryglende bøn fører{T: Ordret: >>bringe<<.} jeg dem.
+
+//10 Jeg bringer dem til strømme af vand 
+
+ad en jævn vej 
+
+//11 som de ikke snubler på.
+
+//6 For jeg er en far{H: Jer 10,16; 3,4.19; 31,20.} for Israel,
+
+//7 og Efraim,
+//8 han er min førstefødte.
+
+***
+
+//4 v10 Hør HERRENS ord,
+//6 I folkeslag,
+
+//5 og forkynd på de fjerne øer,
+
+//5 og sig:
+//6 >Han der spredte Israel, vil samle det, 
+
+//9 og han vil vogte det som en hyrde sin fåreflok.
+
+//8 v11 For HERREN har løskøbt Jakob,
+
+//10 og han har frelst{T: Ordret: >>forløst<<.} ham fra den hvis hånd var stærkere end ham selv.<
+
+//9 v12 Og de skal komme 
+//9 og juble højt på Zions høj,
+
+//9 de vil stråle af glæde{H: Sl 34,6; Es 60,5.}{T: Eller >>de vil strømme til HERRENS gode gaver<<.}{E: *nāhᵃrû* betyder både >>stråle<< og >>strømme<<. De fleste oversættelser vælger >>stråle<<, men det kan også oversættes >>de vil strømme til HERRENS godhed<<. Præpositionen *ʔel* >>til/hen til<< passer bedst til oversættelsen >>strømme<<. I Jeremias' bog anvendes imidlertid *ʔel* og *ʕal* ofte med samme betydning. At verbet har to betydninger af samme rod kan også opfattes som et ordspil, så begge betydninger er indeholdt i det hebraiske verbum og kan derfor oversættes >>strålende af glæde strømmer de til HERRENS godhed<<.}{H: Mika 4,1; Es 2,2, Jer 51,44.} over HERRENS godhed,
+
+over korn, over vin og olie, 
+
+og over lam, kid og kvæg.
+
+//10 Deres sjæl vil være som en vandrig have,{H: ES 58,11.}
+
+//11 de vil ikke blive ved med
+//12 at vansmægte længere.
+
+//7 v13 Da skal jomfruen glæde sig i runddans
+
+//9 og unge mænd og gamle glæde sig{T: >>glæde sig<< er tilføjet, er underforstået fra foregående verslinje.} sammen,
+
+//8 og jeg vil vende deres sorg til jubel,
+
+//9 og jeg vil trøste dem
+//9 og gøre dem glade efter deres sorg.{H: Es 35,10; Åb 21,4.}
+
+//8 v14 Jeg vil mætte præsternes sjæl med fedt,{T: Det betyder mad i overflod og ikke >>fedt<<, som alene skulle brændes på altret til HERREN.}{H: 3 Mos 7,31.}
+
+//9 og mit folk, de skal mættes ved min godhed.
+
+//10 – Det er HERRENS udsagn.
+
+
+==Sorg skal vendes til glæde==
+
+
+//1 v15 Sådan siger HERREN:
+
+//2 En røst høres i Rama,
+
+//4 en klage, en bitter gråd,
+
+//3 Rakel
+//7 græder over sine børn,
+
+//6 hun vil ikke
+//5 lade sig trøste
+
+over sine børn, 
+
+//4 for de er ikke mere.
+
+***
+
+//1 v16 Sådan siger HERREN:
+
+//2 Hold din stemme tilbage fra gråd
+
+//5 og dine øjne fra tårer,{T: Singularis.}
+
+//4 for der er løn for dit slid{T: Eller >>din møje<<.} 
+
+//7 – det er HERRENS udsagn -
+
+//6 og de skal vende tilbage fra fjendens land.
+
+//5 v17 Der er håb for din fremtid{H: Jer 29,11.}
+
+//7 – det er HERRENS udsagn -
+
+//6 og dine børn skal vende tilbage til deres område.
+
+
+==Efraims bøn og bekendelse==
+
+
+//3 v18 Jeg har tydelig hørt 
+
+Efraim 
+//6 hvileløst klage:
+
+//5 >Du tugtede mig,
+//7 og jeg blev tugtet
+
+som en utæmmet kalv.
+//8 
+
+//6 Omvend mig,{T: Ordret: >>bring mig tilbage<<.}
+//9 så vil jeg omvende mig,{E: Verbet er en indirekte kohorativ og udtrykker her vilje og ønske.}
+
+//8 for du er HERREN min Gud! 
+
+//7 v19 For 
+//10 efter at være vendt om{E: Ordret: >>Efter min venden tilbage (til Gud)<<. Nogle tolker og oversætter >>efter min venden bort (fra Gud)<<. Det skyldes at der er et ordspil med adskillige nuancer for det samme hebraiske ord i vers 16-19: *shuv* i vers 19 kan betyde både >>vende sig bort << (fra Gud) og >>vende tilbage<< (til Gud) som i vers 18. Det er også det samme hebraiske ord der anvendes for deres tilbagekomst til deres hjemland (vers 16-17). I vers 18-19 dækker udtrykkene deres anger og genoprettet forhold til HERREN.}{H: Jer 26,3; 36,3; 24,7; 32,40; Klag 5,21; 5 Mos 301,-10.}
+//9 angrede jeg,
+
+//8 og 
+//11 efter at være kommet til erkendelse{T: Ordret: >>Efter min kommen til erkendelse<<.}
+//10 slog jeg mig på hoften,
+
+//9 jeg skammede mig
+//11 og blev også til skamme,
+
+//10 for jeg måtte bære min ungdoms skændsel.<{T: Eller >>vanære<<.}
+
+//4 v20 Er Efraim mig en dyrebar søn
+
+//7 eller et yndlingsbarn?
+
+//6 For
+//8 så ofte som jeg har talt imod ham,
+
+//7 vil jeg bestemt stadig huske ham;
+
+//5 derfor er mit indre i oprør for ham.
+
+//6 Jeg må bestemt forbarme mig over ham,{H: Jer 12,15; 30,18; 33,26.}
+
+//7 – det er HERRENS udsagn.
+
+
+==Bekendelse og genrejsning==
+
+
+//2 v21 Rejs dig varder, 
+
+//2 sæt dig vejsten,
+
+//2 ret dit hjerte mod hovedvejen,{H: Jer 18,15; Es 35,8; 40,3; 49,11; 62,10.}
+
+//3 vejen
+//5 du er gået ad!
+
+//4 Vend om,
+//5 jomfru Israel!
+
+//2 Vend tilbage til disse dine byer!
+
+//3 v22 Hvor længe{T: Ordret: >>indtil hvornår<<.} vil du vende dig her og der,
+
+//5 du frafaldne datter?
+
+//4 For HERREN har skabt{E: *vārāˀ* >>skabte<< ligesom i 1 Mosebog.}nyt på jorden:{H: Es 43,19; 2 Kor 5,17; Åb 21,5.}
+
+// - Kvinden{T: Ordret: >>hunkøn<<, som ved skabelsen af mennesket.} omslutter{T: Eller: >>kredser om<<, >>omringer<<.}{E: *tᵊsôvēv* er det samme verbum som anvendes om HERREN, der kredser omkring Israel i ørkenen i 5 Mos 32,10.} manden.{T: Eller >>den unge, stærke mand<<.}{H: Jer 4,23-26; 5 Mos 32,10; 1 Mos 1,27; Hos 3,5.}
+
+
+==Judas ejendom genrejses==
+
+
+//1 v23 Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//2 Igen skal de sige dette ord i Judas land og i dets byer
+//6 når jeg vender deres livssituation:{T: Eller >>fangenskab<<.} 
+//5 >HERREN velsigne dig,
+//6 retfærdige græsgang, hellige bjerg!<
+//4 v24 Juda og alle dets byer skal sammen bo deri,
+//5 bønderne 
+//6 og de der drager afsted med fårene og gederne.{T: Ordret: >>flokken<<.}
+//3 v25 For jeg giver{E: Eller >>jeg vil give<<. Perfektum opfattes her som profetisk perfektum og gælder resten af verset og udtrykker at det er helt sikkert.} den udmattede sjæl rigeligt at drikke,
+//4 og hver vansmægtende{E: *dāˀᵃvāʰ* I stedet for en perfektum kan ordet opfattes som en aramæisk participle med adjektiv funktion.} sjæl
+//6 
+//5 fylder jeg.<<{T: Eller >>vil jeg fylde<<.}
+//0 v26 Ved dette vågnede jeg
+//2 og så -
+//3 min søvn havde været mig behagelig.
+
+
+==HERREN besøger nu sit folk for at genrejse det==
+
+
+//1 v27 >>Se, dage kommer
+//4 – det er HERRENS udsagn -
+//3 da jeg vil så Israels hus og Judas hus: frø af mennesker og frø af dyr,
+//4 v28 og det vil ske,
+//5 ligesom jeg har våget over dem{H: Jer 18,7-10; 44,27.}
+//7 for at rykke op med rod
+//8 og for at bryde ned
+//8 og for at rive ned
+//8 og for at ødelægge 
+//8 og for at bringe ulykke,
+//6 sådan vil jeg våge over dem
+//7 for at bygge op
+//8 og for at plante 
+//9 – det er HERRENS udsagn.
+//2 v29 I de dage skal man ikke mere sige:
+
+//4 >Fædre spiste sure druer,
+
+//5 og sønnernes tænder blev stumpe!<{T: Dvs. sløve, uskarpe.}
+
+//3 v30 Men enhver skal dø i{T: Eller >>for<<.} sin egen overtrædelse, 
+//4 ethvert menneske
+//6 som spiser sure druer,
+//5 hans tænder bliver stumpe!
+
+
+==HERREN slutter en ny pagt med Israel og Juda==
+
+
+//1 v31 Se dage kommer
+//4 – det er HERRENS udsagn -
+//3 da jeg vil slutte en ny pagt med Israels hus og Judas hus.
+//5 v32 Ikke ligesom den pagt
+//8 som jeg sluttede med deres fædre den dag
+//9 da jeg tog dem ved hånden 
+//10 for at føre dem ud af Egyptens land, 
+//7 disse som brød min pagt 
+//8 selvom jeg var deres herre{T: Eller >>ægtemand<<.}{H: Jer 3,12.}
+//9 – det er HERRENS udsagn.
+//6 v33 For dette er den pagt
+//8 som jeg vil slutte med Israels hus efter disse dage:
+//9 – det er HERRENS udsagn -
+//7 jeg vil give dem min lov i deres indre,
+//9 og på deres hjerte vil jeg skrive den,
+//8 og jeg vil være deres Gud,
+//10 og de skal være mit folk.
+//9 v34 De skal ikke længere lære
+//12 enhver sin næste
+//13 eller enhver sin bror
+//11 og sige:
+//12 >Kend HERREN!<
+//10 for alle kender mig fra deres mindste til deres største
+//11 – det er HERRENS udsagn - 
+//4 for jeg tilgiver deres skyld,
+//5 og deres synd vil jeg ikke længere huske på.{H: Es 54,13; Johs 6,45; Hebr 8,11-12; 1 Tess 4,9.}
+
+
+
+==HERRENS pagt og bestemmelser står fast==
+
+
+//2 v35 Sådan siger HERREN:
+
+//4 Han som sætter solen som lys om dagen,
+
+//5 en bestemmelse for månen og stjernerne som lys om natten, 
+
+//4 han der bringer havet i oprør
+//6 så dets bølger raser,
+
+//5 Hærskarers HERRE er hans navn.
+
+//3 v36 Hvis disse bestemmelser ophører{T: Ordret: >>viger fra mit ansigt<<.}
+
+//5 – det er HERRENS udsagn -
+
+//4 så vil også Israels afkom{H: 1 Mos 15,5; 22,17; 26,4.} ophøre
+
+//5 med at være et folkeslag for mine øjne alle dage.{H: 1 Mos 13,16; Jer 33,20-21.25-26.}
+
+***
+
+//2 v37 Sådan siger HERREN:
+
+//3 Hvis himlene oppefra kan måles,
+
+//5 og jordens grundvolde forneden kan udforskes,
+
+//4 så vil jeg forkaste hele Israels slægt{T: Ordret: >>sæd<<.}
+
+for alt det
+//5 som de har gjort
+
+//6 – det er HERRENS udsagn.
+
+***
+
+//1 v38 Se dage kommer
+
+//3 – det er HERRENS udsagn -
+
+//2 da byen skal bygges for HERREN fra Hanan’els tårn til Hjørneporten.
+//4 v39 Og målesnoren skal gå videre ligeud over Gareb-højen
+//5 og drejes mod Goa. 
+//3 v40 Og hele dalen, ligene og fedtasken, og alle markerne indtil Kedrons bæk, indtil Hesteportens hjørne mod øst, skal være hellig for HERRREN,
+//4 skal ikke rykkes op
+//5 og ikke rives ned igen for evigt.<<

@@ -1,0 +1,89 @@
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 09.09.2024>!!
+
+===Jeremias’ bog, kapitel 19===
+
+==HERREN sender igen Jeremias til pottemageren==
+
+//0 v1 Sådan siger HERREN:
+//2 >>Gå,
+//3 og køb{T: Eller >>du skal købe<<.}{E: Verberne i vers 1-3, der er i weqatal form, er her oversat med imperativ grundet verbet >>gå<< der er en infinitiv absolut, men de kan også oversættes med futurum.} et krus{T: Ordret: >>flaske<<.} af pottemageren, en lerkrukke,
+//4 og tag{T: >>tag med dig<< er tilføjet.} nogle af de ældste af folket og af de ældste af præsterne med dig!
+//3 v2 Og gå ud til Ben-Hinnoms dal,{H: Jer 7,32.}
+//4 som ligger ved indgangen til potteskårporten,
+//3 og råb dér de ord 
+//4 som jeg vil tale til dig.
+//3 v3 Og du skal sige:
+//4 >Hør HERRENS ord,
+//6 Judas konger og Jerusalems indbyggere,
+//5 sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
+//6 Se, jeg bringer en ulykke over dette sted,
+//8 så det - for enhver
+//10 der hører det -
+//9 vil runge i deres ører.<{T: Ordret: >>deres ører vil snurre/dirre<<.} 
+//7 v4 Derfor, fordi de har forladt mig,
+//9 og har fremmedgjort dette sted
+//9 og brændt{T: Eller >>ofret<<.} røgelse{E: *yqaṭṭᵊrû* >>lave offerrøg<<.}{H: Jer 19,13; 1,16; 7,9; 11,13.17; 18,15; 32,29; 44,3.5.8.15.17.19.25.} på det til andre guder,
+//11 som de ikke kendte, de og deres fædre og Judas konger,
+//10 og de har fyldt dette sted med uskyldigt blod
+//10 v5 og bygget Ba’als offerhøje
+//12 til at brænde deres børn fuldstændigt i ilden, brændofre til Ba’al,{H: Jer 32,35.}
+//11 hvad jeg ikke har befalet
+//12 og ikke har talt om,
+//13 og det er heller ikke faldet mig ind.{T: Ordret: >>ikke gået op på mit hjerte<<.}{H: Jer 7,31; 32,34-36.}
+
+==HERREN vil knuse Israel som et lerkar==
+
+//8 v6 Derfor se, der kommer dage
+//10 – det er HERRENS udsagn –{T: Det er HERRENS tale til folket, men det kan også opfattes som HERRENS tale med Jeremias fordi de tiltalte er >>de<< og >>dem<<.}
+//9 da dette sted ikke mere skal kaldes Tofet eller Ben-Hinnoms dal,
+//11 men drabets dal.{H: Jer 7,31.}
+
+//10 v7 Og jeg vil kuldkaste Juda og Jerusalems råd{T: Eller >>plan<<.} på dette sted,
+//11 og jeg vil få dem til at falde for sværdet foran deres fjender og for hånden af dem der tragter dem efter livet.{T: Ordret: >>hjemsøger deres sjæl<<.}
+//12 Jeg vil give deres døde kroppe til føde for himlens fugle og landets vilde dyr,
+//12 v8 og jeg vil gøre denne by til ødemark{T: >>til skræk<< ligger også i udtrykket.} og til spot.{T: Ordret: >>piften<< af foragt.}
+//14 Enhver 
+//16 der går forbi den, 
+//15 vil blive forfærdet
+//16 og vil fløjte hånligt over alle hendes sår.{H: Jer 10,19; 14,17; 30,12; 47,17; 50,13.} 
+//13 v9 Jeg vil få dem til at æde kødet af deres sønner og kødet af deres døtre,
+//14 og 
+//16 enhver vil æde kødet af sin ven 
+//15 - under belejringen og i nøden - 
+//16 som deres fjender og de som stræber dem efter livet, vil tvinge dem til.
+//3 v10 Du skal knuse kruset for øjnene af de mænd
+//4 som er gået med dig,
+//3 v11 og du skal sige til dem:
+//4 >Sådan siger Hærskarers HERRE: 
+//5 Sådan vil jeg knuse dette folk og denne by,
+//8 ligesom man knuser pottemagerens kar,
+//9 så det ikke er muligt
+//10 at gøre det helt igen.<
+//7 I Tofet skal de begrave dem, fordi der ikke er nogen plads 
+//8 til at begrave dem.
+//6 v12 Sådan vil jeg gøre med dette sted
+//10 – det er HERRENS udsagn -
+//9 og med dets indbyggere.
+//8 Jeg vil gøre med denne by som med Tofet.
+//7 v13 Jerusalems huse og Judas kongers huse skal blive som stedet Tofet,
+//8 de er urene – på grund af alle de huse
+//9 hvor de brænder røgelse på deres tage til hele himlens hær
+//10 og udgyder drikofre til andre guder.<<
+
+==Jeremias profeterer ulykke==
+
+//1 v14 Så kom Jeremias fra Tofet,
+//3 som HERREN havde sendt ham til
+//4 for at profetere.
+//2 Han stod i forgården til HERRENS hus
+//2 og sagde til hele folket:
+
+//3 v15 >>Sådan siger Hærskarers HERRE, Israels Gud:
+//4 Se, jeg bringer over denne by og over alle hendes byer al den ulykke
+//6 som jeg har udtalt imod dem,
+//5 for de har gjort deres nakke stiv
+//6 så de ikke hører mine ord.<<
