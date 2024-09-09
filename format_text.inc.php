@@ -233,8 +233,11 @@ class FormatText extends Formatter {
             $to[] = '';              // ... are removed
         }
         else {
-            // Fjern indrykningsmarkør
-            $from[] = '~//\d+~';
+            // Remove indentation marker
+            $from[] = '~//\d+\s*\R~m';  // Marker without text causes subsequent line feed to be removed
+            $to[] = '';
+
+            $from[] = '~//\d+~';  // Other markers are simply removed
             $to[] = '';
 
             $from[] = '/(.)\s+:/';  // Remove space in front of colon
