@@ -1,74 +1,74 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 20.10.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 14.09.2024>!!
 
 ===Jobs bog, kapitel 3===
 
 
-==Job ønsker forbandelse over den dag han blev født==
+==Job forbander den dag han blev født==
 
 
-//0 v1 Herefter åbnede Job munden //2 og ønskede forbandelse over{T: De fleste oversætter >>forbandede<<.} den dag han blev født.{T: Ordret: >>hans dag<<; sml. note til Job 1,4, så derfor er det ikke den dag hans lidelse begyndte(Job 1,13). Sml. Jer 20,14-18.}
+//0 v1 Herefter åbnede Job munden 
+//2 og forbandede  den dag han blev født.{T: Ordret: >>hans dag<<.}{H: Job 3,3; 1,4. Jer 20,14.}
  
-//1 v2 Job tog til orde
-//2 og sagde:{E: *wayyaʕan wayyōˀmar* betyder ordret: >>han svarede og sagde<<. Denne formulering bruges gennemgående i hele Jobs bog når vennerne og Job indleder deres monologer, og også da HERREN til sidst svarer Job. De to hebraiske verber oversættes efterfølgende som ét verbum >>han svarede<<. Dette er specielt for Jobs bog. Men når HERREN taler til Satan i Job 1,8 og 12; 2,2-3 og 2,6 er det kun den helt korte formulering >>HERREN sagde<<.}
+//1 v2 Job reagerede{T: Ordret >>svarede<<.} 
+//2 og sagde:
 
 //3 v3 >>Gid den blev slettet, den dag
 //7 jeg blev født,
 
 //6 den nat
 //7 man sagde:
-//8 >En dreng{T: Ordret: >>en ung, stærk mand<<} er undfanget!<
+//8 >En mand er undfanget!<
 
-//5 v4 På den dag - lad der blive mørke!{T: Jf. skabelsesberetningens >>Lad der blive lys<<.}
+//5 v4 Denne dag, lad den blive til mørke!{H: 1 Mos 1,3.}
 
-//8 Måtte Gud fra det høje ikke søge efter den,
+//8 Gid Gud fra det høje ikke søger efter den,
 
-//9 og intet lys{E: *nᵊhārāʰ* er en hapax, findes kun her og er afledt af verbet *nahar* >>at stråle<<.} skinne over den!
+//9 og intet lys skinner over den!
 
-//7 v5 Måtte mulm og dybt mørke{T: Kan oversættes >>det dybeste mørke<<.} købe den fri,{E: Verbets rod *gal* finder vi i Job 19,25 >>min løser<<, >>min frelser<<. Mange oversætter >>kræve den tilbage<<.}
+//7 v5 Gid mulm og dybt mørke{H: Sl 23,4.} køber den fri, 
 
-//8 en sky lejre{T: Ordret: >>bo<<.} sig på den,
+//8 en sky ligger hen over den,
 
-//7 måtte formørkelse af dagen{T: >>dagens bitterhed<< er også en mulig oversættelse.} forfærde den!
+//7 gid dagens bitterhed {E:  *kimᵊrîrê* >>som en dags bitterhed<< rettes ofte til *kamrîr* >>mørkning<<, men det forekommer kun her.} forfærder den!
 
-//6 v6 I den nat
-//9 – lad det dybeste mørke indtage den!
+//6 v6 Denne nat,
+//9 lad det dybeste mørke indtage den,
 
-//8 Lad den ikke glæde sig blandt årets dage,
+//8 lad den ikke glæde sig blandt årets dage,
 
-//9 den skal ikke indgå i månedernes tal!
+//9 lad den ikke indgå i månedernes tal!
 
 //7 v7 Se,
-//8 lad den nat blive gold,
+//8 lad denne nat blive gold,
 
-//11 intet frydeskrig skal lyde i den!
+//11 lad intet frydeskrig lyde i den!
 
-//10 v8 Måtte de som fremsiger forbandelser over dage, forbande den;
+//10 v8 Lad dem som fremsiger forbandelser over dage, forbande den;
 
-//12 de som er i stand til det,{T: Oversættelsen er usikker.}
-//13 måtte de opildne Livjatan!
+//12 dem som er parate til det,
+//13 lad dem tirre Livjatan!{H: Job 40,25}
 
-//11 v9 Måtte stjernerne i dens{T: Dvs. dagens.} aftendæmring{T: Ordret: >>dæmring<<, >>tusmørke<<. Nogle oversætter >>morgendæmring<<. Der ligger forskellige tolkninger til grund.} formørkes,
+//11 v9 Lad  stjernerne i morgendæmringen{E: *nešef* bruges både om morgendæmring og aftenskumring.} formørkes,
 
 //13 lad den vente på lys,
 //14 men det findes ikke,
 
-//12 og må den heller ikke se morgenrødens frembrud!{T: Ordret: >>øjenlåg<<. Nogle oversætter >>øjenvipper<<.}
+//12 og lad den heller ikke se morgenrødens frembrud!{E:  *ʕafʕappîm* har grundbetydningen >>øjenlåg<<, >>øjenvipper<< eller blink med øjnene, men er her brugt som metafor.}
 
-//9 v10 For den lukkede ikke åbningen{T: Ordret: >>dobbeltdørene<<.} ind til min mors liv for mig{T: Dvs. livmoderen.}
+//9 v10 For den lukkede ikke åbningen{T: Ordret: >>dobbeltdørene<<.} ind til min mors liv for mig. 
 
-//10 og skjulte ikke møje for mine øjne.
+//10 så den skjulte sliddet for mine øjne.
 
 
 ==Job ønsker at han var død under fødslen==
 
 
-//4 v11 Hvorfor kom jeg ikke ud af livmoderen og døde,{T: >>Hvorfor ikke<< er underforstået i næste verslinje og derfor tilføjet.}
+//4 v11 Hvorfor kom jeg ikke ud af livmoderen og døde,
 
-//9 hvorfor kom jeg ikke ud af mors liv
+//9 kom ud af mors liv
 //10 og udåndede?
 
 //8 v12 Hvorfor tog knæ imod mig?
@@ -76,22 +76,22 @@
 //9 Og hvad med de bryster
 //10 jeg skulle die?
 
-//7 v13 - For så havde jeg nu ligget
-//9 og haft fred.
+//7 v13 For så havde jeg nu ligget
+//9 og kunnet tie stille.
 
 //8 Jeg havde sovet,
-//9 jeg ville da hvile ud
+//9 jeg ville finde hvile
 
-//10 v14 sammen med konger og rådgiverne på jorden,
+//10 v14 sammen med konger og landets rådgivere,
 
 //12 der genopbyggede ruiner til sig selv,
 
-//11 v15 eller med stormænd,
-//13 som havde guld,
+//11 v15 eller med ledere
+//13 der har guld,
 
-//12 som fyldte deres hjem med sølv. -
+//12 og som fyldte deres hjem med sølv. 
 
-//6 v16 Eller hvorfor{T: >>Hvorfor<< er underforstået og derfor tilføjet da verset her er en fortsættelse af vers 12.} blev jeg ikke holdt skjult som et dødfødt foster,
+//6 v16 Eller hvorfor{T: >>Hvorfor<< er tilføjet da verset her er en fortsættelse af vers 12.} blev jeg ikke holdt skjult som et dødfødt foster,
 
 //8 som de børn
 //9 der ikke ser lyset?
@@ -102,9 +102,9 @@
 
 //9 v18 Der slapper fangerne af med hinanden.
 
-//10 De hører ikke slavefogedens stemme.
+//10 De hører ikke slavepiskerens stemme.
 
-//8 v19 Der er små og store der,{T: Kan oversættes >>Små og store er lige der<<.}
+//8 v19 Der er små og store dér,
 
 //9 og en slave er fri for sin herre.
 
@@ -112,38 +112,38 @@
 ==Job klager over menneskelivets elendighed og sin egen tilstand==
 
 
-//5 v20 Hvorfor giver han lys til dem der lider,{T: Singularis. Betydningen er lidelse pga. arbejde og livets hårdhed, men ikke sygdom.}
+//5 v20 Hvorfor giver han lys til den nedslidte{H: Job 3,10.}
 
-//8 og liv til de fortvivlede?{T: Ordret: >>de i sjælen forbitrede<<. Sml. Rut 1,20 og 2 Mos 1,14.}
+//8 og liv til de fortvivlede?{T: Ordret: >>de i sjælen forbitrede<<.}{H: Ruth 1,20.}
 
-//9 v21 – Til dem der venter på døden,
-//12 men den findes ikke,{T: Sml. vers 9 hvor samme udtryk forekommer.}
+//9 v21 Til dem der venter på døden,
+//12 men den er der ikke,{H: Job 3,9.}
 
-//11 og dem som graver efter den{T: døden.} mere end efter skjulte skatte.
+//11 og dem som graver efter den mere end efter skjulte skatte?
 
 //10 v22 Til dem som glæder sig med fryd,
 //11 og som jubler
 
-//12 når de finder graven. -
+//12 når de finder graven?
 
-//7 v23 Til{T: Vers 20 >>Hvorfor giver han etc.<< er underforstået her.} den mand{E:*gever* er en >>stærk ung mand<<. Det samme hebraiske ord er brugt her som i vers 3 om Job selv, >>dreng<<. Dette peger i retning af at Job taler om sig selv.}
+//7 v23 Til den mand{H: Job 3,3.}
 //8 hvis vej er skjult,
 
-//9 og som Gud har spærret inde?{T: Der er en dobbelthed i udtrykket: >>spærret ind<<(negativt) = >>sat hegn omkring<<, >>skærmet<<(positivt). Sml. Satans udsagn om Job i Job 1,10. De anvendte hebraiske verber er tæt beslægtet.}
+//9 og som Gud har spærret inde?{T: Der er ordspil mellem udtrykket >>spærret inde<< og >>skærmet<< (Job 1,10); de anvendte hebraiske verber er tæt beslægtet.}
 
-//6 v24 For mit skrig om hjælp{T: Ordret: >>brølen<< som en løve.} fylder mere end mit daglige brød,{T: Ordret: >>foran mit brød min skrigen/jamren kommer<<; det kan også oversættes >>er ligesom mit daglige brød<<, se note til Job 4,19. Det er uklart hvad vendingen helt præcist betyder.}
+//6 v24 For mine suk fylder mere end mit daglige brød,
 
 //9 og min jamren vælder frem som vand.
 
-//8 v25 For det jeg allermest frygtede,{T: Ordret: >>Frygt jeg frygtede<<.}
+//8 v25 For det jeg allermest frygtede,
 //10 er hændt mig,
 
 //9 og
 //11 det jeg gruede for,
 //10 kommer over mig.
 
-//7 v26 Jeg er ikke faldet til ro
-//8 og ikke blevet stille;
+//7 v26 Jeg kan ikke falde til ro
+//8 og kan ikke tie stille;{H: Job 3,13.}
 
-//8 jeg har ikke fundet hvile,
-//9 men nu føler jeg oprør i mit indre.<<{E: Ordret: *rōgez* >>oprør/ophidselse kommer<<. *rōgez* anvendes med negativ fortegn i vers 17 om de ugudelige i døden.}
+//8 jeg kan ikke finde hvile,
+//9 og nu føler jeg oprør i mit indre.<<{H: Job 3,17.}
