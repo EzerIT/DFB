@@ -24,9 +24,10 @@ mb_internal_encoding('UTF-8');
                   <p class="card-text bg-warning">Ulovlig parameter.</p>
               <?php else: ?>
                   <?php
-                      $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.txt';
+                      $ord = $_GET['ord'][-1]=='.' ? mb_substr($_GET['ord'],0,-1) : $_GET['ord'];
+                      $file = 'ordforkl/' . mb_strtolower($ord) . '.txt';
                       if (!file_exists($file))
-                          $file = 'ordforkl/' . mb_strtolower($_GET['ord']) . '.html';
+                          $file = 'ordforkl/' . mb_strtolower($ord) . '.html';
                   ?>
                   <div style="font-size: <?= $_SESSION['fontsize'] ?>%">
                   <?php if (!file_exists($file)): ?>
