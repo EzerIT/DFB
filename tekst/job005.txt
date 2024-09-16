@@ -23,7 +23,7 @@
 
 //3 og jeg ønskede at hans ejendom{T: Ordret >>græsgang<<.} blev ramt af en pludselig forbandelse.
 
-//5 v4 Hans børn er helt uden sikkerhed;{T: Ordret: >> fra frelse<<.}
+//5 v4 Hans børn er helt uden sikkerhed;{T: Ordret: >>fra frelse<<.}
 
 //7 de bliver trådt ned i porten,
 //8 og der er ingen som redder dem,

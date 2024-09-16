@@ -97,7 +97,7 @@ Den stærke løve vil omkomme af mangel på bytte,
 //13 v18 Når
 //14 han nu ikke stoler på sine tjenere
 
-//16 og tillægger sine sendebud{N: Engle} fejl,
+//16 og tillægger sine sendebud{N: budbringer} fejl,
 
 //15 v19 hvor meget mere da de som bor i huse af ler
 

@@ -100,7 +100,7 @@ makemenus(2);
                 sort($files);
 
                 foreach ($files as $f) {
-                    $link = strtoupper($f[0]) . substr($f,1);
+                    $link = mb_strtoupper(mb_substr($f,0,1)) . mb_substr($f,1);
                     echo "<li><a href=\"ordforklaring.php?ord=$link\">$link</a></li>";
                 }
                 ?>
