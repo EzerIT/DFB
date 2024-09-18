@@ -25,7 +25,7 @@ function formatref($ref) {
                     . '(,([0-9]+)(-([0-9]+))?)?)'                     // 'From' and 'to' verse (optional)
                     . '(\.([0-9]+)(-([0-9]+))?)?'                     // Additional 'from' and 'to' verse (optional)
                     . '(\.([0-9]+)(-([0-9]+))?)?'                     // Additional 'from' and 'to' verse (optional)
-                    . '([;\.]\s*)/',                                  // Terminator (mandatory)
+                    . '([;\.]\s*)/u',                                  // Terminator (mandatory)
                       // Matches:
                       //  0: Everything
                       //  1: Book and chapter and first set of verses
