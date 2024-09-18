@@ -279,23 +279,13 @@ class FormatText extends Formatter {
 
         // Generate references
 
-        global $current_verse;
-        $current_verse = 0;
-
-        $txt = preg_replace_callback('/(<span class="verseno" data-verse="([^"]+)">)|(\s*{H: *([^}]+)})/',
+        $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',
                                      function ($matches) {
-                                         global $current_verse;
-                                         if (!empty($matches[2])) {
-                                             $current_verse = $matches[2];
-                                             return $matches[0];
-                                         }
-                                         else {
-                                             if (isset($this->references[$current_verse]))
-                                                 $this->references[$current_verse] .= ' ' . $matches[4];
-                                             else
-                                                 $this->references[$current_verse] = $matches[4];
-                                             return '';
-                                         }
+                                         $target = $matches[1];
+                                         $dest = htmlspecialchars('<span class="reflinks">'
+                                                                . formatref($matches[1])
+                                                                . '</span>');
+                                         return '<span class="refh" data-refs="' . $dest . '">*</span>';
                                      }, $txt);
 
         // Generate footnote marks
@@ -434,7 +424,7 @@ class FormatText extends Formatter {
      
         $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',
                                      function ($matches) {
-                                         return formatref($matches[1],'',true);
+                                         return formatref($matches[1]);
                                      }, $txt);
      
         return '<div class="explain">' . $txt . '</div>';

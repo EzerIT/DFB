@@ -426,9 +426,9 @@ class FormatSfm extends Formatter {
                     break;
 
                 case '\xt':
-                    $this->references[$source_verse] = '';
-                    while (($tok = $tokenizer->get_token())!='\x*')
-                        $this->references[$source_verse] .= $tok . ' ';
+//                    $this->references[$source_verse] = '';
+//                    while (($tok = $tokenizer->get_token())!='\x*')
+//                        $this->references[$source_verse] .= $tok . ' ';
                     break;
 
                 default:

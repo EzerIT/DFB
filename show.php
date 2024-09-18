@@ -68,12 +68,7 @@ $til = isset($_GET['til']) && is_numeric($_GET['til']) ?  intval($_GET['til']) :
 makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 ?>
     <style>
-    .bibletext {
-        font-family: <?= $allfonts[$_SESSION['font']] ?>;
-        font-size: <?= $_SESSION['fontsize'] ?>%;
-    }
-
-    .biblenotes {
+    .bibletext, .biblenotes, .reflinks {
         font-family: <?= $allfonts[$_SESSION['font']] ?>;
         font-size: <?= $_SESSION['fontsize'] ?>%;
     }
@@ -201,9 +196,9 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
             <?php endif; ?>
 
             <?php if ($_SESSION['showfn1']=='on'): ?>
-                $('.ref1, .explain').show();
+                $('.ref1, .explain, .refh').show();
             <?php else: ?>
-                $('.ref1, .explain').hide();
+                $('.ref1, .explain, .refh').hide();
             <?php endif; ?>
 
             <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
@@ -246,7 +241,16 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
          });
          do_indent();
          $(window).resize(do_indent);
-    });
+
+         // Handler for Bible references
+         $('.refh').on('click', function() {
+             $('#ref-body').html($(this).data('refs'));
+             $('#ref-dialog').modal('show');
+         });
+
+     });
+
+
     </script>
 
 <?php
@@ -284,36 +288,16 @@ makemenus(null);
       </div>
 
       <?php
-      $show_ref = !empty($formatter->references);
       $show_note = $_SESSION['showfnblock']=='on'
                 && ($_SESSION['showfna']=='on' || $_SESSION['showfn1']=='on')
                 && ($formatter->nextnumber>1 || $formatter->nextletter>'a');
       ?>
       
       <div class="row">
-          <?php if ($show_ref): ?>
-              <div class="offset-xl-<?= $show_note ? 0 : 2 ?> col-xl-4
-                          offset-lg-<?= $show_note ? 0 : 2 ?> col-lg-<?= $show_note ? 4 : 5 ?>
-                          offset-md-<?= $show_note ? 0 : 3 ?> col-md-6
-                          offset-sm-<?= $show_note ? 1 : 2 ?> col-sm-<?= $show_note ? 10 : 8 ?>">
-                  <div class="card mt-3">
-                      <h1 class="card-header bg-info text-light">Henvisninger</h1>
-                      <div class="card-body biblenotes">
-                          <small>
-                          <?php foreach ($formatter->references as $v => $ref): ?>
-                              <?php $format_ref = formatref($ref,'.',false); ?>
-                              v<?= $v?>: <?= $format_ref ?><br>
-                          <?php endforeach; ?>
-                          </small>
-                      </div>
-                    </div>
-                  </div>
-          <?php endif; ?>
-
           <?php if ($show_note): ?>
-              <div class="offset-xl-<?= $show_ref ? 0 : 1 ?> col-xl-<?= $show_ref ? 4 : 6 ?>
-                          offset-lg-<?= $show_ref ? 0 : 1 ?> col-lg-<?= $show_ref ? 5 : 7 ?>
-                          offset-md-<?= $show_ref ? 0 : 2 ?> col-md-<?= $show_ref ? 6 : 8 ?>
+              <div class="offset-xl-1 col-xl-6
+                          offset-lg-1 col-lg-7
+                          offset-md-2 col-md-8
                           offset-sm-1 col-sm-10">
                   <div class="card mt-3">
                       <h1 class="card-header bg-info text-light">Fodnoter</h1>
@@ -369,6 +353,22 @@ makemenus(null);
         <p class="d-none d-xxl-block           ">Window size: XXL</p>
     </div>
     -->
+
+    <!-- Dialog for displaying Bible reference information -->
+    <div class="modal fade" id="ref-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header justify-content-between">
+                    <div><h4 class="modal-title" id="ref-label">Henvisning</h4></div>
+                    <div><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
+                </div>
+                <div class="modal-body" id="ref-body">
+          
+                </div>
+            </div>
+        </div>
+    </div>
+
     
 <?php
 endbody();

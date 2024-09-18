@@ -11,39 +11,56 @@ class ParserException extends Exception {
     }
 }
 
-function formatref($ref,$endchar,$target_blank) {
+function formatref($ref) {
     global $deabbrev, $chap;
 
     $links = '';
-    
+    $book = '';
+    $chapter = 0;
     $offset = 0;
-    while (preg_match('/((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+)(,([0-9]+)(-([0-9]+))?)?)([;\.]\s*)?/',
+    $ref .= '.'; // Make sure string is properly termiated
+
+    while (preg_match('/((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)?'              // Boook (optional)
+                    . '\s+([0-9]+)'                                   // Chapter (mandatory)
+                    . '(,([0-9]+)(-([0-9]+))?)?)'                     // 'From' and 'to' verse (optional)
+                    . '(\.([0-9]+)(-([0-9]+))?)?'                     // Additional 'from' and 'to' verse (optional)
+                    . '(\.([0-9]+)(-([0-9]+))?)?'                     // Additional 'from' and 'to' verse (optional)
+                    . '([;\.]\s*)/',                                  // Terminator (mandatory)
                       // Matches:
-                      // 0: Everything
-                      // 1: ((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)\s+([0-9]+),([0-9]+)(-([0-9]+))?)
-                      // 2: (([1-5]? )?[A-ZÆØÅ][a-zæøå]+)  - Book
-                      // 3: ([1-5]? )?
-                      // 4: ([0-9]+)  - Chapter
-                      // 5: (,([0-9]+)(-([0-9]+))?)?
-                      // 6: ([0-9]+)  - 'From' verse
-                      // 7: (-([0-9]+))?
-                      // 8: ([0-9]+)  - 'To' verse
-                      // 9: ([;\.]\s*)?
+                      //  0: Everything
+                      //  1: Book and chapter and first set of verses
+                      //  2: Book
+                      //  3: Book number (e.g. "2" in 2 Sam)
+                      //  4: Chapter
+                      //  5: 'From' and 'to' verse
+                      //  6: 'From' verse
+                      //  7: Hyphen and 'to' verse
+                      //  8: 'To' verse
+                      //  9: Period and second 'from' and 'to' verse
+                      // 10: Second 'from' verse
+                      // 11: Hyphen and second 'to' verse
+                      // 12: Second 'to' verse
+                      // 13: Period and third 'from' and 'to' verse
+                      // 14: Third 'from' verse
+                      // 15: Hyphen and third 'to' verse
+                      // 16: Third 'to' verse
+                      // 17: Terminator
                       $ref,
                       $matches,
                       PREG_OFFSET_CAPTURE,
                       $offset)) {
 
-        $book = trim($matches[2][0]);
-        
+        if ($matches[2][1]!=-1)
+            $book = trim($matches[2][0]);
+
         if (!isset($deabbrev[$book]) || !isset($chap[$deabbrev[$book]]) || !in_array($matches[4][0],$chap[$deabbrev[$book]]))
             $links .= $matches[0][0];
         else {
-            $links .= '<a '
-                    . ($target_blank ? 'target="_blank" ' : '')
+            $chapter = $matches[4][0];
+            $links .= '<a target="_blank" '
                     . 'href="show.php?bog='
                     . $deabbrev[$book]
-                    . "&kap=" . $matches[4][0];
+                    . "&kap=" . $chapter;
 
             if (!empty($matches[6][0])) {
                 // 'From' verse is set
@@ -52,11 +69,27 @@ function formatref($ref,$endchar,$target_blank) {
             }
             
             $links .= '">'
-                    . $matches[1][0] . '</a>'
-                    . (isset($matches[9]) && !empty($matches[9][0]) ? $matches[9][0] : $endchar);
+                    . $matches[1][0] . '</a>';
+
+            foreach ([10,14] as $extra) {
+                if (!empty($matches[$extra][0])) {
+                    // Second or third' from' verse is set
+                    $links .= '.<a target="_blank" '
+                            . 'href="show.php?bog='
+                            . $deabbrev[$book]
+                            . "&kap=" . $chapter
+                            . "&fra=" . $matches[$extra][0]
+                            . "&til=" . (!empty($matches[$extra+2][0]) ? $matches[$extra+2][0] : $matches[$extra][0])
+                            . '">'
+                            . $matches[$extra][0]
+                            . $matches[$extra+1][0]
+                            . '</a>';
+                }
+            }
+
+            $links .= $matches[17][0];
         }
-        $offset = $matches[4][1];
-                
+        $offset = $matches[17][1];
     }
     return $links;
 }

@@ -122,3 +122,8 @@ span.added:before {
 span.added:after {
     content: "]";
 }
+
+span.refh {
+    color: blue;
+    cursor: pointer;
+}
