@@ -248,6 +248,15 @@ makeheadstart($abbrev[$bog] . ' ' . $kap, true);
              $('#ref-dialog').modal('show');
          });
 
+         // Decloak email addresses
+         $('.mangemail').each(function() {
+             email = $(this).html()
+                            .replace(/SNABEL/,'@')
+                            .replace(/PRIK/g,'.')
+                            .replace(/NR13RN/g,'r')
+                            .replace(/NR5RN/g,'e');
+             $(this).html('<a href="mailto:' + email + '">' + email + '</a>');
+         });
      });
 
 

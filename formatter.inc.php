@@ -11,6 +11,13 @@ class ParserException extends Exception {
     }
 }
 
+function emailcloak($email) {
+    $em2 = str_replace(['@','.','e','r'],['SNABEL','PRIK','NR5RN','NR13RN'],$email);
+    return "<span class=\"mangemail\">$em2</span>";
+}
+
+
+
 function formatref($ref) {
     global $deabbrev, $chap;
 
