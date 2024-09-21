@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.04.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 21.09.2024>!!
 
 ===Jobs bog, kapitel 10===
 
@@ -10,30 +9,30 @@
 ==Job klager over Guds handlen med ham==
 
 
-//0 v1 Jeg{T: Ordret: >>min sjæl<<.} væmmes ved mit liv,
+//0 v1 Jeg væmmes ved mit liv,
 
-//1 lad min klage få frit løb,
+//1 jeg vil hengive mig til min fortvivlelse,{T: Eller >>klage<<.}{H:  Job 7,13} 
 
-//1 lad mig tale i min sjæls bitre lidelse!{T: Ordret: >>i min sjæls bitterhed<<.}
+//1 lad mig tale i min sjæls bitterhed!
 
 //1 v2 Jeg siger til Gud:
 //2 Du må ikke dømme mig skyldig,
 
-//3 kundgør mig 
+//3 lad mig vide
 //6 hvorfor du fører sag imod mig!
 
 //5 v3 Synes du det er godt
 //7 at du undertrykker,
 
-//7 at du forkaster dine hænders værk
+//7 at du forkaster{H: Job 8,20.} dine hænders værk
 
-//8 og lader dit lys skinne over ugudeliges råd?{T: Sml. Sl 1,1.}
+//8 og lader dit lys skinne over ugudeliges råd?
 
-//6 v4 Har du menneskeøjne,{T: Ordret: >>køds øjne<<, kan også forstås som >>alle levende væseners øjne<<.}
+//6 v4 Har du fysiske øjne,{T: Ordret: >>køds øjne<<.} 
 
 //8 eller 
-//10 ser du som et menneske ser?
-//9
+//10 ser du som et menneske
+//9 ser?
 
 //7 v5 Er dine dage som et menneskes dage
 
@@ -48,16 +47,16 @@
 
 //10 og at ingen kan reddes ud af din hånd.
 
-//9 v8 Dine hænder har dannet mig
-//10 og formet mig
+//9 v8 Dine hænder har dannet mig{H: Job 10,3.}
+//10 og formet mig.
 
-//12 – helt og holdent, 
-//11 og nu ødelægger{T: Der ligger i ordet også et element af >>forvirrer<<.} du mig.
+//12 Det er fuldkomment,{T: Ordret: >>samlet på alle sider<<. Nogle knytter verslinjen til den følgende og oversætter: >>tilintetgør du mig fuldstændig<<. } 
+//11 og nu tilintetgør{H: Job 2,3; 8,18.} du mig.
 
 //4 v9 Husk på
-//6 at du har dannet mig som ler,
+//6 at du har dannet mig som ler,{H: Job 4,19.}
 
-//7 og nu lader du mig vende tilbage til støv!
+//7 og nu lader du mig vende tilbage til støv!{H: Job 7,21.}
 
 //5 v10 Har du ikke hældt mig ud som mælk
 
@@ -67,7 +66,7 @@
 
 //8 og vævet mig sammen med knogler og sener.
 
-//6 v12 Du gav liv og viste mig{T: Ordret: >>imod mig<<.} nåde
+//6 v12 Du gav liv og viste mig nåde{N: Nåde.}
 
 //9 og din omsorg vogtede min ånd.
 
@@ -88,33 +87,33 @@
 //10 v15 Hvis jeg var skyldig,
 //12 da ve mig!
 
-//11 Men er jeg uskyldig,{T: Kan også oversættes: >>har ret<<, >>er retfærdig<<.} 
-//12 kan jeg alligevel{T: >>alligevel<< er tilføjet.} ikke løfte mit hoved,
+//11 Men er jeg uskyldig,{H: Job 9,20} 
+//12 kan jeg alligevel ikke løfte mit hoved.{H: 1 Mos 4,7.}
 
-//14 mæt af skam,
-//15 og se nu min elendighed!
+//14 Jeg er mæt af skam,
+//15 og se nu min elendighed!  
 
-//13 v16 Og løftede jeg hovedet,{T: Ordret: >>blev det løftet op<<, i verbet ligger betydningen >>stolt og hovmodigt<<.}
-//14 ville du jage mig som en løve
+//13 v16 Men løftes det,{T:  Dvs. hovedet. Ordret: >>er det højt<<.}
+//14 vil du jage mig som en løve.
 
 //16 og igen
-//17 vise din forunderlige magt{T: Ordret: >>vise dig forunderlig<<.} mod mig.
+//17 vise din forunderlige magt mod mig.
 
-//15 v17 Du ville føre dine nye vidner mod mig,
+//15 v17 Du vil forny  dine vidner mod mig,
 
-//17 øge din vrede imod mig
+//17 øge din vrede  imod mig
 
-//16 og sende stadig nye hærskarer imod mig.
+//16 og sende stadig nye tropper imod mig.
 
 //7 v18 Hvorfor lod du mig komme ud af mors liv?
 
 //9 Gid jeg var død,
-//11 og intet øje havde set mig!
+//11 og intet øje ser mig!{H: Job 7,8; 10,4.}
 
-//11 v19 Da ville jeg have været som om jeg aldrig havde været til; 
-//10
+//11 v19 Som en der aldrig havde været til 
+//10 ville jeg da være.
 
-//11 fra mors liv ville jeg blive født{T: Kan også oversættes >>blive båret<<.} til graven.
+//11 Fra mors liv ville jeg blive bragt til graven.
 
 //8 v20 Er ikke mine dage få!
 //9 Gid han ville holde op
@@ -125,10 +124,11 @@
 //11 v21 førend jeg går bort
 //14 og ikke vender tilbage,
 
-//13 bort til mørkets og dødsskyggens{T: Kan oversættes >>mulmets<<.} land.
+//13 bort til mørkets og mulmets {H: Job 3,5.} land.
 
-//12 v22 Et land hvor mørket er som det dybeste mørke,
+//12 v22 Et land med buldermørke{H: Am 4,13.} der er som mulmet {H: Job 3,5.} 
 
-//14 dødsskygge{T: Kan oversættes >>mulm<<.} og ingen orden,
+og det dybe mørke,{T: Ordret: >>det dybe mørkes mulm<<.} 
+//14 uden orden,
 
-//13 og hvor lyset er{T: Ordret: >>det skinner<<.} som det dybeste mørke.<<
+//13 og hvor lyset er{E: *ttōfaʕ* (>>det skinner<<) danner ordspil med *ʕêfātāh* (>>mørke<<).} som mulmet.<<
