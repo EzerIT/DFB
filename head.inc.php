@@ -101,7 +101,6 @@ echo <<<END
             <a class="nav-link dropdown-toggle pt-3 pb-3 pl-3 pr-3" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Om Den Frie Bibel</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
               <a class="dropdown-item" href="maalsaetning.php">Målsætning med oversættelsen</a>
-              <a class="dropdown-item" href="modenhed.php">Tekstens modenhed</a>
               <a class="dropdown-item" href="vejledning.php">Vejledning for bidragydere</a>
               <a class="dropdown-item" href="forprogrammoerer.php">For programmører</a>
             </div>

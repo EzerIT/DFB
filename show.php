@@ -343,7 +343,7 @@ makemenus(null);
                 <h1 class="card-header bg-info text-light">Status for dette kapitel</h1>
                 <div class="card-body biblenotes">
                     <?php foreach ($formatter->credit as $c): ?>
-                        <small><?= preg_replace('/Modenhed:/', '<a href="modenhed.php">Modenhed</a>:', $c) ?></small><br>
+                        <small><?= $c ?></small><br>
                     <?php endforeach; ?>
                 </div>
             </div>
