@@ -22,8 +22,10 @@ function replaceitsfm(array $filenames) {
     if (preg_match('/^\s*==[^=]*{[ET]:[^=]*==\s*$/m', $txt))
         die("FEJL: Tekst indeholder fodnoter i afsnitsoverskrifter.\n");
 
-    if (preg_match('/{([^ETHN]|.[^:])[^}]*/', $txt))
+    if (preg_match('/{([^ETHN]|.[^:])[^}]*/', $txt,$matches)) {
+        print_r($matches);
         die("FEJL: Tekst indeholder ulovlig {...}\n");
+    }
 
     // Handling of asterisks in the input must come before any replacement generating asterisks
     $txt = preg_replace('/^ *\*\*\* *$/m', '\\b', $txt);
