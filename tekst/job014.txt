@@ -2,7 +2,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Dato for denne version: 27.09.2024>!!
 
 ===Jobs bog, kapitel 14===
 
@@ -10,66 +10,66 @@
 ==Job klager over menneskets elendighed==
 
 
-//0 v1 En mand,{T: Kan oversættes >>et menneske<<.} født af en kvinde,
+//0 v1 Et menneske født af en kvinde,
 
-lever en kort tid,{T: Ordret: >>korte dage<<.} fuld af uro.
+lever en kort tid og mættes med uro.
 
-//2 v2 Som en blomst folder han sig ud,
-//3 men visner,{T: Kan også oversættes >>skæres af<<.}
+//2 v2 Som en blomst kommer han frem,
+//3 men visner,
 
-//3 han flygter som en skygge
+//3 han flygter som skyggen{H: Job 9,25.}
 //4 og bliver ikke stående.
 
-//1 v3 Dog over en sådan har du åbnet dine øjne,
+//1 v3 Selv over en sådan har du åbnet dine øjne,
 
 //5 og du bringer mig for retten sammen med dig.
 
-//4 v4 Kan der komme en ren af en uren?
+//4 v4 Ville der kunne komme en ren af en uren?
 
 //5 Ikke én!
 
-//3 v5 Når hans dage er bestemt,
+//3 v5 Når hans levedage er bestemt,
 
-//5 og hans måneders tal fastsat{T: >>fastsat<< tilføjet.} hos dig,
+//5 antallet af hans måneder fastsat{T: >>fastsat<< tilføjet.} hos dig,
 
-//6 og når du har sat grænser{T: Ordret: >>hans grænser<<.}
+//6 og du har sat grænsen{H: Job 14,13.} 
 //4 han ikke kan overskride,
 
 //2 v6 så se væk fra ham,
 //5 og han har ro;
 
-//6 så kan han glæde sig som en daglejer over sin dag.
+//6 mens han kan glæde sig som en daglejer{H: Job 7,2.} over sin dag.
 
-//4 v7 For et træ er der håb,
+//4 v7 Ja, for et træ er der håb,
 
-//7 hvis det bliver skåret ned,
+//7 når det bliver skåret ned,
 //9 så skyder det igen,
  
 //10 og dets skud udebliver ikke.
 
-//8 v8 Selv når dets rod i jorden er gammel,
+//8 v8 Når dets rod i jorden bliver ældre,
 
-//10 og dets rodskud i jorden{T: Ordret: >>støv<<} dør;
+//10 og dets stub i mulden dør,
 
-//9 v9 ved duften af vand sætter det skud
+//9 v9 ved duften af vand spirer det,
 
-//10 og sætter grene ligesom en plante.
+//10 og det fortsætter med at sætte grene ligesom en plante.
 
-//6 v10 Men en mand dør
-//8 og ligger der i støvet;
+//6 v10 En mand dør
+//8 og svinder hen;
 
-//7 et menneske opgiver ånden,
-//8 og hvor er han?
+//7 et menneske udånder,
+//8 men hvor er det så?
 
 //5 v11 Vand forsvinder fra havet,
 
 //7 og en flod tørrer ud
 //8 og er tørlagt.
 
-//6 v12 Sådan lægger et menneske sig
-//8 og står ikke op igen;
+//6 v12 Men har mennesket lagt sig,
+//8 står det ikke op igen;
 
-//7 så længe der er en himmel, vågner de ikke op,
+//7 så længe der er en himmel,{T: Ordret: >>indtil der ikke er himmel<<.} vågner de ikke op,
 
 //8 og de vækkes ikke af deres søvn.
 
@@ -78,36 +78,36 @@ lever en kort tid,{T: Ordret: >>korte dage<<.} fuld af uro.
 
 
 //3 v13 Gid
-//5 du ville skjule mig i dødsriget,
+//5 du ville holde mig skjult i dødsriget,
 
-//6 beskytte mig
-//8 indtil din vrede har vendt sig,
+//6 skjule mig
+//8 indtil din vrede er hørt op,{T: Ordret: >>har vendt sig<<.}
 
-//7 sætte en tidsfrist for mig
+//7 sætte en termin{H: Job 14,5.} for mig
 //10 og huske mig igen.
 
 //9 v14 Når en mand dør,
 //10 kommer han så til live igen?
 
-//8 Alle mine krigstjenestes dage ville jeg vente
+//8 Alle dagene i min krigstjeneste{H: Job 7,1-2.} ville jeg vente
 
 //10 til min afløsning kom.
 
-//9 v15 Du skulle kalde
+//9 v15 Du ville kalde,
 //11 og jeg ville svare dig;
 
-//10 du ville længes efter dine hænders værk. 
+//10 efter dine hænders værk ville du længes. 
 
 //11 v16 For nu du tæller mine skridt,
 
 //13 vogter du så ikke på min synd?
 
-//12 v17 Forseglet i en pung er min synd,
+//12 v17 Forseglet i en pung ville min overtrædelse være,
 
-//13 og du har dækket{T: Ordret: >>klistret<<.} min overtrædelse til. 
+//13 og du ville have dækket min skyld til. 
 
-//4 v18 Dog,
-//5 et bjerg der styrter sammen, smuldrer, 
+//4 v18 Men
+//5 et bjerg styrter sammen og smuldrer, 
 
 //7 og en klippe flytter sig fra sit sted.
 
@@ -115,13 +115,13 @@ lever en kort tid,{T: Ordret: >>korte dage<<.} fuld af uro.
  
 //8 dets strømme skyller løs jord{T: Ordret: >>jordens støv<<.} bort,
 
-//7 og du gør menneskets håb til intet.
+//7 sådan gør du menneskets håb til intet.
 
 //10 v20 Du besejrer ham for evigt,
 //9 og han går bort.
 
-//11 du ændrer hans ansigt
-//10 og lader ham gå.{T: Kan også oversættes >>sender ham bort<<.}
+//11 du ændrer hans ansigt,
+//10 og du sender ham bort.
 
 //8 v21 Bliver hans sønner æret,
 //11 han ved det ikke,
@@ -131,4 +131,4 @@ lever en kort tid,{T: Ordret: >>korte dage<<.} fuld af uro.
 
 //9 v22 Kun hans eget legeme mærker smerte,  
 
-//10 og hans sjæl sørger over sig selv.<<
+//10 og han{T: Ordret: >>hans sjæl<<.} sørger over sig selv.<<

@@ -2,7 +2,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.04.2023>!!
+!!<Dato for denne version: 27.09.2024>!!
 
 ===Jobs bog, kapitel 11===
 
@@ -13,103 +13,103 @@
 //0 v1 Da svarede Sofar fra Na'ama 
 //1:
 
-//2 v2 >>Skal de mange ord ikke besvares
+//2 v2 >>Skal de mange ord ikke besvares,
 
-//4 eller skal en snaksalig{T: Ordret: >>en mands læber<<. Meningen er: en der lader munden løbe.} have ret?
+//4 eller skal en åbenmundet{T: Ordret: >>en mands læber<<.} mand have ret?
 
-//3 v3 Skal dine tomme taler bringe mænd til tavshed;
+//3 v3 Skal dine tomme ord få mænd til at tie stille
 
-//5 og skal du spotte  
-//6 uden at blive ydmyget? 
+//5 så du spotter 
+//6 uden at nogen ydmyger dig? 
 
-//5 v4 Du siger:
-//6 >Min belæring er ren;
+//5 v4 Du har sagt:
+//6 >Min undervisning{T: Eller >>lære<<.} er ren;
 
-//7 og jeg er pletfri i dine øjne!<{T: Sml. Job 33,9 hvor Elihu citerer Sofar.}
+//7 og jeg er virkelig ren i dine øjne!<
 
 //4 v5 Men
 //5 gid
-//9 Gud ville tale
+//9 Gud ville tale,
 
-//8 og åbne sin mund mod dig;
+//8 føre en samtale med dig{T: Ordret: >>åbne sine læber med dig<<.} 
 
-//8 v6 kundgøre dig visdommens hemmeligheder;
+//8 v6 og oplyse dig om visdommens hemmeligheder,
 
-//9 ja, give dig{T: >>give dig<< er tilføjet.} dobbelt indsigt
+//9 for det giver{T: >>Giver<< er tilføjet.} dobbelt indsigt,
 
-//7 så du kan forstå
-//8 at Gud vil tilgive dig noget af din overtrædelse!
+//7 og du skal vide
+//8 at Gud lader din overtrædelse være glemt!
 
-//6 v7 Kan du udforske Guds dybder,
+//6 v7 Kan du fatte Guds dybder,
 
-//10 eller kan du udforske den Almægtiges grænse?
+//10 eller kan du udforske den Almægtiges yderste grænse?{T: Eller >>fuldkommenhed<<.}
 
-//9 v8 Så høj som himlen,
-//11 hvad vil du gøre?
+//9 v8 Så højt som himlen,{T: Eller >>højere end himlen<<.}{E: *govhê šāmayim* (>>himlens højder<<) ændres af de fleste som i Septuaginta til *gōvah mišāmayim* (>>højere end himlen<<) parallelt med >>dybere end dødsriget<< i det følgende.}
+//11 hvad kan du gøre?
 
-//10 Dybere end dødsriget,
-//12 hvad forstår du?{T: Kan oversættes >>hvad ved du<<.}
+//10 Det er dybere end dødsriget,{H: 7,9.}
+//12 hvad ved du?
 
 //11 v9 Længere end jorden er dens mål
 
 //12 og bredere end havet.
 
-//8 v10 Hvis han farer forbi,
-//10 spærrer inde 
+//8 v10 Hvis han går forbi,{H: Job 9,11.}
+//10 pågriber
 
-//10 og kalder sammen til dom,
-//9 hvem kan hindre ham?
+//10 og kalder sammen til dom,{T: >>til dom<< er tilføjet.}
+//9 hvem kan holde ham tilbage?
 
-//10 v11 For han kender de falske mænd
+//10 v11 For han kender de falske mænd,
 
-//12 han ser uretfærdighed,{T: Kan også oversættes >>ondskab<<.}
-//13 og vil han ikke agte på det?
+//12 han ser dem der gør uret,
+//13 som ingen lægger mærke til.
 
 //11 v12 Kan en tomhjernet få forstand,
 
-//12 kan et vildæsels føl blive født som menneske?
+//12 kan et vildæsel blive født som menneske?
 
 
 == Omvender du dig, Job, vil dit liv blive lykkeligt!==
 
 
-//7 v13 Hvis du vender dit hjerte til ham
+//7 v13 Hvis du bevidst vender dit hjerte til ham{5 Mos 6,5.}
 
-//10 og breder dine hænder{T: Ental.} ud imod ham;
+//10 og breder din hånd ud til ham.
 
-//9 v14 - hvis der er ondskab i din hånd, 
-//10 da fjern det
+//9 v14 Hvis du har ondskab i hånden, 
+//10 så fjern det,
 
-//11 og lad ikke uret bo i dine telte, -
+//11 og lad ikke uretfærdighed bo i dine telte.
 
-//8 v15 ja, da kan du uden skam{E: Ordret: >>uden plet<<, figurativt om moralsk pletfri, det hebraiske ord for >>defekt<< er *mmûm*. Det bruges om mennesker og dyr, især var det meget vigtigt mht. præstetjeneste og ofringer at være uden defekt. Se 3 Mos 21,17-24(præster); 3 Mos 22,20-25(dyr).} løfte dit ansigt, 
+//8 v15 For så kan du pletfri{E: *mimûm*(>>uden plet<<,>>uden fejl<<) her figurativt om moralsk pletfri.} løfte dit ansigt, 
 
-//10 og du kan stå fast
-//11 og ikke frygte.
+//10 du vil stå fast
+//11 og ikke frygte noget.
 
-//9 v16 Ja, du vil glemme din lidelse,
+//9 v16 For du vil glemme din lidelse,
 
-//12 du vil huske den som vand der svinder bort. 
-//15
-//14
+//12 som vand 
+//15 der løber forbi,
+//14 vil du huske den.
 
-//13 v17 Dit liv bliver lysere end middagssolen,{T: Ordret: >>middag<<.} 
+//13 v17 Livet bliver lysere end ved middagstid, 
  
-//14 mørket bliver som den lyse morgen.{T: Ordret: >>morgen<<.}
+//14 mørket, det bliver som morgen.
 
 //11 v18 Og du kan være tryg,
 //12 for der er håb;
 
-//11 du skal se dig omkring
-//12 og trygt lægge dig.
+//11 du kan se dig omkring
+//12 og i sikkerhed lægge dig.
 
 //11 v19 Du kan lægge dig til hvile,
-//13 og ingen vil skræmme dig;
+//13 og ingen skræmmer dig;
 
 //12 og mange vil søge din gunst.
 
 //10 v20 Men de ugudeliges øjne udmattes,
 
-//11 de har ingen tilflugtssted; 
+//11 deres tilflugtssted har de mistet; 
 
-//12 deres håb er at opgive ånden.<<
+//12 deres håb er at udånde.<<{T: Ordret: >>udånding af sjælen<<.}

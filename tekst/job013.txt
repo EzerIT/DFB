@@ -2,7 +2,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Dato for denne version: 27.09.2024>!!
 
 ===Jobs bog, kapitel 13===
 
@@ -14,69 +14,69 @@
 //3 alt dette har mit øje set,
 
 //4 mit øre hørt
-//6 og lagt mærke til.
+//6 og forstået.
 
-//5 v2 Ligesom I ved, ved jeg det også,
+//5 v2 Hvad I ved, ved jeg også,
 
 //6 jeg står ikke tilbage for jer.
 
-//2 v3 Dog,
-//4 jeg vil tale til den Almægtige,
+//2 v3 Men
+//4 jeg vil selv tale til den Almægtige,{H: Job 12,4.}
 
 //5 og
-//7 jeg ønsker at forsvare mig over for Gud.
+//7 jeg ønsker virkelig at forsvare mig over for Gud.
 //6
 
-//3 v4 Dog,
-//4 I som smører med løgn,
+//3 v4 Men
+//4 I er dem som smører med løgn,
 
 //6 uduelige læger er I alle sammen!
 
 //5 v5 Gid 
 //6 I ville tie fuldstændig stille,
 
-//8 det ville være visdom fra jer!
+//8 det ville være visdom af jer!
 
-//7 v6 Hør min begrundelse{T: Kan oversættes med >>anklage<<.}
+//7 v6 Hør en gang mit gensvar,
 
-//9 og agt på mine læbers begæringer!
+//9 og lyt opmærksomt til mine læbers begæringer!
 
-//8 v7 Vil I forsvare Gud med uret,{E: Ordret: >>tale uret for Gud<< eller >>til Gud<< eller >>om Gud<<, da disse betydninger ligger i ordet *lᵊʔēl*. Det samme er tilfældet i Job 42,7 med *ʔēlay* >>om mig<< og >>til mig<<.}
+//8 v7 Vil I forsvare Gud med uret,
 
 //10 vil I forsvare ham med svig?
  
-//9 v8 Vil I tage parti for ham
+//9 v8 Vil I tage parti for ham{T: Ordret: >>løfte hans ansigt<<, dvs. give tilsagn, gøre glad.}
  
 //11 eller føre sag for Gud?{T: Dvs. forsvare Gud.}
 
 //10 v9 Vil det være godt for jer
-//14 når han ransager jer,
+//14 hvis han ransager jer,
 
-//13 eller kan I narre ham som man narrer et menneske?
-//15 
+//13 eller 
+//15 kan I narre ham som man narrer et menneske?
 //14
 
 //12 v10 Han vil virkelig irettesætte jer
 
 //13 hvis I i det skjulte tager parti. 
 
-//11 v11 Vil hans ophøjethed ikke overvælde jer,
+//11 v11 Vil hans ophøjethed ikke forfærde jer,
 
-//13 og hans rædsel ikke falde over jer?
+//13 og rædsel for ham{T: Ordret: >>hans rædsel<<.} falde over jer?
 
-//12 v12 Det I husker, er ordsprog af aske;
+//12 v12 Det I husker, er ordsprog af aske;{H: Job 2,8.}
 
-//13 Jeres bolværk er som bolværk af ler.{T: Figurativt for deres nedsættende tale.}
+//13 som bolværk{E: *gav* har både betydningen >>svar<< og >>ryg<<, der oversættes >>bolværk<<. Begge ord bruges her som et ordspil.} af ler er jeres svar.
 
 //7 v13 Ti stille over for mig,
 //9 og lad mig tale,
 
-//10 og så må der komme over mig
-//11 hvad der vil! 
+//10 og så må der ske mig{E: *yaʕᵃvōr ʕālay* (>>passere forbi på/mod mig<<) udtrykker at en ulykke kommer imod ham.}
+//11 hvad der vil!
 
-//8 v14 Hvorfor skal jeg bære mit kød med mine tænder
+//8 v14 Skal{E: *ʕal-māh* (>>hvorfor<<) opfattes af mange som en gentagelse og udelades.} jeg bære mit kød med mine tænder
 
-//10 og lægge mit liv i min egen hånd?
+//10 og tage mit liv{T: Ordret: >>min sjæl<<.} i min egen hånd?
 
 
 == Selvom den Almægtige slår mig, vil jeg stole på ham!==
@@ -84,11 +84,11 @@
 
 //9 v15 Se,
 //10 slår han mig ihjel,
-//12 vil jeg håbe på ham,
+//12 vil jeg vente på ham,
 
-//13 jeg vil blot retfærdiggøre mine veje for hans ansigt.
+//13 jeg vil blot forsvare mine veje for hans ansigt.
 
-//11 v16 Og dette skal være min redning,
+//11 v16 Dette skal virkelig være min redning,
 
 //12 for ingen gudløs træder frem for hans ansigt.
 
@@ -100,45 +100,45 @@
 //9 jeg har fremlagt en sag,
 
 //9 jeg ved
-//11 at jeg har ret.{T: Kan oversættes: >>vil blive erklæret retfærdig<<. Sml. Job 40,8.}
+//11 at jeg har ret.{T: Eller: >>vil blive erklæret retfærdig<<.}
 
 //10 v19 Hvem
-//12 vil gå i rette med mig?
+//12 kan føre sag mod mig?{H: Job 9,3.}
 
-//11 For nu vil jeg tie stille
+//11 Så vil jeg tie stille
 //12 og udånde.
 
-//1 v20 Kun to ting må du undlade at gøre med mig,
+//1 v20 Kun to ting må du undlade at gøre mod mig,
 
-//3 ellers vil jeg skjule mig for dit ansigt!
+//3 så vil jeg ikke skjule mig for dit ansigt!
 
 //2 v21 Fjern din hånd fra mig, 
 
-//5 og lad ikke din rædsel overvælde mig!
+//5 og lad ikke rædsel for dig forfærde mig!
 
 //4 v22 Kald på mig, 
-//6 og jeg skal svare dig,
+//6 og jeg vil svare dig,
 
-//5 eller jeg skal tale,
+//5 eller jeg vil tale,
 //6 og så svar du mig!
 
 //3 v23 Hvor mange overtrædelser og synder har jeg?
 
 //4 Vis mig min overtrædelse og min synd!
 
-//5 v24 Hvorfor skjuler du dit ansigt for mig 
+//5 v24 Hvorfor skjuler du dit ansigt
 
-//7 og regner mig for din fjende?{T: Sml. Job 33,10. I Job 33 citerer Elihu en del af Jobs udtalelser her fra Job 13. Se også Job 13,27.}
+//7 og regner mig for din fjende?
 
 //6 v25 Skræmmer du et blad der blæser væk,
 
 //9 og forfølger du et tørt strå?
 
-//8 v26 For du foreskriver bitre ting over mig, 
+//8 v26 For du dikterer bitre forhold over mig, 
 
 //10 og du lønner mig for{T: Ordret: >>lader mig arve<<.} min ungdoms overtrædelser.
 
-//11 v27 Du lægger mine fødder i blokken.{T: Sml. Job 33,11.}
+//11 v27 Du lægger mine fødder i blokken.
 
 //11 Du vogter på alle mine stier,
 
