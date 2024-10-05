@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.09.2024>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 05.10.2024>!!
 
 ===Jobs bog, kapitel 13===
 
@@ -13,15 +12,15 @@
 //0 v1 Se,
 //3 alt dette har mit øje set,
 
-//4 mit øre hørt
-//6 og forstået.
+//4 mit øre hørt,
+//6 og det er blevet forstået.
 
 //5 v2 Hvad I ved, ved jeg også,
 
 //6 jeg står ikke tilbage for jer.
 
 //2 v3 Men
-//4 jeg vil selv tale til den Almægtige,{H: Job 12,4.}
+//4 jeg vil selv gerne tale til den Almægtige,{H: Job 12,4.}
 
 //5 og
 //7 jeg ønsker virkelig at forsvare mig over for Gud.
@@ -37,41 +36,41 @@
 
 //8 det ville være visdom af jer!
 
-//7 v6 Hør en gang mit gensvar,
+//7 v6 Hør en gang min modargumentation,
 
-//9 og lyt opmærksomt til mine læbers begæringer!
+//9 og lyt opmærksomt til mine anklagepunkter!
 
 //8 v7 Vil I forsvare Gud med uret,
 
 //10 vil I forsvare ham med svig?
  
-//9 v8 Vil I tage parti for ham{T: Ordret: >>løfte hans ansigt<<, dvs. give tilsagn, gøre glad.}
+//9 v8 Vil I tage parti for ham{T: Ordret: >>løfte hans ansigt<<.}
  
-//11 eller føre sag for Gud?{T: Dvs. forsvare Gud.}
+//11 eller føre sag for Gud?
 
 //10 v9 Vil det være godt for jer
 //14 hvis han ransager jer,
 
 //13 eller 
-//15 kan I narre ham som man narrer et menneske?
-//14
+//15 er det som man narrer et menneske
+//14 at I vil narre ham?
 
-//12 v10 Han vil virkelig irettesætte jer
+//12 v10 Han vil bestemt straffe jer{H: Job 13,3.}
 
 //13 hvis I i det skjulte tager parti. 
 
 //11 v11 Vil hans ophøjethed ikke forfærde jer,
 
-//13 og rædsel for ham{T: Ordret: >>hans rædsel<<.} falde over jer?
+//13 og rædsel for ham falde over jer?
 
 //12 v12 Det I husker, er ordsprog af aske;{H: Job 2,8.}
 
-//13 som bolværk{E: *gav* har både betydningen >>svar<< og >>ryg<<, der oversættes >>bolværk<<. Begge ord bruges her som et ordspil.} af ler er jeres svar.
+//13 som bolværk af ler er jeres svar.{E: *gav* har både betydningen >>svar<< og >>ryg<<, der oversættes >>bolværk<<. Begge betydninger bruges her som et ordspil.}
 
 //7 v13 Ti stille over for mig,
 //9 og lad mig tale,
 
-//10 og så må der ske mig{E: *yaʕᵃvōr ʕālay* (>>passere forbi på/mod mig<<) udtrykker at en ulykke kommer imod ham.}
+ //10 og så må der ske mig{E: *yaʕᵃvōr ʕālay* (>>passere forbi på/mod mig<<) udtrykker at en ulykke kommer imod ham.}
 //11 hvad der vil!
 
 //8 v14 Skal{E: *ʕal-māh* (>>hvorfor<<) opfattes af mange som en gentagelse og udelades.} jeg bære mit kød med mine tænder
@@ -86,7 +85,7 @@
 //10 slår han mig ihjel,
 //12 vil jeg vente på ham,
 
-//13 jeg vil blot forsvare mine veje for hans ansigt.
+//13 dog mine veje vil jeg forsvare over for ham.
 
 //11 v16 Dette skal virkelig være min redning,
 
@@ -94,18 +93,18 @@
 
 //7 v17 Lyt nøje til min tale, 
 
-//9 og må mit anliggende nå ind i jeres ører!
+//9 lad mit indlæg blive hørt!{T: Ordret: >>min redegørelse i jeres ører<<.} 
 
-//8 v18 Se,
-//9 jeg har fremlagt en sag,
+//8 v18 Se dog,
+//9 jeg har argumenteret for min ret,
 
 //9 jeg ved
-//11 at jeg har ret.{T: Eller: >>vil blive erklæret retfærdig<<.}
+//11 at jeg har ret.{H: Job 9,2.}
 
-//10 v19 Hvem
-//12 kan føre sag mod mig?{H: Job 9,3.}
+//10 v19 Hvem er den
+//12 der kan føre en retssag mod mig?{H: Job 9,3.}
 
-//11 Så vil jeg tie stille
+//11 For i så fald vil jeg tie stille
 //12 og udånde.
 
 //1 v20 Kun to ting må du undlade at gøre mod mig,
@@ -114,7 +113,7 @@
 
 //2 v21 Fjern din hånd fra mig, 
 
-//5 og lad ikke rædsel for dig forfærde mig!
+//5 og lad ikke rædsel for dig{H: Job 13,10.} forfærde mig!
 
 //4 v22 Kald på mig, 
 //6 og jeg vil svare dig,
@@ -134,17 +133,18 @@
 
 //9 og forfølger du et tørt strå?
 
-//8 v26 For du dikterer bitre forhold over mig, 
+//8 v26 For du dikterer bitre forhold for mig, 
 
 //10 og du lønner mig for{T: Ordret: >>lader mig arve<<.} min ungdoms overtrædelser.
 
-//11 v27 Du lægger mine fødder i blokken.
+//11 v27 Du lægger mine fødder i blokken.{Job 33,11.}
 
 //11 Du vogter på alle mine stier,
 
 //9 du afsætter mærker på mine fodsåler{T: Ordret: >>ved roden af mine fødder indgraverer du for dig selv<<.} 
 
-//7 v28 og dette mod en der tæres bort{T: Her figurativt, men det ligger i verbets betydning >>at blive gammel og affældig<<, sml. 1 Mos 18,12.} som råddent træ,{T: Ordret: >>råddenskab<<.}
+//7 v28 og dette mod en der tæres bort som råddent træ,{T: Ordret: >>råddenskab<<.}
  
 //8 som tøj
 //9 et møl æder op.
+

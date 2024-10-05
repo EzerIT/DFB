@@ -1,31 +1,30 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.09.2024>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 05.10.2024>!!
 
 ===Jobs bog, kapitel 11===
 
 
 ==Sofar irettesætter Job på det kraftigste==
-
+		
 
 //0 v1 Da svarede Sofar fra Na'ama 
 //1:
 
 //2 v2 >>Skal de mange ord ikke besvares,
 
-//4 eller skal en åbenmundet{T: Ordret: >>en mands læber<<.} mand have ret?
+//4 eller skal en talelysten{T: Ordret: >>en mands læber<<.} mand have ret?
 
 //3 v3 Skal dine tomme ord få mænd til at tie stille
 
-//5 så du spotter 
+//5 så du håner 
 //6 uden at nogen ydmyger dig? 
 
 //5 v4 Du har sagt:
-//6 >Min undervisning{T: Eller >>lære<<.} er ren;
+//6 >Min undervisning er ren;
 
-//7 og jeg er virkelig ren i dine øjne!<
+//7 og jeg er i dine øjne virkelig ren!<
 
 //4 v5 Men
 //5 gid
@@ -35,19 +34,19 @@
 
 //8 v6 og oplyse dig om visdommens hemmeligheder,
 
-//9 for det giver{T: >>Giver<< er tilføjet.} dobbelt indsigt,
+//9 for det giver dobbelt indsigt,
 
 //7 og du skal vide
 //8 at Gud lader din overtrædelse være glemt!
 
 //6 v7 Kan du fatte Guds dybder,
 
-//10 eller kan du udforske den Almægtiges yderste grænse?{T: Eller >>fuldkommenhed<<.}
+//10 eller kan du helt udforske den Almægtiges fuldkommenhed.
 
-//9 v8 Så højt som himlen,{T: Eller >>højere end himlen<<.}{E: *govhê šāmayim* (>>himlens højder<<) ændres af de fleste som i Septuaginta til *gōvah mišāmayim* (>>højere end himlen<<) parallelt med >>dybere end dødsriget<< i det følgende.}
+//9 v8 De er så høje som himlene,{E: *govhê šāmayim* (>>himlens højder<<) ændres af de fleste som i Septuaginta til *gōvah mišāmayim* (>>højere end himlen<<) parallelt med >>dybere end dødsriget<< i det følgende.}
 //11 hvad kan du gøre?
 
-//10 Det er dybere end dødsriget,{H: 7,9.}
+//10 Dybere end dødsriget,{H: 7,9.}
 //12 hvad ved du?
 
 //11 v9 Længere end jorden er dens mål
@@ -55,15 +54,15 @@
 //12 og bredere end havet.
 
 //8 v10 Hvis han går forbi,{H: Job 9,11.}
-//10 pågriber
+//10 anholder 
 
-//10 og kalder sammen til dom,{T: >>til dom<< er tilføjet.}
+//10 og kalder sammen til dom,
 //9 hvem kan holde ham tilbage?
 
 //10 v11 For han kender de falske mænd,
 
-//12 han ser dem der gør uret,
-//13 som ingen lægger mærke til.
+//12 han har set dem der gør uret,
+//13 som ingen har lagt mærke til.
 
 //11 v12 Kan en tomhjernet få forstand,
 
@@ -73,16 +72,16 @@
 == Omvender du dig, Job, vil dit liv blive lykkeligt!==
 
 
-//7 v13 Hvis du bevidst vender dit hjerte til ham{5 Mos 6,5.}
+//7 v13 Hvis du selv af hjertet beslutter det{H: Job 8,8.}
 
-//10 og breder din hånd ud til ham.
+//10 så skal du række din hånd ud til ham.
 
 //9 v14 Hvis du har ondskab i hånden, 
 //10 så fjern det,
 
 //11 og lad ikke uretfærdighed bo i dine telte.
 
-//8 v15 For så kan du pletfri{E: *mimûm*(>>uden plet<<,>>uden fejl<<) her figurativt om moralsk pletfri.} løfte dit ansigt, 
+//8 v15 For så kan du pletfri løfte dit ansigt, 
 
 //10 du vil stå fast
 //11 og ikke frygte noget.
@@ -93,23 +92,23 @@
 //15 der løber forbi,
 //14 vil du huske den.
 
-//13 v17 Livet bliver lysere end ved middagstid, 
+//13 v17 Dine leveår bliver lysere end ved middagstid,{H: Job 5,14.} 
  
-//14 mørket, det bliver som morgen.
+//14 mørket{E: *tāʕufāʰ* (>>mørke<<), findes kun her. Lydmæssigt ligger det tæt op ad *ʕêfātāh* (>>buldermørke<<) i Job 10,22.} bliver som morgen.
 
 //11 v18 Og du kan være tryg,
-//12 for der er håb;
+//12 for der er håb;{H: Job 7,6.}
 
-//11 du kan se dig omkring
-//12 og i sikkerhed lægge dig.
-
+//11 du bliver beskyttet{E: Vokaliseringen er ændret til *ḥufartā* (>>du bliver beskyttet<<) ud fra et arabisk verbum, da det passer bedre ind i konteksten. Andre betydninger af *ḥfr* er >>grave<< eller >>føle sig skamfuld<<.}
+//12 og kan i sikkerhed lægge dig.
+ 
 //11 v19 Du kan lægge dig til hvile,
 //13 og ingen skræmmer dig;
 
-//12 og mange vil søge din gunst.
+//12 og mange vil søge din velvilje.
 
-//10 v20 Men de ugudeliges øjne udmattes,
+//10 v20 Men de ugudeliges øjne er udmattede,
 
 //11 deres tilflugtssted har de mistet; 
 
-//12 deres håb er at udånde.<<{T: Ordret: >>udånding af sjælen<<.}
+//12 deres håb er at udånde!<< 

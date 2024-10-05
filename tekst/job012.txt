@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.09.2024>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 05.10.2024>!!
 
 ===Jobs bog, kapitel 12===
 
@@ -13,23 +12,23 @@
 //0 v1 Da svarede Job
 //1:
 
-//2 v2 >>Sandelig,
-//5 ja, I er et folk,
+//2 v2 >>I sandhed,
+//5 ja, I er folket,
 
 //6 med jer uddør visdom!
 
-//4 v3 Også jeg har forstand{T: Ordret: >>hjerte<<.} som I,
+//4 v3 Også jeg har forstand,{T: Ordret: >>hjerte<<, kan også være vilje og følelser, men har her betydningen >>hjerne<<. Hebraisk har ikke et ord for >>hjerne<<.} som I,
 
 //6 jeg står ikke tilbage for jer,
 
 //7 og hvem ved ikke alt dette?
 
-//5 v4 Til spot{T: Eller >>latter<<.} for ens ven – det er jeg:
+//5 v4 Til latter for ens ven – det er jeg:
 
-//7 >Han bliver ved med at råbe til Gud,
-//8 og han skal svare ham!< 
+//7 >Han blev ved med at råbe til Gud,
+//8 og han har svaret ham!< 
 
-//6 Til spot er den retfærdige, den uangribelige!{T: Ordret: >>fuldkomne<<.}
+//6 Til latter er den retfærdige, den uangribelige!{H: 1 Mos 6,9.}
 
 //8 v5 Foragt for ulykke er i den sorgløses tanker, 
 
@@ -37,22 +36,22 @@
 
 //7 v6 Voldsmænd har deres telte i fred,
 
-//8 i sikkerhed er de som vækker Guds vrede,{T: Ordret: >>vækker<<, >>provokerer<<.}
+//8 i sikkerhed er de som provokerer Gud,
 
-//9 de som tror at de er ligeså stærke som Gud{T: Ordret: >>til dem som har bragt/taget Gud i deres hånd<<. Det er uklart hvad der menes med >>Gud<<. Afgudsbillede og sværd er også foreslået.}
+//9 de som tror at de er ligeså stærke som Gud{T: Ordret: >>til dem som har bragt Gud i sin hånd<<.}
 
 
 ==Den Almægtige styrer alt efter sin vilje==
 
 
 //3 v7 Men
-//4 spørg dog dyrene, 
+//4 spørg dog kvæget, 
 //8 de kan undervise dig,
 
 //7 og himlens fugle,
-//8 de kan fortælle dig det,
+//8 de kan fortælle dig det.
 
-//6 v8 eller tal{E: *śîₐḥ* (>>tal<<). Nogle oversætter >>betragt<<, andre opfatter *śîₐḥ* som substantivet >>busk<< og oversætter >>jordens buske<<.} til jorden,
+//6 v8 Eller tal{E: *śîₐḥ* (>>tal<<). Nogle oversætter >>betragt<<, andre opfatter *śîₐḥ* som substantivet >>busk<< og oversætter >>jordens buske<<.} til jorden,
 //7 den kan belære dig,
 
 //8 eller havets fisk, de kan oplyse dig!
@@ -63,13 +62,13 @@
 
 //8 v10 For i hans hånd er sjælen af alt levende
 
-og hele menneskehedens{T: Ordret: >>alt kød af menneske<<.} livsånde.
+og hele menneskehedens livsånde.
 
-//6 v11 Skal øret ikke prøve ordene
+//6 v11 Skal øret ikke prøve ordne
 
 //8 ligesom ganen smager på sin mad?
 
-//7 v12 Hos de gamle{E: *yšîšîm* (>>gamle<<) findes 4 gange, kun i Jobs bog.} er visdom,
+//7 v12 Hos de gamle er visdom,
 
 //9 og høj alder giver indsigt.
 
@@ -77,25 +76,25 @@ og hele menneskehedens{T: Ordret: >>alt kød af menneske<<.} livsånde.
 
 //9 hos dem er råd og indsigt.
 
-//10 v14 Se,
+//10 v14 Når
 //11 han river ned, 
-//12 men der bygges ikke op igen,
+//12 så bygges der ikke op igen,
 
 //11 han lukker i over et menneske,
 //12 men der lukkes ikke op igen.
 
-//10 v15 Se,
+//10 v15 Når 
 //11 han holder vandene tilbage,
-//13 og de tørrer ud,
+//13 så tørrer de ud,
 
 //12 han slipper dem løs,
 //13 og de ødelægger jorden.
  
-//8 v16 Hos ham er styrke og indsigt,{H: Job 11,6.}
+//8 v16 Hos ham er styrke og indsigt{H: Job 5,12; 11,6.}
 
-//9 i hans magt{T: Ordret: >>for ham<<.} er både den der farer vild, og den der fører vild.
+//9 i hans magt{E: *lô* (>>for ham<< ) bruges ofte i den possessive betydning >>han har<<, og her om Gud.} er både den der farer vild, og den der fører vild.
 
-//10 v17 Han er den som{E: Her og i begyndelsen af de efterfølgende vers 19-24 anvendes participium, og de fleste verber er hiphil, dette understreger og forstærker dette at det er Gud som er den aktive og står bag.} fører rådgivere barfodet bort
+//10 v17 Han er den som fører rådgivere barfodet bort
 
 //12 og gør dommere til tåber.{H: Job 9,24.}
 
@@ -105,15 +104,15 @@ og hele menneskehedens{T: Ordret: >>alt kød af menneske<<.} livsånde.
 
 //10 v19 Han er den som fører præsterne barfodet bort,
 
-//11 og de gamle støtter{T: Dvs. medlemmer af gamle familier.} styrter han.
+//11 og de gamle støtter{E: *ʔêtān* (>>vedvarende<<), bruges  her metaforisk om medlemmer af gamle familier.} styrter han.
 
-//10 v20 Han tager mælet{T: Eller >>talegaverne<<.} fra de betroede,
+//10 v20 Han fratager de betroede evnen til at tale,
 
-//11 og han tager dømmekraften{T: Ordret: >>smag<<.} fra de ældste.
+//11 og han tager dømmekraften fra de ældste.
 
-//10 v21 Han øser foragt ud over fyrster,{T: Sml. Sl 107,40.}
+//10 v21 Han øser foragt ud over fyrster,{H: Sl 107,40.}
 
-//11 og han løser de mægtiges bælte.{T: Figurativt, de gøres forsvarsløse.}
+//11 og han løser de stærkes bælte.{T: Gør dem ukampdygtige.}{H: Job 12,18.}
 
 //10 v22 Han er den som åbenbarer det dybeste fra mørket,
 
@@ -125,9 +124,9 @@ og hele menneskehedens{T: Ordret: >>alt kød af menneske<<.} livsånde.
 //10 han spreder folkeslagene,
 //11 og han leder dem.
 
-//10 v24 Han tager forstanden{T: Ordret: >>hjerte<<.} fra folkets ledere i landet,
+//10 v24 Han tager forstanden{T: Ordret: >>hjerte<<.}{H: Job 12,3.} fra folkets ledere i landet,
 
-//11 og han lader dem flakke om i en ørken{H: Job 6,18.}
+//11 og han lader dem flakke om i det golde land{H: Job 6,18.}
 //13 uden vej.{H: Sl 107,40.}
 
 //12 v25 De famler sig frem i mørket{H: Job 5,14.}

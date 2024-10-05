@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.09.2024>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 05.10.2024>!!
 
 ===Jobs bog, kapitel 14===
 
@@ -17,14 +16,14 @@ lever en kort tid og mættes med uro.
 //2 v2 Som en blomst kommer han frem,
 //3 men visner,
 
-//3 han flygter som skyggen{H: Job 9,25.}
+//3 han flygter som skyggen{H: Job 8,9.}
 //4 og bliver ikke stående.
 
 //1 v3 Selv over en sådan har du åbnet dine øjne,
 
 //5 og du bringer mig for retten sammen med dig.
 
-//4 v4 Ville der kunne komme en ren af en uren?
+//4 v4 Hvem kan gøre en uren ren?
 
 //5 Ikke én!
 
@@ -32,11 +31,11 @@ lever en kort tid og mættes med uro.
 
 //5 antallet af hans måneder fastsat{T: >>fastsat<< tilføjet.} hos dig,
 
-//6 og du har sat grænsen{H: Job 14,13.} 
-//4 han ikke kan overskride,
+//6 og du har givet ham en frist{H: Job 14,13.} 
+//4 han ikke kan overskride.
 
-//2 v6 så se væk fra ham,
-//5 og han har ro;
+//2 v6 Se væk fra ham,
+//5 og lad ham være,
 
 //6 mens han kan glæde sig som en daglejer{H: Job 7,2.} over sin dag.
 
@@ -49,9 +48,10 @@ lever en kort tid og mættes med uro.
 
 //8 v8 Når dets rod i jorden bliver ældre,
 
-//10 og dets stub i mulden dør,
+//10 og dets stub dør i mulden,{T: Ordret >>støvet<<.}{H: Job 10,9.}
 
-//9 v9 ved duften af vand spirer det,
+//9 v9 spirer det ved duften af vand,
+
 
 //10 og det fortsætter med at sætte grene ligesom en plante.
 
@@ -69,7 +69,7 @@ lever en kort tid og mættes med uro.
 //6 v12 Men har mennesket lagt sig,
 //8 står det ikke op igen;
 
-//7 så længe der er en himmel,{T: Ordret: >>indtil der ikke er himmel<<.} vågner de ikke op,
+//7 så længe der er en himmel,{T: Ordret: >>indtil der ikke er en himmel<<.} vågner de ikke op,
 
 //8 og de vækkes ikke af deres søvn.
 
@@ -81,15 +81,15 @@ lever en kort tid og mættes med uro.
 //5 du ville holde mig skjult i dødsriget,
 
 //6 skjule mig
-//8 indtil din vrede er hørt op,{T: Ordret: >>har vendt sig<<.}
+//8 indtil din vrede er hørt op,
 
-//7 sætte en termin{H: Job 14,5.} for mig
+//7 give mig en frist{H: Job 14,5.}
 //10 og huske mig igen.
 
 //9 v14 Når en mand dør,
 //10 kommer han så til live igen?
 
-//8 Alle dagene i min krigstjeneste{H: Job 7,1-2.} ville jeg vente
+//8 Alle dagene i min krigstjeneste{H: Job 7,1-2; 10,17.} ville jeg vente
 
 //10 til min afløsning kom.
 
@@ -113,14 +113,14 @@ lever en kort tid og mættes med uro.
 
 //6 v19 Vand udhuler sten,
  
-//8 dets strømme skyller løs jord{T: Ordret: >>jordens støv<<.} bort,
+//8 dets strømme skyller løs jord{T: Ordret: >>jordens støv<<.}{H: Job 14,8.} bort,
 
 //7 sådan gør du menneskets håb til intet.
 
 //10 v20 Du besejrer ham for evigt,
 //9 og han går bort.
 
-//11 du ændrer hans ansigt,
+//11 gør ham ukendelig,{T: Ordret: >>du ændrer hans ansigt<<.}
 //10 og du sender ham bort.
 
 //8 v21 Bliver hans sønner æret,
