@@ -137,7 +137,7 @@
 
 //10 og du lønner mig for{T: Ordret: >>lader mig arve<<.} min ungdoms overtrædelser.
 
-//11 v27 Du lægger mine fødder i blokken.{Job 33,11.}
+//11 v27 Du lægger mine fødder i blokken.{H: Job 33,11.}
 
 //11 Du vogter på alle mine stier,
 
