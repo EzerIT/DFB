@@ -2,14 +2,14 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 15.08.2024>!!
+!!<Dato for denne version: 10.10.2024>!!
 
 ===Johannes' Tredje Brev, kapitel 1===
 
 
 ==Forord==
 
-v1 Den ældste hilser den elskede Gajus, som jeg i sandhed elsker. v2 Elskede, jeg ønsker at du må have fremgang i alt og være rask, sådan som din sjæl udfolder sig. v3 For jeg blev meget glad da brødrene kom og vidnede om din sandhed, hvordan du lever i sandhed. v4 Jeg har ingen større glæde end dette at jeg hører at mine børn vandrer i sandhed.
+v1 Den ældste hilser den elskede Gajus, som jeg i sandhed elsker. v2 Elskede, jeg ønsker at du må have fremgang i alt og være rask, ligesom som din sjæl udfolder sig. v3 For jeg blev meget glad da brødrene kom og vidnede om din sandhed, hvordan du lever i sandhed. v4 Jeg har ingen større glæde end dette at jeg hører at mine børn lever i sandhed.
 
 ==Gajus’ gæstfrihed==
 
@@ -17,7 +17,7 @@ v5 Elskede, du gør trofast det som du gør for brødrene, og det for fremmede. 
 
 ==Om Diotrefes==
 
-v9 Jeg har skrevet nogle få ord til menigheden, men Diotrefes, som elsker at være den første blandt dem, anerkender os ikke. v10 Derfor vil jeg, når jeg kommer til jer, bringe hans gerninger, som han begår, i erindring, idet han sværter os til med onde ord, og han er ikke tilfreds med det, så han modtager ikke selv brødrene, og dem som vil modtage dem, hindrer han og uddriver dem af menigheden. 
+v9 Jeg har skrevet nogle få ord til menigheden, men Diotrefes, som elsker at være den første blandt dem, anerkender os ikke. v10 Derfor vil jeg, når jeg kommer til jer, bringe hans gerninger, som han begår, i erindring, idet han sværter os til med onde ord, og han er ikke tilfreds med det, så han modtager ikke selv brødrene, og dem som vil modtage dem, forsøger han at hindre og forsøger at uddrive dem af menigheden. 
 
 ==Om Demetros==
 
