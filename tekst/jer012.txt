@@ -85,7 +85,7 @@ dyr og fugle er revet væk.
 
 //0 v7 Jeg har forladt mit hus,
 
-//0 jeg har forkastet min arvelod,{Es 2,6.}
+//0 jeg har forkastet min arvelod,{H: Es 2,6.}
 
 //0 jeg har givet min sjæls elskede 
 

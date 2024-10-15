@@ -172,7 +172,7 @@
 //3 v26 Derfor, hør HERRENS ord,
 //5 hele Juda,
 //6 I som bor i Egyptens land: 
-//4 Se, jeg sværger{T Ordret: >>Jeg har sværget<<.} ved mit mægtige navn
+//4 Se, jeg sværger{T: Ordret: >>Jeg har sværget<<.} ved mit mægtige navn
 //7 – siger HERREN:
 //6 Mit navn skal ikke længere 
 //8 nævnes af noget menneskes mund fra Juda
