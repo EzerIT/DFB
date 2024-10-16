@@ -27,7 +27,7 @@ function formatref($ref) {
     $offset = 0;
     $ref .= '.'; // Make sure string is properly termiated
 
-    while (preg_match('/((([1-5]? )?[A-ZÆØÅ][a-zæøå]+)?'              // Boook (optional)
+    while (preg_match('/((([1-5] )?[A-ZÆØÅ][a-zæøå]+)?'              // Boook (optional)
                     . '\s+([0-9]+)'                                   // Chapter (mandatory)
                     . '(,([0-9]+)(-([0-9]+))?)?)'                     // 'From' and 'to' verse (optional)
                     . '(\.([0-9]+)(-([0-9]+))?)?'                     // Additional 'from' and 'to' verse (optional)

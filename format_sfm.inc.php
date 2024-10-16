@@ -89,7 +89,7 @@ class FormatSfm extends Formatter {
     }
 
     public function to_html() {
-        $txt = file_get_contents(sprintf('tekst/%s.sfm',$this->book));
+        $txt = file_get_contents(sprintf('sfm/%s.sfm',$this->book));
 
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");

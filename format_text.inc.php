@@ -325,7 +325,7 @@ class FormatText extends Formatter {
     public static function replaceit_ordforkl(string $filename) {
         $txt = file_get_contents($filename);
 
-        if (substr($filename, -strlen('.txt'))==='.txt') { // PHP 8: str_ends_with($filename,'.txt')
+        if (str_ends_with($filename,'.txt')) {
             if (preg_match('/"/',$txt)) {
                 echo "<h1>Fejl</h1>\n";
                 echo "<p>Tekst indeholder dobbelt citationstegn.</p>\n";
@@ -440,9 +440,12 @@ class FormatText extends Formatter {
      
         $txt = preg_replace($from, $to, $txt);
      
-        $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',
+        $txt = preg_replace_callback('/{H: *([^}]+)}/',
                                      function ($matches) {
-                                         return formatref($matches[1]);
+                                         $refs = formatref($matches[1]);
+                                         if (str_ends_with($refs,'.')) // Strip final period
+                                             $refs = substr($refs,0,-1);
+                                         return $refs;
                                      }, $txt);
      
         return '<div class="explain">' . $txt . '</div>';

@@ -13,14 +13,17 @@ function replaceitsfm(array $filenames) {
     if (preg_match('/"/',$txt))
         die("FEJL: Tekst indeholder dobbelt citationstegn.\n");
 
-    if (preg_match('/===.*(apitel|alme).*{[ET]:\s*[^}]+}===/', $txt))
-        die("FEJL: Tekst indeholder fodnoter i kapiteloverskrifter.\n");
-    
-    if (preg_match('/===.*(apitel|alme).*{[ET]:\s*[^}]+}===/', $txt))
-        die("FEJL: Tekst indeholder fodnoter i kapiteloverskrifter.\n");
+    if (preg_match('/===.*(apitel|alme).*{[ET]:\s*[^}]+}===/', $txt)) {
+        echo "FEJL: Tekst indeholder fodnoter i kapiteloverskrifter.\n";
+        echo "      Fodnoterne er fjernet.\n";
 
-    if (preg_match('/^\s*==[^=]*{[ET]:[^=]*==\s*$/m', $txt))
-        die("FEJL: Tekst indeholder fodnoter i afsnitsoverskrifter.\n");
+        $txt = preg_replace('/(===.*(apitel|alme).*){[ET]:\s*[^}]+}(===)/',
+                            '\1\3',
+                            $txt);
+    }
+    
+//    if (preg_match('/^\s*==[^=]*{[ET]:[^=]*==\s*$/m', $txt))
+//        die("FEJL: Tekst indeholder fodnoter i afsnitsoverskrifter.\n");
 
     if (preg_match('/{([^ETHN]|.[^:])[^}]*/', $txt,$matches)) {
         print_r($matches);
@@ -108,7 +111,7 @@ function replaceitsfm(array $filenames) {
     $from[] = '/</';
     $to[] = '‹';
  
-    $from[] = '/(\w+)\s*{N:\s*([^}]+)}/u';
+    $from[] = '/(\w+[,.:;!?]?)\s*{N:\s*([^}]+)}/u';
     $to[] = '\\w \1|\2\\w*';
 
     $from[] = '/JHVHs/';
@@ -117,12 +120,12 @@ function replaceitsfm(array $filenames) {
     $from[] = '/JHVHvs/';
     $to[] = 'HERRES';
  
-    $from[] = '/JHVH/';
-    $to[] = 'HERREN';
-    
     $from[] = '/JHVHv/';
     $to[] = 'HERRE';
  
+    $from[] = '/JHVH/';
+    $to[] = 'HERREN';
+    
     $from[] = '/\$([^\$]*)\$/';
     $to[] = '\\add \1\add* ';
  
