@@ -428,6 +428,9 @@ foreach ($title as $bookabb => $tit) {
         continue;
     }
 
+    if (empty($chap[$bookabb]))
+        continue;
+
     if (is_array($style[$bookabb]) || in_array($style[$bookabb],$include_status)) {
         $text = '';
         foreach ($chap[$bookabb] as $ch) {

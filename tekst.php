@@ -46,6 +46,10 @@ makemenus(2);
                     <?php continue; ?>
                 <?php endif; ?>
 
+                <?php if (empty($chap[$book])): ?>
+                    <?php continue; ?>
+                <?php endif; ?>
+
                 <div id="<?= $book ?>" class="card mt-4">
                     <h1 class="card-header bg-info text-light"><?= $tit ?></h1>
                     <div class="card-body">

@@ -64,8 +64,10 @@ $bog = $_GET['bog'];
 $fra = isset($_GET['fra']) && is_numeric($_GET['fra']) ?  intval($_GET['fra']) : 0;
 $til = isset($_GET['til']) && is_numeric($_GET['til']) ?  intval($_GET['til']) : 0;
 
-
-makeheadstart($abbrev[$bog] . ' ' . $kap, true);
+if (!isset($abbrev[$bog]))
+    makeheadstart('Ulovlig henvisning', true);
+else
+    makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 ?>
     <style>
     .bibletext, .biblenotes, .reflinks {

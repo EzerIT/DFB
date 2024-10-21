@@ -15,6 +15,9 @@ foreach ($title as $key => $ignore) {
     elseif ($key=='NT')
         $curcount = &$ntcount;
     else {
+        if (empty($chap[$key]))
+            continue;
+        
         $c = 0;
         if ($style[$key]=='btn-secondary')
             continue;
@@ -27,12 +30,50 @@ foreach ($title as $key => $ignore) {
             $curcount += count($chap[$key]);
     }
 }
+
+$find_bibleref = <<<'END'
+    <h1 class="card-header bg-success text-light">Find bibelsted</h1>
+    <div class="card-body">
+        <form id="bible-find-form%1$d">
+            <label for="bibleref%1$d">Indtast et bibelsted som du gerne finde:</label>
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" id="bibleref%1$d" placeholder="Fx: 2 Mos 3,5-6">
+                <div class="input-group-append">
+                    <input class="btn btn-outline-secondary" type="submit" value="Find" id="bible-find%1$d">
+                </div>
+            </div>
+        </form>
+        <p>En liste over forkortelser findes <a href="">her</a>.</p>
+    </div>
+
+END;
+
 ?>
+
+<script>
+    $(function() {
+        $('#bible-find-form1').on('submit', function() {
+            window.location.href="lookup.php?find="+encodeURIComponent($('#bibleref1').val());
+            return false;
+        });
+        $('#bible-find-form2').on('submit', function() {
+            window.location.href="lookup.php?find="+encodeURIComponent($('#bibleref2').val());
+            return false;
+        });
+    });
+</script>
+
 <div class="container-fluid">
   <div class="row">
 
-    <div class="col-md-9">
-      <div class="card mt-4">
+      <div class="col-lg-9">
+        <div class="d-block d-lg-none">
+          <div class="card mt-4">
+              <?php printf($find_bibleref,1); ?>
+          </div>
+        </div>
+
+        <div class="card mt-4">
         <div class="card-body">
           <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/pexels-tima-miroshnichenko-5199809-mod.jpg" alt="">
     
@@ -111,7 +152,8 @@ foreach ($title as $key => $ignore) {
           <p>Link til Dommerbogen kapitel 5 vers 8-10:</p>
           <pre>     https://denfriebibel.dk/show.php?bog=dom&kap=5&fra=8&til=10</pre>
 
-          <p>De bogforkortelser der benyttes i disse URL'er, finder man nemmest ved at åbne et bestemt
+          <p>De bogforkortelser der benyttes i disse URL'er, er ikke de sædvanlige forkortelser
+              for Bibelens bøger. De korrekte forkortelser finder man nemmest ved at åbne et bestemt
               kapitel på normal vis og iagttage sidens URL.</p>
           
           <h2>Kommentarer</h2>
@@ -134,7 +176,11 @@ foreach ($title as $key => $ignore) {
       </div>
     </div>
     
-    <div class="col-md-3">
+    <div class="col-lg-3">
+        <div class="card mt-4 d-none d-lg-block">
+            <?php printf($find_bibleref,2); ?>
+        </div>
+
         <div class="card mt-4">
             <h1 class="card-header bg-info text-light">Ophavsret</h1>
             <div class="card-body">
