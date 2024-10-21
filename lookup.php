@@ -13,14 +13,52 @@ class ParserException extends Exception {
     }
 }
 
-function formatref_simple($ref) {
+function formatref_simple_aux($book,$chapter,$fromverse,$toverse) {
     global $deabbrev, $chap, $title;
 
+    $lowbook = mb_strtolower($book);
+        
+    if (!isset($deabbrev[$lowbook]))
+        throw new ParserException("Den Frie Bibel kender ikke bogen »{$book}«");
+    elseif (!isset($chap[$deabbrev[$lowbook]]) || !in_array($chapter,$chap[$deabbrev[$lowbook]]))
+        throw new ParserException("Den Frie Bibel har ikke kapitel $chapter i " . $title[$deabbrev[$lowbook]]);
+    else {
+        $links = 'show.php?bog='
+               . $deabbrev[$lowbook]
+               . '&kap=' . $chapter;
 
-    if (preg_match('/^((([1-5] +)?[a-zæøå]+)'      // Boook (mandatory)
-                    . '\s+([0-9]+)'                // Chapter (mandatory)
-                    . '(,([0-9]+)(-([0-9]+))?)?)'  // 'From' and 'to' verse (optional)
-                    . '$/ui',                      // Terminator
+        if (!is_null($fromverse)) {
+            $links .=  "&fra=" . $fromverse
+                     . "&til=" . ($toverse ?? $fromverse);
+        }
+    }
+
+    return $links;
+}
+
+function formatref_simple($ref) {
+    $ref = trim($ref);
+
+    // Check for books with one chapter
+    if (preg_match('/^((Obad|2\s+Joh|3\s+Joh|Jud)'    // Book (mandatory)
+                    . '(\s+([0-9]+)(-([0-9]+))?)?)'   // 'From' and 'to' verse (optional)
+                    . '$/ui',                         // Terminator
+                      // Matches:
+                      //  0: Everything
+                      //  1: Book and verses
+                      //  2: Book
+                      //  3: 'From' and 'to' verse
+                      //  4: 'From' verse
+                      //  5: Hyphen and 'to' verse
+                      //  6: 'To' verse
+                      $ref,
+                      $matches)) {
+        return formatref_simple_aux($matches[2],1,$matches[4] ?? null,$matches[6] ?? null);
+    }
+    elseif (preg_match('/^((([1-5] +)?[a-zæøå]+)'        // Boook (mandatory)
+                    . '\s+([0-9]+)'                      // Chapter (mandatory)
+                    . '([\s,:]+([0-9]+)(-([0-9]+))?)?)'  // 'From' and 'to' verse (optional)
+                    . '$/ui',                            // Terminator
                       // Matches:
                       //  0: Everything
                       //  1: Book and chapter and verses
@@ -31,34 +69,12 @@ function formatref_simple($ref) {
                       //  6: 'From' verse
                       //  7: Hyphen and 'to' verse
                       //  8: 'To' verse
-                      trim($ref),
+                      $ref,
                       $matches)) {
-
-        $book = $matches[2];
-
-        $lowbook = mb_strtolower($book);
-        
-        if (!isset($deabbrev[$lowbook]))
-            throw new ParserException("Den Frie Bibel kender ikke bogen »{$book}«");
-        elseif (!isset($chap[$deabbrev[$lowbook]]) || !in_array($matches[4],$chap[$deabbrev[$lowbook]]))
-            throw new ParserException("Den Frie Bibel har ikke kapitel $matches[4] i " . $title[$deabbrev[$lowbook]]);
-        else {
-            $chapter = $matches[4];
-            $links = 'show.php?bog='
-                   . $deabbrev[$lowbook]
-                   . '&kap=' . $chapter;
-
-            if (!empty($matches[6])) {
-                // 'From' verse is set
-                $links .=  "&fra=" . $matches[6]
-                         . "&til=" . (!empty($matches[8]) ? $matches[8] : $matches[6]);
-            }
-        }
+        return formatref_simple_aux($matches[2],$matches[4],$matches[6] ?? null, $matches[8] ?? null);
     }
     else
-        throw new ParserException('»' . trim($ref) . '« er i et ulovligt format.');
-        
-    return $links;
+        throw new ParserException('»' . $ref . '« er i et ulovligt format.');
 }
 
 mb_internal_encoding('UTF-8');
