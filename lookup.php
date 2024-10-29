@@ -55,6 +55,8 @@ function formatref_simple($ref) {
                       $matches)) {
         return formatref_simple_aux($matches[2],1,$matches[4] ?? null,$matches[6] ?? null);
     }
+    elseif (preg_match('/^([1-5] +)?[a-zæøå]+$/ui',$ref))
+        throw new ParserException("Kapitel skal angives");
     elseif (preg_match('/^((([1-5] +)?[a-zæøå]+)'        // Boook (mandatory)
                     . '\s+([0-9]+)'                      // Chapter (mandatory)
                     . '([\s,:]+([0-9]+)(-([0-9]+))?)?)'  // 'From' and 'to' verse (optional)
@@ -126,7 +128,7 @@ catch (ParserException $e) {
                                 </div>
                             </div>
                         </form>
-                        <p>En liste over forkortelser findes <a href="">her</a>.</p>
+                        <p>En liste over forkortelser findes <a href="#" onclick="$('#bibleBooksModal').modal()">her</a>.</p>
                     </div>
                 </div>
             </div>
@@ -134,3 +136,5 @@ catch (ParserException $e) {
     </div>
  <?php
 }
+
+require_once('booklist.inc.php');

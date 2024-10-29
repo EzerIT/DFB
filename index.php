@@ -43,7 +43,7 @@ $find_bibleref = <<<'END'
                 </div>
             </div>
         </form>
-        <p>En liste over forkortelser findes <a href="">her</a>.</p>
+        <p>En liste over forkortelser findes <a href="#" onclick="$('#bibleBooksModal').modal()">her</a>.</p>
     </div>
 
 END;
@@ -227,7 +227,9 @@ END;
 
 </div><!--End of container-fluid-->
 
-
 <?php
+
+require_once('booklist.inc.php');
+
 endbody();
 ?>
