@@ -5,15 +5,15 @@
 !!<Dato for denne version: 16.07.2019>!!
 ===Anden Mosebog, kapitel 8===
 
-V1 JHVH sagde til Moses: >>Sig til Aron: >Ræk din hånd med staven ud over floderne, over kanalerne og over dammene, og lad frøerne komme op over Egyptens land.<<<
-V2 Aron rakte sin hånd ud over Egyptens vand, og frøen steg op og tildækkede Egyptens land. 
-V3 Men mirakelmagerne{T: Se note til 7,11.} gjorde det samme med deres hemmelige kunster, og de lod frøer komme op over Egyptens land.
-V4 Da kaldte Farao på Moses og på Aron og sagde: >>Bed til JHVH om at han fjerner frøerne fra mig og fra mit folk, så vil jeg lade folket gå så de kan ofre til JHVH.<<
-V5 Moses sagde til Farao: >>Du må have den ære fremfor mig: Hvornår? Jeg vil bede for dig og for dine tjenere og for dit folk om at udrydde frøerne fra dig og fra dine huse; kun i Nilen bliver de tilbage.<<
-V6 Han sagde: >>I morgen.<< Og han sagde: >>Efter dit ord! For at du skal forstå{T: Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: >>lære at kende / indse / vide<<.} at der ikke er nogen som JHVH, vores Gud, 
-V7 skal frøerne forsvinde fra dig og fra dine huse og fra dine tjenere og fra dit folk; kun i Nilen skal de blive tilbage.<<
-V8 Så gik Moses og Aron ud fra Farao; og Mose råbte til JHVH angående sagen med frøerne som han havde påført Farao.
-V9 JHVH gjorde efter Moses’ ord; frøerne døde ud i husene, på gårdspladserne og på markerne.
+v1 JHVH sagde til Moses: >>Sig til Aron: >Ræk din hånd med staven ud over floderne, over kanalerne og over dammene, og lad frøerne komme op over Egyptens land.<<<
+v2 Aron rakte sin hånd ud over Egyptens vand, og frøen steg op og tildækkede Egyptens land. 
+v3 Men mirakelmagerne{T: Se note til 7,11.} gjorde det samme med deres hemmelige kunster, og de lod frøer komme op over Egyptens land.
+v4 Da kaldte Farao på Moses og på Aron og sagde: >>Bed til JHVH om at han fjerner frøerne fra mig og fra mit folk, så vil jeg lade folket gå så de kan ofre til JHVH.<<
+v5 Moses sagde til Farao: >>Du må have den ære fremfor mig: Hvornår? Jeg vil bede for dig og for dine tjenere og for dit folk om at udrydde frøerne fra dig og fra dine huse; kun i Nilen bliver de tilbage.<<
+v6 Han sagde: >>I morgen.<< Og han sagde: >>Efter dit ord! For at du skal forstå{T: Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: >>lære at kende / indse / vide<<.} at der ikke er nogen som JHVH, vores Gud, 
+v7 skal frøerne forsvinde fra dig og fra dine huse og fra dine tjenere og fra dit folk; kun i Nilen skal de blive tilbage.<<
+v8 Så gik Moses og Aron ud fra Farao; og Mose råbte til JHVH angående sagen med frøerne som han havde påført Farao.
+v9 JHVH gjorde efter Moses’ ord; frøerne døde ud i husene, på gårdspladserne og på markerne.
 v10 De dyngede dem op, hob ved hob, og landet stank.
 v11 Men da Farao så at han havde fået lindring, forhærdede han sit hjerte, og han hørte ikke på dem, sådan som JHVH havde sagt.
 
@@ -24,17 +24,17 @@ v14 Mirakelmagerne{T: Se note til 7,11.} gjorde det samme med deres hemmelige ku
 v15 Da sagde mirakelmagerne til Farao: >>Det er Guds finger!<< Men Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som JHVH havde sagt.
 
 ==Fjerde plage: Fluer==
-V16 JHVH sagde til Moses: >>Stå tidligt op om morgenen og stil dig foran Farao;{T: Ordret: >>ved Faraos ansigt<<.} se, idet han går ud til vandet, skal du sige til ham: >Sådan har JHVH sagt: >Lad mit folk gå så de kan dyrke mig<.
-V17 For hvis du ikke lader mit folk gå, se, så slipper jeg fluerne{T: Det hebraiske ord er singularis, men må opfattes kollektivt. Det er omdiskuteret hvad det hebraiske ord * ʕārōv* (>>fluer<<) betyder. Med støtte i Septuaginta har det været oversat: >>bremser<<. Andre foreslår: >>fluesværm<< eller: >>skadedyr<<. Jødiske fortolkere har opfattet det som betegnelse for forskellige rovdyr eller parasitter.} løs over dig og over dine tjenere og over dit folk og i dine huse så Egyptens huse bliver fulde af fluerne, og tilmed jorden som de er på.
-V18 Og på samme dag vil jeg udskille Goshens land, som mit folk opholder sig i, så der ikke skal være fluer dér, for du skal forstå{T: Se note til vers 6.} at jeg, JHVH, er midt i landet.{T: Meningen er formodentlig at JHVH ikke blot har magt i Israels land, men også i Egypten. En anden mulig oversættelse er: >>er midt på jorden<<. Meningen er da at Israels Gud er Herre over hele jorden.}
-V19 Og jeg vil sætte en forløsning{T: Oversættelsen her af *pᵊdût* omdiskuteret. Det skal oftest oversættes: >>forløsning/udfrielse/løsepenge<<. Mange oversættere følger dog Septuaginta (og til dels den gamle syriske oversættelse og Vulgata) der oversatte ved: *diastolæ*: >>skel<<. Men den hebraiske tekst vil uden tvivl markere at det er et frelsestegn.} mellem mit folk og dit folk. I morgen skal dette tegn ske.<<<
+v16 JHVH sagde til Moses: >>Stå tidligt op om morgenen og stil dig foran Farao;{T: Ordret: >>ved Faraos ansigt<<.} se, idet han går ud til vandet, skal du sige til ham: >Sådan har JHVH sagt: >Lad mit folk gå så de kan dyrke mig<.
+v17 For hvis du ikke lader mit folk gå, se, så slipper jeg fluerne{T: Det hebraiske ord er singularis, men må opfattes kollektivt. Det er omdiskuteret hvad det hebraiske ord * ʕārōv* (>>fluer<<) betyder. Med støtte i Septuaginta har det været oversat: >>bremser<<. Andre foreslår: >>fluesværm<< eller: >>skadedyr<<. Jødiske fortolkere har opfattet det som betegnelse for forskellige rovdyr eller parasitter.} løs over dig og over dine tjenere og over dit folk og i dine huse så Egyptens huse bliver fulde af fluerne, og tilmed jorden som de er på.
+v18 Og på samme dag vil jeg udskille Goshens land, som mit folk opholder sig i, så der ikke skal være fluer dér, for du skal forstå{T: Se note til vers 6.} at jeg, JHVH, er midt i landet.{T: Meningen er formodentlig at JHVH ikke blot har magt i Israels land, men også i Egypten. En anden mulig oversættelse er: >>er midt på jorden<<. Meningen er da at Israels Gud er Herre over hele jorden.}
+v19 Og jeg vil sætte en forløsning{T: Oversættelsen her af *pᵊdût* omdiskuteret. Det skal oftest oversættes: >>forløsning/udfrielse/løsepenge<<. Mange oversættere følger dog Septuaginta (og til dels den gamle syriske oversættelse og Vulgata) der oversatte ved: *diastolæ*: >>skel<<. Men den hebraiske tekst vil uden tvivl markere at det er et frelsestegn.} mellem mit folk og dit folk. I morgen skal dette tegn ske.<<<
 v20 JHVH gjorde sådan; der kom en mængde fluer{T: Ordret: >>tung flue(sværm)<<.} ind i Faraos hus og i hans tjeneres hus, og i hele Egyptens land blev landet fordærvet af fluerne.
 v21 Så kaldte Farao på Moses og på Aron, og han sagde: >>Gå hen og bring ofre til jeres Gud her i landet.<<
 v22 Men Moses sagde: >>Det er ikke i orden at gøre sådan, for det vi ofrer til JHVH, vores Gud, er afskyeligt for Egypten. Så hvis vi ofrer det der er afskyeligt for Egypten, for øjnene af dem, vil de så ikke stene os?
 v23 Vi vil gå tre dages rejse ud i ørkenen, og vi vil ofre til JHVH, vores Gud, sådan som han siger til os.<<
 v24 Da sagde Farao: >>Jeg vil lade jer gå, så I kan ofre til JHVH, jeres Gud, i ørkenen, men I må bestemt{T: Den hebraiske tekst har verbet *rḥq* (>>fjerne / tage langt væk<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} ikke gå langt væk. Bed for mig!<<
 v25 Moses sagde: >>Se, jeg går bort fra dig, og jeg vil bede til JHVH, og fluerne vil forsvinde fra Farao og fra hans tjenere og fra hans folk i morgen. Kun må Farao ikke fortsætte med at bedrage så han ikke lader folket gå ud for at ofre til JHVH.<<
-V26 Så gik Moses ud fra Farao og bad til JHVH.
-V27 Og JHVH gjorde efter Moses’ ord, og fluerne forsvandt fra Farao, fra hans tjenere og fra hans folk; der blev ikke én tilbage.
-V28 Men Farao forhærdede sit hjerte også denne gang og lod ikke folket gå.
+v26 Så gik Moses ud fra Farao og bad til JHVH.
+v27 Og JHVH gjorde efter Moses’ ord, og fluerne forsvandt fra Farao, fra hans tjenere og fra hans folk; der blev ikke én tilbage.
+v28 Men Farao forhærdede sit hjerte også denne gang og lod ikke folket gå.
 
