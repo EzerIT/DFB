@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 20.11.2024>!!
 
 ===Jobs bog, kapitel 15===
 
@@ -15,54 +14,55 @@
 
 //2 v2 >>Vil en vis mand svare med kundskab der bare er vind,
 
-//5 og fylde sit indre med østenvind?
+//5 eller vil han fylde sin mave
+ med østenvinden
 
-//4 v3 Vil han bevise med ord
-//6 der ikke gavner, 
+//4 v3 ved at forsvare sig med ord
+//6 der er til ingen nytte, 
 
 //5 ord 
-//6 der er uden værdi for dem?
+//6 der er uden værdi i sig?
 
-//3 v4 Du nedbryder endog gudsfrygt,{T: Ordret: >>frygt<<.}
+//3 v4 Endog nedbryder du gudsfrygt,{N: Frygt}
 
-//6 og du svækker andagten {T: Kan oversættes >>klagen<<.} for Guds ansigt.
+//6 og du svækker fordybelse foran Guds ansigt.
 
-//5 v5 For din overtrædelse belærer din mund,
+//5 v5 For det er din egen skyld der oplærer din mund,
 
-//6 og du vælger de snediges tunge.
+//6 og du vælger de snediges{H: 1 Mos 3,1.} tunge.
 
-//4 v6 Din mund dømmer dig skyldig,
+//4 v6 Din egen mund dømmer dig skyldig,
 //8 ikke jeg,
 
-//7 men dine læber vidner imod dig.
+//7 og dine læber vidner imod dig.
 
-//6 v7 Blev du født som den første af mennesker,
+//6 v7 Var du det første Menneske{H: 1 Mos 4,1} der blev født,
 
-//8 blev du bragt til verden før højene?
+//8 blev du bragt til verden før højene? {H: Ordsp 8,25.}
 
-//7 v8 Lyttede du da Gud holdt råd,{T: Ordret: >>Guds råd<<.}
+//7 v8 Lyttede du da Gud holdt råd,{H: Job 1,6. 1 Mos 1,26}
 
 //10 og holder du visdommen for dig selv?
 
 //9 v9 Hvad ved du
 //12 som vi ikke ved?
 
-//11 Har du en indsigt
+//11 Har du en forståelse
 //12 som vi ikke har? 
 
-//10 v10 Der er både gråhårede og ældgamle blandt os,
+//10 v10 Der er både gråhårede og gamle{H: Job 12,12.} iblandt os,
 
-//11 rigere på dage end din far. 
+//11 ældre af dage end din far. 
 
-//8 v11 Er Guds trøst{T: Flertal, der menes vennernes taler.} dig for ringe,
+//8 v11 Er Guds trøst dig for ringe,
 
-//11 et ord talt i mildhed med dig?
+//11 ord talt i mildhed med dig?
 
 //10 v12 Hvorfor lader du dig rive med af dit hjerte,
 
-//13 hvorfor lyner{T: Ordret: >>blinker, glimter<<.} dine øjne?
+//13 hvorfor lyner dine øjne?
 
-//12 v13 For du vender din vrede{T: Ordret: >>din ånd<<.} mod Gud, 
+//12 v13 For du vender din vrede{N: Ånd.}{H: Job 4,9.} mod Gud 
 
 //13 og har ladet ordene strømme ud af din mund.
 
@@ -71,97 +71,98 @@
 
 
 //11 v14 Hvad er et menneske
-//12 at det skulle være rent,
+//12 at det kunne være rent,
 
-//13 og at en, født af en kvinde, skulle være retfærdig?
+//13 og at det kunne være retfærdigt,{H: Job 4,17; 25,3.} en der er født af en kvinde?{H: Job 14,1.}
  
-//9 v15 Se,
-//10 på sine hellige stoler han ikke,
+//9 v15 Når
+//10 han ikke stoler på sine hellige{H: Job 4,18; 5,1}, 
 
-//12 og himlen er ikke ren i hans øjne;
+//12 og himlen ikke er ren{H: Job 25,5} i hans øjne;
 
-//11 v16 hvor meget mindre den afskyelige 
+//11 v16 hvor meget mindre da den afskyelige{H: Job 9,31. 5 Mos 7,26.} 
 //12 og den fordærvede,
 
-//13 en mand der drikker uret som vand!{T: Sml. Job 34,7.}
+en mand
+//13 der drikker uret som vand!{H: Job 34,7}
 
 
 ==Fædrene siger at Gud straffer ugudelige, og Elifaz mener Job==
 
 
-//5 v17 Jeg vil forkynde for dig,
-//6 lyt til mig!
+//5 v17 Jeg vil forkynde dig,
+//6 så lyt til mig!
 
-//8 Dette har jeg set,
+//8 Dette har jeg set,{E: *ḥzh* (>>skue<<) formentlig i et syn.}{H: 4,8.}
 //9 og lad mig berette
 
-//10 v18 det som de vise fortæller,
+//10 v18 det som de vise har fortalt,
 
-//12 og som de ikke har skjult fra deres fædre,
+//12 og som de ikke har skjult fra deres fædre.
  
-//11 v19 - til dem alene blev landet givet,
+//11 v19 Til dem alene blev landet givet,
 
-//12 og ingen fremmed{T: Dermed ingen fremmed lære el.lign.} drog omkring{T: Kan oversættes >>drog igennem<<.} i deres midte -:
+//12 og ingen fremmed drog omkring i deres midte. 
 
-//7 v20 Alle sine dage vrider den ugudelige sig i angst.
+//7 v20 >Alle sine dage ligger den ugudelige og vrider sig i smerte.
 
-//10 Et antal år er bestemt{T: Ordret: >>gemt<<.} til voldsmanden.
+//10 Et antal år er gemt til voldsmanden.
 
-//9 v21 Lyde af rædsel er i hans ører,
+//9 v21 Lyden af rædsler når hans ører,
 
 //10 midt i freden kommer ødelæggeren over ham.
 
-//8 v22 Han tror ikke
-//13 at han vender tilbage fra mørket,
+//8 v22 Han tror ikke 
+//13 at han vender tilbage fra mørket, {H: Job 10,21.}
 
-//12 men at han er udset til at falde for{T: >>at falde for<< er tilføjet.} sværdet.
+//12 men at han er udset til sværdet.
 
-//11 v23 Han flakker omkring efter brød,{T: Det kan tolkes bogstaveligt, men også figurativt, som ondskab.}
+//11 v23 Han flakker omkring efter brød,
 //12 hvor er det?
 
 //10 Han ved
-//11 at en mørkets dag står klar til ham.{T: Kan også oversættes >>ved hans side<<.}
+//11 at en mørkets dag står klar ved hans side.
 
-//9 v24 Nød og trængsel overvælder ham,
+//9 v24 Nød og trængsel skræmmer ham,
 
 //10 de besejrer ham som en konge
 
 //12 der er klar til angreb.
 
-//11 v25 For han har rakt sin hånd ud mod Gud,
+//11 v25 For han har strakt sin hånd ud mod Gud,
 
-//13 og han viser sig selv stærk{T: Dvs. han ophøjer sig selv.}over for den Almægtige.
+//13 og han ophøjer sig selv over for den Almægtige.
 
-//12 v26 Han løber mod ham med knejsende nakke,{T: >>knejsende<< er tilføjet.} 
+//12 v26 Han løber mod ham med krum hals 
 
- med sine kraftige buede skjolde,
+ med sine massive buede skjolde,
 
-//11 v27 for han har dækket sit ansigt til med sit fedt,{T: Kan også betyde >>det bedste<<, her >>sin ondskab<<.}
+//11 v27 for han har dækket sit ansigt til med sit fedt,
 
-//12 og han har lagt spæk {T: Betydningen er her >>grov ondskab<<.}om sin lænd.
+//12 og han har lagt spæk om sin lænd.
 
-//12 v28 Han bosætter sig i ødelagte byer,
+//12 v28 Han bosætter sig i byer der er ødelagte,
 
 //13 i huse
-//15 som ingen skal bo i,
+//15 ingen skulle bo i,
 
-//14 som er bestemt til ruinbunker.
+//14 som var bestemt til ruindynger.
 
 //8 v29 Han bliver ikke rig,
 //9 og hans rigdom varer ikke ved,
 
-//9 hans aks {T: Ordret: >>velstand<<.} bøjer sig ikke til jorden.{T: Betydningen er ringe udbytte.}
+//9 deres ejendom strækker sig ikke ud over landet. 
 
-//8 v30 Han kommer ikke ud af mørket,
+//8 v30 Han slipper ikke ud af mørket.
 
-//11 flammen{T: Dvs. Guds dom.} vil udtørre hans skud,
+//11 Heden{T: Ordret: >>flamme<<.} udtørrer hans skud,
 
-//10 og han må vige ved hans{T: Dvs. Guds.} munds åndepust.
+//10 og han må vige ved hans{T: Dvs. Guds.} munds åndepust.{N: Ånd}
 
-//9 v31 Lad ham ikke sætte sin lid til tomhed,
+//9 v31 Lad ham ikke sætte sin lid til løgn,
 //11 han vil blive ført vild,
 
-//10 for han får tomhed til gengæld.
+//10 for han vil få løgn til gengæld.
 
 //12 v32 Før hans dag er kommet, fuldendes det,
 
@@ -169,13 +170,13 @@
 
 //11 v33 Som vintræet kaster han sine umodne druer,
 
-//13 som oliventræet kaster han sine blomster.{T: Ental}
+//13 som oliventræet smider han sine blomster.
 
 //12 v34 For en gudløs flok er gold,
 
-//14 og ild æder bestikkernes telte. 
+//14 og ild fortærer korruptes{T: Ordret: >>bestikkeres<<.} telte. 
 
-//13 v35 De undfanger ulykke 
-//15 og føder uret,
+//13 v35 De undfanger  ondskab{H: Job 3,10; 5,7; 11,16.} 
+//15 og føder uret,{H: Job 4,8.}
 
-//14 og i deres indre forbereder de forræderi.<<
+//14 og i deres indre gør de klar til bedrag.<<<

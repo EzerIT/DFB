@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 20.11.2024>!!
 
 ===Jobs bog, kapitel 16===
 
@@ -15,118 +14,117 @@
 
 //2 v2 >>Jeg har hørt meget som dette.
 
-//7 Elendige trøstere er I alle!
+//7 Elendige trøstere, det er hvad I alle er!
 
-//6 v3 Er det slut med luftige ord,
+//6 v3 Er det slut med ord i den ånd,{N: Ånd.}{H: Job 15,2.}
 
-//7 eller hvad provokerer dig {T: Underforstået >>Elifaz<<.}
+//7 eller hvad provokerer dig
 //8 til at svare?
 
 //5 v4 Lad også mig tale ligesom jer!
 
-//8 Hvis I havde været i mit sted
+//8 Hvis I{N: Sjæl.} havde været i mit{N: Sjæl.} sted,  
 
-//7 da ville jeg sætte fine ord sammen til jer,
+//7 ville jeg have valgt de mest udsøgte ord til jer,
 
-//9 og jeg ville ryste på hovedet over jer.{T: Denne oversættelse udtrykker en helt igennem positiv indstilling hos Job. Sml. Job 6,14. Vers 4,3-4 kan også oversættes: >>da kunne jeg sætte fine ord sammen imod jer, og jeg kunne ryste på hovedet over jer<<. Denne oversættelse antyder en modsætning i forhold til det efterfølgende vers 5. Begge tolkninger er mulige.} 
+//9 og jeg ville have rystet på hovedet over jer.{T: I lyset af Jobs udtalelse i Job 6,14 er det i medfølelse.}  
 
-//8 v5 Jeg ville styrke jer med min mund,
+//8 v5 Jeg ville have styrket jer med mine ord,
 
-//9 og mine læbers medfølelse ville jeg ikke holde tilbage.{T: Kan oversættes >>mine læbers medfølelse ville lindre<<. Se Job 6,14ff.}
-
+//9 og min læbers medfølelse ville blive tilbage.{T: Dvs. mine læbers medfølelse findes hele tiden.} 
 
 ==Job klager over at Gud er blevet hans fjende==
 
 
-//6 v6 Taler jeg,
+//6 v6 Når jeg taler,
 //8 bliver min smerte ikke lettet,
 
-//7 og lader jeg være,
-//8 hvad lindring får jeg af det?{T: Ordret: >>hvad går væk fra mig?<<.}
+//7 men lader jeg være,
+//8 hvordan går den da væk? 
 
-//4 v7 Ja, nu har han{T: Gud.} udmattet mig. 
+//4 v7 Men nu har han virkelig udmattet mig! 
 
-//7 Du har udryddet alle mine nærmeste! 
+//7 Du fjernede hele min omgangskreds!{T: Ordret: >>lagt hele min forsamling øde<<.} 
 
-//8 v8 Du greb mig,
-//6 det blev som et vidnesbyrd mod mig,{T: >>mod mig<< er tilføjet.}
+//8 v8 og så greb du fat i mig.
+//6 Det er blevet et vidne,
 
-//9 og min magerhed har rejst sig imod mig
-//8 og vidner imod mig.
+//9 og min udmagrede krop{E: Den hyppigste betydning af *kaḥaš* er >>løgn, bedrag<<, her da brugt om et falsk vidne som står frem.} har rejst sig imod mig
+//8 og vidner for mit ansigt.
 
-//7 v9 Hans vrede sønderriver mig,
-//9 og han forfølger mig,
+//7 v9 Hans vrede har sønderrevet mig,
+//9 og han fortsatte med at angribe mig,
 
-//8 han skærer tænder imod mig,
+//8 han skar tænder imod mig.
 
-//9 min fjende skærper sine øjne mod mig.
+//9 Min fjende skærper nu sine øjne{H: Job 14,3} mod mig.
 
 //10 v10 De har spærret munden op mod mig,
 
-//11 med beskyldninger{T: Kan også oversættes med >>hån<<.} har de slået mig på kinden,
+//11 hånende har de slået mig på kinden,
 
-//12 alle har de slået sig sammen mod mig.
+//12 sammen ophidser de hinanden mod mig.
 
-//5 v11 Gud udleverer mig til en uretfærdig
+//5 v11 Gud har udleveret mig til en forbryder{E: MT har *ʕᵃwîl* (>>dreng<<). De fleste ændrer til *ʕawwāl* (>>forbryder<<) som i Job 27,7.} 
 
-//8 og styrter mig i hænderne på de ugudelige.
+//8 og kastet mig i hænderne på ugudelige.
 
-//7 v12 Jeg levede i ro,
-//10 og han knækkede mig,
+//7 v12 Jeg var tryg,
+//10 men så rystede han mig,
 
 //9 han greb fat i min nakke
-//10 og slog mig i stykker, 
+//10 og knuste mig. 
 
-//10 og han stillede mig op for sig som skydeskive.{T: Ordret: >>mål<<.}
+//10 Han stillede mig op som sin skydeskive.{H: Klages 3,12.}
 
-//11 v13 Hans skytter omringer mig,
+//11 v13 Hans pile{H: Jer 50,29.} kommer imod mig fra alle sider,
 
-//12 han kløver mine nyrer
-//13 uden barmhjertighed,{T: I betydningen: >>han skåner intet<<.}
+//12 han gennemborer mine nyrer,
+//13 han skåner ikke.
 
-//12 han hælder min galde ud på jorden.
+//12 Han hælder min galde ud på jorden.
 
-//13 v14 Han giver mig det ene åbne brud efter det andet,{T: Figurativt om Guds vredesudbrud.}
+//13 v14 Han giver mig det ene åbne brud efter det andet, 
 
 //14 han løber imod mig som en kriger.
 
-//8 v15 Jeg har syet en sæk over min hud,
+//8 v15 Jeg har syet en sæk over min hud
 
-//10 jeg har stukket mit horn i støvet.{T: >>Horn<< er udtryk for styrke, figurativt her om Jobs ydmygelse.}
+//10 og jeg har lagt mig med al min styrke{T: Ordret: >>stukket mit horn i støvet<<.} i støvet.
 
-//9 v16 Mit ansigt er rødt af gråd, 
+//9 v16 Mit ansigt blusser af gråd, 
 
-//10 og over mine øjenlåg ligger dødsskyggen.
+//10 og over mine øjenlåg ligger dybt mørke,
 
-//11 v17 Ingen vold er på mine hænder,
+//11 v17 skønt der ingen vold er i mine hænder,
 
-//12 og min bøn er ren.
+//12 og min bøn er ren.{H: Job 11,4}
 
 
 ==Mit vidne er i himlen==
 
 
-//6 v18 Jord,
+//6 v18 >Jord,
 //7 dæk ikke mit blod til,
 
-//8 og lad der ikke være noget hvilested{T: Ordret: >>sted<<.} for mit skrig!
+//8 og lad der ikke være nogen plads til mit skrig om hjælp!<
 
 //3 v19 Også nu, 
 //4 se,
-//5 mit vidne er i himlen,
+//5 i himlen er mit vidne,{H: Job 16,8.}
 
-//8 og mit vidne{E: *śāhᵃdî* er aramæisk, og forekommer kun her og i 1 Mos 31,47. Det har samme betydning som det hebraiske *ʕēdî* >>vidne<<.} er i det højeste!
+//8 mit hovedvidne{E: *śāhᵃdî* er aramæisk, og forekommer kun her og i 1 Mos 31,47. Det har samme betydning som det hebraiske *ʕēdî* >>vidne<<.} er i det højeste!
 
-//7 v20 Mine venner spotter mig,{E: Verbet *mᵊlîṣay* (perfektum participium) har to betydninger. Det kan dels betyde >>spotter mig<<, men det kan også betyde >>være forsvarer<<, >>tolk<<. Nogle opfatter verbet som et substantiv(perfektum participium)og oversætter det >>min forsvarer er<<, >>min tolk er<<. >>Mine venner<<(subjektet) *rēʕāʸ* kan oversættes som prædikat >>min ven<<, den masoretiske tekst kan tolkes både som ental og flertal her.}
+//7 v20 Mine venner håner mig.{E: *mᵊlîṣay* hifil participium af lîṣ (>>håne<<). Hvis vokaliseringen ændres til *mᵊlîṣîy*, kan det have betydningen en tolk eller en udsendning som i Job 33,23.}{H: 1 Mos 42,43.}
 
-//6 mine øjne ser med tårer til Gud.
+//6 Mine øjne ser til Gud med tårer.
 
-//8 v21 Han vil tale menneskets sag{T: Ordret: >>for mennesket<<.} med Gud{T: Se Job 9,33.}
+//8 v21 Han skal forsvare{H: Job 9,33; 13,3.15.} en mand over for Gud,
 
-//9 som en menneskesøn beder for{T: >>Beder for<< er tilføjet.} sin ven.
+//9 som en menneskesøn{H: Sl 8,4.}forsvarer sin ven.
 
-//7 v22 For der går nogle år,{T: Ordret: >>et antal år<<.}
+//7 v22 For der går nogle få år endnu.
 
-//8 så vil jeg gå ad en vej jeg ikke vender tilbage til.<<
-//10
-//9
+//8 Den vej
+//10 jeg ikke kan vende tilbage fra,{H: Job 10,21}
+//9 vil jeg da gå!<<

@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 21.11.2024>!!
 
 ===Jobs bog, kapitel 20===
 
@@ -13,13 +12,13 @@
 //0 v1 Da svarede Sofar fra Na’ama
 //1 :
 
-//2 v2 >>Derfor bringer mine foruroligende tanker mig tilbage,
+//2 v2 >>Derfor bringer mine foruroligende tanker{H: Job 4,13.} mig tilbage,
 
-//5 og jeg er rystet i mit indre.{T: Ordret:>>min hasten i mig<<.}
+//5 også på grund af at de smerter{E: *ḥwš*,  >>være pinefuldt<<. *ḥwš* kan også betyde >>skynde sig<<, og der oversættes >>fordi det går så hurtigt for mig<<.} mig.
 
-//4 v3 Jeg hører irettesættelse der krænker mig,
+//4 v3 Jeg hører irettesættelse der håner mig,
 
-//5 og ånden{T: Kan oversættes >>vinden<<, en henvisning til vinden i Jobs ord i Job 16,3: >>luftige ord<<.} giver mig indsigt til at svare.
+//5 men ånden{N: Ånd.} der giver mig indsigt, svarer mig.{H: Job 16,3.}
 
 
 ==Den gudløses lykke er kortvarig==
@@ -27,122 +26,124 @@
 
 //3 v4 Ved du ikke dette fra fortiden,
 
-//5 lige siden mennesket blev sat på jorden,
+//5 lige siden han satte mennesket på jorden,
 
 //4 v5 at de ugudeliges jubel er kortvarig,
 
 //7 og den gudløses glæde varer blot et øjeblik.
 
-//6 v6 Selvom hans ophøjethed når op til himlene,
+//6 v6 Selvom hans ophøjethed nåede helt op til himlen,
 
-//9 og hans hoved rører ved skyerne,{T: Ordret: >>skydække<<.}
+//9 og hans hoved rørte ved skydækket,
 
-//8 v7 vil han som sit eget skarn  gå til grunde for evigt.
+//8 v7 ville han som sin egen afføring gå til grunde for evigt.
 
 //10 De som har set ham, vil sige:
 //11 >Hvor er han?<
 
-//9 v8 Som en drøm flyver han bort,
+//9 v8 Som en drøm er han væk,
 //13 og de finder ham ikke.
 
-//12 Han bliver jaget bort som et syn om natten.
+//12 Han forsvinder som et syn{H: Job 4,13.} om natten.
 
-//11 v9 Øjet, som har set ham,
-//12 ser ham ikke igen,
+//11 v9 Øjet, som ser ham,{H: Job 7,8.}
+//12 ser ham ikke mere,
 
-//13 og det skal ikke se ham mere, ej heller hans sted.{E: Verbet *tᵊšûrennû* er 3FSg og må have *ʕayin*(øjet) som subjekt. Flere oversætter imidlertid *mᵊqômô*(hans sted), der er maskulinum, som subjekt. Sml. Job 24,15.}
+//13 og det skal ikke igen se ham, og heller ikke hans sted.{E: Verbet *tᵊšûrennû* er 3. person femininum singularis og må have *ʕayin* (>>øjet<<), måske Guds øje, som subjekt. Flere oversætter imidlertid *mᵊqômô* (>>hans sted<<), der er maskulinum, som subjekt.}{H: Job 24,15.}
 
-//10 v10 Hans sønner skal søge de fattiges gunst,
+//10 v10 Hans sønner må bønfalde de fattige om velvilje,
 
-//12 og hans hænder skal bringe hans rigdom tilbage.
+//12 og hans hænder må give hans rigdom tilbage.
 
 //11 v11 Hans knogler har været fulde af ungdommelig livskraft,
 
-//12 men nu ligger{E: *tiškāv* (3FSg) må henføre til *ʕaṣmôtāʸw*(hans knogler), der er femininum pluralis selvom verbet er singularis.} de med ham i støvet.
+//12 men nu ligger de med ham i støvet.
 
 //7 v12 Selvom ondskab giver ham en sød smag i munden,
 
-//9 og han skjuler den under tungen,
+//9 og han gemmer den under tungen,
 
-//10 v13 han passer på den 
-//11 og giver den ikke fra sig,
+//10 v13 nyder den 
+//11 og opgiver den ikke,
 
-//12 men holder den tilbage i sin gane,
+//12 men holder den tilbage i ganen,
 
-//8 v14 så forvandler hans brød sig i hans mave
+//8 v14 så omdannes dog brød i hans tarme
 
 //10 og bliver til slangegift i hans indre.
 
 //9 v15 Han har slugt rigdom,
-//12 men må kaste den op,
- 
-//11 Gud skal drive den ud af hans mave.
 
-//10 v16 Han suger slangegift,
+//12 men må kaste den op, 
+//11 Gud driver den ud af hans mave.
+
+//10 v16 Han suger kobraens{T: Formodentlig.} gift,
 
 //13 hugormens tunge dræber ham.
 
-//14 v17 Lad ham ikke se strømme, floder der er bække af honning og surmælk!{T: I det kendte udtryk for frugtbarhed, >>mælk og honning<<, se 2 Mos 3,8, er >>mælken<< her skiftet ud med >>surmælk<<. Udtrykket >>surmælk og mælk<< forekommer også flere steder. Se 1 Mos 18,8, 5 Mos 32,14.}
+//14 v17 Lad ham ikke se strømme af oliven,{T: >>Oliven<< tilføjet ligesom i Job 29,6.} 
 
-//12 v18 Han må give udbyttet tilbage
-//16 uden at udnytte{T: Ordret: >>fortære<<.}  det;
+floder der flyder{T: Ordret: >>bække<<.} med honning og surmælk{H: 1 Mos 18,8. 2 Mos 3,8.}
 
-//15 ligesom han ikke kan glæde sig over sin erhvervede rigdom.
-//16 
+//12 v18 mens han giver udbyttet tilbage
+//16 uden at kunne udnytte{T: Ordret: >>fortære<<.} det!
 
-//14 v19 For han har knust,{T: Kan oversættes >>undertrykt<<.} 
-//15 svigtet de fattige,
+//15 Over sin erhvervede rigdom
+//16 kan han ikke glæde sig.
 
-//16 han har revet huse til sig
-//17 han ikke har bygget.{T: Kan også oversættes: >>og han genopbygger dem ikke<<.}
+//14 v19 For han har knust 
+//15 og efterladt de fattige,
 
-//13 v20 Ja, han kender ikke til velvære i sin mave,{T: Se vers 15.}
+//16 han har revet huse til sig,
+//17 men ikke bygget dem.
 
-//14 han reddes ikke ved sine skatte.
+//13 v20 Fordi han ikke kender til ro i sit indre,
 
-//15 v21 Intet er tilbage 
-//17 for ham at fortære,
+//14 vil han ikke give slip på det han har lyst til.
 
-//16 derfor varer hans lykke{T: Ordret: >>hans godhed<<.} ikke ved.
+//15 v21 Ingen har overlevet
+//17 hans grådighed,
 
-//12 v22 Midt i al hans overflod
+//16 derfor varer hans velstand ikke ved.
+
+//12 v22 Midt i al sin overflod
 //11 kommer han i nød,
 
-//15 lidelse kommer over ham for fuld styrke.
+//15 med fuld kraft{T: Ordret: >>hånd<<.} rammer elendigheden ham 
 
-//14 v23 Det skal ske:{T: Kan oversættes: >>Lad det ske<<.}
-//16 Når han fylder sin mave,
+//14 v23 Må Gud,{T: >>Gud<< er tilføjet.} 
+//16 når han fylder sin mave,
 
-//15 sender Gud{T: Ordret: >>han<<. Gud er nævnt 2 gange i vers 29.} sin glødende vrede{E: *ḥᵃrôn* bruges altid om Guds vrede.} imod ham,
+//15 sende sin glødende vrede imod ham,
  
-//17 han sender regn ned over ham mens han fylder sin bug.{T: Ordret: >>tarm<<. Kan også oversættes: >>fordi han fylder sin bug<<.} 
+//17 og må han lade sin ammunition regne ned over ham. 
 
-//16 v24 Han flygter fra våben af jern,
+//16 v24 Må han flygte fra våben af jern,
 
-//17 en pil{T: >>en pil<< er tilføjet.} fra en bue af bronze gennemborer ham.
+//17 må et pilehoved af bronze fra en bue af bronze{ T: >>pilehoved af bronze<< er tilføjet for forståelsen.} gennembore{H: Dom 5,26.} ham.
 
-//18 v25 Han har trukket den{T: Pilen er underforstået.} ud,
+//18 v25 Han har trukket pilen ud,
 //19 og den kommer ud af ryggen,
 
-//20 en glimtende pilespids{T: >>pilespids<< er tilføjet.} kommer ud fra hans galdeblære,
+//20 en glimtende spids kommer ud af hans galdeblære.
 
-//13 rædsel kommer over ham.
+//13 Rædsel kommer over ham.
 
-//12 v26 Al mørket er gemt til hans skatte,
+//12 v26 Al mørke reserveres til til hans skatte,
 
-//13 en ild vil fortære ham
+//13 en ild vil fortære{H: Job 20,18} ham
 //16 uden at der er pustet til den,
 
-//15 de der er tilbage i hans telt, vil blive ødelagt.{E: *yēraʕ* er en imperfektum af *Rʕʕ* og har flere betydninger >>være ond<<, >>ødelægge<< eller intrans. >>ødelægges<<. Det kan også afledes af verbet *RʕH*, der betyder >>sørge for<<. Set i lyset af Mika 5,5, hvor >>sørge for<< er knyttet til sværd, kan der også oversættes >>de der er tilbage i hans telt vil der blive sørget for<<, dvs. ilden vil også fortære dem.}
-
-//14 v27 Himlen skal afsløre hans overtrædelse,
+//15 overlevende i hans telt vil blive tilintetgjort.{H: Job 8,22; 15,34}
+ 
+//14 v27 Himlen vil afsløre hans skyld,
 
 //16 og jorden skal rejse sig imod ham.
 
-//15 v28 Afgrøden i hans hus skal forsvinde,
+//15 v28 Hans hus’ udbytte føres bort.
 
-//16 på hans{T: Guds} vredes dag skylles alt{E: Verbet *niggārôt* er en participium, pluralis og henfører ikke grammatisk til noget, men meningsmæssigt må det være >>alt, hele afgrøden og huset<<.} bort.{T: Dvs. alt går til ved en oversvømmelse.}
+//16 på hans vredes dag bliver alt skyllet væk.
 
 //5 v29 Det er den lod det ugudelige menneske tildeles af Gud,
 
-//6 den arv der er bestemt for ham af Gud.<<
+//6 den arv der er bestemt for ham af Gud.<<{H: Job 19,29.}

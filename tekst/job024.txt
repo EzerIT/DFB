@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 20.11.2024>!!
 
 ===Jobs bog, kapitel 24===
 
@@ -10,65 +9,65 @@
 ==Job klager i sin ottende tale over social uretfærdighed==
 
 
-//0 v1 Hvorfor er tiderne{T: Dvs. for dom} ikke bestemt{E: *niṣpᵊnû* har to betydninger i Jobs bog. I Job 15,20b >>bestemme<< og i Job 21,19a >>gemmer<<.} af den Almægtige,{E: Oversættelsen er vanskelig. Nogle opfatter *maddûₐʕ* (hvorfor) som hørende til vers 1b, og oversætter *niṣpᵊnû* (være bestemt) med >>skjult<<, så oversættelsen bliver: >>Når tiderne ikke er skjult for den Almægtige, hvorfor ser de der kender ham, ikke hans dage?<<. Udsagnet her kan dog også opfattes som udtryk for Jobs mørke, frustration og kritik af vennernes gengældelseslære.}
+//0 v1 Hvorfor, når tiderne ikke er skjult for den Almægtige, 
 
-//3 hvorfor ser de der kender ham, ikke hans dage?
+//3 ser de der kender ham, ikke hans dage?
 
-//2 v2 Folk{T: Ordret: >>De<<} flytter markskel,
+//2 v2 De flytter markskel,
 
-//3 røver hjorde
+//3 de stjæler en flok får og geder
 //4 og vogter dem.
 
-//2 v3 De driver  de faderløses æsler bort,
+//2 v3 De jager de faderløses æsler bort,
 
 //5 tager enkens okse i pant.
 
-//5 v4 De skubber de nødlidende bort fra vejen,
+//5 v4 De fører de nødlidende bort fra vejen,
 
 //6 landets fattige må alle sammen skjule sig.
 
-//4 v5{T: Fra at tale om de ugudelige skifter Job nu i vers 5-8 til en beskrivelse af de fattiges situation.} Se, som vildæslerne i ørkenen
+//4 v5 Se, som vildæsler i ørkenen
 
-//7 går de ud til deres arbejde,
+//7 drager de ud til deres arbejde,
 
-//8 de søger efter føde,
+//8 idet de søger efter føde,
 
-//6 steppen giver dem brød til børnene.{T: Ordret: >>unge drenge<<.}
+//6 selv ødemarken giver dem brød til deres børn.
 
-//5 v6 De høster hans foder{T: Det er uvist hvem >>hans<< er, måske den ugudelige, se vers 6b, andre oversætter >>deres<<, men flere udelader det helt.} på marken,
+//5 v6 På den åbne mark samler de hans foder,
 
-//7 de samler de sidste druer{E: *yᵊlaqqēšû* er en hapax(findes kun her), og oversættelsen er usikker, men svarer til bestemmelsen for den fattige ifølge Moseloven, se 3 Mos 19,9-10 og 5 Mos 24,19-22.} i den ugudeliges vingård. 
+//7 de indsamler de sidste druer{H: 3 Mos 19,9-10. 5 Mos 24,19-22.} i den ugudeliges vingård. 
 
 //6 v7 Nøgne ligger de om natten uden tøj,
 
-//8 uden dække for kulden.
+//8 og uden dække for kulden.
 
 //7 v8 De bliver gennemblødt af bjergenes regnskyl,
 
-//8 de klynger sig til klippen fordi de ikke har noget tilflugtssted.
+//8 uden et shelter må de klynge sig til klippen.
 
-//3 v9{T: Job taler her om >>de ugudelige<<, nogle flytter derfor vers 9 til mellem vers 3 og 4. De efterfølgende vers er om >>de fattige<<.} De river det faderløse barn fra brystet,
+//3 v9 De river en faderløs fra mors bryst,
 
-//8 fra den fattige tager de pant.
+//8 og fra den fattige tager de pant.
 
 //7 v10 Nøgne må de gå omkring uden tøj,
 
-//8 sultne bærer de neg.
+//8 og sultne bærer de neg.
 
-//6 v11 Mellem rækker af oliventræer  presser de olie,
+//6 v11 Mellem rækkerne{E: *šûrōtām* betyder egentlig >>deres støttemure<< som er opført mellem dyrkningsterraserne.} presser de olivenolien,
 
 //7 de træder vinperserne
 //8 mens de tørster.
 
-//5 v12 Mænd{E: *mᵊtîm* oversættes af en del med >>døende<< idet vokaliseringen ændres til *metîm*.} fra byen stønner,
+//5 v12 Fra byen stønner de døende,{E: Hvis ordet vokaliseres som *metîm* (>>døende<<); MT har *mᵊtîm* (>>mænd<<).} 
 
-//7 og de sårede{T: Ordret: >>gennemborede<<} sjæle råber om hjælp;
+//7 og de gennemborede sjæle råber om hjælp,
 
-//6 men Gud tillægger dem{T: >>De ugudelige<<. Fokus er nu på de ugudelige i de efterfølgende vers.} ikke ugerningen.{E: *tiflāʰ* betyder >>usømmeligt<<, >>forkert<<. Sml. Job 1,22, hvor ordet forekommer. I to hebraiske håndskrifter og den syriske oversættelse Peshitta læses *tᵊfillā*(bøn). Nogle oversætter derfor >>Gud hører ikke bøn<<. Men verbet her er *yāśîm* (placere, anbringe) og ikke *yisma* (høre). I begge tilfælde gør Gud intet, enten fordi han ikke kender det eller ikke tager sig af det.}
+//6 og Gud anklager dem ikke for fejl.{H: Job 1,22.}
 
 //4 v13 Det er dem der gør oprør mod lyset, 
 
-//6 de kender ikke hans veje
+//6 de kender ikke til{H: Job 24,17.} hans veje
 
 //7 og bliver ikke på hans stier.
 
@@ -78,70 +77,70 @@
 
 //9 og om natten er han som en tyv.
 
-//7 v15 Og ægteskabsbryderens øjne venter på tusmørket 
+//7 v15 Ægteskabsbryderens øje venter på tusmørket 
 //10 og siger:
 
-//11 >Intet øje ser mig,<
+//11 >Intet øje ser mig<,{H: Job 7,8.}
 
-//9 og dækker ansigtet til.
+//9 og han dækker ansigtet til.
 
-/8 v16 I mørket bryder han{T: >>røveren<<.} ind i husene,
+//8 v16 I mørket bryder han ind i husene.
 
-//6 om dagen lukker de sig inde,
+//6 Om dagen lukker de sig inde,
 
 //8 de kender ikke lyset.
 
-//9 v17 Morgenen er som dybt mørke{T: Ordret: >>dødsskygge<<.} for dem alle,
+//9 v17 For morgenen er for dem alle sammen som et dybt mørke,
 
-//10 for enhver af dem kender mørkets rædsler.
+//10 for enhver af dem kender til{H: Job 24,13.} rædsler i dybt mørke.
 
 
 == Social vold vil blive straffet==
 
 
-//7 v18{T: Vers 18-25 kan opfattes som en direkte forbandelse og oversættes da: >>Lad<< eller >>må<< i hele afsnittet, men det er tvivlsomt om Job ville forbande og ikke blot konstatere.} Let farer han hen over vandets overflade,
+//7 v18 Det går lige så let som at flyde med strømmen,{T: Ordret >>let er han/det på vandets overflade.<<}
 
-//12 forbandet bliver deres jordstykke i landet;
+//12 forbandet bliver deres jordstykke i landet,
 
-//11 han drejer ikke mere ind på vejen til vingårdene.
+//11 han drejer ikke ind på vejen til vingårdene.
 
-//10 v19 Tørke såvel som hede fjerner vandet fra sneen,
+//10 v19 Tørke såvel som hede fjerner sneens vand,
 
-//11 ligesom dødsriget fanger
-//12 dem der synder.{T: Mod Gud.} 
+//11 ligesom dødsriget{N: Sheol.} 
+//12 dem der synder. 
 
-//9 v20 Livmoderen glemmer ham,
+//9 v20 Moderlivet glemmer ham,
 
 //11 maddikerne synes han smager godt,
 
 //10 han huskes ikke længere,
 
-//11 uretfærdighed knækkes som træet.
+//11 og uretten blev brudt som træ.
 
-//8 v21 Han gør ondt mod den ufrugtbare
+//8 v21 Han er ond mod den ufrugtbare
 //12 der ikke føder,
 
-//11 og gør ikke godt mod enken.
+//11 og mod enken handler han ikke godt.
 
-//12 v22 Han{T: Gud.} holder de mægtige i live med sin magt.
+//12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige i live med sin magt.
 
-//10 Når Gud{T: Ordret: >>Han<<. Nogle opfatter >>han<< som >>den mægtige<<.} rejser sig
-//11 stoler han{T: >>De mægtige<< er her og i vers 23a omtalt i ental med særligt forkus på den enkelte.} ikke på sit liv.{T: Sml. 5 Mos 28,66.}
+//10 Han rejser sig
+//11 og så kan den mægtige{T: Ordet er tilføjet.} ikke stole på sit liv.
 
-//9 v23 Gud{T: Ordret: >>Han<<.} giver ham sikkerhed,
-//11 og han stoler på det,
+//9 v23 Han giver ham sikkerhed,
+//11 og det kan han støtte sig til;
 
-//12 men hans øjne er rettet mod deres veje.
+//12 og hans øjne er rettet mod deres veje.
 
-//10 v24 De ophøjes for en kort tid,
+//10 v24 De ophøjer sig selv for en kort tid,
 //13 og så er de ikke mere,
 
-//12 de ydmyges,
-//11 som alle samles de sammen,
+//12 de bringes ned,
+//11 samles sammen som alle andre,
 
-//12 og som toppen på aks skæres de af.
+//12 og som toppen af aks skæres de af.
 
-//1 v25 Hvis det ikke er sådan?
-//2 Hvem vil gøre mig til en løgner
+//1 v25 Hvis det ikke er sådan, 
+//2 hvem kan da gøre mig til en løgner
 
 //3 og gøre mine ord til intet?<<

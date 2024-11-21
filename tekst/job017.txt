@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 21.11.2024>!!
 
 ===Jobs bog, kapitel 17===
 
@@ -12,84 +11,85 @@
 
 //0 v1 Min ånd er brudt,
 
-//4 mine dage er til ende,
+//4 mine levedage er afsluttet,
 
-//5 gravene venter mig.
+//5 graven{E: *qᵊvārîm* (>>gravene<<), en intensiv form udtrykt med pluralis, eller det kunne være >>gravpladsen<<.} er klar til mig.
 
-//6 v2 Men spot omgiver mig,
+//6 v2 Sandelig hån omgiver mig,
 
 //7 og
-//9 mit øje må se på at de er oprørske.
-//8
+//9 på deres oprør,
+//8 hviler mit blik.
 
 //3 v3 Stil dog
 //5 sikkerhed for mig hos dig!
 
 //4 Hvem er han
-//7 der vil give mig håndslag på sikkerhed?{T: Ordret: >>kaste sig ind i min hånd<<.}
+//7 der vil give mig håndslag på det?
 
-//6 v4 For deres hjerter har du lukket for indsigt,
+//6 v4 For du har lukket deres hjerte for indsigt,
 
-//7 derfor vil du ikke ophøje dem.
+//7 derfor ophøjer du dem ikke.
 
-//5 v5 Vennerne informerer man om en andel af et bytte,{T: >>af et bytte<< er tilføjet.}
+//5 v5 Man kan informere venner om en lyssky handel,{E: *ḥēleq* >>andel<< kan her være brugt i et ordsprog om en umoralsk økonomisk transaktion.}
 
-//6 og deres børns øjne sygner hen.
+//6 og ens egne børn{T: Ordret: >>børns øjne<<.} sygner hen!{H: Job 11,20.}
 
 //2 v6 Han har stillet mig op
-//6 som  en talemåde for folk,
+//6 som én folk laver hånende ordsprog om,
 
-//5 og jeg er som en man spytter i ansigtet.
+//5 og jeg er som én man spytter i ansigtet.
 
-//4 v7 Mit øje er blevet sløret  af sorg,{T: Kan også oversættes med >>forbitrelse<< eller >>vrede<<.}
+//4 v7 Mit syn er svækket af fortvivlelse{H: Job 5,2; 6,2. Sl 6,8.}
 
 //5 og mine lemmer,
 //6 de er alle som en skygge.
 
-//3 v8 De retskafne er forfærdet over dette,
+//3 v8 De retskafne bliver forfærdet over dette,
 
-//5 og den skyldfrie{T: Ordret: >>rene<<.} er oprørt over de gudløse.
+//5 og den skyldfrie bliver oprørt over den gudløse.
 
-//4 v9 Den retfærdige holder sig til sin vej, 
+//4 v9 Den retfærdige holder fast ved sin vej, 
 
-//5 og den, hvis hænder er rene, bliver stærkere.
+//5 og den hvis hænder er rene, bliver stærkere.
 
 
 ==Job ser døden i møde måske med håb==
 
 
-//1 v10 Dog, kom blot igen alle sammen. 
-//2
-//5
+//1 v10 Men 
+//2 vend alle sammen tilbage,
+//5 og kom dog!
 
-//7 Men jeg finder ikke én vis mand iblandt jer.
+//7 Jeg finder ikke en vis mand iblandt jer.
 
-//6 v11 Mine dage er forbi,
+//6 v11 Mine dage er gået,
 
-//6 mine planer er ødelagt 
+//6 mine planer{E: *zimmāʰ* betyder normalt >>skamløshed<<, >>skændig handling<< og anvendes i GT især om seksuel krænkelse (3 Mos 18,17. Job 31,11.) Men roden fra *zimmāʰ* *zmm* (>>planlægge<<) anvendes i Zak 8,14-15 om Gud, der planlægger at handle ondt og godt.}
+er knust,{H: Job 16,6; 17,7.} 
 
-//7 - mit hjertes ønsker.{T: Ordret: >>ejendom<<.}
+//7 mit hjertes inderste ønsker.
 
 //4 v12 Natten gør de til dag og siger:{T: >>Og siger<< er tilføjet.}
 
-//5 >Lyset er nærmere end mørket.<{T: Eller >>lyset er nær trods mørket<<, eller >>Lyset er nær og er før mørket<<.}
+//5 >Lyset er lige foran mørket.<
 
-//3 v13 Hvis jeg håber på dødsriget som mit hjem,
+//3 v13 Hvis jeg håber på dødsriget{N: Sheol} som mit hjem,
 
-//5 vil jeg brede mit leje ud i mørket.
+//5 har jeg bredt mit leje ud i mørket.
 
 //6 v14 Til graven vil jeg råbe: 
-//8 >Du er min far!<,
+//8 >Du er min far!<
 
-//8 til maddiken: >Du er min mor og min søster!<
-//9
-//7
+//8 og >Min mor 
+//9 og min søster< 
+//7 til maddiken!
 
-//4 v15 Hvor er da mit håb?
+//4 v15 Hvor da er mit håb?
 
-//5 Ja, mit håb,
+//5 Og mit håb,
 //7 hvem kan se det?
 
-//6 v16 Går det med mig ned til dødsrigets porte?{T: Kan oversættes som et udsagn: >>Det går med mig ned til dødsrigets porte.<<.}
+//6 v16 Vil det{E: Verbet opfattes som 3. person femininum singularis i imperfektum med *na* som forstærkning.} virkelig gå ned til dødsrigets{N:Sheol} porte?{E: *baddê* >>portslåer<<.}
 
-//7 Skal vi da sammen hvile i støvet?{T: Kan oversættes: >>når vi sammen hviler i støvet.<< Teksten er tvetydig. Den kan læses pessimistisk, men den kan også læses i lyset af Job 14,14, hvor Job ser håb der kan overleve døden.}
+//7 Skal vi da sammen hvile i støvet?{T: Kan også oversættes: >>når vi sammen hviler i støvet.<<}{H: Job 14,13-14.}

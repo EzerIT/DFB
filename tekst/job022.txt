@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 20.11.2024>!!
 
 ===Jobs bog, kapitel 22===
 
@@ -13,23 +12,23 @@
 //0 v1 Da svarede Elifaz fra Teman
 //1 :
 
-//2 v2 >>Kan en stærk mand være til gavn for Gud{T: Se Elihus udsagn i Job 35,7-8.}
+//2 v2 >>Kan en mand være til gavn for Gud?{H: Job 35,7-8.}
 
-//5 ja,{E: *kî* kan oversættes >>for<<.} kan en der har indsigt, være i harmoni med ham?{E: Oversættelsen er vanskelig. Nogle oversætter: >>nej, den der har indsigt, er til gavn for sig selv<<. Oversættelsen her er begrundet i partiklen *kî*(for), der angiver en udvikling og i gentagelsen af *yiskōn* i vers 2.2, der udtrykker et ordspil. Desuden forekommer samme verbum i en hifil *hasken* i vers 21, en fortsættelse af ordspillet. Ordspillet omkring >>guldet<< i vers 24-25 bekræfter både en udvikling og en leg med ord ligesom i vers 2.} 
+//5 For kan en der har indsigt, være til gavn for ham? 
 
-//4 v3 Har den Almægtige glæde{T: I betydningen >>udbytte<<.} af
-//7 at du er retfærdig,{T: Dvs. retskaffen i opførsel og karakter.}
+//4 v3 Har den Almægtige glæde af
+//7 at du er retfærdig,
 
-//6 eller er det en gevinst for ham{T: >>For ham<< er tilføjet.}
-//7 at du gør dine veje fuldkomne?{T: *tattēm* Kan også oversættes >>at du vandrer retsindigt på dine veje<<.}
+//6 eller er det en gevinst for ham
+//7 at du gør dine veje fuldkomne?
 
-//5 v4 Er det på grund af din gudsfrygt{T: Ordret: >>din frygt<<, det kan også oversættes: >>ud fra din gudsfrygt<<. Se Satans påstand i Job 2,3-7.} at han irettesætter dig
+//5 v4 Er det mon på grund af din gudsfrygt{N: Frygt.}{H: Job 1,1.9; 15,4;} at han tugter{H: Job 5,17.} dig
 
-//7 og kommer med dig for retten?
+//7 og møder op sammen med dig for retten?
 
-//6 v5 Er din ondskab ikke stor,
+//6 v5 Er din ondskab ikke mangfoldig,
 
-//9 og er der ingen ende på dine overtrædelser?
+//9 og er der ingen ende på din skyld?
 
 //8 v6 For du tog pant af dine brødre uden grund,
 
@@ -37,29 +36,29 @@
 
 //11 v7 Du gav ikke den trætte vand at drikke,
 
-//12 og den sultne afviste du at give brød.
+//12 og du holdt brød tilbage fra den sultne.
 
-//10 v8 Men den mand hvis arm var stærk,
-//12 han havde jorden,{T: Kan oversættes >>landet<<.}
+//10 v8 Men den mand der er stærk,
+//12 han har jorden,
 
-//11 og den ansete{T: Ordret: >>løftet hoved<<. Mon ikke han mener Job.} boede på den. 
+//11 og den respekterede{T: Ordret: >>løftet hoved<<.} bor på den. 
 
-//9 v9 Enkerne sendte du tomhændet bort,
-//10 og de faderløses arme blev knust.
+//9 v9 Enker sendte du tomhændet bort,
+//10 og faderløses styrke blev knust.
 
-//7 v10 Derfor{T: >>Derfor<< kan være underforstået i hele vers 10 og 11. Nogle opfatter derimod vers 11 som et spørgsmål.} er der fælder hele vejen rundt om dig,
+//7 v10 Derfor er der fælder hele vejen rundt om dig,
 
-//9 og en pludselig rædsel har grebet dig, 
+//9 og pludselig rædsel vil gribe dig, 
 
-//8 v11 endog et mørke så du ikke kan se,{T: Kan også oversættes: >>et mørke du ikke ser<<.}
+//8 v11 eller et mørke du ikke kan se i,
 
-//9 og en flod af vand dækker dig.
+//9 og en vandflod vil dække dig.
 
 
 ==Gud rammer de uretfærdige==
 
 
-//3 v12 Er Gud ikke højt i himlen,{T: Kan oversættes: >>i den høje himmel<<.}
+//3 v12 Er Gud ikke så høj som himlen?
 
 //7 og se de øverste stjerner,
 //8 de er virkelig højt oppe!
@@ -67,87 +66,87 @@
 //6 v13 Du siger:
 //7 >Hvad ved Gud?
 
-//8 Kan han dømme gennem et tykt mørke?<
+//8 Kan han dømme gennem et tykt mørke?
 
 //9 v14 Skyerne er et skjulested for ham
-//10 så han ikke ser,
+//10 så han ikke ser noget,
 
-//11 og på himmelhvælvingen vandrer han omkring.
+//11 og han vandrer omkring på himmelhvælvingen.<{H: Es 40,22.}
 
 //5 v15 Vil du holde dig til den ældgamle sti
 
-//9 som uretfærdige mænd trådte? 
+//9 som onde mænd trådte? 
 
 //11 v16 De som blev grebet
 //13 i utide,
 
-//12 deres fundament blev skyllet væk af floden.{T: Kan oversættes: >>floden blev hældt ud over deres fundament<<. Her en tydelig parallel til syndfloden.}
+//12 hvis fundament blev skyllet væk af floden.{H: 1 Mos 6,17.}
 
-//10 v17 De som sagde til Gud:
-//12 >Gå bort fra os!<
+//10 v17 De sagde til Gud:
+//12 >Gå væk fra os!<
 
-//13 Hvad kan den Almægtige gøre for os,
+//13 Hvad kan den Almægtige gøre for dem? 
 
-//11 v18 skønt han fyldte deres huse med godt;
+//11 v18 Men det var ham der fyldte deres huse med godt.
 
-//8 men de ugudeliges råd er langt fra mig.
+//8 De ugudeliges råd er langt fra mig!{H: Job 21,16.}
 
 //7 v19 De retfærdige ser det
 //9 og glæder sig;
 
-//8 og den uskyldige spotter dem.{T: Sml. Sl 2,4.}
+//8 og den skyldfrie{H: Job 4,7; 17,8.} håner dem.{H: Sl 2,4.}
 
-//6 v20 Sandelig{T: Anvendt i forbindelse med en ed.} vore modstandere{T: Ordret: >>de, der rejser sig imod os<<.} udslettes,
+//6 v20 Sandelig, vores modstandere er udslettet,
 
-//7 og ild fortærer deres overflod!
+//7 og deres rest har ilden fortæret!
 
 
 ==Elifaz formaner Job til omvendelse==
 
 
-//4 v21 Forlig dig med Gud{T: Ordret: >>ham<<.} 
+//4 v21 Bliv forsonet{H: Job 15,13.} med ham 
 
-//7 og og få fred med ham,{T: >>med ham<< er tilføjet}
+//7 og hold fred!
 
-//6 ved dette vil dit udbytte blive godt!
+//6 Derved vil dit udbytte blive godt!
 
-//5 v22 Tag imod belæring fra hans mund,
+//5 v22 Tag imod vejledning{N: Lov.} fra hans mund,
 
-//10 læg hans ord i dit hjerte!
+//10 læg dig hans ord på hjerte!
 
-//9 v23 Hvis du vender dig mod den Almægtige,
-//10 vil du blive bygget op, 
+//9 v23 Hvis du vender om til den Almægtige,
+//10 vil du blive bygget op! 
 
-//8 hvis du fjerner uretfærdighed fra dit telt,
+//8 Du må fjerne uret fra dit telt!
 
-//7 v24 læg da guldet i støvet
+//7 v24 Læg det pureste guld i støvet
 
-//9 og Ofir-guldet i klippen{T: Kan være rullesten.} ved wadierne.
+//9 og Ofir-guldet blandt wadiens sten! 
 
-//8 v25 Så skal den Almægtige være dit guld,
+//8 v25 Den Almægtige vil være dit pureste guld
 
-//10 og det kostbareste sølv for dig.
+//10 og dit reneste sølv!
 
-//9 v26 For da skal du glæde dig over den Almægtige,
+//9 v26 For da vil du glæde dig over den Almægtige,
 
-//10 og du skal løfte dit ansigt mod Gud.
+//10 og du vil løfte dit ansigt til Gud.
 
-//6 v27 Du skal bønfalde ham,
+//6 v27 Du vil bønfalde ham,
 //10 og han vil høre dig,
 
-//9 og du vil indfri dine løfter.{T: til Gud.}
+//9 og du vil indfri dine løfter.
 
-//8 v28 Hvad du beslutter,
-//10 lykkes for dig,
+//8 v28 Når du beslutter dig i en sag,
+//10 vil det lykkes for dig,
 
-//9 og lyset skal skinne på dine veje.
+//9 og på dine veje skinner lyset.
 
-//7 v29 Når mennesker bliver ydmyget 
-//9 vil du sige:
-//10 >Bliv ophøjet!<{E: *gēwāʰ* kan oversættes som et verbum eller substantiv med betydningen >>overmod<<. Der findes et utal af forslag til oversættelsen!} 
+//7 v29 Når nogen blev ydmyget, 
+//9 sagde du:
+//10 >Bliv ophøjet!<
+ 
+//8 Han frelser den med nedslåede øjne.
 
-//8 Han{T: Gud} frelser den der har slået øjnene ned.
+//9 v30 Han redder den ikke skyldfrie
 
-//9 v30 Han{T: Gud} udfrier den skyldige,{T: Ordret: >>den der ikke er uskyldig<<.}
-
- f//10 og ved dine hænders renhed bliver han reddet.<<
+//10 og ved dine hænders renhed reddes han.<<

@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 07.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 21.11.2024>!!
 
 ===Jobs bog, kapitel 19===
 
@@ -13,66 +12,67 @@
 //0 v1 Job svarede
 //1 :
 
-//2 v2 >>Hvor længe vil I pine min sjæl
+//2 v2 >>Hvor længe har I tænkt at pine min sjæl{N: Sjæl.}
 
 //4 og knuse mig med ord?
 
-//3 v3 Det er tiende gang I håner mig,
+//3 v3 Det er tiende{H: 1 Mos 31,7.} gang I har ydmyget{H: Job 11,3.} mig;
 
-//5 I skammer jer ikke over
-//4 at I gør mig uret.{T: Kan også formuleres som et spørgsmål.}
+//5 I har ikke skammet jer over{T: Kan også formuleres som et spørgsmål.}
 
-//6 v4 Og er jeg da virkelig faret vild,
+//4 at chikanere{E: Verbet *hxr* findes kun her, og de fleste skifter *h* ud med *ḥ* til *ḥkr* (>>chikanere<<).} mig,
 
-//7 bliver min vildfarelse min egen sag.{T: Ordret: >>overnatter/bor hos mig<<.}
+//6 v4 og hvis jeg virkelig er faret vild,
 
-//5 v5 Hvis I virkelig vil ophøje jer{E: *tagdîlû* betyder >>ophøje<<, det kan opfattes negativt som >>at hovere, ophøje sig selv<<, men det kan også opfattes positivt og her betyde >>at vise storsind<<.} over mig
+//7 så har jeg selv ansvaret{T: Ordret >>overnatter med mig<<.} for min vildfarelse.
 
-//7 og retfærdiggøre  min skændsel over for mig,
+//5 v5 Hvis I virkelig vil ophøje jer{E: *tagdîlû* (>>ophøje<<) kan opfattes negativt som >>at hovere<<, >>ophøje sig selv<<, men det kan også opfattes positivt og her betyde >>at vise storsind<<.} over mig
+
+//7 så brug min vanære når I anklager mig.
  
-//6 v6 forstå da
-//9 at Gud har gjort mig uret
+//6 v6 Erkend derfor
+//9 at Gud har gjort mig uret{T: Ordret: >>fordrejet noget<<.}{H: Job 8,3; 27,2; 34,12.}
 
-//10 og har lukket sit net til over mig.
+//10 og har kastet sit net{H: Job 18,8-10.} rundt om mig.
 
-//8 v7 Se, jeg skriger: 
-//12 Uret!
-//11 men jeg får intet svar,
+//8 v7 Når jeg skriger: 
+//12 >Vold!<
+//11 får jeg intet svar,
 
-//10 jeg råber om hjælp,
+//10 jeg råber om hjælp,{E: *ʔᵃšawwaʕ* (*ŠWʕ*), >>råber/skriger om hjælp<<.}
 //11 men der er ingen ret.
 
 
 ==Job er overbevist om at Gud står bag hans lidelser==
 
 
-//9 v8 Han har blokeret min sti,
+//9 v8 Han har blokeret min sti med en mur af sten,{T: >>Af sten<< er tilføjet.}{H: Klages 3,7.9.}
 //12 og jeg kan ikke komme frem,
 
-//11 og over mine stier har han lagt mørke.
+//11 og han har lagt mørke over mine stier.
 
-//10 v9 Min ære har han taget{T: Ordret: >>afklædt<<.} fra mig
+//10 v9 Min ære har han taget fra mig
 
-//12 og fjernet mit hoveds krone.
+//12 og fjernet kronen fra mit hoved.
 
-//14 v10 Han har helt og holdent nedbrudt mig, 
-//13 og jeg går bort.
+//14 v10 Han nedbryder mig på alle sider, 
+//13 og jeg er gået væk.{H: Job 14,20.}
 
-//12 Han har fjernet mit håb som man fjerner et træ.
+//12 Han rev mit håb op med rode ligesom et træ.{H: Job 14,7.}
 
-//12 v11 Hans vrede flammer op imod mig,
+//12 v11 Hans vrede flammede op imod mig,
 
-//13 og han regner mig blandt sine fjender.
+//13 og han regnede mig som en af sine fjender.{H: Job 13,24.}
 
-//11 v12 Forenet kommer hans tropper,
+//11 v12 Sammen kommer hans tropper,{H: Job 10,17.}
 
-//12 og de baner sig vej imod mig
+//12 og de har bygget en belejringsrampe{T: Ordret: >>vej<<.} op imod mig
 
 //12 og har slået lejr omkring mit telt.
 
-//10 v13 Min familie har han fjernet fra mig,
+//10 v13 Mine brødre har holdt sig borte fra mig,
 
-//13 og de der kender mig, er blevet fuldstændig fremmede for mig.
+//13 og de der kender mig, er endog blevet fremmede for mig.
 
 //12 v14 Mine nærmeste mangler,
 
@@ -82,74 +82,74 @@
 
 //14 en udlænding er jeg blevet i deres øjne.
 
-//13 v16 Jeg kalder på min tjener,
+//13 v16 Min tjener kalder jeg på,
 //15 men han svarer ikke;
 
-//14 med min mund bønfalder jeg ham.
+//14 med min egen mund bønfalder{H: Job 9,15.} jeg ham.
 
-//12 v17 Min ånde er modbydelig for min hustru,
+//12 v17 Min ånde{N: Ånd.} virker frastødende på min hustru, {H: Job 2,9.}
 
-//15 og jeg er afskyelig for mine brødre.{T: Ordret: >>min livmoders sønner<< = >>min mors sønner<< = >>mine brødre<<.}
+//15 og mine brødre synes jeg er ildelugtende.{T: Ordret: >>Jeg er stinkende/frastødende for sønner af livmoderen som bar mig<<.}
 
-//14 v18 Selv drenge foragter mig.
+//14 v18 Selv drenge vrager mig.
 
 //16 Vil jeg rejse mig,
-//17 taler de imod  mig.{T: De bagtaler, håner Job. Sml. Sl 78,19.}
+//17 taler de imod mig.
 
-//15 v19 Alle mine nærmeste venner afskyr mig,
+//15 v19 Alle mændene i mit råd afskyr mig,
 
 //17 og dem jeg elsker,
 //16 har vendt sig imod mig.
 
-//13 v20 Mine ben klæber til min hud og mit kød,
+//13 v20 Mine knogler klæber til min hud og mit kød,
 
-//14 og jeg er undsluppet med hud mellem tænderne.{T: Dvs. Kun gummerne er ikke angrebet.}
+//14 og jeg er undsluppet med kun tandkødet uskadt!{T: Ordret: >>med mine tænders hud<<.} 
 
-//7 v21 Vær barmhjertig mod mig,
-//7 vær barmhjertig mod mig
+//7 v21 Vær nådig mod mig,
+//7 vær nådig mod mig
 //12 I mine venner,
 
 //11 for Guds hånd har ramt mig!
 
-//10 v22 Hvorfor forfølger I mig ligesom Gud,
+//10 v22 Hvorfor forfølger I mig ligesom Gud
 
-//12 og bliver ikke mæt af mit kød?
+//12 og har ikke nok i at jeg lider?{T: Ordret: >>bliver mætte af mit kød<<.}
 
 
 ==Job ved at hans løser lever, og at der er en dom==
 
 
-/11 v23 Gid{T: Ordret: >>Hvem vil dog give, at<<.} mine ord dog måtte blive skrevet ned!
-//12
+/11 v23 Gid mine ord da 
+//12 blev skrevet ned!
 
-//11 Gid de måtte blive nedfældet i en bog!{T: Ordret: >>bogen<<.}
-//12
+//11 Gid det var i bogrullen
+//12 de blev nedfældet!
 
 //13 v24 Måtte de med en griffel af jern og bly for evigt blive hugget ind i klippen!
 
 //9 v25 Men jeg ved
-//11 min løser{E: *gōˀᵃlî* kan oversættes >>min frelser<<. En løser er en som træder i stedet for mig, og som forpligter sig til at tage ansvar for mig og mit og betaler det jeg skulle have betalt. Se 3 Mos 25,25-28, Rut 4,9-10. Det anvendes også om blodhævneren, se 5 Mos 19,6. Se Es 41,14, her er løseren Gud, og i Es 59,20 er løseren den kommende Messias, Jesus.} lever,
+//11 min løser{H: 3 Mos 25,25-28. Rut 2,20. Es 41,14; 59,20.} lever,
 
-//12 og til sidst{T: Kan oversættes >>som den sidste<<.} vil han stå op over støvet.{T: Kan oversættes >>på støvet<< i betydningen >>på jorden<<.}
+//12 og til sidst vil han stå op over støvet.{H: 1 Kor 15,3-4.25-27. 1 Johs 3,2.}
 
 //13 v26 Og når min hud således er skrællet af,
 
-//14 skal jeg ud fra mit kød skue{T: Se note til vers 27. Job ser som profeterne så, altså en Guds åbenbaring!} Gud,
+//14 skal jeg i mit kød{T: Ordret >>ud fra mit kød<<. Udtrykket kan oversættes >>uden mit kød<<.} skue Gud,
 
-//15 v27 ham{E: *ʔᵃšer* er underforstået i hele vers 27.} skal jeg selv{E: *llî*(for mig) kan også oversættes >>på min side<<.} skue,{E: Verbet *ḥᵉzeʰ* anvendes om profeterne, seerne, der skuede syner. Når præpositionen *lᵊ* står i forbindelse med verbet her, er det i betydningen >>for hvem synet er for<<, se Es 30,10, Klag 2,14.} 
+//15 v27 ham skal jeg selv skue{E: *ʔᵃšer* (>>som/hvem<<) her >>ham<<, er underforstået i hele vers 27. Ordret: >>som jeg, jeg skal skue i et syn for mig<<. Præpositionen *lî*(>>for mig<<) kan også oversættes >>på min side<<.} 
 
-//16 og ham skal mine øjne se,
-//17 og han er ikke en fremmed.{T: Dvs. Gud er ikke en fremmed, Job kender Gud. Sætningen kan oversættes: >>det er ikke en fremmed<<, dvs. det er Job og ikke en fremmed, der skal se Gud.}
+//16 og ham skal mine øjne se,{H: 1 Johs 3,2.}
+//17 og han er ikke en fremmed.{H: Job 19,15.} 
 
-//10 Mit indre fortæres af længsel!{T: Ordret: >>mine nyrer i mit indre sygner hen<<.} 
+//10 Mit indre er ved at gå til af længsel.{T: >>Af længsel<< er tilføjet. Ordret: >>mine nyrer er færdige i mit bryst<<.}
 
-//8 v28 Hvis I siger: 
+//8 v28 For I siger: 
 //11 >Hvorledes skal vi forfølge ham?<
 
-//10 og sagens rod findes i mig, 
+//10 og problemets kerne{T: Ordret >>sagens/ordets rod<<.} findes i mig, 
 
-//9 v29 så frygt I selv for sværd,{T: Guds sværd, se Es 66,16.}
+//9 v29 så frygt I selv for sværdet,{H: Job 15,22. Es 66,16.}
 
-//11 for i sin vrede straffer Gud{T: Gud er tilføjet.}overtrædelser med sværd,{E: Ordret: >>for vrede overtrædelser sværd<<. Den massoretiske tekst knytter >>overtrædelser<< og >>sværd<< sammen med en munach (conjunctive accent), og >>vrede<< har en yetib, disjunktiv accent, dvs. står lidt alene. Alligevel giver teksten mulighed for flere oversættelser. Lignende sætningsopbygning findes i Job 20,29, Job 31,11 og 28. Sml. Es 66,16.} 
+//11 for i sin harme straffer Gud{T: >>Gud er tilføjet<<.} skyld med sværd,{E: Ordret: >>for harme skyld sværd<<.}{H: Job 20,28.}  
 
-//10 for at I skal forstå at der er en dom.<<{E: Det hebraiske ord *ŠDYN* kan oversættes: >>at der er en dom<<, >>at der er en dommer<<.} 
+//10 for at I skal erkende at der er en dom.<<{T: Eller >>at der er en dommer<<.}{E: Masoreterne har valgt ikke at vokalisere *ŠDYN*, der kun findes her. *DYN* kan vokalisere til *din* (>>dom<<) eller *dayyan* (>>dommer<<). Præfixet *Š* (>>der er<<). Nogle vokaliserer *ŠDYN* til *šadday* (>>den Almægtige<<).} 
