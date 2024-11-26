@@ -12,7 +12,9 @@
           <table class="mx-auto">
           <?php
           foreach ($title as $abb => $name) {
-              if ($abb!=='GT' && $abb!=='NT')
+              if ($abb==='NT')
+                  echo "<tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n"; // Separator between OT and NT
+              else if ($abb!=='GT')
                   echo "<tr><td>$abbrev[$abb]</td><td class=\"pl-3\">$name</td>\n";
           }
           ?>
