@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.11.2024>!!
 
 ===Jobs bog, kapitel 25===
 
@@ -13,26 +12,26 @@
 //0 v1 Da svarede Bildad fra Shua
 //1 :
 
-//2 v2 >>Herskermagten og rædslen er hans,{T: Guds.} 
+//2 v2 >>Herredømme og rædsel{H: Job 21,9; 22,10.} er hos ham,{T: Gud.} 
 
-//4 han som sørger for fred i sit højeste.{T: Ordret: >>sit høje<< pl.}
+//4 han sørger for fred i sit højeste.
 
-//3 v3 Er der mon tal på hans hærskarer?
+//3 v3 Er der mon tal på hans tropper?{H: Job 19,19.}
 
 //6 Og hvem står hans lys ikke op over?
 
-//5 v4 Hvordan kan et menneske være retfærdigt{E: *yyiṣdaq* kan også oversættes >>have ret<<. Der er en dobbelthed i betydningen som må fastholdes.} over for Gud?
+//5 v4 Hvordan kan et menneske være retfærdigt{T: Jobs udtalelse forstås her pga. sammenhængen moralsk (være retfærdigt) og ikke retsligt (få ret).}{H: Job 9,2.} over for Gud?
 
-//6 Hvordan kan en, født af en kvinde, være ren?
+//6 Hvordan kan en, født af en kvinde, være ren?{H: Job 15,14.}
 
-//4 v5 Se, selv månen
-//7 skinner ikke klart,
+//4 v5 Når selv månen
+//7 ikke skinner klart,
 
 //6 og stjernerne
-//7 er ikke rene i hans øjne,
+//7 ikke er rene i hans øjne,
 
 //5 v6 hvor meget mindre da et menneske,
-//7 en maddike,
+//7 en maddike,{Job 17,14.}  
 
 //6 en menneskesøn,
-//7 en orm!<<
+//7 en orm!{H: Sl 22,7.}<<

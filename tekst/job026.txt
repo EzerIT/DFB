@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.11.2024>!!
 
 ===Jobs bog, kapitel 26===
 
@@ -13,52 +12,54 @@
 //0 v1 Da svarede Job
 //1 :
 
-//2 v2 >>Hvor har du{T: Bildad.} hjulpet den der er uden kraft,
+//2 v2 >>Hvordan har du hjulpet den der er uden kraft?
 
-//3 du har frelst den arm som ingen styrke har! 
+//3 Hvordan har du frelst den arm som ingen styrke har? 
 
-//2 v3 Hvor har du rådgivet den der er uden visdom,
+//2 v3 Hvordan har du rådgivet den der er uden visdom,
 
-//4 og i overflod kundgjort indsigt!
+//4 og i overflod formidlet klogskab?{H: Job 5,12.}
 
-//3 v4 For hvem{E: *ʔet mi* kan opfattes som objekt med akkusativ partikel eller som en præposition >>ved hvis hjælp<<.} har du kundgjort ordene,
+//3 v4 For hvem har du kundgjort ordene,
 
-//5 og hvis ånd er udgået fra dig?
+//5 og hvis ånd har talt gennem dig?
 
-//4 v5 De dødes ånder skælver under vandene og alle deres beboere.{E: *šōxᵊnêhem* opfattes her som beboere i dødsriget, andre opfatter >>deres beboere<< som alt levende i vandet.}
+//4 v5 De dødes ånder skælver
  
-//5 v6 Dødsriget ligger nøgent foran ham,{T: Gud.}
+under vandene og alle deres beboere.
+ 
+//5 v6 Nøgent ligger dødsriget{N: Sheol.}foran ham,
 
-//8 og afgrunden{E: *ˀᵃvaddôn* betyder >>ødelæggelse<<. Det er >>stedet for ødelæggelse<< i >>dødsriget<< *tšᵊʔôl* for fortabte og ødelagte døde. Her udtryk for en skelnen mellem forholdende i dødsriget. Se Job 28.22 og Job 31,12.} er utildækket.
+//8 og afgrunden{H: Job 28.22; Job 31,12.} er utildækket.
 
-//7 v7 Han breder{E: *nōṭeʰ*, verbet her bruges om et telt.} norden{T: Det sted hvor Gud hersker alene. Se Sl 48,3; Job 23,9 og Es 14,13.} ud over den golde jord,{T: Sml. 1 Mos 1,2.}
+//7 v7 Han breder den nordlige himmel{T: Ordret: >>nord<<.}{H: Job 9,8, 23,9. Sl 48,3. Es 14,13.} ud over den golde jord,{H: 1 Mos 1,2.}
 
-//7 han hænger jorden op på intet.{T: Ordret: >>på intet hvad<<.}
+//7 han hænger jorden op på intet.
 
-//7 v8 Han binder vandet ind i sine skyer,
+//7 v8 Han binder vandet i sine skymasser,
 
-//8 og skyen under dem brister ikke.
+//8 og skydækket under dem brister ikke.
 
-//7 v9 Han spærrer for synet af tronen,{E:*khisseh* oversættes af nogle med >>fuldmåne<<. Vokaliseringen i den massoretiske tekst volder problemer idet *keseh*, uden dobbelt s betyder >>trone<<, og *kese* betyder >>fuldmåne<<.}
+//7 v9 Han spærrer for synet af tronen, 
 
-//8 han breder sin sky ud over den.
+//8 han breder sit skydække ud over den.
 
-//9 v10 Han har trukket en cirkulær grænse over vandenes overflade helt til grænsen mellem lys og mørke.
+//9 v10 Han har trukket en cirkulær grænse over vandenes overflader{H: Job 22,14. Es 40,22.} helt til grænsen mellem lys og mørke.
 
-//11 v11 Himmelens søjler vakler,
+//11 v11 Himlens søjler vakler,
 
-//12 og de undrer sig over hans irettesættelse.
+//12 og de bliver målløse over hans trussel.
 
-//10 v12 Ved sin magt bringer han havet i oprør,{E: Verbet *rāgaʕ* kan betyde både >>bringe i oprør<< og >>bringe til ro<<.}
+//10 v12 Ved sin magt bringer han havet i oprør,
 
-//12 og med sin indsigt knuser han Rahab.{T: *rāhav* betyder >>storm<<, >>stolthed<<, og er her en personificering af alle onde kræfter. Se Job 9,13.}
+//12 og med sin indsigt knuser han Rahab.{H: Job 9,13.}
 
-//11 v13 Ved hans åndepust{T: Det hebraiske ord *rûₐḥ* har flere betydninger, >>Guds ånd<<, >>menneskets livsånde<< og >>vind<<. Her optræder det som et ordspil mellem >>Guds åndepust<< og >>vinden<<.} bliver himlen klar,
+//11 v13 Ved hans åndepust{N: Ånd.} bliver himlen klar,
 
 //12 hans hånd gennemborer den flygtende slange.
 
-//13 v14 Se, disse er de yderste grænser af hans veje:{T: Kan også oversættes >>herredømme<<.}:
+//13 v14 Se, disse er de yderste grænser for hans veje.
 
-//6 Hvor svag er den hvisken{T: Ordret: >>hvisken af et ord<<.} vi hører om ham,
+//6 Hvor svag er den hvisken{T: Ordret: >>hvisken af et ord<<.} vi hører af ham,
 
-//7 og hans kræfter i tordenen, hvem forstår dem?{T: Jobs tale om Guds majestætiske magt her er en forvarsel på Guds åbenbaring i hvirvelvinden i Job 38-41.}<<
+//7 og hans kræfter i tordenen,{H: Job 38,1.} hvem forstår dem?<<

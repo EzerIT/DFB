@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 29.06.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.11.2024>!!
 
 ===Jobs bog, kapitel 28===
 
@@ -10,25 +9,24 @@
 ==Job viser menneskets evne til at finde de skjulte skatte==
 
 
-//1 v1 Ja, der er en mine til sølvet  
+//1 v1 Der er nemlig en mine til sølvet  
 
-//3 og et sted til guldet,
-//4 som de renser.
+//3 og et sted til guldet
+//4 som de vasker ud.
 
-//2 v2 Jern tages fra støv,{T: Kan oversættes >>fra jord<<.}
+//2 v2 Jern tages fra støvet,
 
-//4 og sten{T: Dvs. sten der indeholder metal.} hældes ud{T: Kan oversættes >>smeltes til<<.} som kobber. 
+//4 og sten hældes ud som kobber. 
 
 //3 v3 Man gør ende på mørket,
 
-//5 og i hvert et dyb{T: Kan oversættes >>til det yderste<<.} udsøger man 
+//5 og i hvert et dyb udsøger han 
 
-sten i mørket{T: Dvs. jordens mørke.} og i det dybeste mulm.{T: Ordret: >>dødsskygge<<.}
+sten i mulmet og i det dybe mørke.
 
-//4 v4{T: Teksten er vanskelig at oversætte fordi vi ikke ved hvordan minedriften foregik dengang.} Man bryder en skakt i wadien
-//8 fjernt fra beboelse,{E: *gār* betyder >>midlertidigt boende<<, vi ved ikke om fremmede kom for en tid og arbejdede.}
-
-//8 glemt af foden,{T: Dvs. de der går på jorden oven for mineskakten, betydningen er usikker.}
+//4 v4 Man bryder en skakt
+//8 fjernt fra beboelse,
+//8 ukendt for dem som går oven for på jorden.{T: Ordret: >>glemt uden fod<<.}
 
 //7 de{T: Minearbejderne.} hænger der,
 //8 fjernt fra mennesker svinger de frem og tilbage.
@@ -38,28 +36,28 @@ sten i mørket{T: Dvs. jordens mørke.} og i det dybeste mulm.{T: Ordret: >>død
 
 //9 og nedenunder brydes den op som af ild.
 
-//7 v6 Et sted hvis sten er safir,{T: Kan oversættes >>dens sten er stedet for safir<<.}
-
-//8 og der er støv af guld i det.
+//7 v6 Et sted hvor dens sten er safir,
+//8 og støvet indeholder guld.{E: Det kan muligvis være jernpartikler i safiren som skinner ligesom guld.} 
 
 //6 v7 Stien
 //7 kender rovfuglen ikke,
 
 //9 og falkens øje ser den ikke.
 
-//8 v8 Det stolte vildt{T: Ordret: >>sønner af stolthed<<, se Job 41,26.} har ikke betrådt den,
+//8 v8 Det stolte vildt{T: Ordret: >>sønner af stolthed<<.}{H: Job 41,26.} har ikke betrådt den,
 
 //9 og ingen løve er skredet frem ad den.
 
-//5 v9 Man strækker sin hånd ud mod klippen af flint,
+//5 v9 Han strækker hånden ud mod klippen af flint,
 
 //6 bryder ned fra roden af bjergene.
 
-//7 v10 I klipperne udhugger han gange,{T: Ordret: >>kanaler<<.}
+//7 v10 I klipperne udhugger han minegange der er fyldt med vand,{T: Ordret: >>vandløb<<, >>vandkanaler<<.}
 
-//9 hans øje ser enhver kostbarhed.
+//9 han får øje på enhver kostbarhed.
 
-//8 v11 Han holder vandstrømme tilbage så de ikke siver ud, 
+//8 v11 Han dæmmer op for vandstrømmenes kilder,{E: *mibbᵊxî* (>>fra gråd<<) omvokaliseres til *mabbᵊxêy* (>>vandkilder<<).}
+
 
 //10 og det skjulte bringer han frem i lyset.
 
@@ -67,51 +65,53 @@ sten i mørket{T: Dvs. jordens mørke.} og i det dybeste mulm.{T: Ordret: >>død
 ==Visdommen har sit udspring i Gud==
 
 
-//9 v12 Men visdommen, hvor finder man den,
+//9 v12 Men visdommen, hvor findes den,{H: Ordsp 8,11-12.22.}
 
 //10 og hvor er stedet for indsigt?
 
-//11 v13 Intet menneske kender dens værdi,
+//11 v13 Mennesket kender ikke dets sted,{E: *ʕērex* >>orden<<, >>sted<<. *ʕērex* har også betydningen >>værdi<<. LXX ændrer *ʕerkāhʕ* fra *ʕērex* til *darkahʕ* (>>dets vej<<).}
 
 //14 og den findes ikke i de levendes land.
 
-//13 v14 Urdybet{E: *tᵊhôm* se 1 Mos 1,2 og Ordsp 8,22-31, visdommen blev til før skabelsen.} siger 
-//15 at den ikke er i det,
+//13 v14 Urdybet{H: 1 Mos 1,2.} siger: 
+//15 >Den er ikke i mig!<
  
 //14 og havet siger:
-//15 >Ikke hos mig!<
+//15 >Den er ikke hos mig!<
 
-//12 v1 Fint guld kan ikke gives i bytte for den,
+//12 v15 Rent guld kan ikke gives i bytte for den,
 
-//14 og sølv kan ikke vejes af som pris for den.
+//14 og sølv kan ikke vejes af som pris for den.{H: Ordsp 16,16.}
 
-//13 v16 Den kan ikke vejes imod guld fra Ofir,
+//13 v16 Den kan ikke købes{H: Job 28,19.} for guld fra Ofir,{H: 1 Kong 9,28.}
 
-//15 imod kostbar shohamsten{T: Muligvis en rød form for kvarts.} eller safir.{T: Begge sten findes i ypperstepræstens doms-brystskjold, der bestod af 12 ædelstene og halvædelstene. Se 2 Mos 28,15-21.}
+//15 for kostbar shohamsten eller safir.{H: 1 Mos 2,12. 2 Mos 28,15-21.}
 
 //14 v17 Hverken guld eller glas kan sammenlignes med den,
 
-//16 ej heller kan den byttes med ting af fineste guld.
+//16 den kan heller ikke byttes med et redskab af fineste guld.
 
-//15 v18 Koraller{T: sorte koraller.} og krystaller nævnes ikke.{T: Dvs. ikke værd at nævne.}
+//15 v18 Koraller{T: Sorte koraller, perler, oversættelsen er usikker.} og bjergkrystaller er ikke værd at nævne.
 
-//17 At drage visdom{T: Billedet er formentlig fra at fiske perler, nogle oversætter >>visdommens værdi<<.} op er mere værd end koraller.{T: Røde koraller, identificeret som rubiner, nogle vælger oversættelsen >>perler<<.}
+//17 En læderpose fuld af visdom{E: *mešex* (>>læderpose<<) til opbevaring af værdigenstande, et billede på besiddelse af visdom.} er bedre end koralperler.{H: Ordsp 8,11.}
 
 //16 v19 Den kan ikke sammenlignes med topas fra Etiopien,
 
-//17 den kan ikke vejes imod rent guld.
+//17 for rent guld kan den ikke købes.
 
-//19 v20 Visdommen, hvor kommer den fra,
+***
 
-//20 og hvor er stedet for indsigt?
+//19 v20 Visdommen, hvor kommer den fra,{H: Job 28,12. Ordsp 2,6.}
 
-//18 v21 Den er skjult for øjnene af alt levende;
+//20 og hvor er stedet for indsigt?{H: Ordsp 2,3-5.}
+
+//18 v21 Den er gemt for øjnene af alt levende;
 
 //19 og for himlens fugle er den skjult. 
 
 //20 v22 Afgrunden og døden siger:
 
-//21 >Med vore ører har vi hørt et rygte.<
+//21 >Vi har selv hørt et rygte.<
 
 //20 v23 Gud forstår dens vej,
 
@@ -121,25 +121,25 @@ sten i mørket{T: Dvs. jordens mørke.} og i det dybeste mulm.{T: Ordret: >>død
 
 //24 under hele himlen ser han.
 
-//23 v25 Da han bestemte vindens vægt
+//23 v25 Da han gav vinden{N: Ånd.} vægt
 
-//24 og udmålte vandet med et mål,
+//24 og udmålte vandet med et rummål,
 
-//22 v26 da han fastsatte en bestemmelse for regnen
+//22 v26 da han fastsatte tiden{T: Ordret: >>bestemmelse<<.} for regnen
 
-//24 og en vej for lynenes lyde,{T: Lynene kommer før tordenskraldene.}
+//24 og en vej for lyn og torden. 
 
-//23 v27 da så han på den,{T: Visdommen, vers 20.}
-//25 og opregnede den;{T: Dvs. visdommens værdi. Nogle oversætter >>meddelte<<, >>kundgjorde<<.}
+//23 v27 Dengang så han den,{T: Visdommen.}
+//25 og vurderede den;
 
-//24 han satte den i værk,
+//24 han grundlagde den,
 //25 og han udforskede den også.
 
 //26 v28 Og han sagde til mennesket:
 
-//26 >Se, frygt for Herren{E: *ʔᵃdōnāʸ*, det er det eneste sted i Jobs bog hvor ordet forekommer. Sml. Job 37,24, Job 1,1 og 2,3.}
+//26 >At frygte{N: Frygt.} Herren,{H: Job 1,1. Ordsp 1,7; 9,10.}
 //28 det er visdom,
 
 //27 og
-//29 at vende sig bort fra det onde
-//28 det er forstand!<<<
+//29 at holde sig fra det onde{H: Job 1,8.}
+//28 det er indsigt!<<<{H: Job 28,12.20.}
