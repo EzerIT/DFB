@@ -120,7 +120,7 @@ floder der flyder{T: Ordret: >>bække<<.} med honning og surmælk{H: 1 Mos 18,8.
 
 //16 v24 Må han flygte fra våben af jern,
 
-//17 må et pilehoved af bronze fra en bue af bronze{ T: >>pilehoved af bronze<< er tilføjet for forståelsen.} gennembore{H: Dom 5,26.} ham.
+//17 må et pilehoved af bronze fra en bue af bronze{T: >>pilehoved af bronze<< er tilføjet for forståelsen.} gennembore{H: Dom 5,26.} ham.
 
 //18 v25 Han har trukket pilen ud,
 //19 og den kommer ud af ryggen,

@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 27.11.2024>!!
 
 ===Jobs bog, kapitel 31===
 
@@ -10,58 +9,58 @@
 ==Job redegør for sin retskafne adfærd og aflægger ed på det==
 
 
-//0 v1 Jeg sluttede en pagt med mine øjne om
+//0 v1 Jeg sluttede en pagt med mine øjne 
 
-//2 at jeg aldrig{E: *meh* anvendt i betydningen >>ikke<< frem for som interrogativ partikel.} ville vise{T: Ordret: >>betragte omhyggeligt<<.} en jomfru{E: *bᵊtûlāʰ* er en jomfru ældre end *ʕalmāʰ*, som også betyder jomfru. Se Es 7,14. En *ʕalmāʰ* er en helt ung pige på 14-15 år.} særlig opmærksomhed.{T: Job tolker buddet ligesom Jesus.}
+//2 at jeg aldrig{E: *mah* kan her have styrken af >>ikke<< frem for som interrogativ partikel. (Job 16,6.)} ville vise en jomfru særlig opmærksomhed.
 
-//1 v2 Hvad ville da være ens lod fra Gud deroppe
+//1 v2 Hvad ville blive ens lod fra Gud deroppe
 
-//4 og ens arv fra den Almægtige i det højeste?{T: Sml. Job 25,2.}
+//4 og ens arv{H: Job 20,29.} fra den Almægtige i det højeste?{H: Job 25,2.}
 
-//3 v3 Er det ikke lidelse for den uretfærdige
+//3 v3 Mon ikke ulykke{H: Job 21,17.} ville komme over forbryderen{H: Job 18,21; 29,17.}
 
-//4 og ulykke for dem der øver uret?
+//4 og elendighed over dem der øver uret?
 
-//2 v4 Ser han ikke mine veje,
+//2 v4 Mon ikke han ville se mine veje
 
-//4 og tæller han ikke alle mine skridt?
+//4 og tælle alle mine skridt?
 
 //3 v5 Hvis jeg har vandret med løgn,
 
 //6 og min fod er hastet bort til bedrag,
 
-//5 v6 så lad ham veje mig på korrekte{E: Ordret: *ṣedeq* >>ret<<, >>retfærdig<<. Kravet til en vægt var ifølge Moseloven: *ʔeven šᵊlēmāʰ wā ṣedeq* >>ret og fuldkommen sten<<, se 5 Mos 25,13-15.} vægtskåle,
+//5 v6 så lad ham veje mig på en korrekt{E: *ṣedeq*, >>ret<<.}{H: 5 Mos 25,15. Job 6,2; 31,6.} vægt,{T: Ordret: >>vægtskåle<<.}
 
-//6 for Gud kender min uskyld!
+//6 for Gud kender min uskyld!{H: Job 2,3; 27,5.}
 
-//4 v7 Hvis mine skridt{T: Ental.} er bøjet af fra vejen,
+//4 v7 Hvis mine skridt er bøjet af fra vejen,
 
-//7 og mit hjerte har fulgt mine øjne,
+//7 og mit hjerte er gået efter hvad mine øjne ser,
 
-//8 eller en plet{T: LXX og den syriske Peshitta oversætter >>noget<<.} har klæbet til mine hænder,
+//8 eller en plet har klæbet til mine hænder,
 
 //6 v8 lad mig da så,
 //8 og en anden spise,
 
-//7 og lad mine afgrøder{E: *ṣeˀᵉṣāʔay* kan også betyde >>børn<<.} blive rykket op med rode!
+//7 og lad mine afgrøder blive rykket op med rode!
 
 //5 v9 Hvis mit hjerte er blevet fristet af en kvinde,
 
-//9 eller jeg har luret ved min vens dør,
+//9 eller jeg har luret ved min vens{T: Eller >>nabos<<.} dør,
 
-//8 v10 lad da min hustru male korn,{T: >>korn<< er tilføjet.}for en anden,{T: Dvs. tjene en anden mand som slave.}
+//8 v10 lad da min hustru male korn{T: >>Korn<< er tilføjet.} for en anden,
 
 //9 og lad andre bøje sig over hende!
 
-//7 v11 For det{T: Henfører til vers 9.} er en skændig handling,{E:*zimmāʰ* specielt brug i GT for seksuel krænkelse 3 Mos 18,17.} 
+//7 v11 For det er en skændig handling,{E:*zimmāʰ* (>>nedrighed<<) brugt i GT om seksuel krænkelse.}{H: 3 Mos 18,17.} 
 
 //9 og det er en forbrydelse
-//10 for dommere.{T: Dvs. straffes af dommere.}
+//10 for dommere.
 
 //8 v12 For det er en ild 
 //9 som fortærer helt til afgrunden
 
-//10 og river al min indkomst op med rode.
+//10 og river al min afgrøde{H: Job 22,21.} op med rode.
 
 //6 v13 Hvis jeg har tilsidesat
 
@@ -70,127 +69,128 @@ min tjener eller min tjenestepiges ret
 når de førte retssag imod mig,
 
 //9 v14 hvad skal jeg da gøre
-//11 når Gud rejser sig,
+//11 når Gud rejser sig,{T: For at dømme eller anklage.}
 
-//10 hvis han hjemsøger mig, 
+//10 og når han besøger mig,{H: Job 7,18.}  
 //11 hvad skal jeg svare ham?
 
-//8 v15 Har ikke han som dannede mig i livmoderen, også dannet dem?
+//8 v15 Har ikke han som dannede mig i mors liv, også dannet dem?
 
 //9 Én og samme formede os i livmoderen.
 
-//7 v16 Hvis jeg har forhindret de svage i glæder{T: Ental.}
+//7 v16 Jeg har bestemt ikke forholdt de svage deres ønsker
 
 //13 og slukket lyset i enkens øjne
 
-//12 v17 eller har spist mit stykke brød alene
+//12 v17 eller spist mit stykke brød alene
 
-//13 uden at den faderløse har spist af det
+//13 uden at den faderløse har spist af det!
 
-//11 v18 - for fra min ungdom af voksede han op hos mig som hos en far,
+//11 v18 For fra min ungdom af voksede han op hos mig som hos en far,
 
-//12 og fra mors liv{T: Dvs. hele sit liv} har jeg ledt hende{T: Enken i vers 16.} -
+//12 og fra mors liv har jeg vejledt hende.{H: Job 31,16.}
 
-//10 v19 hvis jeg har set én være ved at gå til grunde uden tøj,
+//10 v19 Jeg har bestemt ikke set én være ved at gå til grunde uden tøj,
 
-//12 og at den fattige intet tæppe havde,
+//12 og at den fattige intet tæppe havde!
 
-//11 v20 hvis hans lænd ikke velsignede mig{T: Dvs. takkede for tøjet.}
+//11 v20 Hvis han ikke takkede for tøjet på sin krop,{T: Ordret: >>hans lænder ikke velsignede/lovpriste mig<<.} 
 
-//13 eller han ikke varmede sig ved ulden fra mine får,
+//13 eller han ikke varmede sig ved ulden fra min vædder,
  
-//12 v21 hvis jeg løftede min hånd imod den faderløse,{T: Udviste truende opførsel eller var imod ham i retten, men ikke fysisk vold.}
+//12 v21 hvis jeg løftede min hånd imod den faderløse, 
 
-//13 fordi jeg fik støtte{T: Ordret: >>så min støtte<<.} i porten,{T: Juridiske sager blev almindeligvis ordnet der.}
+//13 fordi jeg fik støtte i porten,
 
-//9 v22 så lad mit skulderblad falde fra skulderen,{E: *ššixmāʰ* betyder skulder, her inkl. bagsiden af halsen.}
+//9 v22 så lad mit skulderblad falde fra skulderen,
 
-//11 og lad min arm brækkes i sit led!{T: Ordret: >>sivrør<<, >>kæp<<, det er uvist om det er albueleddet eller skulderledet der er ment.}
+//11 og lad min arm brækkes i sit led!{T: Det er uvist hvilket led der menes.}
 
-//10 v23 Jeg frygter lidelsen fra Gud, 
+//10 v23 For der er en Guds rædsel{E: *faḥad* (>>rædsel<<) skal ikke forstås som angst for Gud, men ud fra visdomslitteraturen (Ordsprogenes bog): at frygte Gud er basis for visdom.}{H: Job 25,2. Ordsp 1,7; 9,10; 2,1-5. Sl 2,11. Mal 2,5.} over mig for en ulykke fra Gud. 
 
-//11 og over for hans majestæt{T: Ordret: >>Ophøjethed<<.} formår jeg intet.{T: Sml. Job 13,11.}
+//11 Selv over for hans ophøjethed{H: Job 13,11.} formår jeg intet.
 
-//8 v24 Hvis jeg har sat min lid til guld{E: *zāhāv*, det almindelige udtryk for guld.}
+//8 v24 Hvis jeg har sat min lid til guld
 
-//12 og sagt om fint guld:{E: *kketem* bruges om fint guld, f.eks. fra Ofir, se Job 28,16 og 19, >>fint<< er tilføjet her.}
-//13 >Du er min tillid!<,
+//12 og har sagt om fint guld:{H: Job 28,16.19.}
+//13 >Du er min tillid!<,{H: Job 8,14; 18,14.}
 
 //11 v25 hvis jeg har glædet mig
 //12 over at min rigdom var stor,
 
-//13 og at min hånd har udrettet{T: Ordret: >>har fundet<<.} meget,
+//13 og over at min hånd har udrettet mægtige ting,
 
-//11 v26 hvis jeg har set lyset{T: solen} 
+//11 v26 hvis jeg har set sollyset 
 //14 når det strålede,
 
-//13 og månen der bevægede sig i sin herlighed,
+//13 og månen der vandrede prægtigt,
 
-//12 v27 og hvis mit hjerte i det skjulte blev fristet,
+//12 v27 og hvis mit hjerte i det skjulte blev fristet,{H: Job 31,9. 5 Mos 11,16.}
 
-//12 og min hånd kyssede min mund,{T: Udtryk for afgudsdyrkelse. Falsk gudsdyrkelse af himmellegemer se 5 Mos 17,2ff. For Job var blot et øjekast og en kort hedensk tanke synd.}
+//12 og jeg sendte et håndkys,{T: Ordret: >>min hånd kyssede min mund<<. Kysset kan være rettet mod solen eller månen som tilbedelse.}{H: Job 31,26.}
 
-//10 v28 så er dette også en forbrydelse
-//12 der kalder på en dommer,{T: Sml. vers 11.}
+//10 v28 så er dette også en forbrydelse{H: Job 31,11.}
+//12 der hører under en dommer,
 
 //11 for jeg har bedraget Gud i det høje.
 
-//9 v29 Hvis jeg har glædet mig over ulykken hos ham der hader mig,
+//9 v29 Hvis jeg har glædet mig over ulykken{H: Job 30,24.} hos ham der hader mig,
 
-//15 og jeg har jublet 
+//15 og jeg har frydet mig 
 //16 når det onde ramte ham,
 
-//14 v30 så har jeg ikke tilladt{T: Ordret: >>givet<<.} min mund{T: Ordret: >>gane<<.} at synde{T: Sml. Job 2,9-10.} 
-//17
-//16
+//14 v30 så har jeg ikke tilladt mig  
+//17 at synde{H: Job 2,9-10.} 
+//16 med min mund{T: Ordret: >>gane<<.}
 
-//15 så jeg med en forbandelse bad om hans liv.
+//15 ved at ønske en forbandelse over ham.{N: Sjæl.}
 
-//13 v31 Hvis mænd fra mit telt nogensinde{E: *ʔim lōˀ* opfattet emfatisk efter en ed og ikke som nægtelse, andre oversætter nægtelsen.} har sagt:
+//13 v31 Mænd fra mit telt har virkelig sagt:
 
-//15 >Hvem er dog{T: Kan oversættes >>var der<<.}
-//16 ikke blevet mæt af hans kød?<{T: Der er flere forskellige tolkninger men meningen er klar: alle som var sultne, har fået mad ved Jobs bord.}
+//15 >Hvem er dog
+//16 ikke blevet mæt ved hans bord!<{T: Ordret: >>af hans kød<<.} 
 
-//14 v32 så overnattede ingen fremmed udenfor,
+//14 v32 Ingen fremmed overnattede  udenfor.
 
-//15 jeg åbnede min dør for de vejfarende.
+//15 Jeg åbnede min døre for de vejfarende.{H: Job 6,19.}
 
-//12 v33 Hvis jeg dækkede over min overtrædelse som en mand
+//12 v33 Hvis jeg har dækket over min overtrædelse som en mand{E: *kᵊʔādām* kan også oversættes >>som Adam<<.}{H: l Mos 2,7; 3,9-11.}
 
-//16 for at skjule min forbrydelse ved mit bryst
+//16 for at skjule mine forbrydelser{H: Job 31,11.28.} ved mit bryst
 
-//15 v34 fordi jeg frygtede den store skare,
+//15 v34 fordi jeg frygtede den store folkemængde,
 
 //16 og foragten fra slægterne forfærdede mig,
 
-//14 så forholdt jeg mig i ro 
-//13 og gik ikke uden for en dør.
+//14 så ville jeg have forholdt mig i ro 
+//13 og ikke være gået uden for en dør.
 
-//11 v35 Havde jeg dog én{T: Ordret: >>Hvem vil give til mig<<.} der ville høre på mig! 
+//11 v35 Gid man ville høre på mig! 
 
 //12 Se, her er min underskrift!{T: Ordret: >>Mit tegn<<.}
 //13 Den Almægtige skal svare mig!
 
-//15 Min anklager skal skrive et anklageskift!{T: Ordret: >>dokument<<.} {T: Der er flere mulige oversættelser her enten som ønske eller spørgsmål, men meningen er klar. >>Hvor er anklageskriftet min anklager skrev?<< eller >>Lad min anklager skrive et anklageskrift!<<.}
+//15 Min anklager skal skrive et anklageskrift!{E: Ordret: >>dokument<<. Det kan også oversættes >>Lad min anklager skrive et anklageskrift!<<.}
 
 //16 v36 Sandelig, jeg skulle tage det på min skulder,
 
-//17 jeg skulle binde det om mig som en krone.{T: Pluralis.}
+//17 jeg skulle binde det om mig som en krone.
 
-//14 v37 Jeg ville forkynde ham tallet på mine skridt,
+//14 v37 Jeg ville meddele ham tallet på mine skridt,
 
-//15 som en fyrste ville jeg nærme mig ham.
+//15 som en fyrste{H: Job 29,10.} ville jeg nærme mig ham.
 
-//10 v38 Hvis mit land havde råbt mod mig,
+//10 v38 Hvis min jord havde råbt til mig,
 
-//13 og alle dets furer havde grædt sammen,
+//13 og alle dens plovfurer havde grædt sammen,
 
-//12 v39 hvis jeg havde spist dets afgrøde uden betaling,{T: >>sølv<<.}
+//12 v39 hvis jeg havde spist dens afgrøde{T: Ordret: >>dens styrke<<.} uden betaling,
 
-//13 eller jeg havde fået dets ejere til at udånde,
+//13 eller jeg havde fået dens ejere{N: Sjæl.} til at udånde,{E:*hippāḥᵊtî* (*NFḤ*) >>få til at sukke<<. Sammen med *nefeš* >>sjæl<< må det betyde >>forårsage død/få til at udånde<<. Nogle vælger dog den ordrette oversættelse.}{H: Job 11,20.}
 
-//11 v40 lad der da vokse torne i stedet for hvede, 
 
-//12 ukrudt i stedet for byg!<<{T: Udtryk for forbandelse. Sml. 1 Mos 3,17-18, Es 5,6, Es 34,13.}
+//11 v40 måtte der da vokse torne i stedet for hvede, 
+
+//12 ukrudt i stedet for byg!<<{H: 1 Mos 3,17-18.} 
 
 //0 Det var afslutningen på Jobs tale.

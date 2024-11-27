@@ -1,8 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 30.10.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 27.11.2024>!!
 
 ===Jobs bog, kapitel 32===
 
@@ -10,14 +9,14 @@
 
 //0 v1 Da holdt disse tre mænd op
 //2 med at svare Job,
-//3 fordi han var retfærdig i egne øjne.
-//1 v2 Så blev Elihu, søn af buzitten Barak’el af Rams slægt{T: Navnene er vest-semitiske, men Buz har både aramaiske(1 Mos 22,21) og arabiske(Jer 25,23) relationer ligesom Us.(Job 1,1)} rasende.{T: Ordret: >>vreden flammede op i<<. Udtrykket forekommer fire gange i vers 2-5.}
-//4 På Job blev han rasende 
-//6 fordi han gjorde sig selv mere retfærdig end Gud,{T: Kan også oversættes >>han mente at han selv havde mere ret end Gud<<.}{E: *ʕal-ṣaddᵊqô nafšô mēˀᵉlōhîm* ordret: >>på grund af han gørende retfærdig/havende ret hans sjæl mere end Gud<<. *min* sammen med verbet i piel er her opfattet som komparativ. Samme konstruktion og oversættelse findes i Jer 3,11 og Ez 16,51-52. Se Elifaz’ udtalelse i Job 4,17 med note. Nogle vælger at oversætte *min* som præposition >>over for Gud<< og oversætter >>fordi han ville retfærdiggøre sig over for Gud<< eller >>mente at han havde ret over for Gud<<. De fleste oversættelser vælger >>retfærdig<< frem for at >>have ret<<.}
-//5 v3 og på hans tre venner blev han rasende
+//3 fordi han i egne øjne var retfærdig.{T: Kan også oversættes >>var uskyldig<<.}{H: Job 9.2.}
+//1 v2 Og Elihu, søn af Barak’el fra Buz,{H: 1 Mos 22,21.} af Rams slægt blev rasende.{H: Job 19,11}.
+//4 På Job blev han rasende
+//6 fordi han gjorde sig selv{N: Sjæl.} mere retfærdig end Gud,{E: Kan også oversættes >>anså sig selv for at kunne få ret fra Gud<<. LXX forstår ikke præpositionen *min* som komparativ og oversætter i stedet  >>havde ret over for Gud<<.}{H: Job 4,17; 9,2.}
+//5 v3 og på hans tre venner blev han rasende,
 //6 fordi de ikke kunne finde et svar,
-//7 men alligevel dømte Job skyldig.{T: Dette kan være en af de 18 rettelser i GT som man mener skriverne foretog idet det oprindelige sagte var: >>de dømte Gud skyldig<<, men dette kunne man ikke skrive om Gud. Man kan opfatte negationen hørende til begge verslinjer således >>de kunne ikke finde et svar og kunne ikke bevise at Job var skyldig<<.}
-//3 v4 Men Elihu havde ventet på at Job blev færdig med sit indlæg,{T: Ordret: >>ventet på i ord<<.}
+//7 men alligevel dømte Job skyldig.{H: Job 9,20.}
+//3 v4 Men Elihu havde ventet på at Job blev færdig med sit indlæg,
 //4 for de andre var ældre end ham.
 //2 v5 Da Elihu så
 //4 at der ikke var noget svar i de tre mænds taler,{T: Ordret >>mund<<.}
@@ -27,59 +26,60 @@
 ==Elihu taler til Jobs venner og konkluderer at Gud må gendrive Job==
 
 
-//2 v6 Så tog Elihu, Barak’els søn, fra Buz til orde
-//3 og sagde:
+//2 v6 Da svarede Elihu, Barak’els søn, fra Buz
+//3 :
 
-//4 >>Jeg er i mine yngre år,
+//4 >>Jeg er i en ung alder,{T: Ordret: >>yngre/yngst med hensyn til dagene<<.}
 
 //8 men I er ældre mænd,
 
-//7 derfor holdt jeg mig tilbage{E: Verbet *zāḥal* forekommer i den hebraiske tekst i GT kun i 5 Mos 32,24, Mika 7,17 og her og bruges om >>at krybe som en slange<<. I nærværende tekst tillægges det ofte betydningen af at vente. >>Frygt<< ligger også i verbet, derfor oversætter nogle >>derfor var jeg frygtsom<< eller >>frygtede jeg<<.}
-//10 og var bange for
+//7 derfor holdt jeg mig frygtsomt tilbage,
+//10 og jeg var bange for
 
-//11 at dele min forståelse med jer.{E: *ḥawwōt dēʕî* ordret: >>informere om min kundskab<<. Det kan referere til kundskab, kendskab eller erkendelse.}
+//11 at dele min forståelse.
 
-//9 v7 Jeg sagde til mig selv:{T: >>til mig selv<< er tilføjet.}
-//10 >Lad alderen tale{T: Ordret: >>dagene<<.}
+//9 v7 Jeg tænkte:
+//10 >Lad alderen tale,
 
 //12 og lad de mange år kundgøre visdom!<
 
 //11 v8 Dog,
-//12 ånden{E: *rûₐḥ* kan betyde et menneskes ånd. Det står parallelt med *nᵊšāmāʰ* *šadda* >>den Almægtiges åndedræt<</>>livsånde<< og kan derfor referere til den indsigt menneskets ånd modtager fra Guds ånd, som også giver mennesket liv. Se 1 Mos 2,7; Job 33,4; Es 63,10-11. Kundskab kan også komme fra en åbenbaring i en drøm jvf. Job 33,14f; Job 4,12ff, hvor ordet *rûₐḥ* forekommer begge steder.} er i mennesket,
+//12 ånden,{N: Ånd.} den er i mennesket,
 
-//14 og den Almægtiges åndedræt skal give dem{T: Dvs. menneskene.} indsigt.{T: Kan oversættes: >>gøre dem forstandige<<.} 
+//14 og den Almægtiges åndedræt{H: Job 4,9.} skal give dem indsigt. 
 
 //13 v9 Det er ikke de mange som er vise,
 
-//14 eller de gamle der forstår retten.
+//14 eller de gamle der forstår hvad der er ret.
 
 //8 v10 Derfor siger jeg:
 //9 >Hør på mig,
 
 //10 også jeg vil dele min forståelse.<
 
-//6 v11 Se, jeg ventede på jeres ord,{E: *millîn* Ordret: >>ordene<<, en aramaisk flertalsform. Gælder flere gange i kapitlet, se note til vers 15.}
+//6 v11 Da jeg ventede på jeres ord,
 
-//8 lagde øre til jeres indsigt,
+//8 lagde jeg øre til jeres indsigt
 
-//9 indtil I fik tænkt jer frem til{T: Ordret >>udforske<<.} ordene. 
+//9 indtil I fik tænkt jer frem til ordene. 
 
 //7 v12 Og jeg har forsøgt at forstå jer,
 
 //10 men se,
-//11 der var ingen af jer
-//13 som kunne bevise at Job tog fejl;{E: Verbet *môxîₐḥ* er en participium der betyder at >>overbevise og kende skyldig<<.}
+//11 der var ingen 
 
-//14 ingen{T: >>ingen<< er underforstået.} blandt jer kunne svare på hans tale,
+//13 som kunne bevise at Job tog fejl.{H:Job 5,17.} 
+
+//14 Ingen kunne svare på hans tale,
 //12
 
-//9 v13 så sig ikke:{E: *pen* ordret: >>for at ikke I skal sige<<.} 
-//10 >Vi har fundet visdom.
+//9 v13 medmindre I siger: 
+//10 >Vi har opnået visdom:
 
-//11 Gud må gendrive ham,{E: *yiddᵊfennû* Ordret: >>drive bort<<. Her betyder det >>overvinde<< og >>tilbagevise<< som bedst oversættes med >>gendrive<<. Det kan oversættes som en jussiv >>Lad Gud gendrive ham<<.}
-//12 ikke et menneske!<
+//11 Lad Gud gendrive ham,{E: *yiddᵊfennû* (>>drive bort<<), her i overført betydning >>overvinde<<, >>tilbagevise<<, >>gendrive<<.}
+//12 og ikke et menneske!<
 
-//8 v14 Men han har ikke rettet talen mod mig,
+//8 v14 Men han har ikke fremlagt sagen for mig,
 
 //9 og jeg vil ikke svare ham med jeres ord.
 
@@ -87,29 +87,29 @@
 ==Elihu taler nu direkte til Job==
 
 
-//5 v15 De{T: Ændringen fra anden person til tredje person viser at Elihu nu henvender sig til Job.} er forfærdet,{T: eller >>chokeret<<.}
-//8 de kan ikke svare mere,
+//5 v15 De er blevet forfærdede,
+//8 de kunne ikke længere svare,
 
-//7 ordene{E: *millîm* ordret: >>ordene<< er den hebraiske flertalsform. Men ofte her i Jobs bog anvendes den aramaiske flertalsform *millîn*, se vers 11 og 14. Især i Elihus taler forekommer den aramaiske flertalsform.} er blevet borte for dem.{H: Job 4,2; 18,2; Job 33,32; Job 35,4.16.}
+//7 ordene er blevet borte for dem.
 
-//6 v16 Jeg ventede på dem.{T: Nogle oversætter >>Skal jeg vente<<.}
-//8 Men fordi de ikke siger noget, 
+//6 v16 Jeg ventede på dem.
+//8 Men fordi de ikke taler, 
 
-//9 - ja, de stod der, 
-//10 og svarede ikke længere - 
+//9 fordi de stod 
+//10 og ikke svarede længere, 
 
-//7 v17 vil jeg også svare med mit bidrag,{E:*ḥēleq* >>portion, andel<<. Meningen må være at det nu er hans tur.}
+//7 v17 vil jeg også svare med mit bidrag,{E:*ḥēleq* >>portion, andel<<.}
 
 //7 også jeg vil dele min forståelse,
 
 //11 v18 for jeg er fuld af ord,
 
-//12 ånden i mit indre{E: *beṭen* er oversat med >>indre<<, vers 8. I visdomslitteraturen er menneskets indre det sted, hvor visdommen findes. De tanker som findes der, kommer til udtryk på læberne.} trænger sig på.{H: Ordsp 22,17-18.}
+//12 ånden{N: Ånd.}{H: Job 32,8.} i mit indre{H: Job 15,2.} trænger sig på.
 
-//10 v19 Se, mit indre er som vin {H: Jer 20,9.}
+//10 v19 Se, mit indre er som vin
 //12 der ikke er åbnet for,
 
-//11 som nye vinsække der er ved at sprænges.
+//11 som nye sække der er ved at sprænges.
 
 //9 v20 Lad mig tale
 //10 så jeg kan få luft;
@@ -117,11 +117,11 @@
 //8 jeg vil åbne mine læber
 //10 og svare.
 
-//9 v21 Jeg vil ikke undgå at nogen taber ansigt,{E: *ʔal-nāˀ ʔeśśāˀ fᵊnê-ʔîš* >>lad mig ikke løfte en mands ansigt<< bruges om at >>se nogen i øjnene<< i 2 Sam 2,22, og >>vise sig imødekommende<<, jvf. den aronitiske velsignelse i 4 Mos 6,26. I vers 21 oversættes verberne med >>tabe<< og >>smigre<<, og dette gentages i vers 22. Oversættelsen afspejler ordspillet i den hebraiske tekst.}{H: Job 34,19.}
+//9 v21 Jeg vil ikke tage parti for nogen,{H: Job 13,10; 34,19.}
 
 //11 og jeg vil ikke smigre noget menneske,
 
 //10 v22 for jeg forstår mig ikke
 //11 på at smigre,
 
-//12 for min skaber ville lade mig tabe med det samme.<<{E: *mʕaṭ yiśśāʔēnî* Ordret: >>pludselig/hurtigt løfte mig<< er et ordspil med vers 21: >>løfte en andens ansigt<< og >>selv blive løftet hurtigt op<<.}{H: 1 Mos 40,20; 40,22.}
+//12 for min skaber ville hurtigt tage mig væk.{E: I teksten er der et ordspil på verbet *nśʔ* (>>løfte op<<), som i vers 21 indgår i en fast vending om >>at tage parti for<<, men her om >>at løfte op (og fjerne)<< ligesom i 1 Mos 40,20.}.{H: Job 27,8.}
