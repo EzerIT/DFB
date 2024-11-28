@@ -81,10 +81,10 @@ makemenus(3);
                 støtte en bestemt fortolkning af teksten hvis andre fortolkninger er mulige.</p>
 
               <p>Stave- og tegnsætningsanbefalinger fra
-                  <a href="https://dsn.dk/ordboeger/retskrivningsordbogen/"target="_blank">Retskrivningsordbogen&nbsp;2012</a>
-                  skal følges, herunder anbefalingen af at man undlader at sætte startkomma
-                  (<a href="http://dsn.dk/retskrivning/retskrivningsregler/a7-40-60/a7-45-51/a7-49-50"
-                    target="_blank">Retskrivningsordbogen §49-50</a>). Er oversætteren ikke selv fortrolig med disse
+                  <a href="https://ro.dsn.dk"target="_blank">Retskrivningsordbogen&nbsp;2024</a>
+                  skal følges. Det anbefales endvidere at man undlader at sætte startkomma
+                  (<a href="https://ro.dsn.dk/?type=rulesearch&side=49"
+                    target="_blank">Retskrivningsordbogen §49</a>). Er oversætteren ikke selv fortrolig med disse
                 regler, rettes det til ved den endelige korrektur.</p>
 
               <p>Hvis der arbejdes ud fra 1871- eller 1907-oversættelsen, skal man især være opmærksom på de drilske,
