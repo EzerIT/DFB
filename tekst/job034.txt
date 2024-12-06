@@ -1,104 +1,102 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 30.10.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.12.2024>!!
 
 ===Jobs bog, kapitel 34===
 
  
-==I sin anden tale forsvarer Elihu Guds retfærdighed==
+==Elihus anden tale==
  
 
-//0 v1 Elihu forsatte 
-//1 med at svare:
+//0 v1 Elihu fortsatte med at  
+//1 svare:
 
 //2 v2 >>Hør, 
 //8 I vise,
-//7 min tale,{T: Ordret: >>mine ord<<.}
+//7 mine ord!
 
 //6 I forstandige,
-//7 vend jeres ører til mig.
+//7 vend jeres ører til mig!
 
-//8 v3 For øret prøver ordene,{E: Aramaisk flertalsform.} 
+//8 v3 For øret prøver ordene, 
 
 //9 som ganen smager 
-//10 på maden.{H: Job 12,11.}
+//10 for at spise.
 
-//5 v4 Lad os vælge for os selv hvad der er ret.{E: *mišpāṭ* Ordret: >>ret<< eller >>retfærdighed<<. Derfor kan man også oversætte >>hvad der er retfærdigt<<.}{H: Job 40,8.}
+//5 v4 Lad os afgøre for os selv hvad der er ret,
 
-//7 Lad os sammen forstå 
-//9 hvad der er godt. 
+//7 lad os sammen forstå 
+//9 hvad der er godt!
 
 //8 v5 For Job sagde: 
-//9 >Jeg er retfærdig,{E: *ṣādaqtî* betyder også >>har ret<<, så meningen må være: Jeg har ret fordi jeg er retfærdig. Dette ordspil er gennemgående i Jobs taler. De fleste oversættelser vælger >>jeg er retfærdig<<. Begge oversættelser giver god mening.}{H: Job 10,15; 13,18; Job 9,15.20.}
+//9 >Jeg er retfærdig,{E: >>Jeg har ret, jeg er retfærdig.<< Dette er gennemgående i Jobs taler. De fleste oversættelser vælger her >>jeg er retfærdig<<. Set i lyset af henvisninger kan det oversættes >>jeg er uskyldig<<.}{H: Job 6,29; 13,18; 27,6.}
 
-//11 men Gud har tilsidesat min ret.{E: *mišpāṭî* kan også betyde >>min retfærdighed<<.}{H: Job 27,2; Job 19,7; Job 40,8} 
+//11 men Gud har fjernet min ret.{E: *mišpāṭî*, >>min ret<<, >>min retfærdighed<<.}{H: Job 19,7; 27,2; 40,8.} 
 
-//10 v6 Om min ret er jeg tvunget til at lyve,{T: Kan oversættes >>Skal jeg lyve om min ret?<<.}{H: Job 27,6; Job 16.8; 10,17; Job 19,19-21.}
+//10 v6 Skal jeg lyve om min ret? 
 
-//11 mit uhelbredelige sår{T: Ordret: >>pil<<, her et billede på det sår som pilen forårsager.} skyldes ikke overtrædelse.<{H: Job 33,9; Job 16,9-14; Job 19,7-12.}
+//11 Mit uhelbredelige sår{T: Ordret: >>pil<<, der er årsagen til såret.} skyldes ikke overtrædelse!<
 
 //6 v7 Hvem er en mand som Job?
 
-//8 Han drikker jo spot som vand,{T: Citat fra Elifaz hvor >>uret<< er skiftet ud med >>spot<<.}{H: Job 15,16; Job 19,2-6; Job 17,2.6.}
+//8 Han drikker jo hån som vand,{H: Job 15,16.}
 
-//9 v8 og han rejser i selskab med dem som øver uret,
+//9 v8 og han rejser i selskab med forbrydere.{T: Ordret: >>gørende uret/ondskab<<.}{H: Job 31,3.}
 
-//10 og er det for at vandre sammen med ugudelige folk?{T: De fleste oversætter det som et udsagn, men spørgsmålet stemmer overens med citatet fra Elifaz, det stiller spørgsmål til Job.}{H: Job 22,15-17.}
+//10 Men er det for at vandre sammen med ugudelige folk?{T: Oversættelsen svarer til Elifaz’ spørgsmål til Job i Job 22,15-17. De fleste oversætter det som et udsagn.}
 
 //7 v9 For han sagde: 
 //8 >Det gavner ikke en mand 
 
-//9 når han finder behag hos Gud.<{H: Job 22,2; 21,14-16; Job 35,3.}
+//9 når han finder behag hos Gud.<{H: Job 21,14-15; 22,2-3.} 
  
 //4 v10 Derfor, 
-//7 I mænd som har forstand,{T: Ordret: >>hjerte<<.} 
+//7 I mænd som har forstand,{N: Hjerte.} 
 //6 hør på mig! 
 
-//5 Det være langt fra Gud at være ond{H: Job 27,5; Sl 5,5.} 
+//5 Det være langt fra Gud at handle i ugudelighed{E: *rešaʕ*, >>ugudelig<<, >>ondt<<, >>uretfærdig<<.}  
 
-//8 og fra den Almægtige at være uretfærdig,{H: Job 31,6.}
+//8 og fra den Almægtige at gøre uret,{E: *ʕāwel*, >>uretfærdighed<<, >>uret<<.}
 
 //7 v11 for han gengælder mennesket efter dets gerning
 
 //8 og lader en mand finde sin egen sti. 
 
-//6 v12 Ja, i sandhed, Gud handler ikke ondt,{T: Kan oversættes >>ugudeligt<<,
->>uretfærdigt<<.}{H: Neh 9,33.}
+//6 v12 Men, i sandhed, Gud kan ikke dømmes skyldig,
 
-//9 og den Almægtige fordrejer ikke retten.{H:  Job 8,3.}
+//9 og den Almægtige fordrejer ikke retten.{H: Job 8,3.}
 
-//8 v13 Hvem har indsat ham over jorden,{T: Kan oversættes >>Hvem har overdraget ansvaret for jorden til ham<<, underforstået >>til Gud<<.}
+//8 v13 Hvem har indsat{H: Job 5,24.} ham over jorden,
 
-//9 og hvem har overladt hele verden til ham?{E: Verbum og forholdsordsled fra forudgående verslinje er underforstået og derfor er >>overladt til ham<< tilføjet. I udtrykket ligger der at han skulle bære hele verden på sine skuldre.}
+//9 og hvem har overladt hele verden til ham?
 
-//7 v14 Hvis han tænkte over det{T: Ordret: >>lægger sit hjerte i det<<.}{H: Job 2,3.} 
+//7 v14 Hvis han tænkte over det{N: Hjerte.}{H: Job 2,3.} 
 
-//9 og ville tage sin ånd og sit åndedræt tilbage,{H: Job 32,8; Sl 104,29; 1 Mos 2,7.} 
+//9 og ville tage sin ånd{H: Ånd.} og sit åndedræt tilbage,{H: Job 32,8; Sl 104,29; 1 Mos 2,7.} 
 
-//8 v15 da ville alle mennesker{T: Ordret: >>alt kød<<.} på samme tid udånde, 
+//8 v15 da ville alt kød{H: 1 Mos 7,22.} på samme tid udånde, 
 
-//9 og mennesket blive til støv igen.
+//9 og mennesket ville vende tilbage til støv igen.
  
 //3 v16 Hvis du har indsigt, 
-//5 så hør nu rigtig godt efter dette
+//5 så hør dette,
 
-//6 og læg ører til fremførelsen af min tale!  
+//6 læg opmærksomt øre til fremførelsen af min tale!  
 
-//7 v17 Kan en der hader ret, også styre,{E: *yaḥᵃvôš* Ordret: >>binde<<, her i overført betydning >>betvinge<<, >>styre<<.}{H: Job 40,13.}
+//7 v17 Men kan en der hader ret,{H: Job 9,2; 27,2.} styre,{E: *yaḥᵃvôš* (>>binde<<) i overført betydning >>betvinge<<, >>styre<<.}
 
-//9 eller vil du dømme den retfærdige, den mægtige skyldig?
+//9 eller vil du dømme den retfærdige, den mægtige, skyldig?{H: Job 34,12.}
 
 //11 v18 Vil man sige til en konge: 
-//13 >Du onde{T: Eller >>gudløse<<.} tåbe!<{E: *bᵊliyyāʕal* bruges om gudløse tåber.}{H: 1 Sam 25,25; 2 Sam 16,7.}
+//13 >Du gudløse tåbe!<{H: 1 Sam 25,25; 2 Sam 16,7.}
 
 //13 eller >Din forbryder!<
-//12 til fyrster?{T: Ordret: >>fornemme<<.} 
+//12 til fornemme?
 
-//10 v19 Men det er jo ham,{T: Gud.} som ikke tager hensyn til{T: Ordret: >>ikke løfter stormænds ansigt<<. Kan oversættes >>ikke tager parti for<<.} stormænd{H: Job 32,21-22.}
+//10 v19 Men det er jo ham{T: Gud.} som ikke tager parti for ledere{H: Job 32,21-22.}
 
-//11 og ikke sætter den rige over den fattige, 
+//11 og ikke sætter den fornemme over den fattige,{H: Job 5,16.} 
 
 //12 for de er alle hans hænders værk. 
 
@@ -106,94 +104,95 @@
 //10 og midt om natten rystes et folk, 
 
 //11 og de forgår; 
-//11 de magtfulde går bort, 
+//11 de magtfulde{H: Job 24,22.} går bort, 
 
-//12 men ikke ved menneskelig magt.{T: Ordret: >>ved en hånd<<.}  
+//12 ikke ved menneskelig magt. 
 
 //9 v21 For hans øjne er over menneskets veje, 
 
 //15 og han ser alle dets skridt. 
 
 //14 v22 Der er intet mørke 
-//15 og intet mulm 
+//15 og intet dybt mørke 
 
-//16 så de som øver uret, kan skjule sig der.{H: Job 7,17-20; Job 10,13-14. Sl 139,7-12; Amos 9,2-4; Jer 23,24.} 
+//16 til at skjule sig i dér for dem som øver uret.{H: Job 4,8.}
 
+//13 v23 For han fastsætter ikke et tidspunkt{E: *ʕôd* (>>igen<<) ændres af de fleste til *môed* (>>tidspunkt<<).} for et menneske 
 
-//13 v23 For han fastsætter ikke en ny dato{T: Ordret: >>fastsætter ikke yderligere<<.} for et menneske 
+//14 til at skulle møde Gud i retten. 
 
-//14 til at møde Gud i retten. 
-
-//12 v24 Han knuser de magtfulde uden at skulle udforske dem,
+//12 v24 Han knuser de magtfulde uden efterforskning,
 
 //13 og han sætter andre i deres sted. 
 
-//11 v25 Derfor lægger han mærke til deres gerninger, 
+//11 v25 Fordi han kender deres gerninger, 
 
-//13 og han ændrer alt i løbet af en nat
-//14 så de bliver knust.{H: Job 20,4-5.}
+//13 styrter han dem om natten,
+//14 og de bliver knust.
 
 //12 v26 Som forbrydere straffer han dem 
 
-i fuld offentlighed{T: Ordret: >>på et sted de kan se<<.}
+i fuld offentlighed,{T: Ordret: >>på et sted de ser<<.}
 
-//14 v27 fordi de veg bort fra ham 
+//14 v27 fordi de vendte sig væk fra ham. 
 
-//15 og ikke gav agt på alle hans veje,
+//15 De gav ikke agt på{H: Job 17,4; 34,35.} alle hans veje,
 
-//13 v28 for at bringe den ringes{T: Eller >>hjælpeløses<<.} skrig ind for ham 
+//13 v28 at bringe den fattiges{H: Job 5,16.} skrig ind for ham 
 
-//14 så han kunne lytte til de undertryktes skrig. 
+//14 så han kunne lytte til de hjælpeløses{H: Job 24,4.} skrig. 
 
-//10 v29 Når han skaffer ro
-//13 hvem vil da dømme ham skyldig? 
+//10 v29 Skaffer han ro,
+//13 hvem vil da dømme ham skyldig?{H: Job 34,12.} 
 
-//12 Når han skjuler sit ansigt{H: Job 13,24; 23,9; Sl 10,1; Sl 44,25; Sl 88,15.} 
-//13 hvem kan da se ham?{T: Ordret: >>se nøje på ham<<. Det må være underforstået >>hvem kan få Gud til at vise sit ansigt så man kan se ham.<< Almindeligvis betyder det at Gud skjuler sit ansigt, at han er vred.}{H: Sl 27,8-9; Es 8,17; 54,8; 64,6; Mika 3,4; 5 Mos 32,20.} 
+//12 Skjuler han sit ansigt,{H: Job 13,24. Sl 44,25.}
+//13 hvem kan da iagttage ham?{H: Job 7,8,}
 
-//15 – Hvad enten det gælder et folk eller et enkelt menneske –{T: Meningen er at såvel >>et folk<< som >>et enkelt menneske<< skjuler han sig for, men han ser og handler med dem. Dette konkretiseres i vers 30.}
+//15 Han er over både et folk og over et enkelt menneske,
 
-//14 v30 han gør en gudløs mand til konge og straffer et genstridigt folk{T: Eller >>han hindrer ikke et gudløst menneske i at blive konge og lægge fælder for folket<<. Ordret: >>fra at blive konge en gudløs mand fra fælder for folk<<. Nogle tolker at >>Gud forhindrer<<, altså det modsatte. Oversættelsen af vers 29-30 er vanskelig og meget omdiskuteret. Nærværende oversættelse er et udtryk for at Gud skjuler sit ansigt, er vred og straffer. Dette er også i overensstemmelse med profeternes udsagn, f.eks. i Es 10,5 om Assyrien som Guds vredes kæp.}{H: Job 24,1-17}
+//14 v30 så ikke et gudløst menneske bliver konge, så der ikke er fælder for folket.{T: Oversættelsen er omdiskuteret. De fleste vælger oversættelsen her. Men teksten kan også oversættes >>Han gør et gudløst menneske til konge og straffer/lægger fælder for et folk<<, ikke mindst i lyset af foregående vers (>>skjuler han sit ansigt<<), og stemmer også overens med profeternes vidnesbyrd som i Es 10,5f.}{H: Dan 2,21; 4,14.22.29; 5,21. Jer 18,7-8.}
 
-//11 v31 For 
-//14 til Gud 
-//13 kan han da sige: 
+//11 v31 Men 
+//14 sig{E: *heʔāmar* er en ualmindelig form, og den interrogative partikel synes at stå i en uforståelig position. Derfor ændres teksten til >>men sig i stedet til Gud<<. Andre oversætter >>For har nogen sagt til Gud<<.} til Gud: 
+//13 
 
-//12 >Jeg har fået nok,{T: Ordret: >>Jeg har løftet op, båret<<, >>af tugt<<, >>af straf<< er underforstået. Teksten mangler et objekt og dette har medført mange forslag til oversættelsen.}
-//15 jeg vil ikke handle ondt.{H: Neh 1,7.} 
+//12 >Jeg har holdt ud,{E: Ordret: >>Jeg har båret (tugt)<<. Anden mulig oversættelse >>jeg har fået nok<< eller >>jeg er skyldig<<. Nogle ændrer vokaliseringen af *nāśāˀtî* til en passiv *niśśetî* (>>blevet vildledt<<).}
+//15 jeg vil ikke handle ondt igen.{H: Neh 1,7.} 
 
-//15 v32 Bortset fra hvad jeg selv kan se,{H: Job 6,24; Job 10,2, Job 13,23.}
-//14 skal du vejlede mig.
+//15 v32 Bortset fra hvad jeg selv kan se,{H: Job 15,17.}
 
-//13 Hvis jeg har gjort uret, 
+//14 skal du undervise mig. 
+
+//13 Hvis jeg har gjort uret,{H: Job 34,10.} 
 //14 vil jeg ikke fortsætte med det.<
 
-//4 v33 Er det på dine vilkår at han skal gengælde{H: Job 34,11.}
-//9 fordi du er afvisende? 
+//4 v33 Er det på dine vilkår at han skal gengælde,{H: Job 34,11.}
+//9 fordi du afviser? 
 
-//8 For du skal selv vælge 
-//9 og ikke jeg, 
+//8 Men du skal selv vælge, 
+//9 ikke jeg, 
 
 //7 og 
-//9 hvad ved du 
-//8 om at meddele noget? 
+//9 hvad ved du? 
+//8 Tal! 
 
-//6 v34 Folk med forstand {T: Ordret >>hjerte<<.} vil sige til mig
+//6 v34 Forstandige mænd siger til mig
 
-//8 - selv en vis mand,
-//9 der hører på mig -: 
+//8 og en vis mand,
+//9 der hører på mig: 
 
 //7 v35 >Job taler ikke med kundskab, 
 
 //8 og hans ord
-//9 er uden indsigt.< 
+//9 er uden indsigt.{H: Job 17,4; Job 34,27.} 
 
-//5 v36 Åh, min far,{T: Nogle foreslår blot >>Åh<<, andre >>jeg ønsker<< eller >>men<<.} 
+//5 v36 Åh,{E: *ʔāvî* (>>min far<<) opfattes af de fleste som et >>ak<<, >>åh<<.}
+//6 Job bliver prøvet til det yderste
+ 
+på grund af sine svar, ligesom{E: Præpositionen *bᵊ* oversættes som i Job 36,14 med >>ligesom<<. Nogle oversætter *bᵊ* med >>blandt<<.} onde mænd.
 
-//6 lad Job blive prøvet til det yderste på grund af sine svar, ligesom{E: Præpositionen *bᵊ* oversættes som i Job 36,14 med >>ligesom<<. Nogle oversætter *bᵊ* med >>blandt<<.} onde mænd,
+//7 v37 For han øger sin synd med overtrædelse, 
 
-//7 v37 fordi han øger sin synd med oprør{T: Eller >>overtrædelse<<.} 
+//8 i vores midte klapper han i hænderne{E: Nogle mener at ordene helt skal udelades. Andre foreslår en vokalændring af *yispôq* til *yaspiq*, der på aramaisk betyder >>tvivl<<, og flytter >>overtrædelse<< til den næste linje og oversætter >>i vores midte sår han tvivl om sin overtrædelse<<.}
 
-//8 Han klapper i hænderne iblandt os{E: *yispôq* >>han klapper (i hænderne)<< kan hentyde til at han spotter Gud og mennesker. Andre forslag er at han gør dem usikre, eller at ordene helt skal udelades.}
-
-//9 og fremsiger sine mange ord imod Gud.<<
+//9 og siger rigtig mange ord til Gud<<<

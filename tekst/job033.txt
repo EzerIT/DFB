@@ -1,181 +1,178 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 30.10.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 06.12.2024>!!
 
 ===Jobs bog, kapitel 33===
 
 
-==Elihu understreger sin oprigtighed over for Job==
+==Elihu fortsætter sine tale til Job==
 
-//0 v1 >>Men altså,
+//0 v1 Men nu,
 //1 lyt dog,
 //7 Job,
-//6 her kommer min tale,
+//6 til min tale,
 
 //5 og alle mine ord skal du lægge øre til!
 
-//4 v2 Se nu, jeg har åbnet munden,
+//4 v2 Se dog, jeg har åbnet min mund,
 
-//7 min tunge taler i min mund.{T: Ordret: >>i min gane<<.} 
+//7 min tunge taler i min mund. 
 
-//6 v3 Min tale kommer fra et oprigtigt hjerte,{E: yōšer-libbî >>mit hjertes oprigtighed/retskaffenhed<<.}{H: Job 6,25; 33,23; Ordsp. 8,6-9; 5 Mos 9,5; 1 Krøn 29,17.}
+//6 v3 Mine ord kommer fra et oprigtigt hjerte,{H: Job 6,25; 1 Krøn 29,17.} 
 
-//7 og mine læber taler 
+//7 og de meddeler{H: Job 8,2.} ærligt kundskaben fra mine læber.{H: Ordsp 8,6.} 
+ 
+//5 v4 Guds ånd{N: Ånd.}{H: Job 32,8.} har dannet mig,
 
-ærligt{T: >>rent<<.}om det jeg ved.
-
-//5 v4 Guds ånd{H: Job 32,8.} har skabt mig,
-
-//6 og den Almægtiges livsånde holder mig i live.
+//6 og den Almægtiges åndedræt{H: Job 4,9.} holder mig i live.
 
 //3 v5 Hvis du kan,
 //6 svar mig,
 
-//7 ret ordene mod mig,
-//7 stå frem!{T: Ordret: >>Stil dig selv op<< må i konteksten henvise til at han skal rejse sig som forsvarer.}
+//7 fremlæg argumenterne direkte for mig,{H: Job 32,14.}
+//7 træd du blot frem! 
 
-//5 v6 Se, jeg er som din mund over for Gud,{H: 2 Mos 4,11-16.}
+//5 v6 Selvom jeg er som din mund over for Gud,{H: 2 Mos 4,15.}
 
-//7 også jeg er formet af ler.{T: Ordret: >>klemt ud af (en klump) ler<<.}
+//7 er jeg også blevet klemt ud af ler. 
 
-//6 v7 Se, du må ikke forfærdes af rædsel for mig,
+//6 v7 Se, rædsel{H: Job 9,34; 13,21.} for mig må ikke skræmme dig,
 
-//7 og jeg vil ikke lægge noget hårdt pres på dig.{H: Job 13,21; Job 23,15.}
+//7 og jeg vil heller ikke lægge noget hårdt pres på dig.
 
 
-==Elihu forkaster Jobs påstand om uskyld==
+==Elihu forkaster Jobs påstand om Gud, for han er større end et menneske==
 
 
 //4 v8 Dog, du sagde i mit påhør,
 
 //7 og jeg hørte ordene tydeligt:
 
-//6 v9 >Jeg er ren,
-//7 uden overtrædelser,{H: Job 13,23.} 
+//6 v9 >Jeg er ren,{H: Job 8,6.}
+//7 uden overtrædelser,{H: Job 7,21; 13,23.} 
 
-//6 jeg er pletfri,{H: Job 9,21; Job 10,7; Job 11,4; Job 16,17; Job 23,7; Job 31.}
-//8 og der er ingen skyld ved mig.{E: *ʕāwōn* bruges i så forskellige betydninger som >>overtrædelse<<, >>skyld<<, >>straf<<.}{H: Job 7,21; Sl 18,21-27.}
+//6 jeg er pletfri, 
+//8 og der er ingen skyld ved mig.{H: Sl 18,23.}
 
-//7 v10 Se, han finder anklagepunkter hos mig,{E:  *tᵊnûʔāʰ* Ordets nøjagtige betydning er uklar. Det findes kun her og i 4 Mos 14,34, oversat med >>grund til fjendtlighed<<.}{H: Job 13,23.}
+//7 v10 Når han finder anklagepunkter hos mig,
 
-//8 han regner mig som sin fjende.{H: Job 13,24; Job 19,11.}
+//8 regner han mig som sin fjende.{H: Job 13,24.}
 
-//9 v11 Han lægger mine fødder i blokken
+//9 v11 Han lægger mine fødder i blokken{H: Job 13,27.}
 
-//10 og vogter på alle mine stier.<{H: Job 13,27.}
+//10 og vogter på alle mine stier.<
 
-//5 v12 Se, det har du ikke ret i!
-//8 Jeg vil svare dig
+//5 v12 Da du ikke har ret i dette,
+//8 vil jeg svare dig,
 
-//7 at Gud er større end et menneske.{H: Job 9; Job 5,9; Job 11,7-11; Job 25,1-3.}
+//7 for Gud er større end et menneske.{H: Job 4,17; 9,2; 25,4.}
 
-//6 v13 Hvorfor rejser du anklage mod ham{H: Job 9,3 og 14-16.}
+//6 v13 Hvorfor går du i rette med ham{H: Job 5,17.}
 
-//8 fordi han ikke svarer alle ord fra et menneske?{T: Ordret: >>alle hans ord<<.}
+//8 fordi han ikke svarer på alle menneskets ord? 
 
-//9 v14 For Gud taler jo på én måde,{H: Job 33,29.}
+//9 v14 For Gud taler på én måde,{H: Job 33,29.}
 
-//11 og så på en anden,{H: Sl 62,12.}
-//10 men man bliver ikke klar over det.{E: *yᵊšûrennāʰ* betyder >>iagttage<<, >>se nøje på<<, >>bøje af for at se nærmere på det<<. Særligt i Jobs bog findes dette verbum og anvendes gentagne gange af Elihu.}{H: Job 33,27; Job 34,29 og Job 35,5.14.}
+//11 og så på en anden,
+//10 men man ser det ikke{H: Job 7,8.} 
 
-//7 v15 I drømme,{H: 1 Mos 40; 1 Mos 41,32.} i et nattesyn,
+//7 v15 I drømme, i et nattesyn,
 
-//11 når en dyb søvn falder over folk,
+//11 når en dyb søvn falder over folk
 
-//10 når de slumrer på sengen,{H: Job 4,13.}
+//10 mens de slumrer på sengen,{H: Job 4,12-13.}
 
-//9 v16 da åbner han menneskenes ører{E: Det betyder her >>giver menneskene en åbenbaring<<. Der er tale om et idiomatisk udtryk som betyder >>informere<<, men når Gud er subjekt, betyder det >>åbenbare<<, >>give en åbenbaring<<.}{H: Ruth 4,4; 1 Sam 20,2; Gud: 1 Sam 9,15; 2 Sam 7,27; Job 36,10.15.}
+//9 v16 da åbenbarer han et budskab for mennesker{T: Ordret: >>afslører han for menneskenes ører<<.}{H: 1 Sam 9,15.}
 
-//11 og standser{T: Ordret: >>sætter sit segl på dem<< med henblik på at forsegle et indhold.} dem med en advarsel{E: Næsten samme ordvalg med tilrettevisning i Job 36,10. Oversættelsen her er meget omdiskuteret, og en del ændrer vokaliseringen til >>han forfærder dem med advarsler<<.}{H: Job 4,12ff.}
+//11 og forsegler{H: Job 14,17.} det med en advarsel{H: Job 36,10.} til dem
 
-//12 v17 for at bringe et menneske bort fra en handling{T: Dvs. hans onde handling.}
+//12 v17 for at få et menneske til at holde op med en handling,
 
-//13 og for at dække over en mands hovmod.{H: Ordsp 16,18.}
+//13 og han skjuler hovmodet hos en mand.
 
-//10 v18 Han skåner hans sjæl for graven{H: Job 17,14.}
+//10 v18 Han skåner hans sjæl{N: Sjæl.} for gruben{H: Job 17,14.}
 
 //15 og hans liv
-//14 for at ende for et kastespyd.{T: Oversættelsen af verset er omdiskuteret. Se note til Job 36,12.}
+//14 for at ende for et kastespyd.{H: Job 36,12.}
 
-//13 v19 Han tugtes{H: Job 5,17.} ved smerter på sit leje
+//13 v19 Han tugtes{H: Job 5,17.} med smerter på sit leje
 
-//15 og en konstant uro i hele kroppen,{T: Ordret: >>i hans knogler<<.}
+//15 og en konstant pine i knoglerne,
 
-//14 v20 så han mister lysten til det daglige brød{T: Ordret: >>hans liv væmmes ved brød<<.}
+//14 v20 så han væmmes ved det daglige brød
 
-//15 og lækker mad.{T: Ordret: >>hans sjæl ved eftertragtet mad<<.}
+//15 og hans sjæl{N: Sjæl.} ved lækker mad. 
 
-//12 v21 Hans legeme {T: Ordret: >>hans kød<<.} sygner hen til ukendelighed,
+//12 v21 Hans kød sygner hen så det ikke kan ses,
 
-//14 og hans knogler stikker ud,{T: Ordret: >>er blotlagt<<.}
-//15 før{T: >>før<< tilføjet.} kunne de ikke ses.{H: Job 19,20; Es 12,1.}
+//14 og hans knogler stikker ud,
+//15 før kunne de ikke ses.{H: Job 19,20.}
 
-//13 v22 Hans sjæl nærmer sig graven
+//13 v22 Hans sjæl nærmer sig gruben{H: Job 33,18.}
 
-//14 og hans liv dødens kræfter.{E: *mᵊmitîm* betyder >>de dræbende<<; mange gætter på dæmoner eller retter teksten til >>de døde<< eller >>et dødsrige<<.}
+//14 og hans liv de døde.{E: *mᵊmitîm* >>de dræbende<<. Nogle ændrer til *lᵊmo metîm* (>>de døde<<). Andre retter teksten til *limqom metîm* (>>stedet for de døde<<).} 
 
 
 ==Gud udfrier fordi han betaler løsesummen==
 
 
-//11 v23 Hvis der da ved siden af ham er en engel,{H: Sl 34,7-8.}
+//11 v23 Hvis der da ved siden af ham er en engel,{N: Budbringer.}{H: Sl 34,7-8.}
 
-en udsending,{E: *mēlîṣ* bruges om en tolk 1 Mos 42,23, en udsending 2 Krøn 32,31 og måske fortaler eller talsperson Es 43,27.}{H: Job 9,33; Job 16,19; Job 19,25.} én ud af tusinde,
+en talsmand,{E: *mēlîṣ*, >>tolk<< (1 Mos 42,23), >>talsmand<<, >>fortaler<<.}{H: Job 9,33; 16,19; Job 19,25.} én ud af tusinde,
 
-//14 til at meddele et menneske om dets oprigtighed,
+//14 for at meddele et menneske hvad der er ret for ham,
 
-//13 v24 og han forbarmer sig over det
+//13 v24 og han viser ham nåde
 //14 og siger:
 
-//15 >Frels ham
-//17 fra at gå ned i graven.
+//15 >Frels{H: Job 33,28.} ham
+//17 fra at gå ned i gruben.
 
-//16 Jeg har fundet en løsesum.<{H: 2 Mos 30,12-16.}
+//16 Jeg har fundet en løsesum{H: 2 Mos 30,12. Sl 49,8-10.16.} for ham.<{E: *napso* >>for hans sjæl<<, >>for ham<< menes at være faldet ud.}
 
-//12 v25 Da bliver hans legeme sundere end i ungdommen,
+//12 v25 Hans legeme bliver stærkere end i ungdommen,
 
-//13 han får sine unge år tilbage.{T: Ordret: >>han vender tilbage til sin ungdoms dage<<.}
+//13 han får sine unge år tilbage.
 
-//13 v26 Han beder til Gud, 
-//14 og han har behag i ham,{T: Eller: >>er ham nådig<<.}
+//13 v26 Han beder indtrængende til Gud, 
+//14 og han har behag i ham.
 
-//16 og han ser hans ansigt under fryderåb,
+//16 Han ser hans ansigt under fryderåb,
 
-//15 og han{T: Gud} bekræfter for mennesket dets retfærdighed.{E: *yyāšev leˀᵉnôš ṣidqātô* ordret: >>han giver tilbage til mennesket dets retfærdighed<<. Nogle oversætter >>genopretter<<, >>meddeler<<. Nøjagtig den samme hebraiske formulering møder vi hos David i Sl 51,14 *hāšîvāʰ llî śᵊśôn yišʕexā* >>lad glæden over din frelse vende tilbage til mig<<.} 
+//15 og han giver mennesket sin{T: Alternativt >>dets<<.} retfærdighed tilbage.{H: Sl 51,14.} 
 
-//13 v27 Han synger{E: *yāšōr*kan afledes fra roden *šûr* >>iagttage<<, men de fleste ændrer vokaliseringen til *yashir*, der betyder >>synger<<.} for mennesker
-//14 og siger:
+//13 v27 Han synger{E: *yāšōr* kan afledes af *šûr* (>>iagttager<<), så oversættelsen bliver >>han iagttager disse mennesker; men de fleste ændrer vokaliseringen til *yashir* (*ŠYR*) (>>synger<<) ud fra sammenhængen.} for menneskene,
+//14 og han siger:
 
 //15 >Jeg har syndet
 //18 og fordrejet retten,
 
-//17 men det er ikke blevet gengældt mig.
+//17 men han har ikke gengældt mig.
 
-//16 v28 Han har befriet{T: Ordret: >>løskøbt<<. Samme verbum som i vers 24.} min sjæl
-//18 fra at gå ned i graven,
+//16 v28 Han har løskøbt{H: Job 33,24.} min sjæl{N: Sjæl.}
+//18 fra at gå ned i gruben,
 
-//17 og mit liv skal se på lyset.<
+//17 og mit liv ser nu ind i lyset.<
 
 //8 v29 Se, alle disse ting gør Gud
 
-to, tre gange ved en mand
+to, tre gange mod en mand
 
-//9 v30 for at føre ham{T: Ordret: >>hans sjæl<<.} tilbage fra graven
+//9 v30 for at føre hans sjæl{N: Sjæl.} tilbage fra gruben,
 
-//10 så han oplyses af livets lys.
+//10 for at han skal blive lyst op af livets lys.
 
 
 ==Elihu opfordrer Job til at lytte og svare==
 
 
-//2 v31 Mærk dig det,
+//2 v31 Lyt opmærksomt,
 //3 Job!
-//2 Lyt til mig!
+//2 Hør på mig!
 
-//2 Ti stille,
-//4 så jeg kan tale!
+//2 Ti stille,{H: Job 6,24.}
+//4 og jeg vil selv tale!
 
 //3 v32 Hvis der findes ord,
 //5 da svar mig!
@@ -184,8 +181,8 @@ to, tre gange ved en mand
 //7 for jeg har lyst til
 //8 at give dig ret!
 
-//4 v33 Hvis der ikke findes nogen,
-//5 så er det dig der skal høre på mig.
+//4 v33 Hvis der ikke er nogen,
+//5 så hør på mig!
 
 //6 Ti stille,
-//7 så jeg kan lære dig visdom!<<
+//7 og jeg vil lære{H: Job 15,5.} dig visdom!<<
