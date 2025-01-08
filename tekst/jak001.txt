@@ -1,18 +1,38 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket >!!
-!!<Dato for denne version: 29.04.2021>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 08.01.2025>!!
 
 ===Jakobs Brev, kapitel 1===
 
-v17 Hver god gave og hver fuldkommen gave er ovenfra og kommer ned fra lysenes Fader, hos hvem der ikke er forandring eller skiftende skygge.
-v18 Efter sin vilje fødte han os ved sandheds ord for at vi skulle være en førstegrøde af hans skabninger.
-v19 I skal vide, mine elskede brødre: Hvert menneske skal være hurtig til at høre, langsom til at tale, langsom til vrede;
-v20 for en mands vrede udretter ikke det som er retfærdigt for Gud.
-v21 Derfor, aflæg al urenhed og megen{T: Ordret: >>overflod af<<.} ondskab og modtag med ydmyghed{T: Kan også oversættes med sagtmodighed} ordet som er indplantet i jer, og som formår at frelse jeres sjæle.
 
-v22 Men vær ordets gørere og ikke kun dets hørere, hvorved I bedrager jer selv.
-v23 For hvis nogen er ordets hører og ikke dets gører, ligner han en mand der betragter sit naturlige{T: Dermed understreges at spejlet kun viser det ydre.} ansigt i et spejl;
-v24 for han betragter sig selv og går væk og glemmer straks hvordan han var.
-v25 Men den som ser ind i frihedens fuldkomne lov og holder ved den så han ikke bliver en glemsom tilhører, men en gerningens gører, han skal være salig i sin gerning.
+==Forord==
+
+v1 Jakob,{H: ApG 15,13} Guds og Herren Jesu Kristi tjener, hilser de tolv stammer i diasporaen.{T: Diasporaen betegner jøder som lever uden for Israel.}
+
+==Prøvelser og fristelser==
+
+v2 I skal betragte det som en fuldkommen glæde, mine brødre, når I falder i mange slags prøvelser{E: Ordet kan oversættes med fristelser, men her er der tænkt på noget positivt.} v3 fordi I ved at jeres prøvede tro virker udholdenhed. v4 Men udholdenheden skal skabe fuldkommen gerning for at I kan være fuldkomne og helstøbte så I intet mangler.
+
+v5 Men hvis nogen af jer mangler visdom, skal han bede Gud, som giver alle gavmildt og uden bebrejdelse, og den vil blive givet til ham. v6 Men han skal bede i tro uden at tvivle, for den som tvivler, ligner en bølge på havet som drives og kastes af vinden. v7 Ja, det menneske skal ikke mene at han vil modtage noget af Herren, v8 han er et splittet menneske, ustabil på alle sine veje.
+
+v9 En bror med ringe status skal være stolt af sin høje status, v10 men den rige af sin ringe status, for ligesom græssets blomster vil han forgå. v11 For solen står op med sin hede og udtørrer græsset, og dets blomster falder, og dets ydre skønhed forsvinder. Således vil også den rige visne midt i sin foretagsomhed.
+
+v12 Lykkelig den mand som holder ud i prøvelse, for når han er blevet prøvet, vil han modtage livets sejrskrans som Gud har lovet dem som elsker ham. v13 Ingen skal sige, når han fristes, at han fristes af Gud, for Gud er ikke en der fristes af det onde, og selv frister han ingen. v14 Men enhver fristes når han drages og lokkes af sit eget begær, v15 når så begæret har undfanget, føder det synd, og når synden er vokset op, bringer det død.
+
+v16 Bedrag ikke jer selv, mine elskede brødre. v17 Enhver god gave og enhver fuldkommen gave kommer ned fra oven fra lysenes Far, hos hvem der ikke er forandring eller skiftende skygge. v18 Af sin egen vilje fødte han os ved sandhedens ord{H: 1 Pet 1,23. Joh 3,5. Tit 3,5} til at være en førstegrøde af hans skabninger.
+
+==Aflæg ondskaben==
+
+v19 Dette skal I vide, mine elskede brødre: Ethvert menneske skal være hurtig til at høre, men langsom til at tale og langsom til vrede, v20 for en mands vrede virker ikke Guds retfærdighed. v21 Derfor, aflæg al urenhed og de mange udslag af ondskab og tag i ydmyghed imod det ord som er indplantet i jer, og som kan frelse jeres sjæle.
+
+==Vær ordets hørere og udøvere==
+
+v22 Bliv ordets udøver{T: Ordret: >>bliv ordets gørere<<.} og ikke kun dets hører,{T: Ordret: >>dets hørere<<} ellers bedrager I jer selv. v23 For hvis nogen er ordets hører og ikke dets udøver, ligner han en mand som betragter sit fysiske ansigt i et spejl, v24 for han betragter sig selv og går bort og har straks glemt hvordan han var. v25 Men den som ser ind i frihedens fuldkomne lov og bliver ved det, er ikke en glemsom hører, men en gerningens udøver, og han vil være lykkelig i sin gerning.     
+
+==Sand gudsdyrkelse==
+
+v26 Hvis nogen mener at han dyrker Gud, og ikke holder sin tunge i snor, men bedrager sit hjerte, er hans gudsdyrkelse tom. v27 En ren og ubesmittet gudsdyrkelse for Gud og Faderen er denne: at besøge faderløse og enker i deres trængsel, at bevare sig uplettet af verden.
+
+
