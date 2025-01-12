@@ -1,56 +1,57 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
-===Esajas' Bog, kapitel 25===
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 12.01.2025>!!
 
-==Guds folk priser JHVH==
-v1 HERRE! Du er min Gud, 
+ ===Esajas' Bog, kapitel 25===
 
-jeg vil ophøje dig, jeg vil prise dit navn, 
+ ==Guds folk priser JHVH==
+//0 v1 HERRE! 
+//2 Du er min Gud, 
 
-for du har gjort under; 
+//3 jeg vil ophøje dig, 
+//5 jeg vil prise dit navn, 
+
+//4 for du har gjort under; 
 
 planer, der er lagt for længe siden, 
 
-er trofasthed og sandhed.
+//5 er trofasthed og sandhed.
 
-v2 For du har forvandlet en by til en stendynge, 
+//4 v2 For du har forvandlet en by til en stendynge, 
 
 en befæstet stad til en ruinhob, 
 
-fremmedes palads er ikke længere en by; 
+//6 fremmedes palads er ikke længere en by; 
 
-den skal aldrig mere bygges.
+//7 den skal aldrig mere bygges.
 
-v3 Derfor skal et stærkt folk ære dig; 
+//5 v3 Derfor skal et stærkt folk ære dig; 
 
-voldelige folkeslags stad skal frygte dig.
+//7 voldelige folkeslags stad skal frygte dig.
 
-v4 For du var værn for den ringe, 
+//6 v4 For du var værn for den ringe, 
 
-værn for den fattige i hans nød, 
+//8 værn for den fattige i hans nød, 
 
-tilflugt fra regnskyl, skygge mod hede; 
+//9 tilflugt fra regnskyl, 
+//10 skygge mod hede; 
 
-for voldsmænds fnysen er som regnskyl mod en mur.{E: Det foreslås ofte at ændre vokaliseringen fra: *qîr* (>>mur<<) til: *qōr*: >>kulde<<, så oversættelsen bliver: >>som et koldt regnskyl<<.}
+//7 for voldsmænds fnysen er som regnskyl mod en mur.{E: Det foreslås ofte at ændre vokaliseringen fra: *qîr* (>>mur<<) til *qōr* (>>kulde<<) så oversættelsen bliver: >>som et koldt regnskyl<<.}
 
-v5 Som hede i et tørt land 
+//9 v5 Som tørke på udtørret jord er fremmedes larm; 
 
-betvinger du fremmedes larm; 
+//8 du overvinder tørken med skygge fra en sky, 
 
-som heden dæmpes af skygge fra en sky, 
+//9 tyranners jubelsang bringes til tavshed.
 
-dæmpes tyranners jubelsang.
+ ***
 
-***
+//1 v6 På dette bjerg skal Hærskarers HERRE{N: Hærskarers} 
 
-v6 På dette bjerg skal Hærskarers HERRE{N: Hærskarers}  
+holde et måltid med fede retter 
 
-holde et måltid med fede retter
-
-for alle folkeslagene
+for alle folkeslagene 
 
 et måltid med lagret vin, 
 
@@ -58,52 +59,58 @@ fede, marvfulde retter,
 
 lagret, klaret vin.
 
-v7 På dette bjerg skal han bortskaffe 
+//3 v7 På dette bjerg skal han bortskaffe 
 
 sløret der tildækker, sløret over alle folkene, 
 
-og det dække som alle folkeslagene{T: Kan også oversættes: >>hedningerne<<.} er dækket med.
+og det dække 
+//5 som alle folkeslagene er dækket med.
 
-v8 Han skal opsluge døden for evigt, 
+//4 v8 Han skal opsluge døden for evigt, 
 
-og Herren JHVH skal tørre tårer af alle ansigter 
+//5 og Herren JHVH skal tørre tårer af alle ansigter 
 
-og fjerne spotten mod sit folk fra hele jorden; 
+//6 og fjerne spotten mod sit folk fra hele jorden; 
 
-for JHVH har talt.
+//7 for JHVH har talt.
 
-v9 På den dag skal man sige: 
+//2 v9 På den dag skal man sige: 
 
->>Se, dette er vores Gud, som vi håbede på
+//4 >>Se, dette er vores Gud, 
 
-at han skulle frelse os. 
+//6 som vi håbede på
 
-Denne er HERREN, vi har håbet på, 
+//7 ville frelse os. 
 
-lad os juble og glæde os over hans frelse.<<
+//5 Denne er HERREN, 
+//6 vi har håbet på, 
 
-***
+//7 lad os juble 
+//8 og glæde os over hans frelse.{N: Frelse.}<<
 
-v10 For JHVHs hånd skal hvile 
+ ***
+
+//3 v10 For JHVHs hånd skal hvile 
 
 over dette bjerg; 
 
-i stedet skal Moab trædes ned, 
+//4 i stedet skal Moab trædes ned, 
 
-som halm trædes ned i en møddingpøl.
+//6 som halm trædes ned i en mødding.
 
-v11 Og det skal brede sine hænder ud i den, 
+//5 v11 Og det skal brede sine hænder ud i den, 
 
-som den der svømmer, breder sine hænder ud for at svømme; 
+//7 som den der svømmer, breder sine hænder ud 
+//8 for at svømme; 
 
-og han{T: JHVH} skal ydmyge dets overmod 
+//6 og han{T: JHVH} skal ydmyge dets overmod 
 
-sammen med dets hænders dygtighed.{E: Ordet: *ʔārbāʰ* forekommer kun her, og der er usikkerhed om betydningen.}
+sammen med dets hænders dygtighed.
 
-v12 Og dine {T: Moabs} mures høje fæstningsværk 
+//8 v12 Og dine{T: Moabs} mures høje fæstningsværk 
 
-skal han kaste ned, vælte, jævne med{T: Ordret: >>få til at berøre<<.} jorden, 
+skal han kaste ned, 
+//7 vælte, 
+//8 jævne med{T: Ordret: >>få til at berøre<<.} jorden, 
 
 helt ned i støvet.
-
-

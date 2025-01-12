@@ -1,155 +1,187 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 12.01.2025>!!
+
 ===Esajas' Bog, kapitel 24===
 
 ==Verdens undergang – men da er JHVH på Zions bjerg==
-v1 Se, JHVH hærger jorden{T: Kan også oversættes >>landet<<.} og lægger den øde, 
+//0 v1 Se, JHVH hærger jorden{N: Jord} 
+//4 og lægger den øde, 
 
-han vender op og ned på dens overflade 
+//5 han vender op og ned på dens overflade 
 
-og spreder dens beboere.
+//5 og spreder dens beboere.
 
-v2 Og som det skal gå med folket, sådan skal det gå med præsten, 
+//3 v2 Og som det vil gå med folket, sådan vil det gå med præsten, 
 
-som med trællen, sådan med hans herre, 
+//4 som med arbejderen, sådan med hans herre, 
 
-som med trælkvinden, sådan med hendes frue, 
+//5 som med tjenestepigen, sådan med hendes frue, 
 
-som med køberen, sådan med sælgeren, 
+//6 som med køberen, sådan med sælgeren, 
 
-som med långiveren, sådan med låntageren, 
+//7 som med långiveren, sådan med låntageren, 
 
-som med skyldneren, sådan med ågerkarlen.
+//8 som med skyldneren, 
+//9 sådan med ågerkarlen.
 
-v3 Jorden{T: Kan også oversættes: >>landet<<.} skal lægges fuldstændig øde, og udplyndres helt; for JHVH har talt dette ord.
-v4 Jorden{T: Kan også oversættes: >>landet<<.} sørger, visner, verden sygner hen, visner, jordens fornemme sygner hen.
-v5 Jorden{T: Kan også oversættes: >>landet<<.} er også vanhelliget ved sine beboere, for de har overtrådt love, tilsidesat bud, brudt den evige pagt.
-v6 Derfor har forbandelse ædt jorden,{T: Kan også oversættes: >>landet<<.} 
+//2 v3 Jorden{N: Jord.} skal lægges fuldstændig øde 
+//6 og udplyndres helt;
 
-og de, der bor på den, er skyldige;{T: Andre oversætter: >>må bøde<<.} 
+//5 for JHVH har talt dette ord.
 
-derfor svinder jordens beboere ind, 
+//4 v4 Jorden sørger, 
+//8 visner, 
 
-og der bliver kun få mennesker tilbage.
+//7 verden sygner hen, 
+//8 visner, 
 
-v7 Most sørger, vintræ visner, 
+//6 jordens fornemme sygner hen.
 
-alle med glad hjerte sukker.
+//7 v5 Jorden er også vanhelliget ved sine beboere, 
 
-v8 Paukers glædeslyd er stoppet, 
+//8 for de har overtrådt love, 
 
-jublendes larm er standset, 
+//10 tilsidesat forordninger, 
 
-harpes glædesklang er stoppet.
+//10 brudt den evige pagt.
 
-v9 De drikker ikke vin under sang, 
+//9 v6 Derfor har forbandelse ædt jorden, 
 
-stærk drik{T: Kan også oversættes: >>øl<<.} er besk for dem der drikker den.
+//11 og de er skyldige,{E: Verbet *ʔšm* kan også oversættes >>må bøde<<.} 
+//12 de der bor på den,
 
-v10 Tomhedens by er knust, 
+//10 derfor svinder jordens beboere ind, 
 
-hvert hus er lukket, så ingen går ind.
+//11 og der bliver kun få mennesker tilbage.
 
-v11 Der er klageråb på gaden over vinen, 
+//5 v7 Most sørger, 
+//6 vintræ visner, 
 
-forsvundet er al glæde, 
+//7 alle med glad hjerte sukker.
 
-landets{T: Kan også oversættes: >>jordens<<.} fryd er borte.
+//8 v8 Paukers glædeslyd er stoppet, 
 
-v12 Tilbage i byen er kun ødelæggelse, 
+//9 jublendes larm er standset, 
 
-og til splinter er porten smadret.
+//8 harpes glædesklang er stoppet.
+
+//9 v9 De drikker ikke vin under sang, 
+
+//10 stærk drik{T: Kan også oversættes: >>øl<<.} er besk for dem der drikker den.
+
+//6 v10 Tomhedens by er knust, 
+
+//7 hvert hus er lukket, 
+//9 så ingen går ind.
+
+//8 v11 Der er klageråb på gaden over vinen, 
+
+//9 forsvundet er al glæde, 
+
+//10 landets{N: Jord.} fryd er borte.
+
+//7 v12 Tilbage i byen er kun ødelæggelse, 
+
+//8 og til splinter er porten smadret.
 
 ***
 
-v13 For sådan skal det være på jorden,{T: Kan også oversættes: >>landet<<.} 
+//3 v13 For sådan skal det være på jorden{N: Jord} 
 
 blandt folkene, 
 
-som når man slår oliven ned, 
+//4 som når man slår oliven ned, 
 
-som efterslæt når vinhøsten slutter.
+som efterslæt 
+//5 når vinhøsten slutter.
 
-v14 De{T: Dvs. de, der er blevet tilbage} løfter deres røst, jubler, 
+//1 v14 De{T: Dvs. de der er blevet tilbage.} løfter deres røst, 
+//5 jubler 
 
-over JHVHs storhed;
+//4 over JHVHs storhed; 
 
-de råber højt af glæde fra vest.{T: Kan også oversættes: >>over havet<<.}
+ de råber højt af glæde fra vest.{T: Kan også oversættes: >>over havet<<.}
 
-v15 Derfor, vis JHVH ære i Østen,{T: Ordret: >>i lysregioner<<.}
+//3 v15 Derfor, vis JHVH ære i øst,{T: Ordret: >>i lysregioner<<.}
 
-på havets fjerne kyster,{T: Det hebraiske ord kan også betegne >>fjerne øer<<.} 
+//4 på havets fjerne kyster,{T: Det hebraiske ord kan også betegne >>fjerne øer<<.} 
 
 JHVHs, Israels Guds navn!
 
-v16 Fra jordens ende hører vi lovsange: 
+//2 v16 Fra jordens ende hører vi lovsange: 
 
 >>Pris til Den Retfærdige!<< 
 
-Men jeg måtte sige: >>Jeg går til, jeg går til, ve mig! 
+//3 Men jeg måtte sige: 
+//5 >>Jeg går til, 
+//5 jeg går til, 
+//6 ve mig! 
 
-Troløse handler troløst, 
+//4 Troløse handler troløst, 
 
-ja, troløse handler meget troløst.<<
+//6 ja, troløse handler meget troløst.<<
 
-v17 Gru og grube og garn{T: Ordret: >>fælde<<.} 
+//5 v17 Gru og grube og garn{T: Ordret: >>fælde<<.} 
 
-over dig, du jordens{T: Kan også oversættes: >>landets<<.} beboer!
+//9 over dig, du jordens beboer!
 
-v18 Og det skal ske at den der flygter fra gruens larm, 
+//8 v18 Og det skal ske at 
+//11 den der flygter fra gruens larm, 
 
-skal falde i gruben, 
+//10 vil falde i gruben, 
 
-og den, der kommer op af grubens indre, 
+//11 og 
+//13 den der kommer op af grubens indre, 
 
-skal fanges i garnet, 
+//12 skal fanges i garnet, 
 
-for vinduer i det høje bliver åbnet, 
+//9 for vinduer i det høje bliver åbnet, 
 
-og jordens grundvolde ryster.
+//10 og jordens grundvolde ryster.
 
-v19 Jorden smadres helt, 
+//7 v19 Så smadres 
+//8 jorden helt, 
 
-jorden splintres helt, 
+//10 jorden splintres helt, 
 
-jorden ryster voldsomt.
+//11 jorden ryster voldsomt.
 
-v20 Jorden dingler meget, som den fulde mand, 
+//9 v20 Jorden dingler meget, som den fulde mand, 
 
-og svajer som vagthytten; 
+//11 og svajer som vagthytten; 
 
-svært tynges den 
+//10 svært tynges den 
 
-af sin forbrydelse, så den falder 
+af sin forbrydelse, 
+//11 så den falder 
 
-og ikke skal rejse sig igen.
+//12 og ikke  
+//13 kan rejse sig igen.
 
 ***
 
-v21 Det skal ske på den dag at JHVH straffer 
+//6 v21 Det skal ske på den dag at 
+//7 JHVH straffer 
 
-det højes hær i det høje{E: Det er synonym for himlen.} 
+det højes hærskare{E: *ṣāvāˀ* kan også hentyde til stjernevrimlen (1 Mos 2,1).} i det høje 
 
-og jordens konger på jorden. 
+//9 og jordens konger på jorden. 
 
-v22 Og de skal samles sammen som fanger i et fangehul{T: Ordret >>cisterne<<, 
-men tørre cisterner brugtes som fængsler.} 
+//10 v22 Og de skal samles sammen som fanger i et fangehul{T: Ordret >>cisterne<<, men tørre cisterner brugtes som fængsler.} 
 
-og blive låst inde i et fængsel, 
+//12 og blive låst inde i et fængsel, 
 
-og efter mange dage bliver de straffet.{T: Andre oversætter: >>løsladt<< eller: >>benådiget<<.}
+//11 og efter mange dage bliver de straffet. 
 
-v23 Månen skal blive til skamme, 
+//8 v23 Månen skal blive til skamme, 
 
-og solen beskæmmes, 
+//10 og solen beskæmmes, 
 
-for Hærskarers HERRE{N: Hærskarers} er konge 
+//9 for Hærskarers HERRE{N: Hærskarers} er konge 
 
 på Zions bjerg og i Jerusalem, 
 
-og foran hans ældste er der herlighed.
-
+//10 og foran hans ældste er der herlighed.
 
