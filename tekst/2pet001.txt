@@ -1,11 +1,23 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 25.01.2022>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.01.2025>!!
 
 ===Peters Andet Brev, kapitel 1===
 
-v16 For vi har ikke fulgt kløgtigt opdigtede fabler da vi forkyndte vor Herres Jesu Kristi magt og komme for jer, men vi har været øjenvidner til hans majestæt,
-v17 for han fik ære og herlighed af Gud Fader da denne{T: Ordret: >>en sådan<<.} røst lød til ham fra den majestætiske herlighed: >>Denne er min søn, den elskede, i hvem jeg har velbehag.<<
-v18 Og vi hørte denne røst lyde fra himlen da vi var med ham på det hellige bjerg.
+==Forord==
+
+v1 Simon Peter, Jesu Kristi tjener og apostel, til dem som ved vores Guds og frelsers, Jesu Kristi, retfærdighed har modtaget den samme kostbare tro som os: v2 Nåde og fred blive jer rigeligt til del ved erkendelsen af Gud og Jesus, vores Herre.
+
+==Formaning til tro og dyd==
+
+v3 Hans guddommelige magt har givet os alt til liv og gudsfrygt ved erkendelsen af ham, som kaldte os ved sin herlighed og kraft, v4 gennem dem har han skænket os de kostbareste og største løfter for at I ved dem skal få del i guddommelig natur fordi I er flygtet fra den ødelæggelse der er i verden på grund af begær. v5 Til dette skal I bruge al jeres engagement og supplere jeres tro med dyden, og dyden med erkendelsen, v6 og erkendelsen med afholdenhed, og afholdenheden med udholdenhed, og udholdenheden med gudsfrygt, v7 og gudsfrygten med broderkærlighed, og broderkærligheden med kærlighed. v8 For når dette findes hos jer og vokser, holder det jer fra at være uvirksomme og ufrugtbare i erkendelsen af vores Herre Jesus Kristus; v9 for den som ikke har dette, er så kortsynet at han er blind, fordi han har glemt renselsen af sine tidligere synder. v10 Derfor, mine brødre, skal I arbejde med endnu større engagement på at befæste jeres kaldelse og udvælgelse, for når I gør dette, vil I aldrig snuble. v11 For på den måde vil der i rigt mål blive givet jer adgang til vores Herres og frelsers, Jesu Kristi, rige.
+
+==Apostles og profeters vidnesbyrd==
+
+v12 Derfor vil jeg altid huske jer på dette, til trods for at I kender og er befæstede i sandheden som er hos jer. v13 Men jeg anser det for rigtigt, så længe jeg er i dette telt,{T: >>Telt<< er et billede på kroppen.} at vække jer ved denne påmindelse v14 fordi I ved at aflæggelsen af mit telt snart kommer, sådan som også vores Herre Jesus Kristus har meddelt mig, v15 men jeg vil også bestræbe mig på at I til enhver tid efter min bortgang vil huske dette.
+
+v16 For jeg fulgte ikke klogt udtænkte myter da jeg proklamerede vores Herre Jesu Kristi kraft og komme, men vi var blevet øjenvidner til hans majestæt. v17 For han modtog fra Gud Fader anerkendelse og herlighed da en sådan stemme lød til ham fra herlighedens majestæt: >>Denne er min søn, den elskede, som jeg har udvalgt,<< v18 og vi har hørt denne stemme lyde fra himlen da vi var sammen med ham på det hellige bjerg.{H: Matt 17,1-8} v19 Vi anser det profetiske ord for endnu mere bekræftet, og det ord gør I ret i at være opmærksomme på, som på en lampe der lyser på et mørkt sted indtil dagen bryder frem, og morgenstjernen stiger op i jeres hjerter, v20 idet I først erkender dette at ingen profeti i Skriften bliver til ved sin egen tolkning, v21 for en profeti er aldrig blevet frembragt ved et menneskes vilje, men drevet af Helligånden talte mennesker hvad de fik fra Gud.
+
+

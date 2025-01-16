@@ -1,26 +1,57 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
+!!<Modenhed: Delvis færdig>!!
+!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 17.02.2022>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.01.2025>!!
 
 ===Peters Første Brev, kapitel 3===
 
-v8 For at opsummere: Vær alle enige, medlidende, kærlige imod brødrene, barmhjertige, ydmyge;
-v9 gengæld ikke ondt med ondt eller skældsord med skældsord, men tværtimod velsign, for dertil blev I kaldet, at I skal arve velsignelse.
-v10 For >>den som vil elske livet og se gode dage, skal holde sin tunge fra ondt og sine læber fra at tale svigefuldt;
-v11 han skal vende sig fra ondt og gøre godt; han skal søge fred og jage efter den!
-v12 For Herrens øjne er vendt mod de retfærdige, og hans ører er vendt til deres bøn; men Herrens ansigt er over dem som gør ondt.<<
 
-v13 Og hvem er der som kan volde jer ondt når I er ivrige efter det gode?
-v14 Men om I også kommer til at lide for retfærdigheds skyld, er I salige{T: Kan også oversættes: >>lykkelige<<}. Frygt ikke deres trussel{T: Kan også oversættes: >>Frygt ikke det de frygter<<.} og forfærdes ikke;
-v15 men Herren Kristus skal I hellige i jeres hjerter, altid rede til at forsvare jer over for enhver som kræver jer til regnskab for det håb der er i jer, med sagtmodighed og frygt.
-	
+==Formaning til hustruer==
+
+v1 Ligeledes skal I hustruer underordne jer under jeres egne mænd for at de, hvis nogen af dem er ulydige mod ordet, kan blive vundet ved hustruernes adfærd uden ord v2 fordi de iagttager jeres rene adfærd i frygt. v3 Jeres smykke skal ikke være det ydre smykke, som består af hårfletning, påhæng af guld og klæder, v4 men det skjulte menneske, hjertet, med det uforgængelige væsen i en mild og stille ånd som er meget kostbar efter Guds vurdering. v5 For således smykkede de hellige kvinder som håbede på Gud, sig selv i sin tid ved at de underordnede sig under deres egne mænd, v6 ligesom Sara adlød Abraham og kaldte ham herre, og I er blevet hendes børn når I gør det gode og ikke frygter nogen trussel.
+
+==Formaning til mænd==
+
+v7 Ligeledes skal I mænd leve med forståelse sammen med hustruen som et svagere kar; vis dem anerkendelse som medarvinger til livets nåde, så jeres bønner ikke hindres.
+
+==Generel formaning==
+
+v8 Men til sidst: I skal alle være enige, medfølende, elskende brødrene, barmhjertige og ydmyge, v9 gengæld ikke ondt med ondt eller skældsord med skældsord, men velsign tværtimod, for til dette blev I kaldet for at I skulle arve velsignelse.
+
+v10 For >>den som vil elske livet
+
+ 	og se gode dage,
+
+skal holde sin tunge fra ondt
+
+ 	og sine læber fra bedrag,
+
+v11 og han skal vende sig fra det onde og gøre det gode,
+
+han skal søge freden og stræbe efter den,
+
+v12 for Herrens øjne er til retfærdige
+
+og hans ører til deres bøn,
+
+men Herrens ansigt er vendt bort fra{T: >>Vendt bort fra<< er udtryk for dom.} dem, som gør ondt.<<
 
 
+==Velsignelsen i lidelsen==
 
-v18 For også Kristus led én gang for syndere, en retfærdig for uretfærdige, for at han kunne føre jer{T: Nogle tekstvarianter har >>os<<.} hen til Gud; han som blev dræbt i kødet, men blev levendegjort i Ånden,
-v19 og i den gik han også hen og prædikede for de ånder som var i forvaring,
-v20 de som tidligere var genstridige, da Gud i Noas dage tålmodigt ventede mens arken blev bygget, hvori nogle få, nemlig otte, sjæle blev frelst gennem vand,
-v21 der er et billede{E: Det græske ord *ἀντίτυπος* betyder: >>billede<</>>modstykke<<; frelsen i dåben er modstykke til frelsen gennem syndfloden.} på det der frelser jer, nemlig dåben, der ikke er en aflæggelse af kødets urenhed, men en bøn til Gud om en god samvittighed{T: Kan muligvis oversættes: >>en god samvittigheds pagt med Gud<<}, ved Jesu Kristi opstandelse,
-v22 han, som er ved Guds højre hånd, opfaret til himlen, og engle og magter og myndigheder er underlagt ham.
+v13 Hvem kan gøre jer ondt hvis I er ivrige efter det gode? v14 Men selvom I også skulle lide på grund af retfærdighed, er I lykkelige. >>Men frygt ikke frygten for dem eller forfærdes,<< v15 men I skal hellige Herren Kristus i jeres hjerter, altid forberedt på forsvar over for enhver som kræver jer til regnskab for håbet i jer, v16 men I skal gøre det med mildhed, frygt og med en god samvittighed for at de som bespotter jeres gode adfærd i Kristus, skal blive skuffede i det de bagtaler jer for. v17 For, hvis det er Guds vilje, er det bedre at lide når I gør det gode, end når I gør det onde.
+
+v18 For også Kristus led engang for vores synder,
+
+en retfærdig for uretfærdige,
+
+for at han kunne føre os til Gud,
+
+han blev dræbt i kødet
+
+men blev gjort levende i ånden,
+
+v19 i den rejste han hen og forkyndte for ånderne i fængslet v20 som var ulydige dengang da Gud ventede tålmodigt{T: Ordret: >>da Guds tålmodighed ventede<<.} i Noas dage mens arken blev bygget; i den blev nogle få, det vil sige otte personer,{T: Ordret >>sjæle<<.} frelst ved vand. v21 Dåben som svarer til den,{T: Det vil sige arken.} frelser nu også jer; dåben, som ikke er en fjernelse af kødets snavs, men en god samvittigheds bøn for Gud, frelser{T: Ordet >>frelser<< er indsat.} ved Jesu Kristi opstandelse, v22 han, som er ved Faderens højre hånd efter at han er steget op til himlen, og efter at engle og magter og kræfter er blevet underlagt ham.
+
+
