@@ -252,8 +252,8 @@ class FormatText extends Formatter {
         }
         else {
             // Remove indentation marker
-            $from[] = '~//\d+\s*\R~m';  // Marker without text causes subsequent line feed to be removed
-            $to[] = '';
+            $from[] = '~//\d+\s*\R~m';  // Prevent that marker without text causes subsequent line feed to be removed
+            $to[] = "\n";
 
             $from[] = '~//\d+~';  // Other markers are simply removed
             $to[] = '';
