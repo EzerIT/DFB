@@ -1,12 +1,12 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 05.10.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 11===
 
 
-==Sofar irettesætter Job på det kraftigste==
+==Sofars første tale er en kraftig irettesættelse af Job==
 		
 
 //0 v1 Da svarede Sofar fra Na'ama 
@@ -14,9 +14,9 @@
 
 //2 v2 >>Skal de mange ord ikke besvares,
 
-//4 eller skal en talelysten{T: Ordret: >>en mands læber<<.} mand have ret?
+//4 eller skal en snakkesalig{T: Ordret: >>en mands læber<<.} mand have ret?
 
-//3 v3 Skal dine tomme ord få mænd til at tie stille
+//3 v3 Skal dine tomme ord få mænd til at tie stille{H: Job 6,24.}
 
 //5 så du håner 
 //6 uden at nogen ydmyger dig? 
@@ -30,23 +30,23 @@
 //5 gid
 //9 Gud ville tale,
 
-//8 føre en samtale med dig{T: Ordret: >>åbne sine læber med dig<<.} 
+//8 føre en samtale med dig 
 
 //8 v6 og oplyse dig om visdommens hemmeligheder,
 
-//9 for det giver dobbelt indsigt,
+//9 for det giver dobbelt indsigt,{H: Job 5,12.}
 
 //7 og du skal vide
-//8 at Gud lader din overtrædelse være glemt!
+//8 at Gud lader din skyld være glemt!
 
-//6 v7 Kan du fatte Guds dybder,
+//6 v7 Kan du fatte{T: Ordret: >>nå<<, >>finde<<.} Guds dybder,{H: Job 5,9.} 
 
-//10 eller kan du helt udforske den Almægtiges fuldkommenhed.
+//10 eller kan du fatte den Almægtiges fuldkommenhed?
 
 //9 v8 De er så høje som himlene,{E: *govhê šāmayim* (>>himlens højder<<) ændres af de fleste som i Septuaginta til *gōvah mišāmayim* (>>højere end himlen<<) parallelt med >>dybere end dødsriget<< i det følgende.}
 //11 hvad kan du gøre?
 
-//10 Dybere end dødsriget,{H: 7,9.}
+//10 Dybere end dødsriget,{N: Sheol.}{H: Job 7,9.}
 //12 hvad ved du?
 
 //11 v9 Længere end jorden er dens mål
@@ -57,58 +57,58 @@
 //10 anholder 
 
 //10 og kalder sammen til dom,
-//9 hvem kan holde ham tilbage?
+//9 hvem kan holde ham tilbage?{H: Job 9,12.}
 
 //10 v11 For han kender de falske mænd,
 
-//12 han har set dem der gør uret,
-//13 som ingen har lagt mærke til.
+//12 han ser ondskaben,{H: Job 4,8.}
+//13 og er opmærksom på den.{E: *lōˀ* (>>ikke<<) læses her som *lô* (>>den<<) af hensyn til sammenhængen. Flere opfatter sætningen som et spørgsmål: >>og er han ikke opmærksom på den?<<. En mulig oversættelse er også >>ingen lægger mærke til<<.}
 
 //11 v12 Kan en tomhjernet få forstand,
 
 //12 kan et vildæsel blive født som menneske?
 
 
-== Omvender du dig, Job, vil dit liv blive lykkeligt!==
+==Job må omvende sig==
 
 
-//7 v13 Hvis du selv af hjertet beslutter det{H: Job 8,8.}
+//7 v13 Hvis du selv af hjertet vil det, 
 
-//10 så skal du række din hånd ud til ham.
+//10 så skal du brede din hånd ud imod ham.
 
-//9 v14 Hvis du har ondskab i hånden, 
+//9 v14 Hvis du har ondskab{H: Job 4,8.} i din hånd, 
 //10 så fjern det,
 
-//11 og lad ikke uretfærdighed bo i dine telte.
+//11 og lad ikke uret{H: Job 5,16.} bo i dine telte!
 
 //8 v15 For så kan du pletfri løfte dit ansigt, 
 
-//10 du vil stå fast
+//10 du vil stå virkelig fast
 //11 og ikke frygte noget.
 
-//9 v16 For du vil glemme din lidelse,
+//9 v16 For du vil glemme din lidelse,{H: Job 3,10.}
 
 //12 som vand 
 //15 der løber forbi,
 //14 vil du huske den.
 
-//13 v17 Dine leveår bliver lysere end ved middagstid,{H: Job 5,14.} 
+//13 v17 Dine leveår vil blive lysere end ved middagstid,{H: Job 5,14.} 
  
-//14 mørket{E: *tāʕufāʰ* (>>mørke<<), findes kun her. Lydmæssigt ligger det tæt op ad *ʕêfātāh* (>>buldermørke<<) i Job 10,22.} bliver som morgen.
+//14 mørket{E: *tāʕufāʰ* (>>mørke<<), findes kun her. Lydmæssigt ligger det tæt op ad *ʕêfātāh* (>>bælgmørke<<) i Job 10,22.} vil blive som morgen.
 
 //11 v18 Og du kan være tryg,
 //12 for der er håb;{H: Job 7,6.}
 
-//11 du bliver beskyttet{E: Vokaliseringen er ændret til *ḥufartā* (>>du bliver beskyttet<<) ud fra et arabisk verbum, da det passer bedre ind i konteksten. Andre betydninger af *ḥfr* er >>grave<< eller >>føle sig skamfuld<<.}
-//12 og kan i sikkerhed lægge dig.
+//11 du kan se dig omkring{T: Nogle oversætter >>du er godt beskyttet<<.}
+//12 og i sikkerhed lægge dig.
  
 //11 v19 Du kan lægge dig til hvile,
 //13 og ingen skræmmer dig;
 
 //12 og mange vil søge din velvilje.
 
-//10 v20 Men de ugudeliges øjne er udmattede,
+//10 v20 Men de ugudeliges øjne svigter, 
 
 //11 deres tilflugtssted har de mistet; 
 
-//12 deres håb er at udånde!<< 
+//12 deres håb er at udånde!<<{N: Sjæl.} 

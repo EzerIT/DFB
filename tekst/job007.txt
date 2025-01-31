@@ -1,130 +1,130 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 7===
 
 
-== Job klager over sit livs elendighed==
+== Job klager til Gud over sit livs elendighed==
 
 
-//0 v1 Er et menneske på jorden ikke i krigstjeneste
+//0 v1 Er det ikke en krigstjeneste{H: Job 10,17; 14,14.} et menneske har på jorden, 
 
-//4 og hans dage som en lejesoldats{E: *śāxîr* kan også betyde >>daglejer<<, jf. vers 2.} dage? 
+//4 og hans dage er som en lejesoldats{E: *śāxîr* kan også betyde >>daglejer<<, jf. vers 2.} dage? 
 
-//3 v2 Som en arbejder{T: Ordret: >>slave<<.}
+//3 v2 Som en arbejder
 //6 der længes efter skygge,
 
 //5 og som en daglejer
 //6 der venter på sin løn,
 
-//4 v3 sådan fik jeg arvet tomhed{E: *šāwʔ* betyder også bedrag, løgn, og snyd.} i månedsvis
+//4 v3 sådan måtte jeg arve måneder i tomhed,{E: *šāwᵊʔ* kan betyde >>tomhed<<, >>forgæves<<, >>værdiløs<<, men det har også betydningen >>falskhed/løgn<<, >>bedrag<<.}{H: Job 7,16.}
 
-//5 og nætter i slid{H: Job 3,10.} er blevet tildelt mig.
+//5 og nætter i lidelse{H: Job 3,10.} er blevet tildelt mig.
 
 //2 v4 Når jeg lægger mig,
 //5 siger jeg:
 
-//6 >>Hvornår skal jeg stå op?<<
-//4 Natten bliver lang{E: *middad* (>>udmåler<<) ændres til *midday* (>>er tilstrækkelig<<) af hensyn til forståelsen.} 
+//6 >Hvornår skal jeg stå op?<
+//4 Aftenen bliver lang,{E: *middad* (>>udmåle<<) ændres til *midday* (>>fra at være tilstrækkelig<<) af hensyn til forståelsen.} 
 
-//5 og jeg er så træt af at vende og dreje mig til daggry.
+//5 og jeg er så træt af at vende og dreje mig helt indtil daggry.
 
-//3 v5 Mit kød er dækket af maddiker og tørre skorper, 
+//3 v5 Min krop er dækket af maddiker og tørre skorper, 
 
 //4 min hud sprækker 
 //6 og væsker.
 
 //5 v6 Mine dage løber hurtigere end en væveskyttel, 
 
-//6 og de svinder hen uden håb.{H: Job 4,6; 5,16; 6,8.}
+//6 og de svinder hen{H: Job 7,9.} uden håb.{H: Job 4,6; 6,8.}
 
 
-==Job klager til Gud==
+==Job klager direkte til Gud==
 
 
 //1 v7 Husk på
-//5 at mit liv er som et pust,{N: Ånd.}
+//5 at mit liv er et pust,{N: Ånd.}{H: Job 4,9; 7,16.}
 
-//4 mit øje får ikke igen 
-//6 det gode at se. 
+//4 mit øje vil ikke igen komme til 
+//6 at se det gode. 
 
-//5 v8 Det ser mig ikke, det øje
-//6 der ser mig,
+//5 v8 Det bemærker mig ikke, det øje
+//6 der ser mig;
 
 //3 søger dine øjne efter mig,
 //5 er jeg der ikke.
 
-//4 v9 Skyer opløses
-//6 og forsvinder, 
+//4 v9 En sky opløses{H: Job 7,6.}
+//6 og går væk, 
 
 //5 sådan er det også
-//8 for den der går ned i graven,
-//7 han kommer ikke op igen.
+//8 for den der går ned i dødsriget,{N: Sheol.}
+//7 han går ikke op igen.
 
-//6 v10 Han vender ikke mere tilbage til sit hus,
+//6 v10 Han vender ikke tilbage igen til sit hus,
 
-//7 og hans sted genkender ham ikke længere.
-
-//2 v11 Jeg vil heller ikke lægge bånd på min mund,
-
-//6 lad mig tale ud af lidelsen i mit sind,{N: Ånd.}
-
-//6 lad mig klage{T: Ordret: >>tale<<.} i min sjæls bitterhed!
+//7 og hans sted genkender{H: Job 2,12.} ham ikke igen.
 
 
-==Livet er uudholdeligt og Job ønsker at dø==
+==Job bebrejder og forstår ikke Gud==
 
+
+//2 v11 Heller ikke jeg vil holde mund,
+
+//6 jeg vil tale ud af pinen i min ånd,{N: Ånd.}
+
+//6 jeg vil klage fyldt af bitter nød i min sjæl.{H: Sjæl.}{H: 1 Sam 1,10.}
 
 //5 v12 Er jeg et hav
-//7 eller et havuhyre, 
+//7 eller et havuhyre 
 
 //6 siden du har anbragt en vagt over mig?
 
-//4 v13 Når jeg siger:
-//7 >>Min seng skal trøste mig,
+//4 v13 Når jeg siger: 
+//7 >Min seng skal trøste mig,
 
-//8 mit leje hjælpe med at bære min sorg,<<
+//8 mit leje lette min fortvivlelse,<{H: Job 9,27.}
 
-//6 v14 så forfærdes jeg af drømme,
+//6 v14 så gør du mig rædselsslagen med drømme,
 
-//7 og syner{H: Job 4,14.} skræmmer mig.
+//7 og med syner{H: Job 4,13.} forfærder du mig.
 
 //5 v15 Min sjæl foretrækker kvælning,
 
-//6 hellere døden end mine knogler.{T: Dvs. kun knogler tilbage.}{H: Sl 22,18.} 
+//6 hellere døden end mine knogler.{T: Dvs. et liv med kun skind og ben.}{H: Sl 22,18.} 
 
-//3 v16 Jeg foragter{E: Verbet *mʔs* har grundbetydningen >>afvise<<, men kan også oversættes >>forkaste<< .}{H: Job 5,17.} mig selv,
-//4 jeg vil ikke leve evigt.
+//3 v16 Jeg opgiver,{H: Job 42,6.}
+//4 jeg vil ikke leve evigt!
 
-//1 >>Lad mig være,
-//5 for mine dage er tomhed! <<
+//1 Lad mig være,
+//5 for mine dage er som et åndepust!{E: *hevel* kan her oversættes >>vindpust<< eller >>tomhed<<. *hevel* har også betydningen >>værdiløs<<, >>intethed<<, >>illusion<<, >>bedrag<<. Der er et sammenfald i betydningen med *šāwᵊʔ* i Job 7,3. Begge ord danner også et ordspil med >>pust<< i Job 7,7.}{H: Sl 144,4.}
 
 //4 v17 Hvad er et menneske
-//5 at du agter ham højt,
+//5 at du agter ham højt,{H: Sl 8,5.}
 
-//7 når du retter din opmærksomhed{T: Ordret: >>dit hjerte<<.} mod ham?
+//7 og at du retter din opmærksomhed{H: Job 1,8.}{N: Hjerte.} mod ham?
 
-//6 v18 Du hjemsøger ham hver morgen,
+//6 v18 Du hjemsøger ham hver eneste morgen,
 
-//7 du undersøger{H: Job 12,11; 23,10} ham hvert et øjeblik.
+//7 hvert et øjeblik ransager{H: Job 23,10. Sl 139.23.} du ham?
 
-//3 v19 Hvor længe vil du ikke vende dit blik fra mig,
+//3 v19 Hvor længe vil du ikke vende dit blik{H: Job 14,6.} fra mig,
 
 //6 ikke give slip på mig
-//5 så jeg kan nå at synke{T: Ordret >>indtil jeg har slugt<<. Det er uklart om det refererer til et splitsekund eller til bearbejdelse af lidelsen.} mit spyt.
+//5 indtil jeg har slugt mit spyt?
 
 //4 v20 Har jeg syndet,
 //5 hvad kan jeg gøre mod dig,
 
 //8 du, menneskets vogter?
 
-//7 Hvorfor har du gjort mig til skydeskive for dig?
+//7 Hvorfor har du gjort mig til din skydeskive?
 
 //8 Jeg er blevet en byrde for mig selv.
 
-//6 v21 Hvorfor tilgiver du mig ikke mit oprør
+//6 v21 Hvorfor tilgiver du mig ikke min overtrædelse{H: Job 31,33; 33,9.}
 
 //7 og fjerner min skyld? 
 

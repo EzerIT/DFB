@@ -1,23 +1,22 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.09.2024>!!
-
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 4===
 
 
-==Elifaz minder Job om hans ærværdige liv==
+==Elifaz’ første tale==
 
 
 //0 v1 Da svarede Elifaz fra Teman:
 //1
 
 //2 v2 >>Mon, hvis man prøver med et svar{N: Ord} til dig,
-//5 du så vil blive udmattet?
+//5 at du så vil blive udmattet?
 
 //4 Men
-//6 at stoppe ordene
+//6 at holde ordene tilbage,
 //5 hvem vil kunne det?
 
 //3 v3 Se,
@@ -25,91 +24,95 @@
 
 //9 og styrket de svage hænder.
 
-//8 v4 Din tale har holdt den snublende oprejst,
+//8 v4 Med dine ord har du rejst den snublende op,
 
-//9 du har styrket de vaklende knæ.
+//9 og du har styrket de vaklende knæ.
 
 //6 v5 Men nu kommer det til dig selv,
-//9 og du er blevet udmattet{H: Job 4,2.}
+//9 og du er blevet udmattet,{H: Job 4,2.}
 
 //8 det rammer dig,
-//9 og du er blevet forfærdet.
+//9 og du er fyldt af rædsel.{H: Job 21,6.}
 
 //7 v6 Er ikke din gudsfrygt din tillid,
 
-//8 og din fuldkomne{H: Job 1,1; Job 1,8.} færd dit håb?
+//8 din fuldkomne{H: Job 1,1.8.} færd dit håb?
 
 
-==Kun de ugudelige bliver straffet af Gud==
+==Kun de ugudelige straffes af Gud==
 
 
 //5 v7 Husk dog:
 //7 Hvem er
-//10 den uskyldige {H: Job 17,8.}
-//9 som er gået til grunde?
+//10 den uskyldige{E: *nāqî* >>uden skyld, ulastelige<<.}{H: Job 17,8.}
+//9 som er gået til grunde? 
 
-//8 Og hvor er retskafne blevet udslettet?{H: Job 22,20.}
+//8 Og hvor er retskafne blevet udryddet?{H: Job 22,20.}
 
 //7 v8 Sådan som jeg selv har set,
-//6 vil de som pløjer uret og sår slid, selv høste den.
+//6 vil de som pløjer ondskab og sår lidelse,{H: Job 5,6.} selv komme til at høste den.
 
-//7 v9 De omkommer uden Guds livsånde{H: 1 Mos 2,7; Job 33,4.}
+//7 v9 De omkommer ved Guds åndepust{E: *nᵊšāmāʰ* betyder >>åndedræt<<, der afhængig af konteksten også kan oversættes med >>ånd<< eller >>ånde<<. Der kan derfor forekomme sammenfald i oversættelsen med *rûₐḥ* der betyder >>ånd<<.}{H: 1 Mos 2,7. Job 33,4; 26,4; 37,10.} 
 
-//9 og fortæres af hans vredes Ånd{N: Ånd}
+//9 og fortæres af hans vredes ånde{N: Ånd.}
 
-//8 v10 Trods løvens brøl og ungløvens larm kan løveungernes tænder være knust.
-Den stærke løve vil omkomme af mangel på bytte,
+//8 v10 Trods{T: >>Trods<< er tilføjet af hensyn til forståelsen.} løvens brøl og den unge løves larm 
+
+kan løveungernes tænder være knust.{T: Verbet, her >>knuse<< og >>smadre<< i vers 20, findes kun her. I Jobs bog forekommer der mindst 10 forskellige verber for knuse og tilintetgøre og ofte flere forskellige i samme vers.}
+
+//9 v11 Løven omkommer af mangel på bytte,
 
 //10 og løvindens unger spredes.
+
 
 ==Elifaz’ natlige syn==
 
 
-//4 v12 Men min opmærksomhed blev stjålet af et budskab{N: Ord},
+//4 v12 Men et budskab{N: Ord.} sneg sig ind på mig,
 
 //6 og mit øre opsnappede det som en hvisken.
 
-//5 v13 I foruroligende tanker fra syner om natten
+//5 v13 I foruroligende tanker{H: Job 20,2.} fra syner om natten
 
 //7 som når en dyb søvn falder over mennesker,
 
-//6 v14 kom rædsel over mig
-//9 og bæven.
+//6 v14 kom rædsel{H: Job 3,25.} over mig
+//9 og bæven,
 
-//8 Rædslen satte sig i alle mine knogler.
+//8 og det fik alle mine knogler til at ryste.
 
-//7 v15 En ånd{E: *rûₐḥ* bruges litterært med reference til v. 9.} strøg forbi mit ansigt
+//7 v15 En ånd{N: Ånd.} strøg forbi mit ansigt
 
-//9 og fik hårene på min krop til at rejse sig,
+//9 og fik hårene på min krop til at rejse sig.
 
-//8 v16 og så standsede den.
-//10 Jeg kunne ikke kende dens udseende,
+//8 v16 Den standsede,
+//10 men jeg kunne ikke kende dens udseende,
 
-//9 men en skikkelse var for mine øjne.
+//9 en skikkelse var foran mig.
 
 //10 Der var stille,
-//11 men så hører jeg en stemme:
+//11 men så hørte jeg en stemme:
 
-//12 v17 >Mon et menneske kan være mere retfærdig end Gud?
+//12 v17 >Kan et menneske være mere retfærdig end Gud? 
 
-//14 Mon en mand kan være mere ren end sin skaber?<{E: Den komparative brug af *min* >>mere end<< kan muligvis også tolkes som >>i forhold til<<, >>over for<<. Se også Job 32,2.}
+//14 Kan en mand være mere ren end sin skaber?<{E: Den komparative brug af *min* >>mere end<< i begge verslinjer tolkes af nogle som >>i forhold til<<, >>over for<<.}
 
 //13 v18 Når
-//14 han nu ikke stoler på sine tjenere
+//14 han nu ikke stoler på sine tjenere,
 
-//16 og tillægger sine sendebud{N: budbringer} fejl,
+//16 og selv sine sendebud{N: Budbringer.} tillægger han fejl,{T: Ordet findes kun her, og oversættelsen er usikker.}
 
-//15 v19 hvor meget mere da de som bor i huse af ler
+//15 v19 hvor meget mindre da de som bor i huse af ler,
 
-//17 der står på et fundament af støv.
+//17 hvis fundament{H: Job 22,16.} står i støv.
 
-//16 De kan mases lettere end et møl.
+//16 Man kan knuse{H: Job 6,9.} dem lettere end et møl.
 
-//19 v20 Fra om morgenen til om aftenen knuses de;
+//19 v20 Fra om morgenen til om aftenen smadres de.
 
-//18 upåagtet går de til grunde for evigt.{H: Job 20,7.}
+//18 Uden nogen lægger mærke til det, går de til grunde for evigt.{H: Job 20,7.}
 
-//17 v21 Mon ikke deres teltsnore{E: *yeter*, >>snor<<, kan ændres til *yātēd*, >>teltpløk<<, som i  Es 33,20, eller oversættes med >>overflod<< som i Job 22,20, dvs. >>deres rigdom tages fra dem<<.} trækkes op?
+//17 v21 Mon ikke deres teltsnore{E: *yeter* (>>snor<<) kan ændres til *yātēd* (>>teltpløk<<), som i  Es 33,20, eller oversættes med >>overflod<< eller >>rest<< som i Job 22,20, dvs. >>deres rigdom tages fra dem<<.} trækkes op?
 
-//18 Ja, de dør,
-//19 og det uden  visdom!<<
+//18 De dør,
+//19 og det uden visdom!

@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 3===
 
@@ -10,32 +10,33 @@
 
 
 //0 v1 Herefter åbnede Job munden 
-//2 og forbandede  den dag han blev født.{T: Ordret: >>hans dag<<.}{H: Job 3,3; 1,4. Jer 20,14.}
- 
-//1 v2 Job reagerede{T: Ordret >>svarede<<.} 
-//2 og sagde:
+//2 og forbandede{H: 1 Mos 8,21; 12,3.} den dag han blev født.{T: Ordret: >>hans dag<<.}{H: Job 3,3; 1,4. Jer 20,14.}
+
+
+//1 v2 Og Job sagde: 
+//2 :
 
 //3 v3 >>Gid den blev slettet, den dag
 //7 jeg blev født,
 
-//6 den nat
+//6 og den nat
 //7 man sagde:
 //8 >En mand er undfanget!<
 
-//5 v4 Denne dag, lad den blive til mørke!{H: 1 Mos 1,3.}
+//5 v4 Denne dag, lad der blive mørke!{H: 1 Mos 1,3.} 
 
-//8 Gid Gud fra det høje ikke søger efter den,
+//8 Gid Gud fra det høje ikke leder{H: Job 10,6.} efter den,
 
 //9 og intet lys skinner over den!
 
-//7 v5 Gid mulm og dybt mørke{H: Sl 23,4.} køber den fri, 
+//7 v5 Gid mørke{H: 1 Mos 1,2.4; Sl 139,11-12.} og dødsskygge{E: *ṣalmāwet* oversættes i dag ofte med >>mørke<<, anvendes 10 gange i Jobs bog.}{H: Sl 23,4. Job 12,22.} køber den tilbage, 
 
-//8 en sky ligger hen over den,
+//8 en sky lægger sig hen over den!
 
-//7 gid dagens bitterhed {E:  *kimᵊrîrê* >>som en dags bitterhed<< rettes ofte til *kamrîr* >>mørkning<<, men det forekommer kun her.} forfærder den!
+//7 Gid dagens dybe formørkelse{E: *kamrîr* (>>formørkelse<< eller >>bitterhed<<) findes kun her, og oversættelsen er usikker.} forfærder den!{H: Job 7,14b.}
 
 //6 v6 Denne nat,
-//9 lad det dybeste mørke indtage den,
+//9 lad mulm{E: *ʔōfel* betyder fuldstændig fravær af sollys og forekommer næsten udelukkende i Jobs bog.}{H: Job 10,22. Es 29,18.} indtage den,
 
 //8 lad den ikke glæde sig blandt årets dage,
 
@@ -49,101 +50,101 @@
 //10 v8 Lad dem som fremsiger forbandelser over dage, forbande den;
 
 //12 dem som er parate til det,
-//13 lad dem tirre Livjatan!{H: Job 40,25}
+//13 lad dem tirre Livjatan!{H: Job 41,2.}
 
-//11 v9 Lad  stjernerne i morgendæmringen{E: *nešef* bruges både om morgendæmring og aftenskumring.} formørkes,
+//11 v9 Lad stjernerne i dens morgendæmring{E: *nešef* bruges både om morgendæmring og aftenskumring.} formørkes,
 
 //13 lad den vente på lys,
 //14 men det findes ikke,
 
-//12 og lad den heller ikke se morgenrødens frembrud!{E:  *ʕafʕappîm* har grundbetydningen >>øjenlåg<<, >>øjenvipper<< eller blink med øjnene, men er her brugt som metafor.}
+//12 og lad den heller ikke se morgenrødens øjenvipper!{H: Job 41,10.}{T: Det hebraiske ord for >>øjenlåg<<, >>øjenvipper<< er her brugt som metafor.}
 
-//9 v10 For den lukkede ikke åbningen{T: Ordret: >>dobbeltdørene<<.} ind til min mors liv for mig. 
+//9 v10 For den lukkede ikke dørene til livmoderen, 
 
-//10 så den skjulte sliddet for mine øjne.
+//10 så den skjulte lidelsen{H: Job 3,20.} for mine øjne.
 
 
-==Job ønsker at han var død under fødslen==
+==Job ønsker at han var død==
 
 
 //4 v11 Hvorfor kom jeg ikke ud af livmoderen og døde,
 
-//9 kom ud af mors liv
+//9 kom ud af moderskødet
 //10 og udåndede?
 
 //8 v12 Hvorfor tog knæ imod mig?
 
-//9 Og hvad med de bryster
-//10 jeg skulle die?
+//9 Og hvorfor bryster
+//10 at jeg skulle die?
 
-//7 v13 For så havde jeg nu ligget
-//9 og kunnet tie stille.
+//7 v13 For så havde jeg nu ligget 
+//9 og været stille.
 
 //8 Jeg havde sovet,
-//9 jeg ville finde hvile
+//9 og det havde været hvile for mig,
 
 //10 v14 sammen med konger og landets rådgivere,
 
 //12 der genopbyggede ruiner til sig selv,
 
-//11 v15 eller med ledere
-//13 der har guld,
+//11 v15 eller med ledere,
+//13 der havde guld,
 
 //12 og som fyldte deres hjem med sølv. 
 
-//6 v16 Eller hvorfor{T: >>Hvorfor<< er tilføjet da verset her er en fortsættelse af vers 12.} blev jeg ikke holdt skjult som et dødfødt foster,
+//6 v16 Eller som et dødfødt foster der skjules, ville jeg ikke have været til, 
 
 //8 som de børn
-//9 der ikke ser lyset?
+//9 der ikke ser lyset.
 
-//7 v17 Der holder de ugudelige op med at være i oprør,
+//7 v17 Dér holder de ugudelige op med at være i oprør,{H: Job 3,26.}
 
-//10 og der hviler de kraftesløse.
+//10 og dér hviler de kraftesløse.
 
-//9 v18 Der slapper fangerne af med hinanden.
+//9 v18 Fangerne slapper af med hinanden,
 
-//10 De hører ikke slavepiskerens stemme.
+//10 de hører ikke slavepiskerens stemme.
 
-//8 v19 Der er små og store dér,
+//8 v19 Små og store er lige dér,
 
 //9 og en slave er fri for sin herre.
 
 
-==Job klager over menneskelivets elendighed og sin egen tilstand==
+==Job klager over lidelsen==
 
 
-//5 v20 Hvorfor giver han lys til den nedslidte{H: Job 3,10.}
+//5 v20 Hvorfor giver han lys til dem som lider,
 
-//8 og liv til de fortvivlede?{T: Ordret: >>de i sjælen forbitrede<<.}{H: Ruth 1,20.}
+//8 og liv til dem som har bitter nød i sjælen?{N: Sjæl.}{H: Ruth 1,20.}
 
 //9 v21 Til dem der venter på døden,
-//12 men den er der ikke,{H: Job 3,9.}
+//12 men den er der ikke?{H: Job 3,9.}
 
-//11 og dem som graver efter den mere end efter skjulte skatte?
+//11 Til dem som graver efter den mere end efter skjulte skatte?
 
 //10 v22 Til dem som glæder sig med fryd,
-//11 og som jubler
+//11 og som jubler 
 
 //12 når de finder graven?
 
-//7 v23 Til den mand{H: Job 3,3.}
+//7 v23 Til den mand{H: Job 3,3.20}
 //8 hvis vej er skjult,
 
-//9 og som Gud har spærret inde?{T: Der er ordspil mellem udtrykket >>spærret inde<< og >>skærmet<< (Job 1,10); de anvendte hebraiske verber er tæt beslægtet.}
+//9 og som Gud har spærret inde?
 
 //6 v24 For mine suk fylder mere end mit daglige brød,
 
 //9 og min jamren vælder frem som vand.
 
-//8 v25 For det jeg allermest frygtede,
-//10 er hændt mig,
+//8 v25 For jeg skælvede{H: Job 23,15.}{E: Den hebraiske rod for >>skælve<< og >>rædsel<< er ens. Der anvendes 11 forskellige substantiver for frygt og rædsel og 10 forskellige verber, hvoraf flere kun findes i Jobs bog.} for en Guds rædsel,{H: Job 4,14.} 
+//10 og den er kommet over mig,
 
-//9 og
-//11 det jeg gruede for,
-//10 kommer over mig.
+//9 så
+//11 det jeg gruede for,{H: Job 9,28.}
+//10 kom over mig.
 
 //7 v26 Jeg kan ikke falde til ro
-//8 og kan ikke tie stille;{H: Job 3,13.}
+//8 og kan ikke være stille;
 
-//8 jeg kan ikke finde hvile,
-//9 og nu føler jeg oprør i mit indre.<<{H: Job 3,17.}
+//8 jeg kan ikke hvile,{H: Job 3,13.}
+//9 og uroen er kommet.<<{H: Job 3,17.}

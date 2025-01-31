@@ -1,144 +1,147 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 5===
 
 
-==Elifaz fortæller Job hvordan det går tåben==
+==Elifaz fortsætter sin tale til Job==
 
 
-//0 v1 >>Råb bare!
-//4 Mon nogen vil svare dig,
+//0 v1 Råb bare!
+//4 Mon der er nogen der svarer dig,
 
 //3 og til hvem af de hellige vil du vende dig?
 
-//2 v2 For forbitrelse slår tåben ihjel, 
+//2 v2 For vrede
+ slår tåben ihjel, 
 
 //3 og jalousi tager livet af den uforstandige.
 
-//1 v3 Jeg har set en tåbe
+//1 v3 Jeg har set en enfoldig tåbe
 //4 der er ved at slå rod,
 
-//3 og jeg ønskede at hans ejendom{T: Ordret >>græsgang<<.} blev ramt af en pludselig forbandelse.
+//3 og jeg ønskede at hans ejendom
+blev ramt af en pludselig forbandelse.
 
-//5 v4 Hans børn er helt uden sikkerhed;{T: Ordret: >>fra frelse<<.}
+//5 v4 Hans børn er helt uden sikkerhed;{N: Frelse.}
 
 //7 de bliver trådt ned i porten,
-//8 og der er ingen som redder dem,
+//8 og der er ingen der redder dem.
 
-//7 v5 fordi hans høst
-//6 den spiser den sultne
+//7 v5 For hans høst
+//6 spiser den sultne 
 
-//8 og henter den endog inde fra tjørnebuskene,
+//8 og henter den inde fra tjørnebuskene,
 
-//7 og den tørstige{E: Hebr. *ṣammîm* (>>slynge<<, >>snare<<), dvs. >>snaren snapper efter<<. Her er ordet  omvokaliseret til *ṣᵊmeim* (>>tørstig<<).} længes efter deres rigdom.
+//7 og den tørstige{E: Vokaliseringen af *ṣammîm* >>snare<< ændres til *ṣᵊmeim* (>>tørstig<<) af hensyn til sammenhængen.} higer efter deres rigdom.
 
-//4 v6 For ondskabfuldhed{H: Job 4,8. Sl 41,7.} skyder ikke bare frem af støvet,
+//4 v6 For der udgår ikke ondskab{H: Job 4,8.} fra støvet,
 
-//6 og slid vokser ikke op af jorden,
+//6 heller ikke af jorden spirer lidelse{H: Job 4,8.} frem.
 
-//5 v7 fordi et menneske  fødes til slid{H: 1 Mos 3,17.19.}
+//5 v7 Men et menneske fødes til lidelse,{H: 1 Mos 3,16-19. Job 3,10.}
 
-//6 lige så sikkert som gnister{T: Ordret: >>Flammens børn<<.} springer 
+//6 lige så sikkert som gnister springer 
 //7 og flyver væk.
 
 
-==Elifaz ville søge Gud, for han gør undere og hjælper i nød==
+==Job opfordres til at søge Gud==
 
 
-//2 v8 Men jeg derimod ville selv søge Gud,
+//2 v8 Men jeg derimod, jeg ville søge Gud,
 
 //4 og til Gud ville jeg overgive min sag.
 
-//6 v9 Han gør store ting
-//8 men ingen kan udforske dem,
+//6 v9 Han gør store ting,
+//8 som ingen kan udforske,
 
-//7 forunderlige ting der ikke er tal på.
+//7 undere der ikke er tal på.{H: Job 9,10.}
 
-//5 v10 Han er den som giver regn på jorden
+//5 v10 Han giver regn på jorden 
 
-//7 og spreder vand ud på markerne,{E: *ḥûṣ* >>udenfor<< bruges om gade, torv og her som Sl 144,13.}
+//7 og spreder vand ud over markerne
 
-//8 v11 for at sætte de nedbøjede højt{T: Ordret: >>til et højt sted<<.}
+//8 v11 for at sætte de ringe højt;
 
-//9 og de sørgende når op i sikkerhed. 
+//9 og de sørgende når op i sikkerhed.{N: Frelse.}{H: Job 5,4.} 
 
-//6 v12 Han hindrer de listiges{H: 1 Mos 3,1} planer,
+//6 v12 Han hindrer{H: Job 15,4.} de listiges{H: 1 Mos 3,1.} planer,
 
-//7 deres hænder udfører dem ikke med forståelse .
+//7 så deres hænder ikke udfører dem med vellykket resultat.{E: *tûšiyyāʰ* >>succes<<. Afhængig af sammenhængen kan det også betyde >>indsigt<<, >>forståelse<<.}
 
-//6 v13 Han griber de kloge i deres list
+//6 v13 Han griber de vise i deres list
 
 //8 så de falskes råd hurtigt forkastes.
 
-//9 v14 Om dagen støder de på mørke,
+//9 v14 Om dagen støder de på mørke
 
-//10 og famler sig frem ved middagstid som var det nat.{H: 5 Mos 28,29; Es 59,10.}
+//10 og famler sig frem ved middagstid som var det nat.{H: 5 Mos 28,29. Es 59,10.}
 
-//7 v15 Han frelser fra sværdet ud fra deres mund,
+//7 v15 Han frelser fra sværdet, fra deres mund,{E: De to *min* (>>fra<<) kan opfattes som sideordnede præpositioner hvoraf den sidste er en forklarende apposition. Men det kan også oversættes >>fra sværdet ud af deres mund<< dvs. fra en skarp tunge.} 
 
-//9 den fattige fra den mægtiges hånd.
+//9 og den fattige{H: Job 24,4. Sl 40,18; Sl 72,12.} fra den mægtiges hånd.
 
-//8 v16 Det gav håb for den svage,
+//8 v16 Det gav håb for den svage,{H: Job 31,16. Sl 82,3; 72,13; 41,2.}
 
-//9 og uretfærdighed hørte op.{T: Ordret: >>måtte lukke munden<<.}
-
-
-==Job, du er velsignet når Gud irettesætter dig!==
+//9 og uret{H: Job 6,29}{E: *ʕawlāʰ* kan, afhængig af konteksten, også betyde >>ondskab<< eller >>uretfærdighed<<.} hørte op.
 
 
-//3 v17 Se, salig er det menneske
-//8 Gud tugter!{H: Ordsp 3,11-12.}
+==Gud vil hjælpe og velsigne dig==
 
-//7 Derfor skal du ikke afvise den Almægtiges opdragelse!
 
-//6 v18 For han volder smerter,
+//3 v17 Se, lykkelig velsignet{H: Sl 1,1.} er det menneske
+//8 Gud tugter!{H: Job 13,3; 22,4. Ordsp 3,11-12.} 
+
+//7 Derfor skal du ikke afvise 
+den Almægtiges opdragelse!
+
+//6 v18 For han forårsager smerte,
 //8 og han forbinder.
 
-//7 Han slår,
+//7 Han knuser,{H: Job 26,12.}
 //8 og hans hænder læger.
 
-//5 v19 I seks trængsler redder han dig,
+//5 v19 I seks trængsler{H: Job 27,9.} redder han dig,
 
 //8 og i syv skal intet ondt røre dig.
 
-//7 v20 I hungersnød løskøber han dig fra døden
+//7 v20 Under hungersnød løskøber han dig fra døden
 
 //8 og i krig fra sværdets magt.
 
-//6 v21 Du beskyttes mod ildebrand{T: Ordret: >>tungens svøbe<<.}
+//6 v21 Du beskyttes mod tungens farlige pisk,{T: Ordret: >>tungens svøbe<<.}{H: 1 Kong 12,11. Sl 52,4. Jak 3,5-6.}
 
 //8 og du frygter ikke terror,
 //9 når den kommer.
  
-//7 v22 Du ler ad terror og sult
+//7 v22 Du ler ad terror og sult 
 
 //11 og frygter ikke for jordens vilde dyr.
 
-//10 v23 For din pagt er med stenene på marken,{E: *ʔeven* (>>sten<<) der kan true dyrkning eller fungere som grænsesten.} 
+//10 v23 For din pagt er med markens sten,
 
 //11 og markens vilde dyr holder fred med dig.
 
 //9 v24 Du erfarer
 //11 at dit telt ligger i fred; 
 
-//10 du tager vare på din ejendom{H: Job 5, 3.}
-//11 og savner intet.
+//10 du undersøger nøje din ejendom
+//11 og mangler intet.
 
 //9 v25 Du erfarer
 //10 at dit afkom bliver talrigt
 
 //11 og dine efterkommere som græsset på jorden.
 
-//8 v26 Du lægges i graven i en god alderdom{T: Ordret: >>i mandlig styrke<<.}
+//8 v26 Du lægges i graven i en høj alder
 
-//9 ligesom neg{T: Ordret: >>bunke<<.} hentes i rette tid.
+//9 ligesom neg hentes ind i rette tid.
 
-//4 v27 Se dette
-//6 har vi udforsket.{H: Job 5,9.}
+//4 v27 Se, dette
+//6 har vi udforsket.
 //5 Sådan er det.
 
 //6 Hør det,
-//7 og forstå det for dit eget bedste!<<
+//7 og erkend det selv!<<

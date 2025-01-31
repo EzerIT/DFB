@@ -1,44 +1,44 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs Bog, kapitel 6===
 
 
-==Job klager over sin store smerte==
+==Jobs svar til vennerne om sin sorg og ulykke==
 
 
 //0 v1 Job svarede 
 //1 :
 
-//2 v2 >>Åh, om man virkelig ville veje min fortvivlelse 
+//2 v2 >>Åh, om man virkelig ville veje min sorg{E: *kaʕas* kan også betyde >>vrede<<.}{H: Job 5,2.}
 	
-//7 og så lægge min ulykke op på den anden af vægtskålene,
+//7 og samtidig lægge min ulykke{E: *hwh* står uden masoretiske tegn og kan derfor ordret betyde >>og jeg var (min situation)<<. Men de fleste vokaliserer som her til *hawwāʰ* (>>ulykke<<). Ordet kan også betyde >>fordærv<< jf. Job 6,30.}{H: Job 30,13.} op på vægten,
 
 //6 v3 for nu er den tungere end havets sand.
 
-//7 Derfor var min tale uovervejet. {E: Verbet *lʕʕ* findes kun her og i Ordsp 20,25, og oversættelsen afhænger af opfattelsen af situationen. Forslagene spænder fra at tale stammende, rablende, overilet og til at udtale sig for hurtigt.}
+//7 Derfor var min tale uovervejet.
 
 //5 v4 For den Almægtiges pile sidder i mig,
 
-//7 så mit sind{N: Ånd.} fyldes med{T: Ordret: >>min ånd drikker<<.} deres gift;
+//7 så min ånd{N: Ånd.} fyldes med{T: Ordret: >>drikker<<.} deres gift;{H: Job 21,20.}
 
-//6 Guds rædsler stiller op til krig mod mig.
+//6 Guds rædsler{E: *biʕût* (>>(Guds)rædsler<<) findes kun her og to gange i Salmerne.} stiller op til krig mod mig.
 
 //4 v5 Skriger vildæslet over frisk græs? 
 
 //5 Brøler oksen når den har foder? 
  
-//4 v6 Mon mad uden smag spises uden salt,
+//4 v6 Kan noget uden smag spises uden salt,
 
-//5 mon der er smag i katostens saft?{E: *ḥallāmût* kan være katosten med en mild cremet smag; andre forslag er æggehvide og portulak.}
+//5 eller er der smag i katostens saft?{E: *ḥallāmût* kan være katost med en mild cremet smag; andre forslag er æggehvide og portulak.}
 
-//6 v7 Jeg{T: Ordret >>min sjæl<<.} nægter
-//9 at røre ved det.
+//6 v7 Jeg{N: Sjæl.} nægter
+//9 at røre det.
 //8 
 
-//7 De er som fordærvet mad.
+//7 De er for mig som fordærvet mad.
 
 
 ==Job ønsker sig døden==
@@ -49,64 +49,65 @@
 
 //6 og Gud gav mig håb!
 
-//7 v9 Gid Gud ville beslutte sig 
-//9 og knuse mig,
+//7 v9 Gid Gud ville beslutte sig{H: Job 6,28.} 
+//9 og knuse mig,{H: Job 22,9.}
 
-//8 løfte sin hånd 
-//9 og slå mig ihjel.{T: Ordret: >>skære mig af.<<.}
+//8 fjerne sin hånd 
+//9 og skære mig af.{T: Verbet anvendes om væveren der skærer sit arbejde af fra vævens tråde, her tænkes der på livstråden.}
 
-//5 v10 Må det stadig være min trøst,
+//5 v10 Må det stadig være min trøst,{H: Job 42,6.}
 
-//7 og lad mig springe højt af glæde i min smerte,{E: * ḥîlāʰ* findes kun her, men ordet kan referere til fødselssmerter, altså veer.}
+//7 og lad mig springe af glæde i min smerte,{E: *ḥîlāʰ*, ordret >>veer<<, findes kun her, og det samme gælder verbet *sld* >>springe<<.} 
 
-//8 skønt han ikke viser medlidenhed,
-//6 fordi jeg ikke har holdt den Helliges ord skjult.
+//8 der er uden skånsel
+
+//6 fordi jeg ikke har holdt den Helliges ord skjult.{H: Job 23,12.}
 
 //4 v11 Hvad er min styrke
 //7 at jeg skulle håbe,
 
 //6 og hvilket endeligt venter mig 
-//7 at jeg skulle være tålmodig?{T: Ordret >>forlænge min sjæl<<, sml. Job 6,7.}
+//7 at jeg{H: Job 6,7.} skulle være tålmodig?{N: Sjæl.} 
 
 //5 v12 Er min styrke som stens styrke? 
 
 //6 Er mit kød af bronze?
 
-//7 v13 Er der virkelig ingen hjælp for mig{T: Ordret >>i mig<<.}
+//7 v13 Er der ingen hjælp i mig selv,
 
-//8 og er forståelse{H: 5,12} for mig bristet?
-
-
-==Job klager over vennernes hårde og tomme ord==
+//8 og er enhver ressource veget fra mig?
 
 
-//2 v14 Den der nægter{E: Oversættelsen følger nogle hebraiske håndskrifter og den syriske og latinske oversættelse som bygger på verbet *mʔs*; den overleverede tekst har ordet *ms*, som kun findes her og måske har betydningen >>fortvivlet<<, dvs. >>for den fortvivlede burde der være troskab fra ens ven, selv om han opgiver at frygte den Almægtige<<.} sin ven troskab,{N: Nåde.} 
+==Job klager over vennernes hårde tomme ord==
+
+
+//2 v14 For den fortvivlede{E: *ms* (>>fortvivlet<<) findes kun her. Nogle hebraiske håndskrifter og den syriske og latinske oversættelse bygger på verbet *mʔs* (>>nægter<<) og oversætter: >>den der nægter sin ven troskab/nåde forlader også frygten for den Almægtige<<.} burde der være troskab{N: Nåde.} fra ens ven
  
-//4 han har forladt frygten for den Almægtige.{H: Job 4,6.}
+//4 selvom han er holdt op med at frygte den Almægtige.{T: Det er uklart hvem >>han<< er, vennen eller den fortvivlede.}{H: Job 4,6.} 
 
-//3 v15 Mine brødre har svigtet som en bæk; 
+//3 v15 Mine brødre har svigtet som en wadi; 
  
-//5 som vandstrømmene i en wadi blev de borte,
+//5 ligesom vandstrømmene i en wadi svinder bort.{H: Jer 15,18.}
 
-//8 v16 og de er snavset  af is,
+//8 v16 De er blevet uklare af is,
 
 //7 hvori sne skjuler sig.
 
 //8 v17 Til sin tid
 //11 tørrer de ud
-//10 og forsvinder,
+//10 og forsvinder.
 
-//10 i varmen 
-//9 tørrer de ud fra deres flodlejer.{T: Ordret: >>steder<<, >>områder<<.}
+//10 Når det er varmt, 
+//9 forsvinder de fuldstændigt fra deres flodlejer.
 
-//6 v18 Karavaner bøjer af fra deres vej,
+//6 v18 Karavanerne{E: *ʔorḥôt* (>>stier<<) ændres til *ʔorᵊḥôt* (>>karavaner<<) af hensyn til forståelsen.} bøjer af fra deres vej,
 
-//8 de drager op i det golde land{H: 1 Mos 1,2.} 
+//8 de drager op i den golde ørken{H: 1 Mos 1,2.} 
 //9 og omkommer.
 
 //7 v19 Karavanerne fra Tema spejdede efter dem,
 
-//8 de vejfarende fra Saba satte deres håb til dem.
+//8 de rejsende fra Saba satte deres håb til dem.
 
 //9 v20 De blev til skamme, 
 //10 fordi de stolede på dem,
@@ -114,54 +115,55 @@
 //9 de kom helt hen til dem
 //10 og blev skuffede.
 
-//4 v21 Ja, nu sker det for jer,
+//4 v21 Så nu sker det for jer,
 
-//8 I ser rædsel
+//8 I ser rædsler,{T: Ordet findes kun her.}
 //9 og I er blevet bange!
 
-//7 v22 Har jeg måske sagt:
-//8 >>Giv mig noget!<<
+//7 v22 Har jeg sagt:
+//8 >Giv mig noget,<
 
-//10 Eller: >>Giv bestikkelse til fordel for mig af jeres rigdom!<<{T: Ordret >>styrke<<.}
+//10 eller: >Giv bestikkelse til fordel for mig af jeres rigdom,<
 
-//9 v23 Eller: >>Befri mig fra fjendens magt
+//9 v23 eller: >Befri mig fra fjendens magt
 
-//10 og løskøb{H: Job 5,20.} mig fra voldsmænd!<<
+//10 og løskøb mig fra tyranners{H: Job 27,13.} magt<?
 
 //6 v24 Undervis mig,
 //8 og jeg vil tie stille,
 
 //7 og
-//10 er jeg faret vild,
-//9 så belær mig!
+//10 få mig til at forstå hvordan jeg er faret vild!
+//9
 
-//8 v25 Hvor skadelige{E: *mrṣ* forekommer kun 4 gange og forstås her ud fra grundbetydningen at være syg; andre knytter det til verbet *mrs* >>være stærk<<, dvs. >>virkningsfuld<<.} kan oprigtiges ord{H: Job 6,10.26} være, 
+//8 v25 Hvor smertelige{E: *mrṣ* >>være smertefuld<<, >>være syg<<. Andre knytter det til verbet *mrs* (>>være hård/stærk<<) og oversætter >>hvor overbevisende/virkningsfuld<< og opfatter det ironisk.} kan oprigtiges ord{H: Job 6,26.} være! 
  
-//10 og hvad gavn har man af irettesættelse fra jer?
+//10 Men hvad gavn gør jeres irettesættelse?
 
-//9 v26 Er det mon
-//12 for at irettesætte 
-//11 I har udtænkt jeres ord?{H: Job 4,2.4.}
+//9 v26 Er det 
+//12 for at irettesætte{H: Job 5,17.} 
+//11 I har udtænkt jeres ord,{H: Job 4,2.4.}
 
-//12 Er den fortvivledes ord helt hen i vejret?{N: Ånd}{T: Ordret: >>til vind<<.}
+//12 når den fortvivledes ord er som vinden?{N: Ånd}
 
 //10 v27 Endog om den forældreløse ville I kaste lod,
 
-//11 og I ville prutte om prisen på  jeres ven.
+//11 og I ville forhandle om prisen på jeres ven.
 
-//5 v28 Men nu
-//7 må I beslutte jer{H: Jer 6,9.}
-//7 til at vende jer om imod mig,
+//5 v28 Men nu,
+//7 beslut jer!
+//7 Vend jer om imod mig!
 
-//8 og over for jer,{H: Job 24,25; 27,4; 34,6.}
-//9 tror I jeg da ville lyve?
+//8 Jeg vil ikke lyve{H: Job 24,25; 27,4; 34,6.}
+ jer op i ansigtet! 
+//9 
 
-//7 v29 Vend om,
-//9 lad der ikke forekomme uret,{H: Job 5,16.}
+//7 v29 Vend dog om,
+//9 lad der ikke forekomme uret,{H: Job 5,16.} 
 
 //8 men vend om,
-//9 retten er stadig på min side.{T: Ordret: >>min retfærdighed i det<<.}
+//9 retten er stadig på min side.
 
-//6 v30 Er der uret på min tunge?
+//6 v30 Er der uret på min tunge? 
 
-//7 Kan min gane ikke sanse årsagen til ulykker?{T: >>Årsagen til<< er tilføjet.}
+//7 Sandelig, {E: *ʔim* i vers 28 og *ʔim* *lōˀ* her opfattes som en ed.} min gane kan godt erkende fordærv!{H: Job 6,2.}

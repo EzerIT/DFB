@@ -1,54 +1,50 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 21.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 8===
 
 
-==Bildad bebrejder Job og anklager hans sønner==
+==Bildads første tale om Guds retfærdighed==
 
 
 //0 v1 Da svarede Bildad fra Shua
 //1:
 
-//2 v2 >>Hvor længe vil du hævde dette, 
+//2 v2 >>Hvor længe vil du meddele{H: Job 33,3.} disse ting, 
 
-//4 og vil din tale{H: Job 6,10.} være som en stærk vind?
+//4 og din tale{H: Job 6,10.} være som en stærk vind?{N: Ånd.}
 
 //3 v3 Mon Gud bøjer retten?
 
-//7 Mon den Almægtige også bøjer retfærdigheden?
+//7 Og den Almægtige, bøjer han retfærdigheden? 
 
 //6 v4 Hvis dine sønner har syndet imod ham,
 
-//8 da vil han række sin hånd ud mod deres overtrædelse.{H: Job 7,21.} 
-
-
-==Omvend dig, Job, og det vil gå dig godt!==
-
+//8 da vil han række sin hånd ud mod deres overtrædelse.{H: Job 7,21.}
 
 //7 v5 Hvis du selv søger hen til Gud
 
-//10 og bønfalder den Almægtige om nåde, 
+//10 og bønfalder den Almægtige om nåde,{N: Nåde.}
 
-//9 v6 og hvis du er ren og retskaffen{H: Job 1,1.}
+//9 v6 hvis du er ren og retskaffen,{H: Job 1,1.}
 
-//8 da vil han våge over dig {T: Ordret: >>vågne op over dig<<.}
+//8 ja, da vil han bestemt begynde at våge over dig
 
-//10 og belønne{T: Ordret >>gengælde<<; uklart hvad der menes her, måske at genrejse den.} din retfærdigheds bolig. 
+//10 og genoprette din retfærdigheds bolig. 
 
-//9 v7 Din begyndelse var ringe,
+//9 v7 Din begyndelse vil synes ringe,
 
-//10 men din fremtid vil han gøre stor.{T: Ordret:  >>vokse stor<<.}{H: Sl 92.13.}
-
-
-==De gamle vidner at det går den ugudelige dårligt==
+//10 men din fremtid vil han gøre meget stor.{H: Sl 92.13. Job 42,12.}
 
 
-//5 v8 For spørg dog den forrige generation,
+==Forfædrenes vidnesbyrd== 
 
-//8 og læg mærke til det deres fædre fandt frem til.
+
+//5 v8 For spørg dog den tidligere generation
+
+//8 og læg mærke til det deres fædre fandt frem til!{H: Job 5,9.}
 
 //7 v9 For vi er fra i går
 //9 og forstår intet,
@@ -60,20 +56,24 @@
 
 //8 og komme med ord{H: Job 6,26.} fra hjertet?
 
-//7 v11 Skyder papyrus i vejret{E: *yigᵊʔeʰ* (>>vokse op<<) bruges også om at være pralende og stolt.} hvor der ikke er sumpet?
+
+==Naturens billeder på den gudløse==
+
+
+//7 v11 Skyder papyrus i vejret hvor der ikke er sumpet?
 
 //9 Kan nilgræs vokse uden vand?
 
-//8 v12 Endnu har det friske skud,
-//11 det er ikke skåret ned,
+//8 v12 Endnu har det skud,
+//11 er ikke skåret ned,
 
 //10 men før alt andet siv visner det.
 
-//9 v13 Sådan går det{T: Ordret: >>sådan er stierne<<.} enhver der glemmer Gud;
+//9 v13 Sådan er stierne for enhver der glemmer Gud;
 
 //10 den gudløses håb{H: Job 4,6; 5,16.} går til grunde.
 
-//12 v14 Hans tillid er en skrøbelig sag,
+//12 v14 Hans tillid er en tynd tråd,{T: Ordet findes kun her, og oversættelsen er usikker.}
 
 //13 hans tryghed er som et spindelvæv.{T: Ordret: >>en edderkops hus<<.}
 
@@ -85,29 +85,29 @@
 
 //12 v16 Som en plante{T: >>Som en plante<< er tilføjet.} fuld af saft står han der i solen,
 
-//15 og ud over haven breder dens friske skud sig.
+//15 og ud over hans have breder dens skud sig.
 
 //14 v17 Hen over en stenhøj slynger dens rødder sig,
 
-//15 den får fat i en bunke sten.{T: Ordret: >>et hus af sten<<.}
+//15 den får fat i{E: *yeḥᵉzeʰ* (>>den ser<<) ændres til *yoḥᵉzeʰ* (>>den griber fat i<<) af hensyn til forståelsen.} en bunke sten.{T: Ordret: >>et hus af sten<<.}
 
 //13 v18 Hvis man rykker den op fra sit sted,
 
-//15 nægter dette sted{T: Ordret: >>det<<.} at vedkende sig den:
+//15 nægter det at vedkende sig den:
 //16 >Jeg har aldrig set dig!<
 
-//14 v19 Se, det er den glæde den har{T: Ordret >>dens vejs glæde<<.}
+//14 v19 Det er så den glæde den har,{T: Ordret: >>dens vejs glæde<<.}
 
 //15 og af støvet spirer en anden frem. 
 
 
-== Gud elsker de fromme og hader de onde==
+== Gud vil ikke forkaste den fuldkomne==
 
 
-//4 v20 Se,
-//5 Gud forkaster ikke den fuldkomne{H: Job 1,1.}
+//4 v20 Gud forkaster da ikke den fuldkomne{H: Job 1.1.}
+//5
 
-//7 og han tager ikke   de ondsindede ved hånden.
+//7 og han tager ikke forbrydere ved hånden.
 
 //6 v21 Dog{E: *ʕad* (>>indtil<<) ændres af de fleste til *ʕōd* (>>dog<<).} vil han fylde din mund med latter
 

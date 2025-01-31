@@ -1,44 +1,43 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 21.09.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs bog, kapitel 9===
 
 
-==Job er enig i at Gud er retfærdig, men forstår ikke at han handler ens med skyldige og uskyldige==
+==Jobs svar til Bildad==
 
 
 //0 v1 Da svarede Job 
 //1:
 
-//2 v2 >>Jeg ved sandelig godt
- //5 at det er sådan.
+//2 v2 >>Jeg ved sandelig godt{E: *ʔāmnām* (>>i sandhed<<) er et udtryk der er karakteristisk for Jobs bog.}{H: Job 12,2; 34,12.} 
+//5 at det er sådan.
 
-//4 Hvordan kan et menneske få ret{E:* yyiṣdaq* kan også oversættes >>være retfærdig<<.} over for Gud?
+//4 Hvordan kan et menneske få ret{E: *yiṣdaq* (*ṣdq*) kan også oversættes >>være retfærdig<<.} over for Gud?
 
-//6 v3 Hvis man har lyst
- //9 til at føre sag imod ham,
+//6 v3 Hvis man har lyst 
+//9 til at føre sag imod ham,
 
-//8 vil man ikke kunne svare ham én ud af tusind gange.
+//8 vil man ikke kunne svare ham én ud af tusinde.
 
 //7 v4 Han er vis af hjertet og mægtig i styrke,
 
 //8 hvem kan gøre sig hård over for ham{H: 2 Mos 7,3.} 
-
 //9 og forblive uskadt?
 
-//5 v5 Han er den som flytter bjerge, 
+//5 v5 Han er den som flytter{E: Vers 5-10 indledes alle med et verbum i participium, som her i vers 5 er oversat med >>han er den som (flytter)<<. Dette er underforstået i de øvrige vers, og participiumformen udtrykker samtidig at Gud fortsat har denne magt.} bjerge, 
 //6 men de ved det ikke,
 
 //7 som vælter dem i sin vrede.
 
-//5 v6 Han får jorden til at ryste i sin grundvold,
+//5 v6 Han får jorden til at ryste løs fra sin grundvold,
 
 //6 og dens søjler skælver.
 
-//5 v7 Han taler til solen,
- //8 og den står ikke op,
+//5 v7 Han taler til solen, 
+//8 og den står ikke op,
 
 //7 og for stjernerne sætter han segl.
 
@@ -46,92 +45,96 @@
 
 //7 og han træder på havets bølger.{T: Ordret: >>høje steder<<.}
 
-//6 v9 Han skaber Løven,{E: Nogle oversætter det med >>Store Bjørn<< idet man ændrer vokaliseringen fra *ʕāš* til *ʕayiš*, som forekommer i Job 38,32.} Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Ordret: >>sydens kamre<<.} 
+//6 v9 Han danner Løven,{E: Nogle oversætter det med >>Store Bjørn<<. I Job 38,32 er *ʕāš* >>løven<< ændret til *ʕayiš* med samme betydning.}
 
-//6 v10 Han gør store ting som ingen kan udforske,
+Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Ordret: >>sydens kamre<<.} 
 
-//7 forunderlige ting der ikke er tal på.{H: Job 5.9.}
+//6 v10 Han gør store ting ingen kan udforske,
+
+//7 undere der ikke er tal på.{H: Job 5.9.}
 
 //3 v11 Når han går forbi mig, 
-//5 så ser jeg det ikke,
+//5 ser jeg det ikke,
 
-//4 han fortsætter forbi, 
+//4 han passerer forbi,{H: Job 4,15; 9,26.} 
 //5 men jeg bemærker ham ikke.
 
-//3 v12 Når han snupper noget, 
-//5 hvem kan bringe det tilbage?
+//3 v12 Når han fører bort, 
+
+//5 hvem kan da hindre ham?
 
 //6 Hvem kan sige til ham: 
 //7 >Hvad er det du gør?<
 
-//4 v13 Gud holder ikke sin vrede {E: *yāšîv* (>>bringe tilbage<<) er samme verbum som i vers 12; det kan være et underforstået parallelt spørgsmål: >>bringer Gud ikke sin vrede tilbage<<? Et ordspil.} tilbage,
+//4 v13 Gud holder ikke sin vrede tilbage,
 
-//7 under ham må Rahabs hjælpere bøje sig.
+//7 under ham må Rahabs{E: *rahav* (>>angribe rasende<<, >>storme hovmodigt<<) betegner her et søuhyre, en drage.}{H: Sl 89,11. Es 51,9.} hjælpere bøje sig.
 
-//8 v14 Hvor meget mindre kan så jeg svare ham,
+//8 v14 Hvor meget mindre kan jeg svare ham,
 
 //10 vælge mine ord over for ham.
 
-//12 v15 For
-//14 selvom jeg har ret, 
-//13 vil jeg ikke kunne svare ham,
+//12 v15 For 
+//14 selvom jeg har ret,
+//13 vil jeg ikke kunne svare ham;
 
-//11 men må bede min dommer om nåde.
+//11 jeg må bønfalde min dommer om nåde.{E: *ḥnn* >>bede om nåde/barmhjertighed/velvilje<<. Andre mener at nægtelsen i foregående verslinjer også gælder her fordi Job er retfærdig.}
 
-//9 v16 Selvom jeg havde råbt til ham,
+//9 v16 Selvom jeg råbte til ham, 
 //11 og han svarede mig,
 
-//10 ville jeg ikke kunne tro
- //12 at han lagde øre til min røst.
+//10 vil jeg ikke kunne tro 
+//12 at han lagde øre til min røst.
 
-//12 v17 Han knuser{H: 1 Mos 3,15.} mig i stormen
+//12 v17 Han som knuser{H: 1 Mos 3,15.} mig i stormen
 
 //13 og giver mig talrige sår uden grund.{H: Job 2,3.}
 
 //11 v18 Han giver mig ikke mulighed for
-//13 at trække vejret,
+//13 at trække vejret,{N: Ånd.}
 
-//12 men mætter mig med bitterhed.{T: Intensiv pluralis, ordet findes kun her.}
+//12 men mætter mig med det bitreste.{T: Intensiv pluralis, ordet findes kun her.}
 
-//6 v19 Hvis det drejer sig om magt, 
-//9 er han stærk, se bare! 
+//6 v19 Hvis det drejer sig om styrke, 
+//9 er han stærk, se bare!
 
-//8 Men hvis det drejer sig om retten, 
+//8 Men hvis det drejer sig om ret, 
 //9 hvem kan stævne mig?
-//7 v20 Selvom jeg har ret, 
-//9 vil mine ord dømme mig skyldig.
 
-//8 Jeg er fuldkommen,{H: Job 8,20.} //9 men han dømmer mig skyldig.
+//7 v20 Selvom jeg har ret,
+//9 vil mine mund dømme mig skyldig. 
+
+//8 Jeg er fuldkommen,{H: Job 8,20.}
+//9 men han erklærer mig skyldig.
+
 //5 v21 Jeg er fuldkommen,
 
-//8 jeg kan ikke genkende mig selv,
+//8 jeg bekymrer mig ikke om mit liv,{N: Sjæl.} 
 
-//9 jeg ønsker ikke at leve længere!{T: Ordret: >>jeg forkaster mit liv<<.}
+//9 jeg ønsker ikke at leve længere!{T: Ordret: >>jeg forkaster mit liv<<.}{H: Job 7,16.}
 
 //7 v22 Det kommer ud på ét, 
 //8 derfor siger jeg:
 
-//11 >Fuldkommen eller skyldig, han er den der gør ende på det.<
+//11 >Fuldkommen eller skyldig, han er den der afslutter.<{H: Job 4,9.}
 
-//14 v23 Når en flodbølge{E: *šôṭ* (>>flodbølge<<) som i Es 28,18 kan også betyde >>svøbe, pisk<<, se Job 5,21 og 1 Kong 12,11.} pludselig bringer død,
+//14 v23 Når en flodbølge{H: Es 28,18.}{E: *šôṭ* (>>flodbølge<<) kan også betyde >>svøbe, pisk<<, jf. Job 5,21.} pludselig bringer død,
 
-//15 spotter han de uskyldiges fortvivlelse.
+//15 håner han de uskyldiges fortvivlelse.
 
-//13 v24 Landet overgives i den ugudeliges hånd,
+//13 v24 Jorden overgives i den ugudeliges hånd,
 
-//14 han fratager dommere deres dømmekraft{T: Ordret: >>tildækker dets (landets) dommeres ansigt<<.}
+//14 han fratager dommere deres dømmekraft.{T: Ordret: >>tildækker dens dommeres ansigt<<.}
 
-//12 Hvis ikke det er ham, 
+//12 Hvis ikke det er ham,
+
 //13 hvem er det så?
 
-
-==Job klager over at det er umuligt at få ret hos Gud==
-
+***
 
 //10 v25 Mine dage er hurtigere end en løber,
 
 //11 de flygter bort 
-
 //12 uden at have set noget godt.
 
 //11 v26 De farer afsted som sivbåde,
@@ -139,26 +142,26 @@
 //12 som en ørn 
 //13 der styrter ned over sit bytte.
 
-//9 v27 Når jeg tænker: 
-//11 Jeg vil glemme min fortvivlelse,{H: Job 7,13.}
+//9 v27 Når jeg siger: 
+//11 >Jeg vil glemme min fortvivlelse,{H: Job 7,13.}
 
 //11 jeg vil holde op med at vise sorg,{T: Ordret: >>forlade mit ansigt<<, dvs. opgive et ansigtsudtryk præget af sorg.}
-//12 jeg vil være glad!
+//12 jeg vil være glad!<
 
-//10 v28 så må jeg frygte alle mine smerter.
+//10 v28 så må jeg grue for{H: Job 3,25.} alle mine smerter.
 
 //11 Jeg ved 
 //14 at du ikke frikender mig.
 
-//13 v29 Jeg bliver skyldig.{H: Job 10,7.15.}
+//13 v29 Jeg bliver skyldig!{H: Job 9,20.24; 10,7.15.}
 
-//14 Hvorfor skal jeg så slide til ingen nytte?{E: Her opfattes *hevel* som det flygtige, men det kan også være det meningsløse.}
+//14 Hvorfor skal jeg slide mig træt på det der er tomhed?{H: Præd 4,4.8.}
 
 //12 v30 Om jeg så vaskede mig med tøsne
 
 //14 og rensede mine hænder med sæbe,
 
-//13 v31 ville du alligevel dyppe mig i skidtet,{E: *šaḥat* (>>grav<<, >>faldgrube<<). Flere ændrer til *sûḥāʰ* (>>affald<<) som i Es 5,25.}
+//13 v31 ville du alligevel dyppe mig i skidtet{E: *šaḥat* (>>grube<<, >>grav<<) er her ændret til *sûḥāʰ* (>>affald/skidt<<) som i Es 5,25 af hensyn til forståelsen.}
 
 //14 så mine klæder ville væmmes ved mig.
 
@@ -167,15 +170,15 @@
 
 //9 at vi kan gå sammen for retten.
 
-//7 v33 Der er ikke nogen voldgiftsmand mellem os
+//7 v33 Der er ikke nogen voldgiftsmand{H: Job 16,19.21.} mellem os
 
-//10 som kan mægle mellem os{T: Ordret: >>lægge sin hånd på os begge<<.}
+//10 som kan mægle mellem os.{T: Ordret: >>lægge sin hånd på os begge<<.}
 
 //9 v34 Ville han blot fjerne sin kæp fra mig
 
-//10 og rædslen for ham ikke overvælde mig!
+//10 og hans mægtige rædsel ikke forfærde mig!
 
-//8 v35 Jeg vil tale 
+//8 v35 Jeg ville tale 
 //10 og ikke frygte ham,
 
 //9 for jeg er ikke sådan i mig selv.

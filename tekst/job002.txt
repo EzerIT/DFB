@@ -1,82 +1,81 @@
 !!<Modenhed: Delvis færdig>!!
-!!<Oversættelse: Nicolai Winther-Nielsen og Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 18.11.2023>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 31.01.2025>!!
 
 ===Jobs Bog, kapitel 2===
 
 
-==Gud tillader Satan at teste Jobs retfærdighed ved at tage hans helbred==
+==Satans anden aftale med HERREN==
 
-//0 v1 Derpå, på dagen 
+//0 v1 Den dag 
 //1 da Guds sønner kom 
 //3 for at træde frem for HERREN, 
 //2 kom også Satan midt iblandt dem
 //4 for at træde frem for HERREN.
 //3 v2 Da sagde HERREN til Satan: 
 //5 >>Hvor kommer du fra?<< 
-//4 Satan gav HERREN 
-//5 følgende svar:
+//4 Satan svarede HERREN 
+//5 :
 //6 >>Fra at tage rundt på jorden 
 //7 og vandre omkring på den.<< 
 //3 v3 HERREN sagde til Satan: 
-//5 >>Har du tænkt over min tjener Job? 
+//5 >>Har du rettet din opmærksomhed{N: Hjerte.}{H: Job 1,8.} mod min tjener Job?
 //6 For der er ingen som ham på jorden. 
-//8 Han er fuldkommen og retskaffen, han frygter Gud{H: Job 1,1.5.8-9.} 
-//9 og holder sig fra det onde. 
-//7 Han holder stadig fast i sin uskyld{E: *tummātô* er afledt af *tām*(hel, fuldkommen), jfr. note til Job 1,1b.}{H: Job 27.5; Job 31,6.}  
-//8 selv om du satte mig op imod ham{T: Mange oversættelser vælger >>lokke<< eller >>tirre<<, men det harmonerer ikke med Bibelens gudsbillede, Jak 1,13. Der er tale om en duel med Satan som Gud valgte at gå ind i. Denne betydning støttes af 1 Sam 26,19 og andre steder.} 
-//9 for at ødelægge ham uden grund.<<
-//4 v4 Men Satan gav HERREN 
-//5 følgende svar:
-//6 >>Hud for hud!{T: En vending eller et ordsprog, hvis betydning er uklar.}
-//8 En mand vil give alt 
-//10 hvad han har,
-//9 for sit liv! 
-//7 v5 Men ræk nu din hånd ud 
-//9 og rør ved hans knogler og hans kød. 
-//8 Vil han så lovprise dig op i dit ansigt?<<{T: Dvs. komme dig i møde med lovprisning, ordret: >>velsigne hen imod dit ansigt<<. Forholdsordet antyder at Job vender sig hen imod HERREN for at lovprise, og dette udtrykker Satan som en spydighed. Normalt omtolkes >>velsigne<< også her til >>forbande<<, så der oversættes: >>så vil han forbande dig lige op i ansigtet<<.}{H: Job 1,5.11; Job 2,5.9.} 
+//8 Han er fuldkommen og retskaffen, han frygter Gud 
+//9 og holder sig hele tiden væk fra det onde.{H: Job 1,1.} 
+//7 Han holder stadig fast i sin uskyld{E: *tummātô* (>>uskyld, fuldkommenhed<<) er afledt af *tām* (>>hel, fuldkommen<<), jf. note til Job 1,1b.}{H: Job 27.5; 31,6.}
+//8 selv om du satte mig op imod ham{E: *swt*, >>lokke, drage, sætte op imod<<. Mange oversættelser vælger >>lokke<< men denne oversættelse er valgt i overensstemmelse med Jak 1,13 og med støtte i 1 Sam 26,19.}{H: Jer 43,3.} 
+//9 for at ødelægge{H: Job 10,8.} ham uden grund.<<.{H: Job 1,9. 2 Kor 12,7. Åb 2,10.}
+//4 v4 Men Satan svarede HERREN 
+//5 :
+//6 >>Hud for hud!{T: En vending eller et ordsprog hvis betydning er uklar.}
+//8 Alt 
+//10 hvad en mand har,
+//9 vil han give for sit liv!{N: Sjæl.}
+//7 v5 Ræk derimod din hånd ud 
+//9 mod hans knogler og hans kød og angrib dem! 
+//8 Mon ikke han så vil forbande dig op i dit ansigt?<<{T: Ordret: >>hen imod dit ansigt<<. Se note til Job 1,5.11.}{H: Job 2,9.} 
 //3 v6 HERREN sagde til Satan: 
 //4 >>Se, han er i din hånd. 
-//5 Dog, hans liv skal du skåne!<<{T: Ordret: >>bevare.<<}
+//5 Dog, hans liv{N: Sjæl.} skal du skåne!<<{T: Ordret: >>bevare<<.}
 
-==Job bliver syg uden at bebrejde Gud for det==
+==Job rammes af sygdom==
 
-//2 v7 Satan gik bort fra HERRENS ansigt 
-//3 og angreb Job med ondartede bylder fra fodsål til isse. 
+//2 v7 Satan gik væk fra HERRENS ansigt 
+//3 og slog Job med ondartede bylder fra fodsål til isse. 
 //5 v8 Han skaffede sig et potteskår 
 //8 for at han kunne skrabe sig med det
-//7 mens han sad midt i askedyngen. {T: Ordret >>asken<<. Refererer formentlig til stedet uden for byen, hvor affald blev brændt.}
+//7 mens han sad midt i askedyngen.{T: Ordret: >>asken<<. Refererer formentlig til stedet uden for byen, hvor affald blev brændt.}
 //6 v9 Hans hustru sagde til ham: 
-//8 >>Holder du endnu fast ved din uskyld? 
-//9 9 Lovpris Gud{T: Kan opfattes som en sarkasme. De fleste oversætter >>forband Gud<<.}{H: Job 1,5.11; Job 2,5.9.}
+//8 >>Holder du endnu fast ved din uskyld?{H: Job 2,3.} 
+//9 9 Forband Gud
 //10 og dø!<<
 //7 v10 Men han sagde til hende: 
-//9 >>Du lyder som når de tåbelige kvinder
-//8 taler.
+//9 >>Du taler ligesom en af de tåbelige kvinder.{H: Job 42,8. 1 Sam 25,25. Sl 14,1.} taler.
+//8 
 //9 Når vi tager imod det gode fra Gud, 
-//10 skulle vi så ikke også tage imod ulykken?<<{E: *rāʕ* >>det onde<< henviser til det moralsk onde eller til det onde som en straf fra Gud og må derfor henvise til naturkatastrofer, uforskyldt lidelse, dårlige eller uheldige forhold.}
+//10 skulle vi så ikke også tage imod det onde?<<
 //4 I alt dette syndede Job ikke med sine læber.
 
-==Job får tre venner på sygebesøg==
+==Jobs tre venner sørger med ham==
 
-//1 v11 Da Jobs tre venner hørte om al den ulykke{T: Ordret: >>det onde.<<}
-//3 der havde ramt ham, 
+//1 v11 Da Jobs tre venner hørte om alt det onde
+//3 der var kommet over ham, 
 //2 kom de, 
 //4 hver fra sit sted:
 //3 Elifaz fra Teman, Bildad fra Shua og Sofar fra Na’ama. 
 //2 De mødtes 
-//3 for at tage hen 
-//4 og vise ham deres medfølelse{T: Ordret: >>ryste på hovedet<<.} 
-//5 og trøste ham. 
-//2 v12 Men da de på lang afstand så op,{T: Ordret: >>løftede deres øjne op.<< antyder >>stirre på<< eller >>stirre lamslået på<<.}
+//3 for sammen at tage hen 
+//4 og vise ham medfølelse{E: *nwd*, >>ryste på hovedet<<, >>vise medfølelse<<.}{H: Job 42,11.} 
+//5 og for at trøste ham.{H: Job 42,6.} 
+//2 v12 Men da de på lang afstand så op,
 //3 kunne de ikke genkende ham.
 //2 De brast 
 //3 i gråd,
-//3 rev flænger i deres kapper 
+//3 flængede hver sin kappe 
 //3 og kastede støv op i luften over deres hoveder.
 //3 v13 De satte sig på jorden hos ham i syv dage og syv nætter, 
-//4 og ingen mælede et eneste ord til ham, 
+//4 og ingen talte et ord til ham, 
 //5 for de så
-//6 at hans lidelse var meget stor.
+//6 at hans smerte var meget stor.
