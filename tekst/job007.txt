@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 01.02.2025>!!
 
 ===Jobs bog, kapitel 7===
 
@@ -9,7 +9,7 @@
 == Job klager til Gud over sit livs elendighed==
 
 
-//0 v1 Er det ikke en krigstjeneste{H: Job 10,17; 14,14.} et menneske har på jorden, 
+//0 v1 Er det ikke en krigstjeneste{E: *ṣāvāˀ* >>krigstjeneste<<. Det kan her også betyde en mere generel >>hård tjeneste<< eller >>hård kamp<<.}{H: Job 10,17; 14,14.} et menneske har på jorden, 
 
 //4 og hans dage er som en lejesoldats{E: *śāxîr* kan også betyde >>daglejer<<, jf. vers 2.} dage? 
 
