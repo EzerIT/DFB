@@ -2,13 +2,13 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.10.2022>!!
+!!<Dato for denne version: 03.02.2025>!!
 
 ===Markusevangeliet, kapitel 11===
 
 ==Indtoget i Jerusalem==
 
-v1 Da de nærmede sig Jerusalem og kom til Betfage og Betania ved oliebjerget, udsendte han to af sine disciple, v2 og han sagde til dem: >>Gå til landsbyen over for jer, og straks når I går ind i den, vil I finde et føl som står bundet, og som intet menneske endnu har siddet på; løs det og bring det. v3 Hvis nogen siger til jer: Hvorfor gør I dette? Så sig: Dets Herre har brug for det, og han vil straks sende det tilbage hertil.<< v4 De gik hen og fandt føllet, som stod bundet ved en dør ud til gaden, og de løste det. v5 Nogle som stod der, sagde til dem: >>Hvorfor løser I føllet?<< v6 Men de sagde til dem som Jesus havde sagt, og de gav dem lov. v7 De bragte føllet til Jesus, og de lagde deres kapper på det, og han satte sig på det. v8 Mange spredte deres kapper på vejen, og andre skar grene fra markerne. v9 Og de som gik foran og de som fulgte, råbte:
+v1 Da de nærmer sig Jerusalem og kommer til Betfage og Betania ved oliebjerget, udsender han to af sine disciple, v2 og han siger til dem: >>Gå til landsbyen over for jer, og straks når I går ind i den, vil I finde et føl som står bundet, og som intet menneske endnu har siddet på; løs det og bring det. v3 Hvis nogen siger til jer: Hvorfor gør I dette? Så sig: Dets Herre har brug for det, og han vil straks sende det tilbage hertil.<< v4 De gik hen og fandt føllet, som stod bundet ved en dør ud til gaden, og de løser det. v5 Nogle som stod der, sagde til dem: >>Hvorfor løser I føllet?<< v6 Men de sagde til dem sådan som Jesus havde sagt, og de gav dem lov. v7 De bringer føllet til Jesus, og de lægger deres kapper på det, og han satte sig på det. v8 Mange spredte deres kapper på vejen, og andre skar grene fra markerne. v9 Og de som gik foran og de som fulgte, råbte:
 
  >>Hosianna! 
 
@@ -18,7 +18,7 @@ v10 velsignet vor far Davids rige som kommer,
 
 hosianna i det højeste!<< 
 
-v11 Han gik ind i Jerusalem til templet, og da han havde set på alt, var det allerede blevet sent, og så gik han til Betania med de tolv.
+v11 Han gik ind i Jerusalem til templet, og da han havde set på alt, var det allerede blevet sent, og så gik han ud til Betania med de tolv.
 
 ==Forbandelsen af figentræet==
 
@@ -26,7 +26,7 @@ v12 Den næste dag, da de gik ud af Bethania, blev han sulten. v13 Da han langt 
 
 ==Tempelrensningen==
 
-v15 De kom til Jerusalem; og han gik ind i templet og begyndte at uddrive dem der solgte og købte i templet, og han væltede vekselerernes borde og duesælgernes bænke. v16 Og han tillod ikke at nogen bar noget igennem templet. v17 Han underviste dem: >>Står der ikke skrevet
+v15 De kommer til Jerusalem; og han gik ind i templet og begyndte at uddrive dem der solgte og købte i templet, og han væltede vekselerernes borde og duesælgernes bænke. v16 Og han tillod ikke at nogen bar noget igennem templet. v17 Han underviste dem: >>Står der ikke skrevet
 
 at mit hus skal kaldes et bedehus for alle folkene? 
 
@@ -34,10 +34,10 @@ Men I har gjort det til en røverhule!<< v18 Ypperstepræsterne og de skriftlær
 
 ==Om troens magt==
 
-v20 Da de om morgenen gik forbi, så de at figentræet var visnet fra roden af. v21 Peter huskede det og sagde til ham: >>Rabbi! Se, det figentræ du forbandede, er visnet!<< v22 Jesus sagde til dem: >>Hav tro på Gud! v23 Sandelig siger jeg jer, den der siger til dette bjerg: Løft dig op og kast dig i havet, og ikke tvivler i sit hjerte, men tror at det han siger, sker, for ham vil det ske. v24 Derfor siger jeg til jer: Alt, hvad I beder og bønfalder om, tro at I har modtaget det, og det vil ske for jer. v25 Når I står og beder, så tilgiv hvis I har noget imod nogen, for at også jeres Far der er i himlene, kan tilgive jer jeres overtrædelser. v26 [Men hvis I ikke tilgiver, vil jeres Far der er i himlene, heller ikke tilgive jeres overtrædelser]{T: Dette vers mangler i nogle af de ældste og bedste håndskrifter}.<<
+v20 Da de om morgenen går forbi, så de at figentræet var visnet fra roden af. v21 Peter huskede det og siger til ham: >>Rabbi! Se, det figentræ du forbandede, er visnet!<< v22 Jesus sagde til dem: >>Hav tro på Gud! v23 Sandelig siger jeg jer, den der siger til dette bjerg: Løft dig op og kast dig i havet, og ikke tvivler i sit hjerte, men tror at det han siger, sker, for ham vil det ske. v24 Derfor siger jeg til jer: Alt, hvad I beder og bønfalder om, tro at I har modtaget det, og det vil ske for jer. v25 Når I står og beder, så tilgiv hvis I har noget imod nogen, for at også jeres Far der er i himlene, kan tilgive jer jeres overtrædelser. v26 [Men hvis I ikke tilgiver, vil jeres Far der er i himlene, heller ikke tilgive jeres overtrædelser]{T: Dette vers mangler i nogle af de ældste og bedste håndskrifter}.<<
 
 ==Spørgsmålet om Jesu fuldmagt==
 
-v27 De kom igen til Jerusalem; og mens han gik omkring i templet, kom ypperstepræsterne og de skriftlærde og de ældste til ham. v28 De sagde til ham: >>Med hvilken fuldmagt gør du dette? Eller hvem har givet dig denne fuldmagt, så du gør dette?<< v29 Men Jesus sagde til dem: >>Jeg vil spørge jer om én ting, og svar mig, og jeg vil sige jer med hvilken fuldmagt jeg gør dette. v30 Var Johannes’ dåb fra himlen eller fra mennesker? Svar mig!<< v31 De diskuterede indbyrdes og sagde: >>Hvis vi siger: Fra himlen, så vil han sige: Hvorfor troede I ham så ikke? v32 Men siger vi: Fra mennesker –<< De frygtede skaren; for alle holdt på at Johannes virkelig var en profet. v33 De svarede Jesus: >>Vi ved det ikke.<< Jesus sagde til dem: >>Så siger jeg heller ikke til jer med hvilken myndighed jeg gør dette.<<
+v27 De kommer igen til Jerusalem; og mens han går omkring i templet, kommer ypperstepræsterne og de skriftlærde og de ældste til ham. v28 De sagde til ham: >>Med hvilken fuldmagt gør du dette? Eller hvem har givet dig denne fuldmagt, så du gør dette?<< v29 Men Jesus sagde til dem: >>Jeg vil spørge jer om én ting, og svar mig, og jeg vil sige jer med hvilken fuldmagt jeg gør dette. v30 Var Johannes’ dåb fra himlen eller fra mennesker? Svar mig!<< v31 De diskuterede indbyrdes og sagde: >>Hvis vi siger: Fra himlen, så vil han sige: Hvorfor troede I ham så ikke? v32 Men siger vi: Fra mennesker –<< De frygtede skaren; for alle holdt på at Johannes virkelig var en profet. v33 De svarede Jesus: >>Vi ved det ikke.<< Jesus siger til dem: >>Så siger jeg heller ikke til jer med hvilken myndighed jeg gør dette.<<
 
 
