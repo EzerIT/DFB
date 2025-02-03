@@ -2,35 +2,126 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 03.02.2025>!!
+
 
 ===Ruths bog, kapitel 4===
+==I byporten konfronterer Boaz den der er nærmest til at løskøbe Ruth og No’omi==
 
-==I byens ældstes påhør spørger Boaz den anden arving om han vil løskøbe No'omis mark og tage Ruth til kone; men da han ikke vil, lover Boaz at gifte sig med hende, og de ønsker ham tillykke.==
+//0 v1 Boaz var da gået hen til byporten
+//1 og havde sat sig der,
+//2 og se der kom han forbi, løskøberen,
+//3 som Boaz havde talt om,{H: Ruth 3,12.}
+//1 og han sagde til ham:
+//3 >>Kom herhen,
+//3 sæt dig her,
+//4 min ven.<<
+//2 Han kom derhen
+//2 og satte sig.
+//1 v2 Han fik fat på ti af de ældste i byen
+//1 og sagde:
+//3 >>Sæt jer her.<<
+//2 Og de satte sig.
+//1 v3 Da sagde han til løskøberen:
+//3 >>Det jordstykke
+//6 som tilhørte vores slægtning Elimelek,
+//5 er sat til salg af No'omi,
+//6 der kom tilbage fra Moab,
+//4 v4 Derfor erklærer jeg nu:{E: *waˀᵃnî ʔāmartî* (>>og jeg har sagt<<) bruges som juridisk bindende handlingsverbum.}
+//5 >Hermed meddeler jeg dig
+//6 følgende: {E: *ʔegleʰ ʔoznxā lēˀmōr* (>>jeg åbenbarer dine ører sigende<<) er også en juridisk gyldig kundgørelse.}
+//7 Køb det i overværelse af dem der sidder her, mit folks ældste.<
+//8 Dersom du vil løskøbe,
+//10 så løskøb det,
+//9 men dersom du ikke vil løskøbe,
+//10 så sig mig det,
+//12 så jeg kan vide det.
+//11 For kun du står først
+//13 til at kunne løskøbe det,
+//12 og efter dig mig selv.<<
+//2 Han sagde:
+//3 >>Jeg vil løskøbe!<<
+//1 v5 Boaz sagde så:
+//2 >>Den dag
+//4 du køber jorden af No'omi,
+//3 køber du{E: Her følges massoreternes vokalisering *qānîtāʰ*; den hebraiske konsonanttekst har *qnyty* >>jeg køber<<.} også moabitten Ruth, den afdødes hustru,
+//4 for at oprejse den afdøde et navn over hans arvelod.<<
+//1 v6 Da sagde løskøberen:
+//3 >>Jeg kan ikke
+//6 selv løskøbe,
+//5 for så vil jeg forringe min egen arvede jord.
+//4 Brug du min løskøbelsesret til gældsindfrielsen,
+//5 for jeg vil ikke
+//6 løskøbe!<<
+//2 v7 I gamle dage var det sædvane i Israel ved løskøbelse med henblik på gældsindfrielse og ved byttehandel
+//5 at den ene som tegn på gennemførelsen af handlen
+//4 tog sin sko af
+//5 og gav den til den anden.
+//3 Det gjaldt som bevisførelse i Israel.
+//1 v8 Løskøberen sagde til Boaz:
+//3 >>Køb du det.<<
+//2 Og han tog sin sko af.
+//1 v9 Da sagde Boaz til de ældste og til alt folket:
+//2 >>I er i dag vidner på
+//3 at jeg
+//6 af No'omi har købt alt det
+//6 som tilhørte Elimelek,
+//5 og alt det
+//7 som tilhørte Kiljon og Maklon.
+//4 v10 Og jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru
+//5 for at oprejse et navn for den afdøde knyttet til hans arvede jord,
+//6 for at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port.
+//2 Det er I vidner på i dag.<<
+//1 v11 Og alt folket
+//4 som var i porten,
+//3 og de ældste sagde:
+//2 >>Vi er vidner.
+//3 Må JHVH give at den kvinde
+der kommer ind i dit hus,
+//6 bliver som Rakel og som Lea,
+//7 der begge byggede Israels hus.
+//5 Må du blive mægtig i Efrata
+//6 og berømt i Betlehem!
+//4 v12 Og må dit hus blive ligesom Perez' hus,
+//6 han som Tamar fødte Juda,
+//5 ved den efterkommer
+//6 som JHVH skal give dig af denne unge kvinde.<<
 
+==Boaz får med Ruth en søn som No'omi opfostrer==
 
-//0 v1 Boaz var da gået hen til byporten //1 og havde sat sig der, //2 og se løseren, //3 som Boaz havde talt om, //1 gik forbi. //1 Han sagde til ham://3 >>Kom herhen, //3 sæt dig her, //4 min ven.<< //2 Han kom derhen //2 og satte sig. 
-//1 v2 Han fik fat på ti af de ældste i byen //1 og sagde: //3 >>Sæt jer her.<< //2 Og de satte sig. 
-//1 v3 Da sagde han til løseren://3  >>Det jordstykke //6 som tilhørte vores bror Elimelek, //5 har No'omi, //6 som er kommet tilbage fra Moab, //5 sat til salg. 
-//4 v4 Derfor erklærer jeg nu{E: *waˀᵃnî ʔāmartî* >>og jeg har sagt<< kan tolkes som et handlingsverbum af juridisk bindende karakter.}://5 >Jeg meddeler dig hermed //6 følgende{E: *ʔegleʰ ʔoznxā lēˀmōr* >>jeg åbenbarer dine ører sigende<< opfattes bedst som en juridisk gyldig kundgørelse.}: //7 Køb det i overværelse af dem der sidder her, mit folks ældste.< //8 Dersom du vil løskøbe det, //10 løskøb det, //9 men dersom du ikke vil løskøbe det, //10 så sig mig det, //12 så jeg kan vide det. //11 For der er ingen anden //13 til at løskøbe det //11 end dig  //12 og efter dig mig selv.<< //2 Han sagde: //3 >>Jeg vil løskøbe det.<< 
- //1 v5 Boaz sagde: //2 >>Den dag //4 du køber jorden af No'omi,  //3 køber du også moabitten Ruth, den afdødes hustru, //4 for at oprejse den afdøde et navn over hans arvelod.<< 
- //1 v6 Da sagde løseren: //3 >>Jeg kan ikke //6 løskøbe det, //5 for så vil jeg forringe min egen arvelod. //4 Brug du min løskøbelsesret, //5 for jeg vil ikke //6 løskøbe det.<< 
-//2 v7 I gamle dage var det sædvane i Israel ved løskøbelse og byttehandel //5 at den ene som tegn på gennemførelsen af handlen //4 tog sin sko af //5 og gav den til den anden. //3 Det gjaldt som bevisførelse i Israel. 
-//1 v8 Løseren sagde til Boaz: //3 >>Køb du det.<< //2 Og han tog sin sko af. 
-//1 v9 Da sagde Boaz til de ældste og til alt folket: //2 >>I er i dag vidner på //3 at jeg //6 af No'omi har købt alt de //6 som tilhørte Elimelek, //5 og alt det //7 som tilhørte Kiljon og Maklon.
-//4 v10 Og jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru //5 for at oprejse et navn for den afdøde over hans arvelod, //6 for at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port. //2 Det er I i dag vidner på.<< 
-//1 v11 Og alt folket //4 som var i porten, //3 og de ældste sagde: //2 >>Vi er vidner. //3 Må JHVH give at den kvinde der kommer ind i dit hus, //6 bliver som Rakel og som Lea, //7 der begge byggede Israels hus. //5 Må du blive mægtig i Efrata //6 og berømt i Betlehem!
-//4 v12 Og må dit hus blive ligesom Perez' hus, //6 han som Tamar fødte Juda, //5 ved den efterkommer //6 som JHVH skal give dig af denne unge kvinde.<< 
+//0 v13 Så tog Boaz Ruth
+//2 som sin hustru,
+//1 og han gik ind til hende.{E: Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin hustru.}
+//2 JHVH lod hende blive gravid,
+//1 og hun fødte en søn.
+//0 v14 Da sagde kvinderne til No'omi:
+//2 >>Lovet være JHVH,
+//4 som ikke lod dig mangle en løskøber i dag.
+//3 Han skal få et stort navn i Israel!
+//5 v15 Og han skal give dig livet tilbage
+//6 og være din forsørger i din alderdom,
+//4 for din svigerdatter,
+//7 som elskede dig,
+//6 har født ham.
+//5 Hun er dig mere værd end syv sønner.<<
+//1 v16 Og No'omi tog barnet
+//2 på sit skød,
+//3 og hun blev hans plejemor.
+//1 v17 Nabokonerne gav ham et navn
+//3 og sagde:
+//4 >>No'omi har fået en søn.<<
+//2 De gav ham navnet Obed.
+//3 Han blev far til Isaj, Davids far.
 
-==Boaz tager Ruth til kone, og hun føder en søn som No'omi opfostrer; hans efterslægt opremses indtil kong David.==
+==Davids slægtstræ ==
 
-//0 v13 Så tog Boaz Ruth //2 som sin hustru //1 og han gik ind til hende{E: Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin kone.}. //2 JHVH lod hende blive gravid, //1 og hun fødte en søn. 
-//0 v14 Da sagde kvinderne til No'omi: //2 >>Velsignet være JHVH, //4 som ikke lod dig mangle en løser i dag. //3 Hans navn være priset i Israel!
-//5 v15 Og han skal givet dig livet tilbage //6 og være din forsørger i din alderdom, //4 for din svigerdatter, //7 som elskede dig, //6 har født ham. //5 Hun er dig mere værd end syv sønner.<<
-//1 v16 Og No'omi tog barnet //2 på sit skød, //3 og hun blev hans plejemor. 
-//1 v17 Nabokonerne gav ham et navn //3 og sagde: //4 >>No'omi har fået en søn.<< //2 De kaldte ham Obed. //3 Han blev far til Isaj, Davids far. 
-//4 v18 Dette er Perez' slægt: //5 Perez fik Hesron, 
-//6 v19 Hezron fik Ram, //6 og Ram fik Amminadab, 
-//6 v20 Amminadab fik Nakshon, //6 og Nakshon fik Salma, 
-//6 v21 Salma fik Boaz, //6 og Boaz fik Obed, 
-//6 v22 og Obed fik Isaj, //6 og Isaj fik David.
+//4 v18 Dette er Perez' slægt:
+//5 Perez fik Hesron,
+//6 v19 Hezron fik Ram,
+//6 og Ram fik Amminadab,
+//6 v20 Amminadab fik Nakshon,
+//6 og Nakshon fik Salma,
+//6 v21 Salma fik Boaz,
+//6 og Boaz fik Obed,
+//6 v22 og Obed fik Isaj,
+//6 og Isaj fik David.

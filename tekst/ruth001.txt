@@ -2,37 +2,133 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 03.02.2025>!!
+
 
 ===Ruths bog, kapitel 1===
+==Noomi bliver enke og barnløs==
 
-==Hungersnød får Elimelek til at drage med sin hustru og to sønner fra Betlehem til landet Moab hvor han dør; hans sønner gifter sig og dør også.== 
+//0 v1 På den tid
+//2 da frihedsheltene{E: Titlen *šôfēṭ* henviser til en befrier i militære kriser som kaldes af Gud i en nødssituation og derefter overtager administrationen af samfundet for en længere periode. Den første af disse helte kaldes en *môšîₐʕ* >>befrier<< (Dom 3,9). De fungerede også som dommere (Dom 4,4. 5 Mos 16,18).} styrede samfundet,
+//1 blev der hungersnød i landet.
+//1 En mand fra Betlehem i Juda
+//5 rejste derfor til Moabs land for at slå sig ned der
+//4 sammen med sin hustru og deres to sønner.
+//3 v2 Manden hed Elimelek,
+//4 hans hustru No'omi,
+//4 og de to sønner hed Maklon og Kiljon.
+//5 De var fra Efrat ved Betlehem{E: Adjektivet i vendingen *ʔefrātîm mibbêt leḥem* >>Efratitter fra brødets hus/Beth lehem<< opfattes her som landsbyen Efrat (1 Mos 35,16) snarere end en Efratra-slægt fra Bethlehem.} i Juda,
+//2 og de kom til Moab
+//2 og blev der.
+//1 v3 Elimelek, No'omis mand, døde,
+//2 og hun sad tilbage med sine to sønner.
+//3 v4 De giftede sig med moabitiske kvinder,
+//4 den ene hed Orpa,
+//5 og den anden hed Ruth.
+//3 De boede der i omkring ti år.
+//1 v5 Så døde også både Maklon og Kiljon.
+//1 Kvinden havde nu mistet begge sine sønner og sin mand.
 
-//0 v1 På den tid //2 hvor dommerne virkede{E: *šōfᵊṭîm* >>dommere<< bibeholdes men verbet *šᵊfōṭ* >>dømme<< oversættes ikke med >>dømme<<, fordi dommerne ikke først og fremmest fungerede i retssalen, men mere var ledere af befrielseskampene.} //1 var der hungersnød i landet, //1 og en mand fra Betlehem i Juda //5 rejste til Moabs land for at slå sig ned der //4 sammen med sin hustru og deres to sønner.
-//3 v2 Manden hed Elimelek, //4 hans hustru No'omi, //4 og de to sønner hed Maklon og Kiljon. //5 De var efratiter fra Betlehem i Juda, //2 og de kom til Moab //2 og blev der.
-//1 v3 Elimelek, No'omis mand, døde, //2 og hun sad tilbage med sine to sønner. 
-//3 v4 De giftede sig med moabitiske kvinder, //4 den ene hed Orpa, //5 og den anden hed Ruth. //3 De boede der i omkring ti år. 
-//1 v5 Så døde også både Maklon og Kiljon. //1 Kvinden havde nu mistet begge sine sønner og sin mand.
+==Ruth vælger at følge med Noomi hjem==
 
-==Hustruen, No'omi, vil drage tilbage til Betlehem; hendes ene svigerdatter tager tilbage til sin familie, men den anden, nemlig Ruth, vil ikke forlade hende.==
+//2 v6 Da besluttede hun og hendes svigerdøtre sig
+//5 for at vende tilbage fra Moabs land.
+//4 For i Moab havde hun hørt
+//5 at JHVH havde besøgt sit folk
+//6 og givet dem brød{T: Udtrykket betyder at >>skaffe mad<<, men brød er også en allusion til Bet-lehem >>brødets hus<<.}
+//3 v7 Hun tog af sted
+//6 derfra,
+//5 og begge hendes svigerdøtre
+//4 fulgte med hende på vejen
+//5 tilbage til Judas land.
+//1 v8 Da sagde No'omi til sine to svigerdøtre:
+//3 >>Gå
+//3 I hjem,
+//5 hver til jeres mors hus.
+//4 Må JHVH være trofast{N: Nåde} mod jer,
+//5 ligesom I har været det mod de afdøde og mod mig!
+//4 v9 Må JHVH lade jer
+//5 finde hvile hver
+//6 i sin mands hus!<<
+//2 Hun kyssede dem,
+//3 og de græd
+//3 højlydt.
+//3 v10 De sagde til hende:
+//4 >>Vi vil følges med dig til dit folk.<<
+//1 v11 Men No'omi sagde:
+//3 >>Gå tilbage,
+//5 mine døtre!
+//4 Hvorfor skulle I tage med mig?
+//5 Mon der fra min livmoder kan komme flere sønner
+//6 som kunne blive jeres mænd?
+//3 v12 Gå tilbage,
+//7 mine døtre!
+//6 Gå,
+//7 for jeg er for gammel
+//8 til at få en mand.
+//5 Selv hvis jeg sagde:
+//8 Der er endnu håb for mig,
+//7 ja, selv hvis jeg havde en mand i nat
+//8 og endnu fødte sønner,
+//6 v13 skulle I så vente på dem
+//7 til de blev voksne?
+//6 Skulle I holde jer tilbage
+//7 og ikke få mænd?
+//4 Nej,
+//6 mine døtre!
+//5 Det er mere trist for mig end for jer
+//6 at JHVHs hånd greb ud efter mig.<<
+//2 v14 Da brød de ud
+//4 i endnu voldsommere gråd,
+//3 og Orpa kyssede sin svigermor farvel,
+//4 men Ruth klyngede sig til hende.
+//6 v15 Da sagde hun:
+//7 >>Se der, din svigerinde er vendt tilbage til sit folk og til sin gud.
+//8 Vend du også tilbage sammen med din svigerinde!<<
+//5 v16 Men Ruth sagde:
+//7 >>Lad være med at tvinge mig
+//10 til at forlade dig
+//11 for at vende tilbage uden dig,
+//9 for
+//13 hvor du går hen,
+//12 der vil jeg gå hen,
+//11 og
+//13 hvor du overnatter,
+//12 der vil jeg overnatte.
+//10 Dit folk er mit folk,
+//12 og din Gud er min Gud.
+//12 v17 Hvor du dør,
+//11 der vil jeg dø,
+//12 og der vil jeg begraves.
+//8 Må JHVH handle med mig
+//10 sådan og føje mere til
+//9 hvis
+//10 andet end døden skal skille os ad!<<
+//6 v18 Da hun så
+//7 at hun var fast besluttet på
+//8 at gå med hende,
+//6 holdt hun op med
+//7 at tale hende fra det.
 
-//2 v6 Da besluttede hun og hendes svigerdøtre sig //5 for at vende tilbage fra Moabs land. //4 For i Moab havde hun hørt //5 at JHVH havde besøgt sit folk //6 og givet dem brød{T: Udtrykket betyder at >>skaffe mad<<, men ved at bevare >>brød<< er det muligt at se en allusion til Bet-lehem >>brødets hus<<}. 
-//3 v7 Hun tog af sted //6 derfra, //5 og begge hendes svigerdøtre //4 fulgte med hende på vejen //5 tilbage til Judas land.
-//1 v8 Da sagde No'omi til sine to svigerdøtre: //3 >>Gå //3 I hjem //5 hver til jeres mors hus. //4 Må JHVH være trofast{T: 1871 har >>gøre Miskundhed<<. En mulighed her er >>vise sin trofaste kærlighed<<} mod jer, //5 ligesom I har været det mod de afdøde og mod mig! 
-//4 v9 Må JHVH lade jer //5 finde hvile hver //6 i sin mands hus!<< //2 Hun kyssede dem, //3 og de græd //3 højlydt. 
-//3 v10 De sagde til hende: //4 >>Vi vil følges med dig til dit folk.<< 
-//1 v11 Men No'omi sagde: //3 >>Gå tilbage, //5 mine døtre! //4 Hvorfor skulle I tage med mig? //5 Mon der fra min livmoder kan komme flere sønner //6 som kunne blive jeres mænd?
-//3 v12 Gå tilbage, //7 mine døtre! //6 Gå, //7 for jeg er for gammel //8 til at få en mand. //5 Selv hvis jeg sagde: //8 Der er endnu håb for mig, //7 ja, selv hvis jeg havde en mand i nat //8 og endnu fødte sønner, 
-//6 v13 skulle I så vente på dem //7 til de blev voksne? //6 Skulle I holde jer tilbage //7 og ikke få mænd? //4 Nej, //6 mine døtre! //5 Det er mere trist for mig end for jer //6 at JHVHs hånd greb ud efter mig.<<
-//4 v14 Da græd de endnu mere, //3 og Orpa kyssede sin svigermor farvel, //4 men Ruth klyngede sig til hende.
-//6 v15 Da sagde hun: //7 >>Se, din svigerinde er vendt tilbage til sit folk og til sin gud. //8 Følg efter din svigerinde og vend tilbage!<<
-//5 v16 Og Ruth sagde: //7 >>Tving mig ikke til //10 at forlade dig //11 og gå fra dig, //9 for //13 hvor du går hen, //12 der vil jeg gå hen, //11 og //13 hvor du overnatter, //12 der vil jeg overnatte. //10 Dit folk er mit folk, //12 og din Gud er min Gud.
-//12 v17 Hvor du dør, //11 der vil jeg dø, //12 og der vil jeg begraves. //8 Må JHVH handle med mig //10 sådan og føje mere til //9 hvis //10 andet end døden skiller os ad.{E: Bag dette udtryk ligger en meget højtidelig ed, hvor Ruth nedkalder død og anden ulykke over sig selv hvis hun ikke følger sin svigermor til den bitre ende.}<<
-//6 v18 Da hun så //7 at hun var fast besluttet på //8 at gå med hende, //6 holdt hun op med //7 at tale hende fra det.
+==No'omi og Ruth kommer til Betlehem under byghøsten==
 
-==No'omi og Ruth kommer til Betlehem under byghøsten.==
-
-//5 v19 De gik begge //6 til Betlehem. //5 Da //7 de kom til Betlehem, //6 blev der opstandelse i hele byen, //7 og de sagde: //9 >>Er det ikke No'omi?<<
-//8 v20 Hun sagde til dem: //9 >>Kald mig ikke No'omi{T: liflighed.}. //12 Kald mig Mara{T: bitter.}, //13 for den Almægtige har gjort det bittert for mig. 
-//11 v21 Jeg drog af sted med fulde hænder, //12 men JHVH har ført mig hjem med tomme hænder. //10 Hvorfor skulle I kalde mig No'omi, //11 når JHVH har vidnet imod mig, //11 og den Almægtige har behandlet mig dårligt?<< 
-//1 v22 Sådan kom No'omi tilbage, //3 og Ruth, hendes moabitiske svigerdatter, //4 var med hende //2 da hun kom tilbage fra Moab, og de ankom sammen til Betlehem ved begyndelsen af byghøsten.
+//5 v19 De gik så begge
+//6 til Betlehem.
+//5 Da
+//7 de ankom til Betlehem,
+//6 blev der opstandelse i hele byen,
+//7 og de sagde:
+//9 >>Er det ikke No'omi?<<
+//8 v20 Hun sagde til dem:
+//9 >>Kald mig ikke No'omi.{T: Ordspil på betydningen >>herligt<<.}
+//12 Kald mig Mara,{T: Ordspil på betydningen >>bitter<<.}
+//13 for den Almægtige har gjort det bittert for mig.
+//11 v21 Jeg drog af sted med fulde hænder,
+//12 men JHVH har ført mig hjem med tomme hænder.
+//10 Hvorfor skulle I kalde mig No'omi,
+//11 når JHVH har vidnet imod mig,
+//11 og den Almægtige har behandlet mig dårligt?<<
+//1 v22 Sådan vendte No'omi tilbage,
+//3 og Ruth, hendes moabitiske svigerdatter, var sammen med hende
+//4 da hun vendte tilbage fra Moab.
+//2 De ankom til Betlehem ved begyndelsen af byghøsten.

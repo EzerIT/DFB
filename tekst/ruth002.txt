@@ -2,39 +2,152 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 20.05.2024>!!
+!!<Dato for denne version: 03.02.2025>!!
+
 
 ===Ruths bog, kapitel 2===
+==Ruth samler aks på Boaz’ mark==
 
-==No'omis mand havde en slægtning ved navn Boaz. Da Ruth vil samle aks, kommer hun til hans mark. Han taler venligt til hende og giver sine folk befaling om ikke at genere hende.==
+//0 v1 No'omis mand havde en slægtning der var storbonde. Han hørte til Elimeleks slægt
+//2 og hed Boaz.
+//1 v2 Moabitten Ruth sagde til No'omi:
+//4 >>Lad mig gå ud på marken
+//6 og samle aks hos en mand
+//5 som vil vise mig venlighed.<<
+//3 Hun svarede hende:
+//4 >>Gå,
+//5 min datter!<<
+//3 v3 Hun gik
+//3 hen
+//3 og samlede aks på marken efter høstfolkene.
+//2 Nu gik sådan
+//4 at hun kom til den del af marken som tilhørte Boaz
+//5 der var af Elimeleks slægt.
+//3 v4 Og se,
+//4 netop da kom Boaz fra Betlehem,
+//5 og han hilste høstfolkene:
+//7 >>JHVH være med jer!<<
+//6 De svarede ham:
+//7 >>JHVH velsigne dig!<<
+//2 v5 Boaz sagde til den unge karl
+//5 som var sat over høstfolkene:
+//4 >>Hvem er den unge kvinde?<<
+//3 v6 Den unge karl
+//5 som var sat over høstfolkene,
+//4 svarede:
+//5 >>Det er den unge moabitiske kvinde
+//8 som fulgtes med No'omi da hun kom tilbage fra Moab.
+//7 v7 Hun sagde:
+//8 >Må jeg ikke nok følge efter høstfolkene
+//9 og samle op blandt negene?<
+//7 Hun kom
+//7 og har været i gang lige fra i morges og til nu.
+//6 Hun har kun været hjemme i en kort middagspause.<<
+//2 v8 Da sagde Boaz til Ruth:
+//5 >>Hør her,
+//9 min datter!
+//8 Du skal ikke gå hen
+//11 og samle aks på andre marker,
+//10 og gå heller ikke herfra.
+//9 Hold dig nær til mine unge piger!
+//7 v9 Hold øje med hvilken mark
+//9 de høster på,
+//8 og følg efter dem.
+//6 Har jeg ikke befalet de unge karle
+//8 at ingen må røre dig?
+//7 Og er du tørstig,
+//7 så gå hen til krukkerne
+//7 og drik af det
+//8 som de unge karle øser op.<<
 
-//0 v1 No'omis mand havde en slægtning der var storbonde. Han hørte til Elimeleks slægt //2 og hed Boaz. 
-//1 v2 Moabitten Ruth sagde til No'omi: //4 >>Jeg kunne tænke mig at gå ud på marken //6 og samle aks hos den mand //5 for hvis øjne jeg finder nåde.<< //3 Hun sagde til hende: //4 >>Gå, //5 min datter!<< 
-//3 v3 Hun gik ud //3 og kom hen //3 og samlede aks på marken efter høstfolkene, //2 og det gik sådan //4 at hun kom til den del af marken som tilhørte Boaz //5 der var af Elimeleks slægt. 
-//3 v4 Og se, //4 netop da kom Boaz fra Betlehem, //5 og han hilste  høstfolkene: //7 >>JHVH være med jer!<< //6 De svarede ham: //7 >>JHVH velsigne dig!<< 
-//2 v5 Boaz sagde til den unge karl //5 som var sat over høstfolkene: //4 >>Hvem er den unge kvinde?<<
-//3 v6 Den unge karl //5 som var sat over høstfolkene, //4 svarede: //5 >>Det er den unge moabitiske kvinde //8 som fulgtes med No'omi da hun kom tilbage fra Moab.
-  
-//7 v7 Hun har sagt: //8 >Må jeg ikke nok følge efter høstfolkene //9 og samle op blandt negene?< //7 Hun kom //7 og har været i gang lige fra i morges og til nu. //6 Hun har kun været hjemme i en kort middagspause.<<
+//4 v10 Da faldt hun på knæ
+//4 og bøjede sig helt ned mod jorden
+//3 og sagde til ham:
+//4>>Hvorfor viser du mig venlighed
+//6 ved at lægge mærke til mig?
+//5 Jeg er dog en fremmed.<<
+//2 v11 Boaz svarede
+//3 hende:
+//5 >>Jeg har fået fortalt alt
+//7 hvad du har gjort for din svigermor efter din mands død.
+//8 At du har forladt din far og din mor og dit fædreland
+//8 og er taget til et folk
+//9 som du ikke tidligere kendte til.
+//6 v12 Må JHVH belønne dig for din gode gerning,
+//7 og må du få fuld løn fra JHVH Israels Gud,
+//8 til hvem du er kommet
+//9 for at søge beskyttelse{T: Ordret >>søge ly under hans vinger<<.}!<<
+//4 v13 Hun sagde:
+//5 >>Du viser mig venlighed,
+//8 herre,
+//7 fordi du har trøstet mig,
+//8 og fordi du har talt venligt{N: Hjerte} til din tjenestepige.
+//6 Og jeg er endda ikke en af dine egne tjenestepiger.<<
 
-//2 v8 Da sagde Boaz til Ruth: //5 >>Hør her, //9 min datter! //8 Du skal ikke gå hen //11 og samle aks på andre marker, //10 og gå heller ikke herfra. //9 Hold dig nær til mine unge piger!
-//7 v9 Hold øje med hvilken mark //9 de høster på, //8 og følg efter dem. //6 Har jeg ikke befalet de unge karle //8 at ingen må røre dig? //7 Og er du tørstig, //7 så gå hen til krukkerne //7 og drik af det //8 som de unge karle øser op.<< 
-//4 v10 Da faldt hun på knæ //4 og bøjede ansigtet mod jorden //3 og sagde til ham: //4>>Hvorfor har jeg fundet nåde for dine øjne //6 så du bemærker mig? //5 Jeg er dog en fremmed.<< 
-//2 v11 Boaz svarede //3 hende: //5 >>Jeg har fået fortalt alt //7 hvad du har gjort for din svigermor efter din mands død. //8 At du har forladt din far og din mor og dit fædreland //8 og er taget til et folk //9 som du ikke tidligere kendte til. 
-//6 v12 Må JHVH belønne dig for din gode gerning, //7 og må du få fuld løn fra JHVH Israels Gud, //8 til hvem du er kommet //9 for at søge ly under hans vinger!<< 
-//4 v13 Hun sagde: //5 >>Lad mig finde nåde for dine øjne, //8 Herre, //7 fordi du har trøstet mig, //8 og fordi du har talt venligt til din tjenestepige. //6 Og jeg er endda ikke en af dine egne tjenestepiger.<<
+//2 v14 Ved frokosttid sagde Boaz til hende:
+//5 >>Kom herhen
+//6 og spis af brødet
+//6 og dyp dit stykke i eddiken.<<
+//4 Hun satte sig så ved siden af høstfolkene,
+//3 og han rakte hende noget ristet korn.
+//4 Hun spiste
+//4 og blev så mæt
+//4 at hun kunne levne.
+//4 v15 Så rejste hun sig
+//6 for at samle aks.
+//5 Boaz befalede sine unge karle
+//6:
+//7 >>Lad hende også samle op inde mellem negene,
+//8 og I må ikke genere hende!
+//10 v16 Pluk også noget ud af negene til hende
+//12 og lad det ligge
+//11 så hun kan samle det op.
+//9 Og I må ikke skælde ud på hende.<<
 
-//2 v14 Boaz sagde til hende: >>Når det er spisetid, //5 så kom herhen //6 og spis af brødet //6 og dyp dit stykke i eddiken.<< //4 Hun satte sig ved siden af høstfolkene, //3 og han rakte hende ristede korn. //4 Hun spiste //4 og blev så mæt //4 at hun levnede. 
-//4 v15 Så rejste hun sig //6 for at samle aks. //5 Boaz befalede sine unge karle: //7 >>Lad hende også samle op inde mellem negene, //8 og I må ikke genere hende! 
-//10 v16 Pluk også noget ud af negene til hende //12 og lad det ligge //11 så hun kan samle det op. //9 Og I må ikke skælde ud på hende.<< 
-//4 v17 Så samlede hun aks op på marken indtil det blev aften. //4 Hun slog det af //6 som hun havde samlet, //5 og der var næsten en efa{N: gt-mål} byg.
+//4 v17 Så samlede hun aks op på marken indtil det blev aften.
+//4 Hun tærskede det
+//6 som hun havde samlet,
+//5 og der var næsten en efa{N: Gt-mål} byg.
 
-==Ruth kommer hjem til No'omi og fortæller hvordan det er gået hende, hun bliver ved med at samle korn på Boaz' mark.==
+==Noomis reaktion på Boaz’ venlighed==
 
-//4 v18 Hun tog det op //4 og gik ind i byen. //2 Hendes svigermor så //4 det hun havde samlet, //3 og det som hun havde levnet //3 da hun var mæt, //4 serverede hun for hende. 
+//4 v18 Hun bar det
+//4 ind i byen.
+//2 Hendes svigermor så
+//4 det hun havde samlet.
+//3 Det hun havde levnet
+//3 da hun var mæt,
+//4 serverede hun for hende.
+//2 v19 Da sagde hendes svigermor til hende:
+//4 >>Hvor samlede du korn i dag,
+//6 hvor arbejdede du?
+//5 Må den som lagde mærke til dig, blive velsignet!<<
+//3 Da fortalte hun sin svigermor
+//5 hvad hun havde oplevet hos ham,
+//4 og sagde så:
+//5 >>Den mand
+//7 som jeg har været hos i dag,
+//6 hedder Boaz.<<
+//3 v20 No'omi sagde til sin svigerdatter:
+//4 >>Må han blive velsignet af JHVH
+//5 som ikke har svigtet sin trofasthed{N: Nåde.}{H: Ruth 1,8} mod de levende eller de døde.<<
+//3 Og No'omi tilføjede:
+//4 >>Den mand er en slægtning til os.
+//5 Han er en af vores løskøbere der kan fri os af vores gældsbyrde.<<{H: 3 Mos 25,25. Ruth 3,9.12-13; 4,1-12}
+//1 v21 Moabitten Ruth sagde så:
+//2 >>Han sagde endda til mig:
+//5 >De unge karle
+//6 som arbejder for mig,
+//3 dem må du endelig holde dig nær ved
+//4 indtil de er færdige med at høste
+//5 for mig.<<<
+//1 v22 No'omi sagde da til sin svigerdatter Ruth:
+//3 >>Det er godt,
+//5 min datter,
+//4 at du følges med hans unge piger
+//5 så de ikke gør dig fortræd på en anden mark.<<
 
-//2 v19 Da sagde hendes svigermor til hende: //4 >>Hvor samlede du korn i dag, //6 hvor arbejdede du? //5 Velsignet være den //3 som tog sig af dig.<< //5 Da fortalte hun sin svigermor hvem hun havde været hos: //5 >>Den mand //7 som jeg har været hos i dag, //6 hedder Boaz.<< 
-//3 v20 No'omi sagde til sin svigerdatter: //4 >>Velsignet være han for JHVH //5 som ikke har svigtet sin trofasthed{E: Samme ord som i 1,8} mod de levende eller de døde.<< //3 Og No'omi sagde: //4 >>Den mand er en slægtning til os. //5 Han er en af vores løsere.<< 
-//1 v21 Moabitten Ruth sagde: //2 >>Han sagde endda til mig: //5 >Du skal holde dig til //6  mine //3 unge karle //4 indtil de er færdige med at høste //5 for mig.<<< 
-//1 v22 No'omi sagde til sin svigerdatter Ruth: //3 >>Det er godt, //5 min datter, //4 at du følges med hans unge piger //5 så de ikke gør dig fortræd på en anden mark.<< 
-//2 v23 Så fulgtes hun med Boaz' unge piger //4 og samlede aks //3 indtil byghøsten og hvedehøsten var forbi. //2 Og hun boede hos sin svigermor.
+//2 v23 Så holdt hun sig nær ved Boaz' unge piger
+//4 og samlede aks
+//3 indtil byghøsten og hvedehøsten var forbi.
+//2 Og hun boede hos sin svigermor.
