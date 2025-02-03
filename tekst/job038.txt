@@ -2,7 +2,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 03.02.2025>!!
 
 
 ===Jobs bog, kapitel 38===
@@ -11,7 +11,7 @@
 ==HERREN åbenbarer sig ved at tale til Job ud fra stormen==
 
 
-//0 Da svarede HERREN Job ud fra stormen
+//0 v1 Da svarede HERREN Job ud fra stormen
 //1 :
 
 //2 v2 >>Hvem er det der formørker råd 
@@ -154,7 +154,7 @@ med ord uden forstand?
 //11 eller Løven{T: Stjernebillede.}{H: Job 9,9.} med dens unger,
 //12 kan du lede dem?
 
-//10 v33 Kender du universets{T: Ordret: >>himlens<<. Hebraisk har intet ord for univers.}
+//10 v33 Kender du himlens{T: Hebraisk har intet ord for univers.}
 forordninger,
 
 //11 eller kan du bestemme dets herredømme{T: Ordret: >>dets skrift<<.} over jorden?
@@ -185,7 +185,7 @@ forordninger,
 
 //11 v39 Kan du jage bytte til løvinden
 
-//13 og og stille unge løvers sult,
+//13 og stille unge løvers sult,
 
 //14 v40 når de kryber sammen i hulerne,
 
