@@ -2,7 +2,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.10.2022>!!
+!!<Dato for denne version: 10.02.2025>!!
 
 ===Markusevangeliet, kapitel 15===
 
@@ -12,11 +12,11 @@ v1 Straks om morgenen traf ypperstepræsterne sammen med de ældste og de skrift
 
 ==Tornekroningen==
 
-v16 Soldaterne førte ham så ind i gården, det vil sige borgen, og de sammenkaldte hele vagten. v17 De klædte ham i en purpurkappe, flettede en tornekrone og satte den på ham. v18 Og de begyndte at hilse ham: >>Vær hilset, jødernes konge!<< v19 De slog ham i hovedet med en stav, spyttede på ham og lagde sig på knæ og tilbad ham. v20 Da de havde hånet ham, tog de purpurkappen af ham og gav ham hans egne klæder på. Og de førte ham ud for at korsfæste ham.
+v16 Soldaterne førte ham så ind i gården, det vil sige borgen, og de sammenkaldte hele vagten. v17 De klæder ham i en purpurkappe, flettede en tornekrone og sætter den på ham. v18 Og de begyndte at hilse ham: >>Vær hilset, jødernes konge!<< v19 De slog ham i hovedet med en stav, spyttede på ham og lagde sig på knæ og tilbad ham. v20 Da de havde hånet ham, tog de purpurkappen af ham og gav ham hans egne klæder på. Og de fører ham ud for at korsfæste ham.
 
 ==Korsfæstelsen==
 
-v21 De tvang en forbipasserende, Simon fra Kyrene, som kom fra marken, Alexanders og Rufus’ far, til at bære hans kors. v22 De førte ham til stedet Golgata, det betyder >>Hovedskalsted.<< v23 De forsøgte at give ham vin krydret med myrra, men han tog det ikke. v24 De korsfæstede ham og delte hans klæder ved at kaste lod om hvem der skulle tage hvad. v25 Det var den tredje time da de korsfæstede ham. v26 Indskriften med anklagen imod ham lød sådan: >>Jødernes konge.<< v27 Sammen med ham korsfæstede de to røvere, den ene ved hans højre og den anden ved hans venstre side. [v28 Og Skriften blev opfyldt, der siger: >>Og han blev regnet iblandt overtrædere.<<]{H: Es 53,12}{T: Verset findes ikke i de ældste og bedste håndskrifter} v29 De der gik forbi, spottede ham ved at ryste på hovedet og sige: >>Nå! Du som bryder templet ned og bygger det op på tre dage; v30 frels dig selv ved at stige ned fra korset!<< v31 På samme måde hånede ypperstepræsterne ham indbyrdes sammen med de skriftlærde og sagde: >>Andre har han frelst, sig selv kan han ikke frelse. v32 Kristus, Israels konge, lad ham nu stige ned af korset, så vi kan se det og tro!<< Også de som var blevet korsfæstet sammen med ham, hånede ham. 
+v21 De tvinger en forbipasserende, Simon fra Kyrene, som kommer fra marken, Alexanders og Rufus’ far, til at bære hans kors. v22 De fører ham til stedet Golgata, det betyder >>Hovedskalsted.<< v23 De forsøgte at give ham vin krydret med myrra, men han tog det ikke. v24 De korsfæster ham og deler hans klæder ved at kaste lod om hvem der skulle tage hvad. v25 Det var den tredje time da de korsfæstede ham. v26 Indskriften med anklagen imod ham lød sådan: >>Jødernes konge.<< v27 Sammen med ham korsfæster de to røvere, den ene ved hans højre og den anden ved hans venstre side. [v28 Og Skriften blev opfyldt, der siger: >>Og han blev regnet iblandt overtrædere.<<]{H: Es 53,12}{T: Verset findes ikke i de ældste og bedste håndskrifter} v29 De der gik forbi, spottede ham ved at ryste på hovedet og sige: >>Nå! Du som bryder templet ned og bygger det op på tre dage; v30 frels dig selv ved at stige ned fra korset!<< v31 På samme måde hånede ypperstepræsterne ham indbyrdes sammen med de skriftlærde og sagde: >>Andre har han frelst, sig selv kan han ikke frelse. v32 Kristus, Israels konge, lad ham nu stige ned af korset, så vi kan se det og tro!<< Også de som var blevet korsfæstet sammen med ham, hånede ham. 
 
 ==Jesu død==
 
@@ -24,6 +24,6 @@ v33 Da den sjette time var kommet, blev der mørke over hele landet indtil den n
 
 ==Begravelsen==
 
-v42 Da det allerede var blevet aften, for det var forberedelsesdag, det vil sige dagen før sabbat, v43 kom Josef fra Arimatæa, som var et anset medlem af rådet, og som også selv ventede Guds rige; han tog mod til sig og gik ind til Pilatus og bad om Jesu legeme. v44 Men Pilatus undrede sig over at han allerede var død, v45 og han tilkaldte officeren og spurgte ham om han allerede havde været død længe; og da han fik det at vide af officeren, skænkede han liget til Josef. v46 Han købte et linnedklæde, tog ham ned, svøbte ham ind i linnedklædet og lagde ham i en grav som var hugget ud i klippen, og han væltede en sten for indgangen til graven. v47 Men Maria Magdalene og Maria, Joses’ mor, så hvor han blev lagt.
+v42 Da det allerede var blevet aften, for det var forberedelsesdag, det vil sige dagen før sabbat, v43 kom Josef fra Arimatæa, som var et anset medlem af rådet, og som også selv ventede Guds rige; han tog mod til sig og gik ind til Pilatus og bad om Jesu krop. v44 Men Pilatus undrede sig over at han allerede var død, v45 og han tilkaldte officeren og spurgte ham om han allerede havde været død længe; og da han fik det at vide af officeren, skænkede han liget til Josef. v46 Han købte et linnedklæde, tog ham ned, svøbte ham ind i linnedklædet og lagde ham i en grav som var hugget ud i klippen, og han væltede en sten for indgangen til graven. v47 Men Maria Magdalene og Maria, Joses’ mor, så hvor han blev lagt.
 
 
