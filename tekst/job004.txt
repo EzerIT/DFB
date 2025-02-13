@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 13.02.2025>!!
 
 ===Jobs bog, kapitel 4===
 
@@ -97,8 +97,8 @@ kan løveungernes tænder være knust.{T: Verbet, her >>knuse<< og >>smadre<< i 
 
 //14 Kan en mand være mere ren end sin skaber?<{E: Den komparative brug af *min* >>mere end<< i begge verslinjer tolkes af nogle som >>i forhold til<<, >>over for<<.}
 
-//13 v18 Når
-//14 han nu ikke stoler på sine tjenere,
+//13 v18 Ja,
+//14 selv sine tjenere stoler han ikke på,
 
 //16 og selv sine sendebud{N: Budbringer.} tillægger han fejl,{T: Ordet findes kun her, og oversættelsen er usikker.}
 

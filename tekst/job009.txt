@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 13.02.2025>!!
 
 ===Jobs bog, kapitel 9===
 
@@ -53,9 +53,9 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 
 //7 undere der ikke er tal på.{H: Job 5.9.}
 
-//3 v11 Når han går forbi mig, 
-//5 ser jeg det ikke,
-
+//3 v11 Ja, han går forbi mig,
+//5 men jeg ser det ikke,
+ 
 //4 han passerer forbi,{H: Job 4,15; 9,26.} 
 //5 men jeg bemærker ham ikke.
 

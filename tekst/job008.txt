@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 13.02.2025>!!
 
 ===Jobs bog, kapitel 8===
 
@@ -96,17 +96,17 @@
 //15 nægter det at vedkende sig den:
 //16 >Jeg har aldrig set dig!<
 
-//14 v19 Det er så den glæde den har,{T: Ordret: >>dens vejs glæde<<.}
-
-//15 og af støvet spirer en anden frem. 
-
-
+//14 v19 Ja, det er så den glæde den har,{T: Ordret: >>dens vejs glæde<<.}
+ 
+//15 og af støvet spirer en anden frem.
+ 
+ 
 == Gud vil ikke forkaste den fuldkomne==
-
-
-//4 v20 Gud forkaster da ikke den fuldkomne{H: Job 1.1.}
-//5
-
+ 
+ 
+//4 v20 Nej,
+//5 Gud forkaster da ikke den fuldkomne{H: Job 1.1.}
+ 
 //7 og han tager ikke forbrydere ved hånden.
 
 //6 v21 Dog{E: *ʕad* (>>indtil<<) ændres af de fleste til *ʕōd* (>>dog<<).} vil han fylde din mund med latter
