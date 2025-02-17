@@ -1,27 +1,27 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 20.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 18===
 
 
-==Bildad bebrejder Job hårdt i sin anden tale==
+==Bildads anden tale med hårde bebrejdelser mod Job==
 
 
 //0 v1 Da svarede Bildad fra Shua
 //1:
 
-//2 v2 >>Hvornår vil I sætte en stopper {E: *qinṣê* >>ende<<, >>snare<< eller >>net<<. En anden mulig oversættelse er derfor: >>Hvor længe vil I fange os i ord?.} for jeres ord<<?
+//2 v2 >>Hvornår vil I holde op{E: *qinṣê* betyder >>ende<<, men kan også betyde >>snare<< eller >>net<<. En anden mulig oversættelse er derfor: >>Hvor længe vil I sætte fælder med jeres ord?<< Sml. Job 18,8-10.} med jeres ord<<?
 
-//5 Indse det, 
+//5 I må forstå, 
 //6 og derefter kan vi tale. 
 
 //4 v3 Hvorfor bliver vi betragtet som kvæg?
 
 //6 Vi regnes for dumme{T: Ordret: >>urene<<.} i jeres øjne.
 
-//5 v4 Du der sønderriver dig selv{N: Sjæl.} i din vrede,
+//5 v4 Du der sønderriver dig selv{N: Sjæl} i din vrede,
 
 //3 skal jorden forlades på grund af dig,
 
@@ -35,9 +35,9 @@
 
 //8 og gnister fra hans ild skal ikke lyse op.
 
-//7 v6 Lyset i hans telt bliver til mørke,
+//7 v6 Lyset i hans telt bliver formørket,
 
-//8 og lampen{H: Job 21,17. 2 Sam 21,17; 1 Kong 11,36.} over ham slukkes.
+//8 og lampen over ham slukkes.
 
 //6 v7 Hans kraftige skridt bliver hæmmet,
 
@@ -45,7 +45,7 @@
 
 //8 v8 For han drives af sine egne fødder ind i et net,
 
-//9 og han går omkring i en faldgrube.
+//9 og han går rundt på en faldgrube.
 
 //7 v9 En snare griber fat i hans hæl,
 
@@ -53,51 +53,51 @@
 
 //9 v10 En line ligger skjult for ham på jorden,
 
-//11 en fælde for ham er på hans sti.
+//11 en fælde er der for ham på hans sti.
 
-//10 v11 Fra alle sider skræmmer rædsler ham,
+//10 v11 Fra alle sider skræmmer pludselige rædsler{H: Job 27,20.} ham,
 
-//11 jager ham om benene.
+//11 jager ham på benene.
 
-//8 v12 Hans styrke{E: Denne betydning af *ʔōnô* er afledt af *ʔôn*; hvis det afledes af *ʔāwen* er betydningen >>hans ondskab<<.} svigter,{T: Ordret: >>er sulten<<.}
+//8 v12 Hans styrke svinder ind af sult{T: Eller >>hans rigdom bliver til sult<<.} 
 
-//10 og ulykken står klar ved hans side.{H: Job 15,23.}{E:*ṣelaʕ* (>>side<<) kan også betyde >>fald<<, afledt af verbet med samme rod *zlʕ* (>>falde<<). Dvs. ulykken står klar til hans fald.}
+//10 og truende ulykke står klar til hans fald.{E:*ṣelaʕ* (>>fald<<) kan også betyde >>side<<, og der oversættes >>ved hans side<<.}{H: Job 15,23.}
 
-//9 v13 Den fortærer dele af hans hud,
+//9 v13 Dele{E: *baddê* (>>lemmer af<<, >>dele af<<) ændres af nogle til *bidway* (>>af sygdom<<) og oversætter >>hans hud ædes op af sygdom<<.} af hans hud skal den fortære, 
 
-//10 den frygteligste død{E: Ordret: >>Dødens førstefødte<<. I 1 Mos 49,3 opfattes den førstefødte som den stærkeste, og tabet som det alvorligste.} fortærer hans lemmer. 
+//10 hans lemmer skal den fortære, dødens førstefødte<<. 
 
 //10 v14 Han rives bort fra sit telt, hans tillid,{H: Job 8,14.}
 
-//14 og det tvinger ham til at drage til rædslernes{H: Job 18,11.} konge. 
+//14 og det tvinger ham til at drage til de pludselige rædslers konge.{H: Job 18,11.}  
 
 //13 v15 I hans telt bor
-//15 de der ikke tilhører ham.{T: Ordret: >>af ingen til ham<<.}
+//15 de der ikke tilhører ham.
 
-//14 Over hans bolig{H: Job 15,34; 18,6.} strøs der svovl.
+//14 Over hans bolig{H: Job 15,34.} strøs der svovl.
 
 //12 v16 Nedefra tørrer hans rødder ud, 
 
 //14 og ovenfra visner{H: Job 14,2.} hans grene.
 
-//13 v17 Mindet om ham forsvinder fra landet,{H: Sl 34,17.}
+//13 v17 Mindet om ham forsvinder fra jorden,{H: Sl 34,17.}
 
 //14 og han vil ikke have et navn ude i det åbne land.
 
 //11 v18 De skubber ham fra lyset ud i mørket,
 
-//13 de jager ham bort fra den beboede jord.
+//13 de jager ham ud af den beboede˙verden.{H: 1 Mos 4,14.}
 
 //12 v19 Han får intet afkom,
 //14 han har ingen slægt i sit folk,
 
 //15 og der er ingen overlevende i hans boliger.
 
-//13 v20 De som kommer efter, er forfærdet over hans dag,
+//13 v20 De som kommer efter, gyser{H: Job 17,8.} over hans dag,
 
-//14 og de som var før, er grebet af rædsel.
+//14 og de som var før, er grebet af forfærdelse.
 
-//5 v21 Sandelig, sådan er forbryderens{E: *ʕawwāl* (>>gudløs<<, >>forbryder<<, >>synder<<) findes næsten kun i Jobs bog og Salmerne.} boliger,
+//5 v21 Sandelig, sådan er den uretfærdiges{E: *ʕawwāl* har flere betydninger: >>gudløs<<, >>forbryder<< og >>synder<< og findes næsten kun i Jobs bog og Salmerne.} boliger,
 
 //6 og det er et sted
 //7 hvor man ikke kender Gud.<<

@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 21.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 20===
 
@@ -12,13 +12,14 @@
 //0 v1 Da svarede Sofar fra Na’ama
 //1 :
 
-//2 v2 >>Derfor bringer mine foruroligende tanker{H: Job 4,13.} mig tilbage,
+//2 v2 >>Derfor giver mine foruroligende tanker{H: Job 4,13.} mig svar,
 
-//5 også på grund af at de smerter{E: *ḥwš*,  >>være pinefuldt<<. *ḥwš* kan også betyde >>skynde sig<<, og der oversættes >>fordi det går så hurtigt for mig<<.} mig.
+//5 også fordi de piner{E: *ḥwš* (>>være pinefuldt<<) kan også betyde >>skynde sig<<, og der oversættes >>fordi det går så hurtigt for mig<<.} mig.
 
 //4 v3 Jeg hører irettesættelse der håner mig,
 
-//5 men ånden{N: Ånd.} der giver mig indsigt, svarer mig.{H: Job 16,3.}
+//5 men ånden{N: Ånd.}
+ giver mig svar ud fra min indsigt.
 
 
 ==Den gudløses lykke er kortvarig==
@@ -28,7 +29,7 @@
 
 //5 lige siden han satte mennesket på jorden,
 
-//4 v5 at de ugudeliges jubel er kortvarig,
+//4 v5 at de ugudeliges{H: Job 8,13.} jubel er kortvarig,
 
 //7 og den gudløses glæde varer blot et øjeblik.
 
@@ -41,19 +42,19 @@
 //10 De som har set ham, vil sige:
 //11 >Hvor er han?<
 
-//9 v8 Som en drøm er han væk,
+//9 v8 Som en drøm flyver han bort,
 //13 og de finder ham ikke.
 
-//12 Han forsvinder som et syn{H: Job 4,13.} om natten.
+//12 Han bliver jaget bort som et syn{H: Job 4,13.} om natten.
 
-//11 v9 Øjet, som ser ham,{H: Job 7,8.}
+//11 v9 Øjet, som fik øje på ham,{H: Job 7,8.}
 //12 ser ham ikke mere,
 
-//13 og det skal ikke igen se ham, og heller ikke hans sted.{E: Verbet *tᵊšûrennû* er 3. person femininum singularis og må have *ʕayin* (>>øjet<<), måske Guds øje, som subjekt. Flere oversætter imidlertid *mᵊqômô* (>>hans sted<<), der er maskulinum, som subjekt.}{H: Job 24,15.}
+//13 og det skal ikke igen iagttage ham og heller ikke hans sted.{E: Verbet *tᵊšûrennû* (>>iagttage<<) står i femininum og må have *ʕayin* (>>øjet<<) som subjekt. Mange oversætter imidlertid *mᵊqômô* (>>hans sted<<), der er maskulinum, som subjekt.}{H: Job 24,15.}
 
-//10 v10 Hans sønner må bønfalde de fattige om velvilje,
+//10 v10 Hans sønner må bønfalde de ringe om velvilje,
 
-//12 og hans hænder må give hans rigdom tilbage.
+//12 og hans hænder må give hans formue tilbage.
 
 //11 v11 Hans knogler har været fulde af ungdommelig livskraft,
 
@@ -63,43 +64,43 @@
 
 //9 og han gemmer den under tungen,
 
-//10 v13 nyder den 
+//10 v13 sparer på den 
 //11 og opgiver den ikke,
 
 //12 men holder den tilbage i ganen,
 
-//8 v14 så omdannes dog brød i hans tarme
+//8 v14 så omdannes hans mad i hans tarme
 
 //10 og bliver til slangegift i hans indre.
 
 //9 v15 Han har slugt rigdom,
 
-//12 men må kaste den op, 
+//12 men må kaste den op. 
 //11 Gud driver den ud af hans mave.
 
-//10 v16 Han suger kobraens{T: Formodentlig.} gift,
+//10 v16 Han suger kobraens{T: Ordet er navnet på en giftslange. >>Kobra<< er en rimelig formodning.} gift,
 
-//13 hugormens tunge dræber ham.
+//13 giftslangens tunge dræber ham.
 
-//14 v17 Lad ham ikke se strømme af oliven,{T: >>Oliven<< tilføjet ligesom i Job 29,6.} 
+//14 v17 Lad ham ikke se strømme af olie,{T: >>Olie<< tilføjet ligesom i Job 29,6.} 
 
-floder der flyder{T: Ordret: >>bække<<.} med honning og surmælk{H: 1 Mos 18,8. 2 Mos 3,8.}
+floder af honning og surmælk,{H: 2 Mos 3,8.}
 
-//12 v18 mens han giver udbyttet tilbage
-//16 uden at kunne udnytte{T: Ordret: >>fortære<<.} det!
+//12 v18 mens han må give udbyttet{E: Ordet findes kun her, og yderligere 6 forskellige ord for rigdom er anvendt i dette kapitel i versene 10-28.} tilbage
+//16 uden at kunne udnytte det!
 
 //15 Over sin erhvervede rigdom
 //16 kan han ikke glæde sig.
 
 //14 v19 For han har knust 
-//15 og efterladt de fattige,
+//15 og efterladt de ringe,
 
 //16 han har revet huse til sig,
-//17 men ikke bygget dem.
+//17 men har ikke bygget dem op.
 
-//13 v20 Fordi han ikke kender til ro i sit indre,
+//13 v20 Ja, han kender ikke til ro i sit indre
 
-//14 vil han ikke give slip på det han har lyst til.
+//14 og vil ikke give slip på det han har lyst til.
 
 //15 v21 Ingen har overlevet
 //17 hans grådighed,
@@ -107,43 +108,43 @@ floder der flyder{T: Ordret: >>bække<<.} med honning og surmælk{H: 1 Mos 18,8.
 //16 derfor varer hans velstand ikke ved.
 
 //12 v22 Midt i al sin overflod
-//11 kommer han i nød,
+//11 kommer han i nød, 
 
-//15 med fuld kraft{T: Ordret: >>hånd<<.} rammer elendigheden ham 
+//15 med fuld kraft rammer lidelsen{E: *ʕāmēl* (>>den elendige<<) ændres af de fleste til *ʕāmāl* (>>lidelse<<) af hensyn til forståelsen.} ham.
 
 //14 v23 Må Gud,{T: >>Gud<< er tilføjet.} 
 //16 når han fylder sin mave,
 
 //15 sende sin glødende vrede imod ham,
  
-//17 og må han lade sin ammunition regne ned over ham. 
+//17 og må han lade den regne ned over ham på hans krop!{E: *lᵊḥûmô* (>>hans kød<<) har budt på flere forskellige oversættelser som >>som hans føde<<, >>sin vrede<< eller >>sin ammunition<<.} 
 
 //16 v24 Må han flygte fra våben af jern,
 
-//17 må et pilehoved af bronze fra en bue af bronze{T: >>pilehoved af bronze<< er tilføjet for forståelsen.} gennembore{H: Dom 5,26.} ham.
+//17 må en pil fra en bue af bronze{T: >>En pil fra<< er tilføjet.} gennembore ham!
 
 //18 v25 Han har trukket pilen ud,
 //19 og den kommer ud af ryggen,
 
 //20 en glimtende spids kommer ud af hans galdeblære.
 
-//13 Rædsel kommer over ham.
+//13 Skræk kommer over ham.
 
-//12 v26 Al mørke reserveres til til hans skatte,
+//12 v26 Al mørke{H: Job 3,4.} reserveres til til hans skatte,
 
-//13 en ild vil fortære{H: Job 20,18} ham
+//13 en ild vil fortære ham
 //16 uden at der er pustet til den,
 
-//15 overlevende i hans telt vil blive tilintetgjort.{H: Job 8,22; 15,34}
+//15 overlevende i hans telt vil blive tilintetgjort.{H: Job 15,34.}
  
 //14 v27 Himlen vil afsløre hans skyld,
 
 //16 og jorden skal rejse sig imod ham.
 
-//15 v28 Hans hus’ udbytte føres bort.
+//15 v28 Hans hus’ høstudbytte{E: *yᵊvûl*  (>>afgrøde<<) ændres af nogle til *yaval* (>>flod<<) som i LXX og Peshitta og oversætter >>en flod vil føre hans hus bort<<.} føres bort,
 
-//16 på hans vredes dag bliver alt skyllet væk.
+//16 skylles bort på hans vredes dag.
 
 //5 v29 Det er den lod det ugudelige menneske tildeles af Gud,
 
-//6 den arv der er bestemt for ham af Gud.<<{H: Job 19,29.}
+//6 den arv der er bestemt for ham af Gud.<<{H: Job 19,29; 27,13.}

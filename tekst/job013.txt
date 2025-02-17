@@ -1,38 +1,38 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 05.10.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 13===
 
 
-==Job advarer vennerne om Guds straf over uret og svig og beder dem tie stille==
+==Jobs advarsel til vennerne==
 
 
-//0 v1 Se,
+//0 v1 Ja, 
 //3 alt dette har mit øje set,
 
 //4 mit øre hørt,
 //6 og det er blevet forstået.
 
-//5 v2 Hvad I ved, ved jeg også,
+//5 v2 Så det I ved, ved jeg også,
 
 //6 jeg står ikke tilbage for jer.
 
-//2 v3 Men
-//4 jeg vil selv gerne tale til den Almægtige,{H: Job 12,4.}
+//2 v3 Men 
+//4 jeg vil selv tale til den Almægtige,{H: Job 12,4.}
 
 //5 og
-//7 jeg ønsker virkelig at forsvare mig over for Gud.
+//7 jeg ønsker virkelig at forsvare{E: Det hebraiske verbum *yxḥ* anvendes om alt i forbindelse med en retssag eller en anklage som >>irettesætte<<, >>anklage<<, >>forsvare<<, >>overbevise<<, >>bevise<< og >>straffe/tugte<<.}{H: Job 9,33.} mig over for Gud.
 //6
 
 //3 v4 Men
-//4 I er dem som smører med løgn,
+//4 I smører med løgn,
 
 //6 uduelige læger er I alle sammen!
 
 //5 v5 Gid 
-//6 I ville tie fuldstændig stille,
+//6 I ville tie fuldstændig stille,{H: Job 6,24; 13,13.19}
 
 //8 det ville være visdom af jer!
 
@@ -40,30 +40,30 @@
 
 //9 og lyt opmærksomt til mine anklagepunkter!
 
-//8 v7 Vil I forsvare Gud med uret,
+//8 v7 Vil I forsvare Gud med uret,{H: Job 5,16.}
 
 //10 vil I forsvare ham med svig?
  
-//9 v8 Vil I tage parti for ham{T: Ordret: >>løfte hans ansigt<<.}
+//9 v8 Vil I tage parti for ham?{T: Ordret: >>løfte hans ansigt<<.}
  
-//11 eller føre sag for Gud?
+//11 Vil I føre sag for Gud?
 
-//10 v9 Vil det være godt for jer
+//10 v9 Vil det være godt 
 //14 hvis han ransager jer,
 
 //13 eller 
 //15 er det som man narrer et menneske
 //14 at I vil narre ham?
 
-//12 v10 Han vil bestemt straffe jer{H: Job 13,3.}
+//12 v10 Vil han virkelig forsvare{H: Job 13,3.} jer
 
-//13 hvis I i det skjulte tager parti. 
+//13 hvis I i det skjulte tager parti?{E: Det er sandsynligt at det interrogative *hᵃ* er faldet ud eller skal underforstås her midt i rækken af spørgsmål. Hvis det opfattes som et udsagn oversættes >>han vil bestemt straffe jer<<.} 
 
-//11 v11 Vil hans ophøjethed ikke forfærde jer,
+//11 v11 Skulle hans ophøjethed ikke forfærde{H: Job 3,5.} jer,
 
-//13 og rædsel for ham falde over jer?
+//13 og hans rædsel{H: Job 3,25; Job 13,21.} falde over jer?
 
-//12 v12 Det I husker, er ordsprog af aske;{H: Job 2,8.}
+//12 v12 Det I husker, er ordsprog af aske; 
 
 //13 som bolværk af ler er jeres svar.{E: *gav* har både betydningen >>svar<< og >>ryg<<, der oversættes >>bolværk<<. Begge betydninger bruges her som et ordspil.}
 
@@ -73,38 +73,39 @@
  //10 og så må der ske mig{E: *yaʕᵃvōr ʕālay* (>>passere forbi på/mod mig<<) udtrykker at en ulykke kommer imod ham.}
 //11 hvad der vil!
 
-//8 v14 Skal{E: *ʕal-māh* (>>hvorfor<<) opfattes af mange som en gentagelse og udelades.} jeg bære mit kød med mine tænder
+//8 v14 Hvorfor skulle jeg bære mit kød i mine tænder?
 
-//10 og tage mit liv{T: Ordret: >>min sjæl<<.} i min egen hånd?
-
-
-== Selvom den Almægtige slår mig, vil jeg stole på ham!==
+//10 Mit liv{N: Sjæl.} derimod vil jeg tage i min egen hånd!
 
 
-//9 v15 Se,
-//10 slår han mig ihjel,
-//12 vil jeg vente på ham,
+== Job stoler helt på den almægtige Gud==
+
+
+//9 v15 Selvom
+//10 han slår mig ihjel,{E: *qṭl* (>>dræbe<<) er et usædvanligt ord der kun findes her, i Job 24,14 og i Sl 139,19.}
+//12 vil jeg alligevel vente{H: Job 6,11.} på ham,{E: Masoreterne har udeladt vokaliseringen af *lᵊ*, derfor kan ordet opfattes som en nægtelse med oversættelsen >>har jeg intet håb<<. De fleste vælger som her vokaliseringen *lô* >>på ham<<.}
 
 //13 dog mine veje vil jeg forsvare over for ham.
 
 //11 v16 Dette skal virkelig være min redning,
 
-//12 for ingen gudløs træder frem for hans ansigt.
+//12 for ingen gudløs{H: Job 8,13.} træder frem for hans ansigt.
 
 //7 v17 Lyt nøje til min tale, 
 
-//9 lad mit indlæg blive hørt!{T: Ordret: >>min redegørelse i jeres ører<<.} 
+//9 lad mit indlæg blive hørt af jer! 
 
 //8 v18 Se dog,
-//9 jeg har argumenteret for min ret,
+//9 jeg har argumenteret for min ret,{E: *mišpāṭî* (>>min ret<<)  er et af kerneordene i Jobs bog.}{H: Job 19,7; 27,2; 40,8.}
+
 
 //9 jeg ved
-//11 at jeg har ret.{H: Job 9,2.}
+//11 at jeg har ret{H: Job 9,2.}
 
-//10 v19 Hvem er den
+//10 v19 Hvem er han
 //12 der kan føre en retssag mod mig?{H: Job 9,3.}
 
-//11 For i så fald vil jeg tie stille
+//11 For nu vil jeg tie stille
 //12 og udånde.
 
 //1 v20 Kun to ting må du undlade at gøre mod mig,
@@ -113,7 +114,7 @@
 
 //2 v21 Fjern din hånd fra mig, 
 
-//5 og lad ikke rædsel for dig{H: Job 13,10.} forfærde mig!
+//5 og lad ikke din mægtige rædsel{H: Job 9,34.} forfærde mig!{H: Job 13,11.}
 
 //4 v22 Kald på mig, 
 //6 og jeg vil svare dig,
@@ -121,7 +122,7 @@
 //5 eller jeg vil tale,
 //6 og så svar du mig!
 
-//3 v23 Hvor mange overtrædelser og synder har jeg?
+//3 v23 Hvor mange forbrydelser{H: Job 7,21; Job 13,26.} og synder har jeg?
 
 //4 Vis mig min overtrædelse og min synd!
 
@@ -135,16 +136,15 @@
 
 //8 v26 For du dikterer bitre forhold for mig, 
 
-//10 og du lønner mig for{T: Ordret: >>lader mig arve<<.} min ungdoms overtrædelser.
+//10 og du lader mig arve mine ungdomssynder.{H: Job 7,21.}
 
 //11 v27 Du lægger mine fødder i blokken.{H: Job 33,11.}
 
 //11 Du vogter på alle mine stier,
 
-//9 du afsætter mærker på mine fodsåler{T: Ordret: >>ved roden af mine fødder indgraverer du for dig selv<<.} 
+//9 du afsætter mærker på mine fodsåler,{T: Ordret: >>ved roden af mine fødder indgraverer du for dig selv<<.} 
 
-//7 v28 og dette mod en der tæres bort som råddent træ,{T: Ordret: >>råddenskab<<.}
+//7 v28 og dette mod en der ældes som noget råddent,
  
 //8 som tøj
 //9 et møl æder op.
-

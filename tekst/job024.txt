@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 20.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 24===
 
@@ -11,30 +11,30 @@
 
 //0 v1 Hvorfor, når tiderne ikke er skjult for den Almægtige, 
 
-//3 ser de der kender ham, ikke hans dage?
+//3 skuer{H: Job 15,17.} de der kender ham, ikke hans dage?
 
 //2 v2 De flytter markskel,
 
-//3 de stjæler en flok får og geder
-//4 og vogter dem.
+//3 de stjæler en hjord
+//4 og vogter den.
 
-//2 v3 De jager de faderløses æsler bort,
+//2 v3 De faderløses æsler jager de bort,
 
 //5 tager enkens okse i pant.
 
-//5 v4 De fører de nødlidende bort fra vejen,
+//5 v4 De fører de fattige bort fra vejen,
 
-//6 landets fattige må alle sammen skjule sig.
+//6 landets elendige{H: Job 24,9.14.} må alle sammen skjule sig.
 
-//4 v5 Se, som vildæsler i ørkenen
+//4 v5 Ja, som vildæsler i ørkenen
 
 //7 drager de ud til deres arbejde,
 
-//8 idet de søger efter føde,
+//8 idet de søger efter føden,
 
 //6 selv ødemarken giver dem brød til deres børn.
 
-//5 v6 På den åbne mark samler de hans foder,
+//5 v6 På marken høster de hans foder,
 
 //7 de indsamler de sidste druer{H: 3 Mos 19,9-10. 5 Mos 24,19-22.} i den ugudeliges vingård. 
 
@@ -48,39 +48,39 @@
 
 //3 v9 De river en faderløs fra mors bryst,
 
-//8 og fra den fattige tager de pant.
+//8 og fra den elendige tager de pant.
 
 //7 v10 Nøgne må de gå omkring uden tøj,
 
-//8 og sultne bærer de neg.
+//8 og sultne{H: Job 5,5.} bærer de neg.
 
-//6 v11 Mellem rækkerne{E: *šûrōtām* betyder egentlig >>deres støttemure<< som er opført mellem dyrkningsterraserne.} presser de olivenolien,
+//6 v11 Mellem rækkerne{E: *šûrōtām* betyder egentlig >>deres støttemure<< som er opført mellem dyrkningsterrasserne.} presser de olivenolien,
 
 //7 de træder vinperserne
 //8 mens de tørster.
 
-//5 v12 Fra byen stønner de døende,{E: Hvis ordet vokaliseres som *metîm* (>>døende<<); MT har *mᵊtîm* (>>mænd<<).} 
+//5 v12 Fra byen stønner de døende,{E: Hvis ordet vokaliseres som *metîm* (>>døende<<); masoreterne har *mᵊtîm* (>>mænd<<).} 
 
-//7 og de gennemborede sjæle råber om hjælp,
+//7 og de gennemborede sjæle{N: Sjæl.} råber om hjælp, 
 
-//6 og Gud anklager dem ikke for fejl.{H: Job 1,22.}
+//6 men Gud anklager dem ikke for en ugerning.{E: *tiflāʰ* (>>ugerning<<). Peshitta og nogle håndskrifter ændrer vokaliseringen til *tᵊfillāʰ* (>>bøn<<).}{H: Job 1,22.}
 
 //4 v13 Det er dem der gør oprør mod lyset, 
 
-//6 de kender ikke til{H: Job 24,17.} hans veje
+//6 de kender ikke dets veje
 
-//7 og bliver ikke på hans stier.
+//7 og bliver ikke på dets stier.
 
-//5 v14 Ved daggry står morderen op 
+//5 v14 Ved det første tusmørke{E: *lāʔôr* (>>ved lys<<) opfattes som >>det første tusmørke<<, nogle opløser *lāʔôr* til *lo ʔôr* >>intet lys<<.} står morderen op
 
-//8 for at dræbe den fattige og nødlidende,
+//8 for at slå den elendige og fattige ihjel,{H: Job 13,15.}
 
 //9 og om natten er han som en tyv.
 
-//7 v15 Ægteskabsbryderens øje venter på tusmørket 
+//7 v15 Og ægteskabsbryderens øje venter på tusmørket 
 //10 og siger:
 
-//11 >Intet øje ser mig<,{H: Job 7,8.}
+//11 >Intet øje bemærker mig<,{H: Job 7,8.}
 
 //9 og han dækker ansigtet til.
 
@@ -90,15 +90,15 @@
 
 //8 de kender ikke lyset.
 
-//9 v17 For morgenen er for dem alle sammen som et dybt mørke,
+//9 v17 For morgenen er for dem alle sammen som en dødsskygge,{H: Job 3,5.}
 
-//10 for enhver af dem kender til{H: Job 24,13.} rædsler i dybt mørke.
+//10 ja, enhver af dem kender{H: Job 24,13.} dødsskyggens pludselige rædsler.{H: Job 18,11.}
 
 
 == Social vold vil blive straffet==
 
 
-//7 v18 Det går lige så let som at flyde med strømmen,{T: Ordret >>let er han/det på vandets overflade.<<}
+//7 v18 Hastigt flyder han med strømmen,{T: Ordret >>hurtig er han på vandets overflade<<.}
 
 //12 forbandet bliver deres jordstykke i landet,
 
@@ -106,16 +106,16 @@
 
 //10 v19 Tørke såvel som hede fjerner sneens vand,
 
-//11 ligesom dødsriget{N: Sheol.} 
-//12 dem der synder. 
+//11 ligesom dødsriget{T: Her synonym for graven.}{N: Sheol.} 
+//12 fjerner dem der har syndet. 
 
-//9 v20 Moderlivet glemmer ham,
+//9 v20 Livmoderen glemmer ham,
 
-//11 maddikerne synes han smager godt,
+//11 maddiken synes han smager godt,
 
 //10 han huskes ikke længere,
 
-//11 og uretten blev brudt som træ.
+//11 og uretten{H: Job 5,16.} blev brudt som træ.
 
 //8 v21 Han er ond mod den ufrugtbare
 //12 der ikke føder,
@@ -125,18 +125,18 @@
 //12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige i live med sin magt.
 
 //10 Han rejser sig
-//11 og så kan den mægtige{T: Ordet er tilføjet.} ikke stole på sit liv.
+//11 men så kan den mægtige{T: Ordret: >>han<<.} ikke stole på sit liv.
 
 //9 v23 Han giver ham sikkerhed,
 //11 og det kan han støtte sig til;
 
-//12 og hans øjne er rettet mod deres veje.
+//12 men hans øjne er rettet mod deres veje.
 
 //10 v24 De ophøjer sig selv for en kort tid,
 //13 og så er de ikke mere,
 
 //12 de bringes ned,
-//11 samles sammen som alle andre,
+//11 som alle andre samles de sammen,
 
 //12 og som toppen af aks skæres de af.
 

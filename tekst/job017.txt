@@ -1,24 +1,23 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 21.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 17===
 
 
-==Job beder Gud tage sig af hans sag==
+==Job fortsætter sin klage til Gud==
 
-
-//0 v1 Min ånd er brudt,
+//0 v1 Min ånd{N: Ånd} er brudt,{H: Job 6,4.}
 
 //4 mine levedage er afsluttet,
 
-//5 graven{E: *qᵊvārîm* (>>gravene<<), en intensiv form udtrykt med pluralis, eller det kunne være >>gravpladsen<<.} er klar til mig.
+//5 gravene{E: * qᵊvārîm* (>>gravene<<), en intensiv form udtrykt med pluralis.} er klar til mig.
 
-//6 v2 Sandelig hån omgiver mig,
+//6 v2 Sandelig, hån{E: *hᵃtulîm* (>>hån<<) er pluralis, et nyt ord der kun findes her, og sammen med en ed forstærkes udtrykket yderligere.} omgiver mig,
 
 //7 og
-//9 på deres oprør,
+//9 på deres oprørskhed
 //8 hviler mit blik.
 
 //3 v3 Stil dog
@@ -27,27 +26,27 @@
 //4 Hvem er han
 //7 der vil give mig håndslag på det?
 
-//6 v4 For du har lukket deres hjerte for indsigt,
+//6 v4 For du har lukket deres hjerte{N: Hjerte} for indsigt,
 
 //7 derfor ophøjer du dem ikke.
 
-//5 v5 Man kan informere venner om en lyssky handel,{E: *ḥēleq* >>andel<< kan her være brugt i et ordsprog om en umoralsk økonomisk transaktion.}
+//5 v5 Man informerer venner om en udbyttedeling,{E: *ḥēleq* (>>andel<<) kan her være brugt i et ordsprog om en umoralsk økonomisk transaktion.}
 
-//6 og ens egne børn{T: Ordret: >>børns øjne<<.} sygner hen!{H: Job 11,20.}
+//6 men ens egne børns øjne slukkes! {H: Job 11,20.}
 
 //2 v6 Han har stillet mig op
 //6 som én folk laver hånende ordsprog om,
 
 //5 og jeg er som én man spytter i ansigtet.
 
-//4 v7 Mit syn er svækket af fortvivlelse{H: Job 5,2; 6,2. Sl 6,8.}
+//4 v7 Mine øjne er sløret af sorg{H: Job 6,2. Sl 6,8.}
 
 //5 og mine lemmer,
 //6 de er alle som en skygge.
 
-//3 v8 De retskafne bliver forfærdet over dette,
+//3 v8 De retskafne gyser over dette,
 
-//5 og den skyldfrie bliver oprørt over den gudløse.
+//5 og den uskyldige{H: Job 4,7.} bliver oprørt over den gudløse.
 
 //4 v9 Den retfærdige holder fast ved sin vej, 
 
@@ -61,35 +60,36 @@
 //2 vend alle sammen tilbage,
 //5 og kom dog!
 
-//7 Jeg finder ikke en vis mand iblandt jer.
+//7 Jeg finder ikke en vís mand iblandt jer.
 
-//6 v11 Mine dage er gået,
+//6 v11 Mine dage er forbi,
 
-//6 mine planer{E: *zimmāʰ* betyder normalt >>skamløshed<<, >>skændig handling<< og anvendes i GT især om seksuel krænkelse (3 Mos 18,17. Job 31,11.) Men roden fra *zimmāʰ* *zmm* (>>planlægge<<) anvendes i Zak 8,14-15 om Gud, der planlægger at handle ondt og godt.}
-er knust,{H: Job 16,6; 17,7.} 
+//6 mine planer{E: *zimmāʰ* betyder normalt >>skamløshed<<, >>skændig handling<< og anvendes i GT især om seksuel krænkelse (3 Mos 18,17. Job 31,11). Men roden *zmm* (>>planlægge<<) anvendes i Zak 8,14-15 om Gud der planlægger at handle både ondt og godt.}
+er knust, 
 
 //7 mit hjertes inderste ønsker.
 
-//4 v12 Natten gør de til dag og siger:{T: >>Og siger<< er tilføjet.}
+//4 v12 Natten gør de til dag idet de siger:{T: >>idet de siger<< er tilføjet.} 
 
-//5 >Lyset er lige foran mørket.<
+//5 >Lyset er nær< i mørkets nærvær.{H: Job 3,4. Es 5,20.}
 
-//3 v13 Hvis jeg håber på dødsriget{N: Sheol} som mit hjem,
+//3 v13 Hvis jeg håber på dødsriget{N: Sheol} som mit hjem
 
-//5 har jeg bredt mit leje ud i mørket.
+//5 og i mørket breder mit leje ud,{H: Job 3,4.}
 
-//6 v14 Til graven vil jeg råbe: 
-//8 >Du er min far!<
+//6 v14 til graven vil jeg råbe: 
+//8 >Du er min far!<,
 
 //8 og >Min mor 
 //9 og min søster< 
 //7 til maddiken!
 
-//4 v15 Hvor da er mit håb?
+//4 v15 Hvor er så mit håb?
 
-//5 Og mit håb,
+//5 Mit håb,
 //7 hvem kan se det?
 
-//6 v16 Vil det{E: Verbet opfattes som 3. person femininum singularis i imperfektum med *na* som forstærkning.} virkelig gå ned til dødsrigets{N:Sheol} porte?{E: *baddê* >>portslåer<<.}
+//6 v16 Vil de gå ned til dødsrigets{N:Sheol} porte?{E: *baddê* >>portslåer<<.}
 
-//7 Skal vi da sammen hvile i støvet?{T: Kan også oversættes: >>når vi sammen hviler i støvet.<<}{H: Job 14,13-14.}
+//7 Skal vi sammen gå ned{E: *naḥat* betyder >>hvile<<, men de fleste følger LXX og den
+ syriske oversættelse og ændrer vokaliseringen til verbet *neḥat* (aramaisk), der betyder >>gå ned<<. Hele vers 16 kan også oversættes som et udsagn.}i støvet?<<{H: Job 14,13-14.}

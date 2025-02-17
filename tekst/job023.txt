@@ -1,18 +1,18 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 21.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 23===
 
 
-==Job ønsker at fremlægge sin sag for Gud==
+==Job ønsker nu at fremlægge sin sag for Gud==
 
 
 //0 v1 Da svarede Job
 //1 :
 
-//2 v2 >>Også i dag er min klage fuld af bitterhed,{H: Job 7,11. Ruth 1,20.}
+//2 v2 >>Også i dag er min klage{H: Job 10,1.} bitter,{E: *mᵊrî* (>>oprør<<) ændres af de fleste, med støtte i Vulgata og den syriske oversættelse, til *mar* (>>bitter<<). Den ordrette oversættelse efter masoreterne er >>er modsigelse min klage<<.}{H: Job 7,11.}
 
 //5 hans hånd{T: Guds.}{E: *yādî* (>>min hånd<<) menes at være en fønikisk (kananitisk) form for 3. person singularis >>hans hånd<<. LXX og Peshitta har dette.} hviler tungt på mine suk.{H: Job 3,24.}
 
@@ -20,11 +20,11 @@
 //5 jeg vidste
 //7 hvor jeg skulle finde ham
 
-//6 og nå frem til hans bolig!
+//6 og nå frem til hans trone.{H: Sl 89,15.}
 
-//8 v4 Jeg ville fremlægge min sag for ham
+//8 v4 Jeg ville fremlægge min sag{H: Job 13,18; 9,14-20.32.}for ham
 
-//9 og samle alle{T: Ordret: >>fylde min mund<<.} argumenterne.
+//9 og fylde min mund med argumenter.
 
 //8 v5 Jeg ville komme til at kende de ord
 //11 han ville svare mig med,
@@ -32,38 +32,39 @@
 //10 og forstå
 //11 hvad han siger til mig.
 
-//9 v6 Ville han med stor succes kunne føre retssagen mod mig?
+//9 v6 Ville han med mægtig styrke føre retssag mod mig?{H: Job 13,19.}
 
 //10 Nej,
-//11 han ville virkelig skulle vise mig opmærksomhed.
+//11 han ville virkelig vise mig opmærksomhed.{E: Ud fra sammenhængen og på grund af *bî* (>>imod mig<<) ændrer nogle *ʔax* (>>virkelig<<) til *ʔaxzār* (>>grusom<<) og oversætter >>han ville ikke fremsætte anklager imod mig<<.}
 
-//7 v7 Dér ville en retskaffen kunne argumentere imod ham,
+//7 v7 Dér ville en retskaffen
+ kunne gå i rette{H: Job 13,3.} med ham,
 
-//8 og jeg ville for altid kunne slippe fri fra min dommer.
-
-
-==Guds veje er uransagelige, og Job er bange for Gud==
+//8 og jeg ville for altid slippe væk fra min dommer.
 
 
-//3 v8 Når jeg går mod øst,{T: I vers 8-9 kan retningsangivelserne også oversættes med >>fremad<< for >>øst<<, >>tilbage<< for >>vest<<, >>til venstre<< for >>nord<< og >>til højre<< for >>syd<<.}
+==Guds veje er uransagelige==
+
+
+//3 v8 Ja, går jeg mod øst,{T: I vers 8-9 kan retningsangivelserne også oversættes med >>fremad<< for >>øst<<, >>tilbage<< for >>vest<<, >>til venstre<< for >>nord<< og >>til højre<< for >>syd<<.}
 //8 er han der ikke,
 
 //7 og mod vest,
-//8 bemærker jeg ham ikke; 
+//8 opdager jeg ham ikke; 
 
 //6 v9 mod nord,
-//9 når han arbejder,
-//8 er han ikke til at få fat i,
+//9 mens han arbejder,
+//8 skuer{H: Job 15,17.} jeg ham ikke, 
 
 //7 vender han mod syd,
-//8 ser jeg ham ikke,
+//8 ser jeg ham ikke.
 
-//5 v10 for han kender den vej jeg holder mig til. 
+//5 v10 For han kender den vej jeg holder mig til. 
 
-//8 Prøver han mig,
-//9 så skal jeg komme frem af prøven som guldet! 
-/
-/7 v11 Mine fødder har fulgt nøje{T: Ordret: >>har grebet fat i<<.} i hans fodspor,
+//8 Prøv mig,{H: Job 7,18.}
+//9 og jeg kommer ud som guldet!
+
+//7 v11 Min fod har nøje fulgt hans fodspor,
 
 //8 hans vej har jeg holdt mig til,
 //9 og jeg bøjer ikke af derfra.
@@ -71,27 +72,27 @@
 //6 v12 Fra hans læbers befaling 
 //8 er jeg virkelig ikke veget,
 
-//7 ud over min bestemmelse{H: Job 23,14.} har jeg bevaret ordene fra hans mund.
+//7 udover min bestemmelse{H: Job 23,14.} har jeg bevaret ordene{H: Job 6,10.} fra hans mund.
 
-//4 v13 Han er den Ene!{H: 5 Mos 6,4.}
-//8 Hvem kan hindre ham?{H: Job 9,12; 11.10.}
+//4 v13 Han er én!{E: Oversættelsen her minder om Israels trosbekendelse i 5 Mos 6,4. *bᵊʔeḥād* kan også oversættes >>når han vil noget<< idet præpositionen *bᵊ* angiver en egenskab.}
+//8 Hvem kan hindre ham?{H: Job 9,12; 11,10.}
 
-//7 Hvad han af hjertet{N: Sjæl.} ønsker,
+//7 Hvad han af hjertet{N: Sjæl} ønsker,
 //8 det gør han.
 
-//6 v14 For han fuldfører det han har bestemt for mig,{T: Ordret: >>min bestemmelse<<.}{H: Job 23,12.}
+//6 v14 For han fuldfører det han har bestemt for mig,{H: Job 23,12.}
 
 //8 og af dette er der meget hos ham. 
 
-//7 v15 Derfor er jeg forfærdet i hans nærvær;{T: Ordret: >>ansigt<<.}
+//7 v15 Derfor er jeg fyldt af rædsel{H: Job 4,5.} for hans ansigt;
 
 //9 tænker jeg over det,
-//8 skælver jeg for ham.
+//8 skælver{H: Job 3,25.} jeg for ham.
 
-//5 v16 Gud har gjort mit hjerte ængsteligt,
+//5 v16 Gud har gjort mit hjerte svagt,
 
-//6 den Almægtige har forfærdet mig.
+//6 den Almægtige har gjort mig skrækslagen.{H: Job 23,15.}
 
-//7 v17 For jeg er ikke forsvundet{E: *niṣmattî* >>forsvinde<<, >>blive ødelagt<< eller >>blive tavs<<. Nægtelsen *lōˀ* kunne være et emfatisk adverbium (>>Visselig<<); i begge tilfælde gælder det også for den næste sætning.}{H: Job 6,17.} på grund af mørket,
+//7 v17 Men jeg er ikke forsvundet{T: Eller >>blevet tavs<<.}{E: *ṣmt* >>forsvinde<<, >>blive ødelagt<<, >>blive tavs<<. Nægtelsen *lōˀ* kan opfattes som et emfatisk adverbium (>>sandelig/virkelig<<). I begge tilfælde kan det også gælde for den næste sætning, men ikke nødvendigvis. Teksten giver mulighed for meget forskellige oversættelser med og uden nægtelser.} på grund af mørket,
 
-//8 og det dybeste mørke skjuler endnu ikke mit ansigt.
+//8 og mit ansigt det skjuler mulmet ikke.{H: Job 10,21-22.}

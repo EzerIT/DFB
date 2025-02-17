@@ -1,81 +1,81 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 26.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 27===
 
 
-==Jobs visdomstale: Job holder fast ved sin uskyld og ret==
+== Job holder fast ved sin uskyld, ret og retfærdighed==
 
 
 //0 v1 Job fortsatte
-//2 sit belærende indlæg{E: *māšāl* betyder egentlig >>ordsprog<<, >>lignelse<<.} 
+//2 sit belærende indlæg.{E: *māšāl* betyder egentlig >>ordsprog<<, >>lignelse<<.} 
 //1 og sagde:
 
 //2 v2 >>Så sandt Gud lever,
-//6 han har fjernet min ret,
+//6 han har frataget mig min ret,{H: Job 13,18; 40,8.}
 
 //5 den Almægtige
-//6 har forbitret mit liv,{N: Sjæl.}
+//6 har forårsaget bitter nød i min sjæl,{N: Sjæl}
 
-//4 v3 ja, lige så længe mit åndedræt er i mig,
+//4 v3 ja, lige så længe mit åndedræt{H: Job 4,9.} er i mig,
 
-//6 og Guds ånd er i min næse,
+//6 og Guds ånd{N: Ånd.} er i min næse,
 
 //5 v4 skal hverken mine læber tale uret
 
 //7 eller min tunge
-//8 udtrykke svig! 
+//8 udtrykke svig!{H: Job 13,7.} 
 
 //6 v5 Det være langt fra mig 
-//7 at give jer ret.{T: Betydningen af edsformularen er: >>Må jeg være forbandet hvis jeg giver jer ret<<.}
+//7 at give jer ret.{T: Betydningen af edsformularen er: >>Må jeg være forbandet, hvis jeg giver jer ret<<.}
 
 //8 Indtil jeg udånder,
-//9 vil jeg ikke opgive min uskyld!{H: Job 2,3; 31,6.}
+//9 vil jeg ikke opgive min uskyld!{H: Job 31,6.}
 
-//11 v6 Jeg holder fast i{H: Job 2,3.} min retfærdighed{E: *ṣᵊdāqāʰ* (>>retfærdighed<<) kan være brugt i retslig forstand (>>ret<<), men her i moralsk forstand med guddommelig betydning (>>retfærdig<<).}
+//11 v6 Jeg holder fast i{H: Job 2,3.} min retfærdighed{E: *ṣᵊdāqāʰ* (>>ret<<, >>retfærdighed<<) kan bruges i retslig forstand (ret), men her i moralsk forstand med guddommelig betydning (retfærdig).}
 //12 og giver ikke slip på den,
 
 //10 mit hjerte anklager mig ikke for nogen af mine dage.
 
 
-==Den ugudelige får sin straf af Gud, og han mister alt==
+==Den ugudelige vil få sin straf af Gud==
 
 
 //3 v7 Må min fjende stå som en ugudelig,
 
-//6 og den der rejser sig imod mig, som en forbryder.{H: Job 18,21.}
+//6 og den der rejser sig imod mig, som en uretfærdig.{H: Job 18,21.}
 
 //5 v8 For hvad er den gudløses håb{H: Job 8,13; 11,20.}
 
-//7 når han skæres af,
-//8 og når han tager hans liv?{N: Sjæl.}
+//7 når han skærer ham af,{H: Job 6,9.}
+//8 når Gud tager hans liv?{N: Sjæl.}
 
-//6 v9 Hører Gud mon hans skrig
+//6 v9 Vil Gud mon høre hans skrig{H: Job 34,28.}
 
-//8 når nød kommer over ham?
+//8 når trængsel{H: Job 5,19.} kommer over ham?
 
-//7 v10 Glæder han sig i den Almægtige,
+//7 v10 Vil han fryde sig{H: Job 22,26.} over den Almægtige
 
-//8 kalder han til enhver tid på Gud?
+//8 og til enhver tid kalde på Gud?
 
-//4 v11 Jeg vil undervise jer om Guds hånd.{N: Hånd.}{H: Job 27,22.}
+//4 v11 Jeg vil undervise{H: Job 6,24.} jer om Guds magt.{H: Job 27,22.}
 
 //7 Det som er hos den Almægtige,
-//6 skjuler jeg ikke. 
+//6 vil jeg ikke skjule.{H: Job 6,10.} 
 
-//5 v12 Når I 
-//7 alle sammen har set det,
+//5 v12 Ja, I 
+//7 har jo alle sammen skuet{H: Job 15,17.} det,
 
-//8 hvorfor er jeres tale da så fuldstændigt intetsigende?
+//8 hvorfor er jeres tale da så fuldstændigt intetsigende?{H: Job 9,29; 21,34.}
 
-//6 v13 Dette er det ugudelige menneskes vilkår hos Gud,
+//6 v13 Dette er det ugudelige{H: Job 20,29.} menneskes vilkår hos Gud,
 
-//8 og en arv voldsmændene
-//9 får af den Almægtige.
+//8 og en arv tyrannerne{H: Job 6,23.}
+//9 modtager fra den Almægtige:
 
-//7 v14 Bliver hans sønner talrige,
+//7 v14 Når hans sønner bliver talrige,
 //10 er det til sværd,
 
 //11 og hans efterkommere bliver ikke mætte af brød.
@@ -91,31 +91,31 @@
 //9 v17 så ophober han,
 //12 men den retfærdige ifører sig det,
 
-//13 og den skyldfrie{H: Job 4,7; 17,8; 22,19.30.} fordeler sølvet.
+//13 og den uden skyld{H: Job 4,7.} fordeler sølvet.
 
 //11 v18 Han bygger sit hus ligesom et møl,{H: Job 8,14-15.}
 
-//12 som en hytte en vagtmand laver.
+//12 ligesom en løvhytte en vagtmand laver.
 
 //10 v19 Rig lægger han sig,
 //13 men for sidste gang,{E: *lōˀ yēʔāsēf* (>>ikke noget er fjernet<<) ændres af de fleste som i LXX og Peshitta til *yosip* (>>gør ikke igen<<).}
 
-//12 han åbner sine øjne,
+//12 han åbner{H: Job 14,3.} sine øjne,
 //13 og der er intet tilbage.
 
-//11 v20 Som vand indhenter rædsler{H: Job 18,11.} ham,
+//11 v20 Pludselige rædsler{H: Job 18,11.} indhenter ham som vande,
 
-//13 om natten stjæler en stormvind{H: Job 21,18.} ham.
+//13 om natten fører en stormvind ham bort.{H: Job 21,18.}
 
 //12 v21 En østenvind løfter ham op,
 //14 og han går bort,
 
 //15 den fejer ham væk fra hans sted.
 
-//16 v22 Lad ham{T: Der henvises nok til Gud set i lyset af vers 13.} kaste sig over ham
-//17 uden at skåne ham;
+//16 v22 Han kaster sig over ham{E: Der henvises her til Gud set i lyset af vers 13. Verbet *šlx* >>kaste<<, >>slynge<< står i teksten uden objekt, derfor tilføjer nogle >>pile<<, som i Job 16,13, og oversætter >>Gud kaster sine pile mod ham<<.}
+//17 og er uden skånsel;{H: Job 16,13.}
 
-//13 han flygter alt hvad han kan fra hans hånd.
+//13 væk fra hans hånd flygter{H: Job 20,24.} han alt hvad han kan.
 
 /14 v23 Man klapper i hænderne over ham
 

@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 05.10.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 14===
 
@@ -11,15 +11,15 @@
 
 //0 v1 Et menneske født af en kvinde,
 
-lever en kort tid og mættes med uro.
+lever en kort tid og mættes med uro.{H: Job 3,17.26}
 
-//2 v2 Som en blomst kommer han frem,
-//3 men visner,
+//2 v2 Som en blomst kommer han frem
+//3 og visner,{T: Ordret: >>skæres af<<.}
 
 //3 han flygter som skyggen{H: Job 8,9.}
 //4 og bliver ikke stående.
 
-//1 v3 Selv over en sådan har du åbnet dine øjne,
+//1 v3 Selv mod en sådan har du rettet din opmærksomhed,{T: Ordret: >>har du åbnet dine øjne<<.}
 
 //5 og du bringer mig for retten sammen med dig.
 
@@ -27,15 +27,15 @@ lever en kort tid og mættes med uro.
 
 //5 Ikke én!
 
-//3 v5 Når hans levedage er bestemt,
+//3 v5 Sandelig, hans levedage er bestemt,
 
-//5 antallet af hans måneder fastsat{T: >>fastsat<< tilføjet.} hos dig,
+//5 antallet af hans måneder er fastsat{T: >>fastsat<< tilføjet.} hos dig,
 
 //6 og du har givet ham en frist{H: Job 14,13.} 
 //4 han ikke kan overskride.
 
-//2 v6 Se væk fra ham,
-//5 og lad ham være,
+//2 v6 Se væk{H: Job 7,19.} fra ham,
+//5 og han har ro,
 
 //6 mens han kan glæde sig som en daglejer{H: Job 7,2.} over sin dag.
 
@@ -48,12 +48,11 @@ lever en kort tid og mættes med uro.
 
 //8 v8 Når dets rod i jorden bliver ældre,
 
-//10 og dets stub dør i mulden,{T: Ordret >>støvet<<.}{H: Job 10,9.}
+//10 og dets stub dør i mulden, 
 
 //9 v9 spirer det ved duften af vand,
 
-
-//10 og det fortsætter med at sætte grene ligesom en plante.
+//10 og det fortsætter med at sætte grene som en plante.
 
 //6 v10 En mand dør
 //8 og svinder hen;
@@ -69,12 +68,12 @@ lever en kort tid og mættes med uro.
 //6 v12 Men har mennesket lagt sig,
 //8 står det ikke op igen;
 
-//7 så længe der er en himmel,{T: Ordret: >>indtil der ikke er en himmel<<.} vågner de ikke op,
+//7 indtil der ikke er en himmel, vågner de ikke op,
 
 //8 og de vækkes ikke af deres søvn.
 
 
-==Job ser intet håb i døden og efter døden==
+==Job ser intet håb==
 
 
 //3 v13 Gid
@@ -89,7 +88,7 @@ lever en kort tid og mættes med uro.
 //9 v14 Når en mand dør,
 //10 kommer han så til live igen?
 
-//8 Alle dagene i min krigstjeneste{H: Job 7,1-2; 10,17.} ville jeg vente
+//8 Alle dagene i min krigstjeneste{H: Job 7,1-2; 10,17.} ville jeg vente{H: Job 13,15.}
 
 //10 til min afløsning kom.
 
@@ -98,7 +97,7 @@ lever en kort tid og mættes med uro.
 
 //10 efter dine hænders værk ville du længes. 
 
-//11 v16 For nu du tæller mine skridt,
+//11 v16 Men nu du tæller mine skridt,
 
 //13 vogter du så ikke på min synd?
 
@@ -113,12 +112,12 @@ lever en kort tid og mættes med uro.
 
 //6 v19 Vand udhuler sten,
  
-//8 dets strømme skyller løs jord{T: Ordret: >>jordens støv<<.}{H: Job 14,8.} bort,
+//8 dets strømme skyller muldjorden bort,
 
-//7 sådan gør du menneskets håb til intet.
+//7 sådan gør du menneskets håb til intet.{H: Job 12,23.}
 
 //10 v20 Du besejrer ham for evigt,
-//9 og han går bort.
+//9 og han går bort,
 
 //11 gør ham ukendelig,{T: Ordret: >>du ændrer hans ansigt<<.}
 //10 og du sender ham bort.
@@ -127,8 +126,8 @@ lever en kort tid og mættes med uro.
 //11 han ved det ikke,
 
 //10 og bliver de ringeagtet,
-//11 han bemærker det ikke.
+//11 han opdager det ikke.
 
 //9 v22 Kun hans eget legeme mærker smerte,  
 
-//10 og han{T: Ordret: >>hans sjæl<<.} sørger over sig selv.<<
+//10 og han{N: Sjæl.} sørger over sig selv.<<

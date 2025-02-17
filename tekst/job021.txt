@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 20.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 21===
 
@@ -21,49 +21,49 @@
  
 //7 og når jeg har talt, kan du håne{H: Job 11,3.} mig. 
 
-//5 v4 Retter jeg min klage{H: Job 7,13; 10,1.} til et menneske,
+//5 v4 Retter jeg min klage{H: Job 10,1.} til et menneske?
 //6 
 
-//7 eller
-//8 hvorfor skulle jeg ikke i min ånd{N: Ånd.} være utålmodig?
+//7 Og
+//8 hvorfor skulle min ånd{N: Ånd.} ikke blive utålmodig?
 
-//4 v5 Vend jer mod mig,
-//8 og bliv forfærdet!{H: Job 17,8.}
+//4 v5 Vend jer mod mig
+//8 og gys!{H: Job 17,8.}
 
 //8 Læg hånden på munden!
 
 //7 v6 Når jeg husker på det,
-//8 bliver jeg forfærdet,{H: Job 4,5.}
+//8 bliver jeg fyldt af rædsel{H: Job 4,5.}
 
 //9 og en skælven griber min krop.
 
 
-==De ugudelige lever lykkeligt for det meste==
+==De ugudeliges liv==
 
 
 //6 v7 Hvorfor lever de ugudelige
 
 //10 og bliver gamle,
-//11 bliver endog mægtige på rigdom?
+//11 bliver endog mægtige på rigdom?{H: Sl 73,12.}
 
 //9 v8 Deres afkom
-//13 lever i sikkerhed hos dem,{N: Ansigt.}
-//12 sammen med dem, 
+//13 består for deres ansigt,
+//12 de er sammen med dem, 
 
-//11 og deres efterkommere{H: Job 5,25.} har de altid hos sig.{T: >>for deres øjne<<.}
+//11 og deres efterkommere{H: Job 5,25.} har de for deres øjne.
 
-//10 v9 Deres hjem ligger i fred{H: 5,24.}
-//12 uden frygt,
+//10 v9 Deres hjem ligger i fred{H: Job 5,24.}
+//12 uden rædsel,
 
 //11 og Guds kæp er ikke over dem.
 
-//8 v10 Deres tyre parer sig med køerne,{T: >>Med køerne<< er tilføjet.}
+//8 v10 Hans tyr parer sig, 
 //10 og det mislykkes ikke,
 
-//9 deres køer kælver
-//10 og mister ikke kalvene.
+//9 hans ko kælver,
+//10 og den mister ikke kalven.
 
-//11 v11 De sender deres drenge ud ligesom fårene,
+//11 v11 De sender deres drenge ud ligesom fåreflokken,
 
 //12 og deres børn springer omkring.
 
@@ -71,11 +71,11 @@
 
 //12 og de fryder sig til lyden af fløjte.
 
-//11 v13 De nyder deres dage i velstand,{H: Job 36,11.}
+//11 v13 De ender deres dage i velstand,{H: Job 36,11.}
 
 //13 og på et øjeblik gribes de af rædsel{E: Nogle ændrer * yēḥāttû* (>>gribes af rædsel<<) til *yēḥātû* fra *naḥāt* (>>går de ned i<<).} for dødsriget.{N: Sheol.}
 
-//12 v14 Så sagde de til Gud:
+//12 v14 Så siger de til Gud:
 //13 >Vend dig bort fra os!
 
 //15 Vi ønsker ikke at kende dine veje!
@@ -87,33 +87,33 @@
 //16 at vi skulle bønfalde ham?<
 
 //7 v16 Men 
-//9 deres velstand er ikke i deres egen magt.{N: Hånd.}
+//9 deres velstand er jo ikke i deres egen hånd.
 
-//8 De ugudeliges råd er langt fra mig!
+//8 De ugudeliges råd er fjernt fra mig!
 
-//9 v17 Hvor ofte{T: >>Hvor ofte<< er underforstået i vers 17-18, og er derfor tilføjet.} sker det at de ugudeliges lampe slukkes,{H: Job 18,5.}
+//9 v17 Hvor ofte{T: >>Hvor ofte<< er underforstået i vers 17-18 og er derfor tilføjet.} slukkes de ugudeliges lampe{H: Job 18,5.}
 
-//14 eller at deres ulykke{H: Job 18,12; 31,3.} kommer over dem?
+//14 og truende ulykke{H: Job 18,12; 31,3.} kommer over dem?
 
-//13 Hvor ofte tildeler han dem smerter i sin vrede?
+//13 Hvor ofte tildeler han dem pinsler i sin vrede?
 
 //12 v18 Hvor ofte bliver de som strå for vinden,
 
 //13 og som avner{H: Sl 1,4.}
-//14 stormen fejer bort?
+//14 stormen fører bort?
 
-//11 v19 Gud kan udskyde{E: *yiṣpōn* (>>opbevarer<<). Kan opfattes som et retorisk spørgsmål: >>Udskyder Gud ulykken til hans børn?<<.} ulykken{H: Job 15,35.} til hans børn!{H: Job 5,4; 20,10. 2 Mos 20,5.} 
+//11 v19 Gud gemmer straffen for hans ondskab{T: >>Straffen for<< er tilføjet.} til hans børn!{H: Job 5,4; 20,10. 2 Mos 20,5.} 
 
 //12 Måtte han gengælde ham selv,
 //14 så han forstår det!
 
-//13 v20 Må han med egne øjne se sin undergang
+//13 v20 Må han med egne øjne se sin undergang{T: Ordet forekommer kun her.}
 
-//15 og drikke af den Almægtiges gift!{H: Job 6,4.}
+//15 og drikke af den Almægtiges vrede!{T: Ordret: >>gift<<.}{H: Job 6,4.}
 
-//14 v21 For hvad glæde har han af sit hjem bagefter,
+//14 v21 For hvad glæde har han af sit hjem efter det,
 
-//15 når hans måneders tal er til ende?
+//15 når hans måneders tal er skåret af?
 
 
 ==Gud behandler mennesker forskelligt==
@@ -123,15 +123,15 @@
 
 //12 ham der dømmer de ophøjede?
 
-//11 v23 En dør når han er mest livskraftig,{T: Ordret: >>i hans knogles fuldkommenhed<<.} 
+//11 v23 Én dør når han er mest livskraftig, 
 
-//15 helt ubekymret{E: *šalʔᵃnan* findes kun her og er sikkert en variant af *šaʔᵃnan*. Det danner et bogstavrim med *šālêw* (>>tryg<<).} og tryg.
+//15 helt sorgløs{E: *šalʔᵃnan* danner et bogstavrim med *šālêw* (>>tryg<<).} og tryg.
 
 //14 v24 Hans kar er fulde af mælk,
 
 //15 og marven i hans knogler er sund.
 
-//13 v25 En anden dør med en bitter sjæl
+//13 v25 En anden dør med bitter nød i sjælen{T: Ordret: >>bitter sjæl<<.}{N: Sjæl.}{H: Job 3,20.}
 
 //14 og har ikke nydt det gode.
 
@@ -143,21 +143,22 @@
 ==Vennernes påstand om de gudløses ulykke er et bedrag==
 
 
-//7 v27 Jo,//9 jeg kender jeres tanker
+//7 v27 Ja,
+//9 jeg kender jeres tanker
 
 //11 og de planer, 
 //12 I udtænker mod mig!
 
 //10 v28 For I siger:
-//11 >Hvor er den fornemmes{H: Job 12,21.} hus,
+//11 >Hvor er den fornemmes hus,
 
-//12 og hvor er teltet, de ugudeliges boliger?< 
+//12 og hvor er teltet, de ugudeliges boliger?<{H: Job 8,22.}
 
 //8 v29 Har I ikke spurgt dem som rejser på vejene,
 
 //10 og lægger I ikke mærke til deres signaler?
 
-//9 v30 For på ulykkens dag skånes den onde,
+//9 v30 For på ulykkens{H: Job 18,12.} dag skånes den onde,
 
 //11 på vredens dag bliver han ledt bort.
 
@@ -166,18 +167,18 @@
 //11 og hvad han har gjort,
 //13 hvem gengælder ham det?{H: Job 21,19.}
 
-//12 v32 Han bæres til graven,{H: Job 17,1.}
+//12 v32 Han bæres til gravene,{H: Job 17,1.}
 
-//14 og man holder vagt ved hans gravsted.
+//14 og man holder vagt over hans grav.
 
-//13 v33 Jordknoldene i wadien finder han behagelig,
+//13 v33 De er søde for ham, jordknoldene fra wadien, 
 
 //14 og efter ham følger alle mennesker, 
 
-//15 dem der går foran ham,
+//15 dem foran ham
 //16 er der ingen tal på.
 
-//5 v34 Hvordan kan I trøste mig med et intetsigende pust?{H: Job 7,16; 9,29.}
+//5 v34 Hvordan kan I trøste mig med tomhed?{H: Job 7,16.}
 
 //6 Jeres svar
 //7 forbliver et bedrag!<<

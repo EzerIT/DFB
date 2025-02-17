@@ -1,18 +1,18 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 20.11.2024>!!
+!!<Redaktion: Trine Tøndering>!!
+!!<Dato for denne version: 17.02.2025>!!
 
 ===Jobs bog, kapitel 22===
 
 
-==Elifaz fordømmer i sin tredje tale Jobs ondskab==
+==Elifaz’ tredje tale med anklager mod Job==
 
 
 //0 v1 Da svarede Elifaz fra Teman
 //1 :
 
-//2 v2 >>Kan en mand være til gavn for Gud?{H: Job 35,7-8.}
+//2 v2 >>Kan en mand være til gavn for Gud?{H: Job 35,7.}
 
 //5 For kan en der har indsigt, være til gavn for ham? 
 
@@ -22,7 +22,7 @@
 //6 eller er det en gevinst for ham
 //7 at du gør dine veje fuldkomne?
 
-//5 v4 Er det mon på grund af din gudsfrygt{N: Frygt.}{H: Job 1,1.9; 15,4;} at han tugter{H: Job 5,17.} dig
+//5 v4 Er det mon på grund af din gudsfrygt{N: Frygt.}{H: Job 1,1.9.} at han anklager{H: Job 13,3.} dig
 
 //7 og møder op sammen med dig for retten?
 
@@ -30,29 +30,29 @@
 
 //9 og er der ingen ende på din skyld?
 
-//8 v6 For du tog pant af dine brødre uden grund,
+//8 v6 For du tog pant af dine brødre uden grund, 
 
 //12 og du tog klæderne af de nøgne.
 
-//11 v7 Du gav ikke den trætte vand at drikke,
+//11 v7 Du gav ikke den udmattede vand at drikke,
 
-//12 og du holdt brød tilbage fra den sultne.
+//12 og du holdt brød tilbage fra den sultne. 
 
-//10 v8 Men den mand der er stærk,
+//10 v8 Men den mand der er stærk, 
 //12 han har jorden,
 
-//11 og den respekterede{T: Ordret: >>løftet hoved<<.} bor på den. 
+//11 og den der er respekteret,{T: Ordret: >>har løftet hoved<<.} han bor på den. 
 
 //9 v9 Enker sendte du tomhændet bort,
-//10 og faderløses styrke blev knust.
+//10 og faderløses styrke blev knust.{H: Job 29,12.}
 
-//7 v10 Derfor er der fælder hele vejen rundt om dig,
+//7 v10 Derfor er der fælder rundt om dig,
 
-//9 og pludselig rædsel vil gribe dig, 
+//9 og pludselig rædsel,{H: Job 3,25.} gør dig skrækslagen,{H: Job 4,5.} 
 
-//8 v11 eller et mørke du ikke kan se i,
+//8 v11 eller et mørke så du ikke kan se,
 
-//9 og en vandflod vil dække dig.
+//9 og en vandflod dækker dig.
 
 
 ==Gud rammer de uretfærdige==
@@ -60,66 +60,66 @@
 
 //3 v12 Er Gud ikke så høj som himlen?
 
-//7 og se de øverste stjerner,
-//8 de er virkelig højt oppe!
+//7 Se på de højeste stjerner,
+//8 for de er højt oppe!
 
 //6 v13 Du siger:
 //7 >Hvad ved Gud?
 
-//8 Kan han dømme gennem et tykt mørke?
+//8 Kan han dømme gennem en mørk sky?<{E: *ʕᵃrāfel* (>>tæt mørke<<, >>mørk sky<<). I Jobs bog er der 7 forskellige ord for mørke og 4 forskellige ord for skyer.}
 
 //9 v14 Skyerne er et skjulested for ham
 //10 så han ikke ser noget,
 
-//11 og han vandrer omkring på himmelhvælvingen.<{H: Es 40,22.}
+//11 og på himmelhvælvingen vandrer han omkring.{H: Es 40,22.}
 
 //5 v15 Vil du holde dig til den ældgamle sti
 
-//9 som onde mænd trådte? 
+//9 som mænd fulde af ondskab{H: Job 4,8.} trådte?{H: Job 34,8.} 
 
 //11 v16 De som blev grebet
 //13 i utide,
 
-//12 hvis fundament blev skyllet væk af floden.{H: 1 Mos 6,17.}
+//12 hvis fundament{H: Job 4,19.} blev skyllet væk af floden?{H: 1 Mos 6,17.}
 
 //10 v17 De sagde til Gud:
 //12 >Gå væk fra os!<
 
 //13 Hvad kan den Almægtige gøre for dem? 
 
-//11 v18 Men det var ham der fyldte deres huse med godt.
+//11 v18 Og det var ham der havde fyldt deres huse med godt!
 
-//8 De ugudeliges råd er langt fra mig!{H: Job 21,16.}
+//8 Men de ugudeliges råd er fjernt fra mig!{H: Job 21,16.}
 
 //7 v19 De retfærdige ser det
 //9 og glæder sig;
 
-//8 og den skyldfrie{H: Job 4,7; 17,8.} håner dem.{H: Sl 2,4.}
+//8 og den uden skyld{H: Job 4,7; 22,30.} håner{H: Sl 2,4.} dem. 
 
-//6 v20 Sandelig, vores modstandere er udslettet,
+//6 v20 Sandelig, vores modstandere er udryddet,
 
-//7 og deres rest har ilden fortæret!
-
-
-==Elifaz formaner Job til omvendelse==
+//7 og deres overflod har ilden fortæret!
 
 
-//4 v21 Bliv forsonet{H: Job 15,13.} med ham 
+==Elifaz opfordrer Job til omvendelse==
+
+
+//4 v21 Bliv dog forsonet{H: Job 15,13.} med ham 
 
 //7 og hold fred!
 
-//6 Derved vil dit udbytte blive godt!
+//6 Derved vil dit udbytte{H: Job 31,12.} blive godt!
 
-//5 v22 Tag imod vejledning{N: Lov.} fra hans mund,
+//5 v22 Tag dog imod vejledning{N: Lov.} fra hans mund,
 
 //10 læg dig hans ord på hjerte!
 
 //9 v23 Hvis du vender om til den Almægtige,
 //10 vil du blive bygget op! 
 
-//8 Du må fjerne uret fra dit telt!
+//8 Du skal holde uret{H: Job 5,16.} langt væk fra dit telt!
 
-//7 v24 Læg det pureste guld i støvet
+//7 v24 Læg det ægte guld i støvet
 
 //9 og Ofir-guldet blandt wadiens sten! 
 
@@ -127,26 +127,26 @@
 
 //10 og dit reneste sølv!
 
-//9 v26 For da vil du glæde dig over den Almægtige,
+//9 v26 For da vil du fryde dig over den Almægtige,
 
 //10 og du vil løfte dit ansigt til Gud.
 
 //6 v27 Du vil bønfalde ham,
-//10 og han vil høre dig,
+//10 og han vil høre dig,{H: Job 42,8.}
 
 //9 og du vil indfri dine løfter.
 
-//8 v28 Når du beslutter dig i en sag,
+//8 v28 Beslutter du dig i en sag,
 //10 vil det lykkes for dig,
 
 //9 og på dine veje skinner lyset.
 
-//7 v29 Når nogen blev ydmyget, 
-//9 sagde du:
-//10 >Bliv ophøjet!<
+//7 v29 Når mennesker bliver ydmyget, 
+//9 vil du sige :
+//10 >Bliv ophøjet!<{E: Teksten er omdiskuteret.} 
  
-//8 Han frelser den med nedslåede øjne.
+//8 Han{T: Gud.} frelser den med nedslåede øjne.
 
-//9 v30 Han redder den ikke skyldfrie
+//9 v30 Han redder endog den der ikke er uskyldig,
 
-//10 og ved dine hænders renhed reddes han.<<
+//10 ja, han vil blive reddet ved dine hænders renhed.<<
