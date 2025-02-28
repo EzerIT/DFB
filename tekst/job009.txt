@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 14.02.2025>!!
+!!<Dato for denne version: 28.02.2025>!!
 
 ===Jobs bog, kapitel 9===
 
@@ -28,7 +28,7 @@
 //9 og forblive uskadt?
 
 //5 v5 Han er den som flytter{E: Vers 5-10 indledes alle med et verbum i participium, som her i vers 5 er oversat med >>han er den som (flytter)<<. Dette er underforstået i de øvrige vers, og participiumformen udtrykker samtidig at Gud fortsat har denne magt.} bjerge, 
-//6 men de ved det ikke,
+//6 uden at de bliver klar over det.
 
 //7 som vælter dem i sin vrede.
 
@@ -65,6 +65,8 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 
 //6 Hvem kan sige til ham: 
 //7 >Hvad er det du gør?<
+
+***
 
 //4 v13 Gud holder ikke sin vrede tilbage,
 
@@ -164,6 +166,8 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 //13 v31 ville du alligevel dyppe mig i skidtet{E: *šaḥat* (>>grube<<, >>grav<<) er her ændret til *sûḥāʰ* (>>affald/skidt<<) som i Es 5,25 af hensyn til forståelsen.}
 
 //14 så mine klæder ville væmmes ved mig.
+
+***
 
 //6 v32 For han er ikke et menneske som jeg 
 //8 at jeg kan svare ham,

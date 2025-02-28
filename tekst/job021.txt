@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 28.02.2025>!!
 
 ===Jobs bog, kapitel 21===
 
@@ -90,6 +90,8 @@
 //9 deres velstand er jo ikke i deres egen hånd.
 
 //8 De ugudeliges råd er fjernt fra mig!
+
+***
 
 //9 v17 Hvor ofte{T: >>Hvor ofte<< er underforstået i vers 17-18 og er derfor tilføjet.} slukkes de ugudeliges lampe{H: Job 18,5.}
 

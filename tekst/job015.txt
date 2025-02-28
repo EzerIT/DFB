@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 28.02.2025>!!
 
 ===Jobs bog, kapitel 15===
 
@@ -12,17 +12,18 @@
 //0 v1 Da sagde Elifaz fra Teman
 //1:
 
-//2 v2 >>Vil en vis mand svare med kundskab der bare er vind,{N: Ånd.}{T: Ordret: >>kundskabs vind<<, >>visdoms ånd<<.}{H: Job 8,2; 32,18.}
-
-//5 eller vil han fylde sin mave
- med østenvinden
-
-//4 v3 ved at forsvare sig med tale
-//6 der er til ingen nytte, 
-
-//5 eller ord 
+Job 15,2-3 rettes til:
+//2 v2 >>Vil en vís mand svare med kundskab der bare er vind?{H: Job 8,2; 32,18.}
+ 
+//5 Og vil han fylde sit indre
+med østenvinden?
+ 
+//4 v3 Vil han forsvare sig med tale
+//6 der er til ingen nytte,
+ 
+//5 med ord
 //6 der er uden værdi?
-
+ 
 //3 v4 Endog nedbryder du gudsfrygt,{N: Frygt}
 
 //6 og du svækker fordybelse foran Guds ansigt.
@@ -52,6 +53,8 @@
 //10 v10 Der er både gråhårede og gamle{H: Job 12,12.} iblandt os,
 
 //11 ældre af dage end din far. 
+
+***
 
 //8 v11 Er Guds trøst dig for ringe,
 
@@ -171,6 +174,8 @@ en mand
 //11 v33 Som vintræet kaster han sine umodne druer,
 
 //13 som oliventræet smider han sine blomster.
+
+***
 
 //12 v34 For en gudløs{H: Job 8,13.} flok er gold,
 

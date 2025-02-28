@@ -1,7 +1,7 @@
 !!<Modenhed: Delvis færdig>!!
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redaktion: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 28.02.2025>!!
 
 ===Jobs bog, kapitel 16===
 
@@ -15,7 +15,7 @@
 
 //7 I er alle elendige trøstere!{H: Job 15,11.}
 
-//6 v3 Er det slut med ord som vind,{N: Ånd}{H: Job 15,2.}
+//6 v3 Er det slut med ord som vind,{H: Job 15,2.}
 
 //7 eller hvad provokerer dig
 //8 til at svare?
