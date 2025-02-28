@@ -70,8 +70,8 @@
 
 //6 v14 Dog skønt du siger: 
 //8 >Du kan ikke iagttage{H: Job 7,8.} ham,<
-/
-/7 så har han din sag foran sig,{T: Ordret: >>for hans ansigt<<.}{N: Ansigt.}
+
+//7 så har han din sag foran sig,{T: Ordret: >>for hans ansigt<<.}{N: Ansigt.}
 //8 og du skal skælvende vente{E: *tḥôlēl* (*ḤYL*) >>vride sig (veer)<<, >>ryste<<.} på ham!
  
 //3 v15 Men nu, 
