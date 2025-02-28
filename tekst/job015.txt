@@ -12,7 +12,6 @@
 //0 v1 Da sagde Elifaz fra Teman
 //1:
 
-Job 15,2-3 rettes til:
 //2 v2 >>Vil en vís mand svare med kundskab der bare er vind?{H: Job 8,2; 32,18.}
  
 //5 Og vil han fylde sit indre
