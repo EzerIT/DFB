@@ -8,8 +8,8 @@
 
 ==Jefta udvælges af gileaditterne til anfører i krigen mod ammonitterne==
 
-v1 Gileaditten Jefta var en dygtig kriger, men han var søn af en skøge. Gilead var Jeftas far. v2
-Gileads kone fødte ham børn, og da disse børn blev voksne, sendte de Jefta bort med ordene: >>Du
+v1 Gileaditten Jefta var en dygtig kriger, men han var søn af en skøge. Gilead var Jeftas far.
+v2 Gileads kone fødte ham børn, og da disse børn blev voksne, sendte de Jefta bort med ordene: >>Du
 skal ikke arve vores far, for du er en anden kvindes søn.<<
 
 v3 Da flygtede Jefta fra sine brødre og bosatte sig i landet Tob. En flok udstødte sluttede sig dér
@@ -67,8 +67,8 @@ som JHVH, vor Gud, fordriver folk fra foran os, tager vi jo også i besiddelse! 
 Sippors søn, kong Balak af Moab? Førte han sag mod Israel, eller førte han krig mod dem?
 
 v26 I 300 år har Israel boet i Heshbon med dens tilhørende byer og i Aro'er og dens tilhørende byer
-og i alle de byer som ligger ved Arnons bredder. Hvorfor har I ikke befriet dem i al den tid? v27
-Jeg har ikke gjort dig noget. Du handler ondt imod mig ved at kæmpe mod mig. JHVH, som er dommer,
+og i alle de byer som ligger ved Arnons bredder. Hvorfor har I ikke befriet dem i al den tid?
+v27 Jeg har ikke gjort dig noget. Du handler ondt imod mig ved at kæmpe mod mig. JHVH, som er dommer,
 skal i dag dømme mellem Israel og Ammon.<< v28 Men kongen af Ammon hørte ikke på de ord som Jeftas
 sendebud overbragte ham.
 

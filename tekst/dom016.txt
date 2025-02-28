@@ -20,8 +20,8 @@ bjerg som ligger lige over for Hebron.
 ==Samson bliver forelsket i Dalila, som omsider overtaler ham til at fortælle hvor han har sin
 styrke fra, og lader hans hoved glatbarbere==
 
-v4 Senere blev han forelsket i en kvinde der boede ved Sorek-bækken. Hun hed Dalila. v5
-Filisterfysterne kom til hende og sagde: >>Prøv om du kan lokke ud af ham hvor han får sine vældige
+v4 Senere blev han forelsket i en kvinde der boede ved Sorek-bækken. Hun hed Dalila.
+v5 Filisterfysterne kom til hende og sagde: >>Prøv om du kan lokke ud af ham hvor han får sine vældige
 kræfter fra, og hvordan vi kan overvinde ham. Så kan vi binde ham og overmande ham. Vi vil hver især
 give dig 1100 sekel{N: gt-mål} sølv.<<
 
@@ -108,8 +108,8 @@ næsten 3000 mennesker som så på Samson.
 
 v28 Men Samson råbte til JHVH: >>Herre JHVHv! Jeg beder dig: Husk på mig! Giv mig styrke, Gud, bare
 denne gang så jeg kan hævne mig på filistrene og få hævn for mine øjne.<< v29 Samson tog fat i de to
-midterste søjler, som bar bygningen. Han stemte højre hånd mod den ene og venstre mod den anden. v30
-Han sagde: >>Lad min sjæl{E: *tāmôt nafšî* >>må min sjæl dø<< oversættes normalt med >>må jeg dø<<,
+midterste søjler, som bar bygningen. Han stemte højre hånd mod den ene og venstre mod den anden.
+v30 Han sagde: >>Lad min sjæl{E: *tāmôt nafšî* >>må min sjæl dø<< oversættes normalt med >>må jeg dø<<,
 men det kan være interessant at kunne se det hebraiske udtryk, som vi i dag tolker som et udtryk for
 personen som helhed.} dø med filistrene!<< Han bøjede sig af al kraft. Da faldt templet sammen over
 fyrsterne og alt folket som var derinde.
