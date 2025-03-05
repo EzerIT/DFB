@@ -7,7 +7,7 @@
 ===Salme 71===
 
 ==Bøn om hjælp==
-v1 Hos dig, JHVHv, har jeg søgt tilflugt,
+v1 Hos dig, HERRE, har jeg søgt tilflugt,
 
 lad mig aldrig blive gjort til skamme!{T: Ordret: >>må jeg ikke blive gjort til skamme i evighed<<.}
 
@@ -28,7 +28,7 @@ fra den uretfærdiges og undertrykkerens greb.{T: Ordret: >>af dens hule hånd, 
 ==Erfaring af Guds omsorg==
 v5 For du er mit håb, Herre,
 
-JHVHv, du er min tillid fra min ungdom af!
+HERRE, du er min tillid fra min ungdom af!
 
 v6 Til dig har jeg støttet mig fra moders liv,
 
@@ -80,7 +80,7 @@ hele dagen om din frelse,
 
 for jeg ved ikke tal{E: Ordet *sᵊfōrôt* (>>tal<<) forekommer kun her i GT, og der er usikkerhed om betydningen. Septuaginta har forstået det som >>skrifter<< eller >>sager<<, mens andre gamle oversættelser har forstået det som >>antal<<. Roden *spr* betyder: >>tælle/skrive<<, så >>tal<< eller >>antal<< synes at være den bedste oversættelse.} derpå.
 
-v16 Jeg vil komme frem med Herrens, JHVHs, vældige gerninger,
+v16 Jeg vil komme frem med Herrens, HERRENS, vældige gerninger,
 
 jeg vil prisende omtale din retfærdighed, din alene.
 

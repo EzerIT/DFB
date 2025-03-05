@@ -6,7 +6,7 @@
 
 ==Levitterne mellem 30 og 50 år tælles. Kehatitternes opgave beskrives.==
 
-v1 JHVH talte til Moses og Aron:
+v1 HERREN talte til Moses og Aron:
 v2 >>Gør mandtal over kehatitterne blandt levitterne, efter deres slægter, efter deres fædrenehus,
 v3 fra 30 år og derover, indtil 50 år, enhver som kan drage i krig, til at gøre tjeneste ved forsamlingsteltet.
 v4 Dette skal være kehatitternes tjeneste ved forsamlingsteltet, ved de højhellige ting.
@@ -22,14 +22,14 @@ v13 De skal også feje asken af alteret og brede et purpurklæde ud over.
 v14 De skal lægge alle dets redskaber, som de bruger ved tjenesten, på det: Ildkarrene, madkrogene, skufferne og skålene, alle alterets redskaber, og de skal brede et dække af gedeskind ud over det og montere bærestængerne.
 v15 Når Aron og hans sønner er færdige med at tildække helligdommen og alle helligdommens redskaber, når lejren bryder op, da skal kehatitterne komme for at bære det, men uden at røre ved helligdommen og dø. Dette er hvad kehatitterne skal bære af forsamlingsteltet.
 v16 Præsten Arons søn Eleazar har til opgave at tage sig af lampeolien og røgelsen af de vellugtende urter og det afgrødeoffer der altid skal ligge fremme, og salvelsesolien. Det er hans opgave ved boligen og alt hvad der er deri, og som hører til helligdommen og til dens redskaber.<<
-v17 JHVH sagde til Moses og Aron:
+v17 HERREN sagde til Moses og Aron:
 v18 >>Lad ikke kehatitternes slægters stamme blive udryddet af levitternes midte.
 v19 Gør dette med dem så de skal leve og ikke dø når de kommer det højhellige nær. Aron og hans sønner skal komme og sætte hver mand til sin opgave og give ham det han skal bære.
 v20 Men de skal ikke gå ind for at se på det hellige så meget som et sekund, for at de ikke skal dø.<<
 
 ==Gershonitternes opgaver beskrives.==
 
-v21 JHVH sagde til Moses:
+v21 HERREN sagde til Moses:
 v22 >>Gør mandtal over gershonitterne, ja, over dem, efter deres fædrenehus, efter deres slægter.
 v23 Fra 30 år og derover, indtil 50 år, skal du tælle dem, enhver som kan drage i krig, til at gøre tjeneste ved forsamlingsteltet.
 v24 Dette skal være gershonitternes slægters opgave med at tjene og at bære.
@@ -51,18 +51,18 @@ v33 Dette skal være meraritternes slægters tjeneste efter al deres tjeneste ve
 v34 Moses og Aron og forsamlingens ledere talte kehatitterne efter deres slægter og efter deres fædrenehus,
 v35 fra 30 år og opefter, indtil 50 år, enhver som kunne drage i krig, til at gøre tjeneste ved forsamlingsteltet,
 v36 og de mønstrede af dem, efter deres slægter, var 2.750.
-v37 Dette var de mønstrede af kehatitternes slægter, enhver som tjente ved forsamlingsteltet, som Moses og Aron mønstrede efter JHVHs ord ved Moses.
+v37 Dette var de mønstrede af kehatitternes slægter, enhver som tjente ved forsamlingsteltet, som Moses og Aron mønstrede efter HERRENS ord ved Moses.
 v38 De mønstrede af gershonitterne efter deres slægter og efter deres fædrenehus
 v39 fra 30 år og opefter, indtil 50 år, enhver som kunne drage i krig, til at gøre tjeneste ved forsamlingsteltet.
 v40 De mønstrede af dem, efter deres slægter, efter deres fædrenehus, var 2.630.
-v41 Dette var de mønstrede af gershonitternes slægter, enhver som tjente ved forsamlingsteltet, som Moses og Aron mønstrede efter JHVHs ord.
+v41 Dette var de mønstrede af gershonitternes slægter, enhver som tjente ved forsamlingsteltet, som Moses og Aron mønstrede efter HERRENS ord.
 v42 De mønstrede af meraritternes slægter, efter deres slægter, efter deres fædrenehus,
 v43 fra 30 år og opefter, indtil 50 år, enhver som kunne drage i krig, til at gøre tjeneste ved forsamlingsteltet.
 v44 De mønstrede af dem, efter deres slægter, var 3.200.
-v45 Dette var de mønstrede af meraritternes slægter som Moses og Aron mønstrede efter JHVHs ord ved Moses.
+v45 Dette var de mønstrede af meraritternes slægter som Moses og Aron mønstrede efter HERRENS ord ved Moses.
 v46 Alle de mønstrede som Moses og Aron og Israels ledere mønstrede, nemlig levitterne efter deres slægter og efter deres fædrenehus,
 v47 fra 30 år og opefter, indtil 50 år, enhver som kunne gøre tjeneste ved at tjene og gøre tjeneste med at bære ved forsamlingsteltet.
 v48 De mønstrede af dem var 8.580.
-v49 Han mønstrede dem efter JHVHs ord ved Moses, hver mand til sin tjeneste og til sit at bære, og dem han mønstrede, var dem som JHVH havde befalet Moses.
+v49 Han mønstrede dem efter HERRENS ord ved Moses, hver mand til sin tjeneste og til sit at bære, og dem han mønstrede, var dem som HERREN havde befalet Moses.
 
 

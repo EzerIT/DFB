@@ -8,10 +8,10 @@
 ===Salme 7===
 
 ==Overskrift==
-v1 En Shiggajon{T: Formodentlig navn på en digttype, muligvis en speciel type klagesang. Hab. 3,1.} af David, som han sang til JHVH, over benjaminitten Kush's ord{T: Meningen kan evt. blot være: >>på grund af Kush<<.}.
+v1 En Shiggajon{T: Formodentlig navn på en digttype, muligvis en speciel type klagesang. Hab. 3,1.} af David, som han sang til HERREN, over benjaminitten Kush's ord{T: Meningen kan evt. blot være: >>på grund af Kush<<.}.
 
 ==David beder mod sine forfølgere==
-v2 JHVHv, min Gud! Hos dig søger jeg tilflugt,
+v2 HERRE, min Gud! Hos dig søger jeg tilflugt,
 
 frels mig fra alle mine forfølgere og befri mig
 
@@ -20,7 +20,7 @@ v3 så han ikke som en løve skal sønderrive min sjæl{E: Ordet >>sjæl<< bruge
 idet han sønderflænger den uden at der er nogen der redder.
 
 ==David bevidner sin uskyld i forhold til modstanderen==
-v4 JHVHv, min Gud! Hvis jeg har gjort dette,
+v4 HERRE, min Gud! Hvis jeg har gjort dette,
 
 hvis der er uret i mine hænder,
 
@@ -35,7 +35,7 @@ og træde mit liv til jorden;
 lægge min ære i støvet! Sela{N: Sela}
 
 ==David beder Gud om at dømme==
-v7 Stå op, JHVHv! i din vrede,
+v7 Stå op, HERRE! i din vrede,
 
 rejs dig imod mine fjenders harme,
 
@@ -45,9 +45,9 @@ v8 Lad folkenes forsamling omgive dig,
 
 og vend så tilbage over den i det høje{E: Meningen må være, at Gud efter dommen skal vende tilbage til sit universelle herredømme. Andre foreslår en lille tekstrettelse (*šûvāʰ* til *šēvāʰ*): >>tag sæde over den i det høje<<.}!
 
-v9 JHVH holder dom over folkene.
+v9 HERREN holder dom over folkene.
 
-Døm mig, JHVHv,
+Døm mig, HERRE,
 
 efter min retfærdighed og efter min uskyld, som er hos mig. 
 
@@ -91,7 +91,7 @@ v17 Hans misgerning skal vende tilbage over hans eget hoved,
 og hans vold skal komme over hans isse.
 
 ==Lovprisning==
-v18 Jeg vil takke JHVH for hans retfærdighed
+v18 Jeg vil takke HERREN for hans retfærdighed
 
-og lovsynge JHVH den Højestes Navn.
+og lovsynge HERREN den Højestes Navn.
 

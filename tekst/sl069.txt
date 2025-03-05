@@ -48,7 +48,7 @@ og min skyld var ikke skjult for dig.
 
 v7 Lad ikke dem{T: Ordret: >>Må ikke de …<<.} der håber på dig, blive gjort til skamme ved mig,
 
-Herre, Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} JHVHv!
+Herre, Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} HERRE!
 
 Lad ikke dem som søger dig, blive forhånede ved mig,
 
@@ -80,7 +80,7 @@ og drankernes viser handler om mig.{E: Der er ikke noget verbum i denne linje de
 
 v14 Men jeg - min bøn er til dig,
 
-JHVHv, om en velbehagelig tid,
+HERRE, om en velbehagelig tid,
 
 Gud, i din store nåde{N: nåde}:
 
@@ -96,7 +96,7 @@ og lad ikke dybet opsluge mig,
 
 og lad ikke en brønd{T: Ordet: >>brønd<< er her muligvis brugt som synonym for >>grav<<} lukke sin mund over mig!
 
-v17 Svar mig, JHVHv, for din nåde er god,
+v17 Svar mig, HERRE, for din nåde er god,
 
 vend dit ansigt til mig efter din store barmhjertighed!
 
@@ -164,7 +164,7 @@ v31 Jeg vil lovprise Guds navn med sang,
 
 og jeg vil ophøje ham med tak.
 
-v32 Og det vil behage JHVH mere end en okse,
+v32 Og det vil behage HERREN mere end en okse,
 
 en ungtyr med horn og klove.
 
@@ -172,7 +172,7 @@ v33 De ydmyge{T: Kan også oversættes: >>elendige<<.} har set,{E: Verbet *rāˀ
 
 de, som søger Gud - og jeres hjerte skal live op!
 
-v34 For JHVH hører på fattige
+v34 For HERREN hører på fattige
 
 og foragtede ikke sine fangne.
 

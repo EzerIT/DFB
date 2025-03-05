@@ -6,14 +6,14 @@
 ===Anden Mosebog, kapitel 15===
 
 ==Moses’ sang==
-v1 Da sang Moses og Israels børn denne sang for JHVH med ordene:{T: Ordret: >>og sagde, idet de sagde<<.}
->>Jeg vil synge{T: Kohortativen kan også oversættes: >>Lad mig synge<<.} for JHVH, 
+v1 Da sang Moses og Israels børn denne sang for HERREN med ordene:{T: Ordret: >>og sagde, idet de sagde<<.}
+>>Jeg vil synge{T: Kohortativen kan også oversættes: >>Lad mig synge<<.} for HERREN, 
 
 for han er højt ophøjet.
 
 Hest og dens rytter styrtede han i et hav.
 
-v2 Min styrke og min lovsang{T: Ordret skulle grundteksten oversættes: >>Min styrke og JHVHs lovsang<<.  Men suffixet *-î* (>>min<<) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (>>min styrke<<).} er JHVH,{T: Grundteksten har forkortelsen *yāh* for Guds navn.}
+v2 Min styrke og min lovsang{T: Ordret skulle grundteksten oversættes: >>Min styrke og HERRENS lovsang<<.  Men suffixet *-î* (>>min<<) regnes normalt for at være underforstået fra det foregående ord: *ʕāzzî* (>>min styrke<<).} er HERREN,{T: Grundteksten har forkortelsen *yāh* for Guds navn.}
 
 og han blev mig til frelse. 
 
@@ -21,9 +21,9 @@ Han{T: Ordret: >>denne<<.} er min Gud, og jeg vil prise ham,
 
 min faders Gud, og jeg vil ophøje ham.
 
-v3 JHVH er en kriger,{T: Ordret: >>krigsmand<<.}
+v3 HERREN er en kriger,{T: Ordret: >>krigsmand<<.}
 
-JHVH er hans navn.
+HERREN er hans navn.
 
 v4 Faraos vogne og hans hær kastede han i havet,
 
@@ -33,9 +33,9 @@ v5 havdybene skjulte dem;
 
 de sank ned i dybene som en sten.
 
-v6 Din højre hånd, JHVH, herlig i styrken,
+v6 Din højre hånd, HERREN, herlig i styrken,
 
-din højre hånd, JHVH, knuser fjenden,
+din højre hånd, HERREN, knuser fjenden,
 
 v7 og i din højheds storhed slår{T: Verbet bruges især om mure og fæstningsværker, der gennembrydes eller brydes ned.} du dine modstandere ned;
 
@@ -59,7 +59,7 @@ v10 Du blæste med din ånde, havet skjulte dem;
 
 de sank som bly i de mægtige vande.
 
-v11 Hvem er som du blandt guderne, JHVH?
+v11 Hvem er som du blandt guderne, HERREN?
 
 Hvem er som du, herlig i hellighed,
 
@@ -95,7 +95,7 @@ ved din arms storhed
 
 skal de blive tavse som en sten,
 
-indtil dit folk kommer over, JHVH,
+indtil dit folk kommer over, HERREN,
 
 indtil dette folk, som du har erhvervet dig, kommer over.
 
@@ -105,19 +105,19 @@ på din arvelods bjerg,
 
 det sted du har gjort
 
-til din bolig, JHVH;
+til din bolig, HERREN;
 
 en helligdom, Herre,
 
 har dine hænder grundfæstet.
 
-v18 JHVH skal regere evigt og altid.<<
-v19 For da Faraos hest gik ud med hans vogn og hans ryttere i havet – da bragte JHVH tilbage over dem vandet fra havet – men Israels børn gik på det tørre midt i havet.{E: Dette vers falder uden for sangens rytme og opfattes derfor normalt som forfatterens (Moses’) afrunding, der peger tilbage på begivenhederne i kap. 14. I ældre jødisk tradition opfattes verset som en del af sangen.}
+v18 HERREN skal regere evigt og altid.<<
+v19 For da Faraos hest gik ud med hans vogn og hans ryttere i havet – da bragte HERREN tilbage over dem vandet fra havet – men Israels børn gik på det tørre midt i havet.{E: Dette vers falder uden for sangens rytme og opfattes derfor normalt som forfatterens (Moses’) afrunding, der peger tilbage på begivenhederne i kap. 14. I ældre jødisk tradition opfattes verset som en del af sangen.}
 
 ==Mirjams sang==
 v20 Da tog Mirjam, profetinden, Arons søster, pauken i sin hånd, og alle kvinderne gik ud efter hende med pauker og med kædedans.
 v21 Og Mirjam sang for dem:{T: Det er ikke helt klart, hvad der menes med >>dem<<, der i grundteksten er maskulinum. Der er altså næppe blot tænkt på kvinderne i hendes følge, men formodentlig på hele folket.}
->>Syng for JHVH,
+>>Syng for HERREN,
 
 for han er højt ophøjet;
 
@@ -129,8 +129,8 @@ har han kastet i havet.<<
 v22 Så lod Moses Israel bryde op fra Sivhavet, og de drog ud til Shur-ørkenen, og de gik tre dage i ørkenen men fandt ikke vand.
 v23 Så kom de til Mara; men de kunne ikke drikke vandet i Mara, for det var bittert; derfor kaldte man  stedet Mara.{T: Ordret enten: >>Derfor kaldte han dets navn Mara<< eller: >>derfor kaldte man dets navn Mara<<.}
 v24 Da knurrede folket mod Moses, idet de sagde: >>Hvad skal vi drikke?<<
-v25 Så skreg han til JHVH, og JHVH viste ham et træ. Han kastede det i vandet, og så blev vandet sødt. 
+v25 Så skreg han til HERREN, og HERREN viste ham et træ. Han kastede det i vandet, og så blev vandet sødt. 
 Dér fastsatte han lov og ret for det,{E: for folket.} og dér satte han det på prøve.
-v26 Og han sagde: >>Hvis du lytter nøje{T: Den hebraiske tekst har verbet *šmʕ* (>>lytte<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} til JHVHs, din Guds, røst, og gør det som er ret i hans øjne og lytter til hans bud og holder alle hans love, så vil jeg ikke lægge nogen af de sygdomme på dig som jeg lagde på Egypten; For jeg er JHVH som læger dig.<<
+v26 Og han sagde: >>Hvis du lytter nøje{T: Den hebraiske tekst har verbet *šmʕ* (>>lytte<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} til HERRENS, din Guds, røst, og gør det som er ret i hans øjne og lytter til hans bud og holder alle hans love, så vil jeg ikke lægge nogen af de sygdomme på dig som jeg lagde på Egypten; For jeg er HERREN som læger dig.<<
 v27 Så kom de til Elim, og dér var tolv vandkilder og halvfjerds dadelpalmer. Dér slog de lejr ved vandet.
 

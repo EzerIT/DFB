@@ -31,7 +31,7 @@ v4 Gud, genrejs os{T: Kan også oversættes: >>bring os tilbage<<. I så fald ka
 og lad dit ansigt lyse så vi bliver frelst!
 
 ==Klage==
-v5 JHVHv, Gud Sebaot,{E: Ordet betyder: >>hærskarer<<. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: >>Hærskarers Herre<<). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.}
+v5 HERRE, Gud Sebaot,{E: Ordet betyder: >>hærskarer<<. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til HERREN (oftest oversat: >>Hærskarers Herre<<). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.}
 
 hvor længe vil du have været vred
 
@@ -94,7 +94,7 @@ v19 Så vil vi ikke falde fra dig.
 
 Lad os leve, så vil vi påkalde dit navn.
 
-v20 JHVHv, Gud Sebaot,{T: Se til v.5.} genrejs os,{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
+v20 HERRE, Gud Sebaot,{T: Se til v.5.} genrejs os,{T: Kan også oversættes: >>bring os tilbage<<. I så fald kan salmen være en bøn om at blive udfriet fra fangenskab og bragt tilbage til Israels land.}
 
 lad dit ansigt lyse så vi bliver frelst!
 

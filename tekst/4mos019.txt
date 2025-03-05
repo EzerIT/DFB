@@ -5,10 +5,10 @@
 
 ===Fjerde Mosebog, kapitel 19===
 
-==JHVH giver befaling om den røde kvie hvis aske skal bruges til renselsesvand.==
+==HERREN giver befaling om den røde kvie hvis aske skal bruges til renselsesvand.==
 
-v1 JHVH sagde til Moses og Aron:
-v2 >>Dette er en lovforordning fra JHVH: Sig til israelitterne at de skal føre en rød kvie til dig. Den skal være fejlfri uden mangler, og den må endnu ikke have båret åg.
+v1 HERREN sagde til Moses og Aron:
+v2 >>Dette er en lovforordning fra HERREN: Sig til israelitterne at de skal føre en rød kvie til dig. Den skal være fejlfri uden mangler, og den må endnu ikke have båret åg.
 v3 Den skal I give til præsten Eleazar, og han skal føre den uden for lejren, og man skal slagte den i hans nærvær.
 v4 Præsten Eleazar skal tage dens blod på sin finger, og han skal stænke dens blod hen mod forsiden af forsamlingsteltet syv gange.
 v5 I hans nærvær skal kvien brændes, dens hud og dens kød og dens blod skal brændes sammen med komøget.
@@ -22,7 +22,7 @@ v10 Den som har samlet kviens aske, skal vaske sit tøj og være uren indtil aft
 
 v11 Den som rører ved en død, ved et lig af noget menneske, skal være uren i syv dage.
 v12 Med vandet skal han på den tredje dag og på den syvende dag rense sig fra synden, så er han ren, og renser han sig ikke fra synden på den tredje og den syvende dag, bliver han ikke ren.
-v13 Enhver som rører ved en død, ved en person som er afgået ved døden, og ikke renser sig, gør JHVHs bolig uren, og den person skal fjernes fra Israel, fordi renselsesvandet ikke blev stænket på ham. Han skal være uren, og hans urenhed er stadig på ham.
+v13 Enhver som rører ved en død, ved en person som er afgået ved døden, og ikke renser sig, gør HERRENS bolig uren, og den person skal fjernes fra Israel, fordi renselsesvandet ikke blev stænket på ham. Han skal være uren, og hans urenhed er stadig på ham.
 v14 Dette er loven:{T: Ordret: undervisningen. Kan også oversættes med vejledning.} Når en person dør i teltet, skal enhver som kommer ind i teltet, og alt det der er i teltet, være urent i syv dage,
 v15 og ethvert åbent kar der ikke er bundet et klæde henover, det er urent.
 v16 Enhver som ude på marken rører ved nogen som er blevet dræbt med sværd, eller ved en død eller ved et menneskes knogler eller ved en grav, skal være uren i syv dage.
@@ -32,6 +32,6 @@ v19 Den rene person skal stænke på den urene på den tredje og på den syvende
 
 ==De som ikke udfører denne renselse, skal straffes hårdt.==
 
-v20 Den som bliver uren og ikke vil rense sig fra synden, den person skal fjernes fra forsamlingen, for han har gjort JHVHs helligdom uren, renselsesvandet blev ikke stænket på ham, han er uren.
+v20 Den som bliver uren og ikke vil rense sig fra synden, den person skal fjernes fra forsamlingen, for han har gjort HERRENS helligdom uren, renselsesvandet blev ikke stænket på ham, han er uren.
 v21 Det skal være en evig forordning for dem, og den som stænker renselsesvandet, skal vaske sit tøj, og den som rører ved renselsesvandet, skal være uren indtil aften.
 v22 Alt det den urene rører ved, skal være urent, og den person som rører ved ham, skal være uren indtil aften.

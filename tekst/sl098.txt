@@ -10,8 +10,8 @@
 ==Overskrift==
 //0 v1 En salme.
 
-==Syng for JHVH!==
-//0 Syng for JHVH en ny sang,
+==Syng for HERREN!==
+//0 Syng for HERREN en ny sang,
 
 //2 for han har gjort undere;
 
@@ -19,7 +19,7 @@
 
 udøvede frelsen for ham.{T: Kan også oversættes: >>skaffede ham sejr<<. For forståelsens skyld er der her byttet om på linjerne. Egentlig: >>hans højre hånd udøvede frelsen for ham / og hans hellige arm<<.}
 
-//1 v2 JHVH har kundgjort sin frelse,
+//1 v2 HERREN har kundgjort sin frelse,
 
 //3 for folkenes øjne
 
@@ -33,20 +33,20 @@ og sin trofasthed{T: Kan også oversættes: >>sandhed<<} mod Israels hus.
 
 har set vor Guds frelse.
 
-==Bryd ud i jubel for JHVH!==
-//0 v4 Bryd ud i fryderåd for JHVH,//1 hele jorden!
+==Bryd ud i jubel for HERREN!==
+//0 v4 Bryd ud i fryderåd for HERREN,//1 hele jorden!
 
 //0 Bryd ud i jubel,//1 fryd jer,//1 syng!
 
-//0 v5 Lovsyng JHVH til citer,
+//0 v5 Lovsyng HERREN til citer,
 
 //2 til citer og høj sang,
 
 //1 v6 til trompeter og hornklang;
 
-//0 bryd ud i fryderåb for kongens, JHVHs, ansigt!
+//0 bryd ud i fryderåb for kongens, HERRENS, ansigt!
 
-==JHVH kommer!==
+==HERREN kommer!==
 //1 v7 Havet og dets fylde skal larme,
 
 //4 verden og de som bor i den!
@@ -55,7 +55,7 @@ har set vor Guds frelse.
 
 //5 bjerge skal sammen juble
 
-//4 v9 for JHVHs ansigt;//2 for han kommer
+//4 v9 for HERRENS ansigt;//2 for han kommer
 
 //4 for at dømme jorden.
 

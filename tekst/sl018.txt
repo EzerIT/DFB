@@ -6,20 +6,20 @@
 ===Salme 18===
 
 ==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Af JHVHs tjener. Af David, som talte ordene i denne sang for JHVH den dag hvor JHVH havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd.{E: Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.}
+v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Af HERRENS tjener. Af David, som talte ordene i denne sang for HERREN den dag hvor HERREN havde reddet ham fra alle hans fjenders hånd og fra Sauls hånd.{E: Salmen står også – med ubetydelige afvigelser – i 2 Sam 22.}
 
 v2 Og han sagde:
 
 ==Lovprisning==
-Jeg elsker dig inderligt, JHVHv, min styrke!
+Jeg elsker dig inderligt, HERRE, min styrke!
 
-v3 JHVH er mit fjeld, min borg og min befrier,
+v3 HERREN er mit fjeld, min borg og min befrier,
 
 min Gud, min klippe, hvor jeg søger tilflugt,
 
 mit skjold og min frelses horn, min fæstning.
 
-v4 Jeg råber til JHVH, den lovpriste,
+v4 Jeg råber til HERREN, den lovpriste,
 
 og bliver frelst fra mine fjender.
 
@@ -32,7 +32,7 @@ v6 Dødsrigets bånd omgav mig,
 
 dødens snarer faldt over mig.
 
-v7 Da jeg var i nød, råbte{E: Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv} jeg til JHVH,
+v7 Da jeg var i nød, råbte{E: Imperfektiv skal oftest oversættes ved fremtid, men her må verberne oversættes som fortid i forlængelse af forudgående perfektiv} jeg til HERREN,
 
 jeg skreg til min Gud om hjælp.
 
@@ -69,7 +69,7 @@ v13 Fra glansen foran ham fór hans skyer af sted,{T: I stedet for *ʕāvᵊrû*
 
 hagl og glødende kul.
 
-v14 JHVH tordnede i himlen,
+v14 HERREN tordnede i himlen,
 
 den Højeste lod sin røst høre,
 
@@ -83,7 +83,7 @@ v16 Havets{T: Ordret: >>vandenes<< (*mayim*), men man vælger oftest med 2 Sam 2
 
 jordens grundvolde blottedes
 
-ved din trussel, JHVHv!
+ved din trussel, HERRE!
 
 ved din vredes ånde.
 
@@ -97,18 +97,18 @@ og fra dem der hader mig, for de var mig for stærke.
 
 v19 De overfaldt mig på min ulykkes dag,
 
-men JHVH var min støtte.
+men HERREN var min støtte.
 
 v20 Han førte mig ud i det åbne land,
 
 han frelste mig, for han holder af mig.
 
 ==Gud er den retfærdiges og den hjælpeløses hjælp==
-v21 JHVH belønnede mig efter min retfærdighed,
+v21 HERREN belønnede mig efter min retfærdighed,
 
 han gengældte mig efter mine hænders renhed.
 
-v22 For jeg har nøje fulgt JHVHs veje,
+v22 For jeg har nøje fulgt HERRENS veje,
 
 og jeg er ikke ved synd faldet fra min Gud.
 
@@ -120,7 +120,7 @@ v24 Jeg var retsindig for ham,
 
 og jeg vogtede mig for min synd.
 
-v25 JHVH gengældte mig efter min retfærdighed,
+v25 HERREN gengældte mig efter min retfærdighed,
 
 efter mine hænders renhed for hans øjne. 
 
@@ -138,7 +138,7 @@ men du ydmyger de stolte øjne.
 
 v29 Ja, du bringer min lampe til at lyse,
 
-JHVH, min Gud, oplyser mit mørke.
+HERREN, min Gud, oplyser mit mørke.
 
 v30 For ved din hjælp stormer jeg imod en skare,{E: Mange retter her *gᵊdûd*: >>(hær)skare<< til *gāder*: >>mur, vold<<, især ud fra parallellen i næste linje.}
 
@@ -146,12 +146,12 @@ og ved min Guds hjælp springer jeg over en mur.
 
 v31 Guds vej er fuldkommen,
 
-JHVHs tale er lutret,
+HERRENS tale er lutret,
 
 han er skjold for alle, som søger tilflugt hos ham. 
 
 ==Guds frelsende nærvær==
-v32 Ja, hvem er Gud, hvis ikke JHVH?
+v32 Ja, hvem er Gud, hvis ikke HERREN?
 
 Og hvem er en klippe, undtagen vor Gud?
 
@@ -216,7 +216,7 @@ v46 Fremmede børn synker udmattede sammen,
 de kommer skælvende frem fra deres borge.
 
 ==Lovprisning af den frelsende Gud==
-v47 JHVH lever! Velsignet er min klippe
+v47 HERREN lever! Velsignet er min klippe
 
 og højt ophøjet min frelses Gud!
 
@@ -230,7 +230,7 @@ du ophøjer mig over mine stolte modstandere,
 
 du redder mig fra voldsmanden.
 
-v50 Derfor vil jeg prise dig blandt folkeslagene,{T: Kan også oversættes: >>blandt hedninger<<, men det er næppe meningen her.} JHVHv!
+v50 Derfor vil jeg prise dig blandt folkeslagene,{T: Kan også oversættes: >>blandt hedninger<<, men det er næppe meningen her.} HERRE!
 
 dit navn vil jeg lovsynge.
 

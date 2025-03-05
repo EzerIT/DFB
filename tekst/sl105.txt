@@ -7,7 +7,7 @@
 ===Salme 105{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 104 i stedet være indledning til Sl 105}===
 
 ==Opfordring til lovsang==
-v1 Tak JHVH, udråb{E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.} hans navn,
+v1 Tak HERREN, udråb{E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.} hans navn,
 
 kundgør hans gerninger blandt folkene!
 
@@ -17,9 +17,9 @@ tal{E: Oversættelsen af verbet *śîḥû* på dette sted er omdiskuteret. Andr
 
 v3 Ros jer af hans hellige navn,{T: Ordret: >>hans helligheds navn<<.}
 
-deres hjerte som søger JHVH, skal glæde sig!
+deres hjerte som søger HERREN, skal glæde sig!
 
-v4 Spørg efter JHVH og hans magt,
+v4 Spørg efter HERREN og hans magt,
 
 søg altid hans ansigt!
 
@@ -32,7 +32,7 @@ v6 I efterkommere{T: Ordret: >>sæd<<.} af Abraham, hans tjener,{E: Septuaginta 
 I hans udvalgte{E: To håndskifter har singularis (>>den udvalgte<<) der da går på Jakob: >>I sønner af Jakob, hans udvalgte<<.} sønner af Jakob!
 
 ==Guds pagt og løfte==
-v7 Han er JHVH, vor Gud,
+v7 Han er HERREN, vor Gud,
 
 hans domme gælder over hele jorden.
 
@@ -85,7 +85,7 @@ jern gennemtrængte hans sjæl{E: Oversættelsen af linjen er omdiskuteret. Denn
 
 v19 indtil den tid da hans ord indtraf,
 
-JHVHs tale havde lutret ham.
+HERRENS tale havde lutret ham.
 
 v20 Kongen sendte bud og satte ham fri,
 

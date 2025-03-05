@@ -11,7 +11,7 @@
 v1 En salme af David, da han flygtede for sin søn Absalom.{T: Ordret: >>for sin søn Absaloms ansigt<<.}
 
 ==Davids nød==
-v2 JHVHv! hvor er mine fjender mange;
+v2 HERRE! hvor er mine fjender mange;
 
 mange rejser sig imod mig!
 
@@ -20,31 +20,31 @@ v3 Mange siger om mig:{T: Ordret: >>om min sjæl<<.}
 Der er ingen frelse for ham hos Gud. Sela{N: Sela}
 
 ==Davids håb og tillid==
-v4 Men du, JHVHv! er et skjold for mig, 
+v4 Men du, HERRE! er et skjold for mig, 
 
 min ære,{E: Med det bibelske ord *kᵊvôdî* er der ikke så meget tænkt på herlighed og højagtelse som på menneskeværd. Dvs. Gud er den der giver mig værdi som menneske. Grundbetydningen af roden *kbd* er >>tyngde<<.}
 
 den der løfter mit hoved.
 
-v5 Jeg råber højt til JHVH,{T: Ordret: >>Min stemme – jeg råber til JHVH<<.}
+v5 Jeg råber højt til HERREN,{T: Ordret: >>Min stemme – jeg råber til HERREN<<.}
 
 og han svarer mig fra sit hellige bjerg. Sela
 
 v6 Jeg lagde mig og sov;
 
-jeg vågnede, for JHVH støtter mig.
+jeg vågnede, for HERREN støtter mig.
 
 v7 Jeg vil ikke frygte for en skare på ti tusind{T: Ordet *ʕām* (>>folk/skare<<) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.}
 
 der har rejst sig imod mig fra alle sider.
 
 ==David beder om hjælp og nåde==
-v8 Rejs dig, JHVHv! frels mig, min Gud!
+v8 Rejs dig, HERRE! frels mig, min Gud!
 
 For du har slået alle mine fjender på kinden;
 
 de ugudeliges tænder har du knust.
 
-v9 Hos JHVH er frelsen.
+v9 Hos HERREN er frelsen.
 
 Lad din velsignelse være over dit folk!{E: Ordret blot: >>Over dit folk din velsignelse<<. Sætningen opfattes oftest som et velsignelsesønske, men den kan også oversættes: >>Din velsignelse er over dit folk!<<} Sela

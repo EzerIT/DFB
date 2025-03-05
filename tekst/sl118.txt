@@ -6,8 +6,8 @@
 
 ===Salme 118{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 117, som indledning til Sl 118.}===
 
-==Tak JHVH, for han er god==
-v1 Tak JHVH, for han er god,
+==Tak HERREN, for han er god==
+v1 Tak HERREN, for han er god,
 
 ja, hans nåde{N: nåde} varer til evig tid.
 
@@ -19,47 +19,47 @@ v3 Arons hus skal sige:
 
 >>Ja, hans nåde varer til evig tid.<<
 
-v4 De som frygter JHVH, skal sige:
+v4 De som frygter HERREN, skal sige:
 >>Ja, hans nåde varer til evig tid.<<
 
 ==Personlig takkesalme==
-v5 Fra trængslen råbte jeg til JHVH,{T: Guds navn står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
+v5 Fra trængslen råbte jeg til HERREN,{T: Guds navn står her og i næste linje i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}
 
-JHVH svarede mig ved at føre mig ud i åbent land.{T: Ordret blot: >>JHVH svarede mig ved åbent land<<.}
+HERREN svarede mig ved at føre mig ud i åbent land.{T: Ordret blot: >>HERREN svarede mig ved åbent land<<.}
 
-v6 JHVH er for mig, jeg vil ikke frygte,
+v6 HERREN er for mig, jeg vil ikke frygte,
 
 hvad kan et menneske gøre mig?
 
-v7 JHVH er for mig som min hjælper,{T: Grundtekstens ord er pluralis, der understreger styrken i hjælpen. En anden mulighed er dog at oversætte: >>JHVH er for mig blandt mine hjælpere<<.}
+v7 HERREN er for mig som min hjælper,{T: Grundtekstens ord er pluralis, der understreger styrken i hjælpen. En anden mulighed er dog at oversætte: >>HERREN er for mig blandt mine hjælpere<<.}
 
 og jeg skal se med fryd på dem som hader mig.
 
-v8 Det er bedre at søge tilflugt hos JHVH
+v8 Det er bedre at søge tilflugt hos HERREN
 
 end at stole på mennesket.
 
-v9 Det er bedre at søge tilflugt hos JHVH
+v9 Det er bedre at søge tilflugt hos HERREN
 
 end at stole på fyrster.
 
 v10 Alle folk{T: Kan også oversættes: >>hedninger<<; det kan give god mening her.} omringede mig,
 
-i JHVHs navn slog jeg dem ned.{E: Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: >>jeg lod dem omskære<<. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: >>i JHVHs navn værgede jeg mig imod dem<<.} 
+i HERRENS navn slog jeg dem ned.{E: Den præcise betydning af verbet her (og i de næste to vers) er usikker. Grundbetydningen er egentlig: >>jeg lod dem omskære<<. Men i sammenhængen giver omskærelse næppe mening. Verbet står i yiqtol, der oftest skal oversættes ved fremtid, men her angiver det den umiddelbare følge af foregående sætning. En anden mulig oversættelse er: >>i HERRENS navn værgede jeg mig imod dem<<.} 
 
 v11 De omringede mig, ja, de omringede mig,
 
-i JHVHs navn værgede jeg mig imod dem.
+i HERRENS navn værgede jeg mig imod dem.
 
 v12 De omringede mig som bier, de døde hen som ild i tjørnekrat,{E: Der er forsøgt forskellige rettelser til denne linje. Mange oversættere følger Septuaginta: >>de sværmede om mig som bier om voks, de brændte som ild i tjørnekrat<<. I så fald må: *dōʕᵃxû* (>>de døde hen/de blev slukket<<) rettes til: *dōnāg bāʕᵃrû*: >>voks, de brændte<<.}
 
-i JHVHs navn værgede jeg mig imod dem.
+i HERRENS navn værgede jeg mig imod dem.
 
 v13 Du stødte{E: I stedet for qal: *dᵊḥîtanî* (>>du stødte til mig<<) forudsætter Septuaginta og den syriske oversættelse nif’al: *nidḥêtî*: >>Jeg blev stødt<<. Denne læsemåde følges af de fleste oversættere. Meningen i den masoretiske tekst må være at Gud tugtede salmisten – andre foreslår dog at salmisten taler til sin modstander.} hårdt til mig for at jeg skulle falde,
 
-men JHVH hjalp mig.
+men HERREN hjalp mig.
 
-v14 JHVH{T: Guds navn står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.} er min styrke og min lovsang,{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.}
+v14 HERREN{T: Guds navn står her i kortformen: *yāh*. Jævnfør fodnote til v. 5.} er min styrke og min lovsang,{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Es 12,2, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.}
 
 og han blev mig til frelse.
 
@@ -67,26 +67,26 @@ v15 Der er{T: Der er ikke noget verbum i grundteksten i denne og næste linje. O
 
 i de retfærdiges telte:
 
->>JHVHs højre hånd handler med kraft,
+>>HERRENS højre hånd handler med kraft,
 
-v16 JHVHs højre hånd ophøjer,{E: *rômēmāʰ* (>>ophøjer<<) opfattes normalt som participium pilel af verbet *rwm* (<<være høj<<). Andre opfatter det dog som participium qal af et verbum: *rmm* med samme betydning, så der oversættes: >>er løftet<<.}
+v16 HERRENS højre hånd ophøjer,{E: *rômēmāʰ* (>>ophøjer<<) opfattes normalt som participium pilel af verbet *rwm* (<<være høj<<). Andre opfatter det dog som participium qal af et verbum: *rmm* med samme betydning, så der oversættes: >>er løftet<<.}
 
-JHVHs højre hånd handler med kraft.<<
+HERRENS højre hånd handler med kraft.<<
 
 v17 Jeg skal ikke dø, men jeg skal leve,
 
-og jeg skal fortælle om JHVHs{T: Guds navn står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.} gerninger.
+og jeg skal fortælle om HERRENS{T: Guds navn står her og i de næste to vers i kortformen: *yāh*. Jævnfør fodnote til v.5.} gerninger.
 
-v18 JHVH tugtede mig hårdt,
+v18 HERREN tugtede mig hårdt,
 
 men overgav mig ikke til døden.
 
 ==Ved templets port==
 v19 Åben retfærdigheds porte for mig,
 
-jeg vil gå ind ad dem, jeg vil takke JHVH!
+jeg vil gå ind ad dem, jeg vil takke HERREN!
 
-v20 Denne er porten til JHVH,{T: Kan også oversættes (og er traditionelt oversat): >>Dette er Herrens port<<.}
+v20 Denne er porten til HERREN,{T: Kan også oversættes (og er traditionelt oversat): >>Dette er Herrens port<<.}
 
 retfærdige kan gå ind ad den.
 
@@ -99,23 +99,23 @@ v22 Den sten bygmestrene forkastede,
 
 er blevet hovedhjørnesten.{T: Det er enten en sokkelsten der i et hjørne skal bære to mure, eller den sten der sidder øverst i buen over fx indgangsportalen og derved holder hele buen i det rette spænd (slutstenen).}
 
-v23 Fra JHVH er dette sket,
+v23 Fra HERREN er dette sket,
 
 det er underfuldt for vore øjne.
 
-v24 Denne er dagen som JHVH har skabt,
+v24 Denne er dagen som HERREN har skabt,
 
 lad os juble og glæde os på den!
 
-v25 Oh, JHVHv, frels dog!{T: >>Frels dog!<< hedder på hebraisk: *hôšîʕāʰ nnāˀ*.}
+v25 Oh, HERRE, frels dog!{T: >>Frels dog!<< hedder på hebraisk: *hôšîʕāʰ nnāˀ*.}
 
-Oh, JHVHv, lad det dog lykkes!
+Oh, HERRE, lad det dog lykkes!
 
-v26 Velsignet være han som kommer, i JHVHs navn!{E: Sprogligt kunne ordene: >>i JHVHs navn<< i stedet forbindes med verbet: >>han som kommer<<, så velsignelsen tilsiges den der kommer i tillid til >>JHVHs navn<< eller i JHVHs ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter >>JHVHs navn<< til velsignelsen.}
+v26 Velsignet være han som kommer, i HERRENS navn!{E: Sprogligt kunne ordene: >>i HERRENS navn<< i stedet forbindes med verbet: >>han som kommer<<, så velsignelsen tilsiges den der kommer i tillid til >>HERRENS navn<< eller i HERRENS ærinde. I så fald må man dog ændre accenterne i den masoretiske tekst, der på linje med 5 Mos 21,5; 2 Sam 6,18 knytter >>HERRENS navn<< til velsignelsen.}
 
-Vi velsigner{E: Qatal, der oftest skal oversættes ved fortid, er her brugt deklarativt.} jer fra JHVHs hus.
+Vi velsigner{E: Qatal, der oftest skal oversættes ved fortid, er her brugt deklarativt.} jer fra HERRENS hus.
 
-v27 JHVH er Gud, og han lod det lysne for os.{E: Nogle oversættere retter – med et enkelt håndskrift - *wayyāʔer* (>>og han lod det lysne<<) til: *yāʔēr*: >>Lad det lysne!<<}
+v27 HERREN er Gud, og han lod det lysne for os.{E: Nogle oversættere retter – med et enkelt håndskrift - *wayyāʔer* (>>og han lod det lysne<<) til: *yāʔēr*: >>Lad det lysne!<<}
 
 Bind festofferet med reb{E: Oversættelsen er meget usikker. På hebraisk består linjen af tre ord der alle forekommer en del andre steder i GT, hvor der ikke er tvivl om hvad de betyder. Men sammenstillingen her er ualmindelig. Ordret umiddelbart blot: >>Bind fest med reb<<.
 *ḥag* betyder egentlig blot: >>fest<<. Det må formodentlig forstås som enten >>festoffer<< eller: >>festprocession<<. Den sidste betydning er dog ikke påvist andre steder i GT.
@@ -128,7 +128,7 @@ v28 Du er min Gud, og jeg vil takke dig,
 
 min Gud, jeg vil ophøje dig.
 
-v29 Tak JHVH, for han er god,
+v29 Tak HERREN, for han er god,
 
 ja, hans nåde{N: nåde} varer til evig tid.
 

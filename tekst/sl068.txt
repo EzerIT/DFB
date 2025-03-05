@@ -32,7 +32,7 @@ v5 Syng for Gud, lovsyng hans navn,
 
 ban vej for{E: Andre oversætter det forholdsvis sjældne verbum: >>Ophøj<<. Det kan støttes af at objektet >>vej<< ikke står i grundteksten, men må underforstås som objekt for verbet.} ham som rider frem på stepperne;{E: *ʕᵃrāvôt* kan betegne >>steppeørkner<<. Det er ofte blevet oversat >>ørken<<, men det er betegnelse for områder med vegetation. På baggrund af paralleludtryk i ugaritiske tekster om guden Ba’al som den der rider på skyerne, retter man nu ofte til *ʕāvôt*: >>skyer<<.}
 
-JHVH{E: Sætningen *bᵊyāh šᵊmô* betyder ordret: >>I Jah er hans navn<<. Kortformen >>Jah<< for >>Jahve<< findes en del steder i poetiske tekster. Sætningen må betyde at Guds væsen finder udtryk i hans navn (2 Mos 3,24). Sætningen er dog i alle tilfælde speciel og knudret. Blandt rettelsesforslagene er især enten at slette *bᵊ* (>>i<<) eller at læse: *kî yāh šᵊmô*: >>for Jah er hans navn<<.} er hans navn,
+HERREN{E: Sætningen *bᵊyāh šᵊmô* betyder ordret: >>I Jah er hans navn<<. Kortformen >>Jah<< for >>Jahve<< findes en del steder i poetiske tekster. Sætningen må betyde at Guds væsen finder udtryk i hans navn (2 Mos 3,24). Sætningen er dog i alle tilfælde speciel og knudret. Blandt rettelsesforslagene er især enten at slette *bᵊ* (>>i<<) eller at læse: *kî yāh šᵊmô*: >>for Jah er hans navn<<.} er hans navn,
 
 og fryd jer for hans ansigt.
 
@@ -94,7 +94,7 @@ v17 Hvorfor skuler I bjerge med tinder
 
 til det bjerg som Gud har ønsket som sit sæde?
 
-Ja, JHVH vil bo der for evigt.
+Ja, HERREN vil bo der for evigt.
 
 v18 Guds stridsvogne er to gange ti tusind,{E: Ordet *ribbôʔ* (>>ti tusind<<) står i dualis der enten kan angive >>to gange ti tusind<< eller >>ti tusind gange ti tusind<<.}
 
@@ -110,7 +110,7 @@ du tog imod gaver hos mennesker{T: Grundteksten har singularis *bāʔādām*: >>
 
 og endog hos genstridige
 
-for at trone, JHVHv,{T: Grundteksten har kortformen *yāh*.} Gud!{E: Andre opfatter de to linjer som hørende sammen således: >>og endog hos dem som gør oprør mod at JHVH Gud slår sig ned<<.}
+for at trone, HERRE,{T: Grundteksten har kortformen *yāh*.} Gud!{E: Andre opfatter de to linjer som hørende sammen således: >>og endog hos dem som gør oprør mod at HERREN Gud slår sig ned<<.}
 
 ==Gud er vor frelse==
 v20 Lovet være Herren dag efter dag!{E: Det er usikkert om >>dag efter dag<< skal høre til denne linje eller indlede den næste (>>dag efter dag vil han bære os<<).}
@@ -119,7 +119,7 @@ Han vil bære os, Gud er vor frelse. Sela
 
 v21 Gud er for os en Gud til frelse,
 
-og for JHVH, Herren, er der udveje fra døden.
+og for HERREN, Herren, er der udveje fra døden.
 
 v22 Ja, Gud skal knuse sine fjenders hoved,
 
@@ -144,7 +144,7 @@ imellem unge piger som spillede på pauke.
 
 v27 Pris{T: Kan også oversættes: >>velsign<<.} Gud i forsamlinger,
 
-JHVH, Israels kilde!{E: Ordret: >>fra Israels kilde<<. Hvis teksten er rigtig, kan den eventuelt parafraseres: >>Pris Gud … alle I, som er fra Israels kilde<<. Men oftest går man ud fra at der er et *m* for meget i konsonantteksten: *mmqwr*, repræsenterende præpositionen >>fra<<.}
+HERREN, Israels kilde!{E: Ordret: >>fra Israels kilde<<. Hvis teksten er rigtig, kan den eventuelt parafraseres: >>Pris Gud … alle I, som er fra Israels kilde<<. Men oftest går man ud fra at der er et *m* for meget i konsonantteksten: *mmqwr*, repræsenterende præpositionen >>fra<<.}
 
 v28 Dér er Benjamin, ung,{T: Kan også oversættes: >>ringe<<.} deres hersker,{E: Ordet *rōdēm* (>>deres hersker<<) er omstridt. Det afledes oftest af roden *rdh*: >>herske, føre an<<. Andre afleder det af *rdm*, der i nif’al betyder: >>falde i dyb søvn/være bedøvet<< og oversætter: >>Dér er Benjamin, ung, i ekstase<<.}
 

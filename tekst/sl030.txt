@@ -11,20 +11,20 @@
 //0 v1 Salme, en sang ved husets{T: Formodentlig templets.} indvielse, //1 af David. 
 
 ==Lovprisning for frelse fra døden==
-//0 v2 Jeg vil ophøje dig, //3 JHVHv, //2 for du har trukket mig op,{T: Som man trækker en spand op fra brøndens dyb.}
+//0 v2 Jeg vil ophøje dig, //3 HERRE, //2 for du har trukket mig op,{T: Som man trækker en spand op fra brøndens dyb.}
 
 //3 og du lod ikke mine fjender glæde sig over mig.
 
-//1 v3 JHVHv, min Gud,
+//1 v3 HERRE, min Gud,
 
 //3 jeg råbte til dig om hjælp, //2 og du helbredte mig.
 
-//1 v4 JHVHv, //2 du løftede min sjæl op fra dødsriget,
+//1 v4 HERRE, //2 du løftede min sjæl op fra dødsriget,
 
 //5 du gav mig livet tilbage fra dem //6 som gik ned i graven.{E: Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: >>Du lod mig leve, så jeg ikke gik i graven<<.}
 
 ==Hele menigheden opfordres til at istemme lovsang==
-//4 v5 Lovsyng JHVH, //7 I hans fromme,
+//4 v5 Lovsyng HERREN, //7 I hans fromme,
 
 //6 og pris hans hellige navn.{T: Ordret nærmere: >>ihukommelse / minde<<. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af >>navn<<.}
 
@@ -41,11 +41,11 @@
 
 //4 >>Jeg skal ikke vakle i evighed<<.
 
-//1 v8 JHVHv, //4 ved din gunst har du givet mit bjerg{T: Dvs. mit rige og min kongemagt.} styrke.{E: Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.}
+//1 v8 HERRE, //4 ved din gunst har du givet mit bjerg{T: Dvs. mit rige og min kongemagt.} styrke.{E: Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.}
 
 //5 Du skjulte dit ansigt, //6 jeg blev forfærdet.
 
-//3 v9 Til dig, //8 JHVHv, //7 vil jeg råbe,
+//3 v9 Til dig, //8 HERRE, //7 vil jeg råbe,
 
 //6 og Herren vil jeg bønfalde om nåde.
 
@@ -57,9 +57,9 @@
 
 //7 Kan det forkynde din troskab?
 
-//4 v11 Hør, //7 JHVHv, //6 og vær mig nådig,
+//4 v11 Hør, //7 HERRE, //6 og vær mig nådig,
 
-//5 JHVHv, //6 vær min hjælper!
+//5 HERRE, //6 vær min hjælper!
 
 ==Afsluttende lovprisning==
 //2 v12 Du har forvandlet min klage til dans for mig,
@@ -70,4 +70,4 @@
 
 //4 v13 for at min ære{E: Ordret blot >>ære<<. Normalt tilføjer man med Septuaginta >>min<<. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.} må lovsynge dig //5 og ikke tie.
 
-//1 JHVHv, min Gud, //2 for evigt vil jeg takke dig.
+//1 HERRE, min Gud, //2 for evigt vil jeg takke dig.

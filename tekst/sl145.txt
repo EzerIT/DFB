@@ -4,7 +4,7 @@
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Dato for denne version: 22.05.2023>!!
 
-===Salme 145{E: Salmen er alfabetisk så første vers begynder med alfabetets første bogstav, andet vers med det andet osv. Der mangler dog et vers med bogstavet >>nun<<; det skulle stå mellem v. 13 og v. 14. Det findes imidlertid i et enkelt håndskrift og i Septuaginta og den gamle syriske oversættelse hvor det lyder: >>Trofast er JHVH på alle sine veje, nådig i alle sine gerninger<<. Bortset fra første ord (*neʔᵉmān*: >>trofast<<), er det ordret i grundteksten enslydende med v. 17, der indledes med *ṣaddîq* (>>retfærdig<<). Strofen passer godt ind i sammenhængen, men det er lidt mistænkeligt at den ligner v. 17 så meget.}===
+===Salme 145{E: Salmen er alfabetisk så første vers begynder med alfabetets første bogstav, andet vers med det andet osv. Der mangler dog et vers med bogstavet >>nun<<; det skulle stå mellem v. 13 og v. 14. Det findes imidlertid i et enkelt håndskrift og i Septuaginta og den gamle syriske oversættelse hvor det lyder: >>Trofast er HERREN på alle sine veje, nådig i alle sine gerninger<<. Bortset fra første ord (*neʔᵉmān*: >>trofast<<), er det ordret i grundteksten enslydende med v. 17, der indledes med *ṣaddîq* (>>retfærdig<<). Strofen passer godt ind i sammenhængen, men det er lidt mistænkeligt at den ligner v. 17 så meget.}===
 
 ==Overskrift==
 v1 Lovsang af David.
@@ -18,7 +18,7 @@ v2 Hver dag vil jeg prise dig,
 
 og jeg vil lovprise dit navn evigt og altid.
 
-v3 JHVH er stor og højt lovprist,
+v3 HERREN er stor og højt lovprist,
 
 og hans storhed kan ikke udforskes.
 
@@ -39,9 +39,9 @@ v7 De skal udbrede mindet om din store godhed
 
 og jublende prise din retfærdighed.
 
-v8 JHVH er nådig og barmhjertig, sen til vrede{T: Oversættes også: >>langmodig<<.} og rig på nåde{N: nåde}.
+v8 HERREN er nådig og barmhjertig, sen til vrede{T: Oversættes også: >>langmodig<<.} og rig på nåde{N: nåde}.
  
-v9 JHVH er god mod alle,
+v9 HERREN er god mod alle,
 
 og hans barmhjertighed er over alle hans skabninger.
 
@@ -62,7 +62,7 @@ v13 Dit kongedømme er al evigheds kongedømme,
 
 og dit herredømme varer i hver slægt efter slægt.{E: Se note til salmens nummer.}
 
-v14 JHVH støtter alle som falder,
+v14 HERREN støtter alle som falder,
 
 og rejser alle nedbøjede.
 
@@ -74,11 +74,11 @@ v16 Du åbner din hånd
 
 og mætter alt levende med velbehag,{T: Oversættes ofte, let omskrivende: >>med hvad det ønsker<<.}
 
-v17 Retfærdig er JHVH på alle sine veje,
+v17 Retfærdig er HERREN på alle sine veje,
 
 nådig i alle sine gerninger.
  
-v18 Nær er JHVH hos alle som kalder på ham,
+v18 Nær er HERREN hos alle som kalder på ham,
 
 hos alle som kalder på ham i oprigtighed.{T: Kan også oversættes: >>i sandhed<<.}
 
@@ -91,7 +91,7 @@ v20 Herren beskytter alle dem som elsker ham,
 men alle de ugudelige udrydder han.
 
 ==Afslutning==
-v21 Min mund skal udsige JHVHs pris,
+v21 Min mund skal udsige HERRENS pris,
 
 og alt kød skal prise{T: Kan også oversættes: >>velsigne<<.} hans hellige navn
 

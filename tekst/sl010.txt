@@ -8,7 +8,7 @@
 ===Salme 10{E: Salmen er uden overskrift. Sl 9 og 10 regnes ofte for én salme. De er begge alfabetiske, Sl 9 når halvt gennem alfabetet, og Sl 10 gennem den anden halvdel, dog med en del uregelmæssigheder.}===
 
 ==Klage over de ugudeliges ondskab og magt==
-v1 Hvorfor, JHVHv, står du så langt borte?
+v1 Hvorfor, HERRE, står du så langt borte?
 
 Hvorfor{T: >>Hvorfor<< er underforstået fra første halvvers.} skjuler du dig i trængselstider?
 
@@ -18,7 +18,7 @@ de{T: hjælpeløse.} vil blive fanget i de rænker disse{T: ugudelige.} har udt�
 
 v3 For den ugudelige jublede over sin sjæls ønske{T: Her i betydningen: >>begær<<},
 
-og bedrageren forbandede og foragtede JHVH{E: Sætningen er omdiskuteret. Andre oversætter: >>og bedrageren velsignede/roste han, men foragtede JHVH<<. Verbet *brk* betyder i de allerfleste sammenhænge >>velsigne/prise/rose<<, men enkelte steder er det opfattet ironisk så det må oversættes: >>forbande<<. Jødiske lærde har ment at de to sidste ord i v.3 (>>JHVH foragtede han<<) skal høre til v.4: >>Den ugudelige hånede JHVH i sit hovmod<<.}.
+og bedrageren forbandede og foragtede HERREN{E: Sætningen er omdiskuteret. Andre oversætter: >>og bedrageren velsignede/roste han, men foragtede HERREN<<. Verbet *brk* betyder i de allerfleste sammenhænge >>velsigne/prise/rose<<, men enkelte steder er det opfattet ironisk så det må oversættes: >>forbande<<. Jødiske lærde har ment at de to sidste ord i v.3 (>>HERREN foragtede han<<) skal høre til v.4: >>Den ugudelige hånede HERREN i sit hovmod<<.}.
 
 v4 Den ugudelige tænker{T: >>Tænker<< står ikke i grundteksten, men er underforstået i sammenhængen.} i sit hovmod{T: Ordret: >>efter sin næses højde<<.}:
 
@@ -61,7 +61,7 @@ v11 Han siger i sit hjerte: >>Gud har glemt det,
 han har skjult sit ansigt, han ser det ikke i evighed<<.
 
 ==Bøn om Guds indgreb==
-v12 Rejs dig, JHVHv! Gud, løft din hånd,
+v12 Rejs dig, HERRE! Gud, løft din hånd,
 
 glem ikke de elendige!
 
@@ -81,11 +81,11 @@ v15 Bræk den ugudeliges arm,
 
 og kræv den onde til regnskab for hans ugudelighed så du ikke finder den længere{E: Versets to sidste ord (*val-timṣāˀ*) er vanskelige i sammenhængen: >>så du ikke finder den<<. Der må underforstås et >>længere<<. Andre forstår *val* som >>visselig<< (>>du skal visselig finde den<<). Atter andre vokaliserer: *val-jimmāṣeˀ*: >>så den ikke skal findes<<.}.
 
-v16 JHVH er konge for evigt og altid,
+v16 HERREN er konge for evigt og altid,
 
 folkeslag{T: Kan også oversættes >>hedningefolk<<.} blev udryddet af hans land.
 
-v17 Du har hørt de ydmyges ønske, JHVHv,
+v17 Du har hørt de ydmyges ønske, HERRE,
 
 du styrker deres hjerte, dit øre lytter opmærksomt
  

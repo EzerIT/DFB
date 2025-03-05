@@ -9,9 +9,9 @@
 
 v1 En salme af David.
 
-==David lovpriser JHVH, som er herre over alle ting==
+==David lovpriser HERREN, som er herre over alle ting==
 
-JHVHs er jorden og dens fylde,
+HERRENS er jorden og dens fylde,
 
 verden{T: Der er især tænkt på det dyrkede land} og dens beboere.
  
@@ -21,7 +21,7 @@ gjorde den fast på strømmene{T: I det gammeltestamentlige verdensbillede (kosm
 
 ==Betingelsen for at et menneske kan træde ind i Guds tempel==
 
-v3 Hvem kan gå op på JHVHs bjerg?
+v3 Hvem kan gå op på HERRENS bjerg?
 
 Hvem kan stå på hans hellige sted?
 
@@ -31,7 +31,7 @@ den som ikke har rettet sin sjæl mod falskhed
 
 og ikke har svoret bedragerisk.
 
-v5 Han skal få velsignelse fra JHVH;
+v5 Han skal få velsignelse fra HERREN;
 
 retfærdighed fra sin frelses Gud.
 
@@ -39,7 +39,7 @@ v6 Dette er den slægt som spørger efter ham,
 
 de som søger dit ansigt, Jakobs Gud{E: Oversættelsen er usikker, for ordet >>Gud<< mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: >>de som søger dit ansigt, er Jakob<<. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)}. Sela{N: Sela}
 
-==JHVH holder sejrrigt indtog i helligdommen==
+==HERREN holder sejrrigt indtog i helligdommen==
 
 v7 Løft, I porte, jeres hoveder;
 
@@ -49,9 +49,9 @@ så ærens konge kan drage ind!
 
 v8 Hvem er denne ærens konge?
 
-JHVH, stærk og mægtig,
+HERREN, stærk og mægtig,
 
-JHVH, mægtig i krig.
+HERREN, mægtig i krig.
 
 v9 Løft, I porte, jeres hoveder;
 
@@ -61,6 +61,6 @@ så ærens konge kan drage ind!
 
 v10 Hvem er han, den ærens konge?
 
-Hærskarers {T: I ældre tid oversat: >>Zebaoth<<.} JHVHv,
+Hærskarers {T: I ældre tid oversat: >>Zebaoth<<.} HERRE,
 
 han er ærens konge! Sela

@@ -9,12 +9,12 @@
 ==Overskrift==
 v1 Valfartssang.{E: Se note til Sl 120,1.} Af David.
 
-==Hvis ikke JHVH havde været med os==
-Hvis ikke JHVH havde været med os{T: Sætningen kan også oversættes: >>Hvis ikke det var JHVH, der havde været med os<<.}
+==Hvis ikke HERREN havde været med os==
+Hvis ikke HERREN havde været med os{T: Sætningen kan også oversættes: >>Hvis ikke det var HERREN, der havde været med os<<.}
 
 – sådan skal Israel sige –
 
-v2 hvis ikke JHVH havde været med os,
+v2 hvis ikke HERREN havde været med os,
 
 dengang mennesker{T: Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.} rejste sig mod os,
 
@@ -30,8 +30,8 @@ v5 så var de gået over vor hals,
 
 de brusende vande!
 
-==Lovet være JHVH som var med os==
-v6 Lovet{T: Kan også oversættes: >>velsignet<<.} være JHVH
+==Lovet være HERREN som var med os==
+v6 Lovet{T: Kan også oversættes: >>velsignet<<.} være HERREN
 
 som ikke gav os til bytte for deres tænder!
 
@@ -43,7 +43,7 @@ Fælden blev knust,
 
 og vi undslap.
 
-v8 Vor hjælp er i JHVHs navn,
+v8 Vor hjælp er i HERRENS navn,
 
 hans som skabte himmel og jord.
 

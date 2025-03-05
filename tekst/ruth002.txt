@@ -26,9 +26,9 @@
 //3 v4 Og se,
 //4 netop da kom Boaz fra Betlehem,
 //5 og han hilste høstfolkene:
-//7 >>JHVH være med jer!<<
+//7 >>HERREN være med jer!<<
 //6 De svarede ham:
-//7 >>JHVH velsigne dig!<<
+//7 >>HERREN velsigne dig!<<
 //2 v5 Boaz sagde til den unge karl
 //5 som var sat over høstfolkene:
 //4 >>Hvem er den unge kvinde?<<
@@ -73,8 +73,8 @@
 //8 At du har forladt din far og din mor og dit fædreland
 //8 og er taget til et folk
 //9 som du ikke tidligere kendte til.
-//6 v12 Må JHVH belønne dig for din gode gerning,
-//7 og må du få fuld løn fra JHVH Israels Gud,
+//6 v12 Må HERREN belønne dig for din gode gerning,
+//7 og må du få fuld løn fra HERREN Israels Gud,
 //8 til hvem du er kommet
 //9 for at søge beskyttelse{T: Ordret >>søge ly under hans vinger<<.}!<<
 //4 v13 Hun sagde:
@@ -129,7 +129,7 @@
 //7 som jeg har været hos i dag,
 //6 hedder Boaz.<<
 //3 v20 No'omi sagde til sin svigerdatter:
-//4 >>Må han blive velsignet af JHVH
+//4 >>Må han blive velsignet af HERREN
 //5 som ikke har svigtet sin trofasthed{N: Nåde.}{H: Ruth 1,8} mod de levende eller de døde.<<
 //3 Og No'omi tilføjede:
 //4 >>Den mand er en slægtning til os.

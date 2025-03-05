@@ -7,15 +7,15 @@
 ===Salme 94===
 
 ==Kollektiv klage==
-v1 Du hævnens{T: Både her og i næste linje står grundtekstens ord for >>hævn<< i pluralis, der formodentlig skal understrege styrken i Guds hævn.} Gud, JHVHv,
+v1 Du hævnens{T: Både her og i næste linje står grundtekstens ord for >>hævn<< i pluralis, der formodentlig skal understrege styrken i Guds hævn.} Gud, HERRE,
 
-du hævnens Gud, træd frem i stråleglans!{E: Verbet: *hôfîaʕ* kan også opfattes som hif’il perfektum: >>er trådt frem i stråleglans<<. I så fald kan oversættelsen lyde: >>Hævnens Gud, JHVH, hævnens Gud, er trådt frem i stråleglans!<<}
+du hævnens Gud, træd frem i stråleglans!{E: Verbet: *hôfîaʕ* kan også opfattes som hif’il perfektum: >>er trådt frem i stråleglans<<. I så fald kan oversættelsen lyde: >>Hævnens Gud, HERREN, hævnens Gud, er trådt frem i stråleglans!<<}
 
 v2 Rejs dig, du jordens dommer,
 
 gengæld hovmodige deres handling.{T: Ordret: >>bring handling tilbage over hovmodige<<.}
 
-v3 Hvor længe skal ugudelige, JHVHv,
+v3 Hvor længe skal ugudelige, HERRE,
 
 hvor længe skal ugudelige juble? 
 
@@ -23,7 +23,7 @@ v4 De raser, de taler frækt,
 
 alle der begår synd, praler.
 
-v5 De knuser dit folk, JHVHv,
+v5 De knuser dit folk, HERRE,
 
 og undertrykker din arv.
 
@@ -31,7 +31,7 @@ v6 Enke og fremmed dræber de
 
 og myrder faderløse.
 
-v7 Og de siger: >>JHVH{T: Grundteksten har kortformen: *yāh* (>>Jah<<), der findes en del steder i poetiske tekster.} ser det ikke,
+v7 Og de siger: >>HERREN{T: Grundteksten har kortformen: *yāh* (>>Jah<<), der findes en del steder i poetiske tekster.} ser det ikke,
 
 og Jakobs Gud bemærker det ikke.<<
 
@@ -48,12 +48,12 @@ v10 Han som opdrager folkeslag, mon han ikke kan straffe?
 
 Han som lærer et menneske kundskab!{E: Det er omdiskuteret om denne sætning skal afsluttes med et spørgsmålstegn, eller om sætningen: >>mon han ikke kan straffe?<< skal regnes som underforstået som eftersætning her. Nogle fortolkere mener også at der må være faldet et *m* (>>uden<<) ud i versets sidste ord: *dāʕat* (>>kundskab<<, så der skal stå: *middāʕat*: >>(skulle han, som lærer et menneske,) være uden kundskab?<<.}
 
-v11 JHVH kender et menneskes tanker,
+v11 HERREN kender et menneskes tanker,
 
 for de er vindpust.{E: Det er mennesker, ikke tankerne, der betegnes som et vindpust, fuldstændig gennemskuelige for Gud.}
 
 ==Opmuntring til de fromme==
-v12 Salig er den mand som du, JHVH, {T: Grundteksten har kortformen: *yāh* (>>Jah<<), der findes en del steder i poetiske tekster.} opdrager,
+v12 Salig er den mand som du, HERREN, {T: Grundteksten har kortformen: *yāh* (>>Jah<<), der findes en del steder i poetiske tekster.} opdrager,
 
 og den du underviser efter din lov{N: lov}
 
@@ -61,7 +61,7 @@ v13 for at skaffe ham ro for onde dage,
 
 indtil der bliver gravet en grav for den ugudelige.
 
-v14 For JHVH vil ikke forstøde sit folk
+v14 For HERREN vil ikke forstøde sit folk
 
 og ikke forlade sin arv.
 
@@ -74,13 +74,13 @@ v16 Hvem står op for mig imod onde?
 
 Hvem står mig bi imod dem som udøver synd?
 
-v17 Hvis ikke JHVH havde været en hjælp for mig,
+v17 Hvis ikke HERREN havde været en hjælp for mig,
 
 havde min sjæl næsten boet i stilhed.{T: Det er betegnelse for dødsriget.}
 
 v18 Hvis jeg sagde: >>Min fod vaklede,<<
 
-støttede din trofasthed{T: Kan også oversættes: >>nåde<<.} mig, JHVHv.
+støttede din trofasthed{T: Kan også oversættes: >>nåde<<.} mig, HERRE.
 
 v19 Da jeg havde mange bekymringer i mit inderste,
 
@@ -94,7 +94,7 @@ v21 De angriber en retfærdigs sjæl,
 
 og de dømmer uskyldigt blod skyldigt.
 
-v22 Men JHVH blev en fæstning for mig,
+v22 Men HERREN blev en fæstning for mig,
 
 og min Gud blev min tilflugtsklippe.
 
@@ -102,7 +102,7 @@ v23 Han vil lade deres synd vende tilbage over dem selv
 
 og vil udslette dem i deres ondskab.
 
-JHVH, vor Gud, vil udslette dem.
+HERREN, vor Gud, vil udslette dem.
 
 
 

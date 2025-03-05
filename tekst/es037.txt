@@ -6,13 +6,13 @@
 ===Esajas' Bog, kapitel 37===
 
 ==Hizkija søger hjælp hos Esajas==
-v1 Og det skete da kong Hizkija hørte det, så flængede han sit tøj, klædte sig{T: Ordret: >>tilhyllede sig<<.} i sæk og gik ind i JHVHs hus.
+v1 Og det skete da kong Hizkija hørte det, så flængede han sit tøj, klædte sig{T: Ordret: >>tilhyllede sig<<.} i sæk og gik ind i HERRENS hus.
 v2 Og han sendte Eljakim, der var hofchef, og Sebna, skriveren, og præsternes ældste, der havde klædt sig i sæk, til profeten Esajas, Amos’ søn.
 v3 Og de sagde til ham: >>Sådan siger Hizkija: Denne dag er nødens og tugtens og vanærens dag; for der er kommet børn frem til livmodermunden, men der er ingen kraft til fødsel.
-v4 Måske JHVH din Gud vil høre ordene fra kommandanten,{T: Se til 36,1.} som hans herre, Assyriens konge, sendte for at håne den levende Gud, og han vil tugte ham for de ord, som JHVH din Gud har hørt; så bed{T: Ordret: >>løft<<.} en bøn for den rest der er blevet tilbage.<<
+v4 Måske HERREN din Gud vil høre ordene fra kommandanten,{T: Se til 36,1.} som hans herre, Assyriens konge, sendte for at håne den levende Gud, og han vil tugte ham for de ord, som HERREN din Gud har hørt; så bed{T: Ordret: >>løft<<.} en bøn for den rest der er blevet tilbage.<<
 ***
 v5 Så kong Hizkijas tjenere kom til Esajas, 
-v6 og Esajas sagde til dem: >>Sådan skal I sige til jeres herre: Sådan siger JHVH: Frygt ikke for de ord som du hørte, dem som Assyriens konges tjenere hånede mig med.
+v6 og Esajas sagde til dem: >>Sådan skal I sige til jeres herre: Sådan siger HERREN: Frygt ikke for de ord som du hørte, dem som Assyriens konges tjenere hånede mig med.
 v7 Se, jeg vil indgive ham en ånd, og han skal høre en efterretning og tage tilbage til sit land, og jeg vil lade ham falde for sværdet i hans land.<<
 
 ==Nye trusler==
@@ -24,17 +24,17 @@ v12 Har folkenes{T: Kan også oversættes: >>hedningernes<<.} guder reddet dem s
 v13 Hvor er Hamats konge og Arpads konge og kongen over Sefarvajims by og af Hena og Ivva?<<
 
 ==Hizkijas bøn==
-v14 Og Hizkija modtog brevet{T: Det hebraiske ord står i pluralis, men det må formodentlig opfattes som understregning af hvor vigtigt brevet var, medmindre man vil følge Septuaginta og rette til singularis.} af sendebudenes hånd og læste det; og han gik op i JHVHs hus, og Hizkija bredte det ud for JHVHs ansigt.
-v15 Hizkija bad til JHVH og sagde:  
+v14 Og Hizkija modtog brevet{T: Det hebraiske ord står i pluralis, men det må formodentlig opfattes som understregning af hvor vigtigt brevet var, medmindre man vil følge Septuaginta og rette til singularis.} af sendebudenes hånd og læste det; og han gik op i HERRENS hus, og Hizkija bredte det ud for HERRENS ansigt.
+v15 Hizkija bad til HERREN og sagde:  
 v16 >>Hærskarers HERRE{N: Hærskarers}, Israels Gud, som troner over keruberne! Kun du alene er Gud over alle jordens kongeriger; du har skabt himlen og jorden.
-v17 Bøj, JHVH, dit øre og hør! Åbn, JHVH, dine øjne og se! Og hør alle Sankeribs ord som han har sendt for at håne den levende Gud.
-v18 I sandhed, JHVH: Assyriens konger har ødelagt alle landene{E: Enkelte håndskrifter har ikke: *hāˀᵃrāṣôt* (>>landene<<), men *haggôyim*: >>folkene<<, jf. parallellen i 2 Kong 19,17.} og deres land.{T: Sætningen kan også oversættes: >>Assyriens konger har lagt alle nationer og deres land øde<<. Det er dog samme hebraiske ord, der oversættes: >>nation<< og >>land<<.}
+v17 Bøj, HERREN, dit øre og hør! Åbn, HERREN, dine øjne og se! Og hør alle Sankeribs ord som han har sendt for at håne den levende Gud.
+v18 I sandhed, HERREN: Assyriens konger har ødelagt alle landene{E: Enkelte håndskrifter har ikke: *hāˀᵃrāṣôt* (>>landene<<), men *haggôyim*: >>folkene<<, jf. parallellen i 2 Kong 19,17.} og deres land.{T: Sætningen kan også oversættes: >>Assyriens konger har lagt alle nationer og deres land øde<<. Det er dog samme hebraiske ord, der oversættes: >>nation<< og >>land<<.}
 v19 Og de har overgivet deres guder til ilden, for de var ikke guder, men menneskehænders værk, træ og sten, og de tilintetgjorde dem.
-v20 Men nu, JHVH vor Gud! Frels os fra hans hånd, så alle jordens kongeriger må forstå at du er JHVH, du alene.<<
+v20 Men nu, HERREN vor Gud! Frels os fra hans hånd, så alle jordens kongeriger må forstå at du er HERREN, du alene.<<
 
 ==Profeti mod Sankerib==
-v21 Så sendte Esajas, Amos’ søn, bud til Hizkija og lod sige: >>Sådan siger JHVH, Israels Gud: Da du har bedt til mig angående Sankerib, Assyriens konge,
-v22 er dette det ord som JHVH har taler imod ham: 
+v21 Så sendte Esajas, Amos’ søn, bud til Hizkija og lod sige: >>Sådan siger HERREN, Israels Gud: Da du har bedt til mig angående Sankerib, Assyriens konge,
+v22 er dette det ord som HERREN har taler imod ham: 
 
 Hun foragter dig, hun spotter dig,
 
@@ -52,7 +52,7 @@ Du har løftet dine øjne højt
 
 mod Israels Hellige!
 
-v24 Gennem dine tjenere spottede du JHVH
+v24 Gennem dine tjenere spottede du HERREN
 
 og sagde: >Med mit store antal vogne 
 
@@ -141,7 +141,7 @@ og undslupne fra Zions bjerg.
 
 Hærskarers HERRES{N: Hærskarers} nidkærhed skal gøre dette.
 
-v33 Derfor siger JHVH sådan om Assyriens konge: 
+v33 Derfor siger HERREN sådan om Assyriens konge: 
 
 Han skal ikke komme ind i denne by 
 
@@ -157,7 +157,7 @@ skal han vende tilbage
 
 og ikke komme ind i denne by, 
 
-lyder JHVHs udsagn.
+lyder HERRENS udsagn.
 
 v35 Men jeg beskytter denne by for at frelse den, 
 
@@ -165,7 +165,7 @@ for min skyld og for Davids, min tjeners, skyld.<<
 
 ***
 
-v36 Så gik JHVHs engel ud og dræbte 185.000 mand i Assyriens lejr; og da man stod op tidligt om morgenen, se, da var de alle døde kroppe.
+v36 Så gik HERRENS engel ud og dræbte 185.000 mand i Assyriens lejr; og da man stod op tidligt om morgenen, se, da var de alle døde kroppe.
 v37 Så brød Sankerib, Assyriens konge, op og tog afsted og vendte tilbage, og han blev i Nineve.
 v38 Og det skete mens han tilbad i sin gud Nisroks hus, at hans sønner, Adramelek og Sarezer, dræbte ham med sværd, og de undslap til Ararats land, og hans søn Asarhaddon blev konge i hans sted.
 

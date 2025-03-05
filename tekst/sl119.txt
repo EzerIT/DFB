@@ -9,7 +9,7 @@
 ==I.==
 v1 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de hvis færd{T: Ordret: >>vej<<.} er udadlelig,
 
-de som vandrer efter{T: Ordret: >>i<<.} JHVHs lov.{N: lov}
+de som vandrer efter{T: Ordret: >>i<<.} HERRENS lov.{N: lov}
 
 v2 Salige er de som overholder hans vedtægter,
 
@@ -52,7 +52,7 @@ v11 Jeg gemmer dit ord{T: Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor 
 
 for at jeg ikke skal synde imod dig.
 
-v12 Lovet{T: Kan også oversættes: >>velsignet<<.} være du, JHVHv!
+v12 Lovet{T: Kan også oversættes: >>velsignet<<.} være du, HERRE!
 
 lær mig dine lovbud!
 
@@ -132,14 +132,14 @@ jeg har stillet dine bestemmelser foran mig.{E: Ordret blot: >>jeg har stillet d
 
 v31 Jeg har holdt fast ved dine vedtægter,
 
-JHVH, gør mig ikke til skamme!
+HERREN, gør mig ikke til skamme!
 
 v32 Jeg vil løbe ad dine befalingers vej,
 
 for du giver mit hjerte at ånde frit.{T: Ordret: >>du gør mit hjerte vidt/bredt<<.}
 
 ==V.==
-v33 Lær mig, JHVHv, dine lovbuds vej,
+v33 Lær mig, HERRE, dine lovbuds vej,
 
 så vil jeg overholde den indtil enden.{E: Det er omdiskuteret om: *ʕēqev* her (og v.122) er brugt i betydningen: >>indtil enden/helt og fuldt<< eller: >>løn<<. Det sidste vil give oversættelsen: >>så vil jeg overholde den som (min) løn<<.}
 
@@ -173,7 +173,7 @@ giv mig liv i din retfærdighed!
 
 ==VI.==
 
-v41 Lad din nåde,{N: nåde}{T: I grundteksten er ordet pluralis, der understreger storheden.} JHVHv, komme over mig,
+v41 Lad din nåde,{N: nåde}{T: I grundteksten er ordet pluralis, der understreger storheden.} HERRE, komme over mig,
 
 din frelse, efter dit ord,
 
@@ -220,7 +220,7 @@ jeg veg ikke fra din lov.
 
 v52 Jeg har husket dine bestemmelser fra gammel tid,
 
-og jeg blev trøstet, JHVHv.
+og jeg blev trøstet, HERRE.
 
 v53 En glødende harme har grebet mig over de ugudelige
 
@@ -230,7 +230,7 @@ v54 Dine lovbud har været mine sange
 
 i huset hvor jeg var fremmed.{T: Ordret: >>i min fremmedheds hus.<<}
 
-v55 Om natten har jeg husket på dit navn, JHVHv,
+v55 Om natten har jeg husket på dit navn, HERRE,
 
 og jeg har holdt din lov.
 
@@ -239,7 +239,7 @@ v56 Dette gjaldt mig:{E: Ordret: >>Dette var for mig<<. Meningen er enten at det
 At jeg har overholdt dine forordninger.
 
 ==VIII.==
-v57 JHVH er min andel,
+v57 HERREN er min andel,
 
 jeg har lovet{E: Ordret: >>jeg har sagt<<. Formodentlig er det underforstået at det følgende er sagt til Gud. En anden mulighed er dog at salmisten har sagt det ved sig selv, så der må oversættes: >>jeg har sat mig for<<.} at holde dine ord.
 
@@ -267,14 +267,14 @@ v63 Jeg er ven med alle dem som frygter dig,
 
 og med dem som holder dine forordninger.
 
-v64 Din nåde, JHVHv, fylder jorden,{T: Kan også oversættes: >>landet<<.}
+v64 Din nåde, HERRE, fylder jorden,{T: Kan også oversættes: >>landet<<.}
 
 lær mig dine lovbud!
 
 ==IX.==
 v65 Du har handlet godt mod din tjener,
 
-JHVHv, efter dit ord.
+HERRE, efter dit ord.
 
 v66 Lær mig god{E: Ordet: *ṭûv* (>>god<<) slettes af nogle oversættere med den begrundelse at linjen er længere end de andre linjer. Der er dog flere linjer med samme længde i salmen, bl.a. v.67a.} dømmekraft og kundskab,
 
@@ -313,7 +313,7 @@ v74 De som frygter dig, skal se mig og glæde sig,
 
 for jeg har sat mit håb til dit ord.
 
-v75 Jeg ved, JHVHv, at dine bestemmelser er retfærdige,
+v75 Jeg ved, HERRE, at dine bestemmelser er retfærdige,
 
 og at du af trofasthed ydmygede mig.
 
@@ -371,7 +371,7 @@ v88 Giv mig liv efter din nåde{N: nåde},
 så vil jeg holde din munds vedtægt.
 
 ==XII.==
-v89 I evighed, JHVHv,
+v89 I evighed, HERRE,
 
 står dit ord fast i himlen.
 
@@ -447,9 +447,9 @@ At overholde dine retfærdige bestemmelser.{T: Ordret: >>din retfærdigheds best
 
 v107 Jeg er blevet dybt nedbøjet,
 
-JHVHv, giv mig liv efter dit ord.
+HERRE, giv mig liv efter dit ord.
 
-v108 Lad min munds frivilligofre behage dig, JHVHv,
+v108 Lad min munds frivilligofre behage dig, HERRE,
 
 og lær mig dine bestemmelser.
 
@@ -523,7 +523,7 @@ v125 Jeg er din tjener; giv mig indsigt
 
 så jeg kan lære dine vedtægter at kende.{T: Verbet (>>lære at kende<<) kan også oversættes: >>give agt på<<.}
 
-v126 Det er tid for JHVH{E: Den masoretiske tekst har præpositionen: *lᵊ-* (>>for<<) foran >>JHVH<<. I næste linje tales der dog igen direkte i 2. person til >>JHVH<<, hvorfor mange oversættere (med et enkelt håndskrift) sletter *lᵊ-* her så linjen oversættes: >>Det er tid at handle, JHVH<<.} at handle,
+v126 Det er tid for HERREN{E: Den masoretiske tekst har præpositionen: *lᵊ-* (>>for<<) foran >>HERREN<<. I næste linje tales der dog igen direkte i 2. person til >>HERREN<<, hvorfor mange oversættere (med et enkelt håndskrift) sletter *lᵊ-* her så linjen oversættes: >>Det er tid at handle, HERREN<<.} at handle,
 
 de har brudt din lov.
 
@@ -570,7 +570,7 @@ v136 Der flød vandstrømme ned fra mine øjne
 fordi de ikke holdt din lov.
 
 ==XVIII.==
-v137 Du er retfærdig, JHVHv,
+v137 Du er retfærdig, HERRE,
 
 og dine bestemmelser{E: *mišpāṭeʸxā* kan her også oversættes: >>dine domme<< eller: >>dine bud<<.} er retskafne.
 
@@ -603,7 +603,7 @@ v144 Dine vedtægter er retfærdighed i evighed,
 giv mig indsigt så jeg kan leve.
 
 ==XIX.==
-v145 Jeg har råbt af hele mit hjerte; svar mig, JHVHv!
+v145 Jeg har råbt af hele mit hjerte; svar mig, HERRE!
 
 Jeg vil overholde dine lovbud.
 
@@ -621,13 +621,13 @@ for at grunde på dit ord.{T: Der er muligvis tænkt på de sene nattevagter fra
 
 v149 Hør mit råb i overensstemmelse med din nåde,
 
-JHVHv, hold mig i live i overensstemmelse med din bestemmelse.
+HERRE, hold mig i live i overensstemmelse med din bestemmelse.
 
 v150 De som jager efter skændselsgerning, nærmede sig,
 
 de var langt borte fra din lov.
 
-v151 Nær er du, JHVHv,
+v151 Nær er du, HERRE,
 
 og alle dine befalinger er sandhed.
 
@@ -648,7 +648,7 @@ v155 Frelsen er fjernt fra de ugudelige,
 
 for de har ikke søgt efter dine lovbud.
 
-v156 Overordentlig stor er din barmhjertighed,{T: Ordret: >>Store er dine barmhjertigheder<<. Pluralis skal her understrege storheden.} JHVHv,
+v156 Overordentlig stor er din barmhjertighed,{T: Ordret: >>Store er dine barmhjertigheder<<. Pluralis skal her understrege storheden.} HERRE,
 
 hold mig i live i overensstemmelse med dine bestemmelser!
 
@@ -662,7 +662,7 @@ for de har ikke holdt dit ord.
 
 v159 Se hvor jeg elsker dine forordninger,
 
-JHVH, giv mig liv i overensstemmelse med din nåde.{N: nåde}
+HERREN, giv mig liv i overensstemmelse med din nåde.{N: nåde}
 
 v160 Summen{T: Ordret: >>hoved<<.} af dit ord er sandhed,
 
@@ -689,7 +689,7 @@ v165 Der er stor fred for dem som elsker din lov,
 
 og der er ikke noget der får dem til at snuble.
 
-v166 Jeg håber på din frelse, JHVHv,
+v166 Jeg håber på din frelse, HERRE,
 
 og jeg udfører dine befalinger.
 
@@ -702,7 +702,7 @@ v168 Jeg holder dine forordninger og dine vedtægter,
 for alle mine veje er åbenbare for dig.
 
 ==XXII.==
-v169 Gid mit råb må komme frem til dit ansigt,{T: Altså: Nå helt frem til Gud.} JHVHv,
+v169 Gid mit råb må komme frem til dit ansigt,{T: Altså: Nå helt frem til Gud.} HERRE,
 
 giv mig indsigt efter dit ord!
 
@@ -722,7 +722,7 @@ v173 Gid din hånd må være mig til hjælp,
 
 for jeg har valgt dine forordninger.
 
-v174 Jeg har længtes efter din frelse, JHVHv,
+v174 Jeg har længtes efter din frelse, HERRE,
 
 og din lov er min glæde.
 

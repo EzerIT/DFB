@@ -6,10 +6,10 @@
 
 ==Moses og Eleazar skal atter mønstre folket.==
 
-v1 Efter plagen talte JHVH til Moses og til Eleazar, præsten Arons søn:
+v1 Efter plagen talte HERREN til Moses og til Eleazar, præsten Arons søn:
 v2 >>Hold mandtal over hele israelitternes forsamling, alle der er tyve år og derover, efter deres fædrenehus. Tæl alle dem i Israel som kan drage i krig.<<
 v3 Moses og præsten Eleazar sagde til dem på Moabs slette ved Jordan over for Jeriko:
-v4 >>Tæl dem der er tyve år gamle og derover, sådan som JHVH har befalet Moses og israelitterne, dem som var draget ud af Egypten.<<
+v4 >>Tæl dem der er tyve år gamle og derover, sådan som HERREN har befalet Moses og israelitterne, dem som var draget ud af Egypten.<<
 
 ==Hver stamme mønstres for sig, og summen opregnes.==
 
@@ -17,7 +17,7 @@ v5 Ruben var Israels førstefødte. Rubens efterkommere var: Enok, enokitternes 
 v6 af Hesron, hesronitternes slægt, af Karmi, karmitternes slægt.
 v7 Dette er rubenitternes slægter, og de mønstrede af dem var 43.730.
 v8 Blandt Pallus børn var Eliab.
-v9 Eliabs børn var Nemuel, Datan og Abiram. Det var den Datan og Abiram, der var blandt de udnævnte af forsamlingen, og som havde skændtes med Moses og Aron sammen med Kora da de skændtes med JHVH.
+v9 Eliabs børn var Nemuel, Datan og Abiram. Det var den Datan og Abiram, der var blandt de udnævnte af forsamlingen, og som havde skændtes med Moses og Aron sammen med Kora da de skændtes med HERREN.
 v10 Jorden åbnede sit gab og opslugte dem og Kora, og hele flokken døde da ilden fortærede 250 mænd, og de blev til et tegn.
 v11 Men Koras sønner døde ikke.
 v12 Simeons efterkommere efter deres slægter var: Af Nemuel, nemuelitternes slægt, af Jamin, jaminitternes slægt, af Jakin, jankinitternes slægt,
@@ -63,7 +63,7 @@ v51 Dette er de mønstrede israelitter: 601.730.
 
 ==Moses skal fortælle folket hvordan landet skal deles mellem dem ved lodkastning.==
 
-v52 JHVH sagde til Moses:
+v52 HERREN sagde til Moses:
 v53 >>Mellem disse skal landet deles til arv efter folketallet.
 v54 Den som er mange, hans arv skal du gøre stor, den som er få, hans arv skal du gøre lille, enhver skal få sin arv i forhold til antallet af de mønstrede.
 v55 Dog skal landet deles ved lodkastning. Efter navnene på deres fædrenestammer skal de få deres arv.
@@ -75,12 +75,12 @@ v57 Dette er de mønstrede af levitterne efter deres slægter: Af Gershon, gersh
 v58 Dette er levitternes slægter: Libnitternes slægt, hebronitternes slægt, maklitternes slægt, mushitternes slægt, koraitternes slægt. Kehat havde sønnen Amram,
 v59 og Amrams hustru hed Jokebed. Hun var Levis datter som hendes mor fik med Levi i Egypten. Hun fik Aron og Moses og deres søster Mirjam med Amram.
 v60 Aron fik Nadab og Abihu, Eleazar og Itamar.
-v61 Nadab og Abihu døde da de førte fremmed ild ind for JHVHs ansigt.
+v61 Nadab og Abihu døde da de førte fremmed ild ind for HERRENS ansigt.
 v62 De mønstrede af dem var 23.000. Det var alle af hankøn der var en måned gamle og derover, for de blev ikke mønstret blandt israelitterne, for de fik ingen arv blandt israelitterne.
  
 ==Iblandt alle de mønstrede var der ingen som var blevet mønstret første gang, undtagen Josva og Kaleb.==
 
 v63 Dette er dem som blev mønstret af Moses og præsten Eleazar, som mønstrede israelitterne på Moabs sletter ved Jordan over for Jeriko.
 v64 Og blandt dem var der ikke en eneste mand som var blevet mønstret af Moses og præsten Aron, da de mønstrede israelitterne i Sinajs ørken.
-v65 For JHVH havde sagt til dem at de så sandelig skulle dø i ørkenen, og der var ingen tilbage af dem, undtagen Kaleb, Jefunnes søn, og Josva, Nuns søn.
+v65 For HERREN havde sagt til dem at de så sandelig skulle dø i ørkenen, og der var ingen tilbage af dem, undtagen Kaleb, Jefunnes søn, og Josva, Nuns søn.
 

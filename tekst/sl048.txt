@@ -12,7 +12,7 @@ v1 En sang.
 Salme af Koras sønner.
 
 ==Den hellige bys herlighed==
-v2 Stor er JHVH og meget værdig til at blive lovprist
+v2 Stor er HERREN og meget værdig til at blive lovprist
 
 i vor Guds by,
 
@@ -52,7 +52,7 @@ v9 Som vi havde hørt,
 
 således så vi det
 
-i hærskarers{T: Tidligere uoversat: >>Zebaoth<<.} JHVHvs by,
+i hærskarers{T: Tidligere uoversat: >>Zebaoth<<.} HERRES by,
 
 i vor Guds by;
 

@@ -6,7 +6,7 @@
 ===Anden Mosebog, kapitel 40===
 
 ==Befalingen om at rejse helligdommen==
-v1 JHVH talte til Moses:
+v1 HERREN talte til Moses:
 v2 >>På den første måneds første dag  skal du rejse forsamlingsteltets bolig.
 v3 Der skal du sætte Vidnesbyrdets ark og dække for arken med forhænget.
 v4 Du skal bringe bordet og stille det som hører til på det, op i række, og du skal bringe lysestagen og sætte dens lamper op.
@@ -23,28 +23,28 @@ v14 Du skal føre hans sønner frem, og du skal iføre dem kjortler.
 v15 Du skal salve dem, ligesom du salvede deres far, så de kan gøre præstetjeneste for mig; og det skal ske for at deres salvning skal blive dem til en evig præstetjeneste gennem deres slægter.<<
 
 ==Helligdommen rejses==
-v16 Moses gjorde det; efter alt hvad JHVH havde befalet ham, sådan gjorde han.
+v16 Moses gjorde det; efter alt hvad HERREN havde befalet ham, sådan gjorde han.
 v17 Og det skete i den første måned i det andet år, på den første dag i måneden, da blev boligen rejst.
 v18 Moses rejste boligen, han anbragte dens fodstykker, satte dens planker i, anbragte dens tværlægter og rejste dens stolper.
-v19 Han spændte teltet ud over boligen og lagde teltets dække hen over det, sådan som JHVH havde befalet Moses.
+v19 Han spændte teltet ud over boligen og lagde teltets dække hen over det, sådan som HERREN havde befalet Moses.
 v20 Så tog han Vidnesbyrdet og lagde det i arken og anbragte bærestængerne på arken; og han satte sonedækket oven på arken.
-v21 Han bragte arken ind i boligen og satte tæppets forhæng op så det dækkede for Vidnesbyrdets ark, sådan som JHVH havde befalet Moses.
+v21 Han bragte arken ind i boligen og satte tæppets forhæng op så det dækkede for Vidnesbyrdets ark, sådan som HERREN havde befalet Moses.
 v22 Han satte bordet i forsamlingsteltet, ved teltets side mod nord, uden for forhænget.
-v23 Han lagde brød i række på det for JHVHs ansigt, sådan som JHVH havde befalet Moses.
+v23 Han lagde brød i række på det for HERRENS ansigt, sådan som HERREN havde befalet Moses.
 v24 Han satte lysestagen i forsamlingsteltet, over for bordet, ved teltets side mod syd.
-v25 Han satte lamperne op for JHVHs ansigt, sådan som JHVH havde befalet Moses.
+v25 Han satte lamperne op for HERRENS ansigt, sådan som HERREN havde befalet Moses.
 v26 Han satte guldalteret i forsamlingsteltet foran forhænget,
-v27 og han brændte vellugtende røgelse på det, sådan som JHVH havde befalet Moses.
+v27 og han brændte vellugtende røgelse på det, sådan som HERREN havde befalet Moses.
 v28 Han anbragte tæppet for boligens indgang.
-v29 Brændofferalteret anbragte han ved indgangen til forsamlingsteltets bolig og ofrede brændofferet og afgrødeofferet{E: Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: >>kornoffer<<, se 3 Mos 2,1-16.} på det, sådan som JHVH havde befalet Moses.
+v29 Brændofferalteret anbragte han ved indgangen til forsamlingsteltets bolig og ofrede brændofferet og afgrødeofferet{E: Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: >>kornoffer<<, se 3 Mos 2,1-16.} på det, sådan som HERREN havde befalet Moses.
 v30 Han anbragte bækkenet mellem forsamlingsteltet og alteret og kom vand i det til at vaske sig i.
 v31 Moses og Aron og hans sønner vaskede deres hænder og deres fødder i det;
-v32 når de gik ind i forsamlingsteltet, og når de kom nær til alteret, vaskede de sig, sådan som JHVH havde befalet Moses.
+v32 når de gik ind i forsamlingsteltet, og når de kom nær til alteret, vaskede de sig, sådan som HERREN havde befalet Moses.
 v33 Og han rejste forgården rundt om boligen og alteret og satte tæppet op for forgårdens port. Sådan fuldførte Moses arbejdet.
 
-==JHVH tager bolig i helligdommen==
-v34 Så dækkede skyen forsamlingsteltet, og JHVHs herlighed fyldte boligen.
-v35 Moses kunne ikke gå ind i forsamlingsteltet, for skyen lå over det, og JHVHs herlighed fyldte boligen.
+==HERREN tager bolig i helligdommen==
+v34 Så dækkede skyen forsamlingsteltet, og HERRENS herlighed fyldte boligen.
+v35 Moses kunne ikke gå ind i forsamlingsteltet, for skyen lå over det, og HERRENS herlighed fyldte boligen.
 v36 Når skyen løftede sig fra boligen, brød Israels børn op på alle deres vandringer.{T:Det hebraiske ord (*massaʕ*) betyder egentlig: >>opbrud (fra en lejr)<<.}
 v37 Men hvis skyen ikke løftede sig, brød de ikke op før den dag den løftede sig.
-v38 For JHVHs sky var over boligen om dagen, og om natten var der ild i den for øjnene af hele Israels hus på alle deres vandringer.
+v38 For HERRENS sky var over boligen om dagen, og om natten var der ild i den for øjnene af hele Israels hus på alle deres vandringer.

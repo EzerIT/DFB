@@ -16,7 +16,7 @@ v6 Når en mand giver sin næste penge eller ting i forvaring, og det bliver stj
 v7 Hvis tyven ikke bliver fundet, skal husets ejer træde frem for Gud,{T: De fleste oversættelser tilføjer: >>og sværge<<, men det er uden støttes i den hebraiske tekst. Meningen må være, at selve det at træde frem for Gud er farligt, hvis man har løjet.} hvis han ikke har lagt sin hånd på sin næstes ting.
 v8 Hvad angår enhver sag om svigagtig besiddelse af okse, af æsel, af småkvæg, af klæder, af alt hvad der er mistet, om hvilket nogen siger at dette er hans,{T: Ordret: >>siger: >Det er det!<<<} da skal begges sag komme for Gud; den Gud erklærer skyldig, skal betale sin næste dobbelt.
 v9 Når en mand giver sin næste et æsel eller en okse eller småkvæg eller et andet dyr at passe på, og det dør eller kommer til skade eller bortføres uden at nogen ser det,
-v10 skal der aflægges ed ved JHVH mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden{T: Den hebraiske tekst siger blot: >>og han skal ikke betale<<, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.} skal ikke betale.
+v10 skal der aflægges ed ved HERREN mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden{T: Den hebraiske tekst siger blot: >>og han skal ikke betale<<, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.} skal ikke betale.
 v11 Men hvis det bliver stjålet fra ham, da skal han betale dets ejer.
 v13 Hvis det bliver det sønderrevet, skal han fremlægge det som bevis; han skal ikke betale for det som er sønderrevet.
 v13 Når en mand låner noget af sin næste, og det kommer til skade eller dør, skal han, hvis ejeren ikke er sammen med det, afgjort betale.
@@ -29,7 +29,7 @@ v16 Hvis hendes far helt afviser at give ham hende, skal han afveje penge svaren
 ==Love om afgudsdyrkelse==
 v17 >>En troldkvinde må du ikke lade leve.
 v18 Enhver som parrer sig{T: Den hebraiske tekst siger egentlig kun: >>ligger med<<. Men meningen er uden tvivl: i seksuel betydning.} med et dyr, skal afgjort lide døden.
-v19 Den som ofrer til guderne og ikke til JHVH alene, skal der lægges band på.<<{T: Den hebraiske tekst vender anderledes: >>Den der ofrer til guderne, skal der lægges band på, undtagen til JHVH alene<<.}
+v19 Den som ofrer til guderne og ikke til HERREN alene, skal der lægges band på.<<{T: Den hebraiske tekst vender anderledes: >>Den der ofrer til guderne, skal der lægges band på, undtagen til HERREN alene<<.}
 
 ==Love om ansvar for de svage==
 v20 >>En fremmed må du ikke plage, og du må ikke undertrykke ham, for I har været fremmede i Egyptens land.

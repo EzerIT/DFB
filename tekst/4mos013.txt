@@ -5,11 +5,11 @@
 
 ===Fjerde Mosebog, kapitel 13===
 
-==På JHVHs befaling sender Moses tolv spejdere til Kana’ans land, en fra hver stamme.==
+==På HERRENS befaling sender Moses tolv spejdere til Kana’ans land, en fra hver stamme.==
 
-v1 JHVH talte til Moses:
+v1 HERREN talte til Moses:
 v2 >>Send mænd af sted for at spionere i landet Kana’an som jeg giver Israels børn. I skal sende én mand fra hver fædrenestamme, enhver af dem skal være en stammeleder.<<
-v3 Fra Parans ørken sendte Moses så på JHVHs befaling mænd som alle var overhoveder for israelitterne.
+v3 Fra Parans ørken sendte Moses så på HERRENS befaling mænd som alle var overhoveder for israelitterne.
 v4 Dette er deres navne: Fra Rubens stamme: Shammua, Zakkurs søn. 
 v5 Fra Simeons stamme: Shafat, Koris søn.
 v6 Fra Judas stamme: Kaleb, Jefunnes søn.

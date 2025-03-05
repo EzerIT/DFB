@@ -10,7 +10,7 @@
 v1 Valfartssang.{E: Se note til Sl 120,1.}
 
 ==Den gudfrygtiges lykke==
-Lykkelig{T: Kan også oversættes: >>salig<<.} hver den som frygter JHVH,
+Lykkelig{T: Kan også oversættes: >>salig<<.} hver den som frygter HERREN,
 
 som går på hans veje!
 
@@ -28,10 +28,10 @@ omkring dit bord.
 
 v4 Ja, se sådan velsignes den mand
 
-som frygter JHVH.
+som frygter HERREN.
 
-==JHVH velsigne dig==
-v5 JHVH velsigne dig fra Zion
+==HERREN velsigne dig==
+v5 HERREN velsigne dig fra Zion
 
 så du ser Jerusalems lykke
 

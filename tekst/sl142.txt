@@ -12,9 +12,9 @@ v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuagint
 Da han var i hulen. En bøn. 
 
 ==Anråbelse==
-v2 Med min røst vil jeg råbe til JHVH,
+v2 Med min røst vil jeg råbe til HERREN,
 
-med min røst vil jeg bede til JHVH om nåde.
+med min røst vil jeg bede til HERREN om nåde.
 
 v3 Jeg vil udøse min klage for hans ansigt,
 
@@ -38,7 +38,7 @@ Der er intet tilflugtssted for mig,{T: Ordret: >>Tilflugtssted er forsvundet/for
 ingen bekymrer sig om mig.{T: Ordret: >>om min sjæl<<}
 
 ==Bøn om hjælp==
-v6 Jeg råber{E: Dette verbum og verbet i næste linje står i qatal, der oftest angiver fortid, men her må opfattes som deklarative.} til dig, JHVHv,
+v6 Jeg råber{E: Dette verbum og verbet i næste linje står i qatal, der oftest angiver fortid, men her må opfattes som deklarative.} til dig, HERRE,
 
 jeg siger: Du er min tilflugt,
 

@@ -66,11 +66,11 @@ v13 Hans efterkommere skal udryddes,
 
 deres navn skal udslettes i næste generation!
 
-v14 Hans fædres skyld skal huskes hos JHVH,
+v14 Hans fædres skyld skal huskes hos HERREN,
 
 og hans moders synd skal ikke slettes!
 
-v15 De{T: Det er henvisning til fædres skyld og moders synd (v.14).} skal altid være nærværende for JHVH,
+v15 De{T: Det er henvisning til fædres skyld og moders synd (v.14).} skal altid være nærværende for HERREN,
 
 og han skal udrydde mindet om dem fra jorden.
 
@@ -99,11 +99,11 @@ v19 Den skal for ham være som en klædning han hyller sig i,
 og som et bælte han altid binder om sig.<<
 
 ==Klage og bøn==
-v20 Dette skal være lønnen fra JHVH til dem som anklager mig,
+v20 Dette skal være lønnen fra HERREN til dem som anklager mig,
 
 og dem som taler ondt imod min sjæl!
 
-v21 Men du, JHVHv, Herre, handl med mig for dit navns skyld,
+v21 Men du, HERRE, Herre, handl med mig for dit navns skyld,
 
 for din nåde er god - red mig!
 
@@ -123,13 +123,13 @@ v25 Og jeg, jeg er blevet til spot for dem,
 
 de ser mig, de ryster på deres hoved.
 
-v26 Hjælp mig, JHVHv, min Gud,
+v26 Hjælp mig, HERRE, min Gud,
 
 frels mig efter din nåde,{T: Kan også oversættes: >>trofasthed<<.}
 
 v27 så de erkender at dette er din hånd,
 
-du, JHVHv, du har gjort det.
+du, HERRE, du har gjort det.
 
 v28 Forbander de, så velsigner du.
 
@@ -142,7 +142,7 @@ v29 Lad mine anklagere klæde sig i skændsel
 og iklæde sig deres skam som kappe.
 
 ==Vished og løfte om taksigelse==
-v30 Jeg vil takke JHVH meget med min mund,
+v30 Jeg vil takke HERREN meget med min mund,
 
 og blandt mange vil jeg lovprise ham,
 

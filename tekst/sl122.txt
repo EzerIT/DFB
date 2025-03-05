@@ -12,7 +12,7 @@ v1 Valfartssang.{E: Se note til Sl 120,1.} Af David.
 ==I Jerusalems porte==
 Jeg glædede mig over dem som sagde til mig:
 
->>Vi vil gå til JHVHs hus.<<
+>>Vi vil gå til HERRENS hus.<<
 
 v2 Vore fødder har stået{E: Oversættelsen af verberne er omdiskuteret. Det drejer sig om participiet: *ʕōmᵊdôt* (ordret: >>stående<<) og hjælpeverbet i qatal: *hāyû* (ordret: >>var<<). Participiet er formodentlig her udtryk for varighed. Det naturligste er at oversætte ved fortid, men mange nyere oversættere vælger at oversætte ved nutid: >>Nu står vore fødder<<.}
 
@@ -25,11 +25,11 @@ som en by der er stærkt sammenføjet,{E: Ordret: >>som en by der er sammenføje
 
 v4 hvortil stammerne drog op,
 
-JHVHs{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}  stammer.
+HERRENS{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.}  stammer.
 
 Det er en vedtægt{E: Ordet: *ʕēdût* må i en del sammenhænge oversættes: >>vidnesbyrd<<, men her angiver det formodentlig en højtidelig givet og modtaget forordning.} for Israel,
 
-takkende at prise JHVHs navn.
+takkende at prise HERRENS navn.
 
 v5 Der stod dommersæder,{T: Ordret: >>sæder til dom/retssag<<}
 
@@ -48,7 +48,7 @@ v8 For mine brødres og mine venners skyld
 
 vil jeg sige: >>Fred være i dig!<<
 
-v9 For JHVHs, vor Guds, hus' skyld
+v9 For HERRENS, vor Guds, hus' skyld
 
 vil jeg søge dit bedste.
 

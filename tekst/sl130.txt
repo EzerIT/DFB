@@ -10,7 +10,7 @@
 v1 Valfartssang.{E: Se note til Sl 120,1.}
 
 ==Klage==
-Fra det dybe råber{E: Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: >>råbte jeg til dig<<. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.} jeg til dig, JHVHv!
+Fra det dybe råber{E: Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: >>råbte jeg til dig<<. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.} jeg til dig, HERRE!
 
 v2 Herre, hør på min røst,
 
@@ -18,7 +18,7 @@ lad dine ører være opmærksomme
 
 på min tryglende røst.{T: Ordret: >>på min tryglens (pluralis) røst<<}
 
-v3 Hvis du, JHVHv,{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} vil vogte på skyld,
+v3 Hvis du, HERRE,{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} vil vogte på skyld,
 
 Herre, hvem kan så bestå?
 
@@ -27,7 +27,7 @@ v4 Men hos dig er tilgivelsen
 for at du må frygtes.
 
 ==Længselsfuld tillid==
-v5 Jeg håber{E: Verberne i dette vers står i qatal, jf. note til v.1b.} på JHVH,
+v5 Jeg håber{E: Verberne i dette vers står i qatal, jf. note til v.1b.} på HERREN,
 
 min sjæl håber,
 
@@ -40,9 +40,9 @@ mere end vægtere på morgenen,
 vægtere på morgenen.
 
 ==Salmistens vidnesbyrd==
-v7 Israel, vent på JHVH,
+v7 Israel, vent på HERREN,
 
-for hos JHVH er nåden{N: nåde},
+for hos HERREN er nåden{N: nåde},
 
 og megen forløsning er hos ham.
 

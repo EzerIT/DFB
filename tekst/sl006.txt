@@ -12,19 +12,19 @@
 //0 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}.//2 Til strengespil. //3 Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. //1Salme af David.
 
 ==Klage og bøn==
-//0 v2 JHVHv! //3straf mig ikke i din vrede,
+//0 v2 HERRE! //3straf mig ikke i din vrede,
 
 //4 og tugt mig ikke i din harme!
 
-//2 v3 Vær mig nådig, //4 JHVHv, //3 for jeg er svag,
+//2 v3 Vær mig nådig, //4 HERRE, //3 for jeg er svag,
 
-//2 helbred mig, //6 JHVHv, //5 for jeg skælver{E: Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: >>sygner hen<<. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.} i mine knogler,
+//2 helbred mig, //6 HERRE, //5 for jeg skælver{E: Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: >>sygner hen<<. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.} i mine knogler,
 
 //6 v4 og min sjæl er meget forfærdet.
 
-//4 Men du, //6 JHVHv! //5 - hvor længe?
+//4 Men du, //6 HERRE! //5 - hvor længe?
 
-//3 v5 Vend tilbage{E: *šûvāʰ* (>>vend tilbage<<) kunne også opfattes adverbielt så v.5a skal oversættes: >>red atter, JHVHv, min sjæl<<},//4 JHVHv! //3 red min sjæl,
+//3 v5 Vend tilbage{E: *šûvāʰ* (>>vend tilbage<<) kunne også opfattes adverbielt så v.5a skal oversættes: >>red atter, HERRE, min sjæl<<},//4 HERRE! //3 red min sjæl,
 
 //4 frels mig på grund af din nåde{N: nåde}!
 
@@ -46,11 +46,11 @@
 
 //1 v9 Vig fra mig, //4 alle I som udøver ondt!
 
-//3 For JHVH har hørt min gråd{T:Ordret >>min gråds røst<<.}.
+//3 For HERREN har hørt min gråd{T:Ordret >>min gråds røst<<.}.
 
-//4 v10 JHVH har hørt min indtrængende bøn,
+//4 v10 HERREN har hørt min indtrængende bøn,
 
-//5 JHVH vil tage imod min bøn.
+//5 HERREN vil tage imod min bøn.
 
 //2 v11 Alle mine fjender skal blive til skamme //3 og forfærdes,
 

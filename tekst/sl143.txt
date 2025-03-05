@@ -9,8 +9,8 @@
 ==Overskrift==
 v1 Salme af David.
 
-==JHVHv, hør!==
-JHVHv, hør min bøn,
+==HERRE, hør!==
+HERRE, hør min bøn,
 
 lyt til min tryglen,
 
@@ -45,7 +45,7 @@ v6 Jeg har bredt mine hænder ud mod dig,
 min sjæl er som udtørret land for dig.{T: Det er underforstået at sjælen tørster efter Gud.} Sela{N: Sela}
 
 ==Bøn==
-v7 Skynd dig, svar{T: Kan også oversættes: >>bønhør<<.} mig, JHVHv,
+v7 Skynd dig, svar{T: Kan også oversættes: >>bønhør<<.} mig, HERRE,
 
 min ånd tæres bort,
 
@@ -61,7 +61,7 @@ Lad mig kende den vej, jeg skal gå,
 
 for jeg løfter min sjæl til dig.
 
-v9 Red mig fra mine fjender, JHVHv,
+v9 Red mig fra mine fjender, HERRE,
 
 hos dig søger jeg skjul.
 
@@ -75,7 +75,7 @@ du fører mig på jævnt land!{E: Kan også oversættes: >>lad den føre mig ...
 Mange oversættere flytter masoreternes skillende accent, så *tanḥēnî* (>>før mig/lad den føre mig<<) knyttes til foregående linje, der så oversættes: >>lad din gode Ånd føre mig<<.
 En del håndskrifter har: *ʔôraḥ*: >>sti<< i stedet for: *ʔereṣ* (>>land<<).}
 
-v11 For dit navns skyld, JHVHv, holder du mig i live,
+v11 For dit navns skyld, HERRE, holder du mig i live,
 
 i din retfærdighed bringer du min sjæl ud af trængsel,
 

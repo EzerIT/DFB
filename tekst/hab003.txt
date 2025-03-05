@@ -11,9 +11,9 @@ v1 En bøn af profeten Habakkuk. Al-shigjonot.{E: Betydningen af Al-shigjonot er
 
 ***
 
-v2 JHVHv! Jeg har hørt budskaber om dig.
+v2 HERRE! Jeg har hørt budskaber om dig.
 
-Jeg frygter, JHVHv, din gerning.
+Jeg frygter, HERRE, din gerning.
 
 Kald den til live midt i årene;
 
@@ -53,7 +53,7 @@ v7 Jeg ser Kushans telte i trængsler;
 
 teltdugene i Midjans land ryster.
 
-v8 Er din vrede blusset op mod floderne, JHVHv?
+v8 Er din vrede blusset op mod floderne, HERRE?
 
 Er du vred på floderne og rasende på havet,
 
@@ -126,11 +126,11 @@ Fårene er revet bort fra folden,
 
 og der er ingen okser i staldene.
 
-v18 Men jeg vil juble over JHVH,
+v18 Men jeg vil juble over HERREN,
 
 jeg vil fryde mig over min frelses Gud.
 
-v19 Den herre JHVH er min styrke,
+v19 Den herre HERREN er min styrke,
 
 og han giver mig fødder som hjortenes
 

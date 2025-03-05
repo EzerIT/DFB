@@ -10,7 +10,7 @@
 v1 Maskil{E: Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som >>læredigt<<, idet ordet må være afledet af roden *śkl*: >>være klog, overvejende<<. Dette passer dog dårligt med flertallet af de salmer der kaldes >>maskil<< (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som >>meditation<< eller >>kunstfærdig salme<< eller evt. >>hyldestsang<<.} af Etan, ezraitten.
 
 ==Lovprisning af Guds skabermagt og trofasthed==
-v2 Om JHVHs nåde vil jeg evigt synge,
+v2 Om HERRENS nåde vil jeg evigt synge,
 
 i slægt efter slægt vil jeg prisende forkynde din sandhed med min mund.
 
@@ -26,21 +26,21 @@ v5 For evigt vil jeg grundfæste din slægt,{T: Ordret: >>sæd<<}
 
 og jeg bygger din trone i slægt efter slægt.<< Sela{N: Sela}
 
-v6 Og himlen skal prise dit under, JHVHv,
+v6 Og himlen skal prise dit under, HERRE,
 
 ja, din sandhed i de helliges forsamling.{E: Kan også oversættes: >>menighed<<. Her er der dog tænkt på Guds tjenende engle og åndemagter.}
 
-v7 For hvem i skyerne kan være lige med JHVH?
+v7 For hvem i skyerne kan være lige med HERREN?
 
-Hvem{T: Spørgepartiklen >>hvem<< er underforstået fra foregående linje.} ligner JHVH blandt gudssønnerne?{T: Det er de himmelske magter.}
+Hvem{T: Spørgepartiklen >>hvem<< er underforstået fra foregående linje.} ligner HERREN blandt gudssønnerne?{T: Det er de himmelske magter.}
 
 v8 En Gud der vækker stor rædsel i de helliges kreds
 
 og er frygtindgydende over alle som er omkring ham!
 
-v9 JHVHv, Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} Gud,
+v9 HERRE, Hærskarers{T: I ældre tid uoversat: >>Zebaoth<<} Gud,
 
-hvem er som du, mægtige JHVH?{E: Grundteksten har kortformen *yāh* (>>Jah<<) der findes en del steder i poetiske tekster.}
+hvem er som du, mægtige HERREN?{E: Grundteksten har kortformen *yāh* (>>Jah<<) der findes en del steder i poetiske tekster.}
 
 Og din trofasthed omgiver dig.
 
@@ -70,7 +70,7 @@ nåde og sandhed går foran dig.{T: Ordret: >>foran dit ansigt<<.}
 
 v16 Saligt er det folk som kender til jublende hyldest,
 
-JHVHv, i dit ansigts lys kan de vandre.
+HERRE, i dit ansigts lys kan de vandre.
 
 v17 Over dit navn skal de fryde sig hele dagen,
 
@@ -80,7 +80,7 @@ v18 For du er deres styrkes herlighed,
 
 og ved dit velbehag løfter du vort horn.
 
-v19 For vort skjold tilhører JHVH,
+v19 For vort skjold tilhører HERREN,
 
 ja, vor konge tilhører Israels Hellige.
 
@@ -199,7 +199,7 @@ v46 Du har afkortet hans ungdoms dage,
 
 du har hyllet ham i skam. Sela
 
-v47 Hvor længe, JHVHv, vil du evigt skjule dig?
+v47 Hvor længe, HERRE, vil du evigt skjule dig?
 
 hvor længe{T: Ordene >>hvor længe<< er underforstået fra forrige linje.} skal din harme brænde som ild?
 
@@ -219,12 +219,12 @@ v51 Husk, Herre, spotten mod dine tjenere,
 
 husk,{T: Verbet >>husk<< er underforstået fra forrige linje.} at jeg i mit bryst bærer alle de mange folk,{E: Med støtte i den gamle syriske oversættelse retter man ofte: *kol-rabbîm* (>>alle de mange<<) til: *kᵊlimmat*: >>hån<< (>>husk, at jeg i mit bryst bærer folkenes hån<<).}
 
-v52 husk,{T: Ordet >>husk<< er stadig underforstået fra det foregående vers.} at dine fjender har spottet, JHVHv,
+v52 husk,{T: Ordet >>husk<< er stadig underforstået fra det foregående vers.} at dine fjender har spottet, HERRE,
 
 at de har spottet din salvedes fodspor.
 
 ==Liturgisk lovprisning==
-v53 Lovet være JHVH til evig tid!
+v53 Lovet være HERREN til evig tid!
 
 Amen, amen.
 

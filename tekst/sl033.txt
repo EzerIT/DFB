@@ -7,11 +7,11 @@
 ===Salme 33===
 
 ==Opfordring til lovsang==
-v1 Bryd ud i jubel, I retfærdige i Herren!{T: Kan evt. også oversættes: >>Bryd ud i jubel for JHVH, I retfærdige<<}
+v1 Bryd ud i jubel, I retfærdige i Herren!{T: Kan evt. også oversættes: >>Bryd ud i jubel for HERREN, I retfærdige<<}
 
 For de retskafne er det passende med lovsang.
  
-v2 Pris JHVH med citer,
+v2 Pris HERREN med citer,
 
 spil for ham på tistrenget harpe.
 
@@ -19,16 +19,16 @@ v3 Syng ham en ny sang,
 
 spil lifligt på strengene til jubelråb.
 
-==Lovprisning af JHVHs ords skabende og frelsende magt==
-v4 For JHVHs ord er retskaffent,
+==Lovprisning af HERRENS ords skabende og frelsende magt==
+v4 For HERRENS ord er retskaffent,
 
 og al hans gerning er trofast.
 
 v5 Han elsker retfærdighed og ret,
 
-JHVHs nåde opfylder jorden.
+HERRENS nåde opfylder jorden.
 
-v6 Ved JHVHs ord blev himlen{E: *šāmayim* (>>himmel<<) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også >>deres hær<< i næste linje)} skabt,
+v6 Ved HERRENS ord blev himlen{E: *šāmayim* (>>himmel<<) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også >>deres hær<< i næste linje)} skabt,
 
 og ved hans munds ånde hele dens hær.
 
@@ -36,7 +36,7 @@ v7 Han samler havets vand som en vold,{E: Ofte retter man vokaliseringen af *kan
 
 han lægger urdybene i forrådskamre.
 
-v8 Hele jorden skal frygte JHVH,
+v8 Hele jorden skal frygte HERREN,
 
 alle verdens indbyggere skal skælve for ham!
 
@@ -44,21 +44,21 @@ v9 For han talte, og det skete,
 
 han befalede, og det stod der.
 
-==Lovprisning af JHVHs råd==
-v10 JHVH gjorde folkenes{T: Kan også oversættes >>hedningernes<<} råd til intet,
+==Lovprisning af HERRENS råd==
+v10 HERREN gjorde folkenes{T: Kan også oversættes >>hedningernes<<} råd til intet,
 
 han hindrede folkeslagenes tanker.
 
-v11 JHVHs råd består til evig tid,
+v11 HERRENS råd består til evig tid,
 
 hans hjertes tanker i generation efter generation.
 
-v12 Saligt er det folk, hvis Gud JHVH er,
+v12 Saligt er det folk, hvis Gud HERREN er,
 
 folket som han udvalgte sig til ejendom.
 
-==Lovprisning af JHVHs alvidenhed==
-v13 Fra himlen skuede JHVH ned,
+==Lovprisning af HERRENS alvidenhed==
+v13 Fra himlen skuede HERREN ned,
 
 han betragtede alle menneskenes børn.
 
@@ -70,7 +70,7 @@ v15 Han er den som alene{E: Meningen med ordet *yaḥad* (>>alene<<)er usikker. 
 
 som giver agt på alle deres gerninger.
 
-==Lovprisning af JHVHs omsorgsfulde magt==
+==Lovprisning af HERRENS omsorgsfulde magt==
 v16 Ingen konge frelses ved en stor hær,
 
 en helt reddes ikke ved stor kraft.
@@ -79,7 +79,7 @@ v17 Hesten er et falsk håb som hjælper,{T: Der er tænkt på krig}
 
 ja, ved sin store styrke kan den ikke redde.
 
-v18 Se, JHVHs øje er vendt til dem som frygter ham,
+v18 Se, HERRENS øje er vendt til dem som frygter ham,
 
 til dem som tålmodigt venter på hans nåde,
 
@@ -87,8 +87,8 @@ v19 for at fri deres sjæl fra død
 
 og holde dem i live under hungersnøden.
 
-==Afsluttende bekendelse til JHVH som skaber og frelser==
-v20 Vor sjæl ventede på JHVH,
+==Afsluttende bekendelse til HERREN som skaber og frelser==
+v20 Vor sjæl ventede på HERREN,
 
 han er vor hjælp og vort skjold.
 
@@ -96,7 +96,7 @@ v21 Ja, over ham skal vort hjerte glæde sig,
 
 for vi har stolet på hans hellige navn.
 
-v22 Lad din nåde, JHVHv, være over os,
+v22 Lad din nåde, HERRE, være over os,
 
 sådan som vi har ventet på dig!
 

@@ -7,9 +7,9 @@
 ==Moses beskriver israelitternes rejser fra de rejste ud af Egypten til de kom til Kana’ans grænser.==
 
 v1 Dette er israelitternes rejser, da de var rejst ud af Egypten, efter deres hære, under Moses og Aron.
-v2 Moses nedskrev de steder hvorfra de på deres rejser efter JHVHs ord brød op, og dette er deres rejser efter de steder de brød op fra.
+v2 Moses nedskrev de steder hvorfra de på deres rejser efter HERRENS ord brød op, og dette er deres rejser efter de steder de brød op fra.
 v3 De rejste fra Ramses i den første måned, på den femtende dag i den første måned, på den anden dag i påsken rejste israelitterne med løftet hånd for alle egypternes øjne.
-v4 Da var egypterne ved at begrave alle førstefødte som JHVH havde slået ihjel blandt dem, og JHVH havde holdt dom over deres guder.
+v4 Da var egypterne ved at begrave alle førstefødte som HERREN havde slået ihjel blandt dem, og HERREN havde holdt dom over deres guder.
 v5 Israelitterne brød op fra Ramses og slog lejr i Sukkot.
 v6 De brød op fra Sukkot og slog lejr i Etam på grænsen til ørkenen.
 v7 De brød op fra Etam og vendte om til Pi-ha-Kirot, som er lige over for Ba’al-Sefon, og de slog lejr lige foran Migdol.
@@ -43,7 +43,7 @@ v34 De brød op fra Jotbata og slog lejr i Abrona.
 v35 De brød op fra Abrona og slog lejr i Esjongeber.
 v36 De brød op fra Esjongeber og slog lejr i Zins ørken, det er Kadesh.
 v37 De brød op fra Kadesh og slog lejr ved bjerget Hor på grænsen til Edom.
-v38 Da gik præsten Aron op på bjerget Hor, efter JHVHs ord, og døde der i det 40. år efter at israelitterne var gået ud af Egypten, i den femte måned på den første dag i måneden.
+v38 Da gik præsten Aron op på bjerget Hor, efter HERRENS ord, og døde der i det 40. år efter at israelitterne var gået ud af Egypten, i den femte måned på den første dag i måneden.
 v39 Aron var 123 år gammel da han døde på bjerget Hor.
 v40 Den kana’anæiske konge i Arad, som boede i den sydlige del af Kana’an, hørte om israelitternes komme.
 v41 De brød op fra bjerget Hor og slog lejr i Salmona.
@@ -56,9 +56,9 @@ v47 De brød op fra Almon-Diblatajim og slog lejr i Abarimbjergene foran Nebo.
 v48 De brød op fra Abarimbjergene og slog lejr på Moabs sletter ved Jordan over for Jeriko.
 v49 De slog lejr ved Jordan i området fra Bet-ha-Jeshimot til Abel-Shittim på Moabs sletter.
 
-==JHVH befaler dem atter at uddrive alle landets indbyggere og at uddele landet ved lodkastning.==
+==HERREN befaler dem atter at uddrive alle landets indbyggere og at uddele landet ved lodkastning.==
 
-v50 JHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:
+v50 HERREN talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:
 v51 >>Tal til israelitterne og sig til dem: >Når I er gået over Jordan ind i Kana’an,
 v52 da skal I uddrive alle landets indbyggere foran jer og tilintetgøre alle deres billedstøtter, og I skal tilintetgøre alle deres støbte billeder og ødelægge alle deres høje.
 v53 I skal indtage landet og bo i det, for jeg har givet jer landet i eje.

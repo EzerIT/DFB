@@ -9,11 +9,11 @@
 ==Lovprisning og bøn==
 v1 Halleluja!
 
-Tak JHVH, for han er god,
+Tak HERREN, for han er god,
 
 for hans nåde varer til evig tid.
 
-v2 Hvem kan fremsige JHVHs vældige gerninger,
+v2 Hvem kan fremsige HERRENS vældige gerninger,
 
 forkynde al hans pris?
 
@@ -21,7 +21,7 @@ v3 Salige{T: Oversættes nu ofte: >>lykkelige<<.} er de som våger over ret,
 
 og den som øver{E: Således den masoretiske tekst. En del håndskrifter har dog pluralis: >>de som øver<< (*ʕōśê* i stedet for *ʕōśēʰ*).} retfærdighed til alle tider.
 
-v4 Husk mig, JHVHv, med velviljen til dit folk,
+v4 Husk mig, HERRE, med velviljen til dit folk,
 
 tag dig af mig med din frelse
 
@@ -78,7 +78,7 @@ men sendte tærende sygdom mod dem.{T: Ordret: >>mod deres sjæl<<. Andre overs�
 
 v16 De blev skinsyge på Moses i lejren,
 
-på Aron, JHVHs hellige.
+på Aron, HERRENS hellige.
 
 v17 Jorden åbnede sig og opslugte Datan,
 
@@ -118,7 +118,7 @@ de troede ikke hans ord.
 
 v25 De murrede i deres telte,
 
-de hørte ikke på JHVHs røst.
+de hørte ikke på HERRENS røst.
 
 v26 Da løftede han sin hånd mod dem{E: Den hebraiske tekst kan både betyde at Gud aktivt slår folket ned – og at han aflægger ed på at han vil gøre det.}
 
@@ -154,7 +154,7 @@ så han talte uoverlagt med sine læber.
 
 v34 De udryddede ikke folkene,
 
-som JHVH havde sagt det til dem.
+som HERREN havde sagt det til dem.
 
 v35 De blandede sig med folkene{E: Det hebraiske *gôyim* (>>folkene<<) oversættes i en del sammenhænge: >>hedninger<<, og det spiller utvivlsomt med her (samme ord i v.34).}
 
@@ -180,7 +180,7 @@ v39 De gjorde sig urene ved deres gerninger,
 
 og de bedrev hor ved deres handlinger.
 
-v40 Da blussede JHVHs vrede op mod hans folk,
+v40 Da blussede HERRENS vrede op mod hans folk,
 
 og han fik afsky for sin arv.
 
@@ -211,7 +211,7 @@ v46 Han lod dem finde barmhjertighed{T: Ordret: >>Han gjorde dem til barmhjertig
 hos alle dem som havde ført dem i fangenskab.
 
 ==Bøn==
-v47 Frels os, JHVHv, vor Gud,
+v47 Frels os, HERRE, vor Gud,
 
 og saml os fra folkene
 
@@ -220,7 +220,7 @@ så vi kan takke dit hellige navn,{T: Ordret: >>din helligheds navn<<.}
 rose os af at lovprise dig.{T: Ordret: >>din lovprisning<<.}
 
 ==Lovprisning==
-v48 Lovet{T: Kan også oversættes: >>velsignet<<.} være JHVH, Israels Gud,
+v48 Lovet{T: Kan også oversættes: >>velsignet<<.} være HERREN, Israels Gud,
 
 fra evighed og til evighed,
 

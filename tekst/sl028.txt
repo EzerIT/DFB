@@ -10,7 +10,7 @@
 v1 Af David.
 
 ==Bøn om hjælp==
-Til dig, JHVHv, vil jeg råbe,
+Til dig, HERRE, vil jeg råbe,
 
 min klippe, vend dig ikke tavs bort fra mig{T: Dvs.: Ignorer mig ikke!}
 
@@ -42,18 +42,18 @@ giv dem efter deres hænders værk,
 
 gengæld dem deres handling.
 
-v5 For de giver ikke agt på JHVHs gerninger,
+v5 For de giver ikke agt på HERRENS gerninger,
 
 og heller ikke på hans hænders værk,
 
 han skal rive dem ned og ikke bygge dem op.
 
 ==Lovprisning og tak==
-v6 Lovet være JHVH,
+v6 Lovet være HERREN,
 
 for han har hørt min tryglende røst.
 
-v7 JHVH er min styrke og mit skjold,
+v7 HERREN er min styrke og mit skjold,
 
 på ham har mit hjerte stolet,
 
@@ -61,7 +61,7 @@ og jeg blev hjulpet så mit hjerte jublede,
 
 og med min sang{T: Ordret: >>ud af min sang<<.} vil jeg takke ham.
 
-v8 JHVH er styrke for sit folk,{E: Den masoretiske tekst har *lāmô*: >>for dem<<. Rettelsen til *lᵊʕammô* (>>for sit folk<<) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.}
+v8 HERREN er styrke for sit folk,{E: Den masoretiske tekst har *lāmô*: >>for dem<<. Rettelsen til *lᵊʕammô* (>>for sit folk<<) har støtte i flere håndskrifter og gamle oversættelser og svarer bedst til parallelismen med næste linje.}
 
 og han er en frelsende borg for sin salvede.
 

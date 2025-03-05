@@ -6,9 +6,9 @@
 ===Anden Mosebog, kapitel 5===
 
 ==Moses og Aron hos Farao==
-v1 Derefter gik Moses og Aron til Farao og sagde: >>Så siger JHVH, Israels Gud: Lad mit folk gå så de kan holde fest for mig i ørkenen.<<
-v2 Men Farao sagde: >>Hvem er JHVH, hvis røst jeg skal adlyde og lade Israel gå? Jeg har ikke kendt JHVH, og jeg vil heller ikke lade Israel gå.<< 
-v3 Så sagde de: >>Hebræernes Gud har mødtes med os; lad os dog gå tre dages rejse ud i ørkenen, og lad os bringe offer til JHVH, vor Gud, så han ikke skal ramme os med pesten eller med sværdet.<<
+v1 Derefter gik Moses og Aron til Farao og sagde: >>Så siger HERREN, Israels Gud: Lad mit folk gå så de kan holde fest for mig i ørkenen.<<
+v2 Men Farao sagde: >>Hvem er HERREN, hvis røst jeg skal adlyde og lade Israel gå? Jeg har ikke kendt HERREN, og jeg vil heller ikke lade Israel gå.<< 
+v3 Så sagde de: >>Hebræernes Gud har mødtes med os; lad os dog gå tre dages rejse ud i ørkenen, og lad os bringe offer til HERREN, vor Gud, så han ikke skal ramme os med pesten eller med sværdet.<<
 v4 Men Egyptens konge sagde til dem: >>Hvorfor, Moses og Aron, vil I holde folket fra dets arbejde? Gå hen til jeres tvangsarbejde.<<
 v5 Og Farao sagde: >>Se, nu er landets folk blevet talrige,{E: Mange oversættere indføjer med støtte i den Samaritanske Pentateuch et *mē-* (>>end<<) foran *ʕam* (>>folk<<), så oversættelsen bliver: >>se, nu er de talrigere end landets folk<<. Meningen med den overleverede tekst må være at Farao med glæde ser at han har mange trælle, og den rigdom vil han ikke give slip på. *ʕam hāʔāreṣ* (>>landets folk<<) er i hans mund en foragtelig betegnelse for landarbejdere.} og I vil bringe dem hvile fra deres tvangsarbejde.<<
 v6 Samme dag befalede Farao slavefogederne over folket og dets arbejdsformænd: 
@@ -22,11 +22,11 @@ v13 Slavefogederne skyndede på dem idet de sagde: >>Fuldfør jeres arbejde, dag
 v14 Og Israels børns arbejdsformænd, som Faraos slavefogeder havde sat over dem, blev pryglet idet de{E: Det er slavefogedernes udsagn der er refereret.} sagde: >>Hvorfor har I ikke opfyldt jeres kvantum med at lave teglsten i går og i dag som i går og i forgårs?{E: Det sidste er et stående hebraisk udtryk for: *tidligere*. Ordret virker det selvmodsigende her.}<<
 v15 Da kom Israels børns arbejdsformænd og råbte til Farao: >>Hvorfor gør du sådan med dine trælle? 
 v16 Der bliver ikke givet strå til dine trælle, og >teglsten<, siger de til os, >skal I lave!< Og se: dine trælle bliver pryglet; men det er dit folk der har syndet.<<{T: Formuleringen i den masoretiske tekst er omdiskuteret. Som der er vokaliseret, står verbet *ḥṭˀ* (>>synde<<) som qatal 2. pers. fem. sing., men opfattes – medmindre man foreslår rettelser – oftest som uregelmæssig 3. pers. fem. sing.; *ʕam*  (>>folk<<) er dog normalt mask. Septuaginta og Vulgata har tilsyneladende læst (eller rettet til): *wᵊḥāṭāˀtā lᵊʕammexā*: >>men du har forsyndet dig mod dit folk<<).}
-v17 Men han sagde: >>I er dovne, dovne. Derfor siger I: >Lad os gå, lad os ofre til JHVH.< 
+v17 Men han sagde: >>I er dovne, dovne. Derfor siger I: >Lad os gå, lad os ofre til HERREN.< 
 v18 Men gå nu hen og arbejd. Ingen strå bliver givet til jer, men I skal give det fastsatte kvantum teglsten.<<
 v19 Da så Israels børns arbejdsformænd at de var i en ond situation,{E: Grundteksten har ordet: *rāʕ* (>>ond situation<<, ofte oversat: >>knibe<<). Den egyptiske hovedgud hed Ra, og Farao var personificering af netop Ra. Formændene så sig selv i *rāʕ*, en ond situation; de var udleveret til dem der dyrkede Ra.} idet der blev sagt: >>I må intet formindske i antallet af jeres teglsten, dag for dags opgave.<<
 v20 Da traf de Moses og Aron der kom den i møde, da de gik ud fra Farao.
-v21 De sagde til dem: >>JHVH skal se på jer og skal dømme jer{T: >>jer<< er ikke gentaget i grundteksten, men er underforstået, idet det efterfølgende *ʔᵃšer* (>>som<<) henviser til Moses og Aron.} som{T: I sammenhængen kan *ʔᵃšer* også oversættes: >>siden (I har gjort ...)<<.} har gjort vores lugt stinkende i Faraos øjne og i hans tjeneres øjne, så I har givet et sværd i deres hånd til at slå os ihjel.<< 
-v22 Da vendte Moses sig igen til JHVH og sagde: >>Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig?
+v21 De sagde til dem: >>HERREN skal se på jer og skal dømme jer{T: >>jer<< er ikke gentaget i grundteksten, men er underforstået, idet det efterfølgende *ʔᵃšer* (>>som<<) henviser til Moses og Aron.} som{T: I sammenhængen kan *ʔᵃšer* også oversættes: >>siden (I har gjort ...)<<.} har gjort vores lugt stinkende i Faraos øjne og i hans tjeneres øjne, så I har givet et sværd i deres hånd til at slå os ihjel.<< 
+v22 Da vendte Moses sig igen til HERREN og sagde: >>Herre, hvorfor handler du ondt mod dette folk? Hvorfor har du dog sendt mig?
 v23 For siden jeg gik til Farao for at tale i dit navn, har han handlet ondt mod dette folk, og du har ingenlunde{T: Den hebraiske tekst har verbet *nṣl* (>>befri<<) to gange: Først som infinitiv og derefter som qatal. Det er en almindelig måde i hebraisk til forstærkelse af verbet.} befriet dit folk<<.
 

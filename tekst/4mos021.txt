@@ -8,8 +8,8 @@
 ==Arads konge slår Israel. De beder til Gud og overvinder ham.==
 
 v1 Da kana’anæeren, Arads konge, som boede i Sydlandet, hørte at Israel kom ad Atarim-vejen, gik han i kamp mod Israel og førte nogle af dem bort i fangenskab.
-v2 Da aflagde Israel et løfte til JHVH og sagde: >>Hvis du giver dette folk i min magt, vil jeg lægge band over deres byer.<<
-v3 JHVH hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.
+v2 Da aflagde Israel et løfte til HERREN og sagde: >>Hvis du giver dette folk i min magt, vil jeg lægge band over deres byer.<<
+v3 HERREN hørte Israels røst og overgav kana’anæerne til dem, og man bandlyste dem og deres byer og gav stedet navnet Horma.
 
 ==Israelitterne beklager sig atter og bliver bidt af slanger. De som ser hen til bronzeslangen, bliver raske.==
 //0 v4 Så rejste de af sted fra bjerget Hor i retning af Sivhavet
@@ -52,9 +52,9 @@ v10 Israelitterne brød op derfra, og de slog lejr i Obot.
 v11 De brød op fra Obot og slog lejr ved Ijje-ha-Abarim i ørkenen øst for Moab.
 v12 Derfra brød de op og slog lejr i Zered-dalen.
 v13 Derfra brød de op og slog lejr på denne side af Arnon, som går gennem ørkenen, og som går ud fra amoritternes land, for Arnon var grænsen mellem Moab og amoritterne.
-v14 Derfor omtales  i Bogen om JHVHs Krige Vaheb i Sufa,  Arnons flodlejer,
+v14 Derfor omtales  i Bogen om HERRENS Krige Vaheb i Sufa,  Arnons flodlejer,
 v15 og skråningerne op til bosættelsen ved Ar, der markerer grænsen ind til Moab.
-v16 Derfra rejste de til Be’er. Det er den brønd som JHVH talte om til Moses: >>Saml folket, og jeg vil give dem vand.<<
+v16 Derfra rejste de til Be’er. Det er den brønd som HERREN talte om til Moses: >>Saml folket, og jeg vil give dem vand.<<
 v17 Da sang Israel denne sang: >>Kom op, brønd! Syng om den.
 v18 Brønden som er gravet af stammelederne, kastet af de ædle blandt folket, med kongespir og herskerstave!<< Fra ørkenen rejste de til Mattana,
 v19 og fra Mattana til Nahaliel, fra Nahaliel til Bamot
@@ -78,5 +78,5 @@ v32 Moses sendte folk for at udspionere Jazer, og de indtog dens tilhørende bye
 ==Og, kongen af Bashan, overvindes på lignende måde.==
 
 v33 De vendte sig og drog op ad vejen til Bashan. Da drog Og, kongen af Bashan, ud imod dem med hele sit folk til Edre’i for at kæmpe mod dem.
-v34 JHVH sagde til Moses: >>Frygt ikke for ham, for jeg har givet ham i din magt, og hele hans folk og hans land, og du skal gøre ved ham som du gjorde ved amoritterkongen Sihon, som boede i Heshbon.<<
+v34 HERREN sagde til Moses: >>Frygt ikke for ham, for jeg har givet ham i din magt, og hele hans folk og hans land, og du skal gøre ved ham som du gjorde ved amoritterkongen Sihon, som boede i Heshbon.<<
 v35 De slog ham og hans sønner og hele hans folk så at man ikke lod nogen blive tilbage, og de indtog hans land som ejendom.

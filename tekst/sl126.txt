@@ -9,8 +9,8 @@
 ==Overskrift==
 v1 Valfartssang.{E: Se note til Sl 120,1.}
 
-==Da JHVH vendte Zions fangenskab==
-Da JHVH vendte Zions fangenskab,{E: Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: >>fangenskab<<), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: >>fangenskab<<. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: >>lod<<.}
+==Da HERREN vendte Zions fangenskab==
+Da HERREN vendte Zions fangenskab,{E: Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: >>fangenskab<<), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: >>fangenskab<<. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: >>lod<<.}
 
 da var vi som drømmende,
 
@@ -20,14 +20,14 @@ og vor tunge med jubel.
 
 Da sagde man blandt folkene:{T: Kan også oversættes: >>hedningerne<<.}
 
->>JHVH har gjort store ting mod dem.<<
+>>HERREN har gjort store ting mod dem.<<
 
-v3 JHVH har gjort store ting mod os;
+v3 HERREN har gjort store ting mod os;
 
 vi blev glade.
 
 ==Bøn om at frelserværket føres til ende==
-v4 Vend vor lod,{E: Konsonantteksten har: *šᵊvûtēnû*: >>vor skæbne<<, mens vokaliseringen forudsætter: *šᵊvîtēnû*: >>vort fangenskab<<, jf. note til v.1.} JHVHv,
+v4 Vend vor lod,{E: Konsonantteksten har: *šᵊvûtēnû*: >>vor skæbne<<, mens vokaliseringen forudsætter: *šᵊvîtēnû*: >>vort fangenskab<<, jf. note til v.1.} HERRE,
 
 som Sydlandets vandløb!{T: De fyldes i regntiden efter tørken.}
 

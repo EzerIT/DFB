@@ -7,14 +7,14 @@
 ===Salme 116{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 115, som indledning til Sl 116.}===
 
 ==Du har reddet mit liv==
-v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for JHVH har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>JHVH<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker JHVH, for han har hørt min tryglende røst<<.} at JHVH har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(JHVH) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
+v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for HERREN har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>HERREN<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker HERREN, for han har hørt min tryglende røst<<.} at HERREN har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(HERREN) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
 
 
 min tryglende røst.{T: Ordret: >>min tryglens røst<<.}
 
 v2 For han har bøjet sit øre til mig,
 
-og i mine dage vil jeg udråbe:{E: Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil >>råbe<< i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (>>og i mine dage<<) til: *bᵊyôm*: >>den dag da<< = >>da<<; man oversætter også yiqtol: *ʔeqrāˀ* (>>jeg vil råbe/udråbe<<) ved fortid: >>(da) jeg råbte<<.}
+og i mine dage vil jeg udråbe:{E: Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil >>råbe<< i betydningen påkalde HERREN. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (>>og i mine dage<<) til: *bᵊyôm*: >>den dag da<< = >>da<<; man oversætter også yiqtol: *ʔeqrāˀ* (>>jeg vil råbe/udråbe<<) ved fortid: >>(da) jeg råbte<<.}
 
 v3 >>Dødens reb omgav mig,
 
@@ -22,21 +22,21 @@ og dødsrigets trængsler havde fundet mig,
 
 jeg fandt{E: Her og i v.4 og v.6 oversættes yiqtol normalt ved fortid idet verberne angiver en følge af det forgående.} nød og plage.
 
-v4 Da påkaldte jeg JHVHs navn:
+v4 Da påkaldte jeg HERRENS navn:
 
->>Ak, JHVHv, red mit liv!<<{T: Ordret: >>min sjæl<<.}
+>>Ak, HERRE, red mit liv!<<{T: Ordret: >>min sjæl<<.}
 
-v5 JHVH er nådig og retfærdig,
+v5 HERREN er nådig og retfærdig,
 
 og vor Gud forbarmer sig.
 
-v6 JHVH beskytter enfoldige,
+v6 HERREN beskytter enfoldige,
 
 jeg var ringe, men han hjalp mig.<<
 
 v7 Min sjæl, kom tilbage til din ro,
 
-for JHVH har handlet vel imod dig.
+for HERREN har handlet vel imod dig.
 
 v8 Ja, du har reddet mit liv{T: Ordret: >>min sjæl<<.} fra døden,
 
@@ -44,7 +44,7 @@ mit øje fra tåre,
 
 min fod fra fald.
 
-v9 Jeg kan vandre for JHVHs ansigt
+v9 Jeg kan vandre for HERRENS ansigt
 
 i de levendes lande.
 
@@ -57,23 +57,23 @@ v11 Jeg sagde i min angst:
 >>Hele menneskeheden er løgnere.<<
 
 ==Jeg vil løfte frelsens bæger==
-v12 Hvordan skal jeg gengælde JHVH
+v12 Hvordan skal jeg gengælde HERREN
 
 alle hans velgerninger mod mig?
 
 v13 Frelsens bæger vil jeg løfte
 
-og påkalde JHVHs navn.
+og påkalde HERRENS navn.
 
-v14 Jeg vil indfri mine løfter til JHVH,
+v14 Jeg vil indfri mine løfter til HERREN,
 
 og det foran hele hans folk.
 
-v15 Kostbar i JHVHs øjne
+v15 Kostbar i HERRENS øjne
 
 er hans frommes død.{T: Oversættes nu ofte: >>liv<<, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes >>liv<< (jf. v. 8). Men grundteksten har: *māwet*: >>død<<.}
 
-v16 Ak, JHVHv, jeg er jo din træl,
+v16 Ak, HERRE, jeg er jo din træl,
 
 jeg er din træl, din trælkvindes søn,
 
@@ -81,13 +81,13 @@ du har løst mine lænker.
 
 v17 Til dig vil jeg ofre slagtoffer som takoffer
 
-og påkalde JHVHs navn.
+og påkalde HERRENS navn.
 
-v18 Jeg vil indfri mine løfter til JHVH,
+v18 Jeg vil indfri mine løfter til HERREN,
 
 og det foran hele hans folk,
 
-v19 i forgårdene til JHVHs hus,
+v19 i forgårdene til HERRENS hus,
 
 i din midte, Jerusalem!
 

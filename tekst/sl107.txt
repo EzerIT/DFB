@@ -7,11 +7,11 @@
 ===Salme 107{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 106 i stedet være indledning til Sl 107.}===
 
 ==Opfordring til taksigelse==
-v1 Tak JHVH, for han er god,
+v1 Tak HERREN, for han er god,
 
 for hans nåde{N: nåde} varer til evig tid.
 
-v2 Det skal JHVHs genløste sige,
+v2 Det skal HERRENS genløste sige,
 
 dem som han har genløst af fjendes{E: Grundtekstens: *ṣār* (>>fjende<<) kan også oversættes: >>nød<<, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).} hånd,
 
@@ -28,7 +28,7 @@ v5 de var sultne og også tørstige,
 
 deres sjæl vansmægtede i dem.
 
-v6 De råbte til JHVH i deres nød,
+v6 De råbte til HERREN i deres nød,
 
 han reddede dem ud af deres trængsler.
 
@@ -36,7 +36,7 @@ v7 Han førte dem ad rette vej,
 
 så de gik til en by de kunne bo i.
 
-v8 De skal takke JHVH for hans nåde
+v8 De skal takke HERREN for hans nåde
 
 og for hans undere mod menneskebørn,
 
@@ -57,7 +57,7 @@ v12 Han ydmygede deres hjerte med plager,
 
 de snublede, og der var ingen hjælper.
 
-v13 De råbte til JHVH i deres nød,
+v13 De råbte til HERREN i deres nød,
 
 han frelste dem af deres trængsler.
 
@@ -65,7 +65,7 @@ v14 Han førte dem af mørke og dødsskygge{E: Se note til v.10.}
 
 og sønderrev deres lænker.
 
-v15 De skal takke JHVH for hans nåde
+v15 De skal takke HERREN for hans nåde
 
 og for hans undere mod menneskebørn,
 
@@ -82,7 +82,7 @@ v18 Deres sjæl afskyede al mad,
 
 og de kom nær til dødens porte.
 
-v19 Da råbte de til JHVH i deres nød,
+v19 Da råbte de til HERREN i deres nød,
 
 han frelste dem fra deres trængsler.
 
@@ -90,7 +90,7 @@ v20 Han sendte sit ord for at helbrede dem
 
 og redde fra deres grave.{E: Undertiden retter man: *miššᵊḥîtôtām* (>>fra deres grave<<) til: *miššaḥat ḥayyātām*: >>deres liv fra graven<<. Rettelsen har dog ingen støtte i håndskrifter.}
 
-v21 De skal takke JHVH for hans nåde
+v21 De skal takke HERREN for hans nåde
 
 og for hans undere mod menneskebørn,
 
@@ -103,7 +103,7 @@ v23 De,{T: Se note til v10.} som drog ud på havet i skibe,
 
 som drev handel på store vande,{T: Kan også oversættes: >>mange vande<<.}
 
-v24 de så JHVHs gerninger
+v24 de så HERRENS gerninger
 
 og hans undere på dybet.
 
@@ -119,7 +119,7 @@ v27 De dansede og ravede som den berusede,
 
 og al deres visdom blev forvirret.
 
-v28 Da råbte de til JHVH i deres nød,
+v28 Da råbte de til HERREN i deres nød,
 
 han frelste dem fra deres trængsler.
 
@@ -131,7 +131,7 @@ v30 De blev glade fordi de faldt til ro,
 
 og han førte dem til en havn som de ønskede.
 
-v31 De skal takke JHVH for hans nåde
+v31 De skal takke HERREN for hans nåde
 
 og for hans undere mod menneskebørn
 
@@ -139,7 +139,7 @@ v32 og ophøje ham i folkets menighed
 
 og prise ham i de ældstes forsamling.
 
-==Lovprisning af JHVHs magt og trofasthed==
+==Lovprisning af HERRENS magt og trofasthed==
 v33 Han kan gøre floder til en ørken
 
 og kildevæld til udtørret jord,
@@ -182,7 +182,7 @@ mens al uretfærdighed har lukket sin mund til.
 
 v43 Den som er vís, skal give agt dette,
 
-og de skal reflektere over JHVHs nåde{N: nåde}!
+og de skal reflektere over HERRENS nåde{N: nåde}!
 
 
 

@@ -10,7 +10,7 @@
 v1 Salme af David.
 
 ==Råb om bønhørelse==
-JHVHv, jeg råber{T: Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.} til dig, skynd dig til mig,
+HERRE, jeg råber{T: Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.} til dig, skynd dig til mig,
 
 lyt til min røst når jeg kalder på dig.
 
@@ -19,7 +19,7 @@ v2 Lad min bøn gælde{T: Ordret: >>være tilberedt<<.} som et røgelsesoffer fo
 mine løftede hænder{T: Ordret: >>min hænders opløften<<.} som et aftenafgrødeoffer.
 
 ==Bøn om styrke mod fristelsen==
-v3 JHVHv, sæt vagt ved min mund,
+v3 HERRE, sæt vagt ved min mund,
 
 vogt mine læbers dør.
 

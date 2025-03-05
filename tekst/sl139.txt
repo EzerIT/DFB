@@ -11,7 +11,7 @@ v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det e
 
 Af David. En salme.
 
-==JHVH er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}==
+==HERREN er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}==
 HERRE, du ransager{T: Kan også oversættes >>har ransaget mig<<.} mig og kender mig.
 
 v2 Du ved om jeg sidder eller står,
@@ -24,7 +24,7 @@ og alle mine veje er du fortrolig med.
 
 v4 For der er ikke et ord på min tunge
 
-uden at{T: Ordret: >>se<<.} du, JHVHv, kender det fuldt ud.
+uden at{T: Ordret: >>se<<.} du, HERRE, kender det fuldt ud.
 
 v5 Bagfra og forfra omslutter du mig,
 
@@ -104,7 +104,7 @@ v20 De som taler om dig med ond hensigt,
 bruger dit navn til falskhed, dine fjender,{E: Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>rejser/løfter/bruger<<. Andre oversætter: >>og som fór/farer med løgn imod dig<<.
 Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at *ʕāreʸxā* (>>dine byer<<) ikke er afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som er en aramaisk form for: *ṣār*: >>fjende<<. Andre foreslår, at der skulle stå: *ʕāleʸxā*: >>imod dig<< (som forgæves har rejst sig mod dig). Oversættelsen er omstridt og usikker.}
 
-v21 skulle jeg ikke hade dem som hader dig, JHVHv,
+v21 skulle jeg ikke hade dem som hader dig, HERRE,
 
 og væmmes ved dem som rejser sig mod dig?
 

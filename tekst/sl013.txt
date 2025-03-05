@@ -10,7 +10,7 @@
 //0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} //1 Salme af David.
 
 ==Hvor længe?==
-//0 v2 Hvor længe, //5 JHVHv, //4 vil du evigt glemme mig?
+//0 v2 Hvor længe, //5 HERRE, //4 vil du evigt glemme mig?
 
 //3 Hvor længe vil du skjule dit ansigt for mig?
 
@@ -21,7 +21,7 @@
 //5 Hvor længe skal min fjende triumfere over mig?
 
 ==Klagende bøn==
-//2 v4 Se til mig, //3 svar mig, //4 JHVHv min Gud!
+//2 v4 Se til mig, //3 svar mig, //4 HERRE min Gud!
 
 //2 Giv mine øjne lys //5 så jeg ikke sover ind i døden,
  
@@ -33,6 +33,6 @@
 
 //4 mit hjerte skal juble over din frelse.
 
-//1 Jeg vil synge for JHVH,
+//1 Jeg vil synge for HERREN,
 
 //2 for han har gjort vel imod mig.

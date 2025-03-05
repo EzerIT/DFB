@@ -7,18 +7,18 @@
 ===Esajas' Bog, kapitel 14===
 
 ==Israels hjemkomst==
-v1 For JHVH vil forbarme sig over Jakob og igen udvælge Israel og anbringe dem i deres land; og den fremmede skal slutte sig til dem, og de skal holde sig til Jakobs hus.
-v2 Og folkeslag skal tage dem og bringe dem til deres sted, og Israels hus skal tage dem i besiddelse som trælle og trælkvinder i JHVHs land, så de holder dem fanget som de selv var fanget af, og hersker over deres undertrykkere.
+v1 For HERREN vil forbarme sig over Jakob og igen udvælge Israel og anbringe dem i deres land; og den fremmede skal slutte sig til dem, og de skal holde sig til Jakobs hus.
+v2 Og folkeslag skal tage dem og bringe dem til deres sted, og Israels hus skal tage dem i besiddelse som trælle og trælkvinder i HERRENS land, så de holder dem fanget som de selv var fanget af, og hersker over deres undertrykkere.
 
 ==Israels spottesang over Babyloniens konge==
-v3 Og det skal ske på den dag når JHVH skaffer dig ro efter din trængsel og din uro og efter det hårde arbejde som blev udført af dig:
+v3 Og det skal ske på den dag når HERREN skaffer dig ro efter din trængsel og din uro og efter det hårde arbejde som blev udført af dig:
 v4 Da skal du istemme denne spottesang imod Babyloniens konge og sige: 
 
 >>Hvor en undertrykker dog er færdig, 
 
 hans hærgen{E: Den hebraiske tekst har: *madhēvāʰ*, der kun optræder her i GT. Det betyder formodentlig >>arrogance<<. Oftest går man ud fra, at der skulle der stå: *marhēvāʰ*: >>hærgen<<, der støttes af de gamle oversættelser og et enkelt hebraisk håndskrift.} er slut!<<
 
-v5 JHVH har brækket ugudeliges stok, 
+v5 HERREN har brækket ugudeliges stok, 
 
 herskernes stav,
 
@@ -146,7 +146,7 @@ så de ikke rejser sig og tager jorden i besiddelse
 
 eller fylder verdens overflade med byer.
 
-v22 >>Jeg vil rejse mig imod dem,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn, >>og jeg vil udslette Babyloniens navn og rest og afkom og slægt,<< lyder JHVHs udsagn.
+v22 >>Jeg vil rejse mig imod dem,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn, >>og jeg vil udslette Babyloniens navn og rest og afkom og slægt,<< lyder HERRENS udsagn.
 v23 >>Og jeg vil gøre den til ejendom for pindsvin og til vandfyldt sump og feje den væk med ødelæggelsens kost,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn.
 
 ==Mod Assyrien==
@@ -217,6 +217,6 @@ og i hans horder{T: Andre oversætter: >>samlingssted<<. Oversættelsen er usikk
 
 v32 Og hvad skal man svare et folks budbringere?  
 
-At JHVH har grundlagt Zion, 
+At HERREN har grundlagt Zion, 
 
 og dér{T: Ordret: >>på den<<.} skal de elendige i hans folk søge tilflugt.

@@ -6,10 +6,10 @@
 
 ===Salme 112{T: Salmen er alfabetisk, så første linje begynder med alfabetets første bogstav, anden linje med det andet osv.}===
 
-==Den, der frygter JHVH, velsignes==
+==Den, der frygter HERREN, velsignes==
 v1 Halleluja!
 
-Salig{T: Oversættes nu ofte: >>lykkelig<<.} den mand som frygter JHVH,
+Salig{T: Oversættes nu ofte: >>lykkelig<<.} den mand som frygter HERREN,
 
 som glæder sig meget ved hans bud.
 
@@ -36,7 +36,7 @@ en retfærdig skal være til evigt minde.
 
 v7 Han skal ikke frygte ondt budskab,
 
-hans hjerte er fast, han har tillid til JHVH.
+hans hjerte er fast, han har tillid til HERREN.
 
 v8 Hans hjerte er urokkeligt, han skal ikke frygte,
 

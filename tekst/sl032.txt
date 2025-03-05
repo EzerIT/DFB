@@ -14,7 +14,7 @@ Salig er den, hvis overtrædelse er forladt,
 
 hvis synd er skjult.
 
-v2 Saligt er det menneske som JHVH ikke tilregner skyld,
+v2 Saligt er det menneske som HERREN ikke tilregner skyld,
 
 og i hvis ånd der ikke er svig.
 
@@ -35,7 +35,7 @@ v5 Jeg bekendte min synd for dig
 
 og skjulte ikke min skyld,
 
-jeg sagde: >>Jeg vil aflægge tilståelse for mine overtrædelser for JHVH<<,
+jeg sagde: >>Jeg vil aflægge tilståelse for mine overtrædelser for HERREN<<,
 
 og du forlod mig min syndeskyld. Sela
 
@@ -59,7 +59,7 @@ v8 >>Jeg vil undervise dig og lære dig den vej som du skal gå,
 
 jeg vil råde dig, idet mit øje er rettet mod dig.<<
 
-==Formaning og opmuntring til at stole på JHVH==
+==Formaning og opmuntring til at stole på HERREN==
 v9 Vær{E: Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers} ikke som hest, som muldyr, uden indsigt,
 
 hvis prydelse er tømme og bidsel, hvormed man kan tvinge dem
@@ -68,12 +68,12 @@ når de ikke vil komme nær til dig.
 
 v10 Mange smerter er der til den ugudelige,
 
-men den, som stoler på JHVH,
+men den, som stoler på HERREN,
 
 omgiver han med nåde{N: nåde}.
 
 ==Afsluttende lovprisning==
-v11 Glæd jer i JHVH, og fryd jer, I retfærdige!
+v11 Glæd jer i HERREN, og fryd jer, I retfærdige!
 
 og I skal juble, alle I som er oprigtige af hjertet!
 
