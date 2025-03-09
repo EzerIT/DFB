@@ -1,253 +1,277 @@
-!!<Modenhed: Delvis færdig>!!
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
-===Esajas' Bog, kapitel 40===
+ !!<Modenhed: Delvis færdig>!!
+ !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+ !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+ !!<Dato for denne version: 06.03.2025>!!
+
+ ===Esajas' Bog, kapitel 40===
 
 ==Glædesbud til Jerusalem==
-v1 Trøst, trøst mit folk, 
 
-siger jeres Gud;
+//0 v1 Trøst, 
+//5 trøst mit folk, 
 
-v2 tal til Jerusalems hjerte 
+//4 siger jeres Gud;
 
-og råb til hende 
+//3 v2 tal til Jerusalems hjerte 
 
-at hendes kamp er til ende, 
+//4 og råb til hende 
 
-at hendes skyld er betalt, 
+//5 at hendes kamp er fuldført, 
 
-at hun har fået af HERRENS hånd 
+//6 at hendes skyld er betalt, 
+
+//7 at hun har fået af HERRENS hånd 
 
 dobbelt for alle sine synder.
 
-***
+ ***
 
-v3 En stemme råber:
+//2 v3 En stemme råber nu:
 
->>I ørkenen
+//3 >>I ørkenen 
 
 skal I bane HERRENS vej, 
 
-I skal jævne 
+//4 På den øde slette skal I jævne
 
-i ødemarken
+ en banet vej for vores Gud!
 
-en banet vej for vor Gud! 
+//5 v4 Hver dal skal hæves, 
 
-v4 Hver dal skal hæves, 
+//7 og hvert bjerg og hver høj skal sænkes; 
 
-og hvert bjerg og hver høj skal sænkes; 
+//6 det bakkede terræn skal blive til jævnt land 
 
-det bakkede terræn skal blive til slette 
+//7 og de ujævne områder til slette. 
 
-og de ujævne områder til dal. 
+//6 v5 HERRENS herlighed skal åbenbares, 
 
-v5 HERRENS herlighed skal åbenbares, 
+//7 og ethvert menneske{T: Ordret: >>alt kød<<.} skal sammen se den; 
 
-og alt kød skal sammen se den; 
+//8 for HERRENS mund har talt.<<
 
-for HERRENS mund har talt.<<
+ ***
 
-***
+//2 v6 En stemme siger nu: 
+//4 >>Råb!<< 
 
-v6 En stemme siger: >>Forkynd!<< 
+//3 Men den vil sige:{E: Weqatal-formen *weʔāmar* kan også bruges som en opfordring: >>Og den skal sige<<, eller, mindre sandsynligt her, som fortid: >>og han/den sagde<<. Alternativet er at omvokalisere formen til 1. person *ʔômar* (>>jeg siger<<) ud fra Esajas A teksten fra Dødehavet og LXX. Ellers må der tilføjes en uidentificeret ekstra stemme: >>en anden siger<<. Oftest deles det efterfølgende citat op i et spørgsmål og et svar ved en anden ikke nærmere angivet stemme.}
+//6 >>Hvordan kan jeg råbe? 
 
-Og man siger: >>Hvad skal jeg forkynde?<< 
+//7 Ethvert menneske {H: Es 40,5.} er græs, 
 
->>Alt kødet er græs, 
+//9 og al dets ynde er som markens blomster.
 
-og al dets ynde er som markens blomst.
+//8 v7 Græsset bliver tørt, 
+//9 blomsten visner, 
 
-v7 Græs bliver tørt, blomst visner, 
+//10 for{T: Kan også oversættes >>så snart<<.} HERRENS ånde{N: Ånd} blæser på det. 
 
-når{T: Kan også oversættes: >>for<<.} HERRENS ånde blæser på det. 
+//5 ja, sandelig er folket græs!
 
-ja, sandelig er folket græs!
+//6 v8 Græsset bliver tørt, 
+//7 blomsten visner, 
 
-v8 Græs bliver tørt, blomst visner, 
+//8 men vores Guds ord vil bestå til evig tid.<<
 
-men vores Guds ord vil bestå til evig tid.<<
+ ***
 
-***
+//4 v9 Stig op på et højt bjerg, 
 
-v9 Stig op på et højt bjerg, du
+//6 du Zions glædesbudbringer, 
 
-Zions glædesbudbringer, 
+//5 løft din stemme med kraft, 
 
-løft din stemme med kraft, 
+//7 Jerusalems glædesbudbringer, 
 
-Jerusalems glædesbudbringer, 
+//6 løft den, 
+//7 frygt ikke; 
 
-løft den, frygt ikke; 
+//5 sig til Judas byer: 
 
-sig til Judas byer: 
+//6 >>Se, her er jeres Gud!<<
 
->>Se, her er jeres Gud!<<
+//7 v10 Se Herren HERREN,
 
-v10 Se Herren HERREN, 
+han vil komme med styrke, 
 
-han skal komme med styrke, 
+//9 og hans arm hersker for ham. 
 
-og hans arm hersker for ham. 
+//8 Se, hans løn er med ham, 
 
-Se, hans løn er med ham, 
+//10 og hans fortjeneste er foran ham.{N: Ansigt}
 
-og hans fortjeneste er foran ham.{T: Ordret: >>for hans ansigt<<.}
+//9 v11 Som en hyrde
 
-v11 Som en hyrde 
+ vil han vogte sin hjord,
 
-skal han vogte sin hjord, 
+//10 samle lammene i sine arme 
 
-samle lammene i sin arm 
+//12 og bære dem ved sit bryst;{T: Kan også oversættes: >>i sit skød<<.} 
 
-og bære dem ved sit bryst;{T: Kan også oversættes: >>i sit skød<<.} 
+//11 han vil lede de diegivende får.
 
-han skal lede de diegivende får.
+ ==Guds storhed==
 
+//1 v12 Hvem har målt vand i sin hule hånd 
 
-==Guds storhed==
-v12 Hvem har målt vand i sin hule hånd, 
+//6 og udmålt himlen i fingerspand, 
 
-og udmålt himlen i fingerspand, 
+//5 afmålt jordens støv i litermål,{H: Sl 80,6}
 
-og afmålt jordens støv i litermål,{T: Grundbetydningen af det hebraiske ord: *šāliš* er: >>en tredjedel<<. Her betegner det et mål, men det er usikkert hvilket mål, muligvis en tredjedel af en efa.}
+//5 vejet bjerge på en vægt 
 
-og vejet bjerge på en vægt 
+//6 og høje på vægtskåle?
 
-og høje på vægtskåle?
+//4 v13 Hvem har retledt HERRENS Ånd, 
 
-v13 Hvem har retledt HERRENS Ånd, 
+//6 og som hans rådgiver 
+//7 belært ham?
 
-og som hans rådgiver belært ham?
+//5 v14 Hos hvem fik han rådgivning, 
 
-v14 Hos hvem har han fået rådgivning, 
+//8 så han gav ham indsigt 
 
-så han skulle give ham indsigt 
+//8 og lærte ham om den rette sti;  
 
-og lære ham om den rette sti 
+//8 lærte ham kundskab 
 
-og lære ham kundskab 
+//9 og belærte ham om vejen til indsigt?
 
-og belære ham om indsigtens vej?
+//7 v15 Ja, folkeslag er som en dråbe fra en spand 
 
-v15 Se, folkeslag er som en dråbe fra en spand 
+//8 og må regnes som støv i vægtskåle! 
 
-og regnet som støv i vægtskåle! 
+//7 Ja, kystområder er som fint støv 
+//9 han samler op.
 
-Se, øer hæver han op som fint støv!
+//8 v16 Libanon er ikke nok, 
+//10 til brændsel
 
-v16 Og Libanon er ikke nok til brændsel, 
+//9 og dets vildt er ikke nok til brændoffer.
 
-og dets vildt er ikke nok til brændoffer.
+//6 v17 Alle folkeslagene er som intet for ham; 
 
-v17 Alle folkeslagene er som intet for ham; 
+//7 som{E: I stedet for *mē* (>>fra<<) læses *kᵊ* (>>som<<).}  intethed og det golde regnes de af ham.
 
-som{E: Den hebraiske tekst har præpositionen: *min* der i sammensætning skrives: *mē*: >>fra<<. Man går som regel ud fra at det skulle have været præpositionen: *kᵊ*: >>som<<. På hebraisk er forskellen ikke stor.}  intethed og for tomhed regnes de af ham.
+//3 v18 Med hvem vil I sammenligne Gud? 
 
-v18 Med hvem vil I sammenligne Gud? 
+//7 Og hvilken skikkelse 
+//8 vil I sammenligne med ham? 
 
-Og hvilken skikkelse vil I sammenligne med ham? 
+//6 v19 Gudebilledet har en kunsthåndværker støbt; 
 
-v19 Gudebilledet har en håndværker støbt; 
+//8 og en guldsmed beklæder det med guld 
 
-og en guldsmed beklæder det med guld 
+//9 og støber sølvkæder. 
 
-og støber sølvkæder. 
+//8 v20 Den fattige, som offergave 
+//7 er det træ 
+//10 der ikke rådner, 
+//9 han kan vælge; 
 
-v20 Den der er fattig{E: Hebraisk *hamᵊsukkān* (>>fattig<<) forklares ofte i sammenhængen som en træsort der kan bruges til fremstilling af et afgudsbillede, så oversættelsen bliver: >>ædeltræet til offergave<<.} på offergave,{E: Sætninen er omdiskuteret i sammenhængen. Man følger derfor ofte Septuginta der har: >>kunstneren udvælger træ der ikke rådner<<.} udvælger træ der ikke rådner; 
+//8 han må udsøge sig en dygtig håndværker
 
-en dygtig håndværker udsøger han sig 
+//9 til at opstille et gudebillede 
+//10 der ikke kan vælte. 
 
-til at opstille et gudebillede der ikke vakler. 
+ ***
 
-***
+//5 v21 Ved I ikke? 
+//7 Hører I ikke? 
 
-v21 Ved I ikke? Hører I ikke? 
+//8 Er det ikke forkyndt for jer fra begyndelsen? 
 
-Er det ikke forkyndt for jer fra begyndelsen? 
-
-Har I ikke forstået 
+//9 Har I ikke forstået 
 
 jordens grundlæggelse?
 
-v22 Han er den der troner oven over jordens kreds,{E: Ordret *ʕal-ḥûg hāʔāreṣ*, >>over jordens krumning.<< Det kan tolkes som den synlige himmel, jordens atmosfære, horisonten eller osteklokken, afhængigt af hvilket verdensbillede teksten tolkes ud fra. Der kan muligvis være tænkt på himmelhvælvingen i 1 Mos 1,6-8.} 
+//6 v22 Han er den der bor oven over jordens horisont,{E: Ordret *ʕal-ḥûg hāʔāreṣ* (>>over jordens krumning/cirkel/disk<<), muligvis en henvisning til himmelhvælvingen i 1 Mos 1,6-8.} 
 
-mens de der bor{E: Det hebraiske verbum er det samme som i forrige linje oversættes: >>troner<<.} på den, er som græshopper; 
+//7 mens de der bor på den, er som græshopper; 
 
-han spænder himlen ud som et slør 
+//6 han spænder himlen ud som et slør 
 
-og har bredt den ud som et telt til at bo i.
+//7 og har bredt den ud som et telt 
+//8 til at bo i.
 
-v23 Han der gør fyrster til intet, har gjort jordens dommere til tomhed.{T: Kan også oversættes: >>golde<<. Men hebraisk har samme ord som i vers 17.}
+//6 v23 Han der gør fyrster til intet, 
+//8 har skabt jordens dommere til det golde!{H: Es 40,17.}
 
-v24 Ja, knap er de plantet, knap er de sået, 
+//7 v24 Ja, knap er de plantet, 
+//9 knap er de sået, 
 
-knap har deres stikling slået rod i jorden, 
+//10 knap har deres stikling slået rod i jorden, 
 
-så blæser han også på dem så de bliver tørre, 
+//8 så blæser han også på dem 
+//9 så de bliver tørre, 
 
-og en storm fører dem bort som strå.
+//10 og en storm fører dem bort som strå.
 
-***
+ ***
 
-v25 >>Med hvem vil I sammenligne mig 
+//4 v25 >>Med hvem vil I sammenligne mig 
 
-så jeg skulle være hans lige?<< 
+//6 så jeg skulle være hans lige?<< 
 
-siger den Hellige.
+//7 siger den Hellige.
 
-v26 Løft jeres øjne imod det høje, og se: 
+//5 v26 Løft jeres øjne imod det høje, 
+//7 og se: 
 
-Hvem skabte disse ting? 
+//6 Hvem skabte disse ting? 
 
-Han der fører deres hær frem efter tal, 
+//7 Han der fører deres hærskare frem efter tal, 
 
-han kalder dem alle ved navn; 
+//8 han kalder dem alle ved navn; 
 
-på grund af vældig kraft og stærk styrke 
+//9 på grund af vældig kraft og stærk styrke 
 
 mangler der ikke én.
 
-***
+ ***
 
-v27 Hvorfor siger du, Jakob, 
+//2 v27 Hvorfor siger du, 
+//6 Jakob, 
 
-og udtaler du, Israel: 
+//5 og meddeler du, 
+//6 Israel: 
 
->>Min vej er skjult for HERREN, 
+//4 >>Min vej er skjult for HERREN, 
 
-og min ret går forbi min Gud.<<{T: Dvs. Gud ænser den ikke.}
+//5 og min ret omgås af min Gud.<<
 
-v28 Ved du ikke, 
+//3 v28 Ved du ikke, 
 
-har du ikke hørt? 
+//5 har du ikke hørt? 
 
-En evig Gud er HERREN, 
+//4 En evig Gud er HERREN, 
 
-Skaberen af jordens ender, 
+//5 Skaberen helt til jordens ender, 
 
-han bliver ikke udmattet og bliver ikke træt; 
+//6 han bliver ikke udmattet 
+//8 og bliver ikke træt; 
 
-hans indsigt kan ikke udforskes.
+//7 hans indsigt kan ikke udforskes.
 
-v29 Han giver den trætte styrke 
+//5 v29 Han giver den trætte styrke, 
 
-og for en kraftesløs gør han magten stor.
+//6 og til den kraftesløse giver han stor kraft.
 
-v30 Ynglinge bliver udmattede og trætte, 
+//7 v30 Ynglinge bliver udmattede 
+//10 og trætte, 
 
-og unge mænd snubler voldsomt.
+//9 og unge mænd snubler voldsomt.
 
-v31 Men de der venter på HERREN, får ny styrke, 
+//8 v31 Men de der venter på HERREN, vil få ny styrke, 
 
-de skal få svingfjer som ørnene, 
+//9 de vil får svingfjer som ørnene, 
 
-de skal løbe, men ikke blive udmattede, 
+//9 de løber, 
+//10 men bliver ikke udmattede, 
 
-de skal gå, men ikke blive trætte.
-
+//9 de går, 
+//10 men bliver ikke trætte.
 
 
 
