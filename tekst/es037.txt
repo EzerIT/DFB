@@ -19,7 +19,7 @@ v7 Se, jeg vil indgive ham en ånd, og han skal høre en efterretning og tage ti
 v8 Da kommandanten vendte tilbage, fandt han Assyriens konge i færd med at kæmpe mod Libna; for han hørte, at han var rejst fra Lakish.
 v9 Og han hørte om Tirhaka, Nubiens konge, at der blev sagt: Han er rykket ud for at kæmpe imod dig. Da han hørte det, sendte han budbringere til Hizkija og lod sige:
 v10 >>Sådan skal I sige til Hizkija, Judas konge: Lad ikke din Gud, som du sætter din lid til, bedrage dig så du siger: Jerusalem skal ikke gives i Assyriens konges hånd.
-v11 Se, du har hørt hvad Assyriens konger har gjort ved alle landene, at de har lagt ban på dem, og så skulle du reddes?
+v11 Se, du har hørt hvad Assyriens konger har gjort ved alle landene, at de har lagt band på dem, og så skulle du reddes?
 v12 Har folkenes{T: Kan også oversættes: >>hedningernes<<.} guder reddet dem som mine fædre ødelagde, nemlig Gozan og Karan og Resef og Edens børn, der er i Telassar?
 v13 Hvor er Hamats konge og Arpads konge og kongen over Sefarvajims by og af Hena og Ivva?<<
 
@@ -27,10 +27,10 @@ v13 Hvor er Hamats konge og Arpads konge og kongen over Sefarvajims by og af Hen
 v14 Og Hizkija modtog brevet{T: Det hebraiske ord står i pluralis, men det må formodentlig opfattes som understregning af hvor vigtigt brevet var, medmindre man vil følge Septuaginta og rette til singularis.} af sendebudenes hånd og læste det; og han gik op i HERRENS hus, og Hizkija bredte det ud for HERRENS ansigt.
 v15 Hizkija bad til HERREN og sagde:  
 v16 >>Hærskarers HERRE{N: Hærskarers}, Israels Gud, som troner over keruberne! Kun du alene er Gud over alle jordens kongeriger; du har skabt himlen og jorden.
-v17 Bøj, HERREN, dit øre og hør! Åbn, HERREN, dine øjne og se! Og hør alle Sankeribs ord som han har sendt for at håne den levende Gud.
-v18 I sandhed, HERREN: Assyriens konger har ødelagt alle landene{E: Enkelte håndskrifter har ikke: *hāˀᵃrāṣôt* (>>landene<<), men *haggôyim*: >>folkene<<, jf. parallellen i 2 Kong 19,17.} og deres land.{T: Sætningen kan også oversættes: >>Assyriens konger har lagt alle nationer og deres land øde<<. Det er dog samme hebraiske ord, der oversættes: >>nation<< og >>land<<.}
+v17 Bøj, HERRE, dit øre og hør! Åbn, HERRE, dine øjne og se! Og hør alle Sankeribs ord som han har sendt for at håne den levende Gud.
+v18 I sandhed, HERRE: Assyriens konger har ødelagt alle landene{E: Enkelte håndskrifter har ikke: *hāˀᵃrāṣôt* (>>landene<<), men *haggôyim*: >>folkene<<, jf. parallellen i 2 Kong 19,17.} og deres land.{T: Sætningen kan også oversættes: >>Assyriens konger har lagt alle nationer og deres land øde<<. Det er dog samme hebraiske ord, der oversættes: >>nation<< og >>land<<.}
 v19 Og de har overgivet deres guder til ilden, for de var ikke guder, men menneskehænders værk, træ og sten, og de tilintetgjorde dem.
-v20 Men nu, HERREN vor Gud! Frels os fra hans hånd, så alle jordens kongeriger må forstå at du er HERREN, du alene.<<
+v20 Men nu, HERRE vor Gud! Frels os fra hans hånd, så alle jordens kongeriger må forstå at du er HERREN, du alene.<<
 
 ==Profeti mod Sankerib==
 v21 Så sendte Esajas, Amos’ søn, bud til Hizkija og lod sige: >>Sådan siger HERREN, Israels Gud: Da du har bedt til mig angående Sankerib, Assyriens konge,

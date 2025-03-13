@@ -1,7 +1,7 @@
  !!<Modenhed: Delvis færdig>!!
  !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
  !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
- !!<Dato for denne version: 06.03.2025>!!
+ !!<Dato for denne version: 13.03.2025>!!
 
  ===Esajas' Bog, kapitel 40===
 
@@ -128,7 +128,7 @@ han vil komme med styrke,
 //6 og som hans rådgiver 
 //7 belært ham?
 
-//5 v14 Hos hvem fik han rådgivning, 
+//5 v14 Hos hvem fik han rådgivning
 
 //8 så han gav ham indsigt 
 
@@ -145,8 +145,8 @@ han vil komme med styrke,
 //7 Ja, kystområder er som fint støv 
 //9 han samler op.
 
-//8 v16 Libanon er ikke nok, 
-//10 til brændsel
+//8 v16 Libanon er ikke nok
+//10 til brændsel,
 
 //9 og dets vildt er ikke nok til brændoffer.
 
@@ -166,7 +166,7 @@ han vil komme med styrke,
 //9 og støber sølvkæder. 
 
 //8 v20 Den fattige, som offergave 
-//7 er det træ 
+//7 er det det træ 
 //10 der ikke rådner, 
 //9 han kan vælge; 
 
