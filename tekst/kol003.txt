@@ -1,10 +1,9 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 30.03.2023>!!
+!!<Dato for denne version: 17.03.2025>!!
 
-===Kolossenserbrevet, kapitel 3===
-
+===Paulus' Brev til Kolossenserne, kapitel 3===
 
 ==Søg det foroven==
 
@@ -12,14 +11,14 @@ v1 Når I altså er blevet oprejst med Kristus, så søg det foroven, hvor Krist
 
 ==Aflæg synden==
 
-v5 Dræb altså de jordiske{T: Ordret: >>som (er) på jorden<<} lemmer: Utugt, urenhed, lidenskab, ond lyst og griskhed, som er afgudsdyrkelse, v6 på grund af dem kommer Guds vrede over ulydighedens børn. v7 I dem vandrede I også engang, da I levede i dem, v8 men nu skal også I aflægge alt dette: Vrede, harme, ondskab, bespottelse og skamløs tale, v9 lyv ikke for hinanden, for I har aflagt det gamle menneske sammen med dets praksis, v10 og I har iført jer det nye, som fornyes til erkendelse efter hans billede som skabte det. v11 Her er der ikke græker og jøde, omskåren og uomskåren, barbar, skyter, slave og fri, men Kristus er alt og i alle.
+v5 Dræb altså de jordiske{T: Ordret: >>som (er) på jorden<<.} lemmer: Utugt, urenhed, lidenskab, ond lyst og griskhed, som er afgudsdyrkelse, v6 på grund af dem kommer Guds vrede over ulydighedens børn. v7 I dem vandrede I også engang, da I levede i dem, v8 men nu skal også I aflægge alt dette: Vrede, harme, ondskab, bespottelse og skamløs tale fra jeres mund, v9 lyv ikke for hinanden, for I har aflagt det gamle menneske sammen med dets praksis, v10 og I har iført jer det nye, som fornyes til erkendelse efter hans billede som skabte det. v11 Her er der ikke græker og jøde, omskåren og uomskåren, barbar, skyter, slave og fri, men Kristus er alt og i alle.
 
 ==Ifør jer kærligheden==
 
-v12 Ifør jer altså som Guds udvalgte, hellige og elskede, inderlig barmhjertighed, godhed, ydmyghed, mildhed og tålmodighed, v13 så I bærer over med hinanden, og så I tilgiver hinanden, hvis nogen har noget at bebrejde en anden; ligesom også Herren tilgav jer, således skal også I gøre. v14 Men ifør jer over alt dette kærligheden, som er fuldkommenhedens bånd. v15 Og Guds fred skal råde i jeres hjerter, den blev I også kaldet til i ét legeme, og vær taknemmelige. v16 Lad Kristi ord bo i rigt mål blandt jer, idet I med al visdom underviser og vejleder hinanden, idet I synger med tak i jeres hjerter for Gud med sange, hymner og åndelige sange, v17 og alt det I gør i ord og gerning, skal I gøre i Herrens navn,{E: Der mangler et verbum, og her er indsat en imperativ >>skal I gøre<<; en alternativ mulighed er et supplere med et participium >>idet I gør<<: >>og idet I gør alt det, I gør …<<} idet I takker Gud Fader ved ham.
+v12 Ifør jer altså som Guds udvalgte, hellige og elskede, inderlig barmhjertighed, godhed, ydmyghed, mildhed og tålmodighed v13 så I bærer over med hinanden, og så I tilgiver hinanden hvis nogen har noget at bebrejde en anden; ligesom også Herren tilgav jer, således skal også I gøre. v14 Men ifør jer over alt dette kærligheden, som er fuldkommenhedens bånd. v15 Og Guds fred skal råde i jeres hjerter, den blev I også kaldet til i én krop, og vær taknemmelige. v16 Lad Kristi ord bo rigt iblandt jer ved at{E: Dette og det næste er modale participier, som beskriver måden hvorpå Kristi ord bor rigt blandt dem.} I med al visdom underviser og vejleder hinanden, ved at I synger med tak i jeres hjerter for Gud med sange, hymner og åndelige sange, v17 og alt det I gør i ord og gerning, skal I gøre i Herrens navn,{E: Der mangler et verbum, og her er indsat en imperativ >>skal I gøre<<; en alternativ mulighed er et supplere med et participium >>idet I gør<<: >>og idet I gør alt det, I gør …<<} og tak Gud Fader ved ham.
 
 ==En husorden==
 
 v18 Hustruer! I skal underordne jer under jeres mænd, som det er ret i Herren. v19 Mænd! Elsk jeres hustruer og vær ikke bitre mod dem. v20 Børn! Adlyd jeres forældre i alt, for dette er kærkomment i Herren. v21 Fædre! Provoker ikke jeres børn for at de ikke skal blive modløse.
 
-v22 Slaver! Adlyd jeres jordiske{T: Ordret: >>efter kødet<<.} herrer i alt, ikke med øjentjeneste som nogle, der behager mennesker, men med hjertets oprigtighed, idet I frygter Herren. v23 Det I gør, skal I gøre af hjertet{T: Ordret: >>af sjælen<<} som for Herren og ikke for mennesker, v24 fordi I ved at I vil modtage arven som løn. Tjen Herren Kristus, v25 for den som gør uret, vil få den uret igen han gjorde, og der vil ikke være personsanseelse.
+v22 Slaver! Adlyd jeres jordiske{T: Ordret: >>efter kødet<<.} herrer i alt, ikke uoprigtigt{T: Ordret: >>med øjentjeneste<<.} som nogle der indynder sig hos mennesker, men med hjertets oprigtighed fordi I frygter Herren. v23 Det I gør, skal I gøre af hjertet{T: Ordret: >>af sjælen<<} som for Herren og ikke for mennesker, v24 fordi I ved at I vil modtage arven som løn. Tjen Herren Kristus, v25 for den som gør uret, vil få den uret igen han gjorde, og der vil ikke være personsanseelse.

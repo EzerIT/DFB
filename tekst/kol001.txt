@@ -1,22 +1,21 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 30.03.2023>!!
+!!<Dato for denne version: 17.03.2025>!!
 
-===Kolossenserbrevet, kapitel 1===
-
+===Paulus' Brev til Kolossenserne, kapitel 1===
 
 ==Forord==
 
-v1 Paulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus v2 hilser de i Kolossæ hellige og troende brødre i Kristus: Nåde være med jer og fred fra Gud, vores Far.
+v1 Paulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus v2 hilser de hellige og troende brødre i Kristus i Kolossæ: Nåde være med jer og fred fra Gud, vores Far.
 
 ==Indledning==
 
-v3 Vi takker altid Gud, vores Herre Jesu Kristi Far, når vi beder for jer, v4 fordi vi har hørt om jeres tro på Kristus Jesus og om kærligheden som I har til alle de hellige v5 på grund af det håb som ligger rede til jer i himlene, det håb som I før har hørt om i sandhedens ord, evangeliet, v6 som er kommet til jer. Ligesom det bærer frugt og vokser i hele verden, således også i jer fra den dag I hørte og forstod Guds nåde i sandhed, v7 sådan som I har lært det af Epafras, vores elskede medtjener, som er Kristi tro tjener for jer. v8 Han har også fortalt os om jeres kærlighed i Ånden.
+v3 Vi takker altid Gud, vores Herre Jesu Kristi Far, når vi beder for jer, v4 fordi vi har hørt om jeres tro på Kristus Jesus og om kærligheden som I har til alle de hellige v5 på grund af det håb som ligger rede til jer i himlene, det håb som I før har hørt om i sandhedens ord, evangeliet, v6 som er kommet til jer. Ligesom det bærer frugt og vokser i hele verden, således også i jer fra den dag I hørte og erkendte Guds nåde i sandhed, v7 sådan som I har lært det af Epafras, vores elskede medtjener, som er Kristi tro tjener for jer. v8 Han har også fortalt os om jeres kærlighed i Ånden.
 
 ==Frelsen ved Kristus ==
 
-v9 Derfor, fra den dag vi hørte det, er vi ikke holdt op med at bede for jer og bønfalde om at I må blive fyldt med erkendelsen af hans vilje med al visdom og åndelig indsigt v10 så I kan vandre Herren værdigt til hans fulde glæde{T: Ordret: >>til al glæde<<}, ved at I bærer frugt i al god gerning og vokser i erkendelsen af Gud, v11 ved at I styrkes med al kraft efter hans herligheds magt til al udholdenhed og tålmodighed, og ved at I med glæde v12 takker Faderen, som har gjort os kvalificerede til at få del i de helliges arv i lyset. v13 Han befriede os af mørkets magt og satte os over i sin elskede søns rige, v14 i ham har vi løskøbelsen, syndernes tilgivelse.
+v9 Derfor, fra den dag vi hørte det, er vi ikke holdt op med at bede for jer og bønfalde om at I må blive fyldt med erkendelsen af hans vilje med al visdom og åndelig indsigt v10 så I kan leve Herren værdigt til hans fulde glæde{T: Ordret: >>til al glæde<<}, ved{E: Der er i vers 10-12 fire participier som er modale og beskriver måden hvorpå vi lever Herren værdigt.} at I bærer frugt i al god gerning og vokser i erkendelsen af Gud, v11 ved at I styrkes med al kraft efter hans herligheds magt til al udholdenhed og tålmodighed, og ved at I med glæde v12 takker Faderen, som har gjort os kvalificerede til at få del i de helliges arv i lyset. v13 Han befriede os af mørkets magt og satte os over i sin elskede søns rige, v14 i ham har vi løskøbelsen, syndernes tilgivelse.
 
 v15 Han er den usynlige Guds billede,
 
@@ -40,15 +39,15 @@ den førstefødte af de døde,
 
 for at han skulle være den første i alt,
 
-v19 for Gud besluttede at hele fylden skulle bo i ham,{T: Der er suppleret med Gud; hvis man ikke supplerer, lyder oversættelsen: >>For I ham besluttede hele fylden at bo<<.}
+v19 for Gud besluttede at hele fylden skulle bo i ham{T: Der er suppleret med Gud; hvis man ikke supplerer, lyder oversættelsen: >>For I ham besluttede hele fylden at bo<<.}
 
 v20 og ved ham at forsone alt med sig,
 
-hvad enten det var på jorden, eller det var i himlen
+hvad enten det var på jorden, eller det var i himlen,
 
-da han stiftede fred ved blodet fra hans kors,
+da han stiftede fred ved blodet fra hans kors.
 
-v21 Også jer, som før var fremmede og fjender i tankegang i jeres onde gerninger, v22 har han nu forsonet i sin fysiske krop {T: Ordret: >>sit køds krop<<.} ved døden for at føre jer frem som hellige, fejlfrie og uangribelige for Ham, v23 hvis I virkelig forbliver grundfæstede og faste i troen og ikke lader jer rokke fra evangeliets håb, som I har hørt, som er blevet forkyndt for hele skabningen under himlen, og som jeg, Paulus, er blevet tjener for.
+v21 Også jer, som før var fremmede og fjender i tankegang i jeres onde gerninger, v22 har han nu forsonet i sin fysiske krop{T: Ordret: >>sit køds krop<<.} ved døden for at føre jer frem som hellige, fejlfrie og uangribelige for Ham, v23 hvis I virkelig forbliver grundfæstede og faste i troen og ikke lader jer rokke fra evangeliets håb som I har hørt, som er blevet forkyndt for hele skabningen under himlen, og som jeg, Paulus, er blevet tjener for.
 
 ==Paulus’ lidelser==
 

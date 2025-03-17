@@ -1,9 +1,9 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.03.2023>!!
+!!<Dato for denne version: 17.03.2025>!!
 
-===Efeserbrevet, kapitel 6===
+===Paulus' Brev til Efeserne, kapitel 6===
    
 
 ==Formaning til børn og fædre==
@@ -12,7 +12,7 @@ v1 I børn, adlyd jeres forældre i Herren, for dette er ret. v2 Ær din far og 
 
 ==Formaning til slaver og deres herrer==
 
-v5 I slaver, adlyd jeres menneskelige{T: Ordret: >>ifølge kødet<<.} herrer med frygt og bæven, med et oprigtigt hjerte{T: Ordret: >>med jeres hjerters oprigtighed<<.} som for Herren, v6 ikke med øjentjeneste som dem der vil indynde sig hos mennesker, men som Kristi tjenere som af hjertet{T: Ordret: >>af sjælen<<.} gør Guds vilje, v7 som med god vilje tjener som for Herren og ikke som for mennesker, v8 fordi I ved at enhver, hvis han gør noget godt, vil få dette igen fra Herren, hvad enten han er slave eller fri. v9 Og I herrer skal gøre det samme mod dem, så I opgiver jeres trusler, fordi I ved at deres og jeres Herre er i himlen, og at der ikke er personsanseelse hos ham. 
+v5 I slaver, adlyd jeres menneskelige{T: Ordret: >>ifølge kødet<<.} herrer med frygt og bæven, med et oprigtigt hjerte{T: Ordret: >>med jeres hjerters oprigtighed<<.} som for Herren, v6 ikke uoprigtigt{T: Ordret: >>med øjentjeneste<<.} som dem der vil indynde sig hos mennesker, men som Kristi tjenere som af hjertet{T: Ordret: >>af sjælen<<.} gør Guds vilje, v7 som med god vilje tjener som for Herren og ikke som for mennesker, v8 fordi I ved at enhver, hvis han gør noget godt, vil få dette igen fra Herren, hvad enten han er slave eller fri. v9 Og I herrer skal gøre det samme mod dem, så I opgiver jeres trusler, fordi I ved at deres og jeres Herre er i himlen, og at der ikke er personsanseelse hos ham. 
 
 ==Formaning til at iføre sig Guds rustning==
 
