@@ -87,7 +87,7 @@ makemenus(1);
               </label>
             </div>
 
-            <div class="checkbox">
+            <div hidden class="checkbox">
               <label>
                 <input type="checkbox" name="markadded" <?= showchecked('markadded') ?>> Markér tilføjet tekst med [kantede parenteser] (kun visse kapitler)
               </label>

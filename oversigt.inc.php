@@ -210,84 +210,118 @@ foreach ($abbrev as $k => $v)
 
 // Modenhed => button styles
 $modenhed['ufuldstændigt'] = 'btn-secondary';
-$modenhed['rå oversættelse'] = 'btn-warning';
-$modenhed['delvis færdig'] = 'btn-info';
-$modenhed['færdig'] = 'btn-success';
+$modenhed['uden indrykning'] = 'btn-info';
+$modenhed['med indrykning'] = 'btn-success';
 
 
-$style['GT'] = $modenhed['færdig']; // Bedste værdi for GT's kapitler - bruges ved generering af PDF
-$style['NT'] = $modenhed['delvis færdig']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
+$style['GT'] = $modenhed['med indrykning']; // Bedste værdi for GT's kapitler - bruges ved generering af PDF
+$style['NT'] = $modenhed['uden indrykning']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
 
 
 for ($k=1; $k<=14; ++$k)
-    $style['1mos'][$k] = $modenhed['delvis færdig'];
+    $style['1mos'][$k] = $modenhed['med indrykning'];
 for ($k=15; $k<=50; ++$k)
     $style['1mos'][$k] = $modenhed['ufuldstændigt'];
 
-$style['2mos']    = $modenhed['delvis færdig'];
-$style['3mos']    = $modenhed['ufuldstændigt'];
-$style['4mos']    = $modenhed['delvis færdig'];
+$style['2mos']    = $modenhed['uden indrykning'];
+$style['3mos']    = $modenhed['uden indrykning'];
+
+for ($k=1; $k<=36; ++$k)
+    $style['4mos'][$k] = $modenhed['uden indrykning'];
+$style['4mos'][21]     = $modenhed['med indrykning'];
+
 $style['5mos']    = $modenhed['ufuldstændigt'];
-$style['dom']     = $modenhed['færdig'];
-$style['ruth']    = $modenhed['færdig'];
+$style['dom']     = $modenhed['uden indrykning'];
+$style['ruth']    = $modenhed['med indrykning'];
 $style['2sam']    = $modenhed['ufuldstændigt'];
 $style['2kong']   = $modenhed['ufuldstændigt'];
 
-$style['job']     = $modenhed['delvis færdig'];
+$style['job']     = $modenhed['med indrykning'];
 
-$style['sl'] = $modenhed['færdig'];
+for ($k=1; $k<=150; ++$k)
+    $style['sl'][$k] = $modenhed['uden indrykning'];
+$style['sl'][  1] = $modenhed['med indrykning'];
+$style['sl'][  2] = $modenhed['med indrykning'];
+$style['sl'][  6] = $modenhed['med indrykning'];
+$style['sl'][  8] = $modenhed['med indrykning'];
+$style['sl'][ 13] = $modenhed['med indrykning'];
+$style['sl'][ 23] = $modenhed['med indrykning'];
+$style['sl'][ 25] = $modenhed['med indrykning'];
+$style['sl'][ 30] = $modenhed['med indrykning'];
+$style['sl'][ 46] = $modenhed['med indrykning'];
+$style['sl'][ 97] = $modenhed['med indrykning'];
+$style['sl'][ 98] = $modenhed['med indrykning'];
+$style['sl'][104] = $modenhed['med indrykning'];
+$style['sl'][121] = $modenhed['med indrykning'];
+$style['sl'][136] = $modenhed['med indrykning'];
+$style['sl'][137] = $modenhed['med indrykning'];
+
 
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 
-for ($k=1; $k<=7; ++$k)
-    $style['es'][$k] = $modenhed['færdig'];
-for ($k=8; $k<=66; ++$k)
-    $style['es'][$k] = $modenhed['delvis færdig'];
+for ($k=1; $k<=66; ++$k)
+    $style['es'][$k] = $modenhed['uden indrykning'];
+$style['es'][ 1] = $modenhed['med indrykning']; 
+$style['es'][ 2] = $modenhed['med indrykning']; 
+$style['es'][ 3] = $modenhed['med indrykning']; 
+$style['es'][ 4] = $modenhed['med indrykning']; 
+$style['es'][ 5] = $modenhed['med indrykning']; 
+$style['es'][ 6] = $modenhed['med indrykning']; 
+$style['es'][ 7] = $modenhed['med indrykning']; 
+$style['es'][ 8] = $modenhed['med indrykning']; 
+$style['es'][ 9] = $modenhed['med indrykning']; 
+$style['es'][24] = $modenhed['med indrykning']; 
+$style['es'][25] = $modenhed['med indrykning']; 
+$style['es'][40] = $modenhed['med indrykning']; 
 
 
-for ($k=1; $k<=52; ++$k)
-    $style['jer'][$k] = $modenhed['delvis færdig'];
-$style['jer'][1] = $modenhed['færdig'];
-$style['jer'][2] = $modenhed['færdig'];
-$style['jer'][7] = $modenhed['færdig'];
+$style['jer'][ 1] = $modenhed['uden indrykning'];
+$style['jer'][ 2] = $modenhed['uden indrykning'];
+$style['jer'][ 3] = $modenhed['med indrykning'];
+$style['jer'][ 4] = $modenhed['med indrykning'];
+$style['jer'][ 5] = $modenhed['med indrykning'];
+$style['jer'][ 6] = $modenhed['med indrykning'];
+$style['jer'][ 7] = $modenhed['uden indrykning'];
+for ($k=8; $k<=52; ++$k)
+    $style['jer'][$k] = $modenhed['med indrykning'];
 
 $style['ez']      = $modenhed['ufuldstændigt'];
 $style['am']      = $modenhed['ufuldstændigt'];
-$style['obad']    = $modenhed['delvis færdig'];
-$style['jon']     = $modenhed['delvis færdig'];
-$style['nah']     = $modenhed['delvis færdig'];
-$style['hab']     = $modenhed['delvis færdig'];
-$style['sef']     = $modenhed['delvis færdig'];
+$style['obad']    = $modenhed['uden indrykning'];
+$style['jon']     = $modenhed['uden indrykning'];
+$style['nah']     = $modenhed['uden indrykning'];
+$style['hab']     = $modenhed['uden indrykning'];
+$style['sef']     = $modenhed['uden indrykning'];
 $style['hagg']    = $modenhed['ufuldstændigt'];
-$style['zak']     = $modenhed['færdig'];
-$style['matt']    = $modenhed['delvis færdig'];
-$style['mark']    = $modenhed['delvis færdig'];
+$style['zak']     = $modenhed['uden indrykning'];
+$style['matt']    = $modenhed['uden indrykning'];
+$style['mark']    = $modenhed['uden indrykning'];
 $style['luk']     = $modenhed['ufuldstændigt'];
 $style['joh']     = $modenhed['ufuldstændigt'];
 $style['apg']     = $modenhed['ufuldstændigt'];
-$style['rom']     = $modenhed['delvis færdig'];
-$style['1kor']    = $modenhed['delvis færdig'];
-$style['2kor']    = $modenhed['delvis færdig'];
-$style['gal']     = $modenhed['delvis færdig'];
-$style['ef']      = $modenhed['delvis færdig'];
-$style['fil']     = $modenhed['delvis færdig'];
-$style['kol']     = $modenhed['delvis færdig'];
-$style['1thess']  = $modenhed['delvis færdig'];
-$style['2thess']  = $modenhed['delvis færdig'];
-$style['1tim']    = $modenhed['delvis færdig'];
-$style['2tim']    = $modenhed['delvis færdig'];
-$style['tit']     = $modenhed['delvis færdig'];
-$style['filem']   = $modenhed['delvis færdig'];
+$style['rom']     = $modenhed['uden indrykning'];
+$style['1kor']    = $modenhed['uden indrykning'];
+$style['2kor']    = $modenhed['uden indrykning'];
+$style['gal']     = $modenhed['uden indrykning'];
+$style['ef']      = $modenhed['uden indrykning'];
+$style['fil']     = $modenhed['uden indrykning'];
+$style['kol']     = $modenhed['uden indrykning'];
+$style['1thess']  = $modenhed['uden indrykning'];
+$style['2thess']  = $modenhed['uden indrykning'];
+$style['1tim']    = $modenhed['uden indrykning'];
+$style['2tim']    = $modenhed['uden indrykning'];
+$style['tit']     = $modenhed['uden indrykning'];
+$style['filem']   = $modenhed['uden indrykning'];
 $style['hebr']    = $modenhed['ufuldstændigt'];
-$style['jak']     = $modenhed['delvis færdig'];
-$style['1pet']    = $modenhed['delvis færdig'];
-$style['2pet']    = $modenhed['delvis færdig'];
-$style['1joh']    = $modenhed['delvis færdig'];
-$style['2joh']    = $modenhed['delvis færdig'];
-$style['3joh']    = $modenhed['delvis færdig'];
-$style['jud']     = $modenhed['delvis færdig'];
-$style['åb']      = $modenhed['delvis færdig'];
+$style['jak']     = $modenhed['uden indrykning'];
+$style['1pet']    = $modenhed['uden indrykning'];
+$style['2pet']    = $modenhed['uden indrykning'];
+$style['1joh']    = $modenhed['uden indrykning'];
+$style['2joh']    = $modenhed['uden indrykning'];
+$style['3joh']    = $modenhed['uden indrykning'];
+$style['jud']     = $modenhed['uden indrykning'];
+$style['åb']      = $modenhed['uden indrykning'];
 
 $filetype['1mos']     = 'txt';
 $filetype['2mos']     = 'txt';

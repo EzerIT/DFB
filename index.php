@@ -106,10 +106,7 @@ END;
               oversat.</p>
 
           <p>Oversættelsen er en igangværende proces. Teksterne bliver løbende gennemlæst og
-              revideret, og de vil derfor have forskellig modenhed. Det skal læseren være opmærksom
-              på. Ved hvert enkelt kapitel angives det om det pågældende kapitel er »delvis færdigt«
-              eller »færdigt«, men læseren skal være opmærksom på at selv »færdige« kapitler kan
-              blive revideret.</p>
+              revideret. Teksten er med andre ord ikke statisk og uforanderlig.</p>
               
           <h2>Omfang</h2>
 
@@ -140,6 +137,18 @@ END;
                 
           <p>Cirklen og stjernen vises ikke hvis man fravælger de forklarende fodnoter.</p>
 
+          <h2>Eksegetisk layout</h2>
+
+          <p>Normalt vises en tekst opstillet som almindelig prosa eller poesi. Man kan imidlertid
+              vælge at få vist teksten med <i>eksegetisk layout</i>. Det betyder at tekstens
+              elementer vises med forskellige grader af indrykning, som illustrerer den indbyrdes relation
+              mellem tekstens bestanddele. Nogle læsere finder at dette giver en bedre forståelse af
+              tekstens sammenhæng.</p>
+
+          <p>Eksegetisk layout er kun tilgængelig i det Gamle Testamente og kun i visse kapitler.</p>
+
+          <p>Eksegetisk layout kan slås til og fra under menupunktet »Læseoplevelse«.</p>
+          
 
           <h2>Direkte links</h2>
 

@@ -16,14 +16,12 @@ makemenus(2);
           <div class="card mt-4">
             <h1 class="card-header bg-success text-light">Farvekoden</h1>
             <div class="card-body">
-              <p>Farvekoden angiver modenheden af teksten i de enkelte kapitler:</p>
-              <p class="d-inline"><span style="width: 130px;" class="btn btn-sm <?=$modenhed['ufuldstændigt']?>">Ufuldstændigt</span></p>
-              <p class="d-inline"><span style="width: 130px;" class="btn btn-sm <?=$modenhed['delvis færdig']?>">Delvis færdig</span></p>
-              <p class="d-inline"><span style="width: 130px;" class="btn btn-sm <?=$modenhed['færdig']?>">Færdig</span></p>
+              <p class="d-inline"><span style="width: 132px;" class="btn btn-sm <?=$modenhed['med indrykning']?>">Med ekseg. layout</span></p>
+              <p class="d-inline"><span style="width: 132px;" class="btn btn-sm <?=$modenhed['uden indrykning']?>">Uden ekseg. layout</span></p>
+              <p class="d-inline"><span style="width: 132px;" class="btn btn-sm <?=$modenhed['ufuldstændigt']?>">Ufuldstændigt</span></p>
             </div>
           </div>
         </div>
-
 
         <div class="col-lg-9">
             <div class="card mt-4">
@@ -73,10 +71,9 @@ makemenus(2);
           <div class="card mt-4">
             <h1 class="card-header bg-success text-light">Farvekoden</h1>
             <div class="card-body">
-              <p>Farvekoden angiver modenheden af teksten i de enkelte kapitler:</p>
-              <p><span style="width: 130px;" class="btn btn-sm btn-secondary">Ufuldstændigt</span></p>
-              <p><span style="width: 130px;" class="btn btn-sm btn-info">Delvis færdig</span></p>
-              <p><span style="width: 130px;" class="btn btn-sm btn-success">Færdig</span></p>
+              <p><span style="width: 160px;" class="btn btn-sm <?=$modenhed['med indrykning']?>">Med eksegetisk layout</span></p>
+              <p><span style="width: 160px;" class="btn btn-sm <?=$modenhed['uden indrykning']?>">Uden eksegetisk layout</span></p>
+              <p><span style="width: 160px;" class="btn btn-sm <?=$modenhed['ufuldstændigt']?>">Ufuldstændigt</span></p>
               <p>&nbsp;</p>
             <img class="img-fluid" src="img/pexels-jessika-arraes-19561462.jpg" alt="">
             </div>

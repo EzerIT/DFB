@@ -278,9 +278,9 @@ class FormatText extends Formatter {
         }
 
         $from[] = '/\$([^\$]*)\$/';
-        if ($_SESSION['markadded']=='on')
-            $to[] = '<span class="added">\1</span>';
-        else
+//        if ($_SESSION['markadded']=='on')
+//            $to[] = '<span class="added">\1</span>';
+//        else
             $to[] = '\1';
  
         $from[] = '/--/';
