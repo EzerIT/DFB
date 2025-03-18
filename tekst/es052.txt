@@ -1,106 +1,138 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 52===
 
-==HERRENS folk skal bringes hjem==
+===HERRENS folk skal bringes hjem==
+//0 v1 Vågn op,
+//3 vågn op,
+//3 ifør dig din styrke,
+//4 Zion,
 
-v1 Vågn op, vågn op, ifør dig din styrke, Zion, 
+//3 ifør dig dine pragtklæder,
+//6 Jerusalem, du hellige by!
 
-ifør dig dine pragtklæder, Jerusalem, du hellige by! 
+//5 For der vil ikke længere
 
-For ind i dig skal der ikke længere igen komme
+//6 komme nogen uomskåren eller uren ind i dig.
 
-nogen uomskåren eller uren.
+//4 v2 Ryst støvet af dig,
+//5 rejs dig,
 
-v2 Ryst støvet af dig, rejs dig, 
+//5 slå dig ned,
+//6 Jerusalem!
 
-slå dig ned,{E: I stedet for tekstens: *ššᵊvî* (ordret: >>sæt dig<<), foreslås det ofte at der skulle stå: *šᵊvîyyāʰ*: >>du fangne<<. Det har dog ingen støtte i håndskrifter.} Jerusalem! 
+//4 Gør dig fri af lænkerne om din hals,
 
-Gør dig fri af lænkerne om din hals, 
+//5 du fangne Zions datter!
 
-du fangne Zions datter!
+//2 v3 For sådan sagde HERREN:
+//3 I blev solgt for intet,
+//5 I skal heller ikke løskøbes med penge.
+//4 v4 For sådan siger Herren HERREN:
+//5 Mit folk drog først ned til Egypten
+//7 for at bo der som fremmede,
+//8 og så undertrykte Assyrien det for intet
+//6 v5 Og nu,
+//7 hvad{E: Således masoretisk volkalisering; konsonantteksten forudsætter *mî* (>>hvem<<). } har jeg her?
+//9 lyder HERRENS udsagn.
+//8 For mit folk er taget uden grund;
+//10 de der hersker over det, jamrer,
+//12 lyder HERRENS udsagn,
+//11 og altid bliver mit navn hånet hele dagen lang.
+//9 v6 Derfor skal mit folk lære mit navn at kende,
+//10 derfor på den dag,
+//11 for det er mig
+//12 der taler:
+//13 se, her er jeg!
 
-v3 For sådan siger HERREN: I blev solgt for intet, I skal heller ikke løskøbes med penge.
-v4 For sådan siger Herren HERREN: Mit folk drog først ned til Egypten for at bo der som fremmede; og så undertrykte Assur det uden grund.{E: Oversættelsen af *bᵊʔefes* er omdiskuteret i sammenhængen. I de fleste sammenhænge ville det være: >>for intet<<. Andre foreslår: >>forgæves<<.}
-v5 Og nu, hvad{E: Den masoretiske tekst har: *-מי*, som forudsætter vokalisering: *-מִי*: >>hvem<<, men den masoretiske tekst har vokaliseret: *-ימַ *, der skulle skrives: *-מָה *: >>hvad<<. } er der for mig her? lyder HERRENS udsagn. For mit folk er taget for intet; de der hersker over det, jamrer, lyder HERRENS udsagn, og altid bliver mit navn spottet hele dagen.
-v6 Derfor skal mit folk lære mit navn at kende; derfor,{E: Nogle af de gamle oversættelser har ikke dette >>derfor<< (*lāxēn*). Det foreslås i stedet at læse: *yavîn*: >>skal forstå<<. Det er dog uden støtte i håndskrifterne.} på den dag, for det er mig der taler: se, her er jeg!
 ***
-v7 Hvor herlige over bjergene 
 
-er fodtrinene af en der bringer glædeligt budskab,
+//3 v7 Hvor herlige over bjergene
 
-der forkynder fred, 
+er fodtrinene af en der er glædesbudbringer,{H: Es 40,9.}
 
-der bringer glædesbudskab om noget godt, 
+//5 der udråber fred,
 
-der forkynder frelse, 
+//5 der bringer glædesbudskab om det gode,
 
-der siger til Zion: 
+//5 der udråber frelse,
 
->>Din Gud er konge!<<
+//5 der siger til Zion:
 
-v8 Lyt, dine vægtere løfter røsten, 
+//6 >>Din Gud er konge!<<
 
-de jubler sammen, 
+//7 v8 Dine vægteres stemme, ja, de hæver deres stemme,
 
-for med egne øjne{T: Ordret: >>øje ved øje<<., dvs. helt nært og tydeligt.} ser de 
+//8 de jubler sammen,
 
-at HERREN vender tilbage til Zion.
+//9 for helt nært og tydeligt {T: Ordret: >>øje ved øje<<.} ser de
 
-v9 Glæd jer, bryd sammen ud i jubel, 
+//10 når HERREN vender tilbage til Zion.
 
-Jerusalems ruiner, 
+//4 v9 Glæd jer,
+//4 bryd sammen ud i jubel,
 
-for HERREN har trøstet sit folk, 
+//6 Jerusalems ruiner,
 
-han har løskøbt Jerusalem.
+//5 for HERREN har trøstet sit folk,
 
-v10 HERREN har blottet sin hellige arm 
+//7 han har løskøbt Jerusalem.
 
-for øjnene af alle folkene,{T: Kan også oversættes: >>hedningerne<<.} 
+//6 v10 HERREN har blottet sin hellige arm
 
-og alle jordens ender skal se 
+for øjnene af alle folkene,
+
+//7 og alle jordens ender skal se
 
 vores Guds frelse.
 
-***
+ ***
 
-v11 Bryd op, bryd op! Drag ud derfra, 
+//1 v11 Bryd op,
+//1 bryd op!
+//1 Drag ud derfra,
 
-rør ikke ved noget urent; 
+//2 rør ikke ved noget urent;
 
-drag ud fra dens midte, 
+//1 drag ud fra dens midte,
 
-rens jer, I der bærer HERRENS kar!
+//1 rens jer,
+//3 I der bærer HERRENS genstande!
 
-v12 For I skal ikke tage af sted i hast 
+//2 v12 For I skal ikke tage af sted i hast
 
-og ikke flygte;{T: Ordret: >>gå i flugt<<.} 
+//4 og ikke vandre under flugt,
 
-for foran jer{T: Ordret: >>foran jeres ansigt<<.} går HERREN, 
+//3 for foran jer{N: Ansigt} går HERREN,
 
-og Israels Gud er jeres bagtrop.
+//4 og Israels Gud er jeres bagtrop.
 
-==HERRENS lidende tjener==
+ ==HERRENS lidende tjener==
 
-v13 Se, min tjener får lykken med sig;{T: Kan også oversættes: >>skal handle klogt<<.} 
+//0 v13 Se, min tjener lykkes;{T: Eller: >> handler klogt<<.}
 
-han skal  knejse, og han løftes op og bliver meget ophøjet.
+//2 han vil rette sig op,{H: Es 33,10.}
 
-v14 Ligesom mange gyste over ham{T: Den hebraiske tekst har: >>over dig<<; man følger som regel de gamle oversættelser.} 
+//3 blive ophøjet {H: Es 6,1}
 
-– så vansiret, så umenneskeligt{T: Kan også oversættes: >>ikke menneskeligt<<.} var hans udseende, 
+//3 og være meget ophøjet.
 
-og hans skikkelse ikke som menneskebørns – 
+//1 v14 Ligesom mange gyste over dig{T: De gamle oversættelser har: >>over ham<<.}
 
-v15 sådan skal han rense{T: Ordret: >>bestænke<<. Ofte følger man gamle oversættelser der oversætter: >>sætte i forundring<<. Andre foreslår: >>få til at springe op<<.} mange folkeslag,{T: Kan også oversættes: >>hedninger<<.} 
+//3 – så vansiret, så umenneskeligt var hans udseende,
 
-over ham skal konger lukke deres mund; 
+//5 og hans skikkelse ikke som menneskebørns –
 
-for det der ikke er blevet fortalt dem, ser de, 
+//4 v15 sådan vil han skaffe forsoning{T: Ordret: >>bestænke (med blod)<<, sml. 3 Mos 16,14, eller >>sprøjte på<< som i Es 63,3; ofte rettes efter de gamle oversættelser til: >>sætte i forundring<<. Andre foreslår: >>få til at springe op<<.} for mange folkeslag,
 
-og det de ikke har hørt, forstår de.
+//5 over ham skal konger lukke deres mund;
 
+//2 for
+//5 det der ikke er blevet fortalt dem,
+//4 har de set,
 
+//3 og
+//5 det de ikke har hørt,
+//4 har de forstået.

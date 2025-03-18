@@ -1,177 +1,223 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 48===
 
-==HERREN klager over sit folks stivsind; men han vil rense det==
+ !!<Modenhed: Delvis færdig>!!
+ !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+ !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+ !!<Literært tjek: Trine Tøndering>!!
+ !!<Dato for denne version: 14.11.2023>!!
 
-v1 Hør dette, Jakobs hus! 
+ ===Esajas' Bog, kapitel 48===
 
-I der kaldes med Israels navn 
+ ==HERREN klager over sit folks stivsind; men han vil rense det==
 
-og er udgået af Judas kilde,{T: Ordret: >>vand / vande<<.} 
+//0 v1 Hør dette,
+//3 Jakobs hus!
 
-I der sværger ved HERRENS navn 
+//4 I der kaldes med Israels navn
 
-og påkalder Israels Gud, 
+//7 og er udgået af Judas kilde,{T: Ordret: >>vand<<.}
 
-men ikke i sandhed og i retfærdighed!
+//6 I der sværger ved HERRENS navn
 
-v2 For de kalder sig efter den hellige by 
+//8 og påkalder Israels Gud,
 
-og støtter sig til Israels Gud; 
+//7 men ikke i sandhed
+//8 og i retfærdighed!
 
-Hærskarers HERRE{N: Hærskarers} er hans navn.
+//5 v2 For de kalder sig dem fra den hellige by
+
+//6 og støtter sig til Israels Gud;
+
+//7 Hærskarers HERRE{N: Hærskarers} er hans navn.
+
+ ***
+
+//2 v3 De tidligere ting har jeg for længst fortalt,
+
+//5 de udgik af min mund,
+//6 og jeg lod dem høre;
+
+//4 pludselig handlede jeg,
+//7 og de skete.
+
+//6 v4 Fordi jeg ved
+//7 at du er hård,
+
+//8 og din nakke er en sene af jern,
+
+//9 og din pande er af bronze,
+
+//5 v5 så har jeg for længst forkyndt det;
+
+//8 før det kommer,
+//7 lod jeg dig høre det
+
+//8 for at du ikke skal sige:
+//9 >>Mit afgudsbillede gjorde alt dette,
+
+//10 og min udskårne figur og min støbte statue befalede det.<<
+
+//6 v6 Du har hørt det,
+//8 se det alt sammen!
+
+//7 Og I,
+//8 vil I ikke forkynde det?
+
+//3 Fra nu af har jeg ladet dig høre nye ting
+
+//5 og skjulte ting
+//4 som du ikke kender.
+
+//5 v7 Det er nu de skabes,
+//8 og ikke fra gammel tid,
+
+og før i dag
+//7 har du ikke hørt om dem
+
+//9 for at du ikke skal sige:
+//10 >>Se, jeg har kendt til dem.<<
+
+ ***
+
+//8 v8 Du har hverken hørt det
+//10 eller vidst besked,
+
+//11 og dit øre var heller ikke åbent fra gammel tid;
+
+//9 for jeg ved
+//10 at du vil handle meget troløst,
+
+//11 og
+//13 en overtræder
+//12 har man kaldt dig fra mors liv.
+
+//6 v9 For mit navns skyld vil jeg udsætte min vrede,
+
+//9 og for min æres skyld behersker jeg mig over for dig
+
+//10 for ikke at udrydde dig.
+
+//8 v10 Se, jeg har lutret dig,
+//10 men ikke som sølv;
+
+//9 jeg har udvalgt{E: Esajasteksten fra Dødehavsrullerne har ændret verbet *bḥr* til *bḥn* >>prøve<<.} dig i lidelsens ovn.
+
+//7 v11 For min egen skyld,
+//9 ja, for min egen skyld, vil jeg gøre det;
+
+//8 for hvordan kunne jeg lade mig blive vanhelliget?
+
+//9 Min ære giver jeg ikke til en anden!
+
+ ==HERREN har kaldet Kyros==
+
+//1 v12 Hør på mig,
+//5 Jakob,
+
+//6 og Israel, min kaldte!
+
+//4 Jeg er den samme,{H: Es 41,4.}
+//5 jeg er den første,
+
+//6 jeg er også den sidste.
+
+//7 v13 Min hånd har også grundlagt jorden,
+
+//8 og min højre hånd har spændt himlen ud;
+
+//9 kalder jeg på dem,
+
+//10 så står de der sammen.
+
+//3 v14 Saml jer,
+//5 alle sammen,
+//4 og hør efter!
+
+//5 Hvem blandt dem{T: Nemlig afguderne.} har forkyndt disse ting:
+
+//8 Den HERREN elsker,
+
+//7 vil udføre hans ønske mod Babylon{H: Es 46,11.}
+
+//8 og hans magt{T: Ordret: >>arm<<.} mod kaldæerne.
+
+//6 v15 Jeg,
+//8 jeg har talt,
+//7 og jeg har også kaldt ham;
+
+//8 jeg har ladet ham komme,
+
+//9 og hans vej lykkes.
+
+ ==Israel vil blive befriet og bringes hjem fra Babylon==
+
+//3 v16 Kom hen til mig,
+//4 hør dette:
+
+//6 Fra begyndelsen har jeg ikke talt i det skjulte,
+
+//7 fra den tid
+//10 det blev til,
+//9 er jeg der;
+
+//8 og nu har Herren HERREN sendt mig og sin Ånd.
+
+//5 v17 Sådan siger HERREN, din løskøber,
+
+ Israels Hellige:
+
+//6 Jeg er HERREN din Gud
+
+//8 der lærer dig
+//10 at opnå noget,
+
+//9 der leder dig på en vej
+//10 du skal gå.
+
+//7 v18 Gid du ville lytte nøje til mine bud,
+
+//8 så blev din fred som en flod
+
+//9 og din retfærdighed som havets bølger,
+
+//8 v19 så blev dit afkom som sandet
+
+//10 og dine efterkommere som dets sandskorn;
+
+//9 dets navn vil ikke blive udslettet
+//10 eller fjernet fra min nærhed.{N: Ansigt.}
 
 ***
 
-v3 De tidligere{T: Kan også oversættes: >>første<<.} ting har jeg for længst fortalt, 
+//3 v20 Gå ud fra Babylon,
 
-de udgik af min mund, og jeg forkyndte dem; 
+//3 flygt fra kaldæerne!
 
-pludselig handlede jeg, og de skete.
+//4 Forkynd med jublende røst,
 
-v4 Fordi jeg ved at du er hård, 
+//5 forkynd det,
 
-og din nakke er en sene af jern, 
+//6 lad det blive hørt til jordens ende,
 
-og din pande er bronze,
+//7 sig:
+//8 >>HERREN har løskøbt sin tjener Jakob.<<
 
-v5 så har jeg for længst fortalt det, 
+//9 v21 Og de led ikke tørst,
 
-før det kom, forkyndte jeg det for dig 
+//11 dem han førte gennem øde egne,
 
-for at du ikke skulle sige: >>Mit gudebillede gjorde disse ting, 
+//10 vand fra en klippe lod han flyde til dem;
 
-og mit udskårne billede og mit støbte billede befalede dem.<<
+//11 han spaltede en klippe,
 
-v6 Du har hørt det, så se det nu alt sammen! 
+//12 og vand fossede ud.
 
-Og I, vil I ikke vedstå det? 
+ ***
 
-Fra nu af forkynder jeg dig nye ting 
-
-og skjulte ting som du ikke kender.
-
-v7 Det er nu de skabes, og ikke fra gammel tid, 
-
-og før i dag har du ikke hørt om dem 
-
-for at du ikke skal sige: >>Se, jeg har kendt til dem.<<
-
-***
-
-v8 Du har hverken hørt det eller vidst besked, 
-
-og dit øre var heller ikke åbent fra gammel tid; 
-
-for jeg ved at du vil handle meget troløst, 
-
-og fra mors liv bliver du kaldt en overtræder.
-
-v9 For mit navns skyld vil jeg udsætte min vrede, 
-
-og for min æres skyld behersker jeg mig over for dig 
-
-for ikke at udrydde dig.
-
-v10 Se, jeg har lutret dig, men ikke for sølv; 
-
-jeg har prøvet dig i en lidelsesovn.
-
-v11 For min egen skyld, for min egen skyld, vil jeg gøre det; 
-
-for hvordan skal det{T: Her underforstår man normalt: >>mit navn<< (vers 9), og det understøttes bl.a. af Septuaginta.} vanhelliges? 
-
-Og min ære giver jeg ikke til en anden.
-
-==HERREN har kaldet Kyros==
-
-v12 Hør på mig, Jakob, 
-
-og Israel, min kaldte! 
-
-Jeg er den samme,{T: Ordret: >>Jeg er Ham<<, se note til 41,4.} jeg er den første, 
-
-jeg er også den sidste.
-
-v13 Min hånd har også grundlagt jorden, 
-
-og min højre hånd har spændt himlen ud; 
-
-kalder jeg på dem, 
-
-så står de der sammen.
-
-v14 Saml jer, alle sammen, og hør efter! 
-
-Hvem blandt dem {T: Nemlig afguderne} har fortalt disse ting: 
-
-Den HERREN elsker,{T: Dvs. Kyros.} skal udføre hans ønske mod Babylon 
-
-og hans magt{T: Ordret: >>arm<< der i mange sammenhænge er synonym for >>magt<< og >>styrke<<.} mod kaldæerne.
-
-v15 Jeg, jeg har talt, og jeg har også kaldt ham; 
-
-jeg har ladet ham komme, og hans vej lykkes.
-
-==Israel skal befries og bringes hjem fra Babylon==
-
-v16 Kom hen til mig, hør dette: 
-
-Fra begyndelsen har jeg ikke talt i det skjulte, 
-
-fra den tid den{T: Jorden, vers 13.} blev til, er jeg der; 
-
-og nu har Herren HERREN sendt mig og sin Ånd.
-
-v17 Sådan siger HERREN, din løskøber, 
-
-Israels Hellige: 
-
-Jeg er HERREN din Gud 
-
-der lærer dig at opnå noget, 
-
-der leder dig på en vej du skal gå.
-
-v18 Gid du ville lytte nøje til mine bud, 
-
-så blev din fred som floden 
-
-og din retfærdighed som havets bølger,
-
-v19 så blev dit afkom som sandet 
-
-og dit livs efterkommere som dets sandskorn; 
-
-dets navn skulle ikke udslettes eller tilintetgøres fra mit ansigt.
-
-***
-
-v20 Gå ud fra Babylon, 
-
-flygt fra kaldæerne! 
-
-Fortæl det med jublende røst,
-
-forkynd det, 
-
-udbred det til jordens ende, 
-
-sig: >>HERREN har løskøbt sin tjener Jakob.<<
-
-v21 Og de led ikke tørst da han førte dem gennem øde egne, 
-
-vand fra en klippe lod han flyde til dem; 
-
-og han spaltede en klippe, 
-
-og vand fossede ud.
-
-***
-
-v22 Der er ingen fred, siger HERREN, for de ugudelige.
-
-
+//2 v22 Der er ingen fred,
+//4 siger HERREN,
+//3 for de ugudelige.

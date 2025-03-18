@@ -1,251 +1,294 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 41===
 
-==Herren kalder Perserkongen Kyros til at befri Israel==
+ ==Herren kalder en erobrer fra Østen ==
+//0 v1 Lyt i stilhed til mig,
+//4 I kystområder!
 
-v1 Lyt i stilhed{T: Ordret: >>vend jer tiende<<.} til mig, I øer! 
+//3 Lad folkeslag få ny styrke!
 
-Og folkeslag skal få ny styrke! 
+//2 Lad dem komme nær,
+//4 så skal de tale;
 
-Lad dem komme nær, da skal de tale; 
+//3 lad os sammen komme frem for retten!
 
-lad os sammen komme frem for retten!
+//1 v2 Hvem vakte ham fra Østen,
 
-v2 Hvem vakte ham fra Østen 
+//3 kalder ham i retfærdighed til efterfølgelse{E: Eller >>i retfærdighed kalder han (Gud) ham<<. *lᵊraglô* (>>for sin fod<<) opfattes her som >>i sine fodspor<< (1 Sam 25,42 og Hab 3,5), men kunne også oversættes >>til underkastelse<<.}
 
-for hvis fod retfærdighed møder ham? 
+//2 overgiver folkeslag foran ham{N: Ansigt}
 
-Hvem{T: >>Hvem<< står kun som første ord i den hebraiske tekst, men er underforstået i hele verset.} prisgiver folkeslag for hans ansigt 
+//3 og lader konger blive trådt ned?
 
-og lader konger blive trådt ned, 
+//4 Han gør hans{T: Underforstået: >>modstanderens<<.} sværd til støv,
 
-hvem gør hans{T: Underforstået: >>modstanderens<<.} sværd som støv, 
+//6 hans bue til bortblæste avner.
 
-hans bue som bortblæste avner?
+//5 v3 Han forfølger dem,
+//6 drager frem i fred,
 
-v3 Han forfølger dem, drager uskadt frem, 
+ruten
+/7 som hans fødder ikke går.{E: Ordret >>på hans fødder går han ikke<<, kan også forstås som >>næsten uden at røre jorden<< sml. Dan 8,5.}
 
-en vej han ikke går med sine fødder.
+//1 v4 Hvem udrettede
+//5 og gjorde det?
 
-v4 Hvem udrettede og gjorde det? 
+//4 Han der kaldte slægterne frem fra begyndelsen!
 
-Han der kaldte slægterne frem fra begyndelsen! 
+//3 Jeg, HERREN, er den første,
 
-Jeg, HERREN, er den første, 
+//4 og hos de sidste er jeg den samme.{T: Ordret: >>jeg (er) ham<<.}
 
-og hos de sidste er jeg er den samme.{T: Ordret: >>er jeg Ham<<. Udtrykket er egentlig uoversætteligt, men det er det mest sublime udtryk for Guds enhed og evighed.}
+//2 v5 Kystområderne så det
+//7 og frygtede,
 
-v5 Fjerne øer så det og frygtede,
+//6 jordens ender bævede;
 
-jordens ender bævede; 
+//5 de nærmede sig
+//6 og kom.
 
-de nærmede sig og kom.
+//5 v6 Den ene
+//4 hjælper den anden
 
-v6 Den ene hjælper den anden 
+//6 og siger til sin ven:{N: Bror}
 
-og siger til sin bror: >>Stå fast!<<
+//7 >>Stå fast!<<
 
-v7 Metalarbejderen opmuntrer guldsmeden, 
+//5 v7 Metalarbejderen opmuntrede guldsmeden,
 
-den der glatter med hammer, ham{T: Underforstået: >>opmuntrer<<.} der hamrer på ambolten; 
+//8 den der var ved at glatte med hammer, den der var ved at hamre på ambolten;
 
-Han siger om sammenføjningen: >>Den er god!<< 
+//7 han siger om sammenføjningen:
+//8 >>Den er god!<<
 
-og han fæstner det med nagler, så det ikke vakler.
+//6 Og så fæstnede han det med nagler,
+//7 så det ikke kan vælte.
 
-***
+ ***
 
-v8 Men du, Israel, min tjener, 
+//3 v8 Men du,
+//5 Israel, min tjener,
 
-Jakob, som jeg udvalgte, 
+//5 Jakob,
+//7 som jeg udvalgte,
 
-min kære ven Abrahams afkom!
+//6 efterkommer af min kære ven Abraham!
 
-v9 Du som jeg hentede fra jordens ender 
+//7 v9 Du som jeg hentede fra jordens ender
 
-og kaldte fra dens yderste grænser, 
+//8 og kaldte fra dens yderste grænser,
 
-og som jeg sagde til: Du er min tjener, 
+//9 og som jeg sagde til:
+//10 Du er min tjener,
 
-jeg har udvalgt dig og ikke forkastet dig!
+//11 jeg har udvalgt dig
+//12 og ikke forkastet dig!
 
-v10 Frygt ikke, for jeg er med dig! 
+//4 v10 Frygt ikke,
+//5 for jeg er med dig!
 
-Se dig ikke omkring,{T: Underforstået: >>efter hjælp<<.} for jeg er din Gud; 
+//8 Vær ikke bange
+//10 for jeg er din Gud;
 
-jeg har styrket dig, ja, jeg har hjulpet dig, 
+//9 jeg har styrket dig,
 
-ja, jeg har holdt dig oppe med min retfærdigheds højre hånd.
+//10 ja, jeg har hjulpet dig,
 
-v11 Se, de skal blive til skamme og beskæmmes,
+//10 ja, jeg har holdt dig oppe med min retfærdigheds højre hånd.
 
-alle de der bliver vrede på dig; 
+//7 v11 De vil jo blive til skamme
+//10 og beskæmmes,
 
-de skal blive til intet og gå til grunde,
+alle de
+//11 der bliver vrede på dig;
+
+//9 de vil blive til intet
+//12 og gå til grunde,
 
 de mænd der strides med dig,
 
-v12 Du skal lede efter dem, 
+//11 v12 Du vil lede efter dem,
 
-men ikke finde dem,
+//12 men ikke finde dem,
 
-de mænd der skændes med dig; 
+de mænd der skændes med dig;
 
-de skal blive som intet og som et nul,
+//10 de vil blive til det rene ingenting,
 
 de mænd der kæmper imod dig.
 
-v13 For jeg er HERREN din Gud, 
+//8 v13 For jeg er HERREN din Gud,
 
-der griber{T: Det bagvedliggende hebraiske ord angiver også at det sker med et fast tag.} din højre hånd, 
+//10 der griber fast i din højre hånd,
 
-der siger til dig: Frygt ikke, 
+//9 der siger til dig:
+//10 Frygt ikke,
 
-jeg hjælper dig.
+//11 jeg har hjulpet dig.
 
-v14 Frygt ikke, 
+//6 v14 Frygt ikke,
 
-Jakobs orm, 
+//10 Jakobs orm,
 
-Israels mænd!{E: Det foreslås ofte at der i stedet for *mᵊtê* skal have stået: *rimmat*: >>kryb<<.} 
+//11 Israels mænd!{E: Det foreslås ofte at der i stedet for *mᵊtê* skal have stået *rimmat* (>>kryb<<).}
 
-Jeg hjælper dig, lyder HERRENS udsagn, 
+//9 Jeg hjælper dig,
+//11 lyder HERRENS udsagn,
 
-og din forløser er Israels Hellige.
+//10 og din løser er Israels Hellige.
 
-v15 Se, jeg gør dig til en tærskeslæde 
+//8 v15 Se, jeg gør dig til en tærskeslæde
 
-skarp, ny, 
+skarp, ny,
 
-med mange skær; 
+med mange skær;
 
-du skal tærske bjerge 
+//10 du vil tærske bjerge
 
-og knuse, 
+//13 og knuse,
 
-og du skal gøre høje til avner.
+//12 og du vil gøre høje til avner.
 
-v16 Du skal sprede dem, 
+//11 v16 Du spreder dem,
 
-og vind skal tage dem, 
+//12 og vinden tager dem,
 
-og en storm skal strø dem ud. 
+//13 og en storm strør dem ud.
 
-Men du skal juble over HERREN, 
+//9 Men du vil juble over HERREN,
 
-af Israels Hellige skal du rose dig.
+//10 af Israels Hellige vil du rose dig.
 
-***
+ ***
 
-v17 De elendige og de fattige leder efter vand, 
+//7 v17 De elendige og de fattige leder efter vand,
 
-men der er ikke noget, 
+//10 men der er ikke noget,
 
-deres tunge tørrer ud af tørst. 
+//9 deres tunge tørrer ud af tørst.
 
-Jeg, HERREN, vil bønhøre dem, 
+//8 Jeg, HERREN,
+//11 vil bønhøre dem,
 
-Israels Gud vil ikke forlade dem.
+//10 jeg, Israels Gud -
+//11 vil ikke forlade dem.
 
-v18 Jeg vil åbne floder over nøgne høje 
+//9 v18 Jeg vil åbne floder over nøgne høje
 
-og kilder midt i dale. 
+//11 og kilder midt i dale.
 
-Jeg vil gøre ørken til en vandrig sø 
+//10 Jeg vil gøre ørken til en vandrig sø
 
-og tørt land til kildevæld.
+//11 og tørt land til kildevæld.
 
-v19 I ørkenen vil jeg anbringe 
+//10 v19 I ørkenen vil jeg anbringe
 
-cedertræ, akacietræ 
+ cedertræ, akacietræ
 
-og myrtetræ og olietræ; 
+ og myrtetræ og oliventræ;
 
-på den øde mark vil jeg sætte enebær, 
+//10 på den øde slette vil jeg sætte cypresser
 
-sammen med elm{T: Det er usikkert, hvilket træ, der er tale om. Andre foreslår: >>fyr<< eller >>platan<<.} og cypres,{T: Andre oversætter: >>buksbom<<.}
+ sammen med elm og buksbom,
 
-v20 for at de skal se og vide 
+//11 v20 for at de skal se
+//12 og vide,
 
-og både lægge sig på hjerte og indse 
+//12 lægge mærke til
+//12 og indse samtidig
 
-at HERRENS hånd har gjort dette, 
+//13 at HERRENS hånd har gjort dette,
 
-og Israels Hellige har skabt det.
+//14 og Israels Hellige har skabt det.
 
-==Herren udfordrer afguderne==
+ ==Herren udfordrer afguderne==
 
-v21 Forelæg jeres sag, siger HERREN; 
+//0 v21 Forelæg jeres sag,
+//3 siger HERREN;
 
-fremlæg jeres stærke beviser, siger Jakobs konge.
+//2 fremlæg jeres stærke beviser,
+//4 siger Jakobs konge.
 
-v22 Lad dem {T: Dvs. afguderne.} fremlægge og forkynde for os 
+//3 v22 Lad dem {T: Dvs. afguderne.} fremlægge
+//5 og forkynde for os
 
-hvad der skal ske; 
+//6 hvad der skal ske;
 
-de tidligere ting – forkynd hvad de betød, 
+//4 de tidligere ting,
+//7 hvad de betød,
+//6 skal de forkynde
+//7 så vi kan lægge os det på sinde,{N: Hjerte}
 
-så lad os lægge det på vores hjerte, 
+//7 og l vide hvad enden på dem bliver,
 
-og lad os vide hvad enden på dem bliver, 
+//5 eller lad os høre hvad der kommer!
 
-eller lad os høre hvad der kommer!
+//6 v23 Forkynd
+//9 hvad der vil indtræffe i fremtiden
 
-v23 Forkynd de ting der skal ske i fremtiden,
+//8 så vi kan vide
+//9 at I er guder!
 
-så vi kan vide at I er guder!{T: Kan også oversættes: >>så vi kan vide det; for I er jo guder!<<} 
+//7 Ja, gør godt
+//10 eller gør ondt,
 
-Ja, gør godt eller gør ondt, 
+//9 så vil vi se hinanden an
+//9 og samtidig se det.{E: Således masoreternes vokalisering (*nirʔeʰ*); den hebraiske konsonanttekst forudsætter *nireʔ* (>>frygte<<).}
 
-så vil vi se hinanden an og frygte{E: Den hebraiske konsonanttekst forudsætter: *nireʔ* (>>frygte<<), men masoreterne har vokaliseret: *nirʔeʰ*: >>se<<.} samtidig.
+//8 v24 I kommer jo fra intet
 
-v24 Se, I kommer fra intet, 
+//10 og jeres gerning fra ingenting
 
-og jeres gerning fra ingenting;{E: Betydningen af *ʔāfaʕ* (>>ingenting<<) her er usikker. Det foreslås oftest at der skulle stå: *ʔefes*: >>nul<<.} 
+//9 en afskyelighed er den
+//10 der vælger jer!
 
-en afskyelighed er den der vælger jer!
+ ==Herren tilkaldte Kyros som sit redskab==
 
-==Herren tilkaldte Kyros som sit redskab==
+//1 v25 Jeg vakte ham fra norden,
 
-v25 Jeg vakte ham fra norden, 
+//3 og han kom,
 
-og han kom 
+//4 fra solens opgang vil han påkalde mit navn;
 
-fra solens opgang, ham der vil påkalde mit navn; 
+//5 og han vil komme over guvernører som om de var mørtel,
 
-og han skal komme over fyrster som om de var mørtel, 
+//6 og som en pottemager
+//7 der tramper i ler.
 
-og som en pottemager der tramper i ler.
+//2 v26 Hvem har forkyndt noget fra begyndelsen
 
-v26 Hvem har forkyndt noget fra begyndelsen 
+//6 så vi kunne vide det,
 
-så vi kunne vide det, 
+//5 eller fra før
+//6 så vi kan sige:
+//7 >>Han har ret<<?
 
-eller fra før så vi kan sige: >>Han har ret<<? 
+//4 Ja, der er ingen der forkynder det,
 
-Nej, der er ingen der forkynder det, 
+//4 ja, ingen lader os høre det,
 
-nej, ingen lader os høre det, 
+//4 ja, ingen hører jeres tale.
 
-nej, ingen hører jeres tale.
+//3 v27 Først til Zion:
+//5 >>Se, se dem!<<
 
-v27 Først til Zion: >>Se, se dem!<< 
+//4 Og til Jerusalem
+//6 giver jeg en glædesbudbringer.
 
-Og til Jerusalem bringer jeg godt budskab.
+//5 v28 Og jeg ser,
+//8 men der er ingen,
 
-v28 Og jeg ser, men der er ingen, 
+//7 og af dem
+//8 er der heller ingen rådgiver
 
-og af dem er der heller ingen rådgiver, 
+//9 så jeg kunne spørge dem,
+//10 og de kunne give svar tilbage.
 
-så jeg kunne spørge dem, og de kunne give svar tilbage.
+//6 v29 Se, de er alle et bedrag,{E: Ud fra paralleller, fx 40,17, går man undertiden ud fra at der ikke skulle stå *ʔāwen* (>>bedrag/ondskab<<), men *ʔên* (>>intet<<).}
 
-v29 Se, de er alle et bedrag,{E: Ud fra paralleller, fx 40,17, går man undertiden ud fra at der ikke skulle stå: *ʔāwen* (>>bedrag/ondskab<<), men: *ʔên*: >>intet<<.} 
+//7 deres gerninger er intet,
 
-deres gerninger er intet, 
-
-deres støbte billeder er vind og tomhed.
-
-
+//7 deres støbte billeder er vind og gold.

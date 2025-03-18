@@ -1,229 +1,260 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 51===
 
 ==HERREN trøster sit folk og lover at frelse det==
+//0 v1 Hør på mig,
+//7 I der stræber efter retfærdighed,
 
-v1 Hør på mig, I der stræber efter retfærdighed, 
+//8 I der søger HERREN!
 
-I der søger HERREN! 
+//6 Se hen til den klippe
+//7 I er hugget ud af,
 
-Se hen til den klippe I er hugget ud af, 
+//9 og til det hul til den brønd,
+//10 som I er boret ud af.
 
-og til det stenbrud hvorfra I er gravet ud.
+//8 v2 Se hen til Abraham, jeres far,
 
-v2 Se hen til Abraham, jeres far, 
+//10 og til Sara,
+//11 der fødte jer;
 
-og til Sara, der fødte jer; 
+//9 for da han var én, kaldte jeg ham,
 
-for da han var én, kaldte jeg ham, 
+//10 og jeg velsignede ham
+//10 og lod ham blive talrig.
 
-og jeg velsignede ham og gjorde ham til mange.
+//5 v3 For HERREN har trøstet Zion,
 
-v3 Ja, HERREN vil trøste Zion, 
+//7 trøstet alle hendes ruiner,
 
-han vil trøste alle hendes ruiner, 
+//8 og han vil danne hendes ørken som et Eden
 
-og han vil gøre hendes ørken ligesom Eden 
+//9 og hendes steppe som HERRENS have.
 
-og hendes steppe ligesom HERRENS have. 
+//6 Fryd og glæde findes i hende,
 
-Fryd og glæde skal findes i hende, 
+ tak og lyd af sang.
 
-tak og lyd af sang.
+ ***
 
-***
+//4 v4 Lyt til mig,
+//8 mit folk,
 
-v4 Lyt til mig, mit folk, 
+//7 og
+//9 min folkegruppe,
 
-og mit folkeslag, hør på mig! 
+//8 hør på mig!
 
-For der skal udgå belæring{E: Den hebraiske tekst har: *tôrāh*, der ofte oversættes: >>lov<<, men det hebraiske ord har videre betydning: >>vejledning / anvisning<<.} fra mig, 
+//6 For der vil udgå en lov{N: Lov.} fra mig,
 
-og min ret vil jeg gøre{E: Det meget sjældne verbum: *ʔargîₐʕ* er omdiskuteret i sammenhængen. Nogle oversætter: >>få til at hvile som<<, andre går ud fra substantivet: *regāʕ*, der betyder: >>øjeblik/et nu<< og oversætter: >>gør i et nu<<.  Ordet skal muligvis knyttes til den næste linje som forstærkning af ordet: >>nær<<.} til lys for folkene.
+//8 og min ret vil jeg i et nu gøre{E: Alternativt kan *ʔargîₐʕ* oversættes: >>få til at hvile som<< eller knyttes til den næste linje som forstærkning af ordet >>nær<<.} til lys for folkene.
 
-v5 Min retfærdighed er nær, 
+//7 v5 Min retfærdighed er nær,
 
-min frelse er brudt frem, 
+//9 min frelse er brudt frem,
 
-og mine arme skal dømme folkeslag. 
+//8 og min arm vil bringe folkene for retten.
 
-Fjerne øer skal håbe på mig 
+//9 Kystområderne vil håbe på mig
 
-og sætte deres lid til min arm.
+//10 og sætte deres lid til min arm.
 
-v6 Løft jeres øjne mod himlene,{T: Det hebraiske ord står altid i flertal, og man må i hvert enkelt tilfælde overveje om det betegner himlens storhed og vælde.} 
+//5 v6 Løft jeres øjne mod himlen
 
-og se på jorden nedenunder; 
+//7 og se på jorden nedenunder;
 
-for himlene skal opløses som røg, 
+//6 for himlen opløses som røg,
 
-og jorden skal slides op som en klædning, 
+//8 og jorden slides op som en klædning,
 
-og de der bor på hende, skal dø som myg. 
+//9 og de der bor på den, vil dø som myg,
 
-Men min frelse skal vare til evig tid, 
+//7 men min frelse vil vare til evig tid,
 
-og min retfærdighed skal ikke knuses.
+//8 og min retfærdighed vil ikke knuses.
 
-v7 Hør på mig, I der kender retfærdighed, 
+//4 v7 Hør på mig,
+//6 I der kender retfærdighed,
 
-et folk som har min lov i deres hjerte! 
+//7 et folk
+//8 som har min lov i deres hjerte!
 
-Frygt ikke for menneskers hån, 
+//5 Frygt ikke for menneskers hån,
 
-og lad jer ikke forskrække af deres spot.
+//7 og lad jer ikke forskrække af deres spot.
 
-v8 For møl skal æde dem som en klædning, 
+//6 v8 For møl vil æde dem som tøj,
 
-og insekter{T: Det er det usikkert hvilket insekt der præcist er tænkt på.} skal æde dem som uld. 
+//8 og insekter vil æde dem som uld.
 
-Men min retfærdighed skal vare til evig tid, 
+//7 Men min retfærdighed vil vare til evig tid,
 
-og min frelse i slægt efter slægt.
+//8 og min frelse i slægt efter slægt.
 
-==HERRENS folk beder HERREN om hjælp==
+ ==HERRENS folk beder HERREN om hjælp==
 
-v9 Vågn op, vågn op, klæd dig i styrke, 
+//3 v9 Vågn op,
+//4 vågn op,
+//5 klæd dig i styrke,
 
-du HERRENS arm! 
+//6 du HERRENS arm!
 
-Vågn op som i gamle dage, 
+//3 Vågn op som i gamle dage,
 
-i tidligere slægter! 
+i tidligere slægter!
 
-Er du ikke den{E: Ordret: >>hende<<, der henviser til Zion. Det gælder også i næste vers.} der fældede Rahab, 
+//4 Er du ikke den
+//6 der fældede Rahab,
 
-der gennemborede dragen?
+//7 der gennemborede dragen?
 
-v10 Er du ikke den der tørrede havet ud, 
+//5 v10 Er du ikke den
+//6 der tørrede havet ud,
 
-det store urdybs vande, 
+ det store urdybs vande,
 
-den der gjorde havets dyb til en vej, 
+//7 den der gjorde havets dyb til en vej,
 
-så de løskøbte kunne gå over?
+//9 så de løskøbte kunne gå over?
 
-v11 Og HERRENS befriede skal vende tilbage 
+//8 v11 Og HERRENS befriede vil vende tilbage
 
-og komme til Zion med jubel, 
+//10 og komme til Zion med jubel,
 
-med evig glæde over{T: Kan også oversættes: >>ved<<.} deres hoved; 
+//11 kronet med{T: Ordret >>på deres hoved<<.} evig glæde;
 
-fryd og glæde skal nå dem, 
+//9 fryd og glæde vil nå frem til dem,
 
-sorg og suk skal flygte.
+//10 sorg og suk vil flygte.
 
-==HERREN lover at frelse==
-v12 Jeg, jeg er den der trøster jer; 
+ ==HERREN lover at frelse==
 
-hvem er da du, at du vil frygte for et menneske der skal dø, 
+//2 v12 Jeg,
+//5 jeg er den
+//6 der trøster jer;
 
-og for et menneskebarn der skal blive som græs,
+//4 hvem er da du,
+//6 at du vil frygte for et menneske
+//9 der dør,
 
-v13 og har glemt HERREN, din skaber, 
+//8 og for et menneskebarn
+//9 der bliver som græs,
 
-der spændte himlen ud 
+//7 v13 og har glemt HERREN, din skaber,
 
-og grundlagde jorden, 
+//8 der spændte himlen ud
 
-og at du altid dagen lang frygter 
+//9 og grundlagde jorden,
 
-for undertrykkerens rasen
+//7 og at du altid dagen lang frygter
 
-når han gør sig klar til at ødelægge. 
+ for undertrykkerens vrede
 
-Men hvor er undertrykkerens rasen?
+//8 når han gør sig klar
+//9 til at ødelægge.
 
-v14 Den lænkede{E: Det sjældne verbum: *ṣʕh*, der her optræder som participium, har grundbetydningen: >>være krummet sammen<<. Det er forskelligt om oversættere går ud fra at det skyldes lænker (oftest) eller frygt.} skal hurtigt befries,
+//5 Men hvor er undertrykkerens vrede?
 
-og han skal ikke dø og komme i graven, 
+//6 v14 Den lænkede{E: *ṣʕh* ordret: >>være krummet sammen<<, oftest ved brug af lænker, men også på grund af frygt.} vil hurtigt
+//8 blive befriet,
 
-og han skal ikke mangle sit brød.
+//7 og han vil ikke dø og komme i graven,
 
-v15 For jeg er HERREN din Gud, 
+//7 og han vil ikke mangle brød.
 
-der bringer havet i oprør, 
+//3 v15 For jeg er HERREN din Gud,
 
-så dets bølger bruser; 
+//5 der bragte havet i oprør,
 
-Hærskarers {N: Hærskarers} HERRE er hans navn.
+//7 og dets bølger larmede;
 
-v16 Og jeg lagde mine ord i din mund 
+//6 Hærskarers{N: Hærskarers} HERRE er hans navn.
 
-og skjulte dig i min hånds skygge 
+//4 v16 Jeg lagde mine ord i din mund
 
-for at spænde himlen ud 
+//6 og skjulte dig i min hånds skygge
 
-og grundfæste jorden 
+//7 for at spænde himlen ud
 
-og for at sige til Zion: >>Du er mit folk.<<
+//8 og grundfæste jorden
 
-==HERREN tager sin vredes bæger fra sit folk==
+//5 og for at sige til Zion:
+//6 >>Du er mit folk.<<
 
-v17 Vågn op, vågn op, 
+ ==HERREN tager sin vredes bæger fra sit folk==
 
-rejs dig, Jerusalem! 
+//1 v17 Vågn op,
+//4 vågn op,
 
-Du, der af HERRENS hånd har drukket 
+//4 rejs dig,
+//5 Jerusalem!
 
-hans vredes bæger, 
+//8 Du der af HERRENS hånd har drukket
 
-beruselsens bægers kumme 
-har du drukket til bunds.
+hans vredes bæger;
 
-v18 Der er ingen til at lede hende 
+//7 beruselsens bæger, der er ved at vælte,
 
-af alle de sønner hun har født, 
+//8 har du drukket til bunds.
 
-og ingen til at tage hende ved hånden
+//6 v18 Der er ingen
+//9 til at lede hende
 
-af alle de sønner hun har opfostret.
+//8 af alle de sønner
+//9 hun har født,
 
-v19 Disse to ting er sket for dig –  
+//7 og ingen
+//9 til at tage hende ved hånden
 
-hvem skal have medynk med dig? 
+//8 af alle de sønner
+//9 hun har opfostret.
 
-Volden og ødelæggelsen og hungersnøden og sværdet –   
+//3 v19 Disse to ting er sket for dig;
 
-hvem skal trøste dig?{E: Den hebraiske tekst ordret: >>hvem skal jeg trøste dig?<< De gamle oversættelser forudsætter at der i stedet for: *ʔᵃnaḥᵃmēx* (1. person) skal læses: *yᵊnaḥᵃmēx* (3. person): >>(hvem) skal trøste dig<<.}
+//6 hvem vil have medynk med dig?
 
-v20 Dine sønner lå afmægtige 
+//5 Hvad angår volden, ødelæggelsen, hungersnøden og sværdet,
 
-på alle gadehjørnerne 
+//6 hvem vil trøste dig?{E: Rettet efter de gamle oversættelser; den hebraiske tekst har *ʔᵃnaḥᵃmēx* dvs. >>hvem skal jeg trøste dig?<<.}
 
-som en antilope i fælde, 
+//4 v20 Dine sønner var afmægtige,
 
-fulde af HERRENS vrede, 
+//6 lå på alle gadehjørner som en antilope i fælde,
+
+//5 fulde af HERRENS vrede,
 
 din Guds trussel.
 
-v21 Derfor, hør dog dette, du elendige, 
+//2 v21 Derfor, hør dog dette,
+//4 du elendige,
 
-og du der er fuld, men ikke af vin!
+//5 og du der er fuld,
+//6 men ikke af vin!
 
-v22 Sådan siger din Herre, HERREN, og din Gud, 
+//3 v22 Sådan sagde din Herre, HERREN og din Gud,
 
-der vil stride for sit folk: 
+//5 der vil stride for sit folk:
 
-Se, ud af din hånd tager jeg  
+//4 Se, ud af din hånd tager jeg
 
-beruselsens bæger, 
+beruselsens bæger,
 
-min vredes bægers kumme
+//6 min vredes bægers kumme
 
-skal du ikke mere drikke igen.
+//7 vil du ikke mere
 
-v23 Men jeg lægger det i hånden på dem der plager dig, 
+//8 drikke igen.
 
-dem der sagde til din sjæl: 
+//5 v23 Men jeg lægger det i hånden på dem der plager dig,
 
->>Bøj dig ned, så vi kan gå hen over.<<{T: Der er underforstået: >>dig<<.} 
+//7 dem der sagde til dig:{N: Sjæl.}
 
-Du gjorde din ryg som jorden 
+//8 >>Bøj dig ned,
+//9 og lad os passere.<<
 
-og som gaden for dem der går hen over.
+//6 Du anbragte din ryg som fast jord
 
-
+//7 og som gaden for dem der vil passere.

@@ -1,231 +1,257 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 49===
 
 ==HERRENS tjener taler om sit kald==
+//0 v1 Hør,
+//4 I kystområder,
+//3 på mig,
 
-v1 Hør, I øer, på mig,
+//2 og lyt,
+//3 I folk, fra det fjerne!
 
-og lyt, I folk, fra det fjerne! 
+//1 HERREN kaldte mig fra mors liv,
 
-HERREN kaldte mig fra mors liv, 
+//3 han nævnte mit navn fra min mors mave.
 
-han nævnte mit navn fra min mors skød.{T: Ordret: >>indvolde<<.}
+//4 v2 Og han satte min mund som et skarpt sværd,
+//6 skjulte mig i sin hånds skygge,
 
-v2 Og han formede min mund som et skarpt sværd, 
+//5 gjorde mig til en skarp pil,
 
-skjulte mig i sin hånds skygge, 
+//7 og i sit kogger skjulte han mig.
 
-gjorde mig til en skarp{T: Kan også oversættes: >>udvalgt<<.} pil, 
+//6 v3 Og han sagde til mig:
+//8 >>Du er min tjener,
 
-og i sit kogger skjulte han mig.
+//9 Israel,
+//10 ved dig vil jeg vise min herlighed.<<
 
-v3 Og han sagde til mig: >>Du er min tjener, 
+//7 v4 Men jeg selv sagde:
+//8 >>Forgæves er jeg blevet træt,
 
-Israel, ved dig vil jeg vise min herlighed.<<
+//10 på tomhed og vindpust{H: 1 Mos 1,2.} har jeg brugt min kraft;
 
-v4 Men jeg sagde: >>Forgæves har jeg anstrengt mig, 
+//9 alligevel er min ret hos HERREN
 
-på tomhed og vindpust har jeg brugt min kraft; 
+//10 og min løn hos min Gud.<<
 
-alligevel er min ret hos HERREN 
+//2 v5 Og nu sagde HERREN,
 
-og min løn hos min Gud.<<
+//4 der dannede mig fra min mors liv til sin tjener
 
-v5 Og nu siger HERREN 
+//6 for at føre Jakob tilbage til ham,
 
-der dannede mig fra mors liv til sin tjener 
+//7 og Israel, der ikke{E: *lōˀ* (>>ikke<<) erstattes i nogle få håndskrifter med *lô* (>>til/hos ham<<). } vil samles;
 
-for at føre Jakob tilbage til ham, 
+//5 men jeg bliver i HERRENS øjne æret,
 
-og Israel, der ikke{E: Nogle få håndskrifter har ikke: *lōˀ* (>>ikke<<), men: *lô*: >>til/hos ham<<. Oversættelsen vil da blive: >>så Israel vil samle sig hos ham<<.} vil samles; 
+//6 og min Gud er blevet min styrke.
 
-men jeg bliver æret i HERRENS øjne, 
+//3 v6 Så sagde han:
+//5 >>Det er for lille en ting
+//7 at du for mig er en tjener
 
-og min Gud er blevet min styrke.
+//8 til at rejse Jakobs stammer
 
-v6 Han siger: >>Det er for lille en ting at du for mig er en tjener 
+//9 og føre den bevarede rest af Israel tilbage.
 
-til at rejse Jakobs stammer 
+//6 Jeg vil gøre dig til et lys for folkeslagene,
 
-og føre de bevarede af Israel tilbage, 
+//7 så min frelse kan nå{T: Sætningen kan også oversættes: >>til at være min frelse til jordens ende<<.} til jordens ende.<<
 
-men jeg gør dig til et lys for folkeslagene,{T: Kan også oversættes: >>hedningerne<<.} 
+ ==De landflygtiges hjemvenden og Israels genrejsning==
+//4 v7 Sådan sagde HERREN,
 
-så min frelse kan nå{T: Sætningen kan også oversættes: >>til at være min frelse til jordens ende<<.} til jordens ende.<<
+//7 Israels løskøber, dets Hellige,
 
-==De landflygtiges hjemvenden og Israels genrejsning==
+//8 til den der er foragtet af enhver,{N: Sjæl}
+//6 til den som folkeslag afskyr,
 
-v7 Sådan siger HERREN, 
+til herskeres tjener:
 
-Israels løskøber, dets Hellige, 
+//5 >>Konger vil se det, og de har rejst sig,
 
-til den der er foragtet af hver sjæl, til den som folk afskyr, 
+//7 ledere,
+//6 de vil hylde dig
 
-til herskeres tjener: 
+på grund af HERREN,
+//8 der er trofast,
 
->>Konger skal se det og rejse sig, 
+//7 Israels Hellige,
+//8 der udvalgte dig.<<
 
-og fyrster, de skal bøje sig ned 
+//4 v8 Sådan sagde HERREN:
 
-på grund af HERREN der er trofast, 
+//5 >>På et fordelagtigt tidspunkt bønhørte jeg dig,
 
-Israels Hellige, der udvalgte dig.<<
+//7 og på frelsens dag hjalp jeg dig;
 
-v8 Sådan siger HERREN: 
+//6 og jeg vil bevare dig
+//7 og gøre dig til en pagt med folket,
 
->>I nådens tid bønhørte jeg dig,{T: Det er omdiskuteret om denne og næste linje skal oversættes ved fortid eller nutid. Begge dele er mulige.} 
+//9 til at rejse landet
 
-og på frelsens dag hjalp jeg dig; 
+//10 og til at fordele det arvede land, der ligger øde,
 
-og jeg vil bevare{E: Det er omdiskuteret om *ʔeṣṣorxā* skal afledes af: *nṣr* (>>bevare/vogte/holde øje med<<) eller: *yṣr* (>>danne/forme<<).} dig og gøre dig til en pagt med folket, 
+//11 v9 til at sige til fangerne:
+//13 >Gå ud!<
 
-til at rejse landet 
+//12 Til dem der er i mørket:
+//13 >Kom frem i lyset!<<<
 
-og til at fordele øde arvelodder,
+//8 Ved vejene vil de finde græs,
 
-v9 til at sige til fangerne: Gå ud! 
+//11 og på alle nøgne høje er der græsning til dem.
 
-Til dem der er i mørket: Kom frem i lyset!<< 
+//10 v10 De vil hverken sulte
+//12 eller tørste,
 
-Ved vejene skal de finde græs, 
+//13 og ingen hede eller sol vil skade dem;
 
-og på alle nøgne høje er der græsning til dem.
+//11 for han der forbarmer sig over dem, vil føre dem,
 
-v10 De skal hverken sulte eller tørste, 
+//12 og til kilder med vand vil han lede dem.
 
-og ingen hede eller sol skal ramme dem; 
+//9 v11 Og jeg gør alle mine bjerge til vej,
 
-for han der forbarmer sig over dem, skal føre dem, 
+//11 og mine hovedveje vil blive anlagt højt oppe.
 
-og til kilder med vand skal han lede dem.
+//10 v12 Se disse, de kommer langvejsfra,
 
-v11 Og jeg gør alle mine bjerge til vejen, 
+//12 og se disse, fra nord og fra vest,{T: Kan også oversættes: >>fra havet<<.}
 
-og mine banede veje skal ligge højt.
+//11 og disse fra Sinims land.
 
-v12 Se disse, de kommer langvejsfra, 
+//0 v13 Råb af fryd,
+//4 I himle,
+//3 og glæd dig,
+//5 du jord!
 
-og se disse, fra nord og fra vest,{T: Kan også oversættes: >>fra havet<<.} 
+//4 I skal bryde ud,
+//6 bjerge,
+//5 i jubel!
 
-og disse fra Sinims land. 
+//2 For HERREN trøster sit folk,
 
-v13 Råb af fryd, I himle, og glæd dig, du jord! 
+//4 og han forbarmer sig over sine elendige.
 
-Bjerge skal bryde{E: Således flertallet af håndskrifter (*yifṣᵊḥû*). En del håndskrifter har dog imperativ: *ûfiṣḥû*.} ud i jubel! 
+ ***
 
-For HERREN trøster sit folk, 
+//3 v14 Men Zion sagde:
+//4 >>HERREN har forladt mig,
 
-og han forbarmer sig over sine elendige.
+//5 og Herren har glemt mig.<<
 
-***
+//2 v15 Kan en kvinde mon glemme sit diende barn
 
-v14 Men Zion sagde: >>HERREN har forladt mig, 
+//5 så hun ikke forbarmer sig over sit moderskøds søn?{H: Es 49,1.5.}
 
-og Herren har glemt mig.<<
+//4 Selv om de også kunne glemme,
 
-v15 Kan en kvinde mon glemme sit diende barn 
+//6 så vil jeg ikke glemme dig.
 
-så hun ikke forbarmer sig over sit livs søn? 
+//5 v16 Se, jeg har indgraveret dig i mine håndflader;
 
-Selv om de også kunne glemme, 
+//7 dine bymure er altid foran mig.
 
-så vil jeg ikke glemme dig.
+//6 v17 Dine sønner{E: Alternativt med nogle af de gamle oversættelser og et enkelt hebraisk håndskrift: *bōnāyix* (>>de der bygger dig<<).} kommer hurtigt;
 
-v16 Se, jeg har indgraveret dig i mine håndflader; 
+//7 de der rev dig ned og lagde dig øde, vil gå bort fra dig.
 
-dine mure er altid foran mig.
+//3 v18 Ret dit blik omkring,
+//5 og se!
 
-v17 Dine sønner{E: Mange oversættere går ud fra at der i stedet for: *bānāyix* (>>dine sønner<<) skulle stå: *bōnāyix*: >>de der bygger dig<<. Det støttes til dels af nogle af de gamle oversættelser og et enkelt hebraisk håndskift.} kommer hurtigt; 
+//6 Alle samles,
+//7 de kommer til dig;
 
-de der rev dig ned og lagde dig øde, skal gå bort fra dig.
+//4 Så sandt jeg lever,
+//6 lyder HERRENS udsagn,
 
-v18 Løft dine øjne omkring, og se: 
+//5 så skal du iføre dig dem alle som et smykke,
 
-Alle samles, de kommer til dig; 
+//8 og du skal som bruden binde dem om dig.
 
-Så sandt jeg lever, lyder HERRENS udsagn, 
+//7 v19 For dine ruiner og dine øde områder
 
-sandelig, du skal iføre dig dem alle som et smykke, 
+og det ødelagte land,
 
-og du skal binde dem om dig som bruden.
+//8 ja, nu vil du blive for trang at bo i,
 
-v19 For dine ruiner og dine øde områder 
+//9 og de der lagde dig øde, vil være langt borte.
 
-og det ødelagte land –  
+//6 v20 Stadig vil de sige i dine ører,
 
-ja, du bliver nu for trang at bo i, 
+de sønner du fik i din barnløshed:
 
-og de der lagde dig øde, er langt borte.
+//8 >>Stedet er for trangt for mig.
 
-v20 De sønner du fik i din barnløshed,{T: Ordret: >>Din barnløsheds sønner<<.}
+//9 Flyt dig for mig
+//10 så jeg kan sidde der.<<
 
-skal igen sige i dine ører:{T: I den hebraiske tekst står den foregående og denne linje omvendt.} 
+//7 v21 Og du har af hjertet sagt:
 
->>Stedet er for trangt for mig. 
+//8 >>Hvem har født mig disse?
 
-Flyt dig for mig så jeg kan sidde{T: Kan også oversættes: >>bo<<.} der.<<
+//10 Jeg var jo barnløs
+//12 og ufrugtbar,
 
-v21 Og du siger i dit hjerte: 
+//13 landflygtig
+//11 og forskudt,
 
->>Hvem har avlet disse til mig? 
+//12 men disse,
+//9 hvem har opfostret dem?
 
-Jeg var jo barnløs og ufrugtbar, 
+//10 Jeg var jo alene tilbage,
 
-landflygtig og forskudt, 
+//11 disse, hvor var de henne?<<
 
-og disse – hvem har opfostret dem? 
+ ***
 
-Se, jeg var alene tilbage, 
+//1 v22 Sådan sagde Herren HERREN:
 
-Disse – hvor var de?<<
+//3 Se, jeg vil løfte min hånd hen mod folkeslagene
 
-***
+//5 og rejse mit banner hen mod folkene;
 
-v22 Sådan siger Herren HERREN: 
+//4 de vil bringe dine sønner i favnen,
 
-Se, jeg vil løfte min hånd til folkeslag{T: Kan også oversættes: >>hedninger<<.} 
+//6 og dine døtre bæres på skulder.
 
-og rejse mit banner for folkene, 
+//5 v23 Og konger bliver dine plejefædre
 
-og de bringer dine sønner i favnen, 
+//7 og deres dronninger dine ammer;
 
-og dine døtre skal bæres på skulder.
+//7 med ansigtet mod jorden vil de hylde dig
 
-v23 Og konger er dine plejefædre 
+//6 og slikke dine fødders støv.
 
-og deres dronninger dine ammer; 
+//8 Da vil du indse
+//7 at jeg er HERREN,
 
-med ansigt mod jorden{T: Ordret: >>næser<<.} skal de bøje sig for dig 
+//8 for de der håber på mig, vil ikke blive til skamme.
 
-og slikke dine fødders støv. 
+//9 ==HERREN vil befri sit folk fra dets fjender==
+//2 v24 Mon bytte kan tages fra en kriger?
 
-Da skal du indse at jeg er HERREN, 
+//4 Og mon en retfærdigs{E: De gamle oversættelser forudsætter: *ʕārîṣ*: >>voldsmand<<, sml. vers 25.} fange kan slippe bort?
 
-for de der håber på mig, skal ikke blive til skamme.
+//3 v25 Ja, sådan har HERREN sagt:
 
-==HERREN vil befri sit folk fra dets fjender==
+//4 Selv om en krigers fange kan tages væk,
 
-v24 Mon bytte kan tages fra en kriger? 
+//6 og en voldsmands bytte kan reddes;
 
-Og mon en retfærdigs{E: Oversættere følger ofte de gamle oversættelser der i stedet for *ṣaddîq* (>>retfærdig<<) forudsætter: *ʕārîṣ*: >>voldsmand<<, jf. vers 25.} fange kan slippe bort?
+//5 så vil jeg kæmpe mod den der kæmper imod dig,
 
-v25 Ja, sådan siger HERREN: 
+//7 og dine sønner vil jeg frelse.
 
-Selv om en krigers fange kan tages væk, 
+//8 v26 Og jeg vil lade dine undertrykkere æde deres eget kød,
 
-og en voldsmands bytte kan reddes; 
+//9 de vil beruse sig i deres eget blod som i sød vin;
 
-så vil jeg kæmpe mod den der kæmper imod dig, 
+//6 så vil ethvert menneske{T: Ordret >>alt kød<<.} indse at jeg, HERREN, er din frelser,
 
-og dine sønner vil jeg frelse.
-
-v26 Og jeg vil lade dine undertrykkere æde deres eget kød, 
-
-de skal beruse sig i deres eget blod som i sød vin; 
-
-så skal alt kød indse at jeg, HERREN, frelser dig, 
-
-og Jakobs Mægtige løskøber dig.
+//7 og Jakobs Mægtige, din løskøber.

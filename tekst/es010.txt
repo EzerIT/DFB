@@ -1,188 +1,215 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
 
 ===Esajas' Bog, kapitel 10===
 
-v1 Ve dem der fastsætter onde love 
+//0 v1 Ve
+//4 dem der fastsætter onde love,
 
-og ivrigt udsteder uretfærdige forordninger
+//3 og dem der udsteder uretfærdige forordninger
+//2 igen og igen
 
-v2 for at holde de ringe fra deres rettighed 
+//4 v2 for at holde de ringe fra deres rettighed
 
-og frarøve de elendige i mit folk deres ret, 
+//6 og frarøve de elendige i mit folk deres ret,
 
-så enker kan være deres bytte, 
+//5 for at enker kan blive deres bytte,
 
-og de kan udplyndre faderløse!
+//6 og de kan udplyndre faderløse!
 
-v3 Men hvad vil I stille op imod hjemsøgelsens{T: Kan også oversættes: >>straffens dag<<.} dag 
+//3 v3 Men hvad vil I stille op imod straffens dag
 
-og imod ødelæggelse der kommer langvejsfra? 
+//5 og imod ødelæggelse
+//6 der kommer langvejsfra?
 
-Hvem vil I flygte til for at få hjælp? 
+//4 Hvem vil I tage hensyn til for at få hjælp?
 
-Og hvor vil I gøre af jeres rigdom?
+//7 Og hvor vil I gøre af jeres rigdom?
 
-v4 Medmindre man bøjer sig som fange, 
+//6 v4 Medmindre man bøjer sig som en fange,
 
-skal de falde blandt de dræbte. 
+//7 vil de falde blandt de dræbte.
 
-Trods det har hans vrede ikke lagt sig, 
+//5 Trods det har hans vrede ikke lagt sig,
 
-men hans hånd er stadig udstrakt.
+//6 hans hånd er stadig strakt ud.
 
-==Veråb over Assyrien==
+ ==Veråb over Assyrien==
 
-v5 Ve Assyrien, min vredes kæp, 
+//1 v5 Ve Assyrien, min vredes kæp,
 
-min harme er en stok i deres hånd. 
+//4 en stok
+//6 er min harme i deres hånd.
 
-v6 Imod et gudløst folk sender jeg ham, 
+//5 v6 Imod et gudløst folk strækker jeg den ud
 
-og imod min vredes folk giver jeg ham befaling 
+//8 og giver den befaling om min vredes folk,
 
-om at røve og plyndre 
+//9 om at røve
 
-og træde det ned som gadernes dynd.
+//10 og plyndre
 
-v7 Men det er ikke det han forestiller sig, 
+//11 og træde det ned i gadernes mudder.
 
-og hans hjerte tænker ikke sådan, 
+//7 v7 Men det er ikke det han forestiller sig,
 
-for hans formål er{T: Ordret: >>hans hjerte står til at ødelægge<<.} at ødelægge 
-og udrydde ikke så få folk.
+//9 og i sit hjerte tænker han ikke sådan,
 
-v8 For han siger: 
+//8 for
+//11 at ødelægge
+//10 er hans formål{N: Hjerte}
+//11 og at udrydde folk,
+//12 ikke så få endda.
 
->>Er mine stormænd ikke alle sammen konger?
+//9 v8 For han siger:
 
-v9 Er det ikke gået Kalno som Karkemish? 
+//10 >>Er mine stormænd ikke alle sammen konger?
 
-Mon ikke Hamat som Arpad? 
+//11 v9 Er det ikke gået Kalno som Karkemish?
 
-Mon ikke Samaria som Damaskus?
+//14 Mon ikke Hamat som Arpad?
 
-v10 Ligesom min hånd har fundet frem 
+//14 Mon ikke Samaria som Damaskus?
 
-til afgudernes riger, 
+//13 v10 Ligesom min hånd har fundet frem til afgudernes riger,
 
-skønt deres gudebilleder var flere end i Jerusalem og Samaria,
+//14 skønt deres gudebilleder var flere end i Jerusalem og Samaria,
 
-v11 mon jeg så ikke vil gøre på samme måde 
+//12 v11 mon da ikke det er sådan at
 
-mod Jerusalem og dets gudebilleder, 
+//13 som jeg har gjort mod Samaria og dets gudebilleder,
 
-som jeg har gjort mod Samaria og dets gudebilleder?<<
+//14 sådan vil jeg også gøre mod Jerusalem og dets gudebilleder?<<
 
-v12 Og det skal ske når Herren har fuldført hele sin gerning på Zions bjerg og i Jerusalem, at jeg da vil straffe Assyriens konge for følgerne af hans hovmod og hans stolte øjnes pral
-v13 fordi han har sagt: 
 
->>Ved min hånds kraft jeg har gjort det, 
+//6 v12 Og så
+//7 når Herren har fuldført hele sin gerning på Zions bjerg og i Jerusalem,
+//8 da vil jeg straffe Assyriens konge for følgerne af hans hovmod og hans stolte øjnes pral
+//9 v13 fordi han har sagt:
 
-og ved min visdom, for jeg er klog; 
+//10 >>Ved min hånds kraft jeg har gjort det,
 
-og jeg får folkeslags grænser til at flytte sig 
+//12 og ved min visdom,
 
-og har plyndret deres forråd, 
+//13 for jeg er klog;
 
-og som den stærke støder jeg dem der sidder i højsædet, ned.
+//11 og jeg får folkeslags grænser flyttet
 
-v14 Min hånd har fundet hen til folkenes rigdom 
+//12 og har plyndret deres forråd,
 
-som til en fuglerede, og som man samler æg der er forladt,{T: Kan også oversættes: >>efterladt<<.} 
+//11 og som den stærke støder jeg mægtige ned.
 
-har jeg samlet hele jorden;{T: Kan også oversættes: >>hele landet<<.} 
+//12 v14 Min hånd fandt frem til folkenes rigdom som var det en fuglerede,
 
-og der var ingen der slog med en vinge 
+//13 og
+//16 som når man samler æg der er efterladt,
 
-eller åbnede et næb og peb.<<
+//15 har jeg samlet hele jorden{N: Jord};
 
-v15 Mon øksen roser sig over for den der hugger med den? 
+//14 og der var ingen
+//15 der slog med en vinge
+//16 eller åbnede et næb
+//16 og peb.<<
 
-Mon saven hovmoder sig over for den der trækker den? 
+//3 v15 Mon øksen roser sig
+//6 over for den der hugger med den?
 
-Som om en stav svinger den der løfter den, 
+//5 Mon saven hovmoder sig over for den der trækker den?
 
-eller som om en stok løfter den der ikke er af træ!{T: Nemlig: manden.}
+//6 Som om en stav svinger
+//7 ham der løfter den,
 
-v16 Derfor vil Herren, Hærskarers HERRE{N: Hærskarers} sende 
+//6 eller en stok løfter
+//7 ham der ikke er af træ!
 
-svindsot over hans kraftige,{T: Ordret: >>fede<<. Der er tænkt på krigerne.} 
+//4 v16 Derfor vil Herren, Hærskarers HERRE{N: Hærskarers} angribe hans tropper med svindsot,
 
-og under hans pragt skal der brænde en ild 
+//6 og under hans pragt skal der brænde en ild som en brændende flamme.
 
-som en brændende flamme.
+//5 v17 Israels lys skal blive til en ild,
 
-v17 Israels lys skal blive til en ild, 
+//8 og dets Hellige til en flamme,
 
-og dets Hellige til en flamme, 
+//7 den skal brænde
+//8 og fortære hans tjørn og tidsel på én og samme dag.
 
-den skal brænde og fortære hans tjørn og tidsel 
+//6 v18 Hans skovs og hans frugthaves herlighed skal den fortære rub og stub,{T: Ordret: >>fra sjæl til kød<<.}
 
-på én og samme dag.
+//7 og han skal blive
+//9 som en syg der svinder hen.
 
-v18 Hans skovs og hans frugthaves herlighed 
+//8 v19 Og resten af træerne{E: Ordret: >>et træs rest<<. Som regel går man dog ud fra at der ved en fejl er skrevet et *jod* (bogstavet), der angiver flertal, for lidt, idet næste ord begynder med et *jod*, og oprindelig var der ikke mellemrum mellem ordene.} i hans skov skal være få i tal,
 
-skal den fortære rub og stub,{T: Ordret: >>fra sjæl til kød<<.} 
+//9 så et barn kan skrive dem op.
 
-og han skal blive som en syg der svinder hen.
+ ==Israels rest==
+//2 v20 På den dag
+//4 vil Israels rest og Jakobs hus’ undslupne ikke mere
+//7 støtte sig til ham som slår det,
+//6 men de vil støtte sig i oprigtighed til HERREN, Israels Hellige.
+//5 v21 En rest vil omvende sig, Jakobs rest, til den vældige Gud.
+//7 v22 For
+//9 selvom dit folk, Israel, er som havets sand,
+//8 vil kun en rest i det omvende sig;
+//6 tilintetgørelse er besluttet,
+//8 retfærdighed strømmer frem.
+//7 v23 For ødelæggelse og beslutning vil Herren, Hærskarers HERRE gennemføre midt på hele jorden.
+//3 v24 Derfor siger Herren, Hærskarers HERRE sådan:
+//4 >>Frygt ikke,
+//9 du mit folk
+//10 der bor på Zion,
+//8 for Assyrien
+//7 når det slår dig med stokken
+//8 og løfter sin kæp over dig på Egyptens vis.
+//6 v25 For om ganske kort tid
+//7 så vil raseriet være til ende
+//8 og min vrede være rettet mod deres udryddelse.<<
+//9 v26 Hærskarers HERRE vil svinge en svøbe over ham som da Midjan blev slået ved Orebs klippe,
+//11 og sin stav, som han løftede over havet,
+//10 den vil han løfte på samme måde som i Egypten.
+//5 v27 På den dag
+//6 viger hans byrde fra din skulder
+//7 og hans åg fra din nakke,
+//8 og åget vil tilintetgjort på grund af fedme.
 
-v19 Og resten af træerne{E: Ordret: >>et træs rest<<.  Som regel går man dog ud fra at der ved en fejl er skrevet et *jod* (bogstavet), der angiver flertal, for lidt, idet næste ord begynder med et *jod*, og oprindelig var der ikke mellemrum mellem ordene.} i hans skov 
+//1 v28 Han{H: Es 36,1-2. 2 Kong 18,13-14. 2 Krøn 32,1-2.} kommer over Ajjat,
 
-skal være få i tal,{T: Ordret: >>skal være et tal<<.} 
+//5 han drager gennem Migron,
 
-så et barn kan skrive dem op.
+//8 han efterlader sine forsyninger i Mikmas.
 
-==Israels rest==
-v20 Og det skal ske på den dag at Israels rest og Jakobs hus’ undslupne ikke mere skal støtte sig til ham{T: dvs. kongen af Assyrien. Kap. 7,20; 2 Kong 16,7} som slår det, men de skal støtte sig i oprigtighed til HERREN, Israels Hellige.
-v21 En rest vil omvende sig, Jakobs rest, til den vældige Gud.
-v22 For selvom dit folk, Israel, er som havets sand, vil kun{E: Ordet >>kun<< står ikke udtrykkeligt i den hebraiske tekst, men er underforstået i sammenhængen.} en rest i det omvende sig; tilintetgørelse er besluttet, retfærdighed strømmer frem.
-v23 For ødelæggelse og beslutning vil Herren, Hærskarers HERRE{N: Hærskarers}  gennemføre midt på hele jorden{T: Kan også oversættes: >>midt i hele landet<<.}.
-v24 Derfor siger Herren, Hærskarers HERRE{N: Hærskarers} sådan: >>Frygt ikke, du mit folk der bor på Zion, for Assyrien når det slår dig med stokken og løfter sin kæp over dig på Egyptens vis.
-v25 For om ganske kort tid, så skal vreden{E: Den hebraiske tekst har ikke her den bestemte artikel. Enten må man forudsætte den eller følge den syriske Peshitta der må oversættes: >>min vrede<<.} være til ende og min harme være rettet mod deres udryddelse.<<
-v26 Hærskarers HERRE{N: Hærskarers}  skal svinge en svøbe over dem,{T: Ordret: >>ham<< der er ment som en personificering af Assyrien.} som da Midjan blev slået ved Orebs klippe, og sin stav, som han løftede over havet, den skal han løfte på samme måde som i Egypten.
-v27 Og det skal ske på den dag at hans byrde viger fra din skulder og hans åg fra din nakke, for åget skal tilintetgøres på grund af fedme.
+//7 v29 De drager gennem et pas,
 
-v28 Han {T: Kongen af Assyrien. 2 Kong 18,13f; 2 Krøn 32,1f; Es 36,1f} kommer over Ajjat, 
+//8 i Geba laver de natkvarter;
 
-han drager gennem Migron, 
+//6 Rama bæver,
 
-han efterlader sine forsyninger i Mikmas.
+//7 Sauls Gibea flygter.
 
-v29 De drager gennem et pas, 
+//4 v30 Skrig højt,
+//5 Bat-Gallim!{T: Ordret: >> Gallims datter<<.}
 
-i Geba laver de natkvarter; 
+//4 Hør godt efter,
+//6 Lajsa!
 
-Rama bæver, 
+//7 Svar hende,{E: Den masoretiske tekst har *ʕᵃniyyāʰ* (>>elendig<<). De gamle oversættelser forudsætter en let ændret vokalisering som man normalt følger: *ʕᵃniyyhā* (>>svar hende<<).} Anatot!
 
-Sauls Gibea flygter.
+//5 v31 Madmena flygter,
 
-v30 Skrig højt, Gallims datter!{T: Kan også oversættes: >>Bat-Gallim<<, der så må opfattes som stednavn.} 
+//6 Gebims indbyggere bringer sig i sikkerhed.
 
-Hør godt efter, Lajsa! 
+//3 v32 Endnu i dag er han i Nob
+//5 for at holde stand der;
 
-Svar hende, {E: Den masoretiske tekst: *ʕᵃniyyāʰ*: >>stakkels<<. De gamle oversættelser forudsætter en let ændret vokalisering som man normalt følger: *ʕᵃniyyhā*: >>svar hende<<} Anatot!
+//4 så svinger han sin hånd mod Zions datters{E: Konsonantteksten har: >>mod Zion hus’ bjerg<<, men vokaliseringen giver den her anførte tekst.} bjerg, Jerusalems høj.
 
-v31 Madmena flygter, 
+//2 v33 Se, Herren, Hærskarers HERRE hugger de smukke grene af med grufuld kraft,
 
-Gebims indbyggere bringer sig i sikkerhed. 
+//4 de ranke stammer fældes,
 
-v32 Endnu denne dag må han blive stående i Nob; 
+//5 og de høje væltes.
 
-så svinger han sin hånd mod Zions datters{E: Konsonantteksten har: >>mod Zion hus’ bjerg<<, men vokaliseringen giver den her anførte tekst.} bjerg, 
+//3 v34 Den tætte skov hugges om med øksen,
 
-Jerusalems høj.
-
-v33 Se, Herren, Hærskarers HERRE{N: Hærskarers} 
-
-skal hugge de smukke grene af under rædsel, 
-
-de knejsende store fældes, 
-
-og de høje styrtes om. 
-
-v34 Den tætte skov hugges om med øksen, 
-
-og Libanon falder for Den Mægtige.
+//4 og Libanon falder for Den Mægtige.

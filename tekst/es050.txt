@@ -1,119 +1,128 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 50===
 
 ==Israel bliver tugtet på grund af sin synd==
-v1 Sådan siger HERREN: 
+//0 v1 Sådan har HERREN sagt:
 
->>Hvor er jeres mors skilsmissebrev, 
+//1 >>Hvor er det skilsmissebrev som jeres mor fik,
 
-hvormed jeg har sendt hende bort? 
+//5 da jeg sendte hende bort?
 
-Eller hvem af mine kreditorer er det 
+//4 Eller hvem af mine kreditorer er det
 
-som jeg skulle have solgt jer til? 
+//5 som jeg skulle have solgt jer til?
 
-Nej, på grund af jeres syner blev I solgt, 
+//3 Nej, på grund af jeres synder blev I solgt,
 
-og på grund af jeres overtrædelser blev jeres mor sendt bort.
+//4 og på grund af jeres overtrædelser blev jeres mor sendt bort.
 
-v2 Hvorfor var der ingen da jeg kom? 
+//2 v2 Hvorfor, da jeg kom,
+ var der ingen?
 
-Hvorfor{T: >>Hvorfor<< er underforstået fra foregående sætning.} svarede ingen da jeg kaldte? 
+//4 Da jeg råbte,
+//5 svarede ingen?
 
-Er min arm blevet alt for kort til at forløse? 
+//3 Er min magt{N: Hånd.} alt for begrænset til forløsning?{H: Sl 111,9.}
 
-Og er der ingen kraft hos mig til at redde? 
+//5 Og mon der ingen kraft er i mig
+//6 til at redde?
 
-Se, ved min trussel tørrer jeg et hav ud, 
+//4 Se, ved min trussel tørrer havet ud,
 
-jeg gør floder til ørken, 
+//5 jeg gør floder til ørken;
 
-så deres fisk stinker fordi der ikke er vand, 
+//6 deres fisk stinker fordi der ikke er vand,
 
-og så de dør af tørsten.
+//7 og de dør af tørst.
 
-v3 Jeg klæder himlene i sort{T: Kan også oversættes: >>i mørke<<. Der er her og i næste linje tænkt på sørgedragt.} 
+//5 v3 Jeg klæder himlen i sort
 
-og giver dem sæk som dække.<<
+//6 og giver dem sørgetøj på som dække.<<
 
-==HERRENS tjener==
-v4 Herren HERREN har givet mig 
+ ==HERRENS tjener==
 
-disciples tunge, 
+//0 v4 Herren HERREN har givet mig
 
-så jeg kan vide at støtte{E: Den præcise betydning af grundtekstens ord (*ʕût*), der kun forekommer her, er ikke klar.} den trætte med ord. 
+disciples tunge,
 
-Han vækker hver morgen, han vækker mit øre 
+//3 så jeg kan vide
+//4 at støtte den trætte med ord.
 
-til at høre som disciplene.
+//2 Han vækker mig hver morgen,
+//2 han vækker min hørelse{T: Ordret: >>vækker mit øre<<}
 
-v5 Herren HERREN har åbnet mit øre, 
+//3 til at høre ligesom disciplene.
 
-og jeg strittede ikke imod, 
+//1 v5 Herren HERREN har åbnet min hørelse,{T: Ordret: >>åbnet mit øre<<.}
 
-jeg veg ikke tilbage.
+//4 og jeg strittede ikke imod,
 
-v6 Jeg vendte min ryg til dem der slog, 
+//5 jeg veg ikke tilbage.
 
-og mine kinder til dem der rev i skægget; 
+//6 v6 Jeg vendte min ryg til dem der slog,
 
-jeg skjulte ikke mit ansigt 
+//8 og mine kinder til dem der rev i skægget;
+
+//7 jeg skjulte ikke mit ansigt
 
 for hån og spyt.
 
-***
+ ***
 
-v7 For Herren HERREN vil hjælpe mig, 
+//3 v7 Men Herren HERREN vil hjælpe mig,
 
-derfor er jeg ikke blevet beskæmmet, 
+//6 derfor er jeg ikke blevet beskæmmet,
 
-derfor gjorde jeg mit ansigt som flinten, 
+//7 derfor gjorde jeg mit ansigt hårdt som flint,
 
-og jeg vidste, at jeg ikke bliver gjort til skamme.
+//8 og jeg vidste,
+//9 at jeg ikke bliver gjort til skamme.
 
-v8 Han der erklærer mig retfærdig, er nær. 
+//5 v8 Han der erklærer mig retfærdig, er nær.
 
-Hvem vil ligge i strid med mig? 
+//6 Hvem vil føre sag mod mig?
 
-Lad os træde frem sammen! 
+//8 Lad os træde frem sammen!
 
-Hvem har en sag imod mig? 
+//7 Hvem er min modpart i retssagen?
 
-Lad ham komme hen til mig!
+//8 Lad ham komme hen til mig!
 
-v9 Se, Herren HERREN vil hjælpe mig; 
+//4 v9 Når Herren HERREN vil hjælpe mig,
 
-hvem er han der vil dømme mig skyldig? 
+//5 hvem er han
+//7 der vil dømme mig skyldig?
 
-Se, de skal alle slides op som tøjet, 
+//6 De skal jo alle slides op som tøjet,
 
-møl skal æde dem.
+//7 møl skal æde dem.
 
-***
+ ***
 
-v10 Hvem blandt jer frygter HERREN{E: Ordret: >>er HERREN-frygtende<<.} 
+//2 v10 Hvem blandt jer er det, der frygter HERREN{N: Frygt}
 
-så han adlyder{E: Septuaginta og den syriske oversættelse forudsætter finit verbum (*yišmaʕ*), der skal oversættes: >>skal adlyde<<, i stedet for den hebraiske teksts participium (*šōmēₐʕ*).} hans tjeners stemme? 
+//5 så han adlyder{E: Oversættelsen retter participium til yiqtol *yišmaʕ* ud fra LXX og den syriske oversættelse.} hans tjeners stemme?
 
-Den der vandrer i mørke og ikke har noget lys, 
+//6 Den der vandrer i mørke
+//7 og ikke har noget lys,
 
-skal stole på HERRENS navn 
+//4 skal stole på HERRENS navn
 
-og støtte sig til sin Gud.
+//5 og støtte sig til sin Gud.
 
-v11 Se, alle I der tænder ild, 
+//3 v11 Nu alle jer, der
+//5 tænder ild,
 
-som ruster jer med brandpile, 
+//6 I bevæbner jer med brandpile!
 
-gå I selv ind i jeres ilds flamme 
+//4 Gå I selv ind i flammerne fra jeres ild
 
-og i de brandpile I har tændt! 
+//6 og i de brandpile
+//7 I har tændt!
 
-Fra min hånd kommer dette over jer, 
+//5 Fra min hånd er dette kommet over jer,
 
-på et pinested skal I ligge.
-
-
+//6 i pine skal I ligge.

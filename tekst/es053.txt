@@ -1,109 +1,121 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.03.2025>!!
+
 ===Esajas' Bog, kapitel 53===
 
-v1 Hvem troede det budskab vi fik? 
+//0 v1 Hvem troede vores budskab
 
-Og for hvem blev HERRENS arm åbenbaret?
+//3 og mod{E: Præpositionen *ʕal* >>oven på<< bruges ofte i fjendtlig betydning, men kan også betyde >>foran og oven over hvem<<, hvis vedkommende sidder ned.} hvem blev HERRENS arm stillet til skue?
 
-v2 Han skød frem som en spire for hans ansigt 
+//2 v2 Han skød op som en spire foran ham{N: Ansigt.}
 
-og som et rodskud af tør jord, 
+//5 og som et rodskud af tør jord,
 
-han havde ingen skikkelse og ingen herlighed 
+//4 han havde ingen indtagende skikkelse
+//7 og ingen skønhed
 
-så vi så på ham, 
+//8 så vi ville se på ham,
 
-og ikke et udseende så vi begærede ham.
+//6 og ikke et udseende
+//7 så vi begærede ham.
 
-v3 Han var foragtet og undgået af mennesker, 
+//5 v3 Han var foragtet
+//7 og undgået af mennesker,
 
-en smerternes mand, kendt med sygdom, 
+//6 en smerternes mand,
+//7 kendt med sygdom,
 
-og som en{T: Ordret: >>som noget<<.} man skjuler ansigtet for, 
+//8 og som en man skjuler ansigtet for, foragtet,
 
-foragtet, og vi regnede ham ikke for noget.
+//9 og vi regnede ham ikke for noget.
 
-***
+ ***
 
-v4 Men: Vores sygdomme tog han på sig, 
+//3 v4 Og dog, vores sygdomme tog han på sig,
 
-og vores smerter – dem bar han; 
+//7 og vores smerter,
+//8 dem bar han;
 
-men vi anså ham for ramt, 
+//6 men vi anså ham for ramt,
 
-slået af Gud og plaget.
+ slået af Gud og plaget.
 
-v5 Men han blev gennemboret for vores overtrædelser 
+//7 v5 Men han blev gennemboret{E: *mᵊḥōlāl* er oversat ligesom Es 51,9 og Job 26,13 og ikke >>såret<<.} for vores overtrædelser
 
-og knust for vores synder; 
+//9 og knust for vores synder;
 
-straffen blev lagt på ham for at vi kan få fred,{T: Ordret: >>vores freds straf kom på ham<<.} 
+//8 straffen, for at vi kunne få fred, blev lagt på ham,
 
-og ved hans sår har vi fået helbredelse.
-
-v6 Vi flakkede alle om som får, 
-
-vi vendte os hver sin vej; 
-
-men HERREN lod ham ramme
-
-med vores alles skyld.
-
-v7 Han blev mishandlet, men han ydmygede sig{T: Kan også oversættes: >>og han blev ydmyget,<<. I så fald skal første ord i næste sætning være >>men<<, ikke >>og<<.} 
-
-og åbnede ikke sin mund, 
-
-som et lam der føres til slagtningen, 
-
-og som et får der er stumt over for dem der klipper det; 
-
-og han åbnede ikke sin mund.
-
-v8 Fra trængsel{T: Kan muligvis oversættes: >>fængsel<<.} og fra dom blev han taget bort, 
-
-og i hans samtid{T: Kan også oversættes: >>slægt<<.} – hvem vil tænke på,{T: Kan muligvis også oversættes: >>vil tænke på hans slægt? For han blev revet …<<.} 
-
-da han blev revet bort fra de levendes land, 
-
-at han blev ramt af plage for mit folks synd?
-
-v9 Man gav ham hans grav hos forbrydere 
-
-og hos en rig i hans død, 
-
-selvom han ikke havde gjort uret, 
-
-og der ikke var bedrag i hans mund.
-
-***
-
-v10 Men HERREN ville knuse ham, han gjorde ham syg. 
-
-Når hans sjæl har bragt et skyldoffer, 
-
-skal han se afkom og leve længe,{T: Ordret: >>forlænge sine dage<<.} 
-
-og HERRENS gode vilje{T: Kan også oversættes: >>HERRENS anliggende<<.} skal lykkes ved hans hånd. 
-
-v11 For i sin sjæls møje skal han se det,{T: Mange oversættere vælger med Septuaginta i stedet for det underforståede >>det<< at indsætte ordet: >>lys<<.} han skal mættes; 
-
-ved sin kundskab skal min retfærdige tjener gøre de mange retfærdige; 
-
-og han skal bære deres synder.
-
-v12 Derfor vil jeg give ham del blandt de store, 
-
-og med mægtige skal han dele bytte 
-
-fordi han hengav{T: Ordret: >>udgød<<.} sin sjæl til døden 
-
-og blev regnet blandt overtrædere;{T: Kan også oversættes: >>frafaldne (fra Gud)<<.} 
-
-ja, han bar manges synd, 
-
-og han skal gå i forbøn for{T: Kan også oversættes: >>træde i stedet for<<.} overtrædere.
+//9 og ved hans sår har vi fået helbredelse.
 
 
+//5 v6 Vi flakkede alle om som får,
+
+//7 enhver
+//6 vendte sig sin egen vej;
+
+//5 men HERREN lod ham ramme
+
+ med vores alles skyld.
+
+//4 v7 Han blev mishandlet,
+//7 men han ydmygede sig{T: Kan også oversættes: >>og han blev ydmyget,<<.}
+
+//8 og åbnede ikke sin mund,
+
+//6 som et lam
+//9 der føres til slagtningen,
+
+//8 og som et får
+//9 der er stumt over for dem der klipper det;
+
+//7 han åbnede ikke sin mund.
+
+//5 v8 Fra vold og fra dom{T: En mulig oversættelse er >>gennem vold/undertrykkelse og uden ret<< ud fra Sl 107,39.} blev han taget bort,
+
+//7 og hvad angår hans eget slægtsled, hvem ville tænke på,
+
+//8 da {T: Alternativ oversættelse: >>hvem vil tænke på hans slægt? For han blev revet …<<.} han blev revet bort fra de levendes land,
+
+//9 at han blev ramt af slag for mit folks synd?
+
+//6 v9 Man gav ham hans grav hos forbrydere
+
+//8 og hos en rig i hans død,
+
+//9 selvom han ikke havde gjort uret,
+
+//10 og der ikke var bedrag i hans mund.
+
+ ***
+
+//7 v10 Men det var HERREN der ville
+//9 knuse ham,
+//8 han gjorde ham syg.
+
+//1 Når han{N: Sjæl} har bragt et skyldoffer,
+
+//3 vil han se afkom
+//3 og leve længe,
+
+//4 og HERRENS ønske vil lykkes ved hans hånd.
+
+//2 v11 Gennem sin{N: Sjæl} lidelse vil han se
+//4 det{T: LXX tilføjer her ordet: >>lys<<.} han bliver mættet af;
+
+//3 ved sin kundskab vil min retfærdige tjener gøre de mange retfærdige;
+
+//5 og deres synder vil han bære.
+
+//4 v12 Derfor vil jeg give ham en andel blandt de store,
+
+//7 og med mægtige vil han dele bytte
+
+//6 fordi han ofrede {T: Ordret: >>udgød<<.} sin sjæl i døden
+
+//7 og blev regnet blandt overtrædere;
+
+//5 ja, han bar manges synd,
+
+//6 og han lod ham ramme {T: Kan også oversættes: >>gå i forbøn for <<.} for overtrædere.
