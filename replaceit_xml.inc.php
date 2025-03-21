@@ -107,8 +107,6 @@ class replaceit_XML {
     }
 
     static private function tagContent($parser, string $content) {
-
-
         self::$collect .= $content;
     }
 
@@ -124,8 +122,8 @@ class replaceit_XML {
 //        xml_parser_set_option($parser, XML_OPTION_TARGET_ENCODING, "UTF-8");
         xml_parser_set_option($parser, XML_OPTION_CASE_FOLDING, 0);
         xml_parser_set_option($parser, XML_OPTION_SKIP_WHITE, 0);
-        xml_set_element_handler($parser, 'self::tagStart', 'self::tagEnd');
-        xml_set_character_data_handler($parser, 'self::tagContent');
+        xml_set_element_handler($parser, 'replaceit_XML::tagStart', 'replaceit_XML::tagEnd');
+        xml_set_character_data_handler($parser, 'replaceit_XML::tagContent');
 
         $xml=file_get_contents($filename);
 
