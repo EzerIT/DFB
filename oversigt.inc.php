@@ -274,6 +274,11 @@ $style['es'][ 9] = $modenhed['med indrykning'];
 $style['es'][10] = $modenhed['med indrykning']; 
 $style['es'][24] = $modenhed['med indrykning']; 
 $style['es'][25] = $modenhed['med indrykning']; 
+$style['es'][31] = $modenhed['med indrykning']; 
+$style['es'][32] = $modenhed['med indrykning']; 
+$style['es'][33] = $modenhed['med indrykning']; 
+$style['es'][34] = $modenhed['med indrykning']; 
+$style['es'][35] = $modenhed['med indrykning']; 
 $style['es'][40] = $modenhed['med indrykning']; 
 $style['es'][41] = $modenhed['med indrykning']; 
 $style['es'][48] = $modenhed['med indrykning']; 
@@ -282,6 +287,9 @@ $style['es'][50] = $modenhed['med indrykning'];
 $style['es'][51] = $modenhed['med indrykning']; 
 $style['es'][52] = $modenhed['med indrykning']; 
 $style['es'][53] = $modenhed['med indrykning']; 
+$style['es'][60] = $modenhed['med indrykning']; 
+$style['es'][61] = $modenhed['med indrykning']; 
+$style['es'][62] = $modenhed['med indrykning']; 
 
 
 $style['jer'][ 1] = $modenhed['uden indrykning'];

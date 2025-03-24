@@ -1,94 +1,101 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 35===
 
-==Ørkenen skal blomstre==
-v1 Ørken og tørt land, de skal glæde sig, 
+==Ørkenen vil blomstre==
+//0 v1 Ørkenen og det tørre land vil glæde sig, 
 
-ødemark skal juble og blomstre som rosen.{E: Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis >>høsttidløs<<. Andre foreslår: >>affodil<< eller: >>narcis<<.}
+//2 den øde slette juble 
 
-v2 Den skal blomstre frodigt og juble, 
+//3 og blomstre som en affodil {E: Ørkenplanten*ḥᵃvaṣṣālet* kan også være en anemone, høsttidløs eller krokus.}
 
-ja, den skal fryde sig med jubel.
+//1 v2 Den vil blomstre frodigt 
 
-Libanons herlighed bliver givet til den, 
+//3 og glæde sig i stor fryd, 
+
+//4 den vil juble!
+
+//2 Libanons herlighed bliver givet til den, 
 
 Karmels og Sarons pragt; 
 
-de skal se HERRENS herlighed, 
+//3 de skal se HERRENS herlighed, 
 
-vor Guds pragt.
+vores Guds pragt.
 
-***
+ ***
 
-v3 Styrk slappe hænder, 
+//0 v3 Styrk de slappe hænder, 
 
-og gør kraftesløse knæ stærke!
+//3 og gør kraftesløse knæ stærke!
 
-v4 Sig til dem med ængsteligt hjerte: 
+//2 v4 Sig til dem med bankende hjerte: 
 
->>Vær stærke, frygt ikke! 
+//3 >>Vær stærke, 
+//5 frygt ikke! 
 
-Se jeres Gud! 
+//4 Se jeres Gud kommer 
 
-Der kommer hævn, 
+med oprejsning{H: 5 Mos 32,35}, 
 
-Guds gengældelse, 
+Guds gengældelse,
 
-han vil komme og frelse jer.<<
+//5 han vil komme 
+//6 og frelse jer.<<
 
-***
+ ***
 
-v5 Da skal blindes øjne åbnes,
+//1 v5 Da vil blindes øjne åbnes 
 
-og døves ører skal lukkes op.
+//5 og døves ører lukkes op.
 
-v6 Da skal en halt springe som hjorten
+//4 v6 Da vil den halte springe som hjorten 
 
-og en stums tunge juble;
+//5 og den stummes tunge juble; 
 
-for vand bryder frem{T: Ordret: >>åbner sig<<.} i ørkenen 
+//3 for vand bryder frem i ørkenen 
 
-og bække i ødemarken. 
+//4 og bække på den øde slette. 
 
-v7 Det udtørrede land skal blive til dam 
+//2 v7 Det udtørrede land vil blive til en sø 
 
-og den tørstende jord til vandkilder; 
+//4 og den tørstende jord til vandkilder; 
 
-på sjakalers boplads, hvor den lejrer sig, 
+//3 på sjakalers boplads, hvor de lejrer sig, 
 
-er der voksested for rør og siv.
+//4 bliver skud til rør og siv.
 
-***
+ ***
 
-v8 Dér skal der være en hovedvej og vej,{T: >>og vej<< står ikke i alle håndskrifter.} 
+//2 v8 Dér vil blive en hovedvej og vej,{T: >>og vej<< står ikke i alle håndskrifter.} 
 
-og den skal kaldes Den Hellige Vej; 
+//6 og 
+//8 Den Hellige Vej 
 
-ingen uren skal gå ad den, 
+//7 skal den kaldes; 
 
-og når han går vejen for dem,{T: Som vejviser og leder.} 
+//5 ingen uren går ad den, 
 
-skal tåber heller ikke flakke om.
+//6 og den tilhører dem der går vejen, 
 
-v9 Dér skal der ikke være nogen løve, 
+//7 tåber flakker ikke om.
 
-og rovdyr{T: Ordret: >>det voldsomme blandt dyrene<<.} kommer ikke op på den, 
+//4 v9 Dér vil der ikke være nogen løve, 
 
-de findes ikke; 
+//6 og rovdyr kommer ikke op på den, 
 
-men genløste skal vandre der.
+//5 de findes ikke; 
 
-v10 HERRENS forløste skal vende tilbage,
+//6 men løskøbte vandrer der.
 
-og de kommer til Zion med jubel, 
+//3 v10 HERRENS frikøbte vender tilbage,
 
-og der skal være evig glæde i spidsen for dem; 
+//5 og de kommer til Zion med jubel, 
 
-fryd og glæde skal nå dem, 
+//6 og der vil være evig glæde i spidsen for dem; 
 
-og sorg og suk skal flygte.
+//4 fryd og glæde når dem, 
 
-
+//5 og sorg og suk flygter.

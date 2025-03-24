@@ -1,140 +1,149 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 34===
 
 ==HERRENS straf over Edom og de øvrige fjender==
-v1 Kom her, I folkeslag,{T: Kan også oversættes: >>hedninger<<} for at høre! 
+//0 v1 1 Kom her, 
+//4 I folkeslag, 
+//3 for at høre! 
 
-Og I folk, lyt nøje efter! 
+//2 Og 
+//4 I folk, 
+//3 lyt nøje efter! 
 
-Jorden og alt hvad der fylder den, skal høre,
+//1 Jorden og alt hvad der fylder den, skal høre,
 
-verden og alt hvad der gror på den!
+//4 verden og alt hvad der gror på den!
 
-v2 For HERRENS vrede er over alle folkeslagene,{T: Kan også oversættes: >>hedningerne<<.} 
+//3 v2 For HERRENS vrede er over alle folkeslagene, 
 
-og hans harme over hele deres hær; 
+//5 og hans harme over alle deres hære; 
 
-han lægger band på dem, 
+//4 han lægger band på dem, 
 
-giver dem hen til slagtningen.
+//6 giver dem hen til slagtningen.
 
-v3 Deres dræbte skal slænges hen, 
+//5 v3 Deres dræbte skal slænges hen, 
 
-og deres lig – stanken af dem skal stige op, 
+//7 og deres lig – 
+//8 stanken af dem skal stige op, 
 
-og bjerge skal flyde med deres blod.
+//6 og bjerge skal flyde med deres blod.
 
-v4 Hele himlens hær skal svinde hen, 
+//8 v4 Hele himlens vrimmel{H: 1 Mos 2,1} svinder hen, 
 
-og himlene skal rulles sammen som en bogrulle; 
+//9 og himlene bliver rullet sammen som en bogrulle; 
 
-og hele deres hær skal visne 
+//7 hele deres vrimmel vil visne 
 
-som løv visner af en vinstok
+//8 som løv visner af en vinstok
 
-og vissent løv af et figentræ.
+//9 og vissent løv af et figentræ.
 
-v5 Når mit sværd har beruset sig i himlen, 
+//3 v5 Når mit sværd har beruset sig i himlen, 
 
-se, over Edom skal det fare ned 
+//2 se, da vil det fare ned over Edom
 
-og til dom over det folk jeg lagt band på.
+//4 og til dom over det folk jeg lagt band på.
 
-v6 HERRENS sværd er fuldt af blod, 
+//3 v6 HERRENS sværd er fuldt af blod, 
 
-er mættet af fedt, 
+//5 er mættet af fedt, 
 
-af lams og bukkes blod, 
+ af lams og bukkes blod, 
 
 af vædderes nyrefedt.
 
-For HERREN har slagtoffer i Bosra 
+//4 For HERREN har et slagtoffer i Bosra 
 
-og en stor slagtning i Edoms land.
+//7 og en stor nedslagtning i Edoms land.
 
-v7 Og bøfler falder sammen med dem
+//6 v7 Vildokser falder sammen med dem
 
-og tyrekalve sammen med tyre; 
+//8 og tyrekalve sammen med tyre; 
 
-deres jord skal drikke deres blod, 
+//7 deres jord drikker deres blod, 
 
-og deres støv skal mættes af fedt.
+//9 og deres støv mættes af fedt.
 
-v8 For det er en hævndag for HERREN, 
+//8 v8 For det er en hævnens dag for HERREN, 
 
-gengældelses år for Zions strid.{T: Kan også oversættes: >>retssag<<.}
+et gengældelsesår i striden for Zion.
 
-v9 Og dets {T: Edoms} bække skal forvandles til tjære 
+//5 v9 Og dets bække vil forvandles til tjære 
 
-og dets støv til svovl, 
+//7 og dets støv til svovl, 
 
-og dets jord{T: Kan også oversættes: >>land<<} skal blive til brændende tjære.
+//6 og dets jord{T: Kan også oversættes: >>land<<.} bliver til brændende tjære.
 
-v10 Hverken dag eller nat skal det slukkes, 
+//8 v10 Hverken dag eller nat vil det blive slukket, 
 
-for evigt skal røgen fra det skal stige op; 
+//10 for evigt vil røgen fra det stige op; 
 
-fra slægt til slægt skal det ligge øde, 
+//9 fra slægt til slægt vil det ligge øde, 
 
-i evigheds evigheder skal ingen gå igennem det.
+//10 i evigheds evigheder vil ingen gå igennem det.
 
-v11 Men pelikan{T: Det er usikkert hvilken fugl det drejer sig om. Andre forslag: >>høg<< eller >>grib<<.} og pindsvin{T: Usikkert. Andre foreslår, at der er tale om >>rørdrum<<.} skal eje det, 
+//11 v11 Men kirkeuglen og mosehornuglen  ejer det, 
 
-og ugle og ravn skal bo i det. 
+//12 skovhornsugle og ravn vil bor i det. 
 
-Han skal strække målesnor ud over det så det bliver tomhed, 
+//7 Han vil med en målesnor udmåle det golde, 
 
-og lodsnor så det bliver øde.{T: De hebraiske ord for >>tomhed<< og >>øde<< er de samme som i 1 Mos 1,2a.}
+og med en lodsnor det øde.{H: 1 Mos 1,2.}
 
-v12 Dets fornemme folk – der er ingen dér de kalder til kongeværdighed;{T: Kan også oversættes: >>udråber kongedømme<<.} 
+//10 v12 Dets fornemme folk 
+//13 – der er ingen dér de kalder til kongeværdighed;{T: Ordret: >>udråber kongedømme<<.} –
 
-og alle dets ledere skal blive til intet.
+//12 og alle dets ledere skal blive til intet.
 
-v13 Dets paladser gror til med tjørne,{T: Ordret: >>går op i tjørne<<.} 
+//11 v13 Tjørne gror op i dets paladser, 
 
-der er nælde og tidsel i dets fæstninger; 
+//12 der er nælde og tidsel i dets fæstninger; 
 
-og det skal være boplads for sjakaler, 
+//9 og det er boplads for sjakaler, 
 
-opholdssted for strudse.
+//12 opholdssted for strudse.
 
-v14 Ørkendyr{T: Det er usikkert hvilket dyr der er tale om.} og sjakaler{T: Andre oversætter: >>hyæne<<.} skal mødes, 
+//11 v14 Ørkendyr og sjakaler vil mødes, 
 
-og bukketrold{T: Bukkelignende dæmon.} skal møde sin fælle, 
+//12 og vildgeden træffer sin fælle, 
 
-kun dér slår Lilit{T: En kvindelig dæmon, der forbindes med natten.} sig til ro  
+//10 kun dér slår ugler sig til ro  
 
-og finder sig et hvilested.
+//13 og finder sig et hvilested.
 
-v15 Dér bygger pilslangen rede og lægger æg, 
+//12 v15 Dér bygger pilslangen rede 
+//13 og lægger æg, 
 
-ruger{T: Ordret >>spalter<<.} og udklækker sin skygge; 
+//14 udruger dem 
+//15 og samler ungerne i sin skygge; 
 
-kun dér samler sig glenter,{T: Det er tale om en uren fugl, måske >>glente<< eller >>grib<<.} 
+//11 kun dér samler sig glenter, 
 
-en med sin fælle.
+hver med sin fælle.
 
-***
+ ***
 
-v16 Forsk i HERRENS bog, og læs, 
+//8 v16 Søg i HERRENS bog, 
+//10 og læs, 
 
-Ikke en eneste af dem mangler,
+//9 Ikke en eneste af dem mangler,
 
-den ene savner ikke sin fælle; 
+//11 den ene savner ikke sin fælle; 
 
-for hans mund har påbudt det, 
+//10 for hans mund 
+//13 den har påbudt det, 
 
-og hans Ånd har samlet dem.
+//12 og hans Ånd 
+//13 den har samlet dem.
 
-v17 Og han har kastet lod for dem,{T: Dvs. for dyrene, v. 14f.} 
+//11 v17 Og han har kastet lod for dem,  
 
-og hans hånd har fordelt det iblandt dem med målesnoren; 
+//13 og hans hånd har fordelt det iblandt dem med målesnoren; {H: Es 34,11} 
 
-til evig tid skal de eje det,
+//12 til evig tid vil de eje det,
 
-fra slægt til slægt skal de bo der.{T: i Edoms land}
-
-
+//13 fra slægt til slægt vil de bo der.

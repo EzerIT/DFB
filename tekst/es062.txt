@@ -1,126 +1,135 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 62===
 
 
-==Jerusalems frelse og herlighed==
+ ==Jerusalems frelse og herlighed==
 
-v1 For Zions skyld vil jeg ikke tie, 
+//0 v1 For Zions skyld vil jeg ikke tie, 
 
-og for Jerusalems skyld vil jeg ikke hvile 
+//3 og for Jerusalems skyld vil jeg ikke hvile 
 
-indtil dens retfærdighed bryder frem som lysglans, 
+//2 indtil dens retfærdighed bryder frem som stråleglans, 
 
-og dens frelse brænder som en fakkel.
+//3 og dens frelse 
+//4 brænder som en fakkel.
 
-v2 Og folkeslag{T: Kan også oversættes: >>hedninger<<.} skal se din retfærdighed 
+//1 v2 Og folkeslag vil se din retfærdighed 
 
-og alle konger din herlighed; 
+//4 og alle konger din herlighed; 
 
-og du skal kaldes med et nyt navn 
+//3 og du vil blive kaldt med et nyt navn 
 
-som HERRENS mund skal bestemme.
+//6 som HERRENS mund bestemmer.
 
-v3 Og du skal være en prægtig krone i HERRENS hånd 
+//5 v3 Og du vil blive en prægtig krone i HERRENS hånd 
 
-og en kongelig turban i din Guds hånd.
+//6 og en kongelig turban i din Guds hånd.
 
-v4 Det skal ikke mere siges om dig: >>forladt<<, 
+//4 v4 Der vil ikke mere blive sagt om dig: >>Forladt<<, 
 
-og om dit land skal der ikke mere siges: >>ødelæggelse<<; 
+//6 og om dit land skal der ikke mere siges: >>Ødelæggelse<<; 
 
-men dig kalder man: >>mit behag er i hende<<, 
+//5 men dig kalder man 
+//8 >>Min fryd er i hende<<,
 
-og dit land: >>hustru<<; 
+//7 og dit land >>Den gifte<<; 
 
-for HERREN har behag i dig, 
+//6 for HERREN har behag i dig, 
 
-og dit land bliver taget til hustru.
+//8 og dit land bliver gift.
 
-v5 Som en yngling gifter sig med en jomfru, 
+//7 v5 Som en ung mand gifter sig med en jomfru, 
 
-sådan skal dine børn tage dig til hustru; 
+//9 sådan vil dine børn blive gift med dig; 
 
-og med en brudgoms glæde over en brud, 
+//8 med en brudgoms glæde over sin brud 
 
-skal din Gud glæde sig over dig.
+//9 vil din Gud glæde sig over dig.
 
-***
+ ***
 
-v6 På dine mure, Jerusalem, 
+//2 v6 På dine bymure, 
+//6 Jerusalem, 
 
-anbringer jeg vægtere; 
+//5 anbringer jeg vagter; 
 
-hele dagen og hele natten
+//4 hele dagen og hele natten 
 
-- aldrig skal de tie; 
+- aldrig skal de tie, 
 
-I, der påkalder HERREN,{T: Teksten har ordret: >>påminder HERREN<<} 
+//3 de der minder HERREN om det. 
 
-I har ingen ro!
+//6 Lad der ikke være nogen ro for jer!
 
-v7 Og giv ham ingen ro 
+//7 v7 Og giv ham ingen ro 
 
-indtil han genrejser, 
+//8 indtil han genrejser, 
 
-og indtil han gør Jerusalem 
+//9 og indtil han gør Jerusalem 
 
 til lovprisning på jorden.
 
-***
+ ***
 
-v8 HERREN har svoret ved sin højre hånd 
+//5 v8 HERREN har aflagt ed ved sin højre hånd 
 
-og ved sin styrkes arm: 
+ og ved sin styrkes arm:
 
-Jeg vil afgjort ikke mere give{E: Ordret: >>Hvis jeg giver dit korn<<. Men da eftersætningen er udeladt, får: *ʔim* (>>hvis<<) betydningen: >>afgjort ikke<<.} dit korn 
+//6 Jeg vil aldrig mere give dit korn 
 
-som føde til dine fjender, 
+ som føde til dine fjender,
 
-og fremmede skal afgjort ikke drikke din vin, 
+//7 og fremmede vil heller ikke drikke den vin 
 
-som du har anstrengt dig for.
+//9 som du har anstrengt dig for!
 
-v9 Men de der samler kornet{T: Ordret blot: >>det<<.} ind, skal spise det, 
+//8 v9 For 
+//12 de der høster det, 
+//11 vil også spise det, 
 
-og de skal prise HERREN; 
+//10 og 
+//9 de vil prise HERREN; 
 
-og de der indhøster vinen,{T: Ordret blot: >>den<<.} skal drikke den 
+//11 og de der plukker den, 
+//10 vil også drikke den 
 
 i mine hellige forgårde.
 
-***
+ ***
 
-v10 Gå igennem, gå igennem portene, 
+//4 v10 Gå igennem, 
+//7 gå igennem byportene, 
 
-ryd folkets vej; 
+//6 ban en vej for folket; 
 
-byg, byg den banede vej, 
+//8 byg, 
+//9 byg en hovedvej, 
 
-rens den for sten, 
+//10 rens den for sten, 
 
-rejs et banner over folkene!
+//7 rejs et banner over folkene!
 
-v11 Se, HERREN har ladet det høre 
+//5 v11 Se, HERREN har ladet det høre 
 
 til jordens ende: 
 
-Sig til Zions datter: 
+//7 Sig til Zions datter: 
 
-Se, din frelse{E: Septuaginta har: >>din frelser<<, der synes forudsat i næste linje, men de hebraiske håndskrifter har: *yišʕēx* (>>din frelse<<) og ikke: *môšîʕēx*: >>din frelser<<.} kommer; 
+//8 Se, din frelse{E: LXX har: >>din frelser<<.} kommer; 
 
-se, hans løn er med ham, 
+//9 se, hans løn er med ham, 
 
-og hans fortjeneste er foran ham.
+//10 og hans fortjeneste er foran ham.
 
-v12 Og man skal kalde dem Det Hellige Folk, 
+//6 v12 Og man skal kalde dem 
+//8 >>Det Hellige Folk<<, 
 
-HERRENS Løskøbte; 
+//7 >>HERRENS Løskøbte<<; 
 
-og dig skal man kalde Eftertragtet, 
+//8 og dig skal man kalde >>Eftertragtet<<, 
 
-en by der ikke bliver forladt.
-
-
+en by 
+//9 der ikke bliver forladt.

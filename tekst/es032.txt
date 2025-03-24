@@ -1,142 +1,153 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 32===
 
 ==Gud giver en retfærdig konge==
-v1 Se, med retfærdighed skal en konge regere, 
+//0 v1 Med retfærdighed skal en konge jo regere, 
 
-og ledere – med ret skal de styre.
+//3 og ledere – 
+//4 med ret skal de styre.
 
-v2 Og hver af dem skal være som et skjul for vind 
+//2 v2 Og hver af dem skal være som et skjul for vind 
 
 og skærm mod skybrud, 
 
-som vandløb på et tørt sted 
+//4 som vandløb på et tørt sted 
 
 og som en mægtig klippes skygge 
 
-i tørstende land.
+ i det udpinte land.
 
-v3 De seendes øjne skal ikke lukkes til,{E: Den hebraiske tekst har: *tišʕeʸnāʰ* af roden: *šʕh*: >>skal ikke se væk<<. Oftest foreslås det at vokalisere: *tᵊšōʕeʸnāʰ*: >>skal ikke lukkes til<< eller: *tᵊšōʕeʸnāʰ *: >>skal ikke klistres til<<, begge af roden: *šʕʕ*, medmindre man også kan regne den hebraiske tekst som afledet af: *šʕʕ*.} 
+//3 v3 De seendes øjne vil ikke blive lukket til,{E: Den hebraiske tekst har *tišʕeʸnāʰ* af roden *šʕh*, dvs. >>skal ikke se væk<<. Her er valgt en omvokalisering til *tᵊšōʕeʸnāʰ*: >>skal ikke lukkes til<< af roden *šʕʕ*.} 
 
-og de hørendes ører skal lytte.
+//5 og de hørendes ører vil lytte.
 
-v4 De uroliges hjerte skal forstå kundskab, 
+//6 v4 De fortravledes hjerte vil forstå kundskab, 
 
-og de stammendes tunge skal i en fart tale tydelige ord.
+//7 og de stammendes tunge vil i en fart 
+//8 tale tydelige ord.
 
-v5 En tåbe skal ikke mere kaldes ædel 
+//4 v5 En tåbe vil ikke mere blive kaldt 
+//7 ædel 
 
-og en skurk ikke siges at være gavmild.
+//6 og en skurk ikke blive omtalt 
+//7 som fornem.
 
-v6 For en tåbe taler dumhed, 
+//5 v6 For en tåbe taler tåbeligt, 
 
-og hans hjerte handler syndigt 
+//7 og hans hjerte handler syndigt 
 
-for at handle gudløst 
+//8 ved at handle gudløst 
 
-og for at tale falsk til HERREN, 
+//10 og ved at tale falsk til HERREN, 
 
-for at lade en sulten sjæl sulte 
+//9 ved at lade et menneske{N: Sjæl} sulte 
 
-og lade en tørstig mangle noget at drikke.
+//10 og lade en tørstig mangle noget at drikke.
 
-v7 Og en skurk - hans redskaber er onde; 
+//6 v7 Og en skurk - 
+//8 hans redskaber er onde; 
 
-han udtænker onde planer 
+//7 han udtænker onde planer 
 
-for at ødelægge elendige{T: Kan også oversættes: >>ydmyge<<.} med løgnagtige ord, 
+//10 for at ødelægge ydmyge med løgnagtige ord, 
 
-også når den fattige taler sandt.
+//9 også når den fattige taler sandt.
 
-v8 Men den ædle lægger ædle planer, 
+//8 v8 Men den ædle lægger ædle planer, 
 
-og han står fast på ædle ting.
+//9 og han står fast på ædle ting.
 
+ ==Trussel mod de selvsikre==
 
-==Trussel mod de selvsikre==
-v9 I sorgløse kvinder, 
+//1 v9 I sorgløse kvinder, 
 
-rejs jer, hør på min stemme! 
+//2 rejs jer, 
 
-I selvsikre{T: Ordret: >>tillidsfulde<<, men her med negativ betydning om letsindig sikkerhed.} døtre, 
+//3 hør på min stemme!
 
-lyt nøje til min tale!
+//1 I selvsikre{T: Ordret: >>tillidsfulde<<, men her med negativ betydning om letsindig sikkerhed.} døtre!
 
-v10 Om år og dage 
+//2 lyt nøje til min tale!
 
-skal I selvsikre skælve; 
+//4 v10 Om år og dage vil I skælve,
 
-for det er forbi med vinhøsten, 
+//6 I selvsikre; 
 
-der kommer ingen frugthøst.
+//5 for det er forbi med vinhøsten, 
 
-v11 Bæv, I sorgløse! 
+//6 frugthøsten 
+//7 kommer ikke.
 
-Skælv, I selvsikre! 
+ ***
 
-Klæd dig af og stå nøgen 
+//3 v11 Bæv, 
+//5 I sorgløse! 
 
-og bind sæk om lænderne!
+//4 Skælv, 
+//5 I selvsikre! 
 
-v12 De slår sig klagende{T: Ordret blot: >>de klager<<.} på brystet{E: Den hebraiske tekst er vokaliseret som dualis *šādayim* der er betegnelse for kvindelige bryster. Det foreslås undertiden at ændre: *š* til: *ś* og vokalisere: *śādîm*: >>marker<<: >>De klager over marker<<.} 
+//4 Klæd dig af 
+//7 og stå nøgen 
+
+//8 og bind sæk om lænderne!
+
+//6 v12 De står og klager over markerne,{E: Hebraisk *šādayim* (>>de klager over brysterne<<) kan fortolkes som >>de slår sig på brystet og klager<<, men det er enklere at rette *š* til *ś* og vokalisere: *śādîm* >>marker<<.} 
 
 over herlige marker, 
 
 over frugtbare vintræer;
 
-v13 over mit folks jord
+//7 v13 over mit folks jord
 
-skal der vokse tjørn og tidsel frem, 
+//9 vil der vokse tjørn og tidsel frem, 
 
-ja, over alle glædesfyldte huse 
+//8 ja, over alle glædesfyldte huse 
 
-i en jublende by.
+ i en jublende by.
 
-v14 For paladset er forladt, 
+//5 v14 For paladset er forladt, 
 
-byens larm er standset; 
+//6 byens larm er standset; 
 
-Ofel{T: Formodentlig navnet på en høj eller klippetop ved Jerusalem, muligvis i tilknytning til tempelområdet.} og vagttårnet er blevet til huler for evigt, 
+//7 Ofel{H: 2 Krøn 27,3}  og vagttårnet er blevet til huler for evigt, 
 
-til glæde for vildæsler, 
+//9 til glæde for vildæsler, 
 
-til græsgang for fårehjorde.
+//10 til græsgang for fårehjorde,
 
+//8 v15 indtil Ånden fra det høje udgydes over os, 
 
-==Trøst til de troende==
-v15 Når Ånden fra det høje udgydes over os, 
+//9 og ørken bliver til frugtbart land, 
 
-så bliver ørken til frugtbart land, 
+//12 og frugtbart land regnes for skov.
 
-og frugtbart land regnes for skov;
+//11 v16 Ret slår sig ned i ørkenen, 
 
-v16 Ret skal slå sig ned i ørkenen, 
+//12 og retfærdighed bor på den frugtbare mark;
 
-og retfærdighed skal bo på den frugtbare mark;
+//13 v17 Retfærdighedens gerning bliver til fred, 
 
-v17 Retfærdighedens gerning bliver fred, 
+//14 og retfærdighedens værk 
 
-og retfærdighedens værk 
+giver ro og tryghed til evig tid.
 
-ro og tryghed til evig tid.
-
-v18 Mit folk skal bo på fredens boplads 
+//10 v18 Mit folk vil bo på fredens boplads 
 
 og i trygge boliger 
 
 og på sorgløse hvilesteder.
 
-v19 Men det skal hagle når skoven falder, 
+//11 v19 Men det vil hagle 
+//13 når skoven falder, 
 
-og byen skal synke ned i ringhed.
+//14 og byen synker
+ ned i ringhed.
 
-v20 Lykkelige er I, 
+//12 v20 Lykkelige er I, 
 
-der sår ved hvert vandløb, 
+//13 der sår ved hvert vandløb, 
 
-I, der lader oksens og æslets ben gå frit omkring!
-
-
+//13 som løsner okse og æslers ben.

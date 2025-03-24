@@ -1,104 +1,115 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 61===
 
 ==HERRENS tjener skal udråbe et nådeår fra HERREN==
 
-v1 Herren HERRENS Ånd er over mig 
+//0 v1 Herren HERRENS Ånd er over mig 
 
-fordi HERREN har salvet mig; 
+//3 fordi HERREN har salvet mig; 
 
-for at forkynde godt budskab for fattige har han sendt mig, 
+//4 for at forkynde glædesbudskab for fattige 
+//2 har han sendt mig, 
 
-for at helbrede{T: Ordret: >>forbinde<< (et sår).} dem der har et sønderknust hjerte, 
+//3 for at helbrede{T: Ordret: >>forbinde<< (et sår).} dem der har et sønderknust hjerte, 
 
-for at udråbe frigivelse for fanger 
+//3 for at udråbe frigivelse for fanger 
 
-og løsladelse{T: Ordret: >>åbning<< (af fangehullet).} for de lænkede;
+//4 og løsladelse for de lænkede;
 
-v2 for at udråbe et nådeår fra HERREN 
+//3 v2 for at udråbe et velbehageligt år fra HERREN 
 
-og en hævndag fra vores Gud, 
+//4 og en hævndag fra vores Gud, 
 
-for at trøste alle sørgende;
+//3 for at trøste alle sørgende;
 
-v3 for at skænke, for at give Zions sørgende hovedpynt i stedet for aske, 
+//3 v3 for at sørge for Zions sørgende, 
+//4 for at give dem hovedpynt i stedet for aske, 
 
-glædesolie i stedet for sorg,{E: Det er foreslået et bytte om på ordene: *ʔēvel maʕᵃṭēʰ* (>>sorg dragt<<), så >>dragt<< hører til denne linje: >>glædesolie i stedet for sørgedragt / lovprisning i stedet for en modløs ånd<<. Det har dog ingen støtte i håndskrifterne.} 
+//6 glædesolie i stedet for sorg, 
 
-lovprisningsdragt i stedet for en modløs ånd, 
+//7 lovprisningsdragt i stedet for en modløs ånd, 
 
-så de skal kaldes retfærdighedens ege,{T: Der er tale om høje træer. Andre oversætter: >>terebinter<<.} 
+//5 så de kaldes 
+//7 retfærdighedens terebinter, 
 
-HERRENS plantning, hvorved han forherliger sig.
-
-***
-
-v4 De skal genopbygge fortids ruinhobe, 
-
-og gamle ødemarker skal de genrejse 
-
-og genopføre de ødelagte byer 
-
-der lå øde hen i slægt efter slægt.
-
-v5 Og fremmede skal træde til og vogte jeres får, 
-
-og udlændinge skal være jeres landarbejdere og vingårdsmænd.
-
-v6 Men I skal kaldes HERRENS præster, 
-
-vores Guds tjenere skal der siges om jer. 
-
-Folkeslags{T: Kan også oversættes: >>hedningers<<.} rigdom skal I leve af 
-og overtage{E: Betydningen og roden af ordet: *tityammārû* er omdiskuteret. Roden ser ud til at være: *ymr* med grundbetydning: >>bytte ud/overtage<<. Mange afleder dog ordet af roden: *ʔmr*, der i hitpael evt. betyder: >>prale (over)<<.} deres herlighed.
-
-v7 I stedet for beskæmmelse får I dobbelt, 
-
-og i stedet for skam skal de juble over deres del. 
-
-Derfor skal de arve dobbelt i deres land, 
-
-evig glæde skal de have.
-
-v8 For jeg er HERREN, der elsker ret, 
-
-der hader rov ved hjælp af brandoffer;{E: Massoreterne har vokaliseret: *bᵊʕôlāʰ*, der må oversættes således. Men LXX og også nogle hebraiske håndskrifter har vokaliseret: *bᵊʕawlāʰ*: >>ved hjælp af uretfærdighed<<.} 
-
-men jeg vil trofast give dem deres løn 
-
-og slutte en evig pagt med dem.
-
-v9 Og deres afkom skal blive kendt blandt folkeslagene{T: Kan også oversættes: >>hedningerne<<.} 
-
-og deres efterkommere midt blandt folkene, 
-
-alle der ser dem, skal erkende om dem 
-
-at de er en slægt som HERREN har velsignet.
+HERRENS plantning, 
+//8 hvorved han viser sig frem i pragt.
 
 ***
 
-v10 Højt fryder jeg mig over HERREN, 
+//6 v4 De vil genopbygge fortids ruinhobe 
 
-min sjæl skal juble over min Gud; 
+//9 og genrejse gamle ødemarker; 
 
-for han har klædt mig i frelsesklæder, 
+//8 de vil genopføre de ødelagte byer 
 
-han har hyllet mig i retfærdighedskappe, 
+//9 der lå øde hen i slægt efter slægt.
 
-som en brudgom højtideligt ifører sig{T: Ordret nok: >>på præstelig vis<<.} hovedpynt, 
+//7 v5 Og fremmede vil træde til 
+//11 og vogte jeres får og geder, 
 
-og som bruden pryder sig med sine smykker.
+//10 og udlændinge vil blive jeres landarbejdere og vingårdsarbejdere.
 
-v11 For som jorden frembringer sin vækst, 
+//9 v6 Men I vil blive kaldt HERRENS præster, 
 
-og som en have lader sine urter vokse op, 
+//12 vores Guds tjenere 
+//11 vil der blive sagt om jer. 
 
-sådan lader Herren HERREN retfærdighed og lovsang vokse op 
+//10 Folkeslags rigdom vil I leve af 
 
-for øjnene af alle folkeslagene.{T: Kan også oversættes: >>hedningerne<<.}
+//11 og prale af deres herlighed.
 
+//12 v7 I stedet for jeres skændsel får I det dobbelte, 
 
+//14 og i stedet for skam vil de juble over deres del. 
+
+//13 Derfor vil de arve det dobbelte i deres land, 
+
+//14 evig glæde vil de få.
+
+//8 v8 For jeg er HERREN, der elsker ret, 
+
+//10 der hader rov ved hjælp af brandoffer;{E: LXX og nogle hebraiske håndskrifter har vokaliseret: *bᵊʕawlāʰ* (>>ved hjælp af uretfærdighed<<).} 
+
+//9 men jeg vil trofast give dem deres løn 
+
+//10 og slutte en evig pagt med dem.
+
+//11 v9 Og deres afkom vil blive kendt blandt folkeslagene 
+
+//13 og deres efterkommere midt blandt folkene, 
+
+//12 alle der ser dem, vil erkende om dem 
+
+//13 at de er det afkom
+
+//14 som HERREN har velsignet.
+
+ ***
+
+//1 v10 Højt fryder jeg mig over HERREN, 
+
+//4 min sjæl vil juble over min Gud; 
+
+//3 for han har klædt mig i frelsens klæder, 
+
+//4 han har hyllet mig i retfærdighedens kappe, 
+
+som en brudgom 
+//5 højtideligt ifører sig{T: Ordret: >>handle som en præst<<.} hovedpynt, 
+
+//6 og som bruden 
+//7 pryder sig med sine smykker.
+
+//2 v11 For som jorden 
+//5 frembringer sin vækst, 
+
+//4 og som en have 
+//5 lader sine urter vokse op, 
+
+//3 sådan lader Herren HERREN retfærdighed og lovprisning vokse op 
+
+for øjnene af alle folkeslagene.

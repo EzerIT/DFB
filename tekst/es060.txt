@@ -1,179 +1,194 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 60===
 
-==Jerusalems kommende herlighed==
+ ==Jerusalems kommende herlighed==
 
-v1 Rejs dig, bliv lys, for dit lys er kommet,{E: Efter imperativerne kan qatal eventuelt oversættes ved fremtid: >>for dit lys skal komme, og HERRENS herlighed skal stå op over dig!<<} 
+//0 v1 Rejs dig, 
+//4 bliv lys, 
+//5 for dit lys er kommet, 
 
-og HERRENS herlighed er stået op over dig. 
+//6 og HERRENS herlighed er stået op over dig. 
 
-v2 For se, mørket skjuler{T: Kan også oversættes: >>vil/skal skjule<<.} jorden 
+//3 v2 For se, mørket vil skjule jorden 
 
-og mulmet folkene; 
+//5 og mulmet folkene; 
 
-men over dig skal HERREN stå op, 
+//4 men over dig vil HERREN stå op, 
 
-og hans herlighed skal vise sig over dig.
+//6 og hans herlighed vil vise sig over dig.
 
-v3 Og folkeslag{T: Kan også oversættes: >>hedninger<<.} vandrer til dit lys 
+//5 v3 Og folkeslag vil vandre hen til dit lys 
 
-og konger til den glans, der er stået op over dig.{T: Ordret: >>til din opgangs glans<<. Der kan være tænkt på den glans der er gået op over Israel, eller på glansen ved folkets genrejsning.}
+//6 og konger til den stråleglans der er stået op over dig.
 
-v4 Løft dit blik og se dig omkring,{T: Ordret: >>Løft dine øjne omkring og se<<.} 
+//2 v4 Løft dit blik 
+//5 og se dig omkring, 
 
-de samles alle, de kommer til dig, 
+//4 de er alle samlet, 
+//5 de er kommet til dig, 
 
-dine sønner skal komme langvejs fra, 
+//6 dine sønner vil komme langvejs fra, 
 
-og dine døtre skal bæres på hofte.
+//7 og dine døtre vil blive båret på hoften.
 
-v5 Da skal du se {E: I stedet for: *tirʔî* (>>du skal se<<) har mange håndskrifter: *tîrʔî*: >>du skal frygte<<.} og stråle af glæde, 
+//3 v5 Da vil du se{E: I stedet for: *tirʔî* (>>du vil se<<) har mange håndskrifter: *tîrʔî*: >>du vil frygte<<.} 
+//5 og stråle af glæde, 
 
-og dit hjerte banker og svulmer; 
+//6 og dit hjerte banker 
+//7 og svulmer; 
 
-for havets overflod skal bringes til dig, 
+//4 for havets overflod{H: 5 Mos 33,19} bringes til dig, 
 
-folkeslags{T: Kan også oversættes: >>hedningers<<.} rigdom skal komme til dig.
+//5 folkeslags rigdom vil komme til dig.
 
-v6 Mængden af kameler skal skjule dig, 
+//6 v6 Mængden af kameler vil skjule dig, 
 
 Midjans og Efas dromedarer, 
 
-alle fra Saba skal komme; 
+//8 alle fra Saba vil komme; 
 
-de skal bære guld og røgelse 
+//9 de vil bære guld og røgelse 
 
-og de skal forkynde HERRENS pris.
+//10 og de vil bringe glædesbud til HERRENS lovprisning.
 
-v7 Alt Kedars småkvæg skal samles til dig, 
+//7 v7 Alle Kedars får og geder vil blive samlet til dig, 
 
-Nebajots vædre skal tjene dig; 
+//9 Nebajots vædre vil tjene dig; 
 
-de skal ofres{T: Ordret: >>stige op<<.} på mit alter til mit velbehag, 
+//8 de vil blive ofret som et velbehageligt offer på mit alter, 
 
-og min herligheds hus vil jeg herliggøre.
+//9 og mit pragtfulde tempel{N: Hus} vil jeg give pragt.
 
-***
+ ***
 
-v8 Hvem er disse der flyver af sted som en sky 
+//1 v8 Hvem er disse 
+//3 der flyver af sted som en sky 
 
-og som duer til deres dueslag?
+//4 og som duer til deres dueslag?
 
-v9 For øer skal vente på mig, 
+//2 v9 v9 For kystområderne vil vente håbefuldt på mig, 
 
-og Tarshish' skibe er forrest 
+//4 og Tarshish' skibe er forrest 
 
-for at bringe dine sønner{T: Kan også oversættes: >>børn<<.} fra det fjerne, 
+//6 for at bringe dine børn fra det fjerne, 
 
-deres sølv og deres guld sammen med dem, 
+//5 deres sølv og deres guld sammen med dem, 
 
 til HERREN din Guds navn 
 
 og til Israels Hellige, 
 
-for han har forherliget dig.
+//6 for han har givet dig pragt.
 
-v10 Og fremmede skal bygge dine mure, 
+//3 v10 Og fremmede vil bygge dine mure, 
 
-og deres konger skal tjene dig; 
+//7 og deres konger vil tjene dig; 
 
-for i min vrede slog jeg dig, 
+//6 for i min vrede slog jeg dig, 
 
-men i min nåde forbarmede jeg mig over dig.
+//7 men i min velbehagelige tid forbarmede jeg mig over dig.
 
-v11 Og dine porte skal de altid åbne, 
+//5 v11 Dine byporte vil altid stå åbne, 
 
-hverken dag eller nat skal de lukkes 
+//7 hverken dag eller nat lukkes de
 
-så man kan bringe folkeslags{T: Kan også oversættes: >>hedningers<<.} rigdom til dig
+//8 så man kan bringe folkeslags rigdom til dig
 
-og deres konger ført i procession.
+//9 og deres konger blive ført i procession.
 
-v12 For det folk og det rige der ikke vil tjene dig, skal gå til grunde, 
+//6 v12 For det folkeslag og det rige 
+//9 der ikke vil tjene dig, 
+//8 vil gå til grunde, 
 
-og folkeslagene{T: Kan også oversættes: >>hedningerne<<.} skal gå helt til grunde.
+//7 og folkeslagene vil gå helt til grunde.
 
-v13 Libanons herlighed skal komme til dig, 
+//4 v13 Libanons herlighed vil komme til dig, 
 
-både enebær og elm{T: Det er usikkert, hvilket træ der er tale om. Det kan også være >>ask<< eller >>fyr<< eller >>platan<<.} og cypres,{T: Der er usikkerhed om, hvilket træ der er tale om. Andre foreslår >>buksbom<< eller >>lærk<<.} 
+ både enebær og elm og cypres,
 
-for at pryde min helligdoms sted, 
+//6 for at give min helligdoms sted pragt, 
 
-og jeg vil ære mine fødders sted.
+//7 og jeg vil give mine fødders sted herlighed.
 
-v14 Og børnene af dem der har plaget dig, skal komme ydmyge til dig, 
+//5 v14 Og hen til dig vil de komme 
+//8 krybende, 
 
-og alle de der foragter dig, skal kaste sig ned for dine fodsåler, 
+børn af dine undertrykkere 
 
-og de skal kalde dig HERRENS by, Israels Helliges Zion. 
+//7 vil knæle ned for dine fodsåler, 
 
-v15 I stedet for at du var forladt og forhadt, og ingen gik igennem, 
+//6 alle de der foragter dig, 
 
-gør jeg dig til en evig højhed,{T: Kan også oversættes: >>stolthed<<.} 
+//8 og de vil kalde dig HERRENS by, Israels Helliges Zion. 
 
-til fryd for slægt efter slægt.
+//7 v15 I stedet for at du var forladt og forhadt, 
+//10 og ingen gik igennem dig, 
 
-v16 Og du skal die folkeslags{T: Kan også oversættes: >>hedningers<<.} mælk 
+//9 gør jeg dig til en evig stolthed 
 
-og die kongers bryst, 
+//11 til fryd for slægt efter slægt.
 
-og du skal forstå at jeg, HERREN, er din frelser 
+//10 v16 Og du vil die folkeslags mælk 
 
-og din forløser, Jakobs Mægtige.
+//12 og die kongers bryst, 
 
-v17 I stedet for kobberet vil jeg bringe guld,
+//11 og du vil forstå 
+//12 at jeg, HERREN, er din frelser 
 
-og i stedet for jernet vil jeg bringe sølv
+og din løskøber, Jakobs Mægtige.
 
-og i stedet for træerne bronze
+//8 v17 I stedet for bronze vil jeg bringe guld,
 
-og i stedet for stenene jern. 
+//10 og i stedet for jern vil jeg bringe sølv
 
-Og jeg vil give din øvrighed fred 
+//11 og i stedet for træer bronze
 
-og dine herskere retfærdighed.
+//12 og i stedet for sten jern. 
 
-v18 Der skal ikke længere høres om vold i dit land, 
+//9 Og jeg vil give din øvrighed fred 
 
-om ødelæggelse og fordærv inden for dine grænser; 
+//11 og dine arbejdsledere retfærdighed.
 
-men du skal kalde dine mure Frelse 
+//10 v18 Der vil ikke længere høres om vold i dit land, 
 
-og dine porte Lovsang.
+//15 om ødelæggelse og fordærv inden for dine grænser; 
 
-v19 For dig skal solen ikke længere være 
+//14 men du vil kalde dine bymure >>Frelse<< 
+
+//15 og dine byporte >>Lovprisning<<.
+
+//13 v19 For dig vil solen ikke længere være 
 
 lys om dagen, 
 
-og til glans skal månen ikke skinne for dig; 
+//16 og som stråleglans vil månen ikke skinne for dig; 
 
-men for dig skal HERREN være evigt lys 
+//15 men for dig vil HERREN være et evigt lys 
 
-og din Gud din herlighed.
+//16 og din Gud din pragt{H: Es 35,2}.
 
-v20 Din sol skal ikke mere gå ned, 
+//14 v20 Din sol vil ikke mere gå ned, 
 
-og din måne skal ikke tage af; 
+//16 og din måne ikke tage af; 
 
-for HERREN skal for dig være evigt lys, 
+//15 for HERREN vil for dig være evigt lys, 
 
-og dine sørgedage skal være til ende.
+//16 og dine sørgedage vil være til ende.
 
-v21 Og dit folk – de er alle retfærdige, 
+//12 v21 Og dit folk, 
+//14 de er alle retfærdige, 
 
-til evig tid skal de eje landet, 
+//13 til evig tid vil de eje landet, 
 
-et skud af min plante,{E: Den hebraiske konsonanttekst (*mṭʕw*) oversættes ordret med >>et skud af hans plante<<. Vokaliseringen *maṭṭāʕay* og de antikke oversættelser, herunder den aramæiske targum og den syriske Peshitta, forudsætter: >>et skud af min plante<<. Det er foreslået at læse: *maṭṭāʕ jhvh* >>(et skud) af HERRENS plante<<. Det er dog uden støtte i håndskrifter.} 
+//15 et skud af min plante,{E: Her følges masoreternes læsning; konsonantteksten er *mṭʕw* (>> hans plante<<).} 
 
-mine hænders værk til forherligelse. 
+//16 for at det kan vise pragten i mine hænders værk. 
 
-v22 Den ubetydelige skal blive til tusind 
+//14 v22 Den lille vil blive til tusind 
 
-og den lille til et mægtigt folk; 
+//15 og den unge til et mægtigt folk; 
 
-Jeg, HERREN, vil til sin tid fremskynde det.
-
-
+//11 Jeg, HERREN, vil til sin tid fremskynde det.

@@ -1,204 +1,224 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 33===
 
 ==Profeti mod Assyrien==
-v1 Ve dig, du ødelægger, 
+//0 v1 Ve dig, 
+//6 du ødelægger, 
 
-der ikke selv er blevet ødelagt! 
+//5 der ikke selv er blevet ødelagt! 
 
-Og troløse, 
+//4 Og 
+//6 troløse, 
 
-som de ikke har handlet troløst imod! 
+//5 som de ikke har handlet troløst imod! 
 
-Når du er holdt op med at ødelægge, 
+//4 Når du er holdt op med at ødelægge, 
 
-skal du ødelægges, 
+//3 vil du blive ødelagt, 
 
-når du er færdig{E: Det hebraiske verbum: *nlh* forekommer kun her. Den sandsynlige oversættelse af sætningen er: >>når du fuldt ud har opnået at være troløs<<. Man retter oftest: *kanᵊlōtᵊxā* til: *kᵊxallōtᵊxā*: >>når du slutter med<<.} med at handle troløst, 
+//5 når du er færdig{E: Formen *kanᵊlōtᵊxā* har ukendt betydning og rettes derfor til *kᵊxallōtᵊxā*: >>når du slutter med<<.} 
 
-skal de handle troløst mod dig.
+//6 med at handle troløst,
 
-v2 HERREN, vær os nådig, vi har håbet på dig; 
+//4 vil de handle troløst mod dig.
 
-vær du vores{T: Ordret: >>deres<<, men en del håndskrifter og de gamle oversættelser har: >>vores<<.} støtte{T: Ordret: >>arm<<.} om morgenen, 
+//6 v2 HERREN, 
+//7 vær os nådig, 
+//9 vi har håbet på dig; 
 
-ja, vores frelse i nødens tid.
+//8 vær du vores støtte{T: Ordret: >>arm<<.} om morgenen, 
 
-v3 For tumultens larm
+//10 ja, vores frelse i nødens tid.
+
+//9 v3 For lyden af larmen 
 
 flygter folkene; 
 
-når du rejser dig
+//10 når du rejser dig 
 
-spredes folkeslag.{T: Kan også oversættes: >>hedninger<<.}
+spredes folkeslag. 
 
-v4 Og jeres bytte{E: Man retter ofte: *šᵊlalxem*: >>jeres bytte<< til: *šalal kᵊmô*: >>(Og) bytte (samles) som<<.} samles, 
+//5 v4 Og jeres bytte samles, 
 
 som græshoppen samler; 
 
-som en græshoppesværm{T: Det hebraiske ord: *gēv* findes kun her, og den præcise betydning er usikker, der er muligvis tænkt på en speciel græshoppe eller >>fårekylling<<.} overfalder man det.
+//6 som en græshoppesværm kaster sig over det.
 
-v5 HERREN er ophøjet, 
+//2 v5 HERREN er ophøjet, 
 
-for han bor i det høje; 
+//4 for han bor i det høje; 
 
-han har fyldt Zion 
+//3 han fylder Zion med ret og retfærdighed.
 
-med ret og retfærdighed.
+//4 v6 Og dine tiders stabilitet
 
-v6 Og dine tiders sikkerhed
+//5 vil være en rigdom af frelse, visdom og kundskab; 
 
-skal være rigdom af frelse, visdom og kundskab; 
+//6 en HERRENS frygt 
+//7 vil være dens skat.
 
-frygt for HERREN skal være dens skat.
+ ***
 
-***
+//1 v7 Nu skriger deres helt om hjælp udenfor; 
 
-v7 Se, deres helt{E: Betydningen og vokaliseringen af: *ʔerʔellām* (>>deres helt<<) er usikker. *ʔarʔēl* kan være afledet af: *ʔᵃrîʔēl*: >>Guds løve<<, der er betegnelse for en >>helt<<. } jamrer{T: Det hebraiske ord kan også oversættes: >>skriger på hjælp<<.} udenfor; 
+//5 fredens budbringere græder bittert.
 
-fredens budbringere græder bittert.
+//6 v8 Hovedveje er lagt øde, 
 
-v8 Veje er lagt øde, 
+//7 ingen går mere over en sti. 
 
-ingen går mere over en sti. 
+//4 Han{T: Dvs. Assyriens konge} har brudt pagten, 
 
-Han{T: Dvs. Assyriens konge} har brudt pagten, 
+//4 foragtet byer, 
 
-foragtet byer, 
+//5 ikke agtet noget menneske.
 
-ikke agtet noget menneske.
+ ***
 
-***
+//3 v9 Landet sørger, 
+//4 sygner hen, 
 
-v9 Landet sørger, sygner hen, 
+//5 Libanon bliver til skamme, 
+//7 visner; 
 
-Libanon bliver til skamme, visner; 
+//6 Saron bliver som ørkenen, 
 
-Saron bliver som ørkenen, 
+//7 Basan og Karmel kaster bladene.
 
-Basan og Karmel kaster bladene.
+//2 v10 Nu rejser jeg mig, 
+//4 siger HERREN; 
 
-v10 Nu rejser jeg mig, siger HERREN; 
+//3 nu vil jeg lade mig ophøje, 
 
-nu vil jeg rette mig op, 
+//3 nu vil jeg blive højt ophøjet.
 
-nu vil jeg ophøje mig.
+//5 v11 I undfanger hø, 
+//5 føder halm; 
 
-v11 I undfanger hø, føder halm; 
+//6 jeres ånd er en ild, 
+//8 der vil fortære jer selv.
 
-jeres ånd er en ild, der skal fortære jer.
+//7 v12 Og folk skal brændes som kalk,
 
-v12 Og folkeslag skal brændes som kalk,{T: Ordret: >>kalkbrænding<<.}
+//8 som afhuggede torne 
+//9 der brænder op i ild.
 
-som afhuggede torne der brænder op i ild.
+ ==Frelsen på Zion==
 
-==Frelsen på Zion==
-v13 Hør, I der er langt borte, hvad jeg har gjort, 
+//4 v13 Hør, 
+//8 I der er langt borte, 
+//7 hvad jeg har gjort, 
 
-og kend, I der er nær, min styrke!
+//6 og kend, 
+//8 I der er nær, 
+//7 min styrke!
 
-v14 Syndere på Zion skal frygte, 
+//5 v14 Syndere på Zion vil frygte, 
 
-bæven skal gribe gudløse: 
+//9 bæven gribe gudløse: 
 
->>Hvem af os kan bo ved en fortærende ild? 
+//8 >>Hvem af os kan bo ved en fortærende ild? 
 
-Hvem af os kan bo ved evigheds bål?<<
+//8 Hvem af os kan bo ved det evige bål?<<
 
-v15 Den der vandrer i retfærdighed, 
+//7 v15 Den der vandrer i retfærdighed 
 
-og taler retskaffenhed; 
+//10 og taler retskaffenhed; 
 
-den der forkaster vinding ved undertrykkelse; 
+//9 den der forkaster vinding ved undertrykkelse; 
 
-den der ryster sine hænder
+//10 den der med sine hænder afviser
 
-så han ikke griber efter bestikkelse; 
+//11 at gribe efter bestikkelse; 
 
-den der stopper sit øre til 
+//10 den der stopper sine ører til 
 
-så han ikke hører om udgydelse af blod, 
+//12 for ikke at høre om blodsudgydelse, 
 
-og som lukker sine øjne 
+//11 og som lukker sine øjne 
 
-så han ikke ser efter ondskab:
+//12 for ikke at se på ondskab:
 
-v16 Han skal bo på høje steder, 
+//8 v16 Han vil bo på høje steder, 
 
-klippefæstninger skal være hans tilflugt, 
+//10 klippefæstninger vil blive hans tilflugt, 
 
-brød gives ham, 
+//9 brød gives ham, 
 
-vand sikres ham.
+//10 vand sikres ham.
 
-***
+ ***
 
-v17 Dine øjne skal betragte kongen i hans skønhed, 
+//6 v17 Dine øjne vil betragte kongen i hans skønhed, 
 
-de skal se et vidt udstrakt land.
+//9 de ser et vidt udstrakt land.
 
-v18 Dit hjerte skal tænke med rædsel: 
+//8 v18 Du vil tænke dybt{N: Hjerte} over rædslen: 
 
->>Hvor er der en skriver? Hvor er der en vejer? 
+//10 >>Hvor er der en skriver? 
+//10 Hvor er der en vejer? 
 
-Hvor er en der tæller tårnene?<<
+//11 Hvor er der
+//12 en der tæller tårnene?<<
 
-v19 Du skal ikke mere se det frække{E: Ordet: *nôʕāz* forekommer kun her. Ofte vælger man at rette til: *lôʕēz*: >>barbarisk<< eller eventuelt at gå ud fra at vokaliseringen: *nôʕēz* har samme betydning.} folk, 
+//9 v19 Du vil ikke mere se det frække folk, 
 
-et folk med ubegribeligt sprog som man ikke kan forstå, 
+//10 et folk med ubegribeligt sprog 
+//12 som man ikke kan forstå, 
 
-med stammende tunge som man ikke kan fatte.
+//11 med stammende tale 
+//12 som man ikke kan fatte.
 
-***
+ ***
 
-v20 Betragt Zion, vores festforsamlings stad; 
+//7 v20 Betragt Zion, vores festforsamlings stad; 
 
-dine øjne skal se Jerusalem, 
+//10 dine øjne vil se Jerusalem, 
 
 en sorgløs boplads, 
 
-et telt der ikke skal pakkes sammen, 
+//11 et telt der ikke vil blive pakket sammen, 
 
-hvis pløkke ikke i evighed skal rykkes op, 
+//12 hvis pløkke aldrig i evighed rykkes op, 
 
-og ingen af dets reb ikke skal rives over.
+//13 og ingen af dets reb rives over.
 
-v21 Men der skal HERREN være herlig for os, 
+//9 v21 Men der vil HERREN være herlig for os, 
 
-et sted med floder, brede{T: Ordret: >>vide til begge sider<<.} strømme; 
+//10 et sted med floder, brede strømme; 
 
-intet skib der ros, sejler der, 
+//12 ingen skibe med årer vil lægge til der, 
 
-og et stort skib skal ikke passere der.
+//13 og store skibe vil ikke sejle forbi det.
 
-v22 For HERREN er vores dommer, 
+//11 v22 For HERREN er vores dommer, 
 
-HERREN er vores lovgiver, 
+//12 HERREN er vores lovgiver, 
 
-HERREN er vores konge, 
+//13 HERREN er vores konge, 
 
-han skal frelse os.
+//14 han vil frelse os.
 
-v23 Dine reb hænger slappe; 
+//8 v23 Dine reb er løsnede; 
 
-de holder ikke deres mast fast, 
+//10 så de ikke holder masten fast, 
 
-de har ikke bredt sejl ud. 
+//11 de har ikke bredt sejlene ud. 
 
-Da deles en mængde røvet bytte, 
+//9 Da deles røvet bytte
+//11 i mængde
 
-halte plyndrer rov.
+//10 halte plyndrer rovet.
 
-v24 Og ingen indbygger skal sige:
+//11 v24 Og ingen indbygger vil da sige:
 
->>Jeg er syg.<< 
+//13 >>Jeg er syg.<< 
 
-Folket der bor der, 
+//12 Folket 
+//14 der bor der,
 
-har fået syndsforladelse.
-
-
+//13 har fået syndsforladelse.
 

@@ -1,104 +1,114 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 24.03.2025>!!
+
 ===Esajas' Bog, kapitel 31===
 
 ==Herren vil forsvare Jerusalem når folket omvender sig==
-v1 Ve dem der tager ned til Egypten efter hjælp!
+//0 v1 Ve 
+//4 dem der tager ned til Egypten efter hjælp,
 
-De støtter sig til heste 
+//3 de støtter sig til heste! 
 
-og de stoler på vogne fordi der er mange, 
+//5 De stolede på vogne 
+//7 fordi der var mange, 
 
-og på ryttere fordi de er meget talrige, 
+//6 og på ryttere 
+//7 fordi de var meget talrige, 
 
-men de ser ikke hen til Israels Hellige 
+//4 men de så ikke hen til Israels Hellige 
 
-og søger ikke HERREN!
+//5 og søgte ikke HERREN!
 
-v2 Men også han er vis 
+//6 v2 Men også han er vis 
 
-og lader ulykken komme 
+//8 og lod ulykken komme 
 
-og tager ikke sine ord tilbage, 
+//10 og tog ikke sine ord tilbage, 
 
-men han rejser sig mod ondes hus 
+//9 men han har rejst sig mod ondes hus 
 
 og mod forbryderes hjælper.
 
-v3 Nu er egypterne mennesker og ikke Gud, 
+//7 v3 Men egypterne er mennesker 
+//10 og ikke Gud, 
 
-og deres heste er kød og ikke ånd; 
+//9 og deres heste er kød 
+//10 og ikke ånd; 
 
-når HERREN udstrækker sin hånd, 
+//8 når HERREN udstrækker sin hånd, 
 
-snubler den der hjælper, 
+//9 snubler den der hjælper, 
 
-og den der bliver hjulpet, falder, 
+//11 og den der bliver hjulpet, falder, 
 
-så de alle sammen går til grunde.
+//10 så de alle sammen går til grunde.
 
-***
+ ***
 
-v4 For HERREN sagde sådan til mig: 
+//2 v4 For HERREN sagde sådan til mig: 
 
->>Ligesom løven knurrer,
+//3 >>Sådan som løven knurrer, 
 
-og også ungløven, over sit bytte;
+og også ungløven, over sit bytte,
 
-selv om der tilkaldes 
+//6 og selv om der tilkaldes
 
-mange hyrder imod den,
+//7 mange hyrder imod den,
 
-forskrækkes den ikke over deres råb 
+//8 forskrækkes den ikke over deres råb 
 
-og giver ikke efter for deres larm: 
+//5 og giver ikke efter for deres larm: 
 
-Sådan stiger Hærskarers HERRE{N: Hærskarers} ned 
+//7 Sådan stiger Hærskarers HERRE{N: Hærskarers} ned 
 
-for at kæmpe på{T: Oversættes af andre her og i næste linje: >>mod<<.} Zions bjerg 
+//6 for at kæmpe på{E: *ʕal* kan her og i næste linje også oversættes >>mod<<.} Zions bjerg 
 
 og på dens høj.
 
-v5 Som flyvende fugle, 
+//4 v5 Som flyvende fugle, 
 
-sådan vil Hærskarers HERRE{N: Hærskarers} beskytte Jerusalem; 
+//5 sådan vil Hærskarers HERRE beskytte Jerusalem; 
 
-han skal beskytte og redde, 
+//6 han skal beskytte 
+//7 og redde, 
 
-skåne og befri.
+//6 skåne 
+//7 og befri.
 
-v6 Vend om til ham 
+//1 v6 Vend om til ham 
 
-som Israels børn er faldet så dybt fra!
+//4 som I er faldet så dybt fra,
 
-v7 For på den dag 
+//3 israelitter!
+
+//2 v7 For på den dag
 
 vil enhver forkaste sine afguder af sølv 
 
 og sine afguder af guld, 
 
-som jeres hænder lavede til synd for jer.
+//4 som jeres hænder lavede til synd for jer.
 
-***
+ ***
 
-v8 Så skal Assyrien falde for et sværd, ikke en mands, 
+//3 v8 Så vil Assyrien falde for et sværd,
+//6 ikke en mands, 
 
-et sværd der ikke er et menneskes, skal fortære det; 
+//5 et sværd, 
+//7 der ikke er et menneskes, 
+//6 vil fortære det; 
 
-og flygter det for sværdet, 
+//4 og flygter det for sværdet, 
 
-så skal dets unge mænd blive hoveriarbejdere.
+//5 så vil dets unge mænd blive tvangsarbejdere.
 
-v9 Dets klippe skal gå væk af frygt,{T: Kan også oversættes: >>dets klippe (Assyriens konge) skal han gå forbi af frygt<<.} 
+//6 v9 Dets klippe forsvinder af frygt, 
 
-og dets ledere skal skræmmes bort fra banneret.<<
+//7 og dets ledere skræmmes bort fra banneret,<<
 
-lyder udsagnet fra HERREN, 
+//8 lyder udsagnet fra HERREN, 
 
-der har sin ild i Zion 
+//9 der har sin ild i Zion 
 
-og sin ovn i Jerusalem.
-
-
+//10 og sin ovn i Jerusalem.
