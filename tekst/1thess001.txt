@@ -1,9 +1,8 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.06.2024>!!
+!!<Dato for denne version: 25.03.2025>!!
 ===Paulus' Første Brev til Thessalonikerne, kapitel 1===
-
 
 ==Forord==
 
@@ -11,6 +10,6 @@ v1 Paulus, Silvanus og Timotheus hilser thessalonikernes menighed i Gud Fader og
 
 ==Indledning==
 
-v2 Vi takker altid Gud for jer alle når vi nævner jer i vores bønner, v3 fordi vi for vores Guds og vores Fars ansigt uophørligt husker jeres gerning i troen, jeres arbejde i kærligheden og jeres udholdenhed i håbet på vores Herre Jesus Kristus, v4 fordi vi, brødre, elskede af Gud, kender jeres udvælgelse: v5 At vores evangelium ikke kom til jer alene med ord, men også med kraft, Helligånd og fuld vished, ligesom I ved hvordan vi færdedes blandt jer for jeres skyld. v6 I blev vores og Herrens efterfølgere da I modtog ordet under stor trængsel med Helligåndens glæde, v7 så at I blev et forbillede for alle dem som tror, i Makedonien og i Akaja. v8 For fra jer har Herrens ord lydt ikke alene i Makedonien og Akaja, men på ethvert sted er jeres tro på Gud nået ud så vi ikke har brug for at sige noget. v9 For man forkynder selv om jer hvilken indgang vi fik hos jer, og hvordan I vendte om fra afguderne til Gud for at tjene den levende og sande Gud v10 og vente hans søn fra himlene, han som han har oprejst fra de døde, Jesus, som befrier os fra den kommende vrede.  
+v2 Vi takker altid Gud for jer alle når vi nævner jer i vores bønner, v3 fordi vi for vores Guds og vores Fars ansigt uophørligt husker jeres gerning i troen, jeres arbejde i kærligheden og jeres udholdenhed i håbet på vores Herre Jesus Kristus, v4 fordi vi, brødre, elskede af Gud, kender jeres udvælgelse: v5 At{T: Alternativ oversættelse: >>fordi<<.} vores evangelium ikke kom til jer alene med ord, men også med kraft, Helligånd og fuld vished, ligesom I ved hvordan vi færdedes blandt jer for jeres skyld. v6 I blev vores og Herrens efterfølgere da I modtog ordet under stor trængsel med Helligåndens glæde, v7 så I blev et forbillede for alle dem som tror, i Makedonien og i Akaja. v8 For fra jer har Herrens ord lydt ikke alene i Makedonien og Akaja, men på ethvert sted er jeres tro på Gud nået ud så vi ikke har brug for at sige noget. v9 For man forkynder selv om jer hvilken indgang vi fik hos jer, og hvordan I vendte om fra afguderne til Gud for at tjene den levende og sande Gud v10 og vente hans søn fra himlene, han som Gud har oprejst fra de døde, Jesus, som befrier os fra den kommende vrede.  
 
 
