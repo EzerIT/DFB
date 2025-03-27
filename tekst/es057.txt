@@ -1,181 +1,206 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 57===
 
 ==De retfærdiges død==
 
-v1 Den retfærdige går til grunde, 
+//0 v1 Den retfærdige går til grunde,
 
-og der er ingen der tager det til hjerte; 
+//5 og der er ingen
+//6 der tager det til hjerte;
 
-og fromme{T: Ordret: >>kærligheds/nådes/loyalitets<<.} mennesker tages bort 
+//4 og trofaste{N: Nåde} mænd tages bort
 
-uden at nogen forstår 
+//5 uden at nogen forstår
 
-at på grund af{T: Kan også oversættes: >>før<<.} ondskaben tages den retfærdige bort.
+//3 at på grund af{T: Kan også oversættes: >>før<<.} ondskaben tages den retfærdige bort.
 
-v2 Han skal gå ind til fred, 
+//4 v2 Han skal gå ind til fred,
 
-de skal hvile på deres lejer, 
+//5 de skal hvile på deres lejer,
 
-den der går sin lige vej.
+//6 enhver der går den lige vej.
 
 
-==Straffetale mod afgudsdyrkerne==
 
-v3 Men I, kom herhen, 
+ ==Straffetale mod afgudsdyrkerne==
 
-I troldkvindesønner,{T: Kan også oversættes: >>børn<<.} 
+//2 v3 Men I, kom herhen,
 
-yngel af en ægteskabsbryder og hende der horer!
+//5 I børn af en troldkvinde
 
-v4 Over hvem gør I jer lystige? 
+yngel af en ægteskabsbryder
+//4 og en luder!
 
-Mod hvem gør I munden bred, 
+//3 v4 Over hvem gør I jer lystige?
 
-rækker tungen langt ud? 
+//5 Mod hvem vrænger I mund,
 
-Er I ikke børn af synd, 
+//6 rækker tungen langt ud?
+
+//4 Er I ikke børn af synd,
 
 yngel af løgn?
 
-v5 I der brænder af brunst under egene{T: Der er tale om høje træer. Andre 
-oversætter: >>terebinterne<<.}
+//6 v5 I der brænder af brunst under egene,{H. Es 1,29.}
 
-under hvert grønt træ, 
+under hvert grønt træ,
 
-I der slagter børnene i dalene, 
+//7 I der slagter børnene i dalene,
 
-under{T: Mange oversættere følger Septuaginta, der har: >>i<<.} klippekløfterne!
+under klippekløfterne!
 
-v6 I dalens glatte sten er din del, 
+//5 v6 I wadiens glatte sten har du din del,
 
-de, de er din arvelod, 
+//7 de,
+//8 ja, de er din arvede jord,
 
-for dem har du også udgydt drikoffer, 
+//6 til dem har du også udgydt drikoffer,
 
-har bragt madoffer; 
+//9 bragt madoffer;
 
-skulle jeg være tilfreds med disse ting?
+//8 skulle jeg være tilfreds med disse ting?
 
-v7 På et højt og knejsende bjerg 
+//7 v7 På et højt og knejsende bjerg
 
-har du anbragt dit leje; 
+har du anbragt dit leje;
 
-også der gik du op for at slagte slagtoffer.
+//10 også der gik du op
+//11 for at ofre slagtoffer.
 
-v8 Men bag døren og dørstolpen
+//9 v8 Men bag døren og dørstolpen
 
-har du sat dit mærke;{E: Det er omdiskuteret hvad der præcist er ment med *zikkārôn* her. I andre sammenhænge oversættes det: >>mindesmærke<<. Her kan der muligvis være tænkt på et hedensk symbol.} 
+har du sat dit mærke;
 
-ja, bortvendt fra mig blottede du dig og gik op, 
+//10 ja, bortvendt fra mig blottede du dig
+//12 og bød dig til,{E: *wattaʕᵃlî* >>og du gik op<< er her brugt eufemistisk om utugt som i 1 Mos 49,4.}
 
-gjorde dit leje bredt 
+//11 gjorde dit leje bredt
 
-og indgik forbindelse{E: Verbet: *krt* betyder egentlig: >>skære<<, og det forbindes ofte med: *bᵊrît* (>>pagt<<), hvor det oversættes: >>slutte pagt<<. Men her står det uden *bᵊrît*, der dog må ligge med i baggrunden, om end svagere.} med nogen af dem; 
+//13 og indgik forbindelse{E: *bᵊrît* (>>pagt<<) underforstås.} med nogle af dem;
 
-du elskede deres leje, du udså dig en plads.{E: Hebraisk: *yād*, der oftest oversættes: >>hånd<<, men har meget vid betydning. Her må man formodentlig vælge mellem: >>plads<< og: >>penis<<.}
+//12 du elskede deres leje,
+//14 du så deres lem.{N: Hånd.}
 
-v9 Og du gik til kongen{T: Nogle opfatter det hebraiske ord: *melex* som afgudsnavnet: >>Melek<<. Det er her dog forbundet med bestemt artikel, så det er mindre sandsynligt at det er et navn der er ment.} med olie 
+//13 v9 Og du rejste hen til Molok{T: Ordret: >>kongen<<.}{H: 3 Mos 18,21.} med olie
 
-og øgede dine salver; 
+//15 og øgede dine salver;
 
-og du sendte dine bud til det fjerne 
+//14 og du sendte dine bud til det fjerne
 
-og fornedrede til dødsriget.
+//15 og bragte dem ned i dødsriget{N: Sheol}.
 
-v10 På grund af din lange rejse blev du udmattet, 
+//8 v10 På grund af din lange rejse blev du træt,
 
-men du sagde ikke: >>Det er håbløst!<< 
+//11 men du sagde ikke:
+//12 >>Det er håbløst!<<
 
-Du fandt liv i din hånd, 
+//10 Du fandt liv i din egen kraft,{H: Hånd}
 
-derfor blev du ikke mat.
+//11 derfor blev du ikke svag.
 
-v11 Og hvem har du været bange for og frygtet, 
+//9 v11 Og hvem har du været bange for
+//12 og frygtet,
 
-så du vil lyve? 
+//11 så du vil lyve?
 
-Men mig huskede du ikke, 
+//12 Men mig huskede du ikke,
 
-lagde mig ikke på dit hjerte! 
+//13 lagde mig ikke på dit hjerte!
 
-Er jeg ikke én der tier, og det fra gammel tid? 
+//10 Er jeg ikke én der tier,
+//13 og det fra gammel tid?
 
-Derfor vil du ikke frygte mig!
+//12 Derfor vil du ikke frygte mig!
 
-v12 Jeg vil forkynde din retfærdighed, 
+//11 v12 Jeg vil forkynde din retfærdighed
 
-men dine gerninger – de skal ikke gavne dig.
+//14 og dine gerninger,
+//13 men de vil ikke gavne dig.
 
-v13 Når du råber om hjælp, så må dine skarer redde dig! 
+//15 v13 Når du råber om hjælp,
+//14 så lad din samling af afguder redde dig!
 
-Men en vind skal løfte dem alle sammen op, 
+//15 En vind skal løfte dem alle sammen op,
 
-et vindpust skal tage dem; 
+//16 et vindpust skal tage dem;
 
-men den der søger tilflugt hos mig, 
+//12 men
+//15 den der søger tilflugt hos mig,
 
-skal arve landet 
+//14 skal arve landet
 
-og tage mit hellige bjerg til eje.
+//13 og tage mit hellige bjerg til eje.
 
 
-==De ydmyges frelse==
 
-v14 Og man siger:{T: Kan også oversættes: >>og han siger<< eller: >>og han sagde<<.} 
+ ==De ydmyges frelse==
 
->>Byg,{T: Oftest følges det hebraiske verbum af >>vej<<, men her er det blot underforstået.} byg, ryd vej, 
+//1 v14 Men han sagde:{T: Subjektet kan være Gud eller en udefineret stemme som i Es 40,3 og 6.}
 
-fjern hindring fra mit folks vej!<<
+//2 >>Byg,
+//4 byg,
+//5 ban vej,{H: Es 40,3}
 
-v15 For sådan siger den høje og ophøjede, 
+//6 fjern hindring fra mit folks vej!<<
 
-der bor evigt, og hvis navn er helligt: 
+//3 v15 For sådan sagde den høje og ophøjede,
 
->>I det høje og hellige bor jeg,
+//5 der bor evigt,
+//6 og hvis navn er >>Hellig<<:
 
-og hos den knuste og den med ydmyg ånd,  
+//4 >>I det høje og hellige bor jeg,
 
-for at genoplive ydmyges ånd 
+//7 og hos den knuste og den med et ydmygt sind,{N: Ånd.}
 
-og genoplive knustes hjerte.
+//8 for at genoplive den ydmyges sind
 
-v16 For jeg vil ikke for evigt gå i rette 
+//9 og genoplive den knustes hjerte.
 
-og ikke for altid vredes, 
+//6 v16 For jeg vil ikke for evigt gå i rette
+//8 og ikke for altid vredes,
 
-for så måtte ånden{E: Mange oversættere vælger at læse: *rûḥa millᵊfānay* (>>ånden … for (mit ansigt)<<) som: *rûḥam lᵊfānay*: >>deres ånd … for<<. Der er alene tale om en konsonant der knyttes til det foregående ord.} blive svag for mit ansigt 
+//10 for så ville de miste modet{N: Ånd} foran mit ansigt
 
-og de sjæle{T: Kan også oversættes: >>(den livs)ånde<<.} jeg har skabt.
+//11 og det åndedræt{H: 1 Mos 2,7.}
+//12 jeg selv har skabt.
 
-v17 På grund af hans begærs syndighed blev jeg vred, 
+//9 v17 På grund af hans syndige begær blev jeg vred,
 
-og jeg slog ham, skjulte mig og var vred; 
+//11 og jeg slog ham,
+//13 skjulte mig
+//12 og var vred;
 
-men han gik frafalden sit hjertes vej.
+//10 men han gik frafalden sit eget hjertes vej.
 
-v18 Hans veje så jeg, 
+//7 v18 Hans veje så jeg,
 
-og jeg vil helbrede ham; 
+//8 og jeg vil helbrede ham,
 
-og jeg vil lede ham og gengælde ham med trøst.
+//8 lede ham
+//9 og til gengæld give ham trøst;
 
-Og for hans sørgende{E: Der er tvivl om, hvorvidt denne sætning hører til det foregående, som i så fald skal oversættes: >>gengælde ham og hans sørgende med trøst<<, eller den hører til det næste vers, som ellers skal indledes: >>jeg der skaber læbers frugt<< (ordret: >>skaberen af læbers frugt<<).} 
+for hans sørgende{E: Ifølge versopdelingen i den hebraiske tekst skal der oversættes >>gengælde ham og hans sørgende med trøst<<.}
 
-v19 skaber jeg læbers frugt: Fred, fred for den der er fjern, og for den der er nær,<< siger HERREN, >>og jeg helbreder ham.
+//10 v19 skaber jeg læbers frugt:
+//5 Fred, fred for den der er fjern, og for den der er nær,<<
+//8 sagde HERREN,
 
-v20 Men de ugudelige er som det oprørte hav, 
+//7 >>og jeg helbreder ham.
 
-for det kan ikke være roligt, 
+//8 v20 Men de ugudelige er som havet,
+//10 oprørt,
 
-og dets vande skyller dynd og slam op.
+//9 for
+//12 stille
+//11 kan det ikke ligge,
 
-***
+//10 og dets vande har skyllet dynd og slam op.
 
-v21 Der er ingen fred,<< siger min Gud, >>for de ugudelige.<<
+ ***
 
-
-
+//6 v21 Der er ingen fred,<<
+//8 siger min Gud,
+//7 >>for de ugudelige.<<{H: Es 48,22}

@@ -1,169 +1,203 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 59===
 
 ==Folkets synder skiller dem fra Gud, der ønsker at frelse==
 
-v1 Se, HERRENS hånd er ikke for kort til at frelse; 
+//0 v1 Når HERRENS hånd ikke er for kort
+//3 til at frelse,
 
-og hans øre er ikke for tunghørt{T: Ordret: >>tungt<<.} til at høre.
+//2 og hans hørelse ikke er
+//3 svækket,{T: Ordret: >>hans øre er ikke tungt<<.}
 
-v2 Derimod satte jeres misgerninger skel 
+//1 v2 så er det i stedet jeres ugerninger der skabte splittelse
 
-mellem jer og jeres Gud; 
+ mellem jer og jeres Gud;
 
-og jeres synder skjulte ansigtet{E: Ordret blot ubestemt: >>ansigt<< (*pānîm*). De gamle oversættelser forudsætter: *pānāʸw*: >>hans ansigt<<.} for jer, 
+//4 og jeres synder skjulte ham{N: Ansigt} for jer,
 
-så han ikke hørte.
+//5 så han ikke hørte.
 
-v3 For jeres hænder er plettet med blod 
+//3 v3 For jeres hænder er plettet med blod
 
-og jeres fingre med misgerning; 
+//4 og jeres fingre med ugerning;
 
-jeres læber har talt løgn, 
+//6 jeres læber har talt løgn,
 
-jeres tunge fremsiger ondskab.
+//7 jeres tunge udtaler uret.
 
-v4 Der er ingen der indstævner i retfærdighed, 
+//5 v4 Der er ingen der sagsøger i retfærdighed,
 
-og ingen der går i rette med redelighed; 
+//8 og ingen får en retssag på et sandt grundlag;
 
-man stoler på tomhed og taler løgn, 
+//7 man stoler på det golde
+//8 og taler løgn,
 
-undfanger ulykke og føder ondskab.
+//7 undfanger ulykke
+//8 og føder ondskab.
 
-v5 De udruger slangeæg 
+//6 v5 De udruger slangeæg
 
-og væver edderkoppespind; 
+//8 og væver edderkoppespind;
 
-den der spiser af deres æg, vil dø, 
+//8 den der spiser af deres æg,
+//7 vil dø,
 
-og det der er trådt i stykker, udklækker{T: Ordret: >>spaltes til<<.} en øgle.
+//9 og
+//11 det der er trådt i stykker,
+//10 vil udklække{T: Ordret: >>spaltes til<<.} en giftslange.
 
-v6 Deres spind duer ikke til tøj, 
+//8 v6 Deres spind duer ikke til tøj,
 
-og man kan ikke tildække sig med deres arbejde. 
+//10 og man kan ikke tildække sig med deres arbejde.
 
-Deres arbejder er ondskabs arbejder, 
+//9 Deres arbejde er ondskabs arbejde,
 
-og der er voldsgerninger i deres hænder.
+//11 og der er voldsgerninger i deres hænder.
 
-v7 Deres fødder løber til det onde, 
+//10 v7 Deres fødder løber efter det onde,
 
-og de skynder sig at udgyde uskyldigt blod. 
+//11 og de skynder sig med
+//12 at udgyde uskyldigt blod.
 
-deres planer er ondskabs planer; 
+//9 deres planer er ondskabs planer;
 
-der er vold og ødelæggelse på deres veje.
+//11 der er vold og voldshandlinger på deres veje.
 
-v8 Fredens vej kender de ikke, 
+//10 v8 Fredens vej kender de ikke,
 
-og der er ingen ret i deres spor; 
+//12 og der er ingen ret i deres spor;
 
-deres stier gør de krogede for sig selv, 
+//11 deres stier gør de krogede for sig selv,
 
-hver den der træder ad den, kender ikke til fred.
+//12 hver
+//14 den der træder ad den,
+//13 kender ikke til fred.
 
-==Profeten bekender folkets synd==
+ ==Profeten bekender folkets synd==
 
-v9 Derfor er retten langt væk fra os, 
+//2 v9 Derfor er retten langt væk fra os,
 
-og retfærdigheden indhenter os ikke; 
+//6 og retfærdigheden når ikke frem til os;
 
-vi venter på lys, men se, der er mørke; 
+//5 vi venter på lys,
+//8 men se, der er mørke;
 
-på lysglans, men se, vi vandrer i mulm.
+//7 på lysglans,
+//8 men vi vandrer i mulm.
 
-v10 Vi famler som de blinde efter en væg, 
+//6 v10 Vi famler som de blinde efter en væg,
 
-og som en der ikke har øjne, famler vi; 
+//8 og som en der ikke har øjne, famler vi;
 
-vi snubler ved middagstid som var det skumringen, 
+//7 vi snubler ved middagstid som var det skumringen,
 
-i den sunde alder som de døde.
+//8 i vores bedste alder som de døde.
 
-v11 Vi brummer alle som bjørnene, 
+//4 v11 Vi brummer alle som bjørnene,
 
-og vi kurrer som duerne; 
+//7 og vi kurrer som duerne;
 
-vi venter på retfærdigheden, men den kommer ikke, 
+//6 vi venter på retfærdigheden,
+//8 men den kommer ikke,
 
-på frelse, den er langt borte fra os.
+//7 på frelse,
+//8 den er langt borte fra os.
 
-v12 For vores overtrædelser er mange foran dig, 
+//5 v12 For vores overtrædelser foran dig er mange,
 
-og vores synder vidner{T: Den hebraiske tekst har verbet i singularis.} imod os; 
+//8 og vores synder vidner imod os;
 
-for vores overtrædelser er foran os, 
+//7 for vores overtrædelser er sammen med os,
 
-og vores misgerninger – dem kender vi:
+//8 og vores ugerninger,
 
-v13 Vi faldt fra og fornægtede HERREN, 
+//9 dem kender vi:
 
-vi trak os bort fra vores Gud, 
+//10 v13 Vi gjorde oprør
+//12 og fornægtede HERREN,
 
-vi talte undertrykkelse og frafald, 
+//13 vi trak os bort fra vores Gud,
 
-vi udtænkte{T: Kan også oversættes: >>undfangede<<.} og udtalte fra hjertet løgneord.{E: Verberne i verset står alle i inf. Abs., der i en del sammenhænge skal oversættes som finite verber.}
+//11 vi talte for undertrykkelse og frafald,
 
-v14 Og retten er trængt tilbage, 
+//12 vi undfangede
 
-og retfærdighed står langt borte, 
+//13 og udtalte løgneord fra hjertet.
 
-for sandhed er snublet på torvet, 
+//6 v14 Og retten er trængt tilbage,
 
-og retskaffenhed kan ikke finde indgang.
+//8 og retfærdighed står langt borte,
 
-v15 Så sandhed vil mangle, 
+//7 for sandhed er snublet på torvet,
 
-og den der holder sig fra ondt, bliver udplyndret rov. 
+//8 og retskaffenhed kan ikke
+//9 få adgang.
 
-==Gud vil befri sit folk og sende forløseren==
+//3 v15 Så sandhed vil mangle,
 
-HERREN så det; det var ondt i hans øjne 
+//5 og
+//7 den der holder sig fra ondt,
+//6 udplyndres.
 
-at der ingen retfærdighed var.
+ ==Gud vil befri sit folk og sende løskøberen==
 
-v16 Og han så at der ikke var nogen, 
+//4 HERREN så det;
+//9 det var i hans øjne ondt
 
-han undrede sig over at der ikke var nogen der greb ind.{T: Verbet oversættes i andre sammenhænge: >>der gik i forbøn<< eller: >>der trådte i stedet for<< (53,12). Det er også en mulighed her.} 
+//8 at der ingen retfærdighed var.
 
-Men hans egen arm bragte ham sejr, 
+//7 v16 Og han så
+//9 at der ikke var nogen,
 
-og hans retfærdighed, den støttede ham.
+//8 og han undrede sig over
+//9 at ingen gik i forbøn for dem{H: Es 53,12}
 
-v17 Han iførte sig retfærdighed som brynje, 
+//6 Men hans egen arm bragte frelse for ham,
 
-og frelsens hjelm på sit hoved; 
+//8 og hans retfærdighed,
+//9 den støttede ham.
 
-han iførte sig hævnens klæder som dragt, 
+//7 v17 Han iførte sig retfærdighed som brynje,
 
-hyllede sig i nidkærhed som sin kappe.
+//9 og frelsens hjelm på sit hoved;
 
-v18 Alt efter handlinger vil han gengælde: 
+//8 han iførte sig hævnens klæder som dragt,
 
-vrede mod sine modstandere, 
+//9 hyllede sin passion om sig som en kappe.
 
-handling mod sine fjender; 
+//5 v18 Alt efter handlinger vil han gengælde:
 
-fjerne øer vil han gengælde handling,
+//9 vrede mod sine modstandere,
 
-v19 så de fra vest{T: Ordret: >>(solens) nedgang<<.} skal frygte HERRENS navn, 
+//9 handling mod sine fjender;
 
-og fra øst{T: Ordret: >>solens opgang<<.} hans herlighed; 
+//8 kystområderne vil han gengælde med handling.
 
-for han kommer som den rivende flod;{E: Det er usikkert og omdiskuteret hvordan ordet: *ṣār* skal oversættes i sammenhængen, og om det er adjektiv eller substantiv. Her er det oversat som adjektiv: >>rivende<<. Andre opfatter det som substantiv og oversætter enten: >>fjende<< eller: >>nød<<. Det får indflydelse på oversættelsen af både denne og næste linje. Enten: >>når en fjende kommer ind som floden / skal HERRENS Ånd drive ham væk<<, eller: >>for nød kommer ind som en flod, / HERRENS Ånd driver den<<.} 
+//7 v19 Så vil de fra vest frygte HERRENS navn
 
-den drives frem af HERRENS Ånd.
+//9 og fra øst hans herlighed;
 
-v20 Og der skal komme en forløser til Zion 
+//8 for han kommer som den rivende{E: Alternativt kan *ṣār* oversættes med >>fjende<< eller >>nød<<: >>når en fjende/nøden kommer ind som en flod<<.} flod;
 
-og til dem der omvender sig fra overtrædelse i Jakob, lyder HERRENS udsagn.
+//9 den drives frem af HERRENS Ånd.{N: Ånd}
 
-***
+//6 v20 Og der skal komme en løskøber til Zion
 
-v21 Og hvad angår mig – dette er min pagt med dem, siger HERREN: Min Ånd, der er over dig, og mine ord, som jeg har lagt i din mund, skal ikke vige fra din mund eller dit afkoms mund eller dit afkoms afkoms mund, siger HERREN, fra nu af og til evig tid.
+//8 og til dem der omvender sig fra overtrædelse, i Jakob,
+//9 lyder HERRENS udsagn.
 
+ ***
 
+//7 v21 Men hvad mig angår,
+//9 dette er min pagt med dem,
+//10 har HERREN sagt:
+//8 Min Ånd,
+//12 der er over dig,
+//11 og mine ord,
+//13 som jeg har lagt i din mund,
+//12 vil ikke vige fra din mund eller dine efterkommeres mund eller dine efterkommeres efterkommeres mund,
+//10 har HERREN sagt;
+//9 fra nu af og til evig tid!

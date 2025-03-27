@@ -1,113 +1,139 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 55===
 
 ==HERREN kalder til tillid til ham, for han er trofast mod pagten==
 
-v1 Nuvel! Hver den der tørster, kom til vandet, 
+//0 v1 Skynd jer!{H: Zak 2,10}
+//3 Hver den der tørster,
+//2 kom til vandet,
 
-og den der ingen penge har, kom! 
+//4 og
+//8 den der ingen penge har,
+//7 kom!
 
-Køb korn og spis! 
+//6 Køb korn
+//7 og spis!
 
-Og gå hen, køb korn uden penge
+//5 Kom,
+//6 køb korn uden penge
 
-og uden betaling vin og mælk! 
+og uden betaling vin og mælk!
 
-v2 Hvorfor vejer I penge op for noget der ikke er brød, 
+//3 v2 Hvorfor vejer I pengestykker af for noget der ikke er brød,
 
-og jeres løn for noget der ikke mætter? 
+//4 og jeres rigdom
+//6 for noget der ikke mætter?
 
-Hør opmærksomt på mig, og spis godt, 
+//5 Hør opmærksomt på mig,
+//7 og spis godt,
 
-så skal jeres sjæl glæde sig ved de fede retter.{T: Ordret: >>fedmen<<.}
+//8 så vil jeres sjæl glæde sig ved de fede retter.
 
-v3 Bøj jeres øre, og kom til mig, 
+//6 v3 Bøj jeres øre,
+//9 og kom til mig,
 
-hør, så skal jeres sjæl leve! 
+//8 hør,
+//9 så skal I{N: Sjæl} forblive i live!
 
-Så vil jeg slutte en evig pagt med jer, 
+//10 Så vil jeg slutte en evig pagt med jer,
 
-nådeløfterne til David, som er urokkelige.
+nådeløfterne{N: Nåde} til David, som er urokkelige.
 
-v4 Se, jeg har sat ham som vidne for folkeslag, 
+//7 v4 Jeg har jo sat ham som vidne for folkeslag,
 
 som fyrste og som hersker over folkeslag.
 
-v5 Se, et folk du ikke kender, skal du kalde på,
+//8 v5 Et folkeslag
+//11 du jo ikke kender,
+//10 vil du kalde på,
 
-og et folk der ikke kender dig, skal løbe hen til dig; 
+//9 og et folkeslag
+//11 der ikke kender dig,
+//10 vil løbe hen til dig;
 
-for HERREN din Guds skyld 
+for HERREN din Guds skyld
 
-og for Israels Hellige, 
+ og for Israels Hellige,
 
-for han forherliger dig.
+//11 for han vil give dig pragt.
 
-***
+ ***
 
-v6 Søg HERREN mens han kan findes, 
+//1 v6 Søg HERREN
+//4 mens han kan findes,
 
-kald på ham mens han er nær.
+//3 kald på ham
+//5 mens han er nær.
 
-v7 En ugudelig skal forlade sin vej 
+//4 v7 En ugudelig skal forlade sin vej
 
-og et ondt menneske sine planer 
+//5 og et ondt menneske sine planer
 
-og omvende sig til HERREN, så vil han forbarme sig over ham, 
+//6 og omvende sig til HERREN,
+//8 så vil han forbarme sig over ham,
 
-og til vores Gud, for han er meget gavmild til at tilgive.
+//7 og til vores Gud,
+//8 for han er meget gavmild
+//9 ved at tilgive.
 
-v8 For mine planer er ikke jeres planer, 
+//2 v8 For mine planer er ikke jeres planer,
 
-og jeres veje er ikke mine veje, 
+//4 og jeres veje er ikke mine veje,
 
-lyder HERRENS udsagn.
+//5 lyder HERRENS udsagn.
 
-v9 For som himlen er højere end jorden, 
+//3 v9 For som himlen er højere end jorden,
 
-sådan er mine veje højere end jeres veje 
+//5 sådan er mine veje højere end jeres veje
 
-og mine planer end jeres planer.
+//6 og mine planer end jeres planer.
 
-v10 For som regnen og sneen falder ned 
+//4 v10 For
+//7 som regnen og sneen kommer
 
-fra himlen 
+fra himlen
 
-og ikke vender tilbage dertil, 
+//8 og ikke vender tilbage dertil,
 
-men vander jorden 
+//9 men når den har vandet jorden
 
-og befrugter den og får den til at spire 
+//10 vil den berede den
+//10 og få den til at spire;
 
-og giver sæd til den der sår 
+//11 den vil give sæd til den der sår,
 
-og brød til den der spiser;
+//12 og brød til den der spiser;
 
-v11 sådan skal mit ord være, 
+//6 v11 sådan vil mit ord være,
 
-der udgår ud af min mund: 
+//8 der udgår ud af min mund:
 
-Det skal ikke vende tomt tilbage til mig, 
+//7 Det vil ikke vende tomt tilbage til mig,
 
-men det gør det jeg ønsker, 
+//8 men det gør det
+//10 jeg ønsker,
 
-og det jeg sender,{T: Kan også oversættes: >>den jeg sender<<.} skal lykkes. 
+//9 og det vil lykkes
 
-v12 For i glæde skal I gå ud  
+//10 når jeg sender det.
 
-og i fred skal I føres; 
+//5 v12 For i glæde vil I gå ud,
 
-bjergene og højene skal bryde ud i jubel for jeres ansigt, 
+//8 og i fred vil I blive ført;
 
-og alle markens træer skal klappe i hænderne.
+//7 bjergene og højene vil bryde ud i jubel foran jer,
 
-v13 I stedet for tornekrattet skal der vokse enebær, 
+//8 og alle markens træer vil klappe i hænderne.
 
-i stedet for nælden skal der vokse myrte, 
+//9 v13 I stedet for tornekrattet vil der vokse enebær,
 
-så det bliver til ry for HERREN, 
+//10 i stedet for nælder vil der vokse myrter,
 
-et evigt minde der ikke skal slettes.
+//6 så det bliver til berømmelse for HERREN,
+
+et evigt minde
+
+//7 der ikke vil blive slettet.

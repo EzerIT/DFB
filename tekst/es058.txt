@@ -1,146 +1,153 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 58===
 
 ==Sand og falsk faste og tilbedelse==
 
-v1 Råb af fuld hals, hold ikke tilbage, 
+//0 v1 Råb af fuld hals,
+//4 hold ikke tilbage,
 
-løft din stemme som hornet, 
+//3 løft din stemme som et shofarhorn,
 
-og fortæl mit folk deres overtrædelse 
+//2 og forkynd mit folk deres overtrædelse
 
-og Jakobs hus deres synder!
+//4 og Jakobs hus deres synder!
 
-v2 Men mig søger de dag for dag, 
+//3 v2 Så de søger mig dag efter dag
 
-og de ønsker at kende mine veje; 
+//4 og ønsker at kende mine veje;
 
-som et folk der har øvet retfærdighed 
+som et folk
+//6 der har øvet retfærdighed
 
-og ikke forladt sin Guds lov, 
+//7 og ikke forladt sin Guds ret,
 
-spørger de mig om retfærdige love, 
+//5 spørger de mig om retfærdige love,
 
-de ønsker at komme nær til Gud.
+//7 de ønsker at komme Gud nær.
 
-v3 >>Hvorfor har vi fastet, og du så det ikke? 
+//6 v3 >>Hvorfor har vi fastet,
+//9 og du så det ikke?
 
-Vi har ydmyget os selv,{T: Ordret: >>vores sjæl<<.} men du bemærkede det ikke.<< 
+//8 Vi har ydmyget os selv,{N: Sjæl.}
+//9 men du bemærkede det ikke.<<
 
-Se, på den dag I faster, driver I handel,{T: Kan også oversættes: >>finder I fornøjelse<<.} 
+//7 Når I på den dag I faster, opsøger det I ønsker,
 
-og alle jeres arbejdere skynder I på.
+//9 så udnytter I jeres arbejdere!
 
-v4 Se, I faster for at kives og strides{T: Ordret: >>for kiv og strid<<.} 
+//8 v4 Når I faster for at kives og strides
 
-og for at slå med ondskabs næve;{T: Skal muligvis oversættes: >>kølle<<.} 
+//10 og for at slå med en ugudelig knytnæve,
 
-I faster ikke i dag 
+//9 så faster I ikke i dag
 
-for at jeres stemme skal blive hørt i det høje.
+//10 for at jeres stemme kan blive hørt i det høje!
 
-v5 Mon det er en faste som denne jeg foretrækker, 
+//1 v5 Mon det er sådan en faste
+//5 jeg foretrækker,
 
-en dag hvor et menneske ydmyger sig selv?{T: Ordret: >> sin sjæl<<.} 
+//4 en dag
+//5 hvor et menneske ydmyger sig,
 
-Er det at hænge med sit hoved som et siv 
+ en velegnet dag for HERREN?
 
-eller ligge i{T: Ordret: >>bruge som seng<<.} sæk og aske – 
+ ***
 
-vil du kalde det en faste 
+//2 v6 Mon ikke dette er en faste
+//5 jeg foretrækker:
 
-og en velbehagelig dag for HERREN?
+//4 At løse gudløshedens lænker,
 
-***
+//4 løsne ågets bånd
 
-v6 Mon ikke dette er en faste jeg foretrækker: 
+//5 og give undertrykte frihed?
 
-At løse ondskabs lænker, 
+//6 I skal brække hvert åg!
 
-løsne ågets bånd, 
+//3 v7 Mon det ikke er at bryde dit brød med den sultne?
 
-og give undertrykte frihed, 
+//5 Du skal bringe de elendige hjemløse til dit hus,
 
-og at I sønderbryder hvert åg?
+//6 og når du ser en nøgen,
+//9 så klæde ham på,
 
-v7 Mon det ikke er at dele{T: Ordret: >>bryde<<.} dit brød med den sultne, 
+//8 Du må ikke skjule dig for din slægtning!{T: Ordret >>for dit eget kød<<, kan også henvise til et medmenneske.}
 
-og at du bringer de fattige hjemløse til dit hus, 
+//7 v8 Så vil dit lys bryde frem som morgenrøden,
 
-når du ser en nøgen, at du så klæder ham på, 
+//10 din helbredelse vil skride hurtigt frem,
 
-og at du ikke skjuler dig for dit eget kød?{T: Der er enten ment slægtning eller medmenneske.}
+//9 og din retfærdighed vil gå foran dig{N: Ansigt},
 
-v8 Så skal dit lys bryde frem som morgenrøden, 
+//10 HERRENS herlighed slutter op bag dig{E: *ʔsf* (>>samle op<<) kan også betyde at tage sig af de nødstedte der ikke kan følge med.}
 
-og din helbredelse skal hurtigt spire frem, 
+//8 v9 Da vil du kalde,
+//10 og HERREN vil svare dig;
 
-og din retfærdighed går foran dit ansigt, 
+//9 du vil råbe om hjælp,
+//10 og han vil sige:
+//11 >>Se, her er jeg!<<
 
-HERRENS herlighed slutter bag dig.
+ ***
 
-v9 Da skal du kalde, og HERREN skal svare dig; 
+//4 Hvis du fra din midte fjerner ågene,
 
-du skal råbe om hjælp, og han skal sige: >>Se, her er jeg!<<
+//8 hånen{T: Ordret: >>pegen fingre ad<<.}
+//9 og ondskabsfuld snak
 
-*** 
+//7 v10 og rækker den sultne dig selv{T: Ordret: >>din sjæl<<. LXX forudsætter *laḥmexā* (>>dit brød<<).}
 
-Hvis du fra din midte fjerner åg, 
+//8 og mætter en ydmyget person,{N: Sjæl.}
 
-at pege finger og tale ondskab,
+//6 så skal dit lys bryde frem i mørket
 
-v10 rækker den sultne dig selv{T: Ordret: >>din sjæl<<. Mange oversættere vælger at følge bl.a. Septuaginta, der i stedet for *nafšexā* (>>din sjæl<<) har forudsat: *laḥmexā*: >>dit brød<<.} 
+//8 og dit mulm blive som midt på dagen.
 
-og mætter en forkuet sjæl, 
+//7 v11 Og HERREN vil altid lede dig,
 
-så skal dit lys bryde frem i mørket 
+//9 mætte din sjæl i afsvedne egne
 
-og dit mulm blive som midt på dagen.
+//10 og styrke dine knogler;
 
-v11 Og HERREN skal altid lede dig 
+//8 du bliver som en vandrig have
 
-og mætte din sjæl i afsvedne egne, 
+//10 og som et kildevæld
 
-og han vil styrke dine knogler, 
+//11 hvis vand ikke svigter.
 
-og du bliver som en vandrig have 
+//9 v12 Og de der nedstammer fra dig, vil genopbygge fortids ruiner,
 
-og som et kildevæld 
+//10 du vil genrejse fundamenter der har ligget hen fra slægt til slægt,
 
-hvis vand ikke svigter.
+//11 og du vil blive kaldt
+//12 >>Den der reparerer murbrud<<
 
-v12 Og de der nedstammer fra dig, skal genopbygge fortids ruiner, 
+//13 og >>Den der genåbner vejene<<
+//14 for de kan bo der
 
-du skal genrejse fundamenter der har ligget hen fra slægt til slægt, 
+ ***
 
-og du skal kaldes Den-der-murer-revne-til, 
+//5 v13 Hvis du på sabbatten holder din fod i hvile
 
-Den-der-genrejser-ruiner-til-at-bo-i.{E: Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvôt* (>>ruiner<<) oversættes i alle andre sammenhænge: >>stier/veje<<, så oversættelsen her kan være: >>Den-der-udbedrer-stier, hvor man kan bo<<. Men her forstås ordet oftest om ruiner. Det foreslås undertiden at der er en stavefejl, så der skulle stå: *nᵊtîṣôt*.}
+//8 og ikke udfører hvad du selv ønsker, på min hellige dag,
 
-***
+//7 men kalder sabbatten en fryd
 
-v13 Hvis du holder din fod i ro på sabbatten,{T: Ordret: >>hvis du holder din fod tilbage fra sabbatten<<.} 
+//9 ved at hellige den ærede HERRE
 
-fra at udføre dine anliggender{E: Ordet: *ḥēfeṣ* oversættes i de fleste sammenhænge: >>glæde/ønske/lyst<<. Mange håndskrifter har singularis.} på min hellige dag, 
+//8 og ærer den{T: Kan også oversættes: >>ham<<.}
+//9 så du ikke går dine egne veje,
 
-og kalder sabbatten en fryd 
+//9 ikke finder på hvad du selv har lyst til,
+//10 eller taler tom snak,
 
-og HERRENS hellige ærværdig 
+//6 v14 så skal du fryde dig i HERREN,
 
-og ærer den,{T: Kan også oversættes: >>ham<<.} så du ikke går dine egne veje, 
+//7 og jeg vil lade dig færdes hen over landets høje
 
-ikke driver din handel og taler tomt ord,
+//9 og lade dig nyde din far Jakobs arvede jord.
 
-v14 så skal du fryde dig i HERREN, 
-
-og jeg vil lade dig færdes over landets høje 
-
-og lade dig nyde din far Jakobs arvelod. 
-
-For HERRENS mund har talt.
-
-
-
+//8 For HERRENS mund har talt.

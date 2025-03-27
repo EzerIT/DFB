@@ -1,147 +1,160 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.01.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 54===
 
 ==HERREN genrejser Jerusalem==
 
-v1 Råb af fryd, du ufrugtbare, du der ikke fødte! 
+//0 v1 Råb af fryd,
+//4 du ufrugtbare,
+//5 du der ikke fødte!
 
-Bryd ud i frydefuld jubel, ja, råb af glæde, du der ikke havde veer! 
+//3 Bryd ud i frydefuld jubel,
+//6 ja, råb af glæde,
+//5 du der ikke havde veer!
 
-For den forladtes børn{T: Kan også oversættes: >>sønner<<.} er flere end den giftes børn, 
+//4 For den forladtes børn er flere end den giftes børn,
 
-siger HERREN.
+//5 har HERREN sagt.
 
-v2 Gør pladsen til dit telt større, 
+//3 v2 Gør pladsen til dit telt større,
 
-og de skal spænde din boligs teltduge ud, 
+//5 og lad din boligs teltduge blive spændt ud,
 
-det må du ikke afholde dig fra; 
+//4 det må du ikke afholde dig fra;
 
-gør dine barduner lange, 
+//3 gør dine barduner lange,
 
-og sæt dine pløkker fast!
+//5 og bank dine pløkker fast!
 
-v3 for du skal brede dig til højre og venstre,{T: Kan også oversættes: >>mod syd og nord<<. Den hebraiske tekst har dog her ikke de oftest brugte ord for nord og syd.} 
+//4 v3 for du vil brede dig til højre og venstre,{T: Kan også oversættes: >>mod syd og nord<<..}
 
-og dit afkom skal tage folkeslag{T: Kan også oversættes: >>hedninger<<.} i eje, 
+//5 og dine efterkommere vil tage folkeslag i eje,
 
-og øde byer skal de gøre beboelige.
+//6 og øde byer vil de gøre beboelige.
 
-***
+ ***
 
-v4 Frygt ikke, for du skal ikke skamme dig, 
+//2 v4 Frygt ikke,
+//6 for du skal ikke skamme dig,
 
-og vær ikke beskæmmet, for du skal ikke komme til at skamme dig; 
+//5 og vær ikke beskæmmet,
+//6 for du skal ikke komme til at skamme dig;
 
-for du skal glemme din ungdoms skam, 
+//4 for du skal glemme din ungdoms skam,
 
-og din enkestands vanære skal du ikke mere huske.
+//6 og din enkestands vanære skal du ikke mere huske.
 
-v5 For din ægtemand{T: Det hebraiske ord står i pluralis, der må opfattes som pluralis majetatis. Sætningen oversættes af nogle: >>Din skaber tager dig til hustru<<.} er din skaber,
+//5 v5 For din Ægtemand{T: Det hebraiske ord står i pluralis ligesom ordet for Gud.} er din skaber,
 
-Hærskarers{N: Hærskarers} HERRE er hans navn; 
+//8 Hærskarers{N: Hærskarers} HERRE er hans navn;
 
-og din løskøber er Israels Hellige, 
+//7 og din løskøber er Israels Hellige,
 
-han skal kaldes hele jordens Gud.
+//8 han skal kaldes hele jordens{N: Jord} Gud.
 
-v6 For som en forladt hustru der var forladt
+//6 v6 For som en efterladt hustru,
 
-og bedrøvet i ånden, har HERREN kaldet dig,
+//7 der er efterladt med sorg i sindet,{N: Ånd} har HERREN kaldet dig,
 
-som en ungdomshustru – skulle hun forstødes? 
+//8 og som en ungdomshustru, for skulle hun virkelig kunne forstødes?
 
-siger din Gud.
+//9 har din Gud sagt.
 
-***
+ ***
 
-v7 Et lille øjeblik forlod jeg dig, 
+//3 v7 Et lille øjeblik forlod jeg dig,
 
-men i stor barmhjertighed vil jeg samle dig.{T: Som hyrden samler sin hjord.}
+//6 men i stor barmhjertighed vil jeg samle dig.
 
-v8 I overstrømmende vrede skjulte jeg et øjeblik mit ansigt for dig; 
+//5 v8 I overstrømmende vrede skjulte jeg et øjeblik mit ansigt for dig;
 
-men med evig nåde forbarmer jeg mig over dig, 
+//6 men med evig nåde forbarmer jeg mig over dig,
 
-siger din løskøber, HERREN.
+//7 har din løskøber, HERREN, sagt.
 
-***
+ ***
 
-v9 For dette er for mig som Noas vande: 
+//4 v9 For dette er for mig som med Noas vande:
 
-Som jeg svor 
+//6 Som jeg har aflagt ed på{H: 1 Mos 9,11}
 
-at Noas vande ikke mere skulle oversvømme jorden, 
+//7 at Noas vande ikke mere skulle oversvømme jorden,
 
-sådan har jeg svoret ikke at være vred på dig eller true dig.
+//5 sådan aflægger jeg hermed ed på
+//7 ikke at være vred på dig
+//8 eller true dig.
 
-v10 Om også bjergene flytter sig 
+//6 v10 For om også bjergene flytter sig
 
-og højene vakler, 
+//8 og højene vakler,
 
-så flytter min nåde sig ikke fra dig, 
+//7 så flytter min nåde{N: Nåde} sig ikke fra dig,
 
-og min fredspagt vakler ikke, 
+//8 og min fredspagt vakler ikke,
 
-siger HERREN, der forbarmer sig over dig.
+//9 sagde HERREN, der forbarmer sig over dig.
 
-***
+ ***
 
-v11 Du arme, blæst omkuld af storm, ikke trøstet, 
+//1 v11 Du elendige,
+//3 blæst omkuld af storm,
+//4 ikke trøstet,
 
-se, jeg lægger dine sten i mørtlen{E: Betydningen af ordet *pûx* er omdiskuteret. Det betegner normalt øjensminke og kan måske oversættes: >>i smukke farver<<, og er da udtryk for at Gud vil smykke sit folk. Men her går man ud fra, at det betegner mørtel. Andre går på baggrund af Septuaginta ud fra at der skulle stå: *nōfex*: >>malakit<<.}
+//2 se, jeg lægger dine sten i mørtlen{E: En særbetydning, da *pûx* normalt betegner øjensminke, og der kunne oversættes: >>smykkesten i smukke farver<<; andre retter ud fra LXX til *nōfex* (>>malakit<<).}
 
-og lægger din grundvold med safirer.
+//5 og lægger din grundvold med safirer.
 
-v12 Og jeg sætter dine murtinder med rubin{T: Det er usikkert hvilken ædelsten der er tale om. Det hebraiske ord findes kun her og Ez 27,16. Mange tænker på >>rubin<<, andre foreslår: >>agat<<.} 
+//6 v12 Og jeg sætter dine murtinder med rubin,{H: Ez 27,16.}
 
-og dine porte med karfunkelsten 
+//8 dine porte med karfunkelsten
 
-og hele din ringmur med ædelsten.
+//9 og hele din ringmur med ædelsten.
 
-v13 Og alle dine sønner skal være HERRENS elever, 
+//7 v13 Og alle dine sønner vil blive HERRENS disciple,
 
-og dine børn skal have stor fred.
+//8 og dine børn vil få stor fred.
 
-v14 Du skal grundfæstes på{T: Kan også oversættes: >>ved hjælp af/gennem<<.} retfærdighed; 
+//4 v14 Du vil blive grundfæstet i retfærdighed;
 
-du skal være{T: Den hebraiske tekst har imperativ, men her må den opfattes som løfte.} langt fra undertrykkelse, 
+//6 du er langt fra undertrykkelse,
 
-for du skal ikke frygte, 
+//8 for du frygter ikke,
 
-og fra terror, 
+//7 heller ikke for terror,
 
-for den skal ikke komme dig nær.
+//8 for den kommer dig ikke nær.
 
-v15 Se, hvis man angriber, er intet fra mig; 
+//5 v15 Når nogen virkelig angriber,
+//7 kommer det slet ikke{T: Ordret: >>intet<<.} fra mig;
 
-den der angriber dig, skal tilfalde dig.{T: Der er nok en dobbelthed i den hebraiske formulering: Enten skal angriberen falde for Israel, eller han skal blive Israels ven.}
+//6 den der angriber hos dig,
 
-***
+//7 vil falde på grund af dig.
 
-v16 Se, jeg har skabt en smed 
+ ***
 
-der blæser en kulild op 
+//3 v16 Jeg har jo selv skabt en smed
 
-og laver et redskab til sit brug, 
+//6 der blæser en kulild op
 
-og jeg har skabt en ødelægger til at tilintetgøre.
+//7 og laver et redskab til sit brug,
 
-v17 Hvert redskab der er lavet imod dig, 
+//5 og jeg har skabt en ødelægger
 
-skal ikke være effektivt, 
+//6 for at tilintetgøre.
 
-og hver tunge der rejser sig imod dig i retten, 
+//4 v17 Hvert redskab
+//8 der er lavet imod dig,
 
-skal du få dømt. 
+//7 vil ikke være effektivt,
 
-Det er HERRENS tjeneres arv, 
+//6 og hver tunge der rejser sig imod dig i retten,
+//8 vil du få dømt.
 
-og deres retfærdighed kommer fra mig, 
+//7 Det er HERRENS tjeneres arv,
 
-lyder HERRENS udsagn.
+//5 og deres retfærdighed kommer fra mig,
 
-
+//6 lyder HERRENS udsagn.

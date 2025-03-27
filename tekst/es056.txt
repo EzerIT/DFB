@@ -1,137 +1,152 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 26.03.2025>!!
+
 ===Esajas' Bog, kapitel 56===
 
 ==Templet – et bedehus for alle mennesker==
 
-v1 Sådan siger HERREN: 
+//0 v1 Sådan har HERREN sagt:
 
->>Hold jer til ret og øv retfærdighed; 
+//2 >>Hold jer til ret
+//4 og øv retfærdighed;
 
-for min frelse er nær ved at komme 
+//3 for min frelse er nær ved
+//5 at komme
 
-og min retfærdighed ved at åbenbares.<<
+//4 og min retfærdighed
+//5 ved at åbenbares.<<
 
-v2 Lykkeligt{T: Kan også oversættes: >>saligt<<.} er et menneske der gør det, 
+//1 v2 Lykkeligt er et menneske
+//5 der gør det,
 
-og et menneskebarn der holder fast ved det, 
+//4 og en person
+//5 der holder fast ved det,
 
-den der holder sabbatten uden at vanhellige den, 
+//3 den der holder sabbatten
+//5 uden at vanhellige den
 
-og holder sin hånd fra at gøre noget ondt.
+//4 og holder sin hånd
+//5 fra at gøre noget ondt.
 
-***
+ ***
 
-v3 Og den fremmede{T: Ordret: >>fremmedhedens søn<<.} der har sluttet sig til HERREN, 
+//2 v3 Lad ikke den fremmede der har sluttet sig til HERREN,
 
-skal ikke tale og sige: 
+//6 tale
+//5 sådan:
 
->>HERREN vil helt sikkert skille mig ud fra sit folk;<< 
+//6 >>HERREN vil helt sikkert skille mig ud fra sit folk;<<
 
-og den kastrerede skal ikke sige: 
+//4 Lad ikke den kastrerede sige:
 
->>Se, jeg er et vissent træ.<<
+//5 >>Jeg er jo et vissent træ.<<
 
-***
+ ***
 
-v4 For sådan siger HERREN: 
+//3 v4 For sådan har HERREN sagt
 
-Til eunukkerne 
+ til de kastrerede
 
-der vil holde mine sabbatter 
+//5 der vil holde mine sabbatter
 
-og vælger det der behager mig, 
+//6 og vælger det
+//8 der behager mig,
 
-og holder fast ved min pagt,
+//7 og holder fast ved min pagt:
 
-v5 til dem giver jeg i mit hus 
+//4 v5 >>Til dem giver jeg i mit tempel{N: Hus}
 
-og inden for mine mure et mindesmærke{T: Kan også oversættes: >>hånd<<.} og et navn, 
+og inden for mine mure et mindesmærke{N: Hånd.} og et navn,
 
-bedre end sønner og end døtre; 
+//7 bedre end sønner og døtre;
 
-jeg vil give ham{T: De gamle oversættelser har: >>dem<<.} et evigt navn 
+//6 jeg vil give ham{T: De gamle oversættelser har: >>dem<<.} et evigt navn
 
-der ikke skal udslettes.
+//7 der ikke skal udslettes.<<
 
-***
+ ***
 
-v6 Og de fremmede{T: Ordret: >>fremmedhedens sønner<<.} 
+//5 v6 Og de fremmede
 
-der har sluttet sig 
+//7 der har sluttet sig
 
-til HERREN for at tjene ham 
+til HERREN
+//8 for at tjene ham
 
-og for at elske HERRENS navn, 
+//10 og for at elske HERRENS navn,
 
-for at være tjenere for ham, 
+//9 for at være tjenere for ham,
 
-enhver der holder sabbat uden at vanhellige den, 
+//6 enhver
+//8 der holder sabbat
+//10 uden at vanhellige den,
 
-og de der holder fast ved min pagt,
+//9 og de der holder fast ved min pagt,
 
-v7 dem fører jeg til mit hellige bjerg 
+//7 v7 dem fører jeg til mit hellige bjerg
 
-og glæder dem i mit bedehus; 
+//9 og glæder dem i mit tempel{N: Hus} til bøn;
 
-deres brændofre og deres slagtofre 
+//8 deres brændofre og deres slagtofre
 
-skal være til behag på mit alter; 
+vil være til behag på mit alter;
 
-for mit hus skal kaldes et bedehus for alle folkeslagene.
+//10 for mit tempel skal kaldes et tempel til bøn for alle folkeslagene.
 
-v8 Et udsagn fra Herren HERREN, 
+//11 v8 Et udsagn fra Herren HERREN,
 
-der samler Israels fordrevne: 
+//12 der samler Israels fordrevne:
 
-Jeg vil samle endnu flere hos ham 
+//9 Jeg vil samle endnu flere hos ham
 
 oven i dem der allerede er samlet hos ham.
 
+ ==Fjenderne skal straffe de troløse ledere==
 
-==Fjenderne skal straffe de troløse ledere==
+//0 v9 Alle markens dyr!
 
-v9 Alle markens dyr! 
+//3 Kom
+//4 for at æde,
 
-Kom for at æde, 
+//2 alle dyr i skoven!
 
-alle dyr i skoven!
+//1 v10 Hans vægtere er blinde,
 
-v10 Hans vægtere er blinde, 
+//3 alle er uvidende,
 
-de ved alle ingenting, 
+//4 de er alle stumme hunde
 
-de er alle stumme hunde 
+//7 der ikke kan
+//8 gø;
 
-der ikke kan gø; 
+//6 drømmere,
 
-drømmende, liggende, 
+//6 de ligger der,
 
-de elsker at slumre.
+//6 elsker
+//7 at småsove.
 
-v11 Og hundene er grådige, 
+//5 v11 Og hundene er grådige,
 
-de kender ikke til mæthed; 
+//6 de kender ikke til mæthed;
 
-og de er hyrder 
+//2 og de er hyrder
 
-der ikke kender til indsigt; 
+//4 der ikke kender til
+//5 indsigt;
 
-de vender sig alle hver sin vej, 
+//3 de vender sig alle hver sin vej,
 
-enhver til sin fordel, 
+//5 enhver til sin fordel,
 
-den ene som den anden.{T: Ordret: >>fra hans grænse<<, oftest oversat: >>i hele 
-sin udstrækning<< eller: >>den ene som den anden<<. En del fortolkere og oversættere stryger denne linje.}
+hæmningsløst!
 
-v12 >>Kom, lad mig hente vin, 
+//4 v12 >>Kom,
+//5 lad mig hente vin,
 
-og lad os svire i stærk drik! 
+//7 og lad os drikke os fulde i øli os!
 
-Og dagen i morgen skal blive ligesom denne, 
+//6 Og dagen i morgen skal blive ligesom denne,
 
-Stor, overdådig!<<
-
-
+//7 Stor, overdådig!<<
