@@ -16,9 +16,9 @@ og hvis du varetager mine forordninger,
 
 skal du bestyre mit hus og varetage mine forgårde.
 
-Og jeg vil lade dig færdes blandt dem, som står her.<<
+Og jeg vil lade dig færdes blandt dem, som står her.
 
->>Hør efter, Josva, du ypperstepræst: Du og dine venner, som sidder foran dig,
+v8 Hør efter, Josva, du ypperstepræst: Du og dine venner, som sidder foran dig,
 
 I er tegn på, at jeg sender min tjener, Semak.{T: Semak betyder spire, men er her bevaret som et navn eller titel.}
 
@@ -32,4 +32,4 @@ og jeg vil fjerne dette lands skyld på én dag.
 
 v10 På den dag, siger Hærskarers HERRE,
 
-skal I invitere hinanden til at sidde under vintræet og figentræet.{E: Ordret >>skal enhver kalde på sin ven hen under vintræet og hen under figentræet<<.}
+skal I invitere hinanden til at sidde under vintræet og figentræet.<<{E: Ordret >>skal enhver kalde på sin ven hen under vintræet og hen under figentræet<<.}
