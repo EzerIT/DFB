@@ -1,137 +1,142 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.11.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 30===
 
-
-==Job ydmyges af samfundets udskud==
+==Job sørger over at blive ydmyget==
 
 
 //0 v1 Men nu ler de ad mig,
 
 //3 de som er yngre end jeg,
 
-//4 hvis fædre jeg ville have fundet for ringe
+//4 hvis fædre jeg ville have afvist 
 
-//5 til at sætte sammen med mine hyrdehunde.
+//5 at sætte sammen med mine hyrdehunde.
 
 //3 v2 Desuden, deres hænders kræfter,  
 //2 hvad ville de gavne mig,
 
-//3 styrken er forsvundet fra dem?
+//3 deres styrke er gået tabt? 
 
-//7 v3 Mangel{H: Job 30,3.} og sult{H: Job 5,22.} har udmagret{E: * galmûd* (>>ufrugtbar<<, >>gold<<).}{H: Job 3,7; 15,34; 30,3.} dem,
+//7 v3 Golde{H: Job 3,7; 15,34.} af mangel og sult{H: Job 5,22.} er 
 
-//6 de afgnaver det tørre land
+//6 de som afgnaver{E: *ʕōrᵊqîm* findes kun her og i Job 30,17, og oversættelsen er usikker. Nogle tilføjer >>rødder<<, andre oversætter verbet med >>flakker om<<.} det tørre land,
 
-//7 der, når det bliver mørkt, ligner et øde og ødelagt land.
+//7 når det bliver mørkt, et øde og ødelagt land.
 
-//5 v4 De plukker mælde{T: En salturt.} blandt buske
+//5 v4 De plukker mælde blandt buske
 
-//6 og bruger gyveltræets rødder til at varme sig ved.{T: Alt på gyvelbuske, også rødderne, er giftige, men rødderne kan bruges til trækul.}{H: Es 47,14. Sl 120,4.}
+//6 og bruger gyveltræets rødder til at varme sig ved.{T: Gyvelbuske, også rødderne, er giftige, men rødderne kan bruges som trækul.}{H: Es 47,14. Sl 120,4.}
 
 //4 v5 De fordrives fra fællesskabet, 
 
 //6 man skriger ad dem som ad en tyv.
 
-//8 v6 På wadiens skråninger er de
-//7 for at bo der
+//8 v6 På wadiernes{H: Job 21,33.} skråning
+//7 må de bo 
 
-//8 i jord- og klippehuler.
+//8 i huler af jord og klipper.
 
 //5 v7 Mellem buskene skriger{H: Job 6,5.} de,
 
-//6 de samler sig under nælderne. 
+//6 under nælderne samler de sig. 
 
-//8 v8 Sønner af tåber,
-//8 også sønner af dem uden et navn,
+//8 v8 Sønner af tåber,{H: Job 2,10.}
+//8 ja, sønner af dem uden et navn,
 
 //7 de er blevet drevet ud af landet.
+
+***
 
 //1 v9 Og nu er jeg blevet deres spottevise,
 
 //5 og jeg er blevet et mundheld for dem. 
 
-//4 v10 De afskyr mig,
-//6 de holder sig langt fra mig,
+//4 v10 De afskyr mig,{H: Job 19,19.}
+//6 de holder sig langt væk fra mig,
 
 //7 og de holder sig ikke tilbage fra at spytte mig i ansigtet.
 
-//5 v11 Fordi Gud{T: Ordret: >>han<<.} har løsnet min buestreng{T: Da vokaliseringen af det hebraiske ord mangler, kan det også oversættes: >>sin streng<<.}{H: Job 29,20.}
+//5 v11 Fordi Gud{T: >>Gud<< er tilføjet.} har løsnet min buestreng{E: Da vokaliseringen mangler, kan det også oversættes: >>sin streng<<.} 
 //7 og har ydmyget mig,{H: Job 16,8.}
 
-//6 så de kaster båndene af sig i mit nærvær.
+//6 så kaster de bidslet af sig i mit nærvær.{N: Ansigt}
 
-//3 v12 På min højre side rejser afkommet{E: *pirḥaḥ* skal muligvis afledes af verbet *prh* (>>skyde op<<, >>spire<<).} sig,
+//3 v12 På min højre side rejser afkommet sig,
 
-//5 de sparker mine fødder væk under mig
+//5 de støder mine fødder væk
 
-//7 og bygger deres ødelæggende belejringsrampe{T: Ordret: >>stier<<.} op imod mig.{H: Job 19,12.}
+//7 og bygger deres ulykkesstier op imod mig.{H: Job 19,12.}
 
 //6 v13 De har brudt min sti ned,{H: Job 19,10.}
 
-//4 og de fremmer min ulykke.{H: Job 6,2.}
+//4 og de fremmer min tilintetgørelse.{H: Job 6,2.}
 
-//6 Der er ingen hjælp imod dem.
+//6 Der er ingen der hjælper imod dem.
 
 //5 v14 Som gennem et bredt brud kommer de ind,
 
 //7 under ødelæggelse vælter de sig frem.
 
-//8 v15 Pludselige rædsler{H: Job 18,11.14; 27,20.} er blevet vendt imod mig,
+***
+
+//8 v15 Pludselige rædsler{H: Job 27,20.} er blevet vendt imod mig,
 
 //6 min værdighed er jaget bort som vinden, 
 
 //7 som en sky er min redning{N: Frelse.} forsvundet. 
 
-//2 v16 Og nu ebber mit liv ud,{T: Ordret: >>min sjæl hældes ud over mig<<.}{N: Sjæl.}{H: Klag 2,12.}
+//2 v16 Og nu ebber mit liv ud,{N: Sjæl.}{H: Klag 2,12.}
 
-//5 dage med elendighed{H: Job 10,15; 30,27.} holder mig fast.{H: Job 30,27; 10,15.}
+//5 dage med elendighed{H: Job 10,15; 30,27.} griber mig.
 
 
 ==Job anklager Gud==
 
 
-//7 v17 Om natten gennemborer han mine knogler, 
+//7 v17 Om natten gennemborer han{T: Gud.} mine knogler, 
 
 //6 og min gnavende smerte hører ikke op.
 
-//4 v18 Med stor styrke griber{E: *yitḥappēś*(rod: *ḤFŚ*) betyder >>afskyr sig selv<< og indikerer at Jobs tøj hang løst på ham. Men verbet *ḤFŚ* kan opfattes som en fonetisk variant af *ḤVŚ* (>>at binde<<, >>at gribe fat<<).}{H: Job 16,12.} han fat i mit tøj,
+//4 v18 Med mægtig styrke griber{E: *yitḥappēś*(rod: *ḥfś*) betyder >>afskyr sig selv<< og indikerer at Jobs tøj hang løst på ham. Men verbet kan opfattes som en fonetisk variant af *ḥvś* (>>at binde<<, >>at gribe fat<<).}{H: Job 16,12.} han fat i mit tøj,
 
-//6 og han binder mig som halsen på min kjortel.{H: Job 7,15.} 
+//6 og som halsen på min kjortel{H: Job 7,15.} binder han mig. 
 
 //5 v19 Han har kastet mig i mudderet,
 
-//6 og jeg er blevet som støv og aske.{H: Job 42,6; 2,8.}
+//6 og jeg er blevet som støv og aske.{H: Job 2,8; 42,6.}
 
 
 ==Job taler nu direkte til Gud==
 
 
-//3 v20 Jeg råber til dig om hjælp,{H: Job 19,7; 30,28.}
+//3 v20 Jeg råber til dig om hjælp,{H: Job 19,7.}
 //6 men du svarer mig ikke.
 
 //5 Jeg står her,
-//6 og du skal forstå mig.{E: Peshitta oversætter >>du står og ser på mig<<. Vulgata tilføjer >>ikke<< og oversætter >>du giver ikke agt på mig<<.}{H: Jer 23,20; 30,24.}
+//6 og du skal forstå mig.{E: Oversættelsen her er valgt i overensstemmelse med Jer 23,20 og 30,24. Syr oversætter >>du står og ser på mig<<. Vulgata tilføjer >>ikke<< og oversætter >>du giver ikke agt på mig<<.}
 
-//7 v21 Du har forandret dig og er blevet grusom{H: Jer 30,14; Es 63,10.} mod mig,
+//7 v21 Du har forvandlet dig til en grusom en{H: Jer 30,14; Es 63,10.} over for mig,
 
 //9 med din hånds styrke bliver du ved med at angribe mig.{H: Job 16,9.12.}{E:*satam* (>>være i fjendskab mod<<, >>angribe<<), et ordspil med Satan.} 
 
 //10 v22 Du løfter mig op til vinden,
-//11 og lader mig fare afsted,
+//11 og lader mig suse afsted,
 
-//12 og du lader mig gå til i stormens brølen.{T: >>Stormens<< er tilføjet.}
+//12 og du lader mig gå til i uvejrets bragen.
 
 //8 v23 For jeg ved
 //9 at du vil bringe mig tilbage til døden,
 
-//10 til huset hvor alt levende mødes.
+//10 forsamlingshuset for alt levende.
 
-//4 v24 Dog, strækker en der ligger i en ruinbunke, ikke sin hånd ud
+***
 
-//8 hvis nogen råber til dem om hjælp{E: *lāhen*, >>til dem<< eller >>for dem<<, udelades oftest. *lāhen* er 3. person femininum pluralis og henfører måske til dødsriget *šᵊʔôl* og dødens børn *bᵊnê tᵊmûtā* (Sl 102,21), begge femininum. Andre foreslår at *lāhen* er en apposition til *ʕî* (>>ruinbunke<<) i vers 24a.} i sin ulykke.
+//4 v24 Dog, strækker en der ligger i en ruinbunke, ikke hånden ud
+
+//8 hvis nogen råber til dem om hjælp{E: *lāhen* (>>til dem<< eller >>for dem<<) udelades oftest. Det er uklart hvad *lāhen* henfører til. Den hebraiske tekst er vanskelig og rummer flere ret forskellige oversættelser.} i sin ulykke?{H: Job 12,5.}
 
 //7 v25 Græd jeg ikke for den der havde en hård dag,
 
@@ -141,14 +146,14 @@
 //8 kom der ondt,{H: Job 2,10.}
 
 //7 og ventede jeg på lys,
-//8 kom dybeste mørke.{H: Job 28,3; 10,22.}
+//8 kom mulm.{H: Job 3,6.}
 
 //5 v27 Mit indre er bragt i kog,
-//9 og det falder ikke til ro,
+//9 og falder ikke til ro,
 
-//8 dage med lidelse{H: Job 10,15; 30,16.} kommer over mig.
+//8 dage med elendighed{H: Job 10,15.} møder mig.
 
-//7 v28 Jeg går omkring og er blevet sort, men ikke af solen,
+//7 v28 Formørket går jeg omkring, men ikke af solen,
 
 //9 jeg står op 
 //10 i forsamlingen og råber om hjælp.{H: Job 19,7.}
@@ -159,8 +164,8 @@
 
 //6 v30 Min hud er blevet sort og skaller af,
 
-//8 og min krop brænder af feber.
+//8 og min krop brænder af feber. 
 
-//7 v31 Min lyre er til klage,
+//7 v31 Min citer{H: Job 21,12.} er til sorg,
 
 //8 og min fløjte til lyden af de grædende.

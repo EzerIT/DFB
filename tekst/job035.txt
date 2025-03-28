@@ -1,11 +1,10 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 35===
  
-
- ==Elihus tredje tale==
+==I Elihus tredje tale opfordrer han Job til at vente tålmodigt på Gud==
 
  
 //0 v1 Så fortsatte Elihu
@@ -14,37 +13,41 @@
 //2 v2 >>Anser du dette for ret? 
 
 //4 Du sagde: 
-//6 >Jeg er mere retfærdig end Gud<,{T: Kan oversættes >>min retfærdighed er fra Gud<<. Sml. Job 32,2.}{H: Job 4,17.}
+//6 >Jeg er mere retfærdig end Gud<,{T: Kan oversættes >>min retfærdighed er fra Gud<< eller >>jeg er retfærdig for Gud<<. Sml. Job 32,2 og 34,5.}{H: Job 4,17; 9,2; 10,15.}
 
-//5 v3 Men du siger:
+//5 v3 Ja, du siger:
 //8 >Hvad gavner det dig?{T: Gud.}{H: Job 7,20.} 
 
-//9 Hvad får jeg ud af at undgå synd?< 
+//9 Hvad får jeg ud af at undgå synd?<{H: Job 9,22.} 
  
-//7 v4 Jeg vil svare dig igen med ord,
+//7 v4 Jeg vil svare dig igen med en tale,
 
-//9 og dine venner med dig: 
+//9 og dine venner sammen med dig: 
 
-//8 v5 Kig op{H: Job 6,19.} mod himlen  
+***
+
+//8 v5 Kig op mod himlen 
 //11 og se, 
 
-//11 betragt{H: Job 7,8b; 35,13.14.} skyerne, 
-//10 de ligger højt over dig!
+//11 betragt skyerne,{E: *šaḥaq* betyder >>skyer<<, især af vand og dug, og når det næsten er synonym for himlen.} 
+//10 de er højt over dig!
 
 //9 v6 Hvis du synder, 
-//11 hvad udretter du da i forhold til ham? 
+//11 hvad kan du udrette imod ham?{H: Job 7,20.} 
 
-//10 Er dine overtrædelser talrige, 
-//11 hvad kan du da gøre mod ham?{H: Job 7,20.} 
+//10 Er dine overtrædelser{H: Job 7,21.} talrige, 
+//11 hvad kan du da gøre ham? 
 
 //9 v7 Er du retfærdig, 
-//11 hvad kan da du give ham,
+//11 hvad kan du give ham,
 
-//12 eller hvad vil han da tage imod fra din hånd?{H: Job 22,3.}
+//12 eller hvad vil han tage imod fra din hånd?{H: Job 22,3.}
 
-//10 v8 Din ugudelighed påvirker{T: >>påvirker<< er tilføjet.} en mand som dig selv 
+//10 v8 Din ugudelighed påvirker en mand som dig selv 
 
-//14 og din retfærdighed kun mennesker.{E: De to udsagn kan oversættes som et spørgsmål >>For en mand som dig, hvad betyder din ugudelighed og for en menneskesøn din retfærdighed?<<.}{H: Job 9,22.} 
+//14 og din retfærdighed en menneskesøn.{T: De to udsagn kan oversættes som et spørgsmål >>For en mand som dig, hvad betyder din ugudelighed, og for en menneskesøn din retfærdighed?<<.}{H: Job 9,22.} 
+
+***
 
 //13 v9 Over de talrige tilfælde af undertrykkelse skriger de klagende,{H: Job 16,18.}
 
@@ -59,25 +62,25 @@
 
 //15 og gør os visere end himlens fugle?<{H: Job 12,7.} 
 
-//11 v12 Der skriger{H: Job 19,7.} de om hjælp, 
+//11 v12 Dér skriger{H: Job 19,7.} de om hjælp, 
 
-//13 men han svarer ikke på grund af de ondes{H: Job 21,30.} stolthed.
+//13 men han svarer ikke på grund af de ondes stolthed.
 
-//12 v13 Et sådan tomt skrig{H: Job 35,12.}{E: *šāwᵊʔ*, >>tomhed<<, >>forgæves<<, >>værdiløs<<, >>falskhed<<. >>Skrig<< er tilføjet.} det hører Gud ikke,
+//12 v13 Ja, forgæves!{H: Job 7,3.} Gud hører det ikke,
 
 //13 og den Almægtige bemærker det ikke. 
 
 //6 v14 Dog skønt du siger: 
 //8 >Du kan ikke iagttage{H: Job 7,8.} ham,<
 
-//7 så har han din sag foran sig,{T: Ordret: >>for hans ansigt<<.}{N: Ansigt.}
-//8 og du skal skælvende vente{E: *tḥôlēl* (*ḤYL*) >>vride sig (veer)<<, >>ryste<<.} på ham!
+//7 er sagen for hans ansigt
+//8 og du må vente{H: Job 6,11. Sl 37,7.} på ham!
  
 //3 v15 Men nu, 
-//4 fordi han ikke straffer i sin vrede 
+//4 fordi hans vrede ikke hjemsøger, 
 
-//6 og han ikke tager sig særligt af tåbelighed, 
+//6 og han ikke tager sig særligt af overmod,{T: LXX og Vulgata vælger >>overtrædelse<<. Da ordet kun findes her, er oversættelsen usikker.} 
 
-//5 v16 åbner Job sin mund med intetsigende snak,{H: Job 7,16.}
+//5 v16 lader Job sin mund løbe med tomhed,{H: Job 21,34.}
  
-//6 han kommer med en masse ord uden forstand.<< 
+//6 han kommer med en masse ord uden forstand.<<

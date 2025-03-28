@@ -1,37 +1,38 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 36===
- 
 
-==Elihus fjerde tale== 
+==I Elihus fjerde og afsluttende tale lovpriser han Guds storhed== 
  
 
 //0 v1 Elihu fortsatte 
 //1 med at svare: 
 
 //2 v2 >>Vær tålmodig med mig lidt endnu, 
-//5 så skal jeg informere dig, 
+//5 så skal jeg informere dig,{H: Job 15,17.} 
 
-//7 for her er endnu en tale om Gud. 
+//7 for jeg har stadig et budskab om Gud. 
 
-//6 v3 Jeg vil hente min viden langt borte fra, 
+//6 v3 Jeg vil hente min viden{H: Job 32,6.} langt borte fra, 
 
-//8 og jeg vil yde min skaber retfærdighed, 
+//8 og jeg vil yde min skaber retfærdighed. 
 
-//7 v4 for i sandhed, mine ord er ikke løgn. 
+//7 v4 Ja, sandelig,{H: Job 9,2.} mine ord er ikke løgn. 
 
 //8 En der er fuldkommen i kundskab,{H: Job 37,16} er hos dig.
- 
-//4 v5 Se, Gud er mægtig, 
-//8 og han forkaster ingen. 
+
+***
+
+//4 v5 Ja, Gud er virkelig mægtig, 
+//8 og han forkaster{H: Job 8,20.} ingen. 
 
 //7 Han er mægtig i forstandens{N: Hjerte.} kraft. 
 
 //6 v6 Han lader ikke en ugudelig bevare livet,
 
-//10 men skaffer de elendige{H: Job 5,16.} ret. 
+//10 men skaffer de elendige{H: Job 24,4.} ret. 
 
 //9 v7 Han vender ikke sine øjne væk fra retfærdige, 
 
@@ -42,13 +43,13 @@
 
 //8 v8 Hvis de lægges i lænker, 
 
-//11 bliver fanget i elendighedens{H: Job 10,15; 36,15.21.} reb,
+//11 bliver fanget i elendighedens{H: Job 10,15.} reb,
 
-//10 v9 da forkynder han dem deres gerninger og deres overtrædelser, 
+//10 v9 da forkynder han dem deres gerninger og deres overtrædelser{H: Job 7,21.} 
 
 //11 fordi de ophøjer sig selv.
 
-//10 v10 Han åbenbarer tydeligt advarslen for dem
+//10 v10 Han åbenbarer tydeligt{H: Job 33,16.} advarslen for dem 
 
 //10 og siger 
 //11 at de skal vende sig bort fra uretfærdighed. 
@@ -56,7 +57,7 @@
 //9 v11 Hvis de hører 
 //12 og begynder at tjene ham, 
 
-//11 vil de afslutte deres dage i medgang{T: Ordret: >>det gode<<.} 
+//11 vil de afslutte deres dage i det der er godt{H: Job 2,10; 21,13.} 
 
 //12 og deres år i lykke, 
 
@@ -65,7 +66,7 @@
 
 //12 og udånde{E: Et ordspil mellem *yaʕᵃvōrû* (>>udånde<<) og *yaʕᵃvōdû* (>>tjene<<) (vers 11) fremhæver kontrasten.} uden kundskab. 
 
-//7 v13 De i hjertet gudløse nærer vrede,
+//7 v13 De i hjertet gudløse{H: Job 8,13.} nærer vrede,
 
 //9 de råber ikke om hjælp 
 //10 når han binder dem. 
@@ -74,77 +75,86 @@
 
 //9 og deres liv ender blandt de mandlige prostituerede.{T: Ordret: >>de hellige/udskilte af hankøn<<.}{H: 1 Mos 38,21-22.} 
 
-//5 v15 Han redder den hjælpeløse i hans elendighed 
+//5 v15 Han redder den elendige{H: Job 24,4.} ved hjælp af hans elendighed 
 
-//7 og åbenbarer et budskab for ham midt i undertrykkelsen.
+//7 og åbner deres ører ved hjælp af undertrykkelsen.{E: Der er et ordspil mellem *yᵊḥallēṣ* (>>han redder<<) og *balaḥaṣ* (>>ved undertrykkelsen<<), hvilket understøtter denne oversættelse. Præpositionen i begge verslinjer kan oversættes med >>i<<.}
  
-//6 v16 Også dig lokker han gennem trængslens åbning ud til et vidtstrakt sted
+//6 v16 Også dig drager{H: Job 2,3; 36,18. 2 Krøn 18,31.} han gennem trængslens åbning 
+
+ud til et vidtstrakt sted
 //10 hvor der ingen nød er,
 
-//9 og til hvile ved dit bord,{T: Ordret: >>dit bords ro/trøst<<.} der er fyldt med fede retter.
+//9 og til hvile ved dit bord, der er fyldt med fede retter.
 
-//8 v17 Men du er optaget af retssag mod den skyldige,
+***
 
-//9 og dom og retfærdighed{H: Job 13,18.} holder dig fangen.
+//8 v17 Men du er fyldt af retssag mod den skyldige,
 
-//10 v18 For harmen,{E: *ḥēmāʰ* (>>vrede<<) ændres af nogle til *ḥameh* (>>give agt<<).}
-//12 den er der for at ikke nogen skal lokke dig til spot;{E: *sāfeq* findes kun her, kan være afledt fra *sfk* der betyder (>>klappe hånligt<<, >>spotte<<). Nogle ændrer vokaliseringen til *sefeq* (>>rigdom<<, >>overflod<<) og oversætter >>lokke dig med rigdom<<.}
+//9 dom og ret{H: Job 13,18.} holder dig fast.
+
+//10 v18 Ja, harmen,{E: *ḥēmāʰ* (>>vrede<<) ændres af nogle til *ḥameh* (>>give agt<<).}
+//12 lad den ikke lokke dig til spot,{E: *sāfeq* findes kun her, kan være afledt fra *sfk* der betyder >>klappe hånligt<<, >>spotte<<. Nogle ændrer vokaliseringen til *sefeq* (>>rigdom<<, >>overflod<<) som i Job 20,22 og oversætter >>lokke dig med rigdom<<.}
 
 //11 og lad ikke en stor sum løsepenge forføre dig!
 
-//7 v19 Mon dit råb om hjælp,{E: *šûʕᵃxā* kan betyde >>råb om hjælp<<. Ved små ændringer >>fornem/rig<<, *šoʕᵃxā* (>>din rigdom<<) eller *yēšaʕᵃxā* >>din udfrielse<<. Alternativt oversættes >>Vil din rigdom/udfrielse bevare dig<<.} kan føre til
-//9 at du undgår trængsel
+//7 v19 Kan dit råb om hjælp{E: Nogle ændrer *šûʕᵃxā* (>>dit råb om hjælp<<) til *šoʕᵃxā* (>>din rigdom<<) eller *yēšaʕᵃxā* (>>din udfrielse<<), og der oversættes >>vil din rigdom/udfrielse bevare dig<<.}  føre til{H: Job 30,24.}
+//9 at du ikke kommer i trængsel,
 
 //8 eller kan alle slags kraftanstrengelser? 
 
-//3 v20 Du skal ikke længes efter natten. 
+//3 v20 Du skal ikke længes efter{H: Job 7,2.} natten, 
 
-//6 Da går folk bort til deres sted.{T: Muligvis en beskrivelse af døden.} 
+//6 da folkene går bort til deres sted!{T: Der kan også oversættes >>bryder op fra deres sted<<.} 
 
 //5 v21 Tag dig i agt! 
-//4 Vend dig ikke til uret,{H: Job 4,8.} 
+//4 Vend ikke dit ansigt til uret,{H: Job 4,8.} 
 
-//7 for den kan du komme til at vælge på grund af elendigheden.{H: Job 10,15.}
- 
-//6 v22 Se, Gud viser sig ophøjet ved sin styrke! 
+//7 for den kan du komme til at vælge på grund af elendigheden!{E: *ʕal-zeʰ* >>for det/den<< ændres af nogle til *ʕawlāʰ* >>uretfærdighed<<, og præpositionen *min* tolkes forskelligt fra >>på grund af<< til >>snarere end/fremfor<<, og der oversættes >>du har valgt/foretrukket uretfærdighed fremfor elendighed<<. Der kan også oversættes >>for over for den har du foretrukket elendigheden<<. Også verbaltiden tolkes forskelligt, og nogle vælger at ændre *bāḥartā* >>du har valgt<< til *boḥartā* >>du er blevet prøvet<< (med lidelse).}{H: Job 10,15.}
+
+***
+
+//6 v22 Ja, Gud viser sig virkelig ophøjet ved sin styrke! 
 
 //7 Hvem er en lærer som han? 
 
 //8 v23 Hvem har anvist{H: Job 34,13.} ham hans vej,
 
 //9 og hvem kan sige: 
-//10 >Du har øvet uret?<
+//10 >Du har gjort uret?<
+
+
+==Guds åbenbaring i naturen maner til ydmyghed over for Gud==
 
 //5 v24 Husk på 
-//8 at du skal lovprise hans værk{H: Sl 8.} 
+//8 at du skal lovprise hans værk{H: Sl 8,2.4.} 
 
 //9 som mennesker har sunget om. 
 
-//7 v25 Hele menneskeheden har set{H: Job 15,17.} det, 
+//7 v25 Hele menneskeheden skuer det,{H: Job 15,17.} 
 
-//8 mennesket kan betragte det på lang afstand.
+//8 mennesket ser på det på lang afstand.
 
-//6 v26 Se, Gud er ophøjet,{H: Job 33,12. Sl 139,14.} 
-//9 men vi erkender det ikke. 
+//6 v26 Ja, Gud er virkelig ophøjet,{H: Job 33,12.} 
+//9 og vi erkender det ikke, 
 
-Antallet af hans år
-//10 er uransagelige! 
+antallet af hans år
+//10 er uransageligt! 
 
-//8 v27 For han trækker dråber af vand op, 
+//8 v27 Ja, han trækker dråber af vand op, 
 
-//9 der siver gennem tågen,{E: *ʔēdô* >>tåge<< oversættes i LXX med >>kilde<<. Ordet findes kun her og i 1 Mos 2,6.} ned som regn.
+//9 der siver ned gennem hans tåge,{E: *ʔēdô* >>hans tåge<< oversættes i LXX med >>kilde<<. Ordet findes kun her og i 1 Mos 2,6.} som regn.
 
-//10 v28 Dem lader skyerne{H: Job 35,5.} øse ned
+//10 v28 Dem lader skyerne{H: Job 35,5.} øse ned,
 
-//11 og dryppe på masser af mennesker.
+//11 de drypper på masser af mennesker.
 
-//7 v29 I sandhed, hvem forstår udbredelsen af skyerne,{H: Job 20,6.}  
- 	
-//9 tordenskraldene fra hans hytte,{H: Sl 18,12.}
+//7 v29 Sandelig, hvem forstår udbredelsen af skyerne,{H: Job 20,6.}
 
-//8 v30 når han spreder sit lys over den 
+//9 tordenskraldene fra hans hytte?{H: Sl 18,12.}
 
-//10 og dækker havets rødder.
+//8 v30 Ja, han spreder jo sit lys over den 
+
+//10 og skjuler havets rødder.
 
 //11 v31 For ved dem dømmer han folkene 
 
@@ -152,8 +162,8 @@ Antallet af hans år
 
 //9 v32 Ved sine håndflader skjuler han lyset 
 
-//11 og befaler over det hvem det skal ramme.
+//11 og befaler over det hvem det skal ramme.{H: Job 7,20.}
 
 //10 v33 Hans tordenskrald forkynder om ham, 
 
-//11 også kvæget forkynder at han drager op.{E: Det kan referere til kvæget der mærker stormen nærme sig. *ʔaf* (>>også<<) kan betyde >>vrede<<, derfor ændrer nogle oversættelsen til >>stormen (forkynder) hans indignerede vrede<< eller >>nidkær(*QNʔ*) i hans vrede over uretfærdighed (*ʕawlāʰ*)<<.}
+//11 også kvæget forkynder at han drager op.{E: Det kan referere til kvæget der mærker stormen nærme sig. *ʔaf* (>>også<<) kan betyde >>vrede<<, derfor ændrer nogle oversættelsen til >>stormen (forkynder) hans indignerede vrede<<. Der er yderligere en del forskellige variationer i oversættelsen.}

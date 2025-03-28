@@ -1,74 +1,73 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 26.11.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 28===
 
+==Job beskriver menneskets evne til at finde de skjulte skatte==
 
-==Job viser menneskets evne til at finde de skjulte skatte==
 
+//1 v1 Ja, der er en mine til sølvet 
 
-//1 v1 Der er nemlig en mine til sølvet  
-
-//3 og et sted til guldet
+//3 og et sted til guldet,
 //4 som de vasker ud.
 
 //2 v2 Jern tages fra støvet,
 
 //4 og sten hældes ud som kobber. 
 
-//3 v3 Man gør ende på mørket,
+//3 v3 Man gør ende på mørket,{H: Job 3,4.}
 
-//5 og i hvert et dyb udsøger han 
+//5 og i hvert et dyb udsøger man 
 
-sten i mulmet og i det dybe mørke.
+sten i mulmet{H: Job 3,6.} og dødsskyggen.{H: Job 3,5.}
 
 //4 v4 Man bryder en skakt
 //8 fjernt fra beboelse,
-//8 ukendt for dem som går oven for på jorden.{T: Ordret: >>glemt uden fod<<.}
+//8 glemt af dem som går ovenfor.{T: Ordret: >>de er glemt af fod<<.}
 
-//7 de{T: Minearbejderne.} hænger der,
+//7 De{T: Minearbejderne.} hænger der,
 //8 fjernt fra mennesker svinger de frem og tilbage.
 
 //6 v5 Af jorden
 //8 kommer der brød,
 
-//9 og nedenunder brydes den op som af ild.
+//9 og nedenunder brydes den op{H: Job 28,9.} som af ild.
 
-//7 v6 Et sted hvor dens sten er safir,
-//8 og støvet indeholder guld.{E: Det kan muligvis være jernpartikler i safiren som skinner ligesom guld.} 
+//7 v6 Dens sten er stedet hvor der er safir,
+//8 og guldstøv findes i den.{E: *ʕafrōt* er flertalsformen af støv. Det kan muligvis være jernpartikler i safiren som skinner ligesom guld.} 
 
 //6 v7 Stien
 //7 kender rovfuglen ikke,
 
-//9 og falkens øje ser den ikke.
+//9 og falkens øje får ikke øje på den.
 
 //8 v8 Det stolte vildt{T: Ordret: >>sønner af stolthed<<.}{H: Job 41,26.} har ikke betrådt den,
 
 //9 og ingen løve er skredet frem ad den.
 
-//5 v9 Han strækker hånden ud mod klippen af flint,
+//5 v9 På den hårde flint lægger man sin hånd,
 
-//6 bryder ned fra roden af bjergene.
+//6 bryder ned{H: Job 9,5.} fra roden af bjergene.
 
-//7 v10 I klipperne udhugger han minegange der er fyldt med vand,{T: Ordret: >>vandløb<<, >>vandkanaler<<.}
+//7 v10 I klipperne udhugger man minegange der er fyldt med vand,{T: Ordret: >>vandløb<<, >>vandkanaler<<}
 
-//9 han får øje på enhver kostbarhed.
+//9  ens øje ser enhver kostbarhed.
 
-//8 v11 Han dæmmer op for vandstrømmenes kilder,{E: *mibbᵊxî* (>>fra gråd<<) omvokaliseres til *mabbᵊxêy* (>>vandkilder<<).}
+//8 v11 Man dæmmer op for vandstrømmenes kilder{E: *mibbᵊxî* (>>fra gråd<<) omvokaliseres til *mabbᵊxêy* (>>fra kilder<<)}.
 
 
-//10 og det skjulte bringer han frem i lyset.
+//10 og det skjulte bringer man frem i lyset.
 
 
 ==Visdommen har sit udspring i Gud==
 
 
-//9 v12 Men visdommen, hvor findes den,{H: Ordsp 8,11-12.22.}
+//9 v12 Men visdommen, hvor findes den,{H: Ordsp 8,11-12.}
 
 //10 og hvor er stedet for indsigt?
 
-//11 v13 Mennesket kender ikke dets sted,{E: *ʕērex* >>orden<<, >>sted<<. *ʕērex* har også betydningen >>værdi<<. LXX ændrer *ʕerkāhʕ* fra *ʕērex* til *darkahʕ* (>>dets vej<<).}
+//11 v13 Mennesket kender ikke dens sted,{E: *ʕerkāhʕ* >>dens sted<<, har også betydningen >>dens værdi<<. LXX ændrer *ʕerkāhʕ* til *darkahʕ* (>>dens vej<<).} 
 
 //14 og den findes ikke i de levendes land.
 
@@ -78,13 +77,13 @@ sten i mulmet og i det dybe mørke.
 //14 og havet siger:
 //15 >Den er ikke hos mig!<
 
-//12 v15 Rent guld kan ikke gives i bytte for den,
+//12 v15 Lutret guld{E: *sᵊgôr* opfattes af de fleste som poetisk form af *zāhāv* (>>guld<<). I versene 15-19 bruges 4 forskellige udtryk for guld.} kan ikke gives i bytte for den,
 
 //14 og sølv kan ikke vejes af som pris for den.{H: Ordsp 16,16.}
 
-//13 v16 Den kan ikke købes{H: Job 28,19.} for guld fra Ofir,{H: 1 Kong 9,28.}
+//13 v16 Den kan ikke købes for guld fra Ofir,{H: 1 Kong 9,28. Job 22,24.}
 
-//15 for kostbar shohamsten eller safir.{H: 1 Mos 2,12. 2 Mos 28,15-21.}
+//15 for kostbar shohamsten eller safir.{H: 1 Mos 2,12. 2 Mos 28,20.}
 
 //14 v17 Hverken guld eller glas kan sammenlignes med den,
 
@@ -92,7 +91,7 @@ sten i mulmet og i det dybe mørke.
 
 //15 v18 Koraller{T: Sorte koraller, perler, oversættelsen er usikker.} og bjergkrystaller er ikke værd at nævne.
 
-//17 En læderpose fuld af visdom{E: *mešex* (>>læderpose<<) til opbevaring af værdigenstande, et billede på besiddelse af visdom.} er bedre end koralperler.{H: Ordsp 8,11.}
+//17 En læderpose fuld af visdom er bedre end koralperler.{H: Ordsp 8,11.}
 
 //16 v19 Den kan ikke sammenlignes med topas fra Etiopien,
 
@@ -108,37 +107,40 @@ sten i mulmet og i det dybe mørke.
 
 //19 og for himlens fugle er den skjult. 
 
-//20 v22 Afgrunden og døden siger:
+//20 v22 Afgrunden{H: Job 26,6.} og døden siger:
 
-//21 >Vi har selv hørt et rygte.<
+//21 >Vi har selv hørt en fortælling om den.<
 
-//20 v23 Gud forstår dens vej,
+***
+
+//20 v23 Gud har indsigt i
+ dens vej,
 
 //22 og han kender dens sted.
 
-//21 v24 For han ser til jordens ender,
+//21 v24 For han ser helt til jordens ender,
 
 //24 under hele himlen ser han.
 
-//23 v25 Da han gav vinden{N: Ånd.} vægt
+//23 v25 Da han gav vinden vægt
 
-//24 og udmålte vandet med et rummål,
+//24 og udmålte vandet med et mål,
 
-//22 v26 da han fastsatte tiden{T: Ordret: >>bestemmelse<<.} for regnen
+//22 v26 da han lavede en bestemmelse for regnen
 
-//24 og en vej for lyn og torden. 
+//24 og en vej for lyn og torden; 
 
-//23 v27 Dengang så han den,{T: Visdommen.}
+//23 v27 dengang så han den,{T: Visdommen.}
 //25 og vurderede den;
 
 //24 han grundlagde den,
-//25 og han udforskede den også.
+//25 og han udforskede{H: Job 5,27.} den også.
 
-//26 v28 Og han sagde til mennesket:
+//26 v28 Han sagde til mennesket:
 
-//26 >At frygte{N: Frygt.} Herren,{H: Job 1,1. Ordsp 1,7; 9,10.}
+//26 >Ja, at frygte{N: Frygt.} Herren,{H: Job 1,1. Ordsp 1,7; 9,10.}
 //28 det er visdom,
 
 //27 og
-//29 at holde sig fra det onde{H: Job 1,8.}
-//28 det er indsigt!<<<{H: Job 28,12.20.}
+//29 at holde sig væk fra det onde{H: Job 1,8.}
+//28 det er indsigt!<<< 

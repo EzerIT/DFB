@@ -1,10 +1,8 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 40===
-
 
 ==HERREN opfordrer Job til at svare ham==
 
@@ -12,95 +10,103 @@
 //0 v1 HERREN fortsatte med at svare Job
 //1 :
 
-//2 v2 >>Vil han der fører sag{H: Job 9,3.} mod den Almægtige, irettesætte ham?
+//2 v2 >>Vil han der fører retssag,{H: Job 9,3.} gå i rette med{E: *yissôr* >>en irettesætter<<, findes kun her i GT, hvilket giver ekstra vægt til udtalelsen.} den Almægtige?
 
-//4 Han der anklager Gud, skal svare!<<
-//3
+//4 Den der anklager Gud, 
+//3 han skal svare!<<
+
+***
 
 //0 v3 Da svarede Job HERREN
 //1 :
 
-//2 v4 >>Ja, jeg er ringe,
-//3 hvad skal jeg svare dig?
+//2 v4 >>Nej, jeg er jo så ubetydelig!
+//3 Hvad skal jeg give dig som svar?
 
-//4 Jeg har lagt hånden over munden.{H: Job 21,5; 29,9.}
+//4 Jeg lægger hånden over min mund.{H: Job 29,9.}
 
 //5 v5 Én gang har jeg talt,
-//7 men jeg kan ikke svare,
+//7 og jeg vil ikke svare,
 
-//6 to gange,
-//7 og jeg kan intet tilføje.<<
+//6 ja, to gange,
+//7 og jeg vil ikke gøre det mere.<<
 
 
-==HERREN taler igen fra stormen og konfronterer Job==
+==HERREN konfronterer Job==
 
 
 //0 v6 Da svarede HERREN Job ud fra stormen
 //1 :
 
-//2 v7 >> Bind op om dine lænder som en mand!
+//2 v7 >> Bind nu op om dine lænder som en mand!
 
 //6 Jeg vil spørge dig,
 //5 og belær du mig!{H: Job 38,3.}
 
-//4 v8 Vil du virkelig gøre min retfærdighed til intet,{H: Job 13,18.19.}
+//4 v8 Vil du endog suspendere{H: Job 5,12.} min ret?{H: Job 13,18.19; 27,2.}
 
-//6 dømme mig skyldig
-//7 for at du kan være retfærdig?{T: Eller >>for at du kan have ret<<.} 
+//6 Vil du dømme mig skyldig,{H: Job 34,12.17.}
+//7 for at du kan få ret?{H: Job 9,2.} 
 
 //5 v9 Eller har du en arm som Gud,
 
-//6 og kan du få det til at tordne med en røst som hans?
+//6 og kan du få det til at tordne med en røst ligesom han?
 
-//3 v10 Smyk dig med dristighed og pragt,
+***
 
-//7 og klæd dig i herlighed og ære!{T: Guds egenskaber.}{H: Sl 104,1.}
+//3 v10 Smyk dig nu med majestæt og højhed,
+
+//7 og ifør dig herlighed og ære!{T: Guds egenskaber.}{H: Sl 104,1.}
 
 //6 v11 Strø dine vredesudbrud ud,
 
-//7 og se på enhver der er stolt,
+//7 og se på enhver hovmodig,
 //8 og ydmyg ham!
 
-//6 v12 Se på enhver der er stolt,
+//6 v12 Se på enhver hovmodig,
 //8 bøj ham,
 
-//7 og træd de ugudelige ned hvor de står!
+//7 og træd de ugudelige ned på deres sted!
 
 //8 v13 Skjul dem allesammen i støvet!
 
 //9 Bind deres ansigter i det skjulte! 
 
-//5 v14 Så vil også jeg prise dig
-
-//6 fordi din højre hånd skaffer dig sejr.{T: Ordret: >>skaffer frelse for dig<<. Det er samme udsagn som siges om Gud.}{H: Sl 98,1.}
+//5 v14 Så vil også jeg prise{E: *ʔôdekkā* (*ydh*) (>>prise<<) kan også betyde >>vidne<<, >>bekende<< og bruges i forhold til Gud.} dig for
 
 
-==HERREN stiller nu Job spørgsmål om Behemot og Livjatan==
+//6 at din højre hånd kan frelse dig.{H: Sl 98,1.}
 
 
-//4 v15 Se dog Behemot{H: 1 Mos 1,24.}{E: *bᵊhēmôt* (*behema*) opfattes som udtryk for et specielt stort dyr som Job formentlig har kendt.}
+==HERREN spørger Job ud om Behemot og Livjatan==
+
+
+//4 v15 Se dog Behemot{E: *bᵊhēmôt* (*behema*) opfattes her som udtryk for et specielt stort dyr som Job formentlig har kendt.}{H: Job 12,7.} 
+
 //10 som jeg dannede ligeså vel som dig!
 
-//9 Den spiser græs som oksen. 
+//9 Den æder græs som oksen. 
 
 //8 v16 Se dog, dens styrke er i dens lænder,
 
-//9 og dens kraft i dens bugmuskler!
+//9 og dens kraft er i dens bugs muskler!
 
-//7 v17 Den bøjer sin hale ned som et cedertræ,
+//7 v17 Den bøjer{E: *ḥfṣ*, som kun findes her, menes at kunne betyde >>gøre stiv<<. LXX og Syr understøtter dette. Men der findes et lignende arabisk ord der betyder >>bøje ned<<.} sin hale ned som et cedertræ,
 
 //8 senerne i dens lår er snoet sammen.
 
 //9 v18 Dens knogler er rør af bronze, 
 
-//10 dens lemmer som jernstænger.
+//10 dens lemmer som stænger af jern.
 
-//6 v19 Den er begyndelsen af Guds værker,{T: Ordret: >>veje<<.}
+***
+
+//6 v19 Den er den første af Guds værker,{T: Ordret: >>veje<<.}
 
 //10 han som dannede den,
-//9 rakte den dens sværd.{T: Flere mulige oversættelser: >>kan nærme sig den med sit sværd<< eller >>lad ham som dannede den, komme nær med sit sværd!<<.}
+//9 rakte den dens sværd.
 
-//8 v20 Selv bjergene bringer den føde,
+//8 v20 For bjergene bringer foder til den,
 
 //9 og alle markens vilde dyr leger der.
 
@@ -113,7 +119,7 @@ i et skjul af siv og sump.
 
 //10 poppeltræerne ved bækken omgiver den.
 
-//9 v23 Når bækken strømmer kraftigt,
+//9 v23 Selvom bækken strømmer kraftigt,
 //10 flygter den ikke.
 
 //11 Den er tryg
@@ -123,7 +129,9 @@ i et skjul af siv og sump.
 
 //9 kan nogen gennembore dens næse med snarer?
 
-//5 v25 Kan du trække Livjatan{T: Et søuhyre, måske en slags drage.}{H: Job 3,8. Sl 74,14; 104,26. Es 27.} op med en fiskekrog
+***
+
+//5 v25 Kan du trække Livjatan{T: Et søuhyre, en slags drage, nævnt i Es 27,1.}{H: Job 3,8. Sl 74,14.} op med en fiskekrog
 
 //8 eller holde dens tunge nede med et reb?
 
@@ -137,7 +145,7 @@ i et skjul af siv og sump.
 
 //10 v28 Mon den vil slutte en pagt med dig,
 
-//11 så du kan tage den som tjener{T: Eller >>slave<<.} for evigt?
+//11 så du kan tage den som tjener{N: Slave} for evigt?
 
 //8 v29 Kan du lege med den som med fuglen,
 
@@ -145,7 +153,7 @@ i et skjul af siv og sump.
 
 //10 v30 Vil parterne forhandle om prisen på den,
 
-//11 dele den blandt handelsmænd? 
+//11 vil de dele den blandt handelsmænd? 
 
 //9 v31 Kan du fylde dens hud med harpuner
 

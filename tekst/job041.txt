@@ -1,49 +1,49 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 41===
 
+==HERREN fortsætter beskrivelsen af Livjatan==
 
-==HERREN fortsætter med at beskrive den frygtindgydende Livjatan for Job==
 
+//0 v1 Ja, ens håb viser sig virkelig at være et bedrag,
 
-//0 v1 Ja, ens håb viser sig som bedrag.
+//1 falder man ikke også om ved synet af den?
 
-//1 I sandhed, overvældes man ikke bare ved synet af den?
-
-//4 v2 Ingen er så dumdristig{E: *ʔaxzor* betyder >>grusom<< når det anvendes om Gud i Job 30,21.}
+//4 v2 Ingen er så dumdristig{E: Eller >>modig<<. *ʔaxzor* betyder >>grusom<< når det anvendes om Gud i Job 30,21.}
 //5 at han vækker den.
 //3 Hvem er da han
 //5 som kan bestå for mit ansigt?
 
-//4 v3 Hvem kan kræve af mig{E: *hiqdîmanî*(*qdm*), >>konfrontere<<.}
-//6 at jeg skal gengælde?
+//4 v3 Hvem har givet mig noget først{E: *hiqdîmanî* (*qdm*) kan også betyde >>komme for at møde<<, >>konfrontere<<, >>forvente<<. Oversættelsen af hifilen er omdiskuteret.}
+//6 så at jeg skulle betale?
 
 //5 Hvad der er under hele himlen,
 //6 det er mit!
 
+***
+
 //2 v4 Jeg vil ikke tie om dens lemmer
 
-og omfanget af dens styrke og dens elegante form.{E: *ḥîn* findes kun her og opfattes som en variant af *ḥen* (>>ynde<<). *ʕērex* >>form/ydre<< kan også betyde >>værdi/egenskaber<< og oversættes >>usammenlignelige kraft<<.}
+og arten af dens styrke og ynden over dens kropsbygning.{E: *ḥîn* findes kun her og opfattes som en variant af *ḥen* (>>ynde<<). *ʕerkô* >>dens form/ydre<< kan også betyde >>dens værdi/egenskaber<< og oversættes >>usammenlignelige kraft<<.}
 
 //5 v5 Hvem kan fjerne dens ydre klædning,
 
-//7 i dens dobbeltkæber,{E: *resen* (>>kæbe<<, >>grime<<).} 
+//7 ind imellem dens dobbelte tandrækker{T: Eller >>ind i dens dobbelte panser<<.}{E: *risnô* betyder >>dens bidsel<<, men flere opfatter udtrykket som >>biddet<<, >>tandrækker<<, andre som indersiden af >>dens panser<<.} 
 //6 hvem kan komme ind der?
 
 //8 v6 Dens ansigts døre,
 //7 hvem kan åbne dem?
 
-//8 Omkring dens tænder er der rædsel.
+//8 Omkring dens tænder er der skræk. 
 
-//4 v7 En stolthed{E: *gaˀᵃwāʰ* (>>majestæt<<, >>stolthed<<). Med støtte i LXX og Vulgata ændrer de fleste *gaˀᵃwāʰ* til *gēwoʰ* (>>dens ryg<<).} er dens rækker af skjolde,
+//4 v7 En stolthed{E: *gaˀᵃwāʰ* (>>majestæt<<, >>stolthed<<) ændres med støtte i LXX og Vulgata af de fleste til *gēwoʰ* (>>dens ryg<<).} er dens rækker af skjolde,
 
-//7 lukket til med et segl så hårdt som flint.{E: *ṣār*, >>tæt<<, >>hårdt<<, >>flint<<.}
+//7 lukket til som et fast segl. 
 
-//7 v8 Det ene{T: skjold.} sidder så tæt på
-//6 det andet
+//7 v8 Det ene{T: Skjold.} sidder så tæt på det andet
+//6 
 
 //8 at der ikke kan komme luft mellem dem.
 
@@ -51,61 +51,65 @@ og omfanget af dens styrke og dens elegante form.{E: *ḥîn* findes kun her og 
 //7
 
 //8 og de griber ind i hinanden
-//9 og kan ikke skilles ad.
+//9 og skilles ikke ad.
 
 //5 v10 Dens nysen frembringer lys,
 
-//8 dens øjne er som morgenrødens øjenvipper.
+//8 dens øjne er som morgenrødens øjenvipper.{H: Job 3,9.}
 
-//7 v11 Fra dens mund strømmer{E: *yahᵃlōxû* Ordret: >>går<<. Den sjældne verbalform i qal i stedet for *yēlēxu* tolkes som udtryk for hurtigere bevægelser. Formen findes også i Job 14,20 og Job 16,22 hvor der tales om >>at gå bort til graven<<.} flammer,
+//7 v11 Fra dens mund strømmer{E: *yahᵃlōxû* Ordret: >>går<<. Den sjældne verbalform i qal i stedet for *yēlēxu* tolkes som udtryk for hurtigere bevægelser. Formen findes også i Job 14,20 og Job 16,22 hvor der tales om >>at gå bort til graven<<.} fakler,
 
 //9 gnister af ild fyger ud.
 
-//8 v12 Ud af dens næsebor kommer røg,
+//8 v12 Ud af dens næsebor kommer røg
 
-//9 som fra en gryde der koger, og fra siv.{E: *ʔagmôn* (>>siv<<) kan opfattes som brændsel eller som damp fra en sump med siv. Peshitta og Vulgata ændrer *ʔagmôn* til *ʔogem* (>>glødende<<) og oversætter >>en sydende og kogende gryde<<.}
+//9 som fra en gryde der koger, og fra siv.{E: *ʔagmôn* (>>siv<<) kan opfattes som brændsel eller som damp fra en sump med siv. Syr og Vulgata ændrer til *ʔogem* (>>glødende<<) og oversætter >>en sydende og kogende gryde<<.}
 
-//6 v13 Dens ånde{N: Sjæl.}{E: *nafšô* (>>dens ånde<<) kan her betyde >>dens raseri<<.} kan sætte kul i brand,
+//6 v13 Dens ånde{E: *nafšô* (>>dens ånde<<) kan her betyde >>dens raseri<<.} kan antænde kul,
 
 //10 og en flamme står ud af dens mund.
 
 //9 v14 I dens hals bor styrke,
 
-//10 og foran den danser fortvivlelse.{E: *dᵊʔāvāʰ* ændres af nogle  til *dᵊvāʔāʰ* (>>styrke<<, >>kraft<<), hvilket understøttes af Qumran Targum oversættelsen.}
+//10 og foran den danser forfærdelse.{E: *dᵊʔāvāʰ* findes kun her og ændres af flere, med støtte i LXX og Qumran Targum, til *dᵊvāʔāʰ* (>>styrke<<, >>kraft<<).} 
 
-//8 v15 De hængende dele af dens krop klæber sammen,
+//8 v15 Dens køds folder klæber sammen,
 
-//10 er som støbt til den
-//11 uden at bevæge sig.
+//10 de er som støbt på den,
+//11 de kan ikke bevæges.
 
-//9 v16 Dens hjerte{T: Eller >>bryst<<.} er hårdt som sten
+//9 v16 Dens hjerte{T: Eller >>bryst<<.} er støbt fast som sten
 
 //10 og støbt fast som den nederste møllesten.
 
-//7 v17 Når den rejser sig, frygter de mægtige mænd,
+***
 
-//10 i knugende rædsel{T: Ordret: >>knusende<<, >>brud<<.} trækker de sig tilbage.
+//7 v17 Når den rejser sig, frygter de mægtigste,
 
-//9 v18 Når en angriber den med sværd,
-//11 trænger det ikke ind,{T: Ordret: >>er det uden at det (sværdet) står op<<.}
+//10 Helt ødelagt af rædsel trækker de sig tilbage.
 
-//10 hverken spyd, pil eller lanse.
+//9 v18 Angriber man den med sværd,
+//11 bider det ikke på, 
 
-//8 v19 Den betragter jern som strå
+//10 hverken spyd, kastevåben eller lanse.
+
+//8 v19 Den betragter jern som strå 
 
 //12 og bronze som råddent træ.
 
 //11 v20 Ingen bues pil jager den på flugt.
 
-//12 Slyngens sten er som avner for den.
+//12 Slyngens sten forvandles til strå{H: Job 13,25.} for den.
 
-//10 v21 En kølle betragtes som en avne,
+//10 v21 En kølle betragtes som strå,
 
-//12 og den ler ad det dirrende sværd.
+//12 og den ler ad det dirrende krumsværd.
+
+***
 
 //11 v22 På undersiden af den er der de skarpeste skæl{T: Ordret: >>potteskår<<.} 
 
-//9 der efterlader spor som en tærskeslæde i mudder.
+//9 der efterlader spor i mudderet som en tærskeslæde.
 
 //10 v23 Den bringer det dybe hav i kog som en gryde,
 
@@ -117,8 +121,8 @@ og omfanget af dens styrke og dens elegante form.{E: *ḥîn* findes kun her og 
 
 //3 v25 Ingen på jord er dens lige,
 
-//6 den er dannet fuldstændig frygtesløs.
+//6 den er dannet til at være uden rædsel.{H: 1 Mos 9,2.} 
 
-//5 v26 Alt det ophøjede frygter{E: *yirʔeʰ* (*RʔH*) (>>ser<<) ændres af de fleste til *yira* (>>frygter<<).} den,
+//5 v26 Alt det ophøjede ser{E: *yirʔeʰ* (>>ser<<) ændres af de fleste til *yira* (>>frygter<<). Oversættelserne er ret forskellige.} han,
 
-//4 den er konge over alt stolt vildt.<<{T: Ordret: >>sønner af stolthed<<. Der er en dobbelthed i teksten, der kan oversættes >>Alt det ophøjede ser han(Gud), han er konge over alle stoltes børn<<.}
+//4 det er ham som er konge over alle stolte skabninger.<<{T: Ordret: >>alle sønner af stolthed<<.}{E: Der er en dobbelthed i teksten, idet >>han<< kan henføre til Livjatan. De fleste oversættelser vælger dette og oversætter >>den er konge over alle stolte dyr<<.} 

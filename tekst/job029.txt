@@ -1,15 +1,14 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 26.11.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 29===
-
 
 ==Job ser tilbage på den lykkeligste tid velsignet af Gud==
 
 
 //0 v1 Job fortsatte
-//2 sit belærende indlæg{H: Job 27,1; 13,12.} 
+//2 sit belærende indlæg{H: Job 27,1.} 
 //1 og sagde:
 
 //2 v2 >>Gid jeg havde det som i de tidligere måneder, som i de dage
@@ -18,21 +17,23 @@
 
 //7 v3 Da hans lampe skinnede over mit hoved,
 
-//6 gik jeg i mørket ved hans lys.
+//6 gik jeg i mørket{H: Job 3,4.} ved hans lys.
 
 //4 v4 Som jeg oplevede det i min ungdoms dage, 
 
-//5 hvilede Guds råd over mit telt. 
+//5 da Guds råd hvilede over mit telt. 
 
 //6 v5 Da den Almægtige stadig var ved min side,
 
-//8 var mine drenge omkring mig,
+//8 mine drenge var omkring mig,
 
-//7 v6 og jeg vadede i surmælk,
+//7 v6 da mine fodtrin var badet i surmælk,
 
-//9 og klippen hældte strømme af olie  ud til mig.
+//9 og klippen hældte strømme af olie ud til mig!
 
-//8 v7 Jeg gik ud til byens port
+***
+
+//8 v7 Da jeg gik igennem porten mod byen
 
 //9 og sikrede mig min plads på torvet.
 
@@ -46,57 +47,61 @@
 
 //11 og de holdt hånden for munden.
 
-//10 v10 De førende mænds røst blev stille,
+//10 v10 De ledende mænds røst forstummede,
 
 //11 og deres tunge klæbede til ganen.
 
-//7 v11 Når nogen hørte om mig,
-//9 kaldte de mig velsignet.{T: Eller >>priste de mig lykkelig<<.}{H: Job 29,13.}
+//7 v11 Ja, den der hørte mig,
+//9 kaldte mig velsignet.{T: Eller >>priste han mig lykkelig<<.}{H: Job 29,13.}
  
-//8 Når nogen så mig,
-//9 roste de mig,
+//8 Den der så mig,
+//9 roste mig,
 
-//6 v12 for jeg reddede den fattige
-//8 der råbte om hjælp,
+//6 v12 for jeg reddede den elendige{H: Job 24,4.}
+//8 der råbte om hjælp,{H: Job 19,7.}
 
 //9 og den faderløse
 //10 der ikke havde nogen til at hjælpe sig.
 
-//7 v13 Da kom ønsket om Guds velsignelse{T: Ordret: >>velsignelsen<<.}{H: Job 29,11.} over mig fra den modløse,
+//7 v13 Velsignelsen{H: Job 29,11.} fra den der var ved at gå til grunde, kom over mig,
 
-//8 og jeg fik enkens hjerte til at juble af glæde.
+//8 og enkens hjerte fik jeg til at juble.
 
 //5 v14 Jeg iklædte mig retfærdighed, 
-//8 og den var min klædning,{T: Ordret: >>den iklædte sig mig<<.}
+//8 og den var min klædning, 
 
-//7 som en kappe og en turban var min ret.{H: 2 Mos 29,5-6.}
+//7 som en kappe og en turban var min ret.{H: Job 13,18.}
 
-//8 v15 Jeg var øjne for den blinde
+//8 v15 Jeg var øjne for den blinde,
 
-//10 og fødder for den lamme, det var jeg.
+//10 og jeg var fødder for den lamme.
 
-//9 v16 Jeg var far for de nødlidende,
+//9 v16 Jeg var far for de fattige,
 
 //10 og den sag 
 //13 jeg ikke kendte,
 //12 undersøgte jeg nøje.
 
-//11 v17 Jeg knuste kæberne på forbryderen{H: Job 18,21; 27,7.}
+//11 v17 Jeg knuste kæberne på forbryderen{H: Job 18,21.}
 
 //12 og rev byttet fra hans tænder.
 
-//6 v18 Og jeg tænkte ved mig selv:
-//7 >Sammen med min rede{T: Min familie.}{H: 5 Mos 32,11. Es 16,2.} skal jeg udånde,{H: Job 3,11.}
+***
 
-//9 og mine dage vil jeg gøre så talrige som sandet.{H: Job 6,3.}
+//6 v18 Jeg sagde:
+//7 >Med min rede{T: Min familie.} vil jeg udånde, 
 
-//8 v19 Min rod bliver åbnet for vand,
+//9 og mine dage vil jeg gøre så talrige som sandet.{E: *xaḥôl* (>>som sand<<) oversættes i LXX med >>som palmetræet<<, men det kan også oversættes >>som (fugl) Føniks<<, som findes i rabbinske skrifter.} 
 
-//10 og duggen ligger hele natten på min gren. 
+//8 v19 Min rod åbner sig for vand,
+
+//10 og duggen vil overnatte på min gren. 
 
 //9 v20 Jeg bliver ved med at blive æret,
 
-//10 og min bue spændes igen og igen i min hånd.<
+//10 og min bue fornyes i min hånd.<
+
+***
 
 //4 v21 De lyttede 
 //6 forventningsfuldt til mig,
@@ -105,19 +110,19 @@
 
 //5 v22 Efter min tale tog de ikke til genmæle,
 
-//8 mit ord faldt som dråber på dem.
+//8 mit ord dryppede ned over dem.
 
-//7 v23 De ventede på mig{H: Job 29,21.} som på regnen,
+//7 v23 De ventede på mig som på regnen,
 
-//8 deres mund åbnede de vidt op for forårsregnen.
+//8 deres mund åbnede de vidt op som for forårsregnen.
 
 //6 v24 Når jeg smilede til dem,
-//8 kunne de ikke tro mig,
+//8 kunne de ikke tro det,
 
 //7 og de gjorde mig ikke misfornøjet.{T: Ordret: >>de fik ikke mit ansigts lys til at falde/slukkes<<.}
 
 //6 v25 Jeg valgte vejen for dem,
-//7 og jeg sad som deres overhoved,
+//7 og sad som deres overhoved,
 
 //8 jeg boede som en konge blandt troppen af krigere{H: Job 19,12.}
 //9 og var som en der trøster de sørgende.

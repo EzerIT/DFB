@@ -1,29 +1,27 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.12.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 39===
-
 
 ==HERREN fortsætter med at stille Job spørgsmål, nu om dyrene==
 
 
-//0 v1 Kender du tidspunktet for hvornår stenbukke skal føde?
+//0 v1 Kender du tidspunktet for hvornår stenbukkene føder?
 
-//4 Holder du øje med når hinder er i fødsel?
+//4 Holder du øje med hvornår hinderne er i fødsel?
 //3
 
 //3 v2 Tæller du månederne
 //5 de er drægtige,
 
 //4 og kender du tidspunktet for 
-//5 hvornår de føder,
+//5 hvornår de føder?
 
-//2 v3 hvornår de bøjer sig sammen,
+//2 v3 De bøjer sig sammen,
 //4 lader deres unger bryde igennem
 
-//5 og føder deres afkom?{E:* ḥēvel* (>>afkom<<), kan også betyde >>vesmerter/veer<<. Derfor oversætter flere >>bliver fri for deres smerter/veer<<.} 
+//5 og føder deres afkom.{E:* ḥēvel* (>>afkom<<) kan også betyde >>veer<<. Derfor oversætter flere >>bliver fri for veer<<.} 
 
 //3 v4 Deres unger bliver stærke,
 //4 de vokser op ude på marken,
@@ -31,30 +29,34 @@
 //5 de går ud,
 //6 men vender ikke tilbage til dem.
 
-//1 v5 Hvem har sluppet vildæslet fri, 
+***
+
+//1 v5 Hvem har sluppet vildæslet fri,
 
 //5 og 
-//7 vildæslets lænker,
+//7 det vilde æsels lænker,
 //6 hvem har løst dem?
 
-//4 v6 Derfor har jeg givet den steppen som sit hjem,
+//4 v6 Det har jeg givet steppen som sit hjem
 
-//5 og saltørkenen som dens boliger.
+//5 og saltørkenen som dets boliger.
 
-//3 v7 Den ler ad byens larm,
+//3 v7 Det ler ad byens larm.
 
-//5 og den hører ikke driverens råb.
+//5 Det hører ikke driverens råb.
 
-//4 v8 Den strejfer omkring{E:*yᵊtûr* (>>undersøge<<) ændres af de fleste til *yatûr* (>>færdes<<, >>strejfe omkring<<).} på bjergene efter sit græsningsområde
+//4 v8 Det strejfer omkring{E:*yᵊtûr* (>>undersøge<<) ændres af de fleste til *yatûr* (>>færdes<<, >>strejfe omkring<<).} på bjergene efter sin græsgang,
 
-//5 og søger her og der efter alt grønt.
+//5 og det søger efter alt det grønne.
 
-//2 v9 Er vildoksen villig til
+***
+
+//2 v9 Mon vildoksen har lyst til
 //5 at tjene dig?
 
 //4 Vil den overnatte ved din krybbe?
 
-//3 v10 Kan du binde vildoksen til furen med reb?
+//3 v10 Kan du med dens reb binde vildoksen til furen?
 
 //7 Vil den harve dalene efter dig?
 
@@ -64,17 +66,19 @@
 //7 og overlade dit arbejde til den?
 
 //6 v12 Kan du tro på den
-//7 at den vil bringe dit korn tilbage
+//7 at den vil bringe dit korn hjem
 
 //8 og samle det ind til din tærskeplads?
 
-//5 v13 Strudsens{E: *rᵊnānîm* betyder >>skingrende råb<< og henviser til strudsens skrig. *yaʕᵃnāʰ* (>>struds<<) i Job 30,29 er det almindeligt anvendte ord i GT. } vinge flakser glad,
+***
 
-//9 er det mon svingfjer fra storken eller falken?{E: *nōṣāʰ* (>>fjer<<, >>fjerdragt<<) ændres af flere til *niṣṣā* (>>falk<<) som her. Den ordrette oversættelse er >>er det storkens vinge og fjer/fjerdragt?<<.}
+//5 v13 Strudsens{E: *rᵊnānîm* betyder >>skingrende råb<< og henviser til strudsens skrig. *yaʕᵃnāʰ* (>>struds<<) i Job 30,29 er det almindeligt anvendte ord i GT.} vinge flakser livligt,
+
+//9 er det mon svingfjer fra storken eller falken?{E: *nōṣāʰ* (>>fjer<<, >>fjerdragt<<) ændres af flere til *niṣṣā* (>>falk<<) som her. Ellers vil oversættelsen være: >>er det storkens vinge og fjer/fjerdragt?<<.}
 
 //8 v14 For den efterlader sine æg på jorden
 
-//9 og lader dem blive holdt varme i den løse jord,
+//9 og lader dem blive holdt varme i støvet,
 
 //10 v15 men den glemmer
 //11 at en fod kan træde det i stykker,
@@ -86,15 +90,16 @@
 
 //8 uden skælven for at dens slid kan være forgæves.
 
-//9 v17 For Gud lader den glemme visdom,
+//9 v17 For Gud har ladet den glemme visdom,
 
-//10 og han har ikke givet den del i indsigt.
+//10 og han har ikke givet den del i indsigt.{H: Job 38,4.}
 
-//6 v18 Så snart
-//8 den flakser højt,{T: Kan være et udtryk for høj fart, da
-en studs ikke kan flyve.} 
+//6 v18 Lige så snart
+//8 den suser afsted, flaksende højt,{T: Kan være et udtryk for høj fart, da en struds ikke kan flyve.} 
 
 //7 ler den ad hesten og dens rytter.
+
+***
 
 //4 v19 Kan du give hesten styrke, 
 
@@ -102,33 +107,35 @@ en studs ikke kan flyve.}
 
 //8 v20 Kan du få den til at springe som græshoppen?
 
-//6 Dens majestætiske prusten vækker rædsel. 
+//6 Dens majestætiske prusten vækker skræk.
 
 //7 v21 De skraber i dalen,
 //9 og den fryder sig ved sin kraft,
 
-//8 den drager ud
+//8 den farer frem 
 //9 for at møde våben.
 
 //8 v22 Den ler ad rædslen
-//11 og forfærdes ikke,
+//11 og bliver ikke skrækslagen,{H: Job 7,14.}
 
-//11 og den vender ikke om på grund af sværd.
+//11 og vender ikke om på grund af sværdet.
 
-//10 v23 På den klirrer kogger,
+//10 v23 Over den klirrer kogger,
 
- blinkende spyd og sværd.
+ blinkende spyd og krumsværd.
 
-//9 v24 I voldsom vildskab galoperer den afsted{T: Ordret: >>sluger den jorden<<.}
+//9 v24 Med gungren og i vildskab sluger den vejen,
 
 //10 og den står ikke stille{T: Ordret: >>den tror ikke på det<<.}
-//11 selvom hornet lyder.
+//11 når hornet lyder.
 
-//9 v25 Så snart hornet lyder, siger den: 
+//9 v25 Så snart hornet høres, siger den: 
 
-//11 >Hui<
+//11 >Hui!<
 
-//10 På lang afstand vejrer den krig, officerers råben{T: Ordret: >>torden<<.} og krigslarm.
+//10 På lang afstand vejrer den krig, officerers tordenrøst og krigslarm.
+
+***
 
 //5 v26 Er det på grund af din indsigt at høgen hæver sig
 
@@ -136,17 +143,17 @@ en studs ikke kan flyve.}
 
 //7 v27 Er det på din befaling at ørnen flyver højt,
 
-//8 og at den anbringer sin rede højt oppe,
+//8 og at den bygger sin rede højt oppe?
 
-//6 v28 slår sig ned på en klippe
+//6 v28 Den bor på en klippe,
 
-//9 og opholder sig på en klippespids eller et utilgængeligt sted?
+//9 og opholder sig om natten på en klippespids eller en bjergfæstning. 
 
 //8 v29 Derfra søger den efter føde,
 
-//9 på lang afstand får den øje på det.
+//9 på lang afstand spejder dens øjne efter det.
 
 //7 v30 Dens unger drikker blod,
 
-//8 og hvor noget er dræbt,{T: Ordret: >>vanhelliget<<.}
+//8 og hvor nogen er slået ihjel,
 //9 der er den.<<

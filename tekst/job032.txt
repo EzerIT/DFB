@@ -1,84 +1,86 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.11.2024>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 ===Jobs bog, kapitel 32===
 
-==Elihu bliver rasende på de tre venner og Job==
+==Elihus første tale er hans begrundelse for at tale==
 
 //0 v1 Da holdt disse tre mænd op
 //2 med at svare Job,
-//3 fordi han i egne øjne var retfærdig.{T: Kan også oversættes >>var uskyldig<<.}{H: Job 9.2.}
-//1 v2 Og Elihu, søn af Barak’el fra Buz,{H: 1 Mos 22,21.} af Rams slægt blev rasende.{H: Job 19,11}.
+//3 fordi han i egne øjne var retfærdig.{H: Job 9.2.}
+//1 v2 Og Elihu,{T: Elihu betyder >>han er min Gud<<, og Barak’el betyder >>Gud har velsignet<<.} søn af Barak’el fra Buz,{H: 1 Mos 22,21.} af Rams{H: 1 Krøn 2,9. Ruth 4,19.} slægt blev rasende.{H: Job 19,11.}
 //4 På Job blev han rasende
-//6 fordi han gjorde sig selv{N: Sjæl.} mere retfærdig end Gud,{E: Kan også oversættes >>anså sig selv for at kunne få ret fra Gud<<. LXX forstår ikke præpositionen *min* som komparativ og oversætter i stedet  >>havde ret over for Gud<<.}{H: Job 4,17; 9,2.}
+//6 fordi han gjorde sig selv{N: Sjæl.} mere retfærdig end Gud,{E: Kan også oversættes >>anså sig selv for at kunne få ret fra Gud<<. LXX forstår ikke præpositionen *min* som komparativ og oversætter i stedet >>havde ret over for Gud<<.}{H: Job 4,17; 9,2; Job 34,5.}
 //5 v3 og på hans tre venner blev han rasende,
 //6 fordi de ikke kunne finde et svar,
-//7 men alligevel dømte Job skyldig.{H: Job 9,20.}
-//3 v4 Men Elihu havde ventet på at Job blev færdig med sit indlæg,
-//4 for de andre var ældre end ham.
+//7 og alligevel dømte Job skyldig.{H: Job 9,20.}
+//3 v4 Elihu havde ventet på{H: Job 3,21.} at Job blev færdig med talen,{E: *bidvārîm* >>med ordene (talen)<< omvokaliseres af flere til *bᵊdavvᵊrām* >>mens de talte (med Job)<<.}
+//4 for de var ældre i alder end ham.
 //2 v5 Da Elihu så
-//4 at der ikke var noget svar i de tre mænds taler,{T: Ordret >>mund<<.}
+//4 at de tre mænd ikke havde noget svar at komme med, 
 //3 blev han rasende.
 
 
-==Elihu taler til Jobs venner og konkluderer at Gud må gendrive Job==
+==Elihu taler til Jobs venner==
 
 
 //2 v6 Da svarede Elihu, Barak’els søn, fra Buz
 //3 :
 
-//4 >>Jeg er i en ung alder,{T: Ordret: >>yngre/yngst med hensyn til dagene<<.}
+//4 >>Jeg er i en ung alder, 
 
-//8 men I er ældre mænd,
+//8 og I er ældre mænd,
 
-//7 derfor holdt jeg mig frygtsomt tilbage,
+//7 derfor holdt jeg mig ængsteligt tilbage,
 //10 og jeg var bange for
 
-//11 at dele min forståelse.
+//11 at oplyse jer om min viden.{H: Job 32,10.17.}
 
 //9 v7 Jeg tænkte:
 //10 >Lad alderen tale,
 
-//12 og lad de mange år kundgøre visdom!<
+//12 og lad de mange år formidle{H: Job 26,3.} visdom!<
 
 //11 v8 Dog,
 //12 ånden,{N: Ånd.} den er i mennesket,
 
-//14 og den Almægtiges åndedræt{H: Job 4,9.} skal give dem indsigt. 
+//14 og den Almægtiges åndedræt{H: Job 4,9.} giver dem indsigt. 
 
-//13 v9 Det er ikke de mange som er vise,
+//13 v9 Det er ikke de ældste{T: Ordret: >>de talrige<< (i år).} som er vise,
 
-//14 eller de gamle der forstår hvad der er ret.
+//14 og heller ikke de gamle der forstår hvad der er ret.
 
 //8 v10 Derfor siger jeg:
 //9 >Hør på mig,
 
-//10 også jeg vil dele min forståelse.<
+//10 også jeg vil oplyse jeg om min viden.<
 
-//6 v11 Da jeg ventede på jeres ord,
+***
 
-//8 lagde jeg øre til jeres indsigt
+//6 v11 Ja, jeg ventede{H: Job 6,11.} på jeres ord,
 
-//9 indtil I fik tænkt jer frem til ordene. 
+//8 lagde øre til jeres indsigt{H: Job 12,12.}
 
-//7 v12 Og jeg har forsøgt at forstå jer,
+//9 indtil I fik tænkt jer frem{H: Job 5,27.} til ordene. 
+
+//7 v12 Jeg har været meget opmærksom på at forstå jer,
 
 //10 men se,
 //11 der var ingen 
 
-//13 som kunne bevise at Job tog fejl.{H:Job 5,17.} 
+//13 som kunne bevise at Job tog fejl. 
 
-//14 Ingen kunne svare på hans tale,
-//12
+//14 Svare på hans tale
+//12 kunne ingen af jer.
 
-//9 v13 medmindre I siger: 
-//10 >Vi har opnået visdom:
+//9 v13 Sig nu ikke: 
+//10 >Vi har fundet visdom,
 
-//11 Lad Gud gendrive ham,{E: *yiddᵊfennû* (>>drive bort<<), her i overført betydning >>overvinde<<, >>tilbagevise<<, >>gendrive<<.}
-//12 og ikke et menneske!<
+//11 Gud skal gendrive ham,
+//12 ikke et menneske!<
 
-//8 v14 Men han har ikke fremlagt sagen for mig,
+//8 v14 Men han har ikke fremlagt{H: Job 23,4.} sagen{T: Ordret: >>ordene<<.} for mig,
 
 //9 og jeg vil ikke svare ham med jeres ord.
 
@@ -86,22 +88,22 @@
 ==Elihu taler nu direkte til Job==
 
 
-//5 v15 De er blevet forfærdede,
+//5 v15 De er grebet af rædsel,{H: Job 7,14.}
 //8 de kunne ikke længere svare,
 
 //7 ordene er blevet borte for dem.
 
-//6 v16 Jeg ventede på dem.
-//8 Men fordi de ikke taler, 
+//6 v16 Skal jeg vente
+//8 fordi de ikke taler, 
 
-//9 fordi de stod 
-//10 og ikke svarede længere, 
+//9 fordi de står der,
+//10 og ikke svarer længere? 
 
-//7 v17 vil jeg også svare med mit bidrag,{E:*ḥēleq* >>portion, andel<<.}
+//7 v17 Også jeg for min del vil give mit svar.
 
-//7 også jeg vil dele min forståelse,
+//7 også jeg vil oplyse jer om min viden.
 
-//11 v18 for jeg er fuld af ord,
+//11 v18 For jeg er fuld af ord,
 
 //12 ånden{N: Ånd.}{H: Job 32,8.} i mit indre{H: Job 15,2.} trænger sig på.
 
@@ -123,4 +125,4 @@
 //10 v22 for jeg forstår mig ikke
 //11 på at smigre,
 
-//12 for min skaber ville hurtigt tage mig væk.{E: I teksten er der et ordspil på verbet *nśʔ* (>>løfte op<<), som i vers 21 indgår i en fast vending om >>at tage parti for<<, men her om >>at løfte op (og fjerne)<< ligesom i 1 Mos 40,20.}.{H: Job 27,8.}
+//12 for min skaber ville hurtigt tage mig væk.{E: I teksten er der et ordspil på verbet *nśʔ* (>>løfte op<<), som i vers 21 indgår i en fast vending om >>at tage parti for<<, men her om >>at løfte op (og fjerne)<<. ligesom i 1 Mos 40,20-22.}{H: Job 27,8.}

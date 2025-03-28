@@ -1,54 +1,56 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.02.2025>!!
+!!<Dato for denne version: 28.03.2025>!!
 
 
 ===Jobs bog, kapitel 38===
 
-
-==HERREN åbenbarer sig ved at tale til Job ud fra stormen==
+==HERREN taler til Job ud fra stormen==
 
 
 //0 v1 Da svarede HERREN Job ud fra stormen
-//1 :
+//1 :{H: 2 Mos 19,9.16-21.}
 
-//2 v2 >>Hvem er det der formørker råd 
+//2 v2 >>Hvem er det der formørker{H: Job 3,9.} råd 
 
-med ord uden forstand?
+med ord uden forstand?{T: Der er i Job 38 en del sammenfald med Job 3 men med modsat fortegn, idet henvisningerne til Job 3 er glæde over døden.}
 
 //3 v3 Bind op om dine lænder som en mand, 
 
 //6 så vil jeg spørge dig,
-//5 og du skal belære mig!
+//5 og belær du mig! 
+
+***
 
 //4 v4 Hvor var du,
-//8 da jeg grundlagde jorden?
+//8 da jeg lagde jordens fundament?
 
 //7 Fortæl mig det,
 //8 hvis du har indsigt!
 
 //6 v5 Hvem har bestemt målene for den, 
-//9 hvis du ved det?
+//9 for det ved du vel?
 
-//8 Eller hvem spændte målesnoren ud over den?
+//8 Eller hvem har spændt målesnoren ud over den?
 
-//7 v6 Hvad blev dens sokler anbragt på,
+//7 v6 Hvad er dens sokler sænket ned i,
 
-//8 eller hvem lagde dens hjørnesten
+//8 eller hvem har lagt dens hjørnesten
 
-//10 v7 da morgenstjernerne sammen jublede,
+//10 v7 da morgenstjernerne{H: Job 3,9.} sammen jublede, 
 
-//11 og alle Guds sønner råbte af glæde?
+//11 og alle Guds sønner råbte af glæde?{H: Job 3,7.22.}
 
-//9 v8 Og hvem spærrede havet inde med døre
+***
 
-//11 da det væltede frem 
+//9 v8 Hvem spærrede havet inde med døre
+
+//11 da det brød frem 
 //12 og kom ud af livmoderen,
 
-//10 v9 da jeg gjorde skyen til dets klædning
+//10 v9 da jeg gjorde skyen{H: Job 26,8} til dets klædning
 
-//12 og tæt mørke{T: Ordret: >>mørk sky<<.} til dets svøb,
+//12 og den mørke sky{H: Job 22,13.} til dets svøb,
 
 //11 v10 da jeg afstak min grænse{T: Ordret: >>brækkede min lov/bestemmelse<<. Lignende udtryk er >>skære en pagt<< (slutte en pagt) som findes i Job 31,1.} for det
 
@@ -58,107 +60,122 @@ med ord uden forstand?
 //12 >Hertil må du komme
 //14 og ikke længere!
 
-//13 Her er der sat en grænse for dine høje bølger.<
+//13 og her er der sat en grænse for dine stolte bølger?<
+
+***
 
 //5 v12 Har du i dine dage givet befaling til morgenen,
 
-//9 har du vist morgenrøden dens sted,
+//9 har du anvist morgenrøden{H: Job 3,9.} dens sted,
 
 //10 v13 så den kan gribe fat i jordens hjørner,
 
-//11 og de ugudelige rystes bort fra den?
+//11 så de ugudelige rystes bort fra den?
 
-//8 v14 Den ændrer sig ligesom leret under et segl, 
+//8 v14 Den forvandles ligesom leret under et segl, 
 
-//10 og det hele{T: Ordret: >>de<<.} træder frem som en klædning.
+//10 og det hele træder frem som en klædning.
 
-//9 v15 De ugudelige fratages deres lys,
+//9 v15 De ugudelige fratages deres lys,{H: Job 3,17.}
 
-//10 og den løftede arm brækkes.
+//10 og den løftede arm sønderbrydes.
+
+***
 
 //7 v16 Er du kommet til havets kilder,
 
 //10 og har du vandret omkring i urdybets{H: 1 Mos 1,2.} dybder?
 
-//9 v17 Har dødens porte åbnet sig for dig,
+//9 v17 Er dødens porte blevet afsløret for dig,{H: Job 3,11.16.21.}
 
-//10 eller kan du se portene ind til det dybe mørke?
+//10 eller har du set portene ind til dødsskyggen?{H: Job 3,5.}
 
-//8 v18 Har du indsigt i jordens udbredelse?
+//8 v18 Har du indsigt i jordens bredder?
 
 //6 Fortæl det,
 //8 hvis du kender det alt sammen!
 
-//7 v19 Hvor er det vejen er til der
+***
+
+//7 v19 Hvor er det vejen er, til der
 //11 hvor lyset bor,
 
-//10 og mørket,
+//10 og mørket,{H: Job 3,4.}
 //11 hvor er det dets sted er,
 
-//12 v20 så du kan bringe det til dets plads,{T: Eller >>grænse<<.}
+//12 v20 at du kan bringe det til dets område,
 
-//13 eller du kan kende stierne til dets hus?
+//13 og at du kan kende stierne til dets hus?
 
 //9 v21 Du ved det,
-//10 for du var født dengang, 
+//10 for du blev født dengang,{H: Job 3,1.} 
 
 //11 og dine dages tal er stort!
 
+***
+
 //8 v22 Er du kommet til sneens forrådskamre,
 
-//10 eller har du set haglenes forrådskamre
+//10 ja, har du set haglenes forrådskamre
 
 //9 v23 som jeg har gemt til trængselstid,
 
 //10 til kampens og krigens dag?
 
+***
+
 //7 v24 Hvor er det vejen er,
 //10 hvor lyset deler sig,
 
-//11 og østenvinden spreder sig over jorden?
+//11 hvor østenvinden spreder sig over jorden?
 
-//9 v25 Hvem har kløvet en kanal til regnskyl
+//9 v25 Hvem har brudt en kanal til regnskyl
 
-//13 eller en vej for lyn og torden{T: Eller >>tordenskrald<<.}{H: Job 28,26.}
+//13 og en vej for tordenen og lynene{H: Job 28,26.}
 
-//12 v26 for at lade det regne på jord
+//12 v26 for at lade det regne på jorden
 //14 hvor der ikke er nogen,
 
 //13 i en ørken 
-//14 hvor der ikke er et menneske,
+//14 hvor der intet menneske er,
 
 //11 v27 for at mætte det øde og ødelagte land
 
-//12 og få græsset til at spire frem?
+//12 og få græsset til at spire frem? 
+
+***
 
 //10 v28 Har regnen en far?
 
 //12 Eller hvem har avlet duggens dråber?
 
-//11 v29 Fra hvis livmoder er isen kommet ud,
+//11 v29 Fra hvis skød er isen kommet ud,
 
-//13 og himlens rimfrost,
+//13 og rimfrosten fra himlen,
 //14 hvem har født den?
 
-//12 v30 Vand bliver hårdt{T: Ordret: >>skjules<<.} som sten,
+//12 v30 Vandet holder sig skjult som var det sten,
 
-//13 og urdybets overflader fryser til!{T: Ordret: >>vælder op og klæber sammen<<.}
+//13 og urdybets overflade fryser til! 
 
-//8 v31 Kan du binde Syvstjernens{T: Også kaldet >>plejader<<.}{H: Job 9,9.} lænker,
+***
+
+//8 v31 Kan du binde Syvstjernens{H: Job 9,9.} lænker,
 
 //9 eller kan du løse Orions bånd?
 
-//8 v32 Kan du lade stjernebilleder{T: Eller >>stjerner<<.} komme frem til deres tid,
+//8 v32 Kan du lade dyrekredsens stjerner{H: 2 Kong 23,5.} komme frem til deres tid,
 
-//11 eller Løven{T: Stjernebillede.}{H: Job 9,9.} med dens unger,
-//12 kan du lede dem?
+//11 og Løven{H: Job 9,9.} med dens unger,
+//12 kan du føre dem frem?
 
-//10 v33 Kender du himlens{T: Hebraisk har intet ord for univers.}
-forordninger,
+//10 v33 Kender du himlens love,
 
-//11 eller kan du bestemme dets herredømme{T: Ordret: >>dets skrift<<.} over jorden?
+//11 eller kan du bestemme dens herredømme{T: Ordret: >>dens(himlens) skrift<<, dvs. stjernerne.} over jorden?
 
-//9 v34 Kan du løfte din røst til skydækket{H: Job 20,6.}
+***
+
+//9 v34 Kan du hæve din røst til skyerne{H: Job 20,6.}
 
 //11 så en strøm af vand dækker dig?
 
@@ -166,25 +183,28 @@ forordninger,
 //13 så de farer afsted
 
 //13 og siger til dig: 
-//14 >Her er vi?<
+//14 >Her er vi<?
 
-//12 v36 Hvem har lagt visdom i hjertet,{E: *vaṭuḥôt* (>>i de indre dele<<, >>nyrer<<). >>Ibisfuglen<< og >>skyer<< er også foreslået.}
+//12 v36 Hvem har lagt visdom i hjertet,
 
-//14 eller hvem har givet indsigt til tanken?{E: *śexwî*, >>tanke<< eller  >>hane<< eller >>tåge<<.} 
 
-//13 v37 Hvem kan tælle skyerne med visdom?
+//14 eller hvem har givet indsigt{H: Job 28,12.} til tanken?{T: Eller  >>ibis<<, >>hane<<, >>tåge<<. Da ordet kun findes her, er der mange forslag.} 
+
+//13 v37 Hvem kan tælle skyerne{H: Job 35,5.} med visdom?
 
 //15 Og 
 //17 himlens vandkrukker,
-//16 hvem kan vælte dem,
+//16 hvem kan tømme dem,
  
-//14 v38 når støv er presset sammen til den hårde masse,
+//14 v38 så støv flyder sammen til den hårde masse,
 
-//15 eller jordknolde hænger sammen?
+//15 og jordknolde hænger sammen?
+
+***
 
 //11 v39 Kan du jage bytte til løvinden
 
-//13 og stille unge løvers sult,
+//13 og stille unge løvers sult
 
 //14 v40 når de kryber sammen i hulerne,
 
@@ -192,6 +212,6 @@ forordninger,
 
 //12 v41 Hvem skaffer ravnen dens føde,
 
-//13 når dens unger råber til Gud om hjælp
+//13 når dens unger skriger{H: Job 30,20.} til Gud,
 
-//14 og flakser omkring uden føde?
+//14 flakser omkring uden føde?
