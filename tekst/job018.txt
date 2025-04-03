@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 18===
 
@@ -11,7 +11,7 @@
 //0 v1 Da svarede Bildad fra Shua
 //1:
 
-//2 v2 >>Hvornår vil I holde op{E: *qinṣê* betyder >>ende<<, men kan også betyde >>snare<< eller >>net<<. En anden mulig oversættelse er derfor: >>Hvor længe vil I sætte fælder med jeres ord?<< Sml. Job 18,8-10.} med jeres ord<<?
+//2 v2 >>Hvornår vil I holde op{E: *qinṣê* betyder >>ende<<, men kan også betyde >>snare<< eller >>net<<. En anden mulig oversættelse er derfor: >>Hvor længe vil I sætte fælder med jeres ord?<< Sml. Job 18,8-10.} med jeres ord?
 
 //5 I må forstå, 
 //6 og derefter kan vi tale. 
@@ -19,6 +19,8 @@
 //4 v3 Hvorfor bliver vi betragtet som kvæg?
 
 //6 Vi regnes for dumme{T: Ordret: >>urene<<.} i jeres øjne.
+
+***
 
 //5 v4 Du der sønderriver dig selv{N: Sjæl} i din vrede,
 
@@ -64,7 +66,7 @@
 
 //9 v13 Dele{E: *baddê* (>>lemmer af<<, >>dele af<<) ændres af nogle til *bidway* (>>af sygdom<<) og oversætter >>hans hud ædes op af sygdom<<.} af hans hud skal den fortære, 
 
-//10 hans lemmer skal den fortære, dødens førstefødte<<. 
+//10 hans lemmer skal den fortære, dødens førstefødte. 
 
 //10 v14 Han rives bort fra sit telt, hans tillid,{H: Job 8,14.}
 
@@ -100,3 +102,4 @@
 
 //6 og det er et sted
 //7 hvor man ikke kender Gud.<<
+

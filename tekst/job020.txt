@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 20===
 
@@ -34,7 +34,7 @@
 
 //6 v6 Selvom hans ophøjethed nåede helt op til himlen,
 
-//9 og hans hoved rørte ved skydækket,
+//9 og hans hoved rørte ved skyen,{E: *ʕāv* >>sky<< i almindelighed. I Jobs bog optræder 4 forskellige ord for >>sky<<.}
 
 //8 v7 ville han som sin egen afføring gå til grunde for evigt.
 
@@ -151,3 +151,4 @@ floder af honning og surmælk,{H: 2 Mos 3,8.}
 //5 v29 Det er den lod det ugudelige menneske tildeles af Gud,
 
 //6 den arv der er bestemt for ham af Gud.<<{H: Job 19,29; 27,13.}
+

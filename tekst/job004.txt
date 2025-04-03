@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 4===
 
@@ -49,7 +49,7 @@
 //8 Og hvor er retskafne blevet udryddet?{H: Job 22,20.}
 
 //7 v8 Sådan som jeg selv har set,
-//6 vil de som pløjer ondskab og sår lidelse,{H: Job 5,6.} selv komme til at høste den.
+//6 vil de som pløjer ondskab{E: *ʔāwen* kan også oversættes >>uret<<.} og sår lidelse,{H: Job 5,6.} selv komme til at høste den.
 
 //7 v9 De omkommer ved Guds åndepust{E: *nᵊšāmāʰ* betyder >>åndedræt<<, der afhængig af konteksten også kan oversættes med >>ånd<< eller >>ånde<<. Der kan derfor forekomme sammenfald i oversættelsen med *rûₐḥ* der betyder >>ånd<<.}{H: 1 Mos 2,7. Job 33,4; 26,4; 37,10.} 
 
@@ -115,3 +115,4 @@ kan løveungernes tænder være knust.{T: Verbet, her >>knuse<< og >>smadre<< i 
 
 //18 De dør,
 //19 og det uden visdom!
+

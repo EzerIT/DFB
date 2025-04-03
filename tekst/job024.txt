@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 24===
 
@@ -64,6 +64,8 @@
 
 //6 men Gud anklager dem ikke for en ugerning.{E: *tiflāʰ* (>>ugerning<<). Peshitta og nogle håndskrifter ændrer vokaliseringen til *tᵊfillāʰ* (>>bøn<<).}{H: Job 1,22.}
 
+***
+
 //4 v13 Det er dem der gør oprør mod lyset, 
 
 //6 de kender ikke dets veje
@@ -105,7 +107,7 @@
 
 //10 v19 Tørke såvel som hede fjerner sneens vand,
 
-//11 ligesom dødsriget{T: Her synonym for graven.}{N: Sheol.} 
+//11 ligesom dødsriget{T: Her synonym for døden/graven.}{N: Sheol.} 
 //12 fjerner dem der har syndet. 
 
 //9 v20 Livmoderen glemmer ham,
@@ -114,14 +116,16 @@
 
 //10 han huskes ikke længere,
 
-//11 og uretten{H: Job 5,16.} blev brudt som træ.
+//11 og uretten{H: Job 5,16.} knækkes som træ.
 
 //8 v21 Han er ond mod den ufrugtbare
 //12 der ikke føder,
 
 //11 og mod enken handler han ikke godt.
 
-//12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige i live med sin magt.
+***
+
+//12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige live.{E: *māšax* >>gribe, rive bort<<. Oversættelsen >>holde i live<< er her valgt ud fra sammenhængen, men flere vælger oversættelsen >>Gud river de mægtige bort<<.} med sin magt.
 
 //10 Han rejser sig
 //11 men så kan den mægtige{T: Ordret: >>han<<.} ikke stole på sit liv.
@@ -143,3 +147,4 @@
 //2 hvem kan da gøre mig til en løgner
 
 //3 og gøre mine ord til intet?<<
+

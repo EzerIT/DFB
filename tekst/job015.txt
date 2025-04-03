@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 15===
 
@@ -34,6 +34,8 @@ med østenvinden?
 //8 ikke jeg,
 
 //7 og dine læber vidner imod dig.
+
+***
 
 //6 v7 Blev du født som det første menneske,
 //8 blev du bragt til verden før højene? {H: Ordspr 8,25. Sl 90,2.}
@@ -103,6 +105,8 @@ en mand
 //11 v19 Til dem alene blev landet givet,
 
 //12 og ingen fremmed drog omkring i deres midte. 
+
+***
 
 //7 v20 >Alle sine dage ligger den ugudelige og vrider sig i smerte.
 
@@ -183,3 +187,4 @@ en mand
 //15 og føder ondskab,{H: Job 4,8; 11,14.}
 
 //14 og i deres indre gør de klar til bedrag.<<
+

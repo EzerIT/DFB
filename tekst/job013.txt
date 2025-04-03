@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 13===
 
@@ -17,6 +17,8 @@
 //5 v2 Så det I ved, ved jeg også,
 
 //6 jeg står ikke tilbage for jer.
+
+***
 
 //2 v3 Men 
 //4 jeg vil selv tale til den Almægtige,{H: Job 12,4.}
@@ -66,6 +68,8 @@
 
 //13 som bolværk af ler er jeres svar.{E: *gav* har både betydningen >>svar<< og >>ryg<<, der oversættes >>bolværk<<. Begge betydninger bruges her som et ordspil.}
 
+***
+
 //7 v13 Ti stille over for mig,
 //9 og lad mig tale,
 
@@ -90,6 +94,8 @@
 
 //12 for ingen gudløs{H: Job 8,13.} træder frem for hans ansigt.
 
+***
+
 //7 v17 Lyt nøje til min tale, 
 
 //9 lad mit indlæg blive hørt af jer! 
@@ -107,6 +113,8 @@
 //11 For nu vil jeg tie stille
 //12 og udånde.
 
+***
+
 //1 v20 Kun to ting må du undlade at gøre mod mig,
 
 //3 så vil jeg ikke skjule mig for dit ansigt!
@@ -120,6 +128,8 @@
 
 //5 eller jeg vil tale,
 //6 og så svar du mig!
+
+***
 
 //3 v23 Hvor mange forbrydelser{H: Job 7,21; Job 13,26.} og synder har jeg?
 
@@ -147,3 +157,4 @@
  
 //8 som tøj
 //9 et møl æder op.
+

@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs Bog, kapitel 6===
 
@@ -24,6 +24,8 @@
 //7 så min ånd{N: Ånd.} fyldes med{T: Ordret: >>drikker<<.} deres gift;{H: Job 21,20.}
 
 //6 Guds rædsler{E: *biʕût* (>>(Guds)rædsler<<) findes kun her og to gange i Salmerne.} stiller op til krig mod mig.
+
+***
 
 //4 v5 Skriger vildæslet over frisk græs? 
 
@@ -52,7 +54,7 @@
 //9 og knuse mig,{H: Job 22,9.}
 
 //8 fjerne sin hånd 
-//9 og skære mig af.{T: Verbet anvendes om væveren der skærer sit arbejde af fra vævens tråde, her tænkes der på livstråden.}
+//9 og skære mig af.{T: Verbet anvendes om væveren der skærer sit arbejde af fra vævens tråde. Her tænkes der på livstråden.}
 
 //5 v10 Må det stadig være min trøst,{H: Job 42,6.}
 
@@ -74,7 +76,7 @@
 
 //7 v13 Er der ingen hjælp i mig selv,
 
-//8 og er enhver ressource veget fra mig?
+//8 og er enhver ressource{H: Job 5,12.} veget fra mig?
 
 
 ==Job klager over vennernes hårde tomme ord==
@@ -119,6 +121,8 @@
 //8 I ser rædsler,{T: Ordet findes kun her.}
 //9 og I er blevet bange!
 
+***
+
 //7 v22 Har jeg sagt:
 //8 >Giv mig noget,<
 
@@ -161,8 +165,9 @@
 //9 lad der ikke forekomme uret,{H: Job 5,16.} 
 
 //8 men vend om,
-//9 retten er stadig på min side.
+//9 jeg har stadig ret{T: Ordret: >>min retfærdighed er i det<<.} i det.
 
 //6 v30 Er der uret på min tunge? 
 
-//7 Sandelig, {E: *ʔim* i vers 28 og *ʔim* *lōˀ* her opfattes som en ed.} min gane kan godt erkende fordærv!{H: Job 6,2.}
+//7 Sandelig,{E: *ʔim* i vers 28 og *ʔim* *lōˀ* her opfattes som en ed.} min gane kan godt erkende fordærv!{H: Job 6,2.}
+

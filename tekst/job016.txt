@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 16===
 
@@ -39,6 +39,8 @@
 
 //7 og lader jeg være,
 //8 hvordan går den da væk? 
+
+***
 
 //4 v7 Men nu har han virkelig udmattet mig! 
 
@@ -126,3 +128,4 @@
 //8 og ad den sti,
 //10 jeg ikke kan vende tilbage fra,{H: Job 10,21}
 //9 vil jeg da gå!
+

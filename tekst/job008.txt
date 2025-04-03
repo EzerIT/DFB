@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 8===
 
@@ -104,9 +104,9 @@
  
  
 //4 v20 Nej,
-//5 Gud forkaster da ikke den fuldkomne{H: Job 1.1.}
+//5 Gud forkaster da ikke den fuldkomne{T: Eller >>den ulastelige<<.}{H: Job 1.1.}
  
-//7 og han tager ikke forbrydere ved hånden.
+//7 og han tager ikke dem der handler ondt, ved hånden.
 
 //6 v21 Dog{E: *ʕad* (>>indtil<<) ændres af de fleste til *ʕōd* (>>dog<<).} vil han fylde din mund med latter
 
@@ -116,3 +116,4 @@
 
 //8 og de ugudeliges telt
 //9 er ikke mere.<<
+

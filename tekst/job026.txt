@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 26===
 
@@ -41,13 +41,17 @@ under vandene og deres beboere.
 
 //7 v8 Han binder vandet i sine skyer,
 
-//8 og skydækket{E: *ʕānān* (>>skydække<<, >>sky<<). Dette udtryk for >>sky<< anvendes også når HERREN kommer i en sky eller skystøtte og om sky (fra røgelse) i templet.}{H: 2 Mos 14,19; 34,5. 1 Kong 8,10-11. 3 Mos 16,13.} under dem brister ikke.
+//8 og skydækket{E: *ʕānān* >>skydække<<, >>sky<<. Dette udtryk for >>sky<<, der betegner Guds handlen i naturen, anvendes også når HERREN kommer i en sky eller skystøtte og om sky (fra røgelse) i templet.}{H: 2 Mos 14,19; 34,5. 1 Kong 8,10-11. 3 Mos 16,13.} under dem brister ikke.
 
 //7 v9 Han spærrer for synet af tronen, 
 
 //8 han breder sit skydække ud over den.
 
-//9 v10 Han har trukket en cirkulær grænse over vandenes overflader{H: Es 40,22.} helt til grænsen mellem lys og mørke.{H: Job 3,4.}
+***
+
+//9 v10 Han har trukket en cirkulær grænse over vandenes overflader{H: Es 40,22.} 
+
+helt til grænsen mellem lys og mørke.{H: Job 3,4.}
 
 //11 v11 Himlens søjler vakler,
 
@@ -66,3 +70,4 @@ under vandene og deres beboere.
 //6 Hvor svag er den hvisken vi hører af ham,
 
 //7 men hans mægtige gerninger i tordenen,{H: Job 38,1.} hvem forstår det?<<
+

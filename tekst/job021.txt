@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 21===
 
@@ -70,7 +70,7 @@
 
 //12 og de fryder sig til lyden af fløjte.
 
-//11 v13 De ender deres dage i velstand,{H: Job 36,11.}
+//11 v13 De ender deres dage i det der er godt,{H: Job 2,10.}
 
 //13 og på et øjeblik gribes de af rædsel{E: Nogle ændrer * yēḥāttû* (>>gribes af rædsel<<) til *yēḥātû* fra *naḥāt* (>>går de ned i<<).} for dødsriget.{N: Sheol.}
 
@@ -106,7 +106,7 @@
 //11 v19 Gud gemmer straffen for hans ondskab{T: >>Straffen for<< er tilføjet.} til hans børn!{H: Job 5,4; 20,10. 2 Mos 20,5.} 
 
 //12 Måtte han gengælde ham selv,
-//14 så han forstår det!
+//14 så han mærker det!
 
 //13 v20 Må han med egne øjne se sin undergang{T: Ordet forekommer kun her.}
 
@@ -183,3 +183,4 @@
 
 //6 Jeres svar
 //7 forbliver et bedrag!<<
+

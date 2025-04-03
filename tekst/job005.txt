@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 5===
 
@@ -58,7 +58,7 @@ blev ramt af en pludselig forbandelse.
 
 //7 undere der ikke er tal på.{H: Job 9,10.}
 
-//5 v10 Han giver regn på jorden 
+//5 v10 Han giver regn ud over jorden 
 
 //7 og spreder vand ud over markerne
 
@@ -66,9 +66,11 @@ blev ramt af en pludselig forbandelse.
 
 //9 og de sørgende når op i sikkerhed.{N: Frelse.}{H: Job 5,4.} 
 
-//6 v12 Han hindrer{H: Job 15,4.} de listiges{H: 1 Mos 3,1.} planer,
+***
 
-//7 så deres hænder ikke udfører dem med vellykket resultat.{E: *tûšiyyāʰ* >>succes<<. Afhængig af sammenhængen kan det også betyde >>indsigt<<, >>forståelse<<.}
+//6 v12 Han gør{H: Job 15,4.} de listiges{H: 1 Mos 3,1.} planer til intet,
+
+//7 så deres hænder ikke kan udføre dem med vellykket resultat.{E: *tûšiyyāʰ* >>succes<<. Afhængig af sammenhængen kan det også betyde >>indsigt<<.}
 
 //6 v13 Han griber de vise i deres list
 
@@ -82,7 +84,7 @@ blev ramt af en pludselig forbandelse.
 
 //9 og den fattige{H: Job 24,4. Sl 40,18; Sl 72,12.} fra den mægtiges hånd.
 
-//8 v16 Det gav håb for den svage,{H: Job 31,16. Sl 82,3; 72,13; 41,2.}
+//8 v16 Det gav håb for den ringe,{H: Job 31,16. Sl 82,3; 72,13; 41,2.}
 
 //9 og uret{H: Job 6,29}{E: *ʕawlāʰ* kan, afhængig af konteksten, også betyde >>ondskab<< eller >>uretfærdighed<<.} hørte op.
 
@@ -144,3 +146,4 @@ den Almægtiges opdragelse!
 
 //6 Hør det,
 //7 og erkend det selv!<<
+

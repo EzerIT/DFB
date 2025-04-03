@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 19===
 
@@ -32,6 +32,8 @@
 //9 at Gud har gjort mig uret{T: Ordret: >>fordrejet noget<<.}{H: Job 8,3; 27,2; 34,12.}
 
 //10 og har kastet sit net{H: Job 18,8-10.} rundt om mig.
+
+***
 
 //8 v7 Ja, jeg skriger: 
 //12 >Vold!<
@@ -68,6 +70,8 @@
 
 //12 og har slået lejr omkring mit telt.
 
+***
+
 //10 v13 Mine brødre har holdt sig borte fra mig,
 
 //13 og de der kender mig, er endog blevet fremmede for mig.
@@ -103,6 +107,8 @@
 
 //14 og jeg er undsluppet med kun tandkødet uskadt!{T: Ordret: >>med mine tænders hud<<.} 
 
+***
+
 //7 v21 Vær nådig mod mig,
 //7 vær nådig mod mig
 //12 I mine venner,
@@ -117,7 +123,7 @@
 ==Job ved at hans løser lever, og at der er en dom==
 
 
-/11 v23 Gid mine ord derfor 
+//11 v23 Gid mine ord derfor 
 //12 blev skrevet ned!
 
 //11 Gid det var i bogrullen
@@ -125,8 +131,10 @@
 
 //13 v24 Måtte de med en griffel af jern og bly for evigt blive hugget ind i klippen! 
 
-//9 v25 Men jeg ved
-//11 min løser{H: 3 Mos 25,25-28. Ruth 2,20. Es 41,14; 59,20.} lever,
+***
+
+//9 v25 Og jeg, ja, jeg ved:
+//11 Min løser{H: 3 Mos 25,25-28. Ruth 2,20. Es 41,14; 59,20.} lever,
 
 //12 og til sidst vil han stå op over støvet.{H: 1 Kor 15,3-4.25-27.} 
 
@@ -151,3 +159,4 @@
 //11 for i sin harme straffer Gud skyld med sværd,{T: Ordret: >>for harme skyld sværd<<, >>straffer Gud<< er tilføjet. Oversættelsen af teksten er vanskelig og ret forskellig.}
 
 //10 for at I skal erkende at der er en dom.<<{T: Eller >>at der er en dommer<<.}{E: Masoreterne har valgt ikke at vokalisere *šdyn*, der kun findes her. *dyn* kan vokaliseres til *din* (>>dom<<) eller *dayyan* (>>dommer<<). Nogle vokaliserer *šdyn* til *šadday* (>>den Almægtige<<).}
+

@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 23===
 
@@ -58,15 +58,17 @@
 //7 vender han mod syd,
 //8 ser jeg ham ikke.
 
+***
+
 //5 v10 For han kender den vej jeg holder mig til. 
 
-//8 Prøv mig,{H: Job 7,18.}
+//8 Prøv mig,{H: Job 7,18. Sl 17,3.}
 //9 og jeg kommer ud som guldet!
 
 //7 v11 Min fod har nøje fulgt hans fodspor,
 
 //8 hans vej har jeg holdt mig til,
-//9 og jeg bøjer ikke af derfra.
+//9 og jeg bøjer ikke af derfra.{H: Sl 17,5.}
 
 //6 v12 Fra hans læbers befaling 
 //8 er jeg virkelig ikke veget,
@@ -95,3 +97,4 @@
 //7 v17 Men jeg er ikke forsvundet{T: Eller >>blevet tavs<<.}{E: *ṣmt* >>forsvinde<<, >>blive ødelagt<<, >>blive tavs<<. Nægtelsen *lōˀ* kan opfattes som et emfatisk adverbium (>>sandelig/virkelig<<). I begge tilfælde kan det også gælde for den næste sætning, men ikke nødvendigvis. Teksten giver mulighed for meget forskellige oversættelser med og uden nægtelser.} på grund af mørket,
 
 //8 og mit ansigt det skjuler mulmet ikke.{H: Job 10,21-22.}
+

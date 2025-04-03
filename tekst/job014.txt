@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 14===
 
@@ -18,7 +18,7 @@ lever en kort tid og mættes med uro.{H: Job 3,17.26}
 //3 han flygter som skyggen{H: Job 8,9.}
 //4 og bliver ikke stående.
 
-//1 v3 Selv mod en sådan har du rettet din opmærksomhed,{T: Ordret: >>har du åbnet dine øjne<<.}
+//1 v3 Selv over en sådan har du åbnet dine øjne,
 
 //5 og du bringer mig for retten sammen med dig.
 
@@ -37,6 +37,8 @@ lever en kort tid og mættes med uro.{H: Job 3,17.26}
 //5 og han har ro,
 
 //6 mens han kan glæde sig som en daglejer{H: Job 7,2.} over sin dag.
+
+***
 
 //4 v7 Ja, for et træ er der håb,
 
@@ -96,6 +98,8 @@ lever en kort tid og mættes med uro.{H: Job 3,17.26}
 
 //10 efter dine hænders værk ville du længes. 
 
+***
+
 //11 v16 Men nu du tæller mine skridt,
 
 //13 vogter du så ikke på min synd?
@@ -103,6 +107,8 @@ lever en kort tid og mættes med uro.{H: Job 3,17.26}
 //12 v17 Forseglet i en pung ville min overtrædelse være,
 
 //13 og du ville have dækket min skyld til. 
+
+***
 
 //4 v18 Men
 //5 et bjerg styrter sammen og smuldrer, 
@@ -130,3 +136,4 @@ lever en kort tid og mættes med uro.{H: Job 3,17.26}
 //9 v22 Kun hans eget legeme mærker smerte,  
 
 //10 og han{N: Sjæl.} sørger over sig selv.<<
+

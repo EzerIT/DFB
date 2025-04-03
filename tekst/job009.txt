@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.02.2025>!!
+!!<Dato for denne version: 03.04.2025>!!
 
 ===Jobs bog, kapitel 9===
 
@@ -51,6 +51,8 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 //6 v10 Han gør store ting ingen kan udforske,
 
 //7 undere der ikke er tal på.{H: Job 5.9.}
+
+***
 
 //3 v11 Ja, han går forbi mig,
 //5 men jeg ser det ikke,
@@ -103,21 +105,23 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 //9 hvem kan stævne mig?
 
 //7 v20 Selvom jeg har ret,
-//9 vil mine mund dømme mig skyldig. 
+//9 ville min mund dømme mig skyldig. 
 
-//8 Jeg er fuldkommen,{H: Job 8,20.}
-//9 men han erklærer mig skyldig.
+//8 Jeg er uskyldig,{T: Ordret: >>fuldkommen<<. Her i retslig betydning >>uskyldig<<.}{H: Job 1,1; 8,20.}
+//9 men han ville erklære mig skyldig.
 
-//5 v21 Jeg er fuldkommen,
+***
 
-//8 jeg bekymrer mig ikke om mit liv,{N: Sjæl.} 
+//5 v21 Jeg er uskyldig,
 
-//9 jeg ønsker ikke at leve længere!{T: Ordret: >>jeg forkaster mit liv<<.}{H: Job 7,16.}
+//8 jeg bekymrer mig ikke om min sjæl,{N: Sjæl.} 
+
+//9 jeg foragter mit liv.{H: Job 7,16.}
 
 //7 v22 Det kommer ud på ét, 
 //8 derfor siger jeg:
 
-//11 >Fuldkommen eller skyldig, han er den der afslutter.<{H: Job 4,9.}
+//11 >Uskyldig eller skyldig, han er den der afslutter.<{H: Job 4,9.}
 
 //14 v23 Når en flodbølge{H: Es 28,18.}{E: *šôṭ* (>>flodbølge<<) kan også betyde >>svøbe, pisk<<, jf. Job 5,21.} pludselig bringer død,
 
@@ -185,3 +189,4 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 //10 og ikke frygte ham,
 
 //9 for jeg er ikke sådan i mig selv.
+
