@@ -1,176 +1,191 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 03.04.2025>!!
+
 ===Esajas' Bog, kapitel 63===
 
 ==Dommen over folkeslagene==
 
-v1 Hvem er han der kommer fra Edom, 
+//0 v1 Hvem er han der kommer fra Edom,
 
-i højrøde klæder fra Bozra, 
+i højrøde klæder fra Bozra,
 
-han der er prægtig i sin dragt, 
+//4 han
+//5 der er prægtig i sin dragt,
 
-han der skrider frem{E: Verbet: *ṣʕh* oversættes normalt med: >>er sammenbøjet/lænket<<, så der her skal oversættes: >>sammenbøjet under vægten af hans udrustning<<. I sammenhængen virker det mindre sandsynligt. Det er forslået at betydningen kan være: >>skride frem med tilbagebøjet hals<<, altså: >>skride stolt frem<<. Mange vælger dog med bl.a. Vulgata at forudsætte verbet: *ṣʕd*, der oversættes: >>skride frem<<.} i sin store kraft? 
+//6 han der skrider frem{E: Med  støtte i Vulgata er teksten rettet til *ṣʕd*;   *ṣʕh* (>>er lænket<<) kunne måske oversættes: >>sammenbøjet under vægten af hans udrustning<< eller  >>skride frem med tilbagebøjet hals<<.} i sin store kraft?
 
->>Det er mig, der taler om retfærdighed, 
+//3 >>Det er mig,
+//4 der taler om retfærdighed,
 
-der er mægtig til at frelse!<<
+//5 der er mægtig
+//6 til at frelse!<<
 
 ***
 
-v2 Hvorfor er der rødt på din dragt, 
+//2 v2 Hvorfor er der rødt på din dragt,
 
-og dine klæder som en der træder vinpersen?
+//4 og dine klæder
+//5 som en der træder vinpersen?
 
-v3 >>Persekar trådte jeg alene, 
+//3 v3 >>Persekarret trådte jeg alene,
 
-og fra folkene var der ingen med mig; 
+//5 og fra folkene var der ingen sammen med mig;
 
-så jeg trådte på dem i min vrede 
+//4 så jeg ville træde på dem i min vrede
 
-og trampede dem ned i min harme; 
+//8 og trampe dem ned i min harme;
 
-så deres livssaft{T: Brugt som synonym for: >>blod<<.} sprøjtede på mit tøj, 
+//7 så deres blodrøde saft sprøjtede på mit tøj,
 
-og jeg fik hele min dragt sølet til.
+//8 og jeg fik mine klæder helt sølet til.
 
-v4 For en hævndag var i mit hjerte, 
+//6 v4 For en hævndag lå mig på sinde,{N: Hjerte.}
 
-og mit befrielsesår var kommet.
+//7 og året for min forløsning var kommet.
 
-v5 Og jeg så mig om, men der var ingen hjælper, 
+//5 v5 Og jeg så mig om,
+//9 men der var ingen hjælper,
 
-og jeg undrede mig, men der var ingen støtte; 
+//8 jeg undrede mig,
+//9 men der var ingen støtte;
 
-min arm frelste mig, 
+//7 min arm frelste mig,
 
-og min vrede, den støttede mig.
+//8 og min vrede,
+//9 den støttede mig.
 
-v6 Og jeg trampede folk ned i min vrede 
+//6 v6 Og jeg trampede folk ned i min vrede
 
-og gjorde dem berusede{E: I stedet for: *waˀᵃšakkᵊrēm* (>>og gjorde dem berusede<<), har mange håndskrifter: *waˀᵃšabbᵊrēm*: >>og smadrede dem<<.} i min harme 
+//8 og jeg gjorde dem berusede{E: Mange håndskrifter har *waˀᵃšabbᵊrēm* (>>og smadrede dem<<).} i min harme
 
-og lod deres livssaft løbe ned på jorden.<<
+//7 og lod deres blod{T: Ordret: >>saft<<, som i vers 3.} løbe ned på jorden.<<
 
 ==Bodsbøn og klage==
 
-v7 Jeg vil prisende forkynde HERRENS nåde, 
+//1 v7 Jeg vil prise HERRENS trofaste gerninger,{N: nåde.}
 
-HERRENS pris,{T: Oversættes undertiden: >>glorværdige gerninger<<.} 
+//4 HERRENS glorværdige gerninger,
 
-efter alt det som HERREN har gjort mod os, 
+efter alt det
+//6 som HERREN har gjort mod os,
 
-og den store godhed mod Israels hus 
+//5 og den store godhed mod Israels hus
 
-som han viste dem i overensstemmelse med sin barmhjertighed 
+//6 som han viste dem i overensstemmelse med sin barmhjertighed
 
-og sin store nåde.
+og sin mangfoldighed af trofaste gerninger.
 
-v8 Han sagde: >>Sandelig, de er mit folk, 
+//3 v8 Han sagde:
+//5 >>Sandelig, de er mit folk,
 
-sønner,{T: Oversættes ofte: >>børn<<.} der ikke vil svigte.<< 
+//6 børn
+//7 der ikke vil bedrage.<<
 
-Og han blev frelser for dem.
+//4 Og han blev frelser for dem.
 
-v9 I al deres trængsel var der ingen trængsel,{E: Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter rabbinernes vokalisering af grundtekstens *lōˀ* (>>ikke/ingen<<) til: *lô* (>>for ham<<) så der oversættes: >>I al deres trængsel havde han trængsel<<. Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (>>trængsel, men (hans ansigts) engel …<<) til: *ṣîr ûmalʔāx* (>>sendebud eller en engel<<) så der oversættes: >>… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.<<} 
+//7 v9 I al deres nød var der ingen{E: Med støtte i nogle håndskrifter læses *lōˀ* (>>ikke/ingen<<) som: *lô* (>>for ham<<).} nød,
 
-men hans ansigts engel{T: Den engel der var HERREN nærmest} frelste dem; 
+//9 men budbringeren{N: Engel.}{H: Es 42,19.} foran ham{N: Ansigt.}{E: Ud fra de gamle oversættelser kan der rettes til: *ṣîr ûmalʔāx* (>>sendebud eller en engel<<) så der oversættes: >>… i al deres nød. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.<< } frelste dem;
 
-på grund af sin kærlighed og sin medlidenhed 
+//8 på grund af sin kærlighed og sin medlidenhed
 
-løskøbte han dem, 
+løskøbte han dem,
 
-han løftede dem op og bar dem 
+//6 han løftede dem op
+//7 og bar dem
 
 alle fortidens dage.
 
-v10 Men de, de var genstridige og krænkede 
+//5 v10 Men de, de var genstridige
+//7 og krænkede
 
-hans hellige Ånd; 
+hans hellige Ånd;
 
-derfor forvandlede han sig til en fjende for dem, 
+//6 derfor forvandlede han sig til en fjende for dem,
 
-han kæmpede imod dem.
+//8 han kæmpede imod dem.
 
 ***
 
-v11 Da huskede Moses’ folk fortids dage: 
+//7 v11 Da huskede hans folk Moses fra gammel tid:
 
->>Hvor er han der førte dem op fra havet 
+//2 >>Hvor er han
+//5 der førte dem op fra havet
 
-med sin hjords hyrde? 
+sammen med sin hjords hyrder?
 
-Hvor er han der i hans{T: Kan også oversættes: >>dets<<.} indre lagde 
-sin hellige Ånd? 
+//4 Hvor er han
+//5 der i hans{T: Kan også oversættes: >>dets<<.} indre lagde
 
-v12 han der ved Moses’ højre hånd 
+sin hellige Ånd?
 
-lod sin herligheds arm vandre, 
+//6 v12 han der lod sin prægtige arm ledsage Moses ved hans højre side,
 
-han der kløvede vandene foran dem{T: Ordret: >>for deres ansigt<<.} 
+//8 han der kløvede vandene foran dem{N: Ansigt.}
 
-for at skabe sig et evigt navn?
+//9 for at skabe sig et evigt navn?
 
-v13 han der lod dem vandre gennem vandmasserne 
+//7 v13 han der lod dem vandre gennem vandmasserne
 
-som hesten i ørkenen 
+//8 som hesten i ørkenen
 
 uden at de snublede?
 
-v14 Som kvæget går ned i dalen, 
+//9 v14 Som kvæget
 
-gav HERRENS Ånd ham hvile;{E: Verbet er omdiskuteret. MT har verbet: *nwḥ* (i hif’il: >>give hvile<<, evt.: >>lede til hvile<<) med suffiks for 3. pers. sing., der må stå for Israel eller Moses. Ofte går man ud fra at der skulle have stået: *tanḥennû* (af verbet *nḥh)*: >>ledte os<<.} 
+//12 går ned i dalen,
 
-sådan førte du dit folk 
+//11 gav HERRENS Ånd ham hvile;{E: Objektssuffix for 3. pers. sing. kan også oversættes >>det<< med reference til Israel. Ofte rettes teksten til *tanḥennû* (>>ledte os<<).}
 
-for at skabe dig et herligt navn.<<
+//10 sådan førte du dit folk
+
+//11 for at skabe dig et prægtigt navn.<<
 
 ***
 
-v15 Se ned fra himlene, og se til 
+//3 v15 Se ned fra himlene,
+//7 og se til
 
-fra din helligheds og herligheds bolig! 
+//6 fra din helligheds og pragts bolig!
 
-Hvor er din lidenskab og din styrke, 
+//7 Hvor er din passion og din styrke,
 
-dit indres røre 
+dine inderste følelser,
 
 og din barmhjertighed der holder sig tilbage fra mig?
 
-v16 Du er jo vores far; 
+//5 v16 For du er vores far;
 
-for Abraham ved ikke af os, 
+//6 fordi Abraham ikke ved af os,
 
-og Israel kendes ikke ved os. 
+//7 og Israel ikke kendes ved os.{T: Eller >>kender til os<<.}
 
-Du, HERREN, er vores far, 
+//4 Du, HERRE, er vores far,
 
-fra evighed er dit navn: Vores Forløser!
+//7 fra evighed er dit navn: >>Vores Forløser!<<
 
-v17 Hvorfor, HERREN, lader du os fare vild fra dine veje, 
+//6 v17 Hvorfor lader du os fare vild,
+//9 HERRE,
+//8 bort fra dine veje,
+//7 og lader vores hjerte forhærdes så det ikke frygter dig?
 
-forhærder vores hjerte så det ikke frygter dig?{T: Ordret: >>væk fra din frygt<<.} 
+//5 Vend om for dine tjeneres skyld,
 
-Vend om for dine tjeneres skyld, 
+stammer på dit arvede land!
 
-din arvelods stammer!
+//7 v18 I kort tid{T: Eller: >>som det ubetydelige<<.} ejede dit hellige folk den,{E: LXX og andre af de gamle oversættelser har læst: *lāmmāʰ ṣᵃʕādû rᵊšāʕim qodšexā*: >>Hvorfor betræder gudløse din helligdom?<<. Ændringen i vokalteksten er minimal: >>d<< er rettet til det i udseende lignende: >>r<<, og ligeledes: >>y<< til: >>w<<.}
 
-v18 I kort tid{E: Det er omdiskuteret om: *miṣʕār*, der betyder: >>noget ringe/ubetydeligt<<, også kan forstås som: >>kort tid<<. Ellers må der oversættes: >>som det ubetydelige<<.} ejede dit hellige folk,{E: Hele sætningen er omdiskuteret. Den lyder: *lammiṣʕār yārᵊšû ʕam-qodšexā*. Ofte følger man Septuaginta og andre af de gamle oversættelser der ser ud til at have læst: *lāmmāʰ ṣᵃʕādû rᵊšāʕim qodšexā*: >>Hvorfor betræder gudløse din helligdom?<<. Ændringen i vokalteksten er minimal: >>d<< er rettet til det i udseende lignende: >>r<<, og ligeledes: >>y<< til: >>w<<.}
+//9 vores fjender har trådt din helligdom ned.
 
-vores fjender har trådt din helligdom ned.
+//8 v19 Vi er blevet som nogle
+//9 du ikke har hersket over fra gammel tid,
 
-v19 Vi er som nogle du ikke har hersket over fra gammel tid, 
+//10 over hvem dit navn ikke er nævnt.
 
-over hvem dit navn ikke er nævnt.
+***
 
-*** 
+//6 Gid du ville flænge himlene
+//7 og stige ned
 
-Gid du ville flænge himlene og stige ned
-
-så bjergene rystede for dit ansigt,{T: Sidste halvdel af vers 19 hører indholdsmæssigt – og ifølge de gamle oversættelser – til kapitel 64.} 
-
-
-
-
+//8 så bjergene rystede for dit ansigt,{T: Sidste halvdel af vers 19 hører indholdsmæssigt – og ifølge de gamle oversættelser – til kapitel 64.}

@@ -296,6 +296,10 @@ $style['es'][59] = $modenhed['med indrykning'];
 $style['es'][60] = $modenhed['med indrykning']; 
 $style['es'][61] = $modenhed['med indrykning']; 
 $style['es'][62] = $modenhed['med indrykning']; 
+$style['es'][63] = $modenhed['med indrykning']; 
+$style['es'][64] = $modenhed['med indrykning']; 
+$style['es'][65] = $modenhed['med indrykning']; 
+$style['es'][66] = $modenhed['med indrykning']; 
 
 
 $style['jer'][ 1] = $modenhed['uden indrykning'];

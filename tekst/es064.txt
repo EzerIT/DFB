@@ -1,88 +1,100 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 03.04.2025>!!
+
 ===Esajas' Bog, kapitel 64===
+
 
 
 ==Fortsættelse af folkets bodsbøn og klage==
 
-v1 {T: Sidste halvdel af kapitel 63 vers 19 hører indholdsmæssigt – og ifølge de gamle oversættelser – til her.} som ild antænder kvas, 
+//1 v1 Ligesom{T: Ifølge de gamle oversættelser fortsætter bisætningen sidste halvdel af kapitel 63 vers 19: >>Gid du ville flænge himlen og stige ned, så bjergene rystede for dit ansigt, ligesom ild antænder kvas, og det vil kunne sætte vand i kog….<<} ild antænder kvas,
 
-ild får vand til at koge, 
+//3 vil ild sætte vandmasserne i kog,
 
-for at lade dit navn blive kendt for dine fjender, 
+//2 for at lade dit navn blive kendt for dine fjender,
 
-folkeslag skælve for dit ansigt,
+//0 foran dig{N: Ansigt.} skal folkeslag skælve,
 
-v2 når du gør undere vi ikke venter.
+//2 v2 når du gør undere
+//3 vi ikke venter.
 
-Du steg ned, bjerge rystede foran dig.{T: Ordret: >>for dit ansigt<<.}
+//1 Du steg ned,
+//2 bjerge rystede foran dig.{N: Ansigt.}
 
-v3 Og fra gammel tid af har man ikke hørt, 
+//4 v3 Fra gammel tid af har man ikke hørt,
 
-har man ikke erfaret, 
+//6 har man ikke erfaret,
 
-intet øje set en Gud ud over dig 
+//5 har intet øje set en Gud ud over dig
 
-der handler for den der venter på ham.
+//7 der handler
+//8 for den der venter på ham.
 
-v4 Du kommer den i møde der glæder sig,
+//6 v4 Du kommer den i møde der glæder sig,
 
-og den der udøver retfærdighed, 
+og den der udøver retfærdighed,
 
-som husker dig på dine veje. 
+//7 som husker dig på dine veje.
 
-Se, du blev vred, og vi syndede; 
+//3 Du blev jo vred,
+//6 men vi syndede hele tiden på dem,
 
-på dem {T: Dvs. på retfærdigheds veje} var vi bestandigt, men vi blev frelst.{E: På grund af parallellen >>vi syndede<< følger de fleste Septuaginta, der i stedet for: * bāhem ʕôlām wᵊniwwāšēₐʕ* (ordret: >>på dem bestandigt og/men vi blev frelst<<) forudsætter: * bᵊxā mēʕôlām wanifšāʕ*, hvor: *bᵊxā mēʕôlām* knyttes til den foregående linje og oversættes: >>mod dig fra fortiden<<, og det sidste ord: >>og vi faldt fra<<.}
+//8 og dog blev vi frelst.{E: I LXX knyttes *bᵊxā mēʕôlām* til den foregående linje: >>mod dig fra fortiden<<.}
 
-v5 Men vi blev alle som den urene 
+//7 v5 Men vi blev alle som den urene
 
-og al vores retfærdighed som beskidt tøj;{E: Ordret: >>menstruationstøj<<. Ordet: *ʕiddîm* angiver kvindens månedlige periode.} 
+//9 og al vores retfærdighed som beskidt tøj;{E: Ordret: >>menstruationstøj<<.}
 
-og vi visnede som et blad, vi alle, 
+//8 vi visnede alle som blade,
 
-og vores misgerninger førte os væk som vinden.
+//9 og vores ugerninger fejede os væk som en vind.
 
-v6 Og ingen påkalder dit navn, 
+//5 v6 Ingen påkalder dit navn
 
-ingen{T: Dette: >>ingen<< er underforstået fra foregående linje.} rejser sig for at holde fast ved dig; 
+//7 eller vågner op
+//8 for at holde fast ved dig;
 
-for du har skjult dit ansigt for os 
+//6 for du har skjult dit ansigt for os
 
-og har fået os til at miste modet{E: ordret: >>smelte<< (wa*ttᵊmûgēnû*). De gamle oversættelser forudsætter: *wattᵊmaggᵊnēnû*: >>du har givet os hen til (vores misgerninger)<<.} for vores misgerningers skyld.
+//7 og du lod os skælve {E:  De gamle oversættelser forudsætter: *wattᵊmaggᵊnēnû*: >>du har givet os hen til (vores ugerninger)<<.} for vores ugerningers skyld.
 
 ***
 
-v7 Men nu, HERREN, du er vores far; 
+//4 v7 Men nu,
+//7 HERRE,
+//6 du er vores far;
 
-vi er leret, og du er den der har formet os, 
+//7 vi er leret,
+//8 og du er den der har formet os,
 
-og vi er alle værk af din hånd.
+//9 og vi er alle værk af din hånd.
 
-v8 Vær ikke, HERREN, så enormt vred, 
+//5 v8 Vær ikke,
+//9 HERRE,
+//8 så enormt vred,
 
-og husk ikke for evigt på misgerning; 
+//7 og husk ikke for evigt på ugerning;
 
-ja, se dog her, dit folk er vi alle!
+//6 ja, se dog her,
+//9 dit folk er vi alle!
 
-v9 Din helligheds byer er blevet til ørken; 
+//8 v9 Din helligheds byer er blevet til ørken;
 
-Zion er blevet til ørken, 
+//10 Zion er blevet til ørken,
 
-Jerusalem til ødelæggelse.
+//11 Jerusalem til ødelæggelse.
 
-v10 Vores helligheds og vores herligheds hus, 
+//9 v10 Vores helligheds og vores pragts tempel,{N: Hus.}
 
-hvor vores fædre lovsang dig, 
+//12 hvor vores fædre lovpriste dig,
 
-er blevet brændt med ild, 
+//11 er blevet ildens bytte,
 
-og alt det der var kostbart for os, er blevet en ruinhob.
+//10 og alt det der var kostbart for os, er blevet en ruinhob.
 
-v11 Vil du for disse ting holde dig tilbage, HERREN? 
+//7 v11 Vil du i forhold til disse ting holde dig tilbage,
+//9 HERRE?
 
-Vil du tie og ydmyge os så dybt?
-
-
+//8 Vil du tie
+//9 og ydmyge os så enormt?

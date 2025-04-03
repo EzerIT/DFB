@@ -1,215 +1,255 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 03.04.2025>!!
+
 ===Esajas' Bog, kapitel 66===
 
 ==HERREN irettesætter Israel==
 
-v1 Sådan siger HERREN: 
+//0 v1 Sådan har HERREN sagt:
 
-Himlen er min trone 
+//2 Himlen er min trone
 
-og jorden mine fødders fodskammel. 
+//5 og jorden min fodskammel.
 
-Hvor er der et hus I kan bygge til mig? 
+//4 Hvor er der et hus
+//7 I kan bygge til mig?
 
-Og hvor er der mit hvilested?
+//6 Og hvor er der et sted som kan være mit hvilested?
 
-v2 Og alt dette{T: Ordret: >>disse<<.} har min hånd gjort, 
+//5 v2 Og alt dette har min hånd lavet,
 
-så alt dette blev til, lyder HERRENS udsagn; 
+//7 så alt dette blev til, lyder HERRENS udsagn;
 
-men til denne vil jeg se, 
+//8 men til denne vil jeg se,
 
-til en elendig og den der har en sønderknust ånd, 
+//6 til en elendig og den der er sønderknust,{N: Ånd}
 
-og skælver over mit ord.
-
-***
-
-v3 Den der slagter oksen, slår en mand ihjel; 
-
-den der ofrer fåret, brækker halsen på en hund; 
-
-den der ofrer afgrødeoffer, ofrer svineblod; 
-
-den der tænder røgelse, velsigner ondskab. 
-
-Ligesom de har valgt deres egne veje, 
-
-og i afskyelige ting har deres sjæl fundet behag,
-
-v4 sådan vil jeg vælge hensynsløshed, 
-
-og de ting de frygter, vil jeg bringe over dem. 
-
-Fordi jeg kaldte, og ingen svarede, 
-
-jeg talte, og de hørte ikke, 
-
-men de gjorde det der var ondt i mine øjne, 
-
-og det som jeg ikke havde behag i, valgte de.
+//7 og skælver over mit ord.
 
 ***
 
-v5 Hør HERRENS ord, 
+//4 v3 Den der slagter oksen,
+//3 slår også en mand ihjel;
 
-I der skælver for hans ord! 
+//6 den der ofrer fåret,
+//5 brækker også nakken på en hund;
 
-Jeres brødre, der hader jer, 
+//7 den der bringer afgrødeoffer,
+//6 ofrer også blod af svin;
 
-der udstøder jer på grund af mit navn, har sagt:{T: I den hebraiske tekst står: >>har sagt<< foran: >>Jeres brødre<< i forrige linje.} 
+//6 den der tænder røgelse,
+//5 velsigner ondskab.
 
->>Lad HERREN blive herliggjort,{E: Verbet: *kbd* er vokaliseret som qal, men man går ofte ud fra at det skal vokaliseres som nif’al, der giver oversættelsen: >>vise sig i herlighed<<.} 
+//4 Ligesom de har valgt deres egne veje,
 
-så vi kan se jeres glæde!<< 
+//6 og deres sjæl har fundet behag i afskyelige ting,
 
-Men de bliver til skamme.
+//5 v4 sådan vil jeg også vælge hensynsløs straf over dem,
 
-v6 Lyt! Et drøn fra byen. 
+//7 og de ting de frygter, vil jeg bringe over dem.
 
-Lyt! Fra templet. 
+//6 Fordi jeg kaldte,
+//9 og ingen svarede,
 
-Lyt! HERREN, 
+//8 jeg talte,
+//9 og de hørte ikke,
 
-han gengælder sine fjender deres handling.
+//7 men de gjorde det deri mine øjne var ondt,
+
+//8 og
+//10 det som jeg ikke ønskede,
+
+//9 valgte de.
+
+***
+
+//1 v5 Hør HERRENS ord,
+
+//4 I der skælver for hans ord!
+
+//3 Jeres landsmænd{N: Bror.} har talt,
+//6 de der hader jer,
+
+//7 de der udstøder jer på grund af mit navn
+
+//5 >>Lad HERREN blive herliggjort,{T: Ordret >>er herliggjort<<.}
+
+//6 så vi kan se jeres glæde!<<
+
+//4 Men de bliver til skamme.
+
+//2 v6 Der er en lyd af oprør fra byen!
+
+//3 En lyd fra templet,
+
+//5 en lyd af HERREN,
+
+//6 han gengælder sine fjender deres handling.
 
 ==HERRENS folk fødes==
 
-v7 Før hun{T: Dvs. Jerusalem.} fik veer, fødte hun; 
+//4 v7 Før hun fik veer,
+//8 fødte hun;
 
-før fødselssmerten kommer over hende, har hun født et drengebarn.
+//7 før fødselssmerten kommer over hende,
+//8 har hun født et drengebarn.
 
-v8 Hvem har hørt sådan noget? 
+//6 v8 Hvem har hørt sådan noget?
 
-Hvem har set sådanne ting? 
+//6 Hvem har set sådanne ting?
 
-Mon et land bringes til verden på én dag, 
+//7 Mon et land bringes til verden på én dag,
 
-eller fødes et folk på én gang? 
+//8 eller fødes et folk på én gang?
 
-Så snart Zion var i fødselsveer, 
+//5 Så snart Zion var i fødselsveer,
 
-fødte hun sine sønner.
+//7 fødte hun sine børn.
 
-v9 Mon jeg vil åbne moderlivet{T: Ordret: >>lade gennembryde<<, underforstået: barnet.} 
+//6 v9 Mon jeg vil åbne moderlivet{T: Ordret: >>lade gennembryde<<, underforstået: barnet.}
 
-og ikke lade en fødsel ske? siger HERREN; 
+//9 og ikke sætte gang i fødslen?
+//8 siger HERREN;
 
-eller er jeg den der lader en fødsel ske, 
+//7 eller er jeg den der sætter gang i en fødsel,
 
-og så hindrer jeg den? siger din Gud.
+//9 og så stopper den?
+//8 har din Gud sagt.
 
-v10 Glæd jer med Jerusalem, 
+//2 v10 Glæd jer med Jerusalem,
 
-og jubl over hende, 
+//6 og jubl over hende,
 
-alle I der elsker hende; 
+//5 alle I der elsker hende;
 
-fryd jer højt{T: Ordret: >>med fryd<<.} med hende, 
+//4 fryd jer højt sammen med hende,
 
-alle I der sørger over hende,
+//7 alle
+//8 I der sørger over hende,
 
-v11 for at I må die og blive mætte 
+//6 v11 for at I må die
+//7 og blive mætte
 
-ved hendes trøstende bryst, 
+ved hendes trøstende bryst,
 
-for at I må suge til jer og fornøje jer 
+//6 for at I må suge til jer
+//7 og fornøje jer
 
 fra hendes herligheds yver!
 
-v12 For sådan siger HERREN: 
+//5 v12 For sådan har HERREN sagt:
 
-Se, ud til hende leder jeg
+//6 Se, ud til hende leder jeg
 
-som en flod fred 
+som en flod fred
 
-og som en svulmende bæk{T: Der er tænkt på en wadi der flyder over i regntiden.} folkeslags{T: Kan også oversættes: >>hedningers<<.} herlighed,{T: Kan også oversættes: >>rigdom<<.} 
+//9 og som en svulmende wadi folkeslags herlighed,{T: Kan også oversættes: >>rigdom<<.}
 
-og I skal die; 
+//8 og I vil die;
 
-I skal blive båret på hofte 
+//9 I vil blive båret på hofte
 
-og kælet med{T: Kan også oversættes: >>vugget<<.} på knæ.
+//10 og vugget på knæ.
 
-v13 Som et menneske hvis mor trøster det, 
+//7 v13 Som et menneske
+//9 hvis mor trøster det,
 
-sådan vil jeg trøste jer, 
+//8 sådan vil jeg trøste jer,
 
-og i Jerusalem skal I trøstes.
+//9 og i Jerusalem vil I blive trøstet.
 
-v14 Når I ser det, så glæder jeres hjerte sig, 
+//3 v14 Når I ser det,
+//6 så glæder jeres hjerte sig,
 
-og jeres krop{T: Ordret: >>knogler<<, der dog i flertal bruges om hele kroppen.} skal spire som det grønne græs; 
+//9 og jeres krop{T: Ordret: >>knogler<<.} vil blomstre op som det grønne græs;
 
-og HERRENS hånd skal kendes hos hans tjenere, 
+//8 og HERRENS hånd vil blive kendt hos hans tjenere,
 
-men han bliver vred på sine fjender.
+//9 men han bliver vred på sine fjender.
 
 ==HERREN dømmer sine modstandere==
 
-v15 For se, HERREN vil komme i ild, 
+//7 v15 For se, HERREN vil komme som i ild,
 
-og som en hvirvelvind er hans vogne, 
+//9 og som en hvirvelvind er hans vogne,
 
-for at slippe sin vrede løs i raseri
+//8 for at slippe sin vrede løs i raseri
 
-og sin irettesættelse i flammende ild.
+//10 og sine trusler i flammende ild.
 
-v16 For HERREN skal fælde dom med ild 
+//9 v16 For HERREN vil fælde dom med ild
 
-og med sit sværd over alt kød, 
+//10 og med sit sværd over ethvert menneske,{H: Es 40,5.}
 
-og de der dræbes af HERREN, skal være mange.
+//11 og talrige er de der dræbes af HERREN.
 
-v17 De der helliger sig og renser sig til haverne 
+//6 v17 De der helliger sig
+//8 og renser sig til haverne
 
-bagved en{E: Dvs. en afgud. Men ordet (*ʔaḥad*) er omdiskuteret. Det er vokaliseret som femininum (qeré): *ʔaḥat* (>>en<<) og støttes af en del håndskrifter, men konsonantteksten her forudsætter maskulinum (ketíb): *ʔeḥād*.} i midten,{T: Kan også oversættes: >>i gården<<.} 
+for at følge en afgud i deres midte,{T: Ordret: >>bagved en i midten<<.}
 
-de der spiser svinekød 
+//7 de der spiser svinekød,
 
-og det vederstyggelige{T: Der tænkes med udtrykket specielt på levitisk urene dyr.} og musen, 
+det vederstyggelige og musen,
 
-de skal alle sammen få en ende, lyder HERRENS udsagn.
+//5 de skal alle sammen få en ende,
+//6 lyder HERRENS udsagn.
 
 ==HERREN samler sit folk==
 
-v18 Men jeg kender deres gerninger og deres tanker.{T: Ordet >>kender<< står ikke i den hebraiske tekst, men det underforstås af de fleste oversættere. Andre vil flytte ordene: >>deres gerninger og deres tanker<< hen foran sidste linje i vers 17.} Der kommer en tid til at samle alle folkeslagene{T: Kan også oversættes: >>hedningerne<<.} og sprogene, og de skal komme og se min herlighed.
-v19 Og jeg sætter et tegn på dem, og jeg sender nogle af dem, der er undsluppet, til folkeslagene,{T: Kan også oversættes: >>hedningerne<<.} til Tarshish, Pul og Lud, bueskytter{T: Septuaginta har i stedet: >>Meshek<<.} til Thubal og Javan, til de fjerne øer, til dem der ikke har hørt noget rygte om mig og ikke har set min herlighed; og de skal kundgøre min herlighed blandt folkeslagene.{T: Kan også oversættes: >>hedningerne<<.}
-v20 Og de skal bringe alle jeres brødre fra alle folkeslagene{T: Kan også oversættes: >>hedningerne<<.} som en offergave til HERREN, på hestene og på vognen og i bærestolene og på muldyrene og på dromedarerne, op til mit hellige bjerg, Jerusalem, siger HERREN, ligesom Israels sønner bringer offergaven i rent kar til HERRENS hus.
-v21 Og jeg vil også tage nogle af dem til præsterne, til levitterne, siger HERREN.
+//7 v18 Men hvad mig angår,
+//10 deres gerninger og deres tanker
+//9 er virkeliggjort
+//10 for at jeg kan samle alle folkeslag og sproggrupper,
+//11 og de vil komme
+//12 og se min herlighed.
+//8 v19 Jeg vil sætte et tegn på dem
+//10 og sende nogle af dem der er undsluppet, til folkeslagene, til Tarshish, Pul og Lud, bueskytter{T: LXX har i stedet: >>Meshek<<.} til Tubal og Javan, til de fjerne kystområder,
+//12 til dem der ikke har hørt noget budskab{H: 53,1.} om mig
+//13 og ikke har set min herlighed;
+//11 og de vil forkynde om min herlighed blandt folkeslagene.
+//12 v20 Og de vil bringe alle jeres landsmænd{N: Bror} fra alle folkeslagene som en offergave til HERREN, på hestene og stridsvognene, på de overdækkede vogne, på muldyrene og på dromedarerne, op til mit hellige bjerg, Jerusalem,
+//14 har HERREN sagt,
+//13 ligesom israelitterne bringer offergaven i et rent kar til HERRENS tempel.{H: Hus}
+//9 v21 Og jeg vil også af dem udtage nogle til præsterne, til levitterne,{H: 5 Mos 17,9}
+//10 har HERREN sagt
 
 ***
 
-v22 For ligesom de nye himle 
+//4 v22 For
+//6 ligesom den nye himmel
 
-og den nye jord som jeg skaber, 
+og den nye jord,
+//9 som jeg laver,
 
-består for mit ansigt, lyder HERRENS udsagn, 
+//8 vil bestå foran mig{H: Ansigt},
 
-sådan skal jeres afkom og jeres navn bestå.
+//7 lyder HERRENS udsagn,
+
+//5 sådan vil jeres efterkommere og jeres navn bestå.
 
 ==HERREN vil kalde alle mennesker til sig – men vil de?==
 
-v23 Og det skal ske, fra nymåne til nymåne 
+//6 v23 Og derefter,
+//7 fra nymåne til nymåne
 
-og fra sabbat til sabbat, 
+og fra sabbat til sabbat,
 
-at alt kød skal komme for at tilbede for mit ansigt, 
+vil ethvert menneske{H: Es 66,16.} komme
+//9 for at tilbede foran mig{H: Ansigt},
 
-siger HERREN.
+//10 har HERREN sagt.
 
-v24 Og de skal gå ud og se 
+//8 v24 Og de vil gå ud
+//10 og se
 
-på ligene af de mænd, 
+på ligene af de mænd,
 
-der forbrød sig imod mig; 
+//11 der gjorde oprør{H: Es 1,2} imod mig;
 
-for deres orm skal ikke dø, 
+//9 for deres orm dør ikke,
 
-og deres ild skal ikke slukkes, 
+//11 og deres ild slukkes ikke,
 
-og de er en rædsel for alt kød.
-
+//10 og de er en rædsel for ethvert menneske.

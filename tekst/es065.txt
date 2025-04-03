@@ -1,226 +1,255 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.06.2024>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 03.04.2025>!!
+
 ===Esajas' Bog, kapitel 65===
 
 ==Guds svar: Straf over de ugudelige==
 
-v1 Jeg lod mig opsøge af dem der ikke spurgte, 
+//0 v1 Jeg lod mig
+//4 opsøge af dem der ikke spurgte,
 
-jeg lod mig finde af dem der ikke søgte mig; 
+//3 jeg lod mig finde
+//4 af dem der ikke søgte mig;
 
-jeg sagde: >>Se, her er jeg; se, her er jeg!<< 
+//2 jeg sagde:
+//5 >>Se, her er jeg;
+//5 se, her er jeg!<<
 
-til et folkeslag der ikke er påkaldte mit navn. 
+//4 til et folkeslag
+//5 der ikke påkaldte mit navn.
 
-v2 Jeg bredte mine hænder ud hele dagen 
+//3 v2 Jeg bredte mine hænder ud hele dagen
 
-til et genstridigt folk 
+til et genstridigt folk
 
-der vandrer ad den vej som ikke er god, 
+//6 der vandrer ad den vej
+//8 som ikke er god,
 
-efter deres egne tanker; 
+//7 efter deres egne tanker;
 
-v3 det folk der krænker mig 
+//5 v3 det folk
+//7 der krænker mig
 
-hele tiden op i mit ansigt, 
+hele tiden op i mit ansigt,
 
-ofrer i haverne 
+//8 ofrer i haver
 
-og tænder røgelse på teglstenene, 
+//9 og tænder røgelse på teglsten,
 
-v4 som bor i gravene 
+//7 v4 som bor i grave
 
-og overnatter på hemmelige steder, 
+//8 og overnatter på hemmelige steder,
 
-som spiser svinekød 
+//7 som spiser svinekød
 
-og har suppe{E: Den hebraiske tekst har ordet: *pārāq*, der betyder: >>stykke<<, men Qere og gamle oversættelser går ud fra at der skulle stå: *mārāq*: >>suppe<<.} af urent kød i deres gryder;
+//8 og har suppe{E: Således masoreterne; konsonantteksten forudsætter *pārāq* (>>stykke<<).} af urent kød i deres gryder;
 
-v5 som siger: >>Træk dig tilbage,{T: Ordret:>>Træd hen til dig selv<<.} 
+//7 v5 som siger:
+//8 >>Hold dig for dig selv.
 
-kom ikke hen til mig, for jeg er hellig i forhold til dig;<< 
+//9 kom ikke hen til mig,
+//10 for jeg er hellig i forhold til dig.<<
 
-sådanne er en røg i min næse, en ild der brænder hele dagen.
+//6 Sådanne er en røg i min næse,
+//7 en ild
+//8 der brænder hele dagen.
 
-v6 Se, det står skrevet for mit ansigt; 
+//4 v6 Se, det står skrevet foran mig;{N:Ansigt.}
 
-jeg vil ikke tie, medmindre jeg har gjort gengæld 
+//5 jeg vil ikke tie,
+//6 medmindre jeg får gjort gengæld
 
-og har gjort gengæld i deres skød,{E: Det hebraiske ord: *ḥêq* oversættes i forskellige sammenhænge: >>skød<< eller: >>bryst<<. Det parafraseres undertiden: >>krop<<.}
+//7 og får gjort gengæld i samme mønt{T: Ordret: >>i brystfolden<<, hvor betaling opbevaredes..}
 
-v7 for jeres misgerninger og jeres fædres misgerninger tilsammen, 
+//9 v7 for jeres ugerninger og jeres fædres ugerninger tilsammen,
 
-siger HERREN, 
+//11 sagde HERREN,
 
-de som tændte røgelse på bjergene 
+//10 dem som tændte røgelse på bjergene
 
-og hånede mig på højene. 
+//11 og hånede mig på højene.
 
-Så jeg tilmåler først deres løn
+//8 Så jeg tilmålte først deres løn
 
-i deres skød.
+i samme mønt.
 
 ==Guds fortsatte svar: Hans frelse og nyskabelse==
 
-v8 Sådan siger HERREN: 
+//1 v8 Sådan sagde HERREN:
 
-Ligesom der findes saft i druen, 
+//3 Ligesom der findes saft i druer,
 
-og man siger: >>Ødelæg den ikke, 
+//7 og man siger:
+//8 >>Lad være med at ødelægge dem,
 
-for der er velsignelse i den,<< 
+//9 for der er velsignelse i dem,<<
 
-sådan vil jeg gøre for mine tjeneres skyld 
+//6 sådan vil jeg gøre for mine tjeneres skyld
 
-for ikke at ødelægge det hele.
+//7 for ikke at ødelægge det hele.
 
-v9 Så af Jakob vil jeg frembringe afkom 
+//5 v9 Så af Jakob vil jeg frembringe efterkommere
 
-og af Juda en arving til mine bjerge; 
+//7 og af Juda arvinger{T: Ordret ental: >>en arving<<} til mine bjerge;
 
-mine udvalgte skal arve dem, 
+//6 mine udvalgte vil arve dem,
 
-og mine tjenere skal bo der.
+//8 og mine tjenere vil bo der.
 
-v10 Og Saron skal blive til græsgang for småkvæg 
+//7 v10 Og Saron vil blive til græsgang for får og geder
 
-og Akors dal til hvileplads for okser, 
+//8 og Akors dal til hvileplads for okser,
 
-for mit folk der søger mig.
-
-***
-
-v11 Men I der forlader HERREN, 
-
-der glemmer mit hellige bjerg, 
-
-der dækker bord for Gad{T: Navnet på en afgud} 
-
-og fylder op med krydret vin for Meni,{T: Navnet på en afgud}
-
-v12 jer har jeg bestemt til sværdet, 
-
-og I skal alle knæle ned til slagtningen. 
-
-For jeg kaldte, men I svarede ikke, 
-
-jeg talte, men I hørte ikke; 
-
-men I gjorde det der var ondt i mine øjne, 
-
-og valgte jer det som jeg ikke brød mig om.
-
-v13 Derfor, sådan siger Herren HERREN: 
-
-Se, mine tjenere skal spise, 
-
-men I skal sulte; 
-
-se, mine tjenere skal drikke, 
-
-men I skal tørste; 
-
-se, mine tjenere skal glædes, 
-
-men I skal blive til skamme;
-
-v14 se, mine tjenere skal juble af hjertefryd, 
-
-men I skal skrige af hjertesmerte 
-
-og jamre af fortvivlelse.{T: Ordret: >>kvæstelse af ånden<<}
-
-v15 Og I skal efterlade jeres navn til forbandelse for mine udvalgte: 
-
->>Må så Herren HERREN dræbe dig!<< 
-
-Men sine tjenere skal han give{E: I stedet for den hebraiske teksts: *wᵊlaʕᵃvādāʸw yiqrāˀ* (>>Men sine tjenere skal han give<<), forudsætter Septuaginta: *wᵊlaʕᵃvādaî yiqqārēˀ*: >>Men min tjener skal kaldes ved<<. En del oversættere følger denne tekst.} et andet navn.
-
-v16 Hver den der velsigner sig i landet,{T: Kan også oversættes: >>på jorden<<.} skal velsigne sig 
-
-ved den trofaste Gud, 
-
-og den der sværger i landet,{T: Kan også oversættes: >>på jorden<<.} 
-
-skal sværge ved den trofaste Gud; 
-
-for glemt er de tidligere trængsler, 
-
-ja, for de er skjult for mine øjne.
+for mit folk
+//9 der søger mig.
 
 ***
 
-v17 For se, jeg skaber nye himle og den nye jord; 
+//4 v11 Men I
+//7 der forlader HERREN,
 
-og de tidligere ting skal ikke huskes 
+//6 der glemmer mit hellige bjerg,
 
-og ikke komme op i tankerne.{T: Ordret: >>i hjertet<<.}
+//7 der dækker bord for Lykkeguden
 
-v18 Tværtimod: Fryd jer og jubl til evig tid 
+//8 og fylder op med krydret vin for Skæbneguden,
 
-over det jeg skaber! 
+//5 v12 jer har jeg skæbnesvangert bestemt til sværdet,
 
-For se, jeg skaber Jerusalem til jubel 
+//7 og I vil alle knæle ned til slagtningen.
 
-og dens folk til fryd.
+//6 For jeg kaldte,
+//8 men I svarede ikke,
 
-v19 Og jeg vil juble over Jerusalem 
+//7 jeg talte,
+//8 men I hørte ikke;
 
-og fryde mig over mit folk, 
+//9 men I gjorde det der i mine øjne var ondt,
 
-og i den{T: Kan også oversættes: >>i hende<< idet der henvises til Jerusalem.} 
+//10 og
+//12 det som jeg ikke brød mig om,
+//11 det valgte I.
 
-skal der ikke mere høres 
+//2 v13 Derfor, sådan har Herren HERREN sagt:
 
-gråd eller skrig.{T: Ordret: >>gråds røst eller skrigs røst<<.}
+//3 Se, mine tjenere vil spise,
 
-v20 Derfra skal der ikke mere komme 
+//5 men I vil sulte;
 
-et spædbarn der kun lever få dage,{T: Ordret: >>et få dage gammelt spædbarn<<.} 
+//4 se, mine tjenere vil drikke,
 
-eller en gammel der ikke når sine levedages tal;{T: Ordret: >>der ikke opfylder sine dage<<.} 
+//5 men I vil tørste;
 
-for drengen skal dø hundrede år gammel, 
+//4 se, mine tjenere vil glædes,
 
-og synderen der er hundrede år gammel, skal regnes for forbandet.
+//5 men I vil blive til skamme;
+
+//4 v14 se, mine tjenere vil juble af hjertens lyst,
+
+//6 men I vil skrige af hjertens smerte
+
+//8 og jamre af fortvivlelse.{T: Ordret: >>ødelæggelse af ånden<<}
+
+//7 v15 Og I vil efterlade jeres navn til forbandelse for mine udvalgte:
+
+//8 >>Herren HERREN vil dræbe dig!<<
+
+//9 Men sine tjenere vil han give{E: LXX forudsætter: *wᵊlaʕᵃvādaî yiqqārēˀ*: >>men til mine tjenere vil blive givet<<.} et andet navn.
+
+//5 v16 Hver den
+//10 der velsigner sig i landet,{N: Jord}
+
+//9 skal velsigne sig
+
+//8 ved den trofaste Gud,
+
+//10 og den der sværger i landet,
+
+//9 skal sværge ved den trofaste Gud,
+
+//7 fordi den tidligere nød er glemt,
+
+//9 og fordi den er skjult for mine øjne.
 
 ***
 
-v21 Og de skal bygge huse og bo i dem 
+//8 v17 For se, jeg skaber en ny himmel og en ny jord;
 
-og plante vingårde og spise deres frugt.
+//9 og de tidligere vil ikke huskes
 
-v22 De skal ikke bygge for at en anden skal bebo, 
+//10 og ikke dukke op i tankerne.{N: Hjerte.}
 
-og ikke plante for at en anden skal spise; 
+//6 v18 Tværtimod: Fryd jer
+//9 og jubl til evig tid
 
-for som træets dage skal mit folks dage være, 
+//8 over det jeg skaber!
 
-og deres hænders arbejde skal mine udvalgte selv bruge.
+//7 For se, jeg skaber Jerusalem til jubel
 
-v23 De skal ikke slide forgæves 
+//10 og dens folk til fryd.
 
-og ikke føde børn til hurtig død; 
+//9 v19 Og jeg vil juble over Jerusalem
 
-for de er en slægt af HERRENS velsignede, 
+//10 og fryde mig over mit folk,
 
-og deres efterkommere er hos dem.
+//8 og i den vil lyden af gråd og skrig
 
-v24 Og det sker at før de kalder, da vil jeg svare; 
+ikke længere høres.
 
-endnu mens de taler, da vil jeg høre.
+//10 v20 Derfra vil der ikke mere komme
 
-v25 Ulv og lam skal græsse sammen,{T: Ordret: >>som én<<.} 
+et spædbarn der kun lever få dage,
 
-og løve skal æde halm som oksen, 
+//12 eller en gammel der ikke lever sin tid til ende,
 
-og en slange – støv er dens føde. 
+//11 for en dreng vil dø hundrede år gammel,
 
-De skal ikke handle ondt og ikke ødelægge 
+//12 mens en synder, der er hundrede år gammel, vil blive regnet for forbandet.
 
-på hele mit hellige bjerg, siger HERREN.
+***
 
+//9 v21 Og de vil bygge huse
+//13 og bo i dem
 
+//12 og plante vingårde
+//13 og spise deres frugt.
 
+//11 v22 De vil ikke bygge
+//15 så en anden kan slå sig ned der,
+
+//14 og ikke plante så en anden kan
+//15 spise;
+
+//13 for som træers alder vil mit folks alder blive,
+
+//14 og mine udvalgte vil selv nyde frugten af deres hænders arbejde.
+
+//12 v23 De vil ikke slide forgæves
+
+//14 og ikke føde børn til brat undergang;
+
+//13 for de er en slægt velsignet af HERREN,
+
+//14 og deres efterkommere er sammen med dem.
+
+//10 v24 Og så,
+//12 før de kalder,
+
+//14 vil jeg svare;
+
+//13 endnu mens de taler,
+//14 vil jeg høre.
+
+//11 v25 Ulv og lam vil græsse sammen,
+
+//14 og løven æder halm ligesom oksen,
+
+//13 og slangen,
+//14 dens føde er støv.
+
+//12 De vil ikke handle ondt
+//13 og ikke ødelægge
+
+på hele mit hellige bjerg,
+//14 har HERREN sagt.
