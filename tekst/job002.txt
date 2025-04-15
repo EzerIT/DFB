@@ -51,7 +51,7 @@
 //9 Forband Gud
 //10 og dø!<<
 //7 v10 Men han sagde til hende: 
-//9 >>Du taler ligesom en af de tåbelige kvinder.{H: Job 42,8. 1 Sam 25,25. Sl 14,1.} taler.
+//9 >>Du taler ligesom en af de tåbelige kvinder{H: Job 42,8. 1 Sam 25,25. Sl 14,1.} taler.
 //8 
 //9 Når vi tager imod det gode fra Gud, 
 //10 skulle vi så ikke også tage imod det onde?<<

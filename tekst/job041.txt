@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.03.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 41===
 
@@ -125,4 +125,4 @@ og arten af dens styrke og ynden over dens kropsbygning.{E: *ḥîn* findes kun 
 
 //5 v26 Alt det ophøjede ser{E: *yirʔeʰ* (>>ser<<) ændres af de fleste til *yira* (>>frygter<<). Oversættelserne er ret forskellige.} han,
 
-//4 det er ham som er konge over alle stolte skabninger.<<{T: Ordret: >>alle sønner af stolthed<<.}{E: Der er en dobbelthed i teksten, idet >>han<< kan henføre til Livjatan. De fleste oversættelser vælger dette og oversætter >>den er konge over alle stolte dyr<<.} 
+//4 det er ham som er konge over alle stolte skabninger.<<{T: Ordret: >>alle sønner af stolthed<<.}{E: Der er en dobbelthed i teksten, idet >>han<< også kan henføre til Livjatan og >>stolte skabninger<< til >>de vilde dyr<< som i Job 28,8. De fleste oversættelser vælger dette og oversætter >>den er konge over alle stolte dyr<<.} 

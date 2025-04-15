@@ -8,9 +8,9 @@
 == Job klager til Gud over sit livs elendighed==
 
 
-//0 v1 Er det ikke en krigstjeneste{E: *ṣāvāˀ* >>krigstjeneste<<. Det kan her også betyde en mere generel >>hård tjeneste<< eller >>hård kamp<<.}{H: Job 10,17; 14,14.} et menneske har på jorden, 
+//0 v1 Er det ikke en krigstjeneste{E: *ṣāvāˀ* >>krigstjeneste<<. Det kan her også betyde en mere generel >>hård tjeneste<< eller >>hård kamp<<.}{H: Job 10,17; 14,14.} et menneske har på jorden,
 
-//4 og hans dage er som en lejesoldats{E: *śāxîr* kan også betyde >>daglejer<<, jf. vers 2.} dage? 
+//4 og hans dage er som en lejesoldats{E: *śāxîr* kan også betyde >>daglejer<<, jf. vers 2.} dage?
 
 //3 v2 Som en arbejder
 //6 der længes efter skygge,
@@ -26,16 +26,16 @@
 //5 siger jeg:
 
 //6 >Hvornår skal jeg stå op?<
-//4 Aftenen bliver lang,{E: *middad* (>>udmåle<<) ændres til *midday* (>>fra at være tilstrækkelig<<) af hensyn til forståelsen.} 
+//4 Aftenen bliver lang,{E: *middad* (>>udmåle<<) ændres til *midday* (>>fra at være tilstrækkelig<<) af hensyn til forståelsen.}
 
 //5 og jeg er så træt af at vende og dreje mig helt indtil daggry.
 
-//3 v5 Min krop er dækket af maddiker og tørre skorper, 
+//3 v5 Min krop er dækket af maddiker og tørre skorper,
 
-//4 min hud sprækker 
+//4 min hud sprækker
 //6 og væsker.
 
-//5 v6 Mine dage løber hurtigere end en væveskyttel, 
+//5 v6 Mine dage løber hurtigere end en væveskyttel,
 
 //6 og de svinder hen{H: Job 7,9.} uden håb.{H: Job 4,6; 6,8.}
 
@@ -46,8 +46,8 @@
 //1 v7 Husk på
 //5 at mit liv er et pust,{N: Ånd.}{H: Job 4,9; 7,16.}
 
-//4 mit øje vil ikke igen komme til 
-//6 at se det gode. 
+//4 mit øje vil ikke igen komme til
+//6 at se det gode.
 
 //5 v8 Det bemærker mig ikke, det øje
 //6 der ser mig;
@@ -56,7 +56,7 @@
 //5 er jeg der ikke.
 
 //4 v9 En sky opløses{H: Job 7,6.}
-//6 og går væk, 
+//6 og går væk,
 
 //5 sådan er det også
 //8 for den der går ned i dødsriget,{N: Sheol.}
@@ -74,14 +74,14 @@
 
 //6 jeg vil tale ud af pinen i min ånd,{N: Ånd.}
 
-//6 jeg vil klage fyldt af bitter nød i min sjæl.{H: Sjæl.}{H: 1 Sam 1,10.}
+//6 jeg vil klage fyldt af bitter nød i min sjæl.{N: Sjæl.}{H: 1 Sam 1,10.}
 
 //5 v12 Er jeg et hav
-//7 eller et havuhyre 
+//7 eller et havuhyre
 
 //6 siden du har anbragt en vagt over mig?
 
-//4 v13 Når jeg siger: 
+//4 v13 Når jeg siger:
 //7 >Min seng skal trøste mig,
 
 //8 mit leje lette min fortvivlelse,<{H: Job 9,27.}
@@ -92,7 +92,7 @@
 
 //5 v15 Min sjæl foretrækker kvælning,
 
-//6 hellere døden end mine knogler.{T: Dvs. et liv med kun skind og ben.}{H: Sl 22,18.} 
+//6 hellere døden end mine knogler.{T: Dvs. et liv med kun skind og ben.}{H: Sl 22,18.}
 
 //3 v16 Jeg opgiver,{H: Job 42,6.}
 //4 jeg vil ikke leve evigt!
@@ -127,10 +127,9 @@
 
 //6 v21 Hvorfor tilgiver du mig ikke min overtrædelse{H: Job 31,33; 33,9.}
 
-//7 og fjerner min skyld? 
+//7 og fjerner min skyld?
 
 //2 For nu vil jeg lægge mig i støvet,
 
 //3 og søger du mig,
 //4 er jeg ikke mere.<<
-

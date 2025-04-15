@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 24===
 
@@ -91,7 +91,7 @@
 
 //8 de kender ikke lyset.
 
-//9 v17 For morgenen er for dem alle sammen som en dødsskygge,{H: Job 3,5.}
+//9 v17 For morgen er for dem alle sammen som en dødsskygge,{H: Job 3,5.}
 
 //10 ja, enhver af dem kender{H: Job 24,13.} dødsskyggens pludselige rædsler.{H: Job 18,11.}
 
@@ -125,9 +125,9 @@
 
 ***
 
-//12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige live.{E: *māšax* >>gribe, rive bort<<. Oversættelsen >>holde i live<< er her valgt ud fra sammenhængen, men flere vælger oversættelsen >>Gud river de mægtige bort<<.} med sin magt.
+//12 v22 Gud{T: Ordret: >>han<<.} holder de mægtige i live{E: *māšax* >>gribe, rive bort<<. Oversættelsen >>holde i live<< er her valgt ud fra sammenhængen, men flere vælger oversættelsen >>Gud river de mægtige bort<<.} med sin magt.
 
-//10 Han rejser sig
+//10 Han rejser sig{T: For at dømme.}
 //11 men så kan den mægtige{T: Ordret: >>han<<.} ikke stole på sit liv.
 
 //9 v23 Han giver ham sikkerhed,

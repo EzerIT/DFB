@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.01.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 3===
 
@@ -8,11 +8,11 @@
 ==Job forbander den dag han blev født==
 
 
-//0 v1 Herefter åbnede Job munden 
+//0 v1 Herefter åbnede Job munden
 //2 og forbandede{H: 1 Mos 8,21; 12,3.} den dag han blev født.{T: Ordret: >>hans dag<<.}{H: Job 3,3; 1,4. Jer 20,14.}
 
 
-//1 v2 Og Job sagde: 
+//1 v2 Og Job sagde
 //2 :
 
 //3 v3 >>Gid den blev slettet, den dag
@@ -22,13 +22,13 @@
 //7 man sagde:
 //8 >En mand er undfanget!<
 
-//5 v4 Denne dag, lad der blive mørke!{H: 1 Mos 1,3.} 
+//5 v4 Denne dag, lad der blive mørke!{H: 1 Mos 1,3.}
 
 //8 Gid Gud fra det høje ikke leder{H: Job 10,6.} efter den,
 
 //9 og intet lys skinner over den!
 
-//7 v5 Gid mørke{H: 1 Mos 1,2.4; Sl 139,11-12.} og dødsskygge{E: *ṣalmāwet* oversættes i dag ofte med >>mørke<<, anvendes 10 gange i Jobs bog.}{H: Sl 23,4. Job 12,22.} køber den tilbage, 
+//7 v5 Gid mørke{H: 1 Mos 1,2.4; Sl 139,11-12.} og dødsskygge{E: *ṣalmāwet* oversættes i dag ofte med >>mørke<<, anvendes 10 gange i Jobs bog.}{H: Sl 23,4. Job 12,22.} køber den tilbage,
 
 //8 en sky lægger sig hen over den!
 
@@ -58,7 +58,7 @@
 
 //12 og lad den heller ikke se morgenrødens øjenvipper!{H: Job 41,10.}{T: Det hebraiske ord for >>øjenlåg<<, >>øjenvipper<< er her brugt som metafor.}
 
-//9 v10 For den lukkede ikke dørene til livmoderen, 
+//9 v10 For den lukkede ikke dørene til livmoderen,
 
 //10 så den skjulte lidelsen{H: Job 3,20.} for mine øjne.
 
@@ -76,7 +76,7 @@
 //9 Og hvorfor bryster
 //10 at jeg skulle die?
 
-//7 v13 For så havde jeg nu ligget 
+//7 v13 For så havde jeg nu ligget
 //9 og været stille.
 
 //8 Jeg havde sovet,
@@ -89,9 +89,9 @@
 //11 v15 eller med ledere,
 //13 der havde guld,
 
-//12 og som fyldte deres hjem med sølv. 
+//12 og som fyldte deres hjem med sølv.
 
-//6 v16 Eller som et dødfødt foster der skjules, ville jeg ikke have været til, 
+//6 v16 Eller som et dødfødt foster der skjules, ville jeg ikke have været til,
 
 //8 som de børn
 //9 der ikke ser lyset.
@@ -122,7 +122,7 @@
 //11 Til dem som graver efter den mere end efter skjulte skatte?
 
 //10 v22 Til dem som glæder sig med fryd,
-//11 og som jubler 
+//11 og som jubler
 
 //12 når de finder graven?
 
@@ -135,7 +135,7 @@
 
 //9 og min jamren vælder frem som vand.
 
-//8 v25 For jeg skælvede{H: Job 23,15.}{E: Den hebraiske rod for >>skælve<< og >>rædsel<< er ens. Der anvendes 11 forskellige substantiver for frygt og rædsel og 10 forskellige verber, hvoraf flere kun findes i Jobs bog.} for en Guds rædsel,{H: Job 4,14.} 
+//8 v25 For jeg skælvede{H: Job 23,15.}{E: Den hebraiske rod for >>skælve<< og >>rædsel<< er ens. Der anvendes 12 forskellige substantiver for frygt og rædsel og 13 forskellige verber, hvoraf flere kun findes i Jobs bog.} for en Guds rædsel,{H: Job 4,14.}
 //10 og den er kommet over mig,
 
 //9 så

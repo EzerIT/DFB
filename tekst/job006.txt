@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs Bog, kapitel 6===
 
@@ -101,7 +101,7 @@
 //10 Når det er varmt, 
 //9 forsvinder de fuldstændigt fra deres flodlejer.
 
-//6 v18 Karavanerne bøjer af fra deres vej,
+//6 v18 Karavanerne{E: *ʔorḥôt* (>>stier<<) ændres af de fleste til *ʔorᵊḥôt* (>>karavaner<<) som i Es 21,13. Men nogle fastholder her den ordrette oversættelse >>stier<<, men ikke i vers 19.} bøjer af fra deres vej,
 
 //8 de drager op i den golde ørken{H: 1 Mos 1,2.} 
 //9 og omkommer.

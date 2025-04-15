@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 16===
 
@@ -59,7 +59,7 @@
 
 //9 Min fjende gennemborer{E: *lṭš* >>se med knive<<.} mig nu med sine øjne. 
 
-//10 v10 De har spærret munden op mod mig,
+//10 v10 De har spærret munden op mod mig,{H: Sl 22,14.}
 
 //11 i foragt har de slået mig på kinden,
 
@@ -94,7 +94,7 @@
 
 //9 v16 Mit ansigt blusser af gråd, 
 
-//10 og over mine øjenlåg hviler dødens skygge{H: Job 3,5.}
+//10 og over mine øjenlåg hviler dødsskyggen{H: Job 3,5.}
 
 //11 v17 skønt der ingen vold er i mine hænder,
 

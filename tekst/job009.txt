@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 9===
 
@@ -26,10 +26,10 @@
 //8 hvem kan gøre sig hård over for ham{H: 2 Mos 7,3.} 
 //9 og forblive uskadt?
 
-//5 v5 Han er den som flytter{E: Vers 5-10 indledes alle med et verbum i participium, som her i vers 5 er oversat med >>han er den som (flytter)<<. Dette er underforstået i de øvrige vers, og participiumformen udtrykker samtidig at Gud fortsat har denne magt.} bjerge, 
-//6 uden at de bliver klar over det.
+//5 v5 Han er den som flytter{E: Vers 5-10 indledes alle med et verbum i participium, som her i vers 5 er oversat med >>han er den som (flytter)<<. Dette er underforstået i de øvrige vers, og participiumformen udtrykker samtidig at Gud fortsat har denne magt.} bjerge
+//6 uden at de bliver klar over det,
 
-//7 som vælter dem i sin vrede.
+//7 og som vælter dem i sin vrede.
 
 //5 v6 Han får jorden til at ryste løs fra sin grundvold,
 
@@ -129,7 +129,7 @@ Orion og Syvstjernen{H: Job 38,31. Am 5,8.} og sydhimlens stjernebilleder.{T: Or
 
 //13 v24 Jorden overgives i den ugudeliges hånd,
 
-//14 han fratager dommere deres dømmekraft.{T: Ordret: >>tildækker dens dommeres ansigt<<.}
+//14 han fratager dens dommere deres dømmekraft.{T: Ordret: >>tildækker dens dommeres ansigt<<.}
 
 //12 Hvis ikke det er ham,
 

@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.03.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 34===
 
@@ -174,7 +174,7 @@ på et sted hvor alle kan se dem,
 //13 Hvis jeg har gjort uret,
 //14 vil jeg ikke gøre det mere.<
 
-//4 v33 Er det på dine vilkår at han(T: Gud) skal gengælde det,{T: Eller >>godtgøre det<<.}{H: Job 34,11.}
+//4 v33 Er det på dine vilkår at han{T: Gud} skal gengælde det,{T: Eller >>godtgøre det<<.}{H: Job 34,11.}
 //9 fordi du afviser?{H: Job 5,17.} 
 
 //8 For du skal selv vælge, 
@@ -201,7 +201,7 @@ på grund af sine svar, ligesom mænd fulde af ondskab!
 
 //7 v37 For han øger sin synd med overtrædelse,{H: Job 7,21.} 
 
-//8 i vores midte klapper han i hænderne{E: Nogle mener at ordene helt skal udelades. Andre foreslår en vokalændring af *yispôq* til *yaspiq*, der på aramaisk betyder >>tvivl<<, og flytter >>overtrædelse<< til den næste linje og oversætter >>i vores midte sår han tvivl om sin overtrædelse<<.}
+//8 i vores midte klapper han i hænderne{E: Nogle mener at ordene helt skal udelades. Det kan være udtryk for vrede ligesom i 4 Mos 24,10 hvor samme verbum er anvendt. Andre foreslår en vokalændring af *yispôq* til *yaspiq*, der på aramaisk betyder >>tvivl<<, og flytter >>overtrædelse<< til den næste linje og oversætter >>i vores midte sår han tvivl om sin overtrædelse<<.}
 
 //9 og siger rigtig mange ord til Gud<<<
 {E: *laʔēl* >>til Gud<<, >>om Gud<< oversættes af mange til >>imod Gud<<.} 

@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 15.04.2025>!!
 
 ===Jobs bog, kapitel 23===
 
@@ -62,8 +62,8 @@
 
 //5 v10 For han kender den vej jeg holder mig til. 
 
-//8 Prøv mig,{H: Job 7,18. Sl 17,3.}
-//9 og jeg kommer ud som guldet!
+//8 Prøver han mig,{H: Job 7,18. Sl 17,3.}
+//9 kommer jeg ud som guldet!
 
 //7 v11 Min fod har nøje fulgt hans fodspor,
 
