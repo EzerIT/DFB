@@ -1,10 +1,10 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
+
 ===Esajas' Bog, kapitel 27===
 
-v1 På den dag skal HERREN straffe med sit sværd, 
+//0 v1 På den dag vil HERREN straffe med sit sværd, 
 
 det tunge og store og stærke, 
 
@@ -12,104 +12,116 @@ Livjatan, den flygtige{E: Betydningen af ordet *bāriₐḥ* er omdiskuteret. An
 
 og Livjatan, den bugtede slange, 
 
-og han dræber dragen, der er i havet.
+//2 og han dræber dragen,
+//3 der er i havet.
 
-***
+ ***
 
-v2 På den dag
-skal I synge om en herlig{E: Den masoretiske tekst har: *ḥemer*: >>vin<<, men mange håndskrifter har (med støtte i gamle oversættelser): *ḥemed*: >>herlig<<.} vingård:
+//1 v2 På den dag vil der være en herlig{E: Den masoretiske tekst har: *ḥemer*: >>vin<<, men mange håndskrifter har (med støtte i gamle oversættelser): *ḥemed*: >>herlig<<.} vingård, 
+//3 I vil synge om den:
 
-v3 Jeg, HERREN, vogter den, 
+//2 v3 Jeg, HERREN, vogter den, 
 
-hvert øjeblik vander jeg den;
- 
-for at ingen skal hærge den, 
+//5 hvert øjeblik vander jeg den;
 
-vil jeg vogte den dag og nat.
+//7 for at ingen skal hærge den, 
 
-v4 Vrede har jeg ikke; 
+//6 vil jeg vogte den dag og nat.
 
-hvem giver mig tjørn og tidsel?
+//4 v4 Jeg føler ingen harme; 
 
-Med krigen vil jeg angribe det 
+//5 hvem giver mig tjørn og tidsel?
 
-og brænde det hele,
+//7 I krigen vil jeg angribe det 
 
-v5 medmindre man griber min beskyttelse,{T: Samme hebraiske ord oversættes i andre sammenhænge: >>fæstning<<.}
- 
-slutter fred med mig, 
+//8 og brænde det hele,
 
-ja, slutter fred  med mig.
+//6 v5 medmindre man griber min beskyttelse,
 
-v6 I dage{E: Den hebraiske tekst har blot: >>I det der kommer<<. Der er uden tvivl (også) tænkt på dage, men meningen kan også være: >>I alt det der kommer<<. } der kommer, skal Jakob slå rødder, 
+//7 slutter fred med mig, 
 
-Israel skal blomstre og få knopper; 
+//8 ja, slutter fred med mig.
 
-og de skal fylde verdens overflade med frugt.
+//3 v6 I de kommende dage{E: Den hebraiske tekst har blot: >>De kommende<<.} 
+//7 vil Jakob slå rødder, 
 
-v7 Har han slået sit folk på samme måde som den der slog det?{T: Ordret: >>Har han slået det, svarende til slaget fra den, der slog det?<<} 
+//8 Israel vil blomstre 
+//9 og få knopper; 
 
-Eller blev det slået ihjel, som de der dræbte det, blev slået ihjel?
+//6 og de vil fylde verden overalt med frugt.
 
-v8 Ved at jage bort, ved at forstøde, straffede du det; 
+//5 v7 Slog han mon som en der slår med slag{E: Bemærk alliterationen i de tre ord *hakkᵊmakkat makkēhû hikkāhû*.} 
 
-han fjernede det med sin kraftige storm, den dag der var østenvind.
+//8 eller som en morder der myrder med mange mord?{E: Igen alliteration *kᵊhereg hᵃrugāʸw hōrāg*.}
 
-v9 Derfor bliver Jakobs skyld sonet derved, 
+//8 v8 Ved at skræmme, 
+//9 ved at sende det væk, 
+//7 vil du straffe det. 
 
-og dette er hele frugten af at hans synd fjernes: 
+//8 Han fjernede det med sin kraftige storm, den dag der var østenvind.
 
-At han gør så alle altrets sten 
+//6 v9 Derfor bliver Jakobs skyld sonet ved dette, 
 
-bliver som knuste kalksten; 
+//8 og dette er hele frugten af 
+//9 at hans synd fjernes: 
 
-der skal ikke mere stå Astarte-pæle og røgelsesaltre.{E: Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med >>røgelsesalter<<. Andre foreslår: >>sol-søjler<<.}
+//8 At han behandler alle altrets sten 
 
-***
+som knuste kalksten; 
 
-v10 For den befæstede by ligger ensom, 
+//7 de står ikke længere som Astarte-pæle og røgelsesaltre.{E: Ordet *ḥammān* oversættes af andre med >>sol-søjler<<.}
 
-en forladt boplads og øde som en ørken; 
+ ***
 
-dér skal en kalv græsse, 
+//8 v10 For den befæstede by ligger ensom, 
 
-og dér skal den ligge
-og æde dens kviste.
+//10 en forladt boplads og øde som en ørken; 
 
-v11 Når dens gren er tør, 
+//9 dér skal en kalv græsse, 
 
-da skal den brækkes af, 
+//11 og dér skal den ligge 
 
-kvinder kommer og antænder den; 
+//12 og æde dens kviste.
 
-for det er et folk uden indsigt, 
+//11 v11 Når dens gren er tør, 
 
-derfor vil han, der skabte det, ikke forbarme sig over det, 
+//10 da skal den brækkes af, 
 
-og han, der dannede det, vil ikke være nådig imod det.
+//12 kvinder kommer 
+//13 og antænder den; 
 
-==Profeti om israelitternes tilbagevenden til deres land==
+//11 for det er et folk uden indsigt, 
 
-v12 Men det skal ske på den dag 
+//12 derfor vil han, der skabte det, ikke forbarme sig over det, 
 
-at HERREN skal slå frugter ned lige fra flodens {T: Eufrats} strøm 
+//13 og han, der dannede det, vil ikke være nådig imod det.
+
+ ==Profeti om israelitternes tilbagevenden til deres land==
+
+//4 v12 På den dag 
+
+//5 vil HERREN slå frugter ned lige fra flodens{T: Eufrats} strøm 
 
 til Egyptens Bæk; 
 
-og I skal samles op 
+//6 og I skal samles op 
 
-én for én, Israels børn!
+én for én, 
+//7 I israelitter!
 
-v13 Og det skal ske på den dag 
+//4 v13 På den dag 
 
-at der skal blæses i en stor basun;
+//5 vil der blive blæst i en stor basun, 
 
-så skal de komme, de der forsvandt i Assyriens land, 
+//6 så de kommer, 
 
-og de fordrevne i Egyptens land, 
+//8 de der forsvandt i Assyriens land, 
 
-og bøje sig tilbedende ned for HERREN 
+//9 og de der var fordrevne i Egyptens land, 
+
+//7 og tilbeder HERREN 
 
 på det hellige bjerg i Jerusalem.
+
 
 

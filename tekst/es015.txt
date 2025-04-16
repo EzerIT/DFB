@@ -1,85 +1,90 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
 
 ===Esajas' Bog, kapitel 15===
 
 ==Mod Moab==
-v1 Udsagn om Moab: 
+//0 v1 Udsagn om Moab 
 
-Ja, en nat bliver Ar-Moab ødelagt, udslettet. 
+//1 Ja, en nat bliver Ar-Moab ødelagt, 
+//5 udslettet. 
 
-Ja, en nat bliver Kir-Moab ødelagt, udslettet.
+//4	en nat bliver Kir-Moab ødelagt, 
+//5 udslettet.
 
-v2 Han er gået op til Bayit og Dibon,{E: Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: >>Dibons datter er steget op<<.} 
+//3 v2 Han er gået op til Bayit 
+//5 og Dibon,{E: Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: >>Dibons datter er steget op<<.} 
 
 til højene for at græde; 
 
-på Nebo og på Medeba 
+//4 på Nebo og på Medeba 
 
-skal Moab jamre, 
+vil Moab jamre, 
 
-hvert af dets hoveder er skaldet, 
+//5 hvert af dets hoveder er skaldet, 
 
-hvert skæg barberet af.
+//7 hvert skæg barberet af.
 
-v3 På dets{E: Maskulinum: Det går på folket.} gader binder de sæk om sig, 
+//6 v3 På dets{E: Maskulinum: Det går på folket.} gader binder de sæk om sig, 
 
-på dets{E: Femininum: Det går på landet.} tage 
+//7 på dets{E: Femininum: Det går på landet.} tage 
 
-og på dets torve jamrer enhver, 
+og på dets torve jamrer enhver,
 
-synker ned i gråd.
+//9 synker ned i gråd.
 
-v4 Heshbon og El’ale skriger, 
+//8 v4 Heshbon og El’ale skriger, 
 
-lyden fra dem høres til Jahas. 
+//10 lyden fra dem høres til Jahas. 
 
-Derfor jamrer de bevæbnede mænd i Moab, 
+//9 Derfor jamrer de bevæbnede mænd i Moab, 
 
-hver sjæl er modløs.
+//10 hver enkelt person{N: Sjæl} er modløs.
 
-v5 Mit hjerte skriger over Moab, 
+//2 v5 Mit hjerte skriger over Moab, 
 
-dets flygtninge søger til Soar, til Eglat-Shelishija; 
+//4 dets flygtninge søger til Soar, til Eglat-Shelishija; 
 
-for stigningen til Luhit 
+//3 for stigningen til Luhit 
 
-– med gråd bestiger man den, 
+//5 – med gråd bestiger man den, 
 
-for på vejen til Horonaim 
+//4 for på vejen til Horonaim 
 
 udstøder de et fortvivlelsens skrig.
 
-v6 For Nimrims vande 
+//7 v6 For Nimrims vande 
 
 bliver til ørken, 
 
-for græs tørrer ind, friske planter forsvinder, 
+//8 for græs tørrer ind,
+//9 friske planter forsvinder, 
 
-der er intet grønt.
+//10 der er intet grønt.
 
-v7 Derfor, et forråd man har skaffet sig, 
+//6 v7 Derfor, et forråd 
+//9 man har skaffet sig, 
 
-og det de har lagt til side 
+//8 og det de har lagt til side 
 
-– over Arabim-bækken
+//7 – over Arabim-wadien 
 
 bærer de det.
 
-v8 Ja! Skriget rækker ud 
+//5 v8 Ja! Skriget rækker ud 
 
 over hele Moabs land, 
 
-dets jammer til Eglajim 
+//7 dets jammer til Eglajim 
 
-og dets jammer til Be’er-Elim.
+//8 og dets jammer til Be’er-Elim.
 
-v9 For Dimons vande er fulde af blod, 
+//6 v9 For Dimons vande er fulde af blod, 
 
-ja, jeg vil lade endnu mere komme over Dimon 
+//7 ja, jeg vil lade endnu mere komme over Dimon 
 
-– en løve over Moabs undslupne 
+//8 – en løve over Moabs undslupne 
 
-og over dem der er tilbage i landet.
+//9 og over dem der er tilbage i landet.
+

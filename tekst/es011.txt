@@ -1,16 +1,15 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
 
 ===Esajas' Bog, kapitel 11===
 
 ==Isajs rodskud==
-v1 Men der skal spire en kvist frem af Isajs stub, 
+//0 v1 Men der vil spire en kvist frem af Isajs stub, 
 
-og et skud fra hans rødder skal bære frugt.{E: En del oversættere følger Septuaginta, der skal oversættes: >>gro frem<<, der forudsætter disse hebræiske konsonanter: *yfrḥ* i stedet for den masoretiske teksts: *yfrh*}
+//3 og et skud fra hans rødder vil bære frugt.{E: I stedet for *yfrh* læser Septuaginta *yfrḥ*  (>>gro frem<<).}
 
-v2 Og HERRENS Ånd skal hvile over ham, 
+//2 v2 Og HERRENS Ånd vil hvile over ham, 
 
 visdoms og indsigts Ånd, 
 
@@ -18,107 +17,111 @@ råds og styrkes Ånd,
 
 den Ånd der giver kundskab og frygt for HERREN.
 
-v3 Hans glæde skal være i frygt for HERREN, 
+//4 v3 Hans glæde vil være frygt for HERREN, 
 
-og han skal ikke dømme efter det hans øjne ser, 
+//6 og han vil ikke dømme efter det hans øjne ser, 
 
-og ikke fælde dom efter det hans ører hører.
+//6 og ikke fælde dom efter det hans ører hører.
 
-v4 Men han skal dømme ringe med retfærdighed 
+//7 v4 Men han vil dømme svage med retfærdighed 
 
-og fælde dom med retfærdighed for landets{T: Kan også oversættes: >>jordens<<.} elendige; 
+//5 og fælde dom med retfærdighed for landets{N: Jord} elendige; 
 
-han skal slå jorden{T: Kan også oversættes: >>landet<<.}{E: En del oversættere går ud fra en fejlskrivning i den hebraiske tekst så der ikke skal stå: *ʔereṣ* (>>jord<<), men: *ʕārēṣ*: >>voldsmand<<.} med sin munds stav 
+//5 han vil slå jorden{N: Jord}{E: Ordet kan omvokaliseres fra*ʔereṣ* (>>jord<<) til *ʕārēṣ* (>>voldsmand<<).} med sin munds stav 
 
-og dræbe gudløs med sine læbers ånde.
+//7 og dræbe gudløse med sine læbers ånde.
 
-v5 Retfærdighed skal være hans hofters bælte 
+//6 v5 Retfærdighed vil være hans hofters bælte 
 
-og trofastheden hans lænders bælte.
+//7 og trofastheden hans lænders bælte.
 
-v6 Ulv skal bo sammen med lam, 
+//3 v6 Ulven vil bo sammen med lammet, 
 
-og panter ligge sammen med kid; 
+//6 og panteren ligge sammen med kiddet; 
 
-kalv og ungløve og fedekalv{E: Mange oversættere følger her bl.a. Septuaginta, der i stedet for *ûmᵊrîʔ* (>>og fedekalv<<) ser ud til at have læst: *yirʕû*: >>skal græsse<<.} skal være sammen, 
+//7 kalven, ungløven og fedekalven{E: *ûmᵊrîʔ* (>>og fedekalv<<) ser i Septuaginta ud til at være læst  *yirʕû* (>>vil græsse<<).} er sammen, 
 
-og en lille dreng skal vogte dem.
+//8 og en lille dreng vogter dem.
 
-v7 Ko og bjørn skal græsse,{E: Hebraisk: *tirʕeʸnāʰ*. Man går ofte ud fra at der skulle have stået: *titrāʕeʸnāʰ*: >>skal blive venner<<.} 
+//5 v7 Koen og bjørnen græsser,{E: Hebraisk: *tirʕeʸnāʰ* rettes ofte  til *titrāʕeʸnāʰ* (>>bliver venner<<).} 
 
-deres unger skal ligge sammen, 
+//7 deres unger ligger sammen, 
 
-og løve skal æde strå som oksen.
+//6 og løven æder strå som oksen.
 
-v8 Spædbarn skal lege over giftslangens hul 
+//7 v8 Spædbarnet leger over giftslangens hul, 
 
-og hen over hugormens{T: Der er formodentlig tænkt på en bestemt giftslange, men det er uvist, hvilken det er.} hule
+//8 og hen over hugormens hule
 
-skal fravænnet barn stikke sin hånd.
+vil fravænnet barn stikke sin hånd.
 
-v9 De skal ikke gøre ondt og ikke ødelægge på hele mit hellige bjerg, 
+//4 v9 De vil ikke gøre ondt 
+//6 og ikke ødelægge på hele mit hellige bjerg, 
 
-for landet{T: Kan også oversættes: >>jorden<<.} er fuldt af kundskab om HERREN, 
+//5 for landet{N: Jord} er fuldt af kundskab om HERREN, 
 
-som vandene dækker havets bund.{T: Ordret blot: >>som vandene dækker havet<<.}
+//6 som vandene dækker havets bund.{T: Ordret blot: >>som vandene dækker havet<<.}
 
-==Profeti om Israels hjemkomst og genrejsning==
-v10 Det skal ske på den dag 
+ ==Profeti om Israels hjemkomst og genrejsning==
+//1 v10 På den dag 
 
-at Isajs rodskud, der står som et banner for folkeslag 
+//3 vil det være Isajs rodskud, 
+//6 der står som et banner for folkene, 
 
-– til ham skal folkene{T: Kan også oversættes: >>hedninger<<.} søge, 
+//5 til ham vil folkeslagene søge hen, 
 
-og hans bolig skal være herlig.
+//4 og hans bolig vil være herlig.
 
-v11 Og det skal ske på den dag
+//2 v11 På den dag
 
-at Herren igen, for anden gang, skal række sin hånd ud 
+//3 vil Herren igen, for anden gang, række sin hånd ud 
 
-for at løskøbe den rest af sit folk 
+//6 for at løskøbe den rest af sit folk 
 
-som er tilbage fra Assyrien og Egypten, 
+//7 som er tilbage, fra Assyrien og Egypten, 
 
 fra Pathros, Nubien, Elam, 
 
 Sinear, Hamat og fra havets øer.
 
-v12 Og han skal rejse et banner for folkene{T: Kan også oversættes: >>hedningerne<<.} 
+//5 v12 Og han vil rejse et banner for folkene 
 
-og samle Israels fordrevne 
+//7 og samle Israels fordrevne 
 
-og bringe Judas spredte{E: I grundteksten er >>fordrevne<< maskulinum, og >>spredte<< er femininum. Dermed understreges det, at løftet gælder både mænd og kvinder.} sammen 
+//8 og bringe Judas spredte{E: *nidḥê* (>>fordrevne<<) er maskulinum, men *nᵊfuṣôt* (>>spredte<<) femininum, måske for at inkludere kvinder i løftet.} sammen 
 
 fra jordens fire hjørner.
 
-v13 Efraims skinsyge skal forsvinde, 
+//6 v13 Efraims skinsyge vil forsvinde 
 
-og Judas fjendskab {T: Ordret: >>fjendtlige<<.} skal udryddes; 
+//8 og Judas angribere blive udryddet; 
 
-Efraim skal ikke være skinsyg på Juda, 
+//7 Efraim vil ikke være skinsyg på Juda, 
 
-og Juda skal ikke være fjendtlig mod Efraim.
+//9 og Juda vil ikke være fjendtlig mod Efraim.
 
-v14 Men de skal flyve ind på filistrenes skuldre{T: Der er tænkt på filistrenes >>bakker<<.} imod vest, 
+//8 v14 Men de vil flyve ind over filistrenes bakker{T: Ordret >>skuldre<<.} imod vest, 
 
-sammen skal de plyndre østens sønner. 
+//9 sammen vil de plyndre østens befolkninger. 
 
-Edom og Moab skal blive et bytte for deres hånd, 
+//10 Edom og Moab vil blive et bytte for deres hånd, 
 
-og Ammons sønner skal blive deres undersåtter.
+//11 og Ammonitternes børn vil blive deres undersåtter.
 
-v15 HERREN skal lægge band på Egypterhavets vig 
+//4 v15 HERREN vil lægge band på Egypterhavets vig 
 
-og svinge sin hånd ud over floden med sin Ånds glød, {E: De gamle oversættelser har tilsyneladende i stedet for: *baʕyām rûḥô* (>>med sin Ånds glød<<) læst: *bᵊʕōṣēm rûḥô*: >>med sin kraftige storm<<.} 
+//6 og svinge sin hånd ud over floden med sin åndes glød, {E: *baʕyām* (>>glød<<) blev i de gamle oversættelser gengivet som *bᵊʕōṣēm rûḥô* (>>med sin kraftige storm<<).} 
 
-og han skal splitte den til syv bække, 
+//7 og han vil splitte den til syv wadier, 
 
-så man kan gå over med sko.
+//8 så man kan gå over med sko.
 
-v16 Og der skal være en ryddet vej for den rest af hans folk 
+//5 v16 Og der vil være en ryddet vej for den rest af hans folk 
 
-der bliver tilbage fra Assyrien, 
+//7 der bliver tilbage fra Assyrien, 
 
-ligesom der var for Israel 
+//6 ligesom der var for Israel 
 
-den dag det drog op fra Egyptens land.
+//7 den dag det drog op fra Egyptens land.
+
+

@@ -1,221 +1,244 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
 
 ===Esajas' Bog, kapitel 14===
 
 ==Israels hjemkomst==
-v1 For HERREN vil forbarme sig over Jakob og igen udvælge Israel og anbringe dem i deres land; og den fremmede skal slutte sig til dem, og de skal holde sig til Jakobs hus.
-v2 Og folkeslag skal tage dem og bringe dem til deres sted, og Israels hus skal tage dem i besiddelse som trælle og trælkvinder i HERRENS land, så de holder dem fanget som de selv var fanget af, og hersker over deres undertrykkere.
+//0 v1 For HERREN vil forbarme sig over Jakob
+//4 og igen udvælge Israel 
+//3 og anbringe dem i deres land; 
+//4 og den fremmede vil slutte sig til dem, 
+//6 og de vil holde sig til Jakobs hus.
+//5 v2 Folkene vil tage dem 
+//7 og bringe dem til deres sted, 
+//6 og Israels hus vil tage dem i besiddelse som karle og tjenestepiger i HERRENS land; 
+//7 de holder dem fanget som de selv var fanget af, 
+//8 og hersker over deres undertrykkere.
 
-==Israels spottesang over Babyloniens konge==
-v3 Og det skal ske på den dag når HERREN skaffer dig ro efter din trængsel og din uro og efter det hårde arbejde som blev udført af dig:
-v4 Da skal du istemme denne spottesang imod Babyloniens konge og sige: 
+ ==Israels spottesang over Babyloniens konge==
+//2 v3 På den dag, 
+//4 når HERREN skaffer dig ro efter din trængsel og din uro og efter det hårde arbejde
+//5 som blev udført af dig,
 
->>Hvor en undertrykker dog er færdig, 
+//3 v4 da vil du istemme denne spottesang imod Babylons konge 
+//5 og sige:
 
-hans hærgen{E: Den hebraiske tekst har: *madhēvāʰ*, der kun optræder her i GT. Det betyder formodentlig >>arrogance<<. Oftest går man ud fra, at der skulle der stå: *marhēvāʰ*: >>hærgen<<, der støttes af de gamle oversættelser og et enkelt hebraisk håndskrift.} er slut!<<
+//6 >>Hvor en undertrykker dog er færdig, 
 
-v5 HERREN har brækket ugudeliges stok, 
+//9 hans hærgen{E: I stedet for *madhēvāʰ* (>>arrogance<<) læses  *marhēvāʰ* (>>hærgen<<), der støttes af de gamle oversættelser og et enkelt hebraisk håndskrift.} er slut!<<
 
-herskernes stav,
+//8 v5 HERREN har brækket ugudeliges stok, 
+ herskernes stav,
 
-v6 der slog folk i harme 
+//9 v6 der slog folk i harme 
+ med slag uden ophør,
 
-med slag uden ophør, 
+//10 herskede over de folkeslag i vrede, i forfølgelse, {E: *murdāf* (>>forfølgelse<<) opfattes som fejlskrivning for tekstens *mirdat* (>>herredømme<<).}  
+//11 uden at han viste skånsel.
 
-herskede over folkeslag i vrede, 
+//7 v7 Hele jorden{N: Jord.} hviler 
+//8 og har ro, 
 
-forfølgelse,{E: Ofte foreslås det at *murdāf* (>>forfølgelse<<) er fejlskrivning for: *mirdat*: >>herredømme<<.}  uden at han viste skånsel.
+//10 de bryder ud i jubel.
 
-v7 Hele jorden{T: Kan også oversættes: >>landet<<.} hviler og har ro, 
+//11 v8 Cypresserne glæder sig over dig 
 
-de bryder ud i jubel.
+//12 sammen med Libanons cedre: 
 
-v8 Enebærtræerne glæder sig over dig 
+//13 >>Siden du er lagt ned, 
+//14 kommer ingen over os for at fælde os.<<
 
-sammen med Libanons cedre: 
+//9 v9 Dødsriget{N: Sheol.} dernede ryster 
+//12 for at møde dig
 
->>Siden du er lagt ned, kommer ingen op 
+//13 når du kommer; 
 
-for at fælde os.<<
+//11 det vækker dødninge for dig, 
+ alle jordens herskere,
 
-v9 Dødsriget dernede ryster for dig 
+//11 de rejser sig fra deres troner. 
+ alle folkeslagenes konger
 
-ved dit komme; 
+//12 v10 De svarer alle sammen 
 
-det vækker dødninge for dig, 
+//13 og siger til dig: 
 
-alle jordens herskere, 
+//14 >>Også du er blevet kraftløs ligesom vi, 
 
-det får alle folkenes konger 
+//15 du ligner os!<<
 
-til at rejse sig fra deres troner.{T: Rytmen i den hebraiske tekst forudsætter egentlig: >>det får til at rejse sig fra deres troner/alle folkenes konger.<<}
+//10 v11 Din stolthed er styrtet ned i dødsriget
+ dine harpers klang;  
 
-v10 De svarer alle sammen 
+//11 under dig bredes maddiker ud som leje, 
 
-og siger til dig: 
+//12 orm er dit dække.
 
->>Også du er blevet kraftløs ligesom vi, 
+//6 v12 Hvordan er du dog faldet ned fra himlen, 
 
-du ligner os!<<
+//9 du morgenstjerne,{E: *hêlēl* (>>hyl/klag dig<<) ændres i vokalisering til *hêlāl* (>>morgenstjerne<< eller >>du lysende/strålende<<). LXX tolkede ordet som navn for >>Lucifer<<.} du morgenrødens søn? 
 
-v11 Din herlighed er styrtet ned i dødsriget, 
+//8 Du ligger fældet på jorden, 
 
-dine harpers klang; 
+//9 du der besejrede {H: 2 Mos 17,13.} folkeslag.
 
-under dig bredes maddiker ud som leje, 
+//7 v13 Og du sagde i dit hjerte: 
 
-orm er dit dække.
+//9 >>Jeg vil stige op til himlen, 
+ oppe over Guds stjerner 
+ vil jeg rejse min trone,
 
-v12 Hvordan er du dog faldet ned fra himlen, 
+//11 og jeg vil sætte mig på rådsforsamlingsbjerget 
 
-du morgenstjerne,{E: Oversættelsen er omdiskuteret. Den masoretiske teksts: *hêlēl* må oversættes: >>hyl/klag dig<<. Som regel går man ud fra en let ændret vokalisering: *hêlāl* og oversætter: >>morgenstjerne<< eller: >>du lysende/strålende<<. LXX og Septuaginta har forstået ordet som navn for >>Lucifer<<. Denne oversættelse er dog stort set opgivet.} du morgenrødens søn? 
+//12 i det yderste nord;
 
-Du er smadret til jorden, 
+//10 v14 jeg vil stige op over skyhøjderne, 
 
-du der besejrede folkeslag.
+//11 jeg vil gøre mig lige med den Højeste!<<
 
-v13 Og du sagde i dit hjerte: 
-
->>Jeg vil stige op til himlen, 
-
-oppe over Guds stjerner 
-
-vil jeg rejse min trone, 
-
-og jeg vil sætte mig på rådsforsamlingsbjerget{T: Ofte opfattet som bjerget, hvor guderne samles.} 
-
-i det yderste nord;
-
-v14 jeg vil stige op over skyhøjderne, 
-
-jeg vil gøre mig lige med den Højeste!<<
-
-v15 Men til dødsriget vil du blive bragt ned, 
-
+//8 v15 Men til dødsriget vil du blive bragt ned, 
 til gravens dybder!
 
-v16 Når de ser dig, skal de stirre på dig, 
+//9 v16 Når de ser dig, 
+//10 vil de stirre på dig, 
 
-de skal give agt på dig: 
+//11 de vil give agt på dig: 
 
->>Er det virkelig den mand der fik jorden til at ryste, 
+//14 >>Er det virkelig den mand der fik jorden til at ryste, 
 
-der fik kongeriger til at vakle,
+//15 der fik kongeriger til at vakle,
 
-v17 der gjorde verden til en ørken 
+//13 v17 der gjorde verden til en ørken 
 
-og nedrev byer, 
+//14 og nedrev byer, 
 
-der ikke lod sine fanger tage hjem?<<
+//15 der ikke lod sine fanger tage hjem?<<
 
-v18 Alle folkenes konger, 
+//12 v18 Alle folkenes konger, 
 
-alle lå de med ære 
+//15 alle lå de i herlighed, 
 
-hver i sit hus;
+//16 hver i sit hus;
 
-v19 men du, du er smidt hen, fjernt fra din grav, 
-
+//14 v19 men du, du er smidt hen, fjernt fra din grav, 
 som en foragtet kvist, 
 
-dækket til med dræbte, der er gennemboret med sværd, 
+//15 dækket til med dræbte, der er gennemboret med sværd, 
 
-der går ned i stenfyldt grav; 
-
+//16 der går ned i stenfyldt grav; 
 som et nedtrådt ådsel.
 
-v20 Du skal ikke forenes med dem i en grav, 
+//13 v20 Du vil ikke forenes med dem i en grav, 
 
-for dit land har du lagt øde, 
+//14 for dit land har du lagt øde, 
 
-dit folk har du dræbt; 
+//15 dit folk har du dræbt; 
 
-for evigt skal ikke nævnes
-
+//4 for evigt nævnes ikke
 ondes afkom.
 
-v21 Gør en slagtebænk klar til hans sønner 
-
+//7 v21 Gør en slagtebænk klar til hans sønner 
 på grund af deres fædres synd, 
 
-så de ikke rejser sig og tager jorden i besiddelse 
+//8 så de ikke rejser sig 
+//9 og tager jorden i besiddelse 
 
-eller fylder verdens overflade med byer.
+//9 eller fylder verden overalt med byer.
 
-v22 >>Jeg vil rejse mig imod dem,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn, >>og jeg vil udslette Babyloniens navn og rest og afkom og slægt,<< lyder HERRENS udsagn.
-v23 >>Og jeg vil gøre den til ejendom for pindsvin og til vandfyldt sump og feje den væk med ødelæggelsens kost,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn.
+//6 v22 >>Jeg vil rejse mig imod dem,<< 
+//8 lyder Hærskarers HERRES{N: Hærskarers} udsagn, 
+//7 >>og jeg vil udslette Babyloniens navn og rest og afkom og slægt,<< 
 
-==Mod Assyrien==
-v24 Hærskarers HERRE{N: Hærskarers} har svoret og sagt: >>Sandelig, 
+//9 lyder HERRENS udsagn.
 
-som jeg har tænkt mig, 
+//8 v23 >>Og jeg vil gøre den til ejendom for pindsvin 
+//10 og til vandfyldt sump 
+//9 og feje den væk 
+//10 med ødelæggelsens kost,<< 
+//11 lyder Hærskarers HERRES udsagn.
 
-skal det blive, 
+ ==Mod Assyrien==
 
-og som jeg har besluttet, 
+//5 v24 Hærskarers HERRE har svoret 
+//7 og sagt: 
+//8 >>Sandelig, 
 
-skal det ske:
+//9 som jeg har tænkt mig, 
 
-v25 At jeg skal knuse Assur i mit land 
+//11 vil det blive, 
 
-og trampe ham ned på mine bjerge, 
+//10 og som jeg har besluttet, 
 
-så hans åg skal vige fra dem, 
+//11 vil det ske:
 
-og hans byrde fjernes fra deres skuldre!<<
+//13 v25 At jeg vil knuse Assur i mit land 
 
-v26 Det er den plan der er lagt 
+//12 og trampe ham ned på mine bjerge, 
 
-for hele jorden, 
+//13 så hans åg vil vige fra dem, 
 
-og det er den hånd der er strakt ud 
+//14 og hans byrde fjernes fra deres skuldre!<<
 
+//6 v26 Det er den plan 
+//9 der er lagt 
+ for hele jorden,
+
+//8 og det er den hånd 
+//9 der er strakt ud 
 over alle folkeslagene.
 
-v27 For Hærskarers HERRE{N: Hærskarers} har besluttet det, 
+//5 v27 For Hærskarers HERRE har besluttet det, 
 
-hvem kan så sætte det ud af kraft? 
+//7 hvem kan så forhindre det? 
 
-Og hans hånd er strakt ud, 
+//8 Hans hånd er strakt ud, 
 
-hvem kan så tvinge den tilbage?
+//9 hvem kan så tvinge den tilbage?
 
-==Mod Filistæa==
-v28 I det år, hvor kong Akaz døde, kom dette udsagn:
+ ==Mod Filistæa==
 
-v29 Glæd dig ikke, hele du Filistæa, 
+//1 v28 I det år hvor kong Akaz døde, kom dette udsagn:
 
-over at en stav, som slog dig, er brækket; 
+//2 v29 Glæd dig ikke, 
+//5 hele du Filistæa, 
 
-for fra slangens rod skal der komme en giftslange,{T: Det er usikkert hvilken slange der er tale om, men det er en særlig giftig slange, tidligere oversat: >>basilisk<<.} 
+//4 over at den blev knækket, den stav 
+//6 som slog dig; 
 
-og dens afkom er en flyvende drage.{T: Det er usikkert hvilket væsen der er tale om; det drejer sig formodentlig om en flyvende giftslange.}
+//5 for fra slangens rod vil der komme en giftslange, 
 
-v30 Og de førstefødte af de ringe{T: Vendingen opfattes oftest som udtryk for: >>de fattigste fattige<<.}{E: Det foreslås ofte at rette *bᵊxôrê* (>>de førstefødte af<<) til: *bᵊxārî*: >>på min græsgang<<, så sætningen skal lyde: >>Og de ringe skal græsse på min græsgang.<< Rettelsen har dog ikke støtte i noget håndskrift.}  
+//7 og dens afkom er en flyvende drage.
 
-skal finde mad,{T: Ordret: >>skal græsse<<.} 
+//6 v30 Og de førstefødte af de ringe{E: *bᵊxôrê* (>>de førstefødte af<<) rettes ofte til *bᵊxārî* (>>på min græsgang<<).} 
+vil finde mad,{T: Ordret: >>vil græsse<<.} 
 
-og de fattige lejre sig trygt; 
+//8 og de fattige lejre sig trygt; 
 
-men jeg vil dræbe din rod med sult, 
+//7 men jeg vil dræbe din rod med sult, 
 
-og man skal myrde din rest.
+//8 og man vil myrde din rest.
 
-v31 Hyl, du port! 
+//3 v31 Hyl, 
+//4 du port! 
 
-Skrig, du by! 
+//3 Skrig, 
+//5 du by! 
 
-Fortvivl, hele du Filistæa! 
+//4 Fortvivl, 
+//6 hele du Filistæa! 
 
-For fra nord kommer der røg, 
+//5 For fra nord kommer der røg, 
 
-og i hans horder{T: Andre oversætter: >>samlingssted<<. Oversættelsen er usikker. Ordet *môʕād* forekommer kun her.} er ingen alene.
+//7 og og ingen er alene i hans horder.
 
-v32 Og hvad skal man svare et folks budbringere?  
+//6 v32 Og hvad skal man svare et folkeslags budbringere?  
 
-At HERREN har grundlagt Zion, 
+//7 At HERREN har grundlagt Zion, 
 
-og dér{T: Ordret: >>på den<<.} skal de elendige i hans folk søge tilflugt.
+//8 og dér{T: Ordret: >>på den<<.} skal de elendige i hans folk søge tilflugt.
+
+
+
+
+

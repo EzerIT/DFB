@@ -1,159 +1,176 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
 
 ===Esajas' Bog, kapitel 13===
 
 ==Profeti om Babylonien==
-v1 Et udsagn om Babylonien, som Esajas, Amos' søn, skuede.{T: Der er tænkt på en profetisk vision.}
 
-v2 Rejs banner på et nøgent bjerg, 
+//0 v1 Et udsagn om Babylonien,
+//2 som Esajas, Amos' søn, skuede.{H: Es 1,1; 2,1.}
 
-råb højt til dem, 
+//1 v2 Rejs banner på et nøgent bjerg, 
 
-vink med hånden, så de går ind 
+//3 råb højt til dem, 
 
-ad fyrsternes porte!
+//6 vink med hånden, 
 
-v3 Jeg har givet befaling til mine indviede 
+//5 så de går ind
 
-og har også kaldet mine helte til at tjene min vrede 
+ad de fornemmes porte!
 
-– de som jubler over min storhed.
+//4 v3 Jeg har givet befaling til mine indviede 
 
-v4 Der høres en larm på bjergene 
+//5 og har også kaldet mine helte til at tjene min vrede,
 
-som af et stort folk, 
+de der jubler over min storhed.
 
-der høres kongerigers bulder,
+//2 v4 Der høres en larm på bjergene 
+
+//6 som af et stort folk, 
+
+//5 en buldrende lyd fra kongeriger,
 
 folkeslag der samles; 
 
-Hærskarers HERRE{N: Hærskarers} mønstrer 
+//4 Hærskarers HERRE{N: Hærskarers} mønstrer
 
-en krigshær.
+sin hærskare.
 
-v5 De kommer fra et land langt borte, 
+//5 De kommer fra et land langt borte,
 
-fra himlens ende, 
+fra himlens ende,
 
 HERREN og hans vredes redskab, 
 
-for at ødelægge hele landet.{T: Kan også oversættes: >>hele jorden<<, men i sammenhængen er der tale om Babylonien.}
+//6 for at ødelægge hele landet.{N: Jord}
 
-v6 I skal jamre, for HERRENS dag er nær, 
+//3 v6 I skal jamre,
+//5 for HERRENS dag er nær, 
 
-som en ødelæggelse fra Den Almægtige skal den komme.
+//6 som en ødelæggelse fra Den Almægtige vil den komme.
 
-v7 Derfor skal alle hænder blive slappe 
+//7 v7 Derfor vil alle hænder blive slappe 
 
-og hvert menneskehjerte blive modløst.
+//9 og hvert menneskehjerte blive modløst.
 
-v8 Og de skal forfærdes, 
+//10 v8 Og de vil blive forfærdede, 
 
-veer og smerter skal gribe dem, 
+//8 veer og smerter vil gribe dem, 
 
-de skal vride sig som den der føder, 
+//9 de vil vride sig som den der føder, 
 
-de skal se forfærdede på hinanden, 
+//11 enhver
+//10 ser forfærdet på sin sidemand
 
-deres ansigter er blussende ansigter.
+//11 deres ansigter er blussende ansigter.
 
-v9 Se, HERRENS dag kommer frygtelig, med harme og glødende vrede, 
+//4 v9 Se, HERRENS dag kommer frygtelig, med harme og glødende vrede, 
 
-for at lægge landet{T: Kan også oversættes: >>jorden<<.} øde 
+//9 for at lægge landet{N: Jord} øde 
 
-og udrydde dets syndere fra det. 
+//8 og udrydde dets syndere fra det. 
 
-v10 For himlens stjerner og dens stjernebilleder 
+//7 v10 For himlens stjerner og dens stjernebilleder 
 
-skal ikke lade deres lys stråle, 
+vil ikke lade deres lys stråle, 
 
-solen er mørk når den står op, 
+//9 solen er mørk
+//11 når den står op, 
 
-og månen skal ikke lade sit lys skinne.
+//10 og månen lader ikke sit lys skinne.
 
-v11 Jeg vil straffe verden for ondskab 
+//8 v11 Jeg vil straffe verden for dens ondskab 
 
-og gudløse for deres misgerning; 
+//11 og gudløse for deres misgerning; 
 
-og jeg vil gøre ende på overmodiges hovmod, 
+//10 og jeg vil gøre ende på overmodiges hovmod, 
 
-og voldsmænds overmod vil jeg ydmyge.
+//11 og voldsmænds overmod vil jeg ydmyge.
 
-v12 Jeg vil gøre et menneske sjældnere end lutret guld 
+//9 v12 Jeg vil gøre et menneske sjældnere end lutret guld 
 
-og en mand sjældnere end Ofir-guld.
+//11 og en mand sjældnere end Ofir-guld.
 
-v13 Derfor vil jeg få himle til at ryste, 
+//10 v13 Derfor vil jeg få himle til at ryste, 
 
-og jorden skal rystes bort fra sit sted 
+//11 og jorden vil rystes bort fra sit sted
 
-ved Hærskarers HERRES{N: Hærskarers} harme 
+ved Hærskarers HERRES{N: Hærskarers} harme
 
 og på hans glødende vredes dag.
 
-v14 Som en jaget gazelle 
+//6 v14 Og så,
+//7 som en jaget gazelle 
 
-og som får ingen samler, 
+og som får, 
+//10 og uden at nogen samler dem, 
 
-skal de vende sig hver til sit folk 
+//10 vil hver især 
+//9 vende sig om til sit folk, 
 
-og flygte hver til sit land.
+//8 og 
+//11 til sit land vil de hver især 
+//10 flygte.
 
-v15 Enhver der bliver fundet, skal gennembores, 
+//9 v15 Enhver der bliver fundet, bliver gennemboret, 
 
-og enhver der gribes, skal falde for sværdet.
+//11 og enhver der gribes, falder for sværdet.
 
-v16 Og deres børn skal knuses 
+//10 v16 Og deres børn bliver knust 
 
 for deres øjne, 
 
-deres huse plyndres 
+//11 deres huse bliver plyndret 
 
-og deres kvinder voldtages.
+//12 og deres kvinder voldtaget.
 
-v17 Se, mod dem ophidser jeg Medien, 
+//5 v17 Se, mod dem ophidser jeg Medien, 
 
-der ikke regner sølv for noget, 
+//8 der ikke regner sølv for noget, 
 
-og guld – det har de ikke lyst til.
+//9 og guld, 
+//10 det har de ikke lyst til.
 
-v18 Men buer skal gøre det af med drenge, 
+//7 v18 Men buer gør det af med drenge, 
 
-og moderlivs frugt skal de ikke vise barmhjertighed, 
+//8 og babyer i mødres mave vil de ikke vise barmhjertighed, 
 
-deres øje skal ikke skåne børn.
+//9 deres øje vil ikke skåne børn.
 
-v19 Og Babylonien, kongerigers pragt, 
+//6 v19 Og Babylonien, kongerigers pragt,
 
-kaldæeres stolte pryd, 
+kaldæeres stolte pryd,
 
-skal blive som da Gud ødelagde Sodoma 
+vil blive som da Gud ødelagde Sodoma
 
 og Gomorra.
 
-v20 Det skal aldrig mere bebos, 
+//8 v20 Det vil aldrig mere blive beboet, 
 
-og ingen skal bosætte sig dér i slægt efter slægt, 
+//9 og ingen vil bosætte sig dér i slægt efter slægt, 
 
-ingen araber skal slå telt op, 
+//10 ingen araber slår telt op, 
 
-og hyrder holder ikke hvil der.
+//11 og hyrder holder ikke hvil der.
 
-v21 Men ørkendyr{T: Det vides ikke præcis hvilke dyr der er tale om.} skal ligge der, 
+//12 v21 Men ørkendyr vil ligge der, 
 
-og deres huse skal fyldes af ugler,{T: Der er tvivl om hvilket dyr der er tale om. Det hebraiske ord *ʔōₐḥ* forekommer kun her. De fleste oversætter med >>ugle<<, andre gætter på >>sjakaler<<.}  
+//13 og deres huse vil blive fyldt af ugler,{T: Det kan også være en sjakal.}  
 
-dér skal strudses afkom tage bolig, 
+//15 dér tager strudses afkom bolig, 
 
-og bukketrolde{T: Bukkelignende dæmoner.} springer omkring der.
+//16 og vilde gedebukke springer omkring der.
 
-v22 Hyæner skal hyle i borgene{E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: >>mod dets/hans enker<<. De gamle oversættelser har: >>i paladserne/borgene<<. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: >>i dets borge<<.} 
+//14 v22 Hyæner hyler i borgene{E: Den hebraiske tekst har: *bᵊʔalmnôtāʸw*: >>mod dets/hans enker<<. De gamle oversættelser har: >>i paladserne/borgene<<. Det svarer til hebraisk: *bᵊʔarmānôt*. Man kan eventuelt rette til: *bᵊʔarmᵊnôtehā*: >>i dets borge<<.} 
 
-og sjakaler i herlige paladser; 
+//15 og sjakaler i herlige paladser.
 
-det varer ikke længe før dets tid kommer, 
+//7 Det er tæt på
+//10 at indtræffe
+//9 i tide,
+//8 og dets dage skal ikke forlænges.
 
-og dets dage skal ikke forlænges.
+
+
+

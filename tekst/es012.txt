@@ -1,41 +1,52 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 27.01.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.04.2025>!!
 
 ===Esajas' Bog, kapitel 12===
 
-==Det frelste Israels lovsang==
-v1 På den dag skal du sige: 
+=Det frelste Israels lovsang==
+//0 v1 På den dag skal du sige: 
 
->>Jeg vil takke dig, HERRE, for du har været vred på mig, 
+//2 >>Jeg vil takke dig, 
+//6 HERRE, 
 
-din vrede har lagt sig så du trøster mig.
+//5 for du har været vred på mig, 
 
-v2 Se, Gud er min frelse, 
+//4 må din vrede lægge sig, 
+//5 og må du trøste mig.
 
-jeg vil være tryg og ikke frygte, 
+//3 v2 Se, Gud er min frelse, 
 
-for min styrke og min lovsang{E: Formen på ordet: *zimrāt* (>>min lovsang<<) er speciel idet det mangler suffixet, bogstavet >>jod<<: *-î* (>>min<<). Det er også tilfældet i 2 Mos 15,2 og Sl 118,14, og alle tre steder efterfølges det af kortformen: *yāh*, der begynder med bogstavet: >>jod<<. Man har formodentlig villet undgå de to gange >>jod<< op ad hinanden.} er HERREN,{E: Guds navn (HERREN) står her i kortformen: *yāh*, svarende blot til >>JH<<. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} HERREN, 
+//4 jeg vil være tryg 
+//6 og ikke frygte, 
 
-og han blev mig til frelse.<<
+//5 for min styrke og lovsang til HERREN {E: *zimrāt* (>>lovsang<<) mangler suffixet, bogstavet >>yod<<: *-î* (>>min<<) og efterfølges af kortformen af HERRENS navn *yāh* (ligeledes i 2 Mos 15,2 og Sl 118,14) } er HERREN,{E: står her i kortformen *yāh* for Guds navn (HERREN).} 
 
-v3 I skal øse vand med glæde 
+//6 og han blev mig til frelse.<<
+
+//1 v3 I vil øse vand med glæde
 
 af frelsens kilder.
 
-v4 På den dag skal I sige: 
+//2 v4 På den dag vil I sige: 
 
->>Tak HERREN, påkald hans navn, 
+//3 >>Tak HERREN, 
+//5 påkald hans navn, 
 
-kundgør hans gerninger blandt folkeslagene, 
+//5 kundgør hans gerninger blandt folkene, 
 
-forkynd at hans navn er stort.<<
+//5 forkynd 
+//6 at hans navn er stort.<<
 
-v5 Lovsyng HERREN, for han har gjort herlige ting, 
+//5 v5 Lovsyng HERREN, 
+//6 for han har gjort herlige ting, 
 
-det være kendt på hele jorden.
+//7 det være kendt på hele jorden.
 
-v6 Bryd ud i jubel og råb af fryd, du Zions beboer,{E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.} 
+//4 v6 Bryd ud i jubel 
+//7 og råb af fryd, 
+//6 du Zions beboer,{E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.} 
 
-for Israels Hellige er stor i din midte.
+//5 for Israels Hellige er stor i din midte.
+
+

@@ -260,47 +260,19 @@ $style['sl'][137] = $modenhed['med indrykning'];
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 
+$es_med_indrykning = [1,2,3,4,5,6,7,8,9,
+                      10,11,12,13,14,15,16,
+                      24,25,26,27,
+                      31,32,33,34,35,
+                      40,41,48,49,
+                      50,51,52,53,54,55,56,57,58,59,
+                      60,61,62,63,64,65,66];
+   
 for ($k=1; $k<=66; ++$k)
     $style['es'][$k] = $modenhed['uden indrykning'];
-$style['es'][ 1] = $modenhed['med indrykning']; 
-$style['es'][ 2] = $modenhed['med indrykning']; 
-$style['es'][ 3] = $modenhed['med indrykning']; 
-$style['es'][ 4] = $modenhed['med indrykning']; 
-$style['es'][ 5] = $modenhed['med indrykning']; 
-$style['es'][ 6] = $modenhed['med indrykning']; 
-$style['es'][ 7] = $modenhed['med indrykning']; 
-$style['es'][ 8] = $modenhed['med indrykning']; 
-$style['es'][ 9] = $modenhed['med indrykning']; 
-$style['es'][10] = $modenhed['med indrykning']; 
-$style['es'][24] = $modenhed['med indrykning']; 
-$style['es'][25] = $modenhed['med indrykning']; 
-$style['es'][31] = $modenhed['med indrykning']; 
-$style['es'][32] = $modenhed['med indrykning']; 
-$style['es'][33] = $modenhed['med indrykning']; 
-$style['es'][34] = $modenhed['med indrykning']; 
-$style['es'][35] = $modenhed['med indrykning']; 
-$style['es'][40] = $modenhed['med indrykning']; 
-$style['es'][41] = $modenhed['med indrykning']; 
-$style['es'][48] = $modenhed['med indrykning']; 
-$style['es'][49] = $modenhed['med indrykning']; 
-$style['es'][50] = $modenhed['med indrykning']; 
-$style['es'][51] = $modenhed['med indrykning']; 
-$style['es'][52] = $modenhed['med indrykning']; 
-$style['es'][53] = $modenhed['med indrykning']; 
-$style['es'][54] = $modenhed['med indrykning']; 
-$style['es'][55] = $modenhed['med indrykning']; 
-$style['es'][56] = $modenhed['med indrykning']; 
-$style['es'][57] = $modenhed['med indrykning']; 
-$style['es'][58] = $modenhed['med indrykning']; 
-$style['es'][59] = $modenhed['med indrykning']; 
-$style['es'][60] = $modenhed['med indrykning']; 
-$style['es'][61] = $modenhed['med indrykning']; 
-$style['es'][62] = $modenhed['med indrykning']; 
-$style['es'][63] = $modenhed['med indrykning']; 
-$style['es'][64] = $modenhed['med indrykning']; 
-$style['es'][65] = $modenhed['med indrykning']; 
-$style['es'][66] = $modenhed['med indrykning']; 
 
+foreach ($es_med_indrykning as $k)
+    $style['es'][$k] = $modenhed['med indrykning'];
 
 $style['jer'][ 1] = $modenhed['uden indrykning'];
 $style['jer'][ 2] = $modenhed['uden indrykning'];
