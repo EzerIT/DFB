@@ -1,8 +1,8 @@
-!!<Oversættelse: Svend Erik Petersen>!!
+﻿!!<Oversættelse: Svend Erik Petersen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Litterært tjek: Trine Tøndering>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 24.04.2025>!!
 
 ===Esajas’ Bog, kapitel 1===
 
@@ -12,7 +12,7 @@
 
 //1 v2 Hør, //5 I himle! //4 Og lyt, //5 du jord!
 
-//3 For HERREN har talt; //4 jeg har opdraget børn //6 og opfostret dem,
+//3 For HERREN har talt; //4 jeg har opdraget børn //6 og givet dem en høj status,{H: Es 53,13}
 
 //5 men de har gjort oprør imod mig.
 
@@ -28,45 +28,47 @@
 
 et folk tynget af skyld,
 
-en slægt af onde mennesker,
+efterkommere af onde mennesker,
 
-vanartede børn!
+børn der ødelægger!
 
 //6 De forlod HERREN,
 
 //6 de foragtede Israels Hellige,
 
-//6 de har vendt sig væk fra ham.
+//6 de har vendt ryggen til ham.
 
-//5 v5 Hvorfor vil I prygles endnu mere?
+//5 v5 Hvor er der stadig et sted I kan blive slået,
 
-//7 Hvorfor vil I fortsætte frafaldet?
+//7 og vil I fortsætte frafaldet?
 
-//6 Hele hovedet er sygt, //10  og hele hjertet er svagt.
+//6 Hele hovedet er sygt, //10 og hele hjertet er svagt.
 
 //9 v6 Fra fodsål til hoved er intet uskadt på jer:
 
-//8 Sår og skrammer og friske hug!
+//8 Sår og skrammer og friske slagmærker!
 
 //9 De er ikke klemt ud //10 og ikke forbundet,
 
-//11 ikke lindret med olie.
+//11 ikke lindret med planteolie.
 
-//7 v7 Jeres land er en ørken,
+//7 v7 Jeres land er lagt øde,
 
-//8 jeres byer er nedbrændte;
+//8 jeres byer er brændt ned;
 
-//11 fremmede æder //9 jeres land //11 op for øjnene af jer,
+//11 jeres land
+//9 æder fremmede op
+//11 for øjnene af jer,
 
-//12 det er en ødemark, som når fremmede har hærget.
+//12 det er en ødemark, som når fremmede er skyld i udslettelsen.{H: 5 Mos 29,22. Es 13,19.}
 
 //13 v8 Og Zions datter er blevet tilbage som en hytte i en vingård,
 
-som et skur{T: Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.} i en agurkehave,
+som en vagthytte i en agurkehave,
 
 som en belejret by.
 
-//10 v9 Hvis ikke Hærskarers HERRE havde efterladt nogle få overlevende hos os,
+//10 v9 Hvis ikke Hærskarers{N: Hærskarers} HERRE havde efterladt nogle få overlevende hos os,
 
 //11 havde vi været som Sodoma,
 
@@ -74,7 +76,7 @@ som en belejret by.
 
 ***
 
-//4 v10 Hør HERRENS ord, //7 I Sodomas fyrster!
+//4 v10 Hør HERRENS ord, //7 I Sodomas herskere!
 
 //6 Lyt til vores Guds lov, //7 I Gomorras folk!
 
@@ -82,17 +84,16 @@ som en belejret by.
 
 //8 siger HERREN;
 
-//7 jeg er mæt af brændofre af væddere
+//7 jeg er mæt af brændofre af væddere og fedtet af fedekvæg;
 
-//8 og fedtet af fedekvæg;
-
-blod af okser og lam og bukke
+//8 blod af okser og lam og bukke
 
 har jeg ikke lyst til.
 
-//6 v12 Når I kommer //8 for at vise jer for mit ansigt,
+//6 v12 Når I kommer
+//8 for at mødes med mig,{N: Ansigt}
 
-//7 hvem har da forlangt af jer
+//7 hvem har da forlangt af jer{T: Ordret: >>søgt af jeres hænder<<.}
 
 //9 at mine forgårde skulle trampes ned?
 
@@ -102,19 +103,19 @@ har jeg ikke lyst til.
 
 //9 nymåner og sabbatter //11 og festforsamlinger
 
-//10 – jeg tåler ikke uret og højtid.
+//10 – jeg tåler ikke uret sammen med højtid.
 
 //11 v14 Min sjæl hader jeres nymåner og jeres højtider;
 
 //12 de er blevet en byrde for mig,
 
-//14 jeg er træt af //15 at bære dem.
+//14 jeg er træt af //15 at bære over med dem.
 
-//13 v15 Og //16 når I strækker jeres hænder ud,
+//13 v15 Og //16 når I rækker jeres hænder frem,
 
 //15 skjuler jeg mine øjne for jer;
 
-//14 hvor meget I end beder, //16 hører jeg det ikke;
+//14 hvor meget I end beder, //16 hører jeg ikke;
 
 //15 jeres hænder er fulde af blod.
 
@@ -142,23 +143,23 @@ har jeg ikke lyst til.
 
 //5 Er jeres synder som purpur,
 
-//8 skal de blive hvide som sne;
+//8 vil de blive hvide som sne;
 
 //7 er de røde som skarlagen,
 
-//8 skal de blive som uld.
+//8 vil de blive som uld.
 
 //6 v19 Hvis I er villige //9 og lydige,
 
-//8 skal I få landets goder at spise.
+//8 vil I få landets goder at spise.
 
 //7 v20 Men hvis I er uvillige //9 og trodsige,
 
-//8 skal I fortæres{E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.} af sværdet;
+//8 vil I fortæres{E: Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.} af sværdet;
 
 //9 for HERRENS mund har talt.
 
-//3 v21 Hvordan er den trofaste by blevet en luder?
+//3 v21 Hvordan kunne den trofaste by blive til en luder?
 
 //7 Den var fuld af ret,
 
@@ -168,9 +169,9 @@ har jeg ikke lyst til.
 
 //7 v22 Dit sølv er blevet til slagger,
 
-//9 din drik er fortyndet med vand.
+//9 din stærke øl er fortyndet med vand.
 
-//8 v23 Dine fyrster er genstridige
+//8 v23 Dine ledere er genstridige
 
 //9 og er i ledtog med tyveknægte;
 
@@ -190,45 +191,44 @@ Hærskarers HERRE, Israels Mægtige:
 
 //6 og hævne mig på mine fjender.
 
-//8 v25 Og jeg vil vende min hånd imod dig
+//8 v25 Jeg vil igen anbringe min hånd på dig
 
 //8 og smelte dine slagger af med ludsalt
 
 //8 og udskille alt dit tin.
 
-//8 v26 Jeg vil give dig dommere som i den første tid
+//8 v26 Jeg vil igen anbringe dommere iblandt dig som i den første tid
 
-//9 og rådsherrer som i begyndelsen;
+//9 og rådsherrer som i begyndelsen.
 
-//7 derefter skal du kaldes retfærdigheds by,
+//7 Derefter kaldes du retfærdigheds by,
 
 //8 en trofast by.
 
-//4 v27 Zion skal forløses ved ret
+//4 v27 Zion forløses ved ret
 
 //6 og de omvendte i den ved retfærdighed.
 
-//5 v28 Men overtræderne og synderne skal knuses,
+//5 v28 Ødelæggelsen er over både oprørerne og synderne,
 
-//8 og de, der forlader HERREN, skal omkomme.
+//8 og de der forlader HERREN, vil omkomme.
 
-//7 v29 For de skal blive til skamme på grund af de terebinter{T: Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.}
+//7 v29 For de vil blive til skamme på grund af de terebinter{T: Terebinter er løvtræer som ofte indgik i frugtbarhedskulten.}
 
 //8 som I begærede,
 
-//6 og I skal blive skamfulde på grund af de haver
+//6 og I vil blive skamfulde på grund af de haver
 
 //9 der var jeres glæde.
 
-//8 v30 For I skal blive som en terebinte der taber sine blade,
+//8 v30 For I vil blive som en terebinte der taber sine blade,
 
 //9 og som en have //10 hvor der ikke er vand.
 
-//7 v31 Og den stærke skal blive til blår,
+//7 v31 Og den stærke vil blive til en lunte,
 
 //9 hans gerning til en gnist;
 
-//8 begge dele skal brænde,
+//8 der vil gå ild i begge dele,
 
-//9 og der skal ikke være nogen der slukker.
-
+//9 og ingen vil slukke.
