@@ -68,10 +68,19 @@ class FormatText extends Formatter {
                 while ($line=fgets($translator_file)) {
                     foreach ($translators as $tr) {
                         if (preg_match("#$tr:(.*)#u",$line,$email_matches)) {
-                            if (empty($tr_text))
-                                $tr_text = "$tr (" . emailcloak($email_matches[1]) . ')';
-                            else
-                                $tr_text .= " og $tr  (" . emailcloak($email_matches[1]) . ')';
+                            $em_matches = trim($email_matches[1]);
+                            if ($em_matches=='-') {
+                                if (empty($tr_text))
+                                    $tr_text = "$tr ";
+                                else
+                                    $tr_text .= " og $tr ";
+                            }
+                            else {
+                                if (empty($tr_text))
+                                    $tr_text = "$tr (" . emailcloak($em_matches) . ")";
+                                else
+                                    $tr_text .= " og $tr  (" . emailcloak($em_matches) . ")";
+                            }
                         }
                     }
                 }
