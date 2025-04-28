@@ -1,17 +1,54 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
 ===Esajas' Bog, kapitel 39===
 
 ==Sendebudene fra Babylon==
-v1 På den tid sendte Babylons konge Merodak-Bal’adan, Bal’adans søn, breve og gaver til Hizkija, for han havde hørt at han havde været syg og var blevet rask.
-v2 Og Hizkija glædede sig over dem og viste dem skatkammeret, sølvet og guldet og balsamstofferne{T: Brugt både til røgelse og parfume.} og den kostelige olie og hele sit våbenkammer og alt det der fandtes i hans forrådskamre; der var ikke den ting som Hizkija ikke lod dem se i sit hus og i hele sit rige.
+//0 v1 På den tid sendte Babylons konge Merodak-Bal’adan, Bal’adans søn, breve og gaver til Hizkija. 
+//2 Han havde hørt 
+//3 at han havde været syg 
+//4 og var blevet rask.
+//1 v2 Hizkija glædede sig over dem 
+//2 og viste dem skatkammeret, sølvet og guldet og balsamstofferne, den kostelige olie og hele sit våbenkammer og alt det 
+//4 der fandtes i hans forrådskamre; 
+//3 der var ikke den ting 
+//5 som Hizkija ikke lod dem se 
+//4 i sit palads og i hele sit rige.
 
 ==Profeti om bortførelsen til Babylon==
-v3 Da kom Esajas, profeten, til kong Hizkija og sagde til ham: >>Hvad har de mænd sagt? Og hvorfra er de kommet til dig?<< Hizkija sagde: >>De er kommet til mig fra et land langt borte, fra Babylonien.<<
-v4 Og han sagde: >>Hvad har de set i dit hus?<< Hizkija sagde: >>De har set alt hvad der er i mit hus; der var ikke en ting som jeg ikke viste dem i mine forrådskamre.<<
-v5 Da sagde Esajas til Hizkija: >>Hør Hærskarers HERREs{N: Hærskarers} ord:
-v6 Se, der kommer dage da alt det der er i dit hus, og som dine fædre har samlet indtil denne dag, skal føres til Babylonien; der skal ikke blive noget tilbage, siger HERREN.
-v7 Og nogle af dine sønner, der nedstammer fra dig, som du bliver far til, skal de tage, og de skal være hofmænd{T: Der er formodentlig tænkt på eunukker.} i Babyloniens konges palads.<<
-v8 Men Hizkija sagde til Esajas: >>Det ord fra HERREN du har talt, er godt.<< Og han sagde: >>Så bliver der fred og stabilitet i mine dage!<<
+//1 v3 Da kom profeten Esajas til kong Hizkija 
+//2 og sagde til ham: 
+//4 >>Hvad har de mænd sagt? 
+//5 Og hvorfra kommer de til dig?<< 
+//3 Hizkija sagde: 
+//4 >>De er kommet til mig fra et land langt borte, fra Babylon.<<
+//2 v4 Og han sagde: 
+//3 >>Hvad har de set i dit palads?<< 
+//2 Hizkija sagde: 
+//3 >>Alt 
+//6 hvad der er i mit palads,
+//5 har de set; 
+//4 der var ikke en ting 
+//6 som jeg ikke viste dem 
+//5 i mine forrådskamre.<<
+//1 v5 Da sagde Esajas til Hizkija: 
+//3 >>Hør Hærskarers{N: Hærskarers} HERRES ord:
+//4 v6 Se, der kommer dage 
+//5 da alt det 
+//9 der er i dit hus, 
+//10 og som dine fædre har samlet indtil denne dag, 
+//8 skal føres til Babylon; 
+//7 der skal ikke blive noget tilbage, 
+//8 siger HERREN.
+//6 v7 Og nogle af dine sønner, 
+//9 der nedstammer fra dig, 
+//10 som du bliver stamfar til, 
+//8 skal de tage, 
+//7 og de skal være hofmænd{T: Det kan referere til eunukker, sml. Es 56,3.} i Babylons konges palads.<<
+//2 v8 Men Hizkija sagde til Esajas: 
+//4 >>Det ord fra HERREN du har talt, 
+//5 er godt.<< 
+//3 Og han sagde: 
+//4 >>Så bliver der fred og stabilitet i min levetid!<<
+

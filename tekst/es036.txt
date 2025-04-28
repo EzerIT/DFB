@@ -1,35 +1,111 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
 ===Esajas' Bog, kapitel 36===
 
 ==Assyrerkongen Sankeribs angreb==
-v1 Og det skete i kong Hizkijas fjortende år at Sankerib, Assyriens konge, drog op mod alle Judas faste byer og indtog dem.
+//0 v1 Derefter, i kong Hizkijas fjortende år, 
+//1 drog Sankerib, Assyriens konge, op mod alle Judas faste byer 
+//2 og indtog dem.
 
-v2 Og Assyriens konge sendte kommandanten{T: Der er tale om en assyrisk titel: >>Rabsake<< der egentlig betyder: >>overmundskænk<<. I mange oversættelser bevares det uoversat.} fra Lakish til Jerusalem, til kong Hizkija, med en stor styrke; og han stod ved den øverste dams vandledning, der ligger ved vejen til vaskepladsen.
-v3 Så gik Eljakim, Hilkijas søn, der var hofchef, ud til ham, sammen med Shebna, skriveren, og Joa, Asafs søn, sekretæren. 
-v4 Kommandanten sagde til dem: >>Sig til Hizkija: Sådan siger den store konge, Assyriens konge: Hvad er det for en tillid som du stoler på?
-v5 Jeg siger: Det er kun læbers ord at der er klogskab og styrke til krigen; så, hvem stoler du på siden du gør oprør mod mig?
-v6 Se, du stoler på denne knækkede rørstok, på Egypten, som hvis nogen støtter sig på den, går ind i hans hånd og gennemborer den. Sådan er Farao, Egyptens konge, for alle dem der stoler på ham.
-v7 Og vil du sige til mig: >Vi stoler på HERREN, vores Gud!< – Er det så ikke ham hvis høje og altre Hizkija har fjernet da han sagde til Juda og til Jerusalem: >For dette alter skal I tilbede<?
-v8 Og nu, indgå et væddemål med min herre, Assyriens konge, så vil jeg give dig to tusind heste hvis du på din side kan sætte ryttere på dem.
-v9 Hvordan vil du trænge en eneste statholder{T: Ordret: >>statholders ansigt<<.} af min herres ringeste tjenere tilbage? Men du stoler på Egypten for vogne og ryttere.
-v10 Og nu, mon jeg uden HERRENS vilje er draget op mod dette land for at ødelægge det? HERREN sagde til mig: Drag op til dette land og ødelæg det!<<
+//1 v2 Assyriens konge sendte sin hovedforhandler{E: *rav šāqēʰ* kan også være et personnavn; andre betydningsmuligheder er >>kommandant<< og >>overmundskænk<<.} fra Lakish til Jerusalem, til kong Hizkija, med en stor styrke;
+//2 og han stillede sig ved den øverste dams vandledning,{H: Es 7,3.} der ligger ved vejen til vaskepladsen.
+//3 v3 Så gik Eljakim, Hilkijas søn, 
+//5 der var hofchef, ud til ham, 
+//4 sammen med Shebna, skriveren, og Joa, Asafs søn, sekretæren. 
+//2 v4 Hovedforhandleren sagde til dem: 
+//3 >>Sig til Hizkija: 
+//4 Sådan siger den store konge, Assyriens konge: 
+//5 Hvad er det for en tillid 
+//8 som du stoler på?
+//7 v5 Jeg siger: 
+//8 Er løs snak virkelig nok som en plan og styrke til krig? 
+//6 Så, hvem stoler du på 
+//10 siden du gør oprør mod mig?
+//9 v6 Se, du stoler på denne stok af knækket siv, på Egypten. 
+//11 Hvis nogen støtter sig på den, 
+//12 går den ind i hans hånd 
+//13 og gennemborer den. 
+//10 Sådan er Farao, Egyptens konge, for alle dem 
+//11 der stoler på ham.
+//8 v7 Og hvis du siger til mig: 
+//10 >Vi stoler på HERREN, vores Gud!<
+//9 er det så ikke ham 
+//10 hvis høje og altre Hizkija har fjernet 
+//11 da han sagde til Juda og til Jerusalem:
+//12 >Foran dette alter skal I tilbede<?
+//7 v8 Og nu, 
+//8 indgå et væddemål med min herre, Assyriens konge, 
+//10 så vil jeg give dig to tusind heste, 
+//11 hvis du på din side kan 
+//12 sætte ryttere på dem.
+//9 v9 Hvordan vil du afvise en eneste kaptajn{N: Ansigt.} blandt min herres ringeste officerer{N: Slave}?
+//10 Men du stoler på Egypten angående vogne og ryttere.
+//7 v10 Og nu, 
+//8 mon jeg, uden at HERREN er med mig, er draget op mod dette land 
+//10 for at ødelægge det? 
+//9 HERREN sagde til mig: 
+//10 Drag op til dette land 
+//11 og ødelæg det!<<
 
-v11 Da sagde Eljakim og Shebna og Joa til kommandanten: >>Kære herre, tal dog til dine tjenere på aramæisk, for det forstår vi; og tal ikke til os på judæisk for ørerne af folket der er på muren.<<
-v12 Men kommandanten sagde: >>Har min herre sendt mig til din herre og til dig for at tale disse ord? Mon det ikke er over{E: Septuaginta forudsætter, at præpositionen *ʕal* skal rettes til: *ʔel*: >>til<<.} de mænd der sidder på muren, og som skal æde deres egne ekskrementer og drikke deres ege urin sammen med jer?<<
-v13 Så stod kommandanten frem og råbte med høj stemme på judæisk, og han sagde: >>Hør den store konges, Assyriens konges, ord!
-v14 Sådan siger kongen: Lad ikke Hizkija bedrage jer, for han vil ikke kunne redde jer!
-v15 Og lad ikke Hizkija få jer til at stole på HERREN ved at sige: HERREN skal helt sikkert udfri os; denne by skal ikke gives i Assyriens konges hånd.
-v16 Hør ikke på Hizkija; for sådan siger Assyriens konge: Slut fred{T: Ordret: >>velsignelse<<.} med mig, og gå ud til mig og spis hver af sin vinstok og hver af sit figentræ, og drik vand hver af sin brønd,
-v17 indtil jeg kommer og tager jer til et land som jeres land, et land med korn og vin, et land med brød og vingårde.
-v18 Lad ikke Hizkija forføre jer ved at sige: HERREN vil udfri os! Har folkenes{T: Kan også oversættes: >>hedningernes<<.}  guder mon friet hver sit land ud af Assyriens konges hånd?
-v19 Hvor er Hamats og Arfads guder? Hvor er Sefarvajims guder? Og mon de har friet Samaria ud af min hånd?
-v20 Hvem er der iblandt alle disse landes guder der har friet deres land ud af min hånd? Og så skulle HERREN fri Jerusalem ud af min hånd?<<
+//2 v11 Da sagde Eljakim og Shebna og Joa til hovedforhandleren:{E: Se til vers 2.} 
+//3 >>Tal dog til dine ydmyge embedsmænd på aramæisk, 
+//5 for det forstår vi; 
+//4 tal ikke til os på judæisk i folkets påhør  
+//5 mens de er på bymuren.<<
+//2 v12 Men hovedforhandleren sagde: 
+//3 >>Har min herre sendt mig til din herre og til dig 
+//5 for at tale disse ord? 
+//4 Mon ikke det er til{E: Med LXX der forudsætter at præpositionen *ʕal* rettes til *ʔel* (>>til<<).} de mænd 
+//5 der sidder på bymuren, 
+//6 og som skal æde deres egne ekskrementer 
+//7 og drikke deres egen urin sammen med jer?<<
+//2 v13 Så stod hovedforhandleren frem 
+//4 og råbte med høj stemme på judæisk
+//4 : 
+//5 >>Hør den store konge, Assyriens konges, ord!
+//6 v14 Sådan siger kongen: 
+//7 Lad ikke Hizkija bedrage jer, 
+//10 for han vil ikke kunne 
+//11 redde jer!
+//9 v15 Og lad ikke Hizkija få jer til at stole på HERREN 
+//10 ved at sige: 
+//11 HERREN vil helt sikkert udfri os;
+//12 denne by skal ikke gives i Assyriens konges magt.{N: Hånd}
+//8 v16 Hør ikke på Hizkija; 
+//9 for sådan siger Assyriens konge: 
+//10 Slut fred{T: Ordret: >>velsignelse<<.} med mig, 
+//12 og gå ud til mig 
+//12 og spis hver af sin vinstok 
+//14 og hver af sit figentræ, 
+//13 og drik vand hver af sin brønd,
+//14 v17 indtil jeg kommer 
+//15 og tager jer til et land som jeres land, et land med korn og vin, et land med brød og vingårde.
+//11 v18 Lad ikke Hizkija forføre jer 
+//13 ved at sige: 
+//14 HERREN vil udfri os! 
+//12 Har folkeslagenes guder mon udfriet
+//17 hver sit land 
+//16 af Assyriens konges magt?{N: Hånd}
+//15 v19 Hvor er Hamats og Arfads guder? 
+//15 Hvor er Sefarvajims guder? 
+//14 Er det sådan at de fik udfriet Samaria af min magt?
+//13 v20 Hvem er der iblandt alle disse landes guder 
+//15 der har udfriet deres land af min magt? 
+//14 Er det så sådan at HERREN vil kunne udfri Jerusalem af min magt?<<
 
-v21 Men de tav og svarede ham ikke et ord; for det var befalingen fra kongen der havde sagt: Svar ham ikke!
+//3 v21 Men de tav 
+//4 og svarede ham ikke et ord; 
+//5 for befalingen fra kongen 
+//6 var 
+//7 sådan: 
+//8 Svar ham ikke!
 
-v22 Så kom Eljakim, Hilkijas søn, der var hofchef, og Shebna, skriveren, og Joa, Asafs søn, sekretæren, til Hizkija med flængede klæder; og de rapporterede kommandantens ord til ham.
+//3 v22 Så kom Eljakim, Hilkijas søn, 
+//6 der var hofchef, 
+//5 og Shebna, skriveren, og Joa, Asafs søn, sekretæren, til Hizkija med flængede klæder; 
+//4 og de rapporterede hovedforhandlerens ord til ham.
+
 
 

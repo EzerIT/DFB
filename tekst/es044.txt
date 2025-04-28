@@ -1,148 +1,250 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 44===
+//0 v1 Men hør nu, 
+//3 Jakob, min tjener, 
 
-v1 Men hør nu, Jakob, min tjener, 
+//4 og Israel, 
+//5 som jeg udvalgte! 
 
-og Israel, som jeg udvalgte! 
+//2 v2 Sådan har HERREN sagt, han som skabte dig 
 
-v2 Sådan siger HERREN som skabte dig 
+og dannede dig fra moders liv, 
+//4 han som vil hjælpe dig: 
 
-og dannede dig fra moders liv, han som vil hjælpe dig: 
+//3 Frygt ikke, 
+//6 min tjener Jakob, 
 
-Frygt ikke, min tjener Jakob, 
+//7 og Jeshurun, 
+//8 som jeg udvalgte!
 
-og Jeshurun, som jeg udvalgte!
+//5 v3 For jeg vil hælde vand ud over den tørstige jord 
 
-v3 For jeg vil hælde vand ud over den tørstige jord 
+//6 og strømme ud over det tørre land; 
 
-og strømme ud over det tørre land; 
+//4 jeg vil udgyde min Ånd over dit afkom 
 
-jeg vil udgyde min Ånd over dit afkom 
+//6 og min velsignelse over dine efterkommere,
 
-og min velsignelse over dine efterkommere,
-
-v4 så de vokser op midt i græsset 
+//5 v4 så de vokser op midt i græsset 
 
 som popler ved vandløb.
 
-v5 Den ene skal sige: >>Jeg er HERRENS,<< 
+//6 v5 Den ene vil sige: 
+//8 >>Jeg tilhører HERREN,<< 
 
-og den anden skal påkalde{E: Man går oftest ud fra at vokaliseringen af *yiqrāˀ* skulle have været: *yiqqrēˀ* der ville give oversættelsen: >>kalde sig ved<<. Det har dog ingen støtte i håndskrifterne.} Jakobs navn; 
+//7 og den anden vil påkalde{E: *yiqrāˀ* kan ændres til *yiqqārēˀ* (>>kalde sig ved<<), men uden støtte i håndskrifterne.} Jakobs navn; 
 
-og én skal skrive i sin hånd: >>tilhører HERREN,<< 
+//7 og endnu en vil skrive i sin hånd: >>tilhører HERREN,<<
 
-og han skal nævne Israel som hædersnavn.
+//8 og han vil nævne Israel som et hædersnavn.
 
 ***
 
-v6 Sådan siger HERREN, Israels konge 
+//2 v6 Sådan har HERREN, Israels konge, og dets forløser{T: Ordet oversættes som regel med >>løskøber<<.}, Hærskarers HERRE:{N: Hærskarers} sagt:
 
-og dets forløser, Hærskarers HERRE:{N: Hærskarers} 
+//3 Jeg er den første, 
+//6 og jeg er den sidste, 
 
-Jeg er først, og jeg er sidst, 
+//5 og ud over mig er der ingen Gud.
 
-og ud over mig er der ingen Gud.
+//6 v7 Og hvem kan som mig{T: Kan også oversættes: >>Hvem er som mig? Han må forkynde<<.} 
+//7 råbe det ud? 
 
-v7 Og hvem forkynder som mig{T: Kan også oversættes: >>Hvem er som mig? Han må forkynde (og han må fortælle det og forelægge det for mig fra jeg grundlagde …)<<} 
+//8 Lad ham forkynde det 
+//8 og forelægge det for mig, 
 
- – så må han fortælle det og forelægge det for mig –  
+//10 eftersom jeg har grundlagt et evigt folk!
 
-siden jeg grundlagde et evigt folk? 
+//9 Og de fremtidige ting 
+//11 og det der vil komme, 
+//10 skal de forkynde for dem.
 
-Og fremtidige ting og det der skal komme, må de fortælle dem
+//4 v8 Lad være med at ryste af skræk 
+//6 og være forfærdede! 
 
-v8 Frygt ikke, og vær ikke forfærdede! 
+//5 Har jeg ikke for længst ladet dig høre det 
 
-Har jeg ikke for længst ladet dig høre det og fortalt det? 
+//8 og forkyndt det? 
 
-Og I er mine vidner; 
+//7 Og I er mine vidner; 
 
-er der en Gud ud over mig? 
+//6 er der en Gud ud over mig? 
 
-Der er ingen klippe, jeg kender ingen.
+//7 Der er ingen klippe, 
+//8 jeg kender ingen.
 
-v9 De der former et gudebillede, er alle tomhed, og deres indtagende ting gavner intet, og deres vidner – de ser ikke og forstår ikke for at de skal blive til skamme. 
-v10 Hvem former en gud og støber et billede der ikke gavner noget?
-v11 Se, alle hans tilhængere skal blive til skamme, og håndværkere – de kommer fra et menneske. De skal alle samles, blive stående, frygte og blive til skamme sammen.
-v12 En smed{T: Ordret: >>metalhåndværker<<.} bruger en mejsel{E: Det hebraiske ord (*maʕᵃṣād*) findes kun her og Jer 10,3, hvor det oversættes: >>økse<<. Her må det betegne et værktøj til arbejde i metal. Med LXX indføjer man undertiden *yāḥēd*, så oversættelsen bliver: >>skærper øksen/mejslen<<.} og arbejder ved kulilden og former det{T: Der er formodentlig tænkt på gudebilledet (vers 9), men teksten er uklar.} med hamrene; han bearbejder det med sin armkraft; han bliver også sulten så han ikke har kræfter, drikker han ikke vand, bliver han udmattet.
-v13 En snedker{T: Ordret: >>træhåndværker<<.} spænder en målesnor ud, han tegner omridset med griflen, bearbejder det med høvlene{E: Det er usikkert hvilke redskaber der er tale om. Det hebraiske *maqṣuʕāʰ* angiver måske mere generelt: >>redskab til at bearbejde træ<<.} og ridser det op med passeren;{E: Det hebraiske ord *mᵊḥûgāʰ* findes kun her i GT. Andre foreslår: >>drejebænk<<.} og han former det efter en mands skikkelse, efter et menneskes skønhed, til at bo i et hus.
-v14 Han fælder{E: Ordret enten: >>Han går hen for at fælde<< eller som umiddelbar fortsættelse af vers 13: >>idet han fælder …<<. } cedertræer og tager steneg og eg og giver det næring{T: Andre foreslår: >>og udvælger det<<.} blandt skovens træer; han planter laurbær,{E: Det er usikkert, hvilket træ, der er tale om. Ordet *ʔōren* forekommer kun her i GT.} og regn får det til at vokse sig stort.
-v15 Det tjener så for et menneske som brænde, og han tager noget af det og varmer sig, han tænder også ild og bager brød; han laver også en gud af det og tilbeder den, han laver det til et gudebillede og bøjer sig for det.
-v16 Halvdelen af det brænder han op på ild; med halvdelen af det spiser han kød, han steger en steg og bliver mæt; han varmer sig også og siger: >>Ah, jeg er varm, jeg ser ild.<<
-v17 Men resten af det laver han til en gud, til sit gudebillede; han bøjer sig for det og tilbeder og beder til det og siger: >>Red mig, for du er min gud!<<
-v18 De ved ikke og forstår ikke; for han har klistret deres øjne til så de ikke ser, og deres hjerter så de ikke fatter.
-v19 Og man{T: Oversættes af mange: >>ingen (tager sig det til hjerte)<<.} tager sig det ikke til hjerte, og der er hverken kundskab eller forstand til at sige: >>Halvdelen af det har jeg brændt i ild og også bagt brød på gløderne af det, jeg har stegt kød og spist; skal jeg så lave resten af det til en afskyelighed? Skal jeg bøje mig for en træklods?<<
-v20 Han satser på aske; et hjerte der er bedraget, har forført ham; og han redder ikke sin sjæl og siger ikke: >>Er det ikke løgn i min højre hånd?<<
+//1 v9 De der former et gudebillede, 
+//6 er alle golde,{H: Es 40,17; 41,29.} 
+//5 og deres tiltrækkende værker gavner intet, 
+//4 og deres vidner
+
+– de 
+//5 ser ikke 
+//6 og forstår ikke 
+//7 for at de skal blive til skamme. 
+//3 v10 Hvem har formet en gud 
+//6 og støbt et afgudsbillede 
+//7 der ikke gavner noget?
+//5 v11 Alle dets beundrere skal jo blive til skamme, 
+//6 og håndværkerne, 
+//8 de kommer bare fra et menneske! 
+//7 De skal alle samles, 
+//8 blive stående, 
+//8 være bange 
+//8 og sammen blive til skamme.
+//4 v12 En smed bruger en mejsel,{E: Ud fra LXX kan indføjes *yāḥēd*, så oversættelsen bliver: >>skærper øksen/mejslen<<.} 
+//6 og han har arbejdet ved kulilden 
+//7 og former det så med hamrene; 
+//8 han bearbejdede det med armkraft; 
+//5 han blev også sulten 
+//7 så han ikke havde kræfter; 
+//6 drak han ikke vand, 
+//7 blev han udmattet.
+//2 v13 En snedker har spændt en målesnor ud, 
+//4 og tegner så omridset med stiften,
+//4 han bearbejder det med træskraberne 
+//5 og ridser det op med passeren,
+//6 han former det efter en mands skikkelse, efter et menneskes skønhed, 
+//7 til at bo i et hus.
+//4 v14 Det var for at fælde{E: Infinitiv konstruktus *lixrot* bruges her som subjekt eller som fortsættelse af vers 13.} cedertræer til sig selv,
+//5 og så tog han steneg og eg 
+//5 og fik styrke til sig selv{E: *wayʔammeṣ-lô* (>>styrkede sig selv<<) kan også oversættes >>gav næring til det<<.} blandt skovens træer; 
+//3 han plantede laurbær, 
+//5 og regnen får det til at vokse sig stort.
+//6 v15 Det tjente så for et menneske 
+//7 som brændsel; 
+//4 han tog noget af det 
+//5 og varmede sig,
+//7 han giver sig endog til at tænde ild 
+//8 og bage brød; 
+//7 så giver han sig endog til at lave en gud af det; 
+//9 han tilbad den, 
+//8 han lavede et gudebillede 
+//9 og bøjede sig for det.
+//6 v16 Halvdelen af det har han brændt over ilden; 
+//10 med halvdelen af det spiser han så kød, 
+//11 han laver en steg 
+//12 og bliver mæt; 
+//9 han varmer sig også 
+//10 og siger: 
+//11 >>Ah, jeg har fået varmen, 
+//12 jeg har nydt ilden.<<
+//8 v17 Men resten af det har han forarbejdet til en gud, til sit gudebillede; 
+//9 han bøjer sig for det 
+//10 og tilbeder, 
+//10 han beder til det 
+//10 og siger: 
+//11 >>Red mig, 
+//12 for du er min gud!<<
+//7 v18 De forstår ikke 
+//9 og har ikke indsigt; 
+//10 for han har klæbet deres øjne til 
+//11 så de ikke kan se, 
+//12 og deres hjerter så de ikke fatter.
+//8 v19 Men man tager sig ikke af det{N: Hjerte}, 
+//10 og der er hverken kundskab 
+//10 eller forstand 
+//11 til at sige: 
+//12 >>Halvdelen af det har jeg brændt på bålet
+//14 og endog også bagt brød på gløderne af det, 
+//15 jeg steger kødet 
+//16 og spiser; 
+//13 af resten laver jeg så lige en afskyelighed,
+//14 jeg bøjer mig for en træklods!<<{T: Det sidste er sarkasme, men oversættes ofte som spørgsmål.}
+//9 v20 Han beskæftiger sig med aske; 
+//10 et hjerte 
+//13 der er bedraget, 
+//12 har forført ham; 
+//11 og han redder ikke sig selv{N: Sjæl} 
+//11 og siger ikke: 
+//12 >>Er der ikke løgn i min højre hånd?<<
 
 ==HERREN frelser sit folk, og Kyros skal være hans tjener==
 
-v21 Husk disse ting, Jakob, 
+//0 v21 Husk disse ting, 
+//5 Jakob, 
 
-og Israel, for du er min tjener; 
+//6 og Israel, 
+//4 for du er min tjener; 
 
-jeg har dannet dig, du er min tjener, 
+//3 jeg har dannet dig, 
+//5 du er min tjener, 
 
-Israel, du skal ikke glemmes af mig.
+//7 Israel, 
+//6 du skal ikke glemmes af mig.
 
-v22 Jeg sletter som en sky dine overtrædelser 
+//4 v22 Jeg har slettet som en sky dine overtrædelser 
 
-og som et skydække dine synder. 
+//6 og som et skydække dine synder. 
 
-Vend tilbage til mig, for jeg har løskøbt dig.
+//5 Vend tilbage til mig, 
+//6 for jeg har løskøbt dig.
 
-v23 Råb af fryd, I himle, for HERREN har gjort det, 
+//2 v23 I skal juble, 
+//4 I himle, 
+//3 for HERREN har handlet, 
 
-råb med glæde, I jordens dybder, 
+//2 råb med glæde, 
+//3 I jordens dybder, 
 
-bryd ud i jubel, I bjerge, 
+//2 bryd ud i jubel, 
+//6 I bjerge, 
 
-skov og hvert træ i den! 
+//5 I skal juble, 
+//4 skov og hvert træ i den! 
 
-For HERREN har løskøbt Jakob, 
+//3 For HERREN har løskøbt Jakob, 
 
-og ved Israel viser han sin herlighed.
+//4 og ved Israel viser han sin herlighed.
 
-v24 Sådan siger HERREN der har løskøbt dig 
+//1 v24 Sådan siger HERREN der løskøber dig 
 
-og dannet dig fra moders liv: 
+og danner dig fra moders liv: 
 
-Jeg er HERREN der skaber alt, 
+//2 Jeg er HERREN 
+//4 der skaber alt, 
 
-den der alene spænder himlen ud; 
+//4 den der alene spænder himlen ud; 
 
-den der breder jorden ud – hvem var med mig?{E: Den hebraiske tekst har: *mêʔittî* der enten skal forstås som: *mî ʔittî*: >>hvem var med mig<<, eller vokaliseres: *mēʔittî*: >>ved mig selv<<.} – 
+//4 den der breder jorden ud – hvem var med mig?{E: Således ifølge konsonanteksten (*mî ʔittî*); massoreterne læser *mêʔittî* (>>fra mig selv<<, >>uden bistand<<).} 
 
-v25 den der forpurrer sandsigeres varsler 
+//4 v25 Jeg er også den der forpurrer sandsigeres varsler 
 
-og gør spåmænd til tåber; 
+//5 og gør spåmænd til tåber; 
 
-den der driver vismænd tilbage 
+//4 den der driver vismænd tilbage 
 
-og gør deres klogskab til tåbelighed;
+//5 og gør deres klogskab til tåbelighed;
 
-v26 den der opfylder sin tjeners ord 
+//4 v26 den der opfylder sin tjeners ord 
 
-og fuldfører sine sendebuds råd;{T: Kan også oversættes: >>engles råd<<.} 
+//5 og fuldfører sine sendebuds{N: Engel} råd 
 
-den der siger om Jerusalem: >>Hun skal bebos,<< 
+//3 den der siger om Jerusalem: 
+//5 >>Det vil blive beboet,<< 
 
-og om Judas byer: >>De skal genopbygges;<< 
+//4 og om Judas byer: 
+//5 >>De vil blive genopbygget, 
 
-– jeg vil genrejse hendes ruiner –
+//6 jeg vil genrejse hendes ruiner;<< 
 
-v27 den der siger til dybet: >>Bliv tør!<< 
+//3 v27 den der siger til dybet: 
+//4 >>Bliv tør, 
 
- – dine floder vil jeg udtørre – 
+//5  dine floder vil jeg udtørre!<< 
 
-v28 den der siger om Kyros: >>Min hyrde! 
+//3 v28 den der siger om Kyros: 
+//5 >>Min hyrde! 
 
-Han skal udføre alt hvad jeg ønsker,<<
+//4 Han vil udføre alt hvad jeg ønsker,<<
 
-og siger om Jerusalem: >>Hun skal genopbygges,
+//5 og siger om Jerusalem: 
+//6 >>Det vil blive genopbygget,
 
-og templet skal grundlægges.<<
+//7 og der vil blive lagt et fundament til et tempel.<<
 
 

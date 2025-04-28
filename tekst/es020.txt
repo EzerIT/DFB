@@ -1,15 +1,30 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
 ===Esajas' Bog, kapitel 20===
-
+ 
 ==Billedhandling om Egyptens og Nubiens nederlag==
-v1 Det år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den, 
-v2 på den tid talte HERREN igennem Esajas, Amos’ søn, og sagde: >>Gå hen og løs sækken af dine lænder, og tag skoen af dine fødder!<< Det gjorde han og gik nøgen og barfodet.
-v3 Så sagde HERREN: >>Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som tegn og varsel mod Egypten og mod Nubien,
-v4 sådan skal Assyriens konge føre fangerne fra Egypten og de bortførte fra Nubien, både unge og gamle, nøgne og barfodede, med blottet bagdel, til skam for Egypten.<<
-v5 Og de{T: Dvs. jøderne; Es 11,16} skal blive bestyrtede og skamfulde over Nubien, deres håb, og over Egypten, deres stolthed.
-v6 Og den der bor på denne kyst{T: Dvs. i Juda}, skal sige på den dag: >>Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?<<
-
+//0 v1 Det år, 
+//2 da en hærchef kom til Ashdod, 
+//4 da Sargon, Assyriens konge, sendte ham, 
+//3 og han belejrede Asdod 
+//4 og indtog den,
+//1 v2 på den tid talte HERREN igennem Esajas, Amos’ søn, 
+//4 og sagde: 
+//5 >>Gå hen 
+//6 og løs sækken af dine lænder, 
+//7 og tag skoen af dine fødder!<< 
+//3 Det gjorde han 
+//4 og gik nøgen og barfodet.
+//2 v3 Så sagde HERREN: 
+//3 >>Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som tegn og varsel mod Egypten og mod Nubien,
+//6 v4 sådan vil Assyriens konge føre fangerne fra Egypten og de bortførte fra Nubien, både unge og gamle, nøgne og barfodede, med blottet bagdel, til skam for Egypten.<<
+//5 v5 Og de vil blive bestyrtede 
+//6 og skamfulde{H: Es 30,2-3} over Nubien, deres håb, og over Egypten, deres stolthed.
+//4 v6 Og den der bor på denne kyst,{T: Dvs. i Juda} vil på den dag sige: 
+//5 >>Se, sådan er det gået vores håb, 
+//7 som vi flygtede til for at få hjælp 
+//8 til at blive reddet fra Assyriens konge; 						
+//6 og vi, hvordan kan vi undslippe?<<
 

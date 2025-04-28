@@ -1,131 +1,165 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 19===
-
 ==Ord mod Egypten==
+//0 v1 Udsagn om Egypten. 
 
-v1 Udsagn om Egypten. 
+//3 Se, HERREN rider på en hurtig sky 
 
-Se, HERREN rider på en let sky 
+//7 og kommer til Egypten, 
 
-og kommer til Egypten, 
+//6 og Egyptens afguder bæver for ham,{N: Ansigt} 
 
-og Egyptens afguder bæver for ham,{T: Kan også oversættes: >>for hans ansigt<<.} 
+//7 og Egyptens hjerte bliver modløst i dets indre.
 
-og Egyptens hjerte bliver modløst i dets indre.
+//5 v2 For jeg vil bevæbne Egypten imod Egypten, 
 
-v2 For jeg vil væbne Egypten imod Egypten, 
+//7 så de kæmper 
+//8 hver mod sin bror
 
-så de kæmper hver mod sin bror 
+//10 og hver mod sin næste, 
 
-og hver mod sin næste, 
+//9 by mod by, 
 
-by mod by, 
+//9 kongerige mod kongerige.
 
-kongerige mod kongerige.
+//6 v3 Og Egyptens mod{N: Ånd} vil gå til grunde i dets indre, 
 
-v3 Og Egyptens ånd skal gå til grunde i dets indre, 
+//9 og dets planer vil jeg forvirre, 
 
-og dets planer vil jeg forvirre, 
-
-så de vender sig til afguderne og til genfærd
+//8 så de vender sig til afguderne og til genfærd 
 
 til dødemanerne og til sandsigerne.
 
-v4 Og jeg vil overgive Egypten 
+//7 v4 Og jeg vil overgive Egypten 
 
 til hårde herrers hånd, 
 
-og en streng konge skal herske over dem, 
+//8 og en streng konge vil herske over dem, 
 
-det er Herrens, Hærskarers HERRES,{N: Hærskarers} udsagn.
+//9 det er Herrens, Hærskarers{N: Hærskarers} HERRES, udsagn.
 
 ***
 
-v5 Vand skal svinde bort fra havet, 
+//4 v5 Vand vil svinde bort fra havet, 
 
-og flod skal udtørres og blive tør,
+//7 og flod vil udtørres
+//8 og blive tør,
 
-v6 og floder skal stinke, 
+//6 v6 og floder vil stinke, 
 
-lavvandede og tørre skal Egyptens strømme blive, 
+//8 lavvandede
+//9 og tørre vil Egyptens strømme blive, 
 
-rør og siv skal visne.
+//7 rør og siv vil visne.
 
-v7 Engene{E: Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: >>enge/åbne pladser<< og >>sivplanter<<.} ved Nilen, ved bredden{E: Ordet *peʰ* kan også oversættes: >>udløb<<.} af Nilen,
-og alle Nilens tilsåede marker{E: Ordet *mizrāʕ* findes i Bibelen kun her. Efter alt at dømme betegner det jord der kan tilsås.} 
+//8 v7 Engene{E: Alternativt skal *ʕārāʰ* (>>enge/åbne pladser<<) oversættes: >>sivplanter<<.} ved Nilen, ved bredden{E: Ordet *peʰ* kan også oversættes: >>udløb<<.} af Nilen,
+//9 og alle Nilens tilsåede marker 
 
-skal tørre ud, blæses væk så de ikke findes mere.
+vil tørre ud, 
+//10 blæses væk 
+//11 så de ikke findes mere.
 
-v8 Og fiskerne skal klage og sørge, 
+//5 v8 Og fiskerne vil klage
+//6 og sørge, 
 
-alle der kaster krog i Nilen, 
+//8 alle der kaster krog i Nilen, 
 
-breder garn ud over vandet, 
+//7 og 
+//10 de der breder garn ud over vandet, 
 
-skal sygne hen.
+//9 vil sygne hen.
 
-v9 Og de der arbejder med hør, skal blive til skamme, de der karter,{E: Den 
-hebraiske tekst har adjektiv, femininum (>>kartet<<), mens >>hør<< er maskulinum. Man forudsætter derfor oftest en anden vokalisering, så der læses et substantiv: *śᵊrîqôt* til: *śorqôt*: >>kartende (kvinder)<<. Ordet findes kun denne ene gang i Bibelen.}
+//8 v9 Og de vil blive til skamme, 
+//10 de der arbejder med hør, de der karter,{E: Den hebraiske tekst har adjektiv, femininum *śᵊrîqôt* (>>kartet<<) som ofte omvokaliseres til: *śorqôt* (>>kartende (kvinder))<<. }
 
-og de der væver hvidt tøj.
+//11 og de der væver hvidt tøj.
 
-v10 Og dets søjler{E: Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: >>vævere<<.} skal være knust, 
+//9 v10 Og dets vævere{E: I stedet for *šātōteʸhā* (>>dets søjler/baller<<) læses med LXX: *šōteʸhā*: >>vævere<<.} vil blive knust, 
 
-alle de der arbejder for løn, skal være bedrøvede i hjertet.
+//10 alle de der arbejder for løn, vil blive bedrøvede i hjertet.
 
-v11 Soans ledere er helt igennem tåber, 
+//2 v11 Soans ledere er helt igennem tåber, 
 
-Faraos vise rådgiveres råd er tåbeligt; 
+//6 Faraos vise rådgiveres råd er tåbeligt; 
 
-hvordan kan I sige til Farao: 
+//5 hvordan kan I sige til Farao: 
 
->>Jeg er søn af vismænd, 
+//7 >>Jeg er søn af vismænd, 
 
-fortids kongers søn<<?
+//8 fortids kongers søn<<?
 
-v12 Hvor er da dine vismænd? 
+//6 v12 Hvor er da dine vismænd? 
 
-Lad dem da fortælle dig, 
+//4 Lad dem da fortælle dig, 
 
-og lad dem vide, 
+//5 og lad dem vide, 
 
-hvad Hærskarers HERRE{N: Hærskarers} har besluttet om Egypten!
+//6 hvad Hærskarers HERRE har besluttet om Egypten!
 
-v13 Soans ledere er blevet tåber, 
+//3 v13 Soans ledere handler tåbeligt, 
 
-Nofs ledere er blevet bedraget, 
+//3 Nofs ledere er blevet bedraget, 
 
-og Egypten har vildledt sine stammers hjørnesten.
+//4 og Egypten har vildledt sine stammers hjørnesten.
 
-v14 HERREN har i dets{T: Egyptens.} indre blandet
+//5 v14 HERREN har i dets indre blandet 
 
 en forvirringens ånd, 
 
-og den har vildledt Egypten 
+//6 og den har vildledt Egypten 
 
 i al dets gerning, 
 
-som en beruset tumler omkring i sit opkast.
+//8 som en beruset tumler omkring i sit opkast.
 
-v15 Og der skal ikke være nogen gerning for Egypten, 
+//7 v15 Og der vil ikke være nogen gerning for Egypten, 
 
-som hoved eller hale, 
+//8 som hoved eller hale, 
 
 palmegren eller siv kan udføre.
 
-v16 På den dag skal Egypten være som kvinder, det skal ryste og skælve for Hærskarers HERRES{N: Hærskarers} svingende hånd, som svinger over det.
-v17 Og Judas land skal være til skræk for egypterne; så ofte nogen minder dem om det, skal de frygte for Hærskarers HERRES{N: Hærskarers} plan, som han har lagt imod dem.
-v18 På den dag skal der være fem byer i Egyptens land der taler Kana’ans sprog og sværger troskab mod Hærskarers HERRE;{N: Hærskarers} en af dem skal kaldes Ir-Ha-Heres.{E: >>Ødelæggelsens by<<. Man går ofte ud fra at der ikke skulle stå: *haheres*, men *haḥeres*: >>sol(byen)<< (Heliopolis). Dette støttes af enkelte håndskrifter og gamle oversættelser.}
+//1 v16 På den dag vil Egypten være som kvinder, 
+//4 der ryster af skræk 
+//5 og frygter for Hærskarers HERRES svingende hånd, 
+//6 som han svinger over det.
+//3 v17 Og Judas land vil være til skræk for egypterne; 
+//4 så ofte 
+//6 nogen minder dem om det, 
+//5 vil de frygte for Hærskarers HERRES plan, 
+//6 som han har lagt imod dem.
+//2 v18 På den dag vil der være fem byer i Egyptens land 
+//4 der taler Kana’ans sprog 
+//6 og sværger troskab til Hærskarers HERRE; 
+//6 Ir-Ha-Heres{E: >>Ødelæggelsens by<<. *haheres* rettes ofte til *haḥeres*: >>sol(byen)<< (Heliopolis). Dette støttes af enkelte håndskrifter og gamle oversættelser.}
+//5 kaldes en af dem.
+//3 v19 På den dag vil der være et alter for HERREN midt i Egyptens land 
+//7 og en stenstøtte for HERREN ved dets grænse.
+//6 v20 Og det vil være et tegn og et vidne for Hærskarers HERRE i Egyptens land på at 
+//7 når de råber til HERREN på grund af undertrykkere, 
+//8 så sender han en befrier og en forsvarer 
+//9 og redder dem.
+//5 v21 Og HERREN vil give sig til kende for Egypten, 
+//7 og egypterne vil kende HERREN på den dag, 
+//8 og de vil tjene ham med slagtoffer og afgrødeoffer 
+//9 og de vil aflægge løfter til HERREN 
+//10 og indfri dem.
+//6 v22 Og HERREN vil slå Egypten, slå og helbrede; 
+//7 og de vil vende om til HERREN, 
+//8 og han vil bønhøre dem 
+//9 og helbrede dem.
+//4 v23 På den dag vil der være en ryddet vej fra Egypten til Assyrien, 
+//6 og Assyrien vil komme til Egypten 
+//7 og Egypten til Assyrien, 
+//8 og egypterne vil tjene ham sammen med assyrerne.
+//5 v24 På den dag vil Israel blive den tredje sammen med Egypten og Assyrien, 
+//6 en velsignelse midt på jorden,
+//7 v25 	for Hærskarers HERRE har velsignet det 
+//8 og sagt: 
+//9 >>Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom Israel!<<
 
-v19 På den dag skal der være et alter for HERREN midt i Egyptens land og en stenstøtte for HERREN ved dets grænse.
-v20 Og det skal være tegn og vidne for Hærskarers HERRE{N: Hærskarers} i Egyptens land på at når de råber til HERREN på grund af undertrykkere, så sender han en befrier og en forsvarer og redder dem.
-v21 Og HERREN skal give sig til kende for Egypten, og egypterne skal kende HERREN på den dag, og de skal tjene{T: Her har det hebraiske ord bibetydning af tilbede og ære. I hebraiske ører klinger det med.} ham med slagtoffer og afgrødeoffer og de skal aflægge løfte til HERREN og indfri dem.
-v22 Og HERREN skal slå Egypten, slå og helbrede; og de skal vende om til HERREN, og han skal bønhøre dem og helbrede dem.
-v23 På den dag skal der være en ryddet vej fra Egypten til Assyrien, og Assyrien skal komme til Egypten og Egypten til Assyrien, og egypterne skal tjene sammen med assyrerne.
-v24 På den dag skal Israel være den tredje sammen med Egypten og Assyrien – en velsignelse midt på jorden
-v25 som Hærskarers HERRE{N: Hærskarers} har velsignet og sagt: >>Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom{E: Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: >>ejendom<< eller: >>arvelod<<.} Israel!<<
 
 

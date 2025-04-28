@@ -1,110 +1,160 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 38===
-
 ==Hizkijas sygdom og helbredelse==
-v1 I de dage blev Hizkija dødssyg, og Esajas, Amos' søn, profeten, kom til ham og sagde til ham: >>Sådan siger HERREN: Bring orden i dit hus, for du skal dø og ikke leve.<<
-v2 Hizkija vendte sit ansigt mod væggen, og han bad til HERREN
-v3 og sagde: >>Ak, HERREN, Husk dog hvordan jeg har vandret for dit ansigt i sandhed og helhjertet og har gjort det der er godt i dine øjne.<< Og Hizkija græd højt.
-v4 Da kom HERRENS ord til Esajas og lød: 
-v5 >>Gå hen og sig til Hizkija: Sådan siger HERREN, din far Davids Gud: Jeg har hørt din bøn, jeg har set dine tårer; se, man vil lægge{E: Man går ofte ud fra, at der i stedet for *yôsif* skulle står: *hōsaftî*: >>jeg lægger …til<< som i 2 Kong 20,6.} femten år til dine dage.
-v6 Og jeg vil befri dig og denne by ud af Assyriens konges hånd, og jeg beskytter denne by.
-v7 Og dette er tegnet til dig fra HERREN på at HERREN vil gøre denne gerning, som han meddeler:
-v8 Se, jeg fører solurets skygge, der er gået nedad på Akaz' solur, ti streger tilbage ved hjælp af solen.<< Og solen gik ti streger tilbage på soluret, som den var gået ned.
+//0 v1 I de dage blev Hizkija 
+//3 dødssyg, 
+//2 Esajas, Amos' søn, profeten, kom til ham 
+//3 og sagde til ham: 
+//4 >>Sådan siger HERREN: 
+//5 Bring dine sager i orden, 
+//6 for du skal dø 
+//7 og ikke blive i live.<<
+//2 v2 Hizkija vendte sit ansigt mod væggen, 
+//3 og han bad til HERREN
+//3 v3 og sagde: 
+//4 >>Ak, HERRE! 
+//5 Husk dog 
+//6 hvordan jeg har vandret for dit ansigt i sandhed og helhjertet 
+//7 og har gjort det der i dine øjne er godt.<< 
+//2 Og Hizkija græd højt.
+//1 v4 Da kom HERRENS ord til Esajas 
+//4 således: 
+//5 v5 >>Gå hen 
+//6 og sig til Hizkija: 
+//7 Sådan siger HERREN, din far Davids Gud: 
+//8 Jeg har hørt din bøn, 
+//9 jeg har set dine tårer; 
+//10 se, jeg vil lægge femten år til din levetid.
+//12 v6 Og jeg vil befri dig ud af Assyriens konges hånd, 
+//14 sammen med denne by
+//13 og jeg beskytter denne by.
+//11 v7 Og dette er tegnet til dig fra HERREN på 
+//13 at HERREN vil gøre denne gerning, 
+//14 som han har meddelt:
+//12 v8 Se, jeg fører solurets skygge, 
+//15 der har bevæget sig nedad ved solen på Akaz' solur, 
+//14 ti trin tilbage.<< 
+//13 Og solen gik de ti trin tilbage på soluret, 
+//14 som den havde bevæget sig nedad.
+
 ***
-v9 Et skrift{E: Man går ofte ud fra at der i stedet for: *mixtāv* (>>skrift<<, andre oversætter: >>sang<<.) skulle stå: *mixtām*: >>Miktam<<.} af Hizkija, Judas konge, da han havde været syg og var kommet sig af sin sygdom:
 
-v10 Jeg sagde: Midt {E: Andre vil oversætte: *dᵊmî* ved: >>rolige<<, altså: >>I mine rolige dage<<, der forstås som: >>lykkelige dage<<.} i mine dage skal jeg gå gennem dødsrigets porte; 
+//3 v9 En tekst{E: *mixtāv* kan rettes til *mixtām* som er en titel på nogle salmer.} af Hizkija, Judas konge, 
+//5 da han havde været syg 
+//6 og var kommet sig af sin sygdom:
 
-jeg bliver frataget resten af mine år.
+//4 v10 Jeg sagde: 
 
-v11 Jeg sagde: Jeg skal ikke se HERREN,{E: Her og i næste vers har den hebraiske tekst kortformen: *yāh*. Enkelte håndskrifter har den fulde form: *yᵊhwāʰ*: >>JHWH<<.} 
+//6 Midt {E: Andre vil oversætte: *dᵊmî* ved: >>rolige<<, altså: >>I mine rolige dage<<, der forstås som: >>lykkelige dage<<.} i mine dage vil jeg gå gennem dødsrigets{N: Sheol} porte; 
 
-HERREN i de levendes land; 
+//7 jeg bliver frataget resten af mine år.
 
-jeg skal ikke mere se et menneske, 
+//5 v11 Jeg sagde: 
+//7 Jeg vil ikke se HERREN,{E: Her og i næste vers har den hebraiske tekst kortformen: *yāh*. Enkelte håndskrifter har den fulde form: *yᵊhwāʰ*: >>JHWH<<.} 
 
-blandt dem der bor i verden.{E: Andre oversætter: >>dødsriget<<. I stedet for *ḥādel* har en del manuskripter: *ḥeled*: >>verden<<.}
+//11 HERREN i de levendes land; 
 
-v12 Min bolig brydes ned og flyttes fra mig 
+//10 jeg vil ikke mere se et menneske 
+
+blandt verdens beboere.{E: Den hebraiske tekst har *ḥādel* (>>dødsriget<<). En del manuskripter, som man oftest følger, har *ḥeled* (>>verden<<).}
+
+//11 v12 Min bolig brydes ned 
+
+//12 og fjernes fra mig 
 
 som en hyrdes telt; 
 
-jeg har rullet mit liv sammen som en væver, 
+//9 jeg har rullet mit liv sammen som en væver, 
 
-man skærer mig af fra trådene; 
+//10 man {T: Verbet i 3 maskulinum singularis kan henvise til en væver eller til Gud.} skærer mig af fra trådene; 
 
-fra dag til nat vil du gøre ende på mig.
+//8 fra dag til nat vil du gøre ende på mig.
 
-v13 Jeg holdt mig stille{E: Targum har læst: *šiwwaʕtî*: >>råbte om hjælp<<.} indtil morgen, 
+//9 v13 Jeg forholdt mig stille{E: Targum har læst: *šiwwaʕtî*: >>råbte om hjælp<<.} indtil morgen, 
 
-som en løve{T: Ifølge accenterne hører >>som en løve<< til den foregående sætning, men ordene knyttes normalt til denne sætning.} knuser han så alle mine knogler;  
+//10 som en løve 
+//11 knuser han så alle mine knogler;  
 
-fra dag til nat gør du ende på mig.
+//8 fra dag til nat gør du ende på mig.
 
-v14 Som en svale, en trane,{T: Det er usikkert hvilke fugle der er tale om.} sådan peb jeg,
+//10 v14 Som en svale, en trane, 
+//11 sådan peb jeg,
 
-jeg kurrede som en due. 
+//12 jeg kurrede som en due. 
 
-Mine øjne løftedes mod det høje. 
+//9 Mine øjne er svage af at se mod det høje. 
 
-Herre, jeg er i nød, 
+//11 Herre, 
+//10 jeg er i nød, 
 
-Stil sikkerhed for mig!
+//11 Stil sikkerhed for mig!
 
 ***
 
-v15 Hvad skal jeg sige? 
+//6 v15 Hvad skal jeg sige? 
 
-Han har sagt det til mig, og han har gjort det. 
+//9 Han har talt til mig, 
+//10 og han har gjort det. 
 
-jeg skal vandre stille alle mine år 
+//8 jeg skal vandre stille alle mine år 
 
 på grund af min sjæls bitterhed.
 
-v16 Herre, ved disse ting{T: Nemlig ved Herrens ord og handlinger} lever man, 
+//9 v16 Herre, 
+//10 under de vilkår  lever man, 
 
-og i alt ved dem er min ånds liv; 
+//12 og ved alt bevares min ånds liv i dem; 
 
-gør mig stærk, og hold mig i live!
+//11 gør mig stærk, 
+//12 og hold mig i live!
 
-v17 Se, for at få fred havde jeg stor bitterhed; 
+//7 v17 Se, det der var meget bittert for mig, blev til fred; 
 
-men du udfriede kærligt min sjæl fra ødelæggelsens grav; 
+//8 men du udfriede mig{N: Sjæl} kærligt fra ødelæggelsens grav; 
 
-for om bag din ryg kastede du 
+//10 for om bag din ryg kastede du 
 
 alle mine synder.
 
-v18 For dødsriget takker dig ikke, 
+//9 v18 For dødsriget{N: Sheol}  takker dig ikke, 
 
-døden lovpriser dig ikke; 
+//12 døden lovpriser dig ikke; 
 
-de der går ned i graven, håber ikke 
+//11 de der går ned i graven, håber ikke 
 
 på din trofasthed.
 
-v19 Den der lever, den der lever, han takker dig 
+//10 v19 Den der er i live, den der er i live, 
+//11 han takker dig 
 
 som jeg i dag. 
 
-En far til sønner
+//12 En far til sønner 
 
-skal fortælle om din trofasthed.
+vil fortælle om din trofasthed.
 
-v20 HERREN er min frelse, 
+//13 v20 HERREN 
+//15 er min frelse, 
 
-vil vi spille på mine strengespil 
+//14 vi vil spille på mine strengespil 
 
-alle vores livs dage 
+alle vores livs dage
 
-oppe i HERRENS hus.
+oppe ved HERRENS hus.
 
 ***
 
-v21 Så sagde Esajas at de skulle tage en figenkage og gnide den på hans byld, så ville han blive rask.
-v22 Og Hizkija sagde: >>Hvad er tegnet på at jeg skal gå op til HERRENS hus?<<
+//2 v21 Esajas sagde {T:Tidsmæssigt sker det før takkesalmen i vers 9-20 og kan derfor også oversættes >>Esajas havde sagt<<.} 
+//3 at de skulle tage en figenkage 
+//4 og gnide den på hans byld, 
+//5 så ville han blive i live.
+//2 v22 Og Hizkija sagde: 
+//3 >>Hvad er tegnet på 
+//4 at jeg skal gå op til HERRENS hus?<<
+
 
 

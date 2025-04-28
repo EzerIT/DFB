@@ -1,241 +1,281 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 45===
+//0 v1 Sådan har HERREN sagt til sin salvede, 
 
-v1 Sådan siger HERREN til sin salvede, 
+til Kyros, 
+//3 som jeg har grebet ved hans højre hånd 
 
-til Kyros, som jeg har grebet ved hans højre hånd 
+//4 for at underkaste folkeslag foran ham{N: Ansigt} 
 
-for at underkaste folkeslag{T: Kan også oversættes: >>hedninger<<.} for hans ansigt, 
+//5 og løse bæltet om kongers lænd 
 
-og jeg vil løse bæltet om kongers lænd 
+//4 for at åbne døre foran ham,
 
-for at åbne døre foran ham,
+//5 så porte ikke bliver lukket:
 
-og så porte bliver lukket:
+//2 v2 >>Jeg vil gå foran dig, 
 
-v2 Jeg vil gå foran dig, 
+//6 og bjergland vil jeg jævne; 
 
-og bjergland vil jeg jævne; 
+//5 bronzeporte vil jeg smadre, 
 
-bronzedøre vil jeg smadre, 
+//7 og portslåer af jern hugger jeg af.
 
-og jernslåer hugger jeg af.
+//6 v3 Jeg vil give dig mørkets skatte og skjulesteders kostbarheder
 
-v3 Jeg giver dig mørkets skatte 
+//8 for at du kan vide 
+//9 at jeg er HERREN 
 
-og skjulesteders kostbarheder
+//11 der kalder dig ved dit navn, 
+//10 Israels Gud,
 
-for at du skal vide at jeg er HERREN 
+//7 v4 for min tjener Jakobs 
 
-der kalder dig ved dit navn, Israels Gud.
+og for Israels, min udvalgtes, skyld. 
 
-v4 For min tjener Jakobs skyld 
+//8 Jeg kaldte jeg dig ved dit navn, 
 
-og for Israels, min udvalgtes, skyld,{T: Ordene >>for … skyld<< står ikke i den hebraiske tekst i denne linje, men er underforstået fra foregående linje.} 
+//4 jeg giver dig hædersnavn 
+//5 skønt du ikke kendte mig.
 
-kaldte jeg dig ved dit navn; 
+//3 v5 Jeg er HERREN, 
+//6 og der er ingen anden, 
 
-jeg gav dig hædersnavn skønt du ikke kendte mig.
+//5 ud over mig er der ingen Gud. 
 
-v5 Jeg er HERREN, og der er ingen anden, 
+//4 Jeg spænder dit bælte så du er parat til krig,  
+//6 skønt du ikke kender mig,
 
-ud over mig er der ingen Gud. 
+//5 v6 for at de kan vide fra solens opgang og fra dens nedgang 
 
-Jeg vil væbne dig,{T: Ordret: >>jeg vil omgjorde dig<< der er udtryk for at ruste til kamp.} skønt du ikke kender mig
+//6 at der ikke er nogen ud over mig.<< 
 
-v6 for at de skal vide fra solens opgang og fra dens nedgang 
+//3 Jeg er HERREN, 
+//5 og der er ingen anden
 
-at der ikke er nogen ud over mig; 
+//4 v7 der danner lys 
+//6 og skaber mørke, 
 
-Jeg er HERREN, og der er ingen anden
+//5 der gør freden mulig 
+//6 og skaber ulykke;
 
-v7 der danner lys og skaber mørke, jeg, 
+//3 jeg er HERREN
 
-der stifter fred og skaber ulykke; 
+//4 der gør alle disse ting.
 
-jeg er HERREN der gør alle disse ting.
+//1 v8 Lad det dryppe, 
+//5 I himle, fra oven,
 
-v8 Lad det dryppe, I himle, fra oven, 
+//4 og lad retfærdighed strømme ned fra skyerne!
 
-og lad skyer sende strømme med retfærdighed! 
+//3 Lad jorden åbne sig, 
 
-Lad jorden åbne sig 
+//4 og lad dem give frelse som frugt, 
 
-og frelse bære frugt, 
+//5 og retfærdighed skal spire sammen med den! 
 
-og lad retfærdighed spire sammen med den! 
-
-Jeg, HERREN, skaber det. 
+//2 Jeg, HERREN, skaber det. 
 
 ***
 
-v9 Ve den der strides med ham der dannede ham, 
+//0 v9 Ve 
+//5 den der fører sag mod ham der formede ham, 
 
-et potteskår med potteskår af jord! 
+//4 som et potteskår blandt potteskår ude på agerjorden!{H: 1 Mos 2,7} 
 
-Mon leret siger til den der formede det: 
+//3 Mon leret siger til den der formede det: 
 
->>Hvad gør du?<< 
+//4 >>Hvad gør du?<< 
 
-eller dit værk: >>Han har ingen hænder<<?
+//5 eller dit værk: 
+//6 >>Han har ingen hænder<<?
 
-v10 Ve den der siger til sin far: >>Hvad er det du avler?<< 
+//2 v10 Ve 
+//3 den der siger til en far: 
+//5 >>Hvad er det du bliver far til?<< 
 
-og til en kvinde: >>Hvad er det du føder?<<!
+//4 og til en kvinde: 
+//5 >>Hvad er det du føder?<<!
 
-v11 Sådan siger HERREN, 
+//1 v11 Sådan siger HERREN, 
 
 Israels Hellige og dets skaber: 
 
-Spørg mig om de kommende ting; 
+//2 Spørg mig om de kommende ting; 
 
-vil I give mig befaling om mine børn og om mine hænders gerning?{T: Det er omdiskuteret om sætningen skal opfattes som spørgsmål eller en konstatering.}
+//4 vil I give mig befaling om mine børn og om mine hænders gerning?{T: Dette udsagn tolkes her som et spørgsmål.}
 
-v12 Jeg lavede jorden 
+//3 v12 Jeg var den der lavede jorden 
 
-og skabte menneske på den; 
+//6 og skabte menneske på den; 
 
-jeg – mine hænder har spændt himlen ud, 
+//5 Det var mig,
 
-og jeg har befalet over hele dens hær.
+//7 der med egne hænder har spændt himlen ud, 
 
-v13 Jeg har vakt ham {T: Dvs. Kyros, vers 1} i retfærdighed, 
+//6 og jeg gav lovene for hele dens vrimmel.
 
-og jeg vil jævne alle hans veje; 
+//4 v13 Jeg er den der har vakt ham{H: Es 41,2} i retfærdighed, 
 
-han skal bygge min by 
+//6 og jeg vil jævne alle hans veje; 
 
-og løslade mit bortførte folk, 
+//7 han vil bygge min by 
 
-ikke for en købspris og ikke for bestikkelse, 
+//8 og løslade mit bortførte folk, 
 
-siger Hærskarers HERRE.{N: Hærskarers}
+//5 ikke for en købspris 
+//7 og ikke for bestikkelse, 
 
-==Folkeslagene skal omvende sig til HERREN==
+//6 har Hærskarers{N: Hærskarers} HERRE sagt.
 
-v14 Sådan siger HERREN: 
+==Folkeslagene vil omvende sig til HERREN==
 
-Egyptens arbejde og Nubiens erhvervelse 
+//1 v14 Sådan har HERREN sagt: 
 
-og sabæere, som er høje mennesker, 
+//3 Egyptens rigdom, Nubiens indtjening 
 
-til dig skal de komme, og dine skal de blive, 
+og sabæere, som er høje mennesker{E: *middāʰ* (>>(mænd af) mål<<) kan også oversættes med >>afgifter<< (Neh 5,4) som de så bringer.}
 
-de skal gå bagefter dig, i lænkerne skal de komme; 
+til dig vil de komme, 
+//5 og dig vil de tilhøre, 
 
-for dig skal de bøje sig ned, til dig skal de bede: 
+//6 de vil gå bagefter dig, 
+//9 i lænkerne vil de komme; 
 
->>Kun hos dig er Gud, og der er ingen anden, 
+//8 for dig vil de bøje sig ned, 
+//7 og de vil bede dig om forbøn, 
 
-ikke nogen Gud.<<
+//8 ja, kun hos dig er Gud, 
+//10 og der er ingen anden, 
 
-v15 Sandelig, du er en Gud der skjuler sig, 
+//11 ikke nogen Gud!
 
-Israels Gud er en frelser.
+//9 v15 Sandelig, 
+//11 du er en Gud der skjuler sig, 
 
-v16 De bliver til skamme og beskæmmes også, alle; 
+//10 Israels Gud 
+//11 er en frelser.
 
-sammen går de med skændsel, 
+***
 
-de der fremstiller afgudsbilleder.
+//4 v16 De bliver til skamme, 
+//6 og alle beskæmmes også, 
 
-v17 Israel bliver frelst ved HERREN, 
+//7 de går sammen i skændsel, de der fremstiller afgudsbilleder.
+
+//5 v17 Israel bliver frelst ved HERREN, 
 
 en evig frelse. 
 
-I skal ikke blive til skamme, og I skal ikke beskæmmes,
+//6 I vil ikke blive til skamme, 
+//7 og skændsel vil ikke ramme jer 
 
 i evigheders evighed.
 
-v18 For sådan siger HERREN 
+//2 v18 For sådan sagde HERREN
 
-der skabte himlen, 
+//5 der skabte himlen, 
 
-han er den Gud der formede jorden og frembragte den, 
+//6 han er den Gud 
+//8 der formede jorden 
+//9 og lavede den, 
 
-han grundlagde den, 
+//7 det var ham der grundlagde den, 
 
-skabte den ikke til tomhed, 
+//8 skabte den ikke til det golde, 
 
-dannede den til at bebos: 
+//10 til at blive beboet 
+//9 dannede han den: 
 
-Jeg er HERREN, og der er ingen anden. 
+//4 Jeg er HERREN, 
+//7 og der er ingen anden. 
 
-v19 Det er ikke i det skjulte jeg har talt, 
+//6 v19 Det er ikke i det skjulte jeg har talt, 
 
-på et sted i mørkets land; 
+på et sted i mørkets land;
 
-jeg har ikke sagt til Jakobs afkom: 
+//7 jeg har ikke sagt til Jakobs afkom: 
 
->>Søg mig forgæves!<< 
+//8 >>Søg mig forgæves!<< 
 
-Jeg er HERREN 
+//5 Jeg er HERREN 
 
-der taler retfærd, 
+//6 der taler om retfærd, 
 
-der forkynder hvad der er ret.
+//7 der forkynder hvad der er ret.
 
 ***
 
-v20 Saml jer og kom, 
+//3 v20 Saml jer  
 
-kom nærmere sammen, 
+//6 og kom,
 
-I der er undsluppet fra folkeslagene!{T: Kan også oversættes: >>hedningerne<<.} 
+//5 kom nærmere sammen, 
 
-De ved ingenting, de der bærer 
+//7 I der er undsluppet fra folkeslagene! 
+
+//6 De ved ingenting, 
+//7 de der bærer 
 
 deres gudebilleder af træ, 
 
-og som beder til en gud der ikke kan frelse.
-
-v21 Fortæl og fremlæg, 
-
-ja, læg råd op sammen: 
-
-Hvem har forkyndt dette fra gammel tid, 
-
-for længst fortalt det? 
-
-Mon det ikke er mig, HERREN? 
-
-Og der er ingen anden Gud ud over mig, 
-
-en retfærdig Gud og frelser, 
-
-der er ingen undtagen mig.
+//8 og som beder til en gud 
+//9 der ikke kan frelse.
 
 ***
 
-v22 Vend jer til mig og bliv frelst, 
+//4 v21 Forkynd 
+//7 og fremlæg, 
 
-alle jordens ender! 
+//6 ja, så de kan rådføre sig med hinanden: 
 
-For jeg er Gud, og der er ingen anden.
+//5 Hvem har ladt dette blive hørt fra gammel tid, 
 
-v23 Jeg har svoret ved mig selv, 
+//7 for længst forkyndt det? 
 
-af min mund udgår sandhed, 
+//6 Mon det ikke er mig, HERREN? 
 
-et ord der ikke vender tilbage: 
+//8 Og der er ingen anden Gud ud over mig, 
 
-At for mig skal hvert knæ bøje sig, 
+//7 en retfærdig Gud og frelser, 
 
-hver tunge skal sværge.
+//8 der er ingen undtagen mig.
 
-v24 >>Kun i HERREN,<< siger man om mig, 
+//4 v22 Vend jer til mig 
+//8 og bliv frelst, 
 
->>er der retfærdighed og styrke; 
+//7 alle helt til jordens ender! 
 
-til ham skal de komme og blive til skamme,
+//6 For jeg er Gud, 
+//7 og der er ingen anden.
 
- alle der vredes på ham.<<
+//5 v23 Jeg har svoret ved mig selv, 
 
-v25 I HERREN skal de blive retfærdiggjort og rose sig,
+//7 af min mund udgår retfærdighed, 
 
-hele Israels sæd.
+et ord 
+//8 der ikke vender tilbage, 
+
+//6 at hvert knæ skal bøje sig for mig, 
+
+//7 hver tunge skal sværge troskab.
+
+//8 v24 >>Kun i HERREN,<< 
+//11 har man sagt om mig, 
+
+//10 >>er der retfærdighed og styrke; 
+
+//9 til ham vil de komme 
+//11 og blive til skamme, 
+
+alle 
+//12 der vredes på ham.<<
+
+//10 v25 I HERREN vil de blive retfærdiggjort 
+//11 og de vil tilbede, alle Israels efterkommere.{H: 1 Mos 3,15.}
 
 

@@ -1,105 +1,124 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
 ===Esajas' Bog, kapitel 17===
 
 ==Guds dom over Aram og Nordriget==
+//0 v1 Udsagn om Damaskus. 
 
-v1 Udsagn om Damaskus. 
+//1 Se, Damaskus fjernes fra at være en by, 
 
-Se, Damaskus fjernes fra at være en by, 
+//4 og den vil blive en ruinhob.
 
-og den skal blive en ruinhob.
+//3 v2 Aro’ers byer bliver forladt; 
 
-v2 Aro’ers byer bliver forladt; 
+//5 de bliver til fårehjorde, 
 
-de skal være til fårehjorde, 
+//6 og de lejrer sig der, 
 
-og de skal lejre sig der, 
+//7 og ingen skræmmer dem.
 
-og ingen skræmmer dem.
+//4 v3 Fæstning forsvinder fra Efraim 
 
-v3 Og fæstning forsvinder fra Efraim 
+//6 og kongedømme fra Damaskus. 
 
-og kongedømme fra Damaskus 
+//5 Resten af Aram 
 
-og fra resten af Aram; 
+bliver som Israels børns herlighed, 
 
-de skal blive som Israels børns herlighed, 
+//6 siger Hærskarers{N: Hærskarers} HERRE.
 
-siger Hærskarers HERRE.{N: Hærskarers}
+//2 v4 På den dag
 
-v4 Og det skal ske på den dag: 
+//5 vil Jakobs herlighed svinde 
 
-Da skal Jakobs herlighed svinde, 
+//6 og hans køds fedme svinde ind.
 
-og hans køds fedme skal svinde ind.
+//4 v5 Og så,
+//7 som når en høster korn
 
-v5 Og det skal gå som når en der høster, samler korn, 
+//8 og med armen skærer aksene af, 
 
-og hans arm skærer aksene af; 
-
-og det skal gå som når man samler aks 
+//6 vil det gå 
+//7 når man samler aks 
 
 i Refaims Dal.
 
-v6 Men der skal blive en efterslæt tilbage dér, 
+//5 v6 Men der vil blive en efterslæt tilbage dér, 
 
 som når man slår oliven ned: 
 
-To-tre bær i trætoppen, 
+//6 To-tre bær i trætoppen, 
 
-fire–fem på dets frugtbare kviste, 
+//7 fire–fem på dets frugtbare kviste,
 
-sådan er HERRENS, Israels Guds, udsagn.
+//8 sådan er HERRENS, Israels Guds, udsagn.
 
-v7 På den dag skal mennesket se mod sin skaber, og dets øjne skal se hen til Israels Hellige.
-v8 Og det skal ikke se hen til altrene, dets hænders værk; og det dets fingre har lavet, skal det ikke se på, hverken Ashera-pælene eller røgelsesaltrene.{T: Ordet *ḥammān* forekommer kun ganske få steder i GT, og betydningen er omdiskuteret. Oftest oversættes det med >>røgelsesalter<<. Andre foreslår: >>sol-søjler<<.}
-v9 På den dag skal dets stærke byer blive som de forladte skove og bjergtoppen,{E: Hebraisk: *kaʕᵃzûvat haḥōreš wᵊhāʔāmîr*. Mange vælger her at følge Septuaginta der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: >>som hivvitternes og amoritternes byer<<.} som de har forladt på grund af Israels børn, og der skal blive ørken.
+//3 v7 På den dag vil mennesket se mod sin skaber 
 
-v10 For du har glemt din frelses Gud 
+//5 og dets øjne  se hen til Israels Hellige. 
 
-og ikke husket på din styrkes klippe; 
+//6 v8 Og det vil ikke se hen til altrene, dets hænders værk; 
 
-derfor planter du skønheders{E: I stedet for *naʕᵃmānîm*, der er pluralis, foreslås det undertiden at læse singularis: *naʕᵃmān* og opfatte det som navn for Adonis. Dette navn er dog ikke påvist andre steder.} planter 
+//7 og 
+//9 det dets fingre har lavet, 
 
-og sætter en fremmeds vinranker.
+//8 vil det ikke se på, 
 
-v11 Den dag du planter, sætter du hegn omkring, 
+//9 hverken Ashera-pælene eller røgelsesaltrene.{E: *ḥammān* oversættes af andre med >>sol-søjler<<.} 
 
-og om morgenen får du din plantning til at blomstre; 
+//4 v9 På den dag vil dets stærke byer blive som de forladte skove og bjergtoppen,{E: Mange følger i stedet LXX, der forudsætter hebraisk: *bōt haḥittî wᵊhāʔᵉmōrî*: >>som hivvitternes og amoritternes byer<<.} 
 
-men flygtet{E: Det hebraiske ord er: *nēd*. Umiddelbart skal det oversættes: >>dæmning<<. Normalt ændrer man vokaliseringen til *nād* eller *nad* der begge kan oversættes: >>er flygtet<<.} er høsten på en dag med sygdom
+//8 som de har forladt på grund af Israels børn, 
+
+//7 og der vil blive ørken.
+
+//6 v10 For du har glemt din frelses Gud 
+
+//8 og ikke husket på din styrkes klippe; 
+
+//7 derfor planter du skønheders{E: En mulighed er at ændre teksten til singularis: *naʕᵃmān* som er et navn for Adonis.} planter 
+
+//9 og sætter en fremmeds vinranker.
+
+//8 v11 Den dag du planter, sætter du hegn omkring, 
+
+//10 og om morgenen får du din plantning til at blomstre; 
+
+//9 men flygtet{E: Det hebraiske ord *nēd* (>>dæmning<<) er omvokaliseret til *nād* eller *nad* der begge kan oversættes: >>er flygtet<<.} er høsten på en dag med sygdom 
 
 og ulægelig smerte.
 
 ==Ord mod Assur==
 
-v12 Ve! Der er larm af mange folkeslag! 
+//5 v12 Ve! Der er larm af mange folkeslag! 
 
-De larmer, som havenes larmen; 
+//9 Som havenes larmen 
+//8 larmer de, 
 
-et bulder af folkefærd! 
+//7 et bulder af folkefærd! 
 
-De buldrer som mægtige vandes buldren.
+//8 De buldrer som mægtige vandes buldren.
 
-v13 Folkeslag buldrer som mange vandes buldren,{E: Denne sætning mangler i mange håndskrifter.} 
+//6 v13 Folkeslag buldrer som mange vandes buldren,{E: Denne sætning mangler i mange håndskrifter.} 
 
-men han truer det{T: Teksten her og i det følgende står i singularis, så det må henvise til Assur.} 
+//8 men han truer det{T: Teksten her og i det følgende står i singularis, så det må henvise til Assur.} 
 
-så det flygter langt bort; 
+//9 så det flygter langt bort; 
 
-det jages som avner på bjergene af vind 
+//10 det jages som avner på bjergene af vind 
 
-og som en kugletidsel{T: Der er usikkerhed om betydningen her af *galgal*, der andre steder oversættes: >>hjul<<, men her formodentlig gengiver en hjulformet sammenfiltring af visne planter.} af hvirvelvind.
+//11 og som en kugletidsel{T: Det hebraiske ord, der betyder >>hjul<<, kan referere til støv der hvirvles op, en plante eller en hjulformet sammenfiltring af visne planter.} af hvirvelvind.
 
-v14 Ved aftenstid – se, der er rædsel! 
+//7 v14 Ved aftenstid – 
+//10 se, der er rædsel! 
 
-Førend morgen – de er ikke mere! 
+//9 Førend morgen – 
+//10 de er ikke mere! 
 
-Dette er hvad de der plyndrer os, får, 
+//8 Dette er hvad de der plyndrer os, får, 
 
-og deres lod, der røver fra os.
+og den lod får de der røver fra os.
 
 

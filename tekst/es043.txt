@@ -1,207 +1,244 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 43===
+==HERREN lover at løskøbe sit folk ==
+//0 v1 Men nu, sådan siger HERREN, 
 
-==HERREN lover at udfri sit folk, ikke fordi de er værdige, men på grund af sin egen nåde==
+han der skabte dig, 
+//3 Jakob, 
 
-v1 Men nu, sådan siger HERREN, 
+//2 og formede dig, 
+//3 Israel: 
 
-han der skabte dig, Jakob, 
+//1 Frygt ikke, 
+//5 for jeg har løskøbt dig, 
 
-og formede dig, Israel: 
+//4 jeg har kaldt dig ved navn, 
+//6 du er min.
 
-Frygt ikke, for jeg har løskøbt dig, 
+//5 v2 Når du går igennem vand, 
+//7 vil jeg være med dig, 
 
-jeg har kaldt dig ved navn, du er min.
+//6 og igennem floderne, 
+//7 da vil de ikke skylle over dig; 
 
-v2 Når du går igennem vandene, vil jeg være med dig, 
+//5 når du går igennem ild, 
+//6 vil du ikke blive forbrændt, 
 
-og igennem floderne, da skal de ikke skylle over dig; 
+//7 og en flamme ikke brænde dig.
 
-når du går igennem ild, skal du ikke blive forbrændt, 
-
-og en flamme skal ikke brænde dig.
-
-v3 For jeg er HERREN din Gud, 
+//8 v3 For jeg er HERREN din Gud, 
 
 Israels Hellige, din frelser. 
 
-Jeg giver Egypten som løsepenge for dig, 
+//4 Jeg giver Egypten som løsepenge for dig, 
 
-Nubien og Seba i stedet for dig.
+//7 Nubien og Seba i stedet for dig.
 
-v4 Fordi du er dyrebar i mine øjne, 
+//6 v4 Fordi du er dyrebar i mine øjne, 
 
-er værd at ære, og jeg elsker dig, 
+//7 er værd at ære, 
+//8 og jeg elsker dig, 
 
-så giver jeg et menneske i stedet for dig 
+//5 så giver jeg mennesker i stedet for dig 
 
-og folkeslag i stedet for din sjæl.{T: Kan også oversættes: >>for dit liv<<.}
+//6 og folkeslag i stedet for dit liv{N: Sjæl}
 
-v5 Frygt ikke, for jeg er med dig; 
+//3 v5 Frygt ikke, 
+//5 for jeg er med dig; 
 
-jeg vil bringe dit afkom fra Østen 
+//4 jeg vil bringe dit afkom fra Østen 
 
-og fra Vesten vil jeg samle dig.
+//6 og fra Vesten vil jeg samle dig.
 
-v6 Jeg siger til Norden: >>Aflevér!<< 
+//5 v6 Jeg siger til Norden: 
+//7 >>Aflevér!<< 
 
-og til Syden: >>Tilbagehold ikke! 
+//6 og til Syden: 
+//7 >>Tilbagehold ikke! 
 
-Bring mine sønner fra det fjerne 
+//8 Bring mine sønner fra det fjerne 
 
-og mine døtre fra jordens ende,
+//10 og mine døtre fra jordens ende,
 
-v7 enhver der kaldes med mit navn, 
+//9 v7 enhver 
+//11 der kaldes med mit navn, 
 
-og som jeg har skabt til min ære, 
+//12 og som jeg har skabt til min ære, 
 
-som jeg har formet, ja, skabt.<<
-
-***
-
-v8 Før det blinde folk ud, der dog har øjne, 
-
-og de døve, der dog har ører.
-
-v9 Alle folkene{T: Kan også oversættes: >>hedningerne<<.} samles sammen, 
-
-og folkeslag forsamles. 
-
-Hvem er der iblandt dem der kan fortælle dette 
-
-og forkynde os de tidligere ting? 
-
-Lad dem føre deres vidner så de kan få ret, 
-
-så de kan høre og sige: >>Det er sandhed.<<
-
-v10 I er mine vidner, lyder HERRENS udsagn, 
-
-og min tjener som jeg har udvalgt, 
-
-for at I skal vide det og tro på mig 
-
-og forstå at det er mig;{T: Ordret: >>jeg er Ham<<. Se note til 41,4.}
-
-før mig blev der ikke dannet nogen gud, 
-
-og efter mig vil der ikke være nogen.
-
-v11 Jeg, jeg er HERREN, 
-
-og der er ingen frelser ud over mig.
-
-v12 Jeg har fortalt det og har frelst 
-
-og forkyndt det, 
-
-og ingen fremmed iblandt jer.{E: Den hebraiske sætning har ikke noget verbum. Den oversættes forskelligt, og undertiden underforstår man >>en gud<<: >>og der var ingen fremmed gud iblandt jer,<< eller: >>og der er ingen fremmed gud iblandt jer<<.}
-
-Så I er mine vidner, lyder HERRENS udsagn, 
-
-og jeg er Gud.
-
-v13 Også fra i dag er jeg den samme,{T: Ordret: >>jeg er Ham<<. Se note til 41,4.}
-
-og der er ingen der river noget ud af min hånd; 
-
-jeg handler, og hvem kan gøre det ugjort?
+//10 som jeg har formet, 
+//11 ja, skabt.<<
 
 ***
 
-v14 Sådan siger HERREN der løskøber jer, 
+//2 v8 Før det blinde folk ud, 
+//5 der dog har øjne, 
+
+//4 og de døve, 
+//5 der dog har ører.
+
+//3 v9 Alle folkeslagene samles i fællesskab, 
+
+//5 og folkegrupper forsamles. 
+
+//4 Hvem er der iblandt dem der kan fortælle dette 
+
+//7 og forkynde os de tidligere ting? 
+
+//6 Lad dem føre deres vidner 
+//7 så de kan få ret, 
+
+//7 så de kan høre 
+//7 og sige: 
+//8 >>Det er sandhed.<<
+
+//5 v10 I er mine vidner, 
+//9 lyder HERRENS udsagn, 
+
+//8 og min tjener 
+//9 som jeg har udvalgt, 
+
+//7 for at I skal forstå 
+//9 og tro på mig 
+
+//10 og indse
+//11 at det er mig;{H: Es 41,4.}
+
+//8 før mig blev der ikke dannet nogen gud, 
+
+//9 og efter mig vil der ikke være nogen.
+
+//6 v11 Jeg, 
+//8 jeg er HERREN, 
+
+//9 og der er ingen frelser ud over mig.
+
+//7 v12 Jeg har forkyndt det 
+//9 og har frelst 
+
+//9 og ladet det høre, 
+
+//10 og ingen fremmed{E: Måske menes >>fremmed gud<<.} iblandt jer.
+
+//8 Så I er mine vidner, 
+//10 lyder HERRENS udsagn, 
+
+//9 og jeg er Gud.
+
+//10 v13 Også fra i dag er jeg den samme,{H: Es 43,10.}
+
+//12 og der er ingen der river noget ud af min hånd; 
+
+//11 jeg handler, 
+//12 og hvem kan gøre det ugjort?
+
+***
+
+//0 v14 Sådan siger HERREN der løskøber jer,{H: Ruth 2,20.}
 
 Israels Hellige: 
 
-For jeres skyld sender jeg bud til Babylon 
+//1 For jeres skyld sender jeg folk til Babylon 
 
-og bringer dem alle som flygtninge, 
+//3 og støder enhver portslå ned, 
 
-også kaldæere, ned på de skibe som de frydede sig over.
+//4 og støder til {E: *hôradtî* forudsættes som implicit verbum fra forudgående sætning.} kaldæerne på de skibe som de frydede sig over.
 
-v15 Jeg er HERREN, jeres Hellige, 
+//2 v15 Jeg er HERREN, jeres Hellige, 
 
 Israels skaber, jeres konge.
 
 ***
 
-v16 Sådan siger HERREN, 
+//0 v16 Sådan siger HERREN, 
 
-han der lagde en vej i havet 
+//2 han der lagde en vej i havet 
 
-og i mægtige vande en sti,
+//4 og i de voldsomme vandmasser en sti,
 
-v17 han der fører vogn og hest, hær og krigsmagt ud, 
+//3 v17 han der fører vogn og hest, hær og krigsmagt ud, 
 
-så de alle sammen ligger der, de skal ikke rejse sig, 
+//4 så de alle sammen ligger der, 
+//5 de vil ikke rejse sig, 
 
-de er slukkede, gået ud som en væge.
+//6 de er slukkede, 
+//7 gået ud som en væge.
 
-v18 Husk ikke på tidligere begivenheder, 
+//1 v18 Husk ikke på tidligere begivenheder, 
 
-og giv ikke agt på gamle begivenheder!
+//4 og giv ikke agt på gamle begivenheder!
 
-v19 Se, jeg frembringer nyt, 
+//3 v19 Se, jeg frembringer nyt, 
 
-nu skal det spire frem; skal I ikke vide det? 
+//5 nu vil det spire frem; 
+//6 ved I det ikke? 
 
-Jeg vil også lægge vej i ørkenen, 
+//4 Jeg vil også anlægge en vej i ørkenen, 
 
-floder i ødemark.
+//6 floder i det øde land.
 
-v20 Markens vilde dyr skal ære mig, 
+//5 v20 Markens vilde dyr vil ære mig, 
 
 sjakaler og strudseunger; 
 
-for jeg giver vand i ørkenen, 
+//6 fordi jeg har givet vand i ørkenen, 
 
-floder i ødemark, 
+//8 floder i det øde land, 
 
-for at give mit folk, mit udvalgte, at drikke.
+//9 for at give mit folk, mit udvalgte, at drikke.
 
-v21 Det folk jeg har dannet til mig, 
+//7 v21 Det folk 
+//9 jeg har dannet til mig, 
 
-skal forkynde min pris.
+//8 skal forkynde min pris.
 
-v22 Men du kaldte ikke på mig, Jakob! 
+//2 v22 Men du kaldte ikke på mig, 
+//6 Jakob! 
 
-For du er blevet træt af mig, Israel!
+//5 For du er blevet træt af mig, 
+//6 Israel!
 
-v23 Du bragte mig ikke lam til dine brændofre,{T: Ordret: >>dine brændofres lam<<.} 
+//4 v23 Du bragte mig ikke lam til dine brændofre, 
 
-du ærede mig ikke med dine slagtofre; 
+//6 du ærede mig ikke med dine slagtofre; 
 
-jeg har ikke besværet dig med afgrødeoffer 
+//5 jeg har ikke bebyrdet dig med afgrødeoffer 
 
-og jeg har ikke trættet dig med røgelse.
+//7 og jeg har ikke trættet dig med røgelse.
 
-v24 Du købte ikke kalmus{T: En vellugtende plante hvis rod også brugtes som lægemiddel.} til mig for penge, 
+//6 v24 Du købte ikke kalmus til mig for penge, 
 
-du mættede mig ikke med dine slagtofres fedt, 
+//8 du mættede mig ikke med dine slagtofres fedt, 
 
-derimod besværede du mig med dine synder, 
+//7 derimod bebyrdede du mig med dine synder, 
 
-du trættede mig med din skyld.
+//8 du trættede mig med din skyld.
 
-v25 Det er mig, det er mig, ham der sletter dine overtrædelser for min egen skyld, 
+//3 v25 Det er mig, 
+//5 det er mig, ham{H: Es 43,10.} 
+//6 der sletter dine overtrædelser for min egen skyld, 
 
-og jeg vil ikke huske på dine synder.
+//7 og jeg vil ikke huske på dine synder.
 
-v26 Mind mig om det; lad os føre retssag med hinanden; 
+//4 v26 Husk mig på det; 
+//6 lad os føre retssag med hinanden; 
 
-tal du så du kan få ret.
+//5 tal du 
+//7 så du kan få ret.
 
-v27 Din stamfar{T: Jakob. Ordret: >>din første far<<.} syndede, 
+//6 v27 Din stamfar syndede, 
 
-og dine fortalere forbrød sig imod mig.
+//8 og dine fortalere forbrød sig imod mig.
 
-v28 Så jeg vanærede hellige fyrster 
+//7 v28 Så jeg vanærede lederne af helligdommen
 
-og overgav Jakob til forbandelse 
+//8 og overgav Jakob til forbandelse 
 
-og Israel til spot.
+//9 og Israel til spot.
+
+
 
 

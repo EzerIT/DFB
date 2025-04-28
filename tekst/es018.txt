@@ -1,60 +1,80 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.04.2025>!!
+
+
 ===Esajas' Bog, kapitel 18===
 
 ==Ord mod Nubien==
 
-v1 Ve! Land med flagrende vinger, 
+//0 v1 Ve! Land med flagrende vinger, 
 
-som er på den anden side af Nubiens strømme,
+//3 som er på den anden side af Nubiens strømme,
 
-v2 som sender bud på havet 
+//2 v2 som sender bud på havet 
 
-og i sivbåde over vandet: 
+//4 og i sivbåde over vandet: 
 
-Gå, I hurtige budbringere, 
+//3 Gå, 
+//6 I hurtige budbringere, 
 
-til et folk der er velvoksent og glathudet, 
+//5 til et folk der er velvoksent og glathudet, 
 
-til et folk der er frygtet fra det blev til og fremover; 
+//4 til et folk 
+//6 der er frygtet her og vidt omkring; 
 
-et folk, stærkt og nedtrampende, 
+//5 et folk, stærkt og nedtrampende, 
 
-hvis land vandstrømme skærer igennem.
+//6 hvis land vandstrømme skærer igennem.
 
-v3 Alle verdens indbyggere, 
+//1 v3 Alle verdens indbyggere, 
 
-og jordens beboere: 
+og jordens beboere:
 
-Når man rejser banner på bjergene, så se til! 
+//3 Når man rejser banner på bjergene, 
+//2 så se til! 
 
-Og når man støder i hornet, så hør efter!
+//4 Og 
+//6 når man støder i hornet, 
+//5 så hør efter!
 
-v4 For sådan har HERREN sagt til mig: 
+//3 v4 For sådan har HERREN sagt til mig: 
 
->>Jeg vil være stille og se til i min bolig, 
+//5 >>Jeg vil være stille 
+//6 og se til i min bolig 
 
-når heden brænder under solskin, 
+//7 når varmen flimrer i lyset, 
 
-når duggen er tæt i høstens hede.<<
+//8 når duggen er tæt 
+//9 i høstens varme.<<
 
-v5 For før høsten, når blomstringen er forbi, 
+//4 v5 For før høsten, 
+//7 når blomstringen er forbi, 
 
-og blomst bliver til moden drue, 
+//8 og blomst bliver til moden drue, 
 
-skal han skære skuddene af med vingårdsknive, 
+//6 vil han skære skuddene af med vingårdsknive, 
 
-og rankerne fjerner han, river af.
+//8 og rankerne fjerner han, 
+//9 river af.
 
-v6 De skal alle overlades til bjergenes rovfugle
+//7 v6 De vil alle blive overladt til bjergenes rovfugle 
 
-og til jordens{T: Kan også oversættes: >>landets<<.} dyr, 
+og til jordens{N: Jord} dyr, 
 
-så rovfuglene kan oversomre på dem, 
+//8 så rovfuglene kan oversomre på dem, 
 
-og alle jordens dyr overvintre på dem.
+//9 og alle jordens dyr overvintre på dem.
 
-v7 På den tid skal der frembæres gave til Hærskarers HERRE{N: Hærskarers} fra{E: Ordet >>fra<< (hebraisk: *min*) mangler i den hebraiske tekst, men suppleres ud fra bl.a. Septuaginta.} et velvoksent og glathudet folk og fra et folk der er frygtet fra det blev til og fremover; et folk, stærkt og nedtrampende, hvis land vandstrømme skærer igennem, hen til Hærskarers HERRES{N: Hærskarers} navns sted, til Zions bjerg.
+//5 v7 På den tid vil der blive frembåret gaver til Hærskarers{N: Hærskarers} HERRE
+//6 fra et velvoksent og glathudet folk 
+//7 og fra et folk 
+//9 der er frygtet her og vidt omkring; 
+
+//8 et folk, stærkt og nedtrampende, 
+//10 hvis land vandstrømme skærer igennem, 
+//9 hen til Hærskarers HERRES navns sted, til Zions bjerg.
+
+
+
 
