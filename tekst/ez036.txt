@@ -1,11 +1,21 @@
 !!<Modenhed: Ufuldstændigt>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket >!!
-!!<Dato for denne version: 21.04.2021>!!
+!!<Redigering: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 07.05.2025>!!
 
 ===Ezekiels Bog, kapitel 36===
 
-v26 Jeg vil give jer et nyt hjerte, og en ny ånd vil jeg give i jeres indre; jeg vil fjerne stenhjertet fra jeres krop og give jer et hjerte af kød. 
-v27 Jeg vil give min ånd i jeres indre og gøre så I vandrer efter mine love og holder mine bud og handler efter dem. 
-v28 Og I skal bo i det land som jeg har givet jeres fædre, og I skal være mit folk, og jeg vil være jeres Gud.
+//7 v26 Jeg vil give jer et nyt hjerte, 
+//8 og en ny ånd vil jeg give i jeres indre; 
+//7 jeg vil fjerne stenhjertet fra jeres krop{T: Ordret: >>kød<<.} 
+//7 og give jer et hjerte af kød, 
+//8 v27 og min Ånd vil jeg give ind i jeres indre. 
+//7 Jeg vil udvirke 
+//9 at I vandrer efter mine forordninger 
+//10 og overholder mine love 
+//11 ved at handle efter dem. 
+//8 v28 I vil bo i det land 
+//9 som jeg har givet jeres fædre, 
+//8 og I vil være mit folk, 
+//9 og jeg vil selv være Gud for jer.
