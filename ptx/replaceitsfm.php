@@ -5,6 +5,8 @@
 require_once('../oversigt.inc.php');
 
 function replaceitsfm(array $filenames) {
+    global $ignore_zei;
+    
     $txt = '';
 
     foreach ($filenames as $file)
@@ -130,8 +132,8 @@ function replaceitsfm(array $filenames) {
     $to[] = '\\add \1\add* ';
  
     $from[] = '~//(\d*) *~';
-    $to[] = ' \\zei \1\\zei* '; // We add a space before \\zei because Paratext's punctuation test does not like
-                                // a \\zei immediately following a punctuation mark
+    $to[] = $ignore_zei ? '' : ' \\zei \1\\zei* '; // We add a space before \\zei because Paratext's punctuation test does not like
+                                                   // a \\zei immediately following a punctuation mark
  
     $from[] = '/\R *\R/';
     $to[] = "\n\\\\p ";
@@ -164,15 +166,24 @@ function replaceitsfm(array $filenames) {
   }
 
 if ($_SERVER['argc']<=3) {
-    fwrite(STDERR,"brug: php replaceitsfm.php BOOK <outputfile> <inputfile>...\n");
+    fwrite(STDERR,"brug: php replaceitsfm.php [-n] BOOK <outputfile> <inputfile>...\n");
     exit(1);
 }
 
-$outputfile = fopen($_SERVER['argv'][2], "w") or die("Unable to open output file!");
+if ($_SERVER['argv'][1] === '-n') {
+    $ignore_zei = true;
+    $aix = 2;
+}
+else {
+    $ignore_zei = false;
+    $aix = 1;
+}
 
-fwrite($outputfile, '\id ' . $_SERVER['argv'][1] . " - Den Frie Bibel\n");
+$outputfile = fopen($_SERVER['argv'][$aix+1], "w") or die("Unable to open output file!");
 
-$text = replaceitsfm(array_slice($_SERVER['argv'],3));
+fwrite($outputfile, '\id ' . $_SERVER['argv'][$aix] . " - Den Frie Bibel (version: 2025-05-12)\n");
+
+$text = replaceitsfm(array_slice($_SERVER['argv'],$aix+2));
 
 fwrite($outputfile, $text);
 fclose($outputfile);
