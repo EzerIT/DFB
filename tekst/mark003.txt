@@ -1,13 +1,13 @@
-!!<Oversættelse: Torben Kjær>!!
+﻿!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 25.07.2024>!!
+!!<Dato for denne version: 12.05.2025>!!
 
-=== Markusevangeliet, kapitel 3===
+===Markusevangeliet, kapitel 3===
 
 ==Manden med den visne hånd== 
 
-v1 Han gik igen ind i en synagoge, og der var dér en mand med en vissen hånd. v2 De holdt nøje øje med om han ville helbrede ham på sabbatten så de kunne anklage ham. v3 Han siger til manden med den visne hånd: >>Træd ind i midten!<< v4 Og han sagde til dem: >>Er det tilladt at gøre godt på en sabbat eller at gøre ondt, at redde liv eller at slå ihjel?<< Men de tav. v5 Han så rundt på dem med vrede, bedrøvet over deres hjertes hårdhed, og siger til manden: >>Stræk hånden frem!<< og han strakte den frem, og hans hånd blev helbredt. v6 Farisæerne gik straks ud, og sammen med herodianerne traf de en beslutning om at slå ham ihjel.
+v1 Han gik igen ind i en synagoge, og der var dér en mand med en vissen hånd. v2 De holdt nøje øje med ham om han ville helbrede ham på sabbatten så de kunne anklage ham. v3 Han siger til manden med den visne hånd: >>Træd ind i midten!<< v4 Og han sagde til dem: >>Er det lovligt at gøre godt på en sabbat eller at gøre ondt, at redde liv eller at slå ihjel?<< Men de tav. v5 Han så rundt på dem med vrede, bedrøvet over deres hjertes hårdhed, og siger til manden: >>Stræk hånden frem!<< og han strakte den frem, og hans hånd blev helbredt. v6 Farisæerne gik straks ud, og sammen med herodianerne traf de en beslutning om at slå ham ihjel.
 
 ==Mange helbredelser==
 
@@ -19,9 +19,10 @@ v13 Han går op på bjerget og tilkalder dem han ville; og de kom til ham. v14 H
 
 ==De skriftlærdes anklage==
 
-v20 Han kommer hjem, og igen samledes en skare så de ikke engang kunne spise. v21 Da hans familie hørte det, gik de ud for at gribe ham med magt. For de sagde: >>Han er ude af sig selv<< v22 De skriftlærde som var kommet ned fra Jerusalem, sagde: >>Han er besat af Beelzebul,<< og >>Han uddriver dæmonerne ved dæmonernes hersker.<< v23 Han tilkaldte dem og sagde til dem i lignelser: >>Hvordan kan Satan uddrive Satan? v24 Hvis et rige er i splid med sig selv, kan det rige ikke bestå. v25 Hvis et hus er blevet i splid med sig selv, kan dette hus ikke bestå. v26 Og hvis Satan rejser sig mod sig selv og er blevet i splid med sig selv, kan han ikke bestå, men det er slut med ham. v27 Men ingen kan gå ind i den stærkes hus og plyndre hans ejendele hvis ikke han først har bundet den stærke, og så kan han plyndre hans hus. v28 Sandelig siger jeg jer: Alt skal tilgives menneskenes børn, synder og gudsbespottelser, hvad de end spotter Gud med. v29 Men den som spotter Helligånden, har ikke i evighed tilgivelse, men er skyldig i en evig synd.<< v30 For de havde sagt: >>Han har en uren ånd.<<
+v20 Han kommer hjem, og igen samles en skare så de ikke engang kunne spise. v21 Da hans familie hørte det, gik de ud for at gribe ham med magt. For de sagde: >>Han er ude af sig selv<< v22 De skriftlærde som var kommet ned fra Jerusalem, sagde: >>Han er besat af Beelzebul,<< og >>Han uddriver dæmonerne ved dæmonernes hersker.<< v23 Han tilkaldte dem og sagde til dem i lignelser: >>Hvordan kan Satan uddrive Satan? v24 Hvis et rige er i splid med sig selv, kan det rige ikke bestå. v25 Hvis et hus er blevet i splid med sig selv, kan dette hus ikke bestå. v26 Og hvis Satan rejser sig mod sig selv og er blevet i splid med sig selv, kan han ikke bestå, men det er slut med ham. v27 Men ingen kan gå ind i den stærkes hus og plyndre hans ejendele hvis ikke han først har bundet den stærke, og så kan han plyndre hans hus. v28 Sandelig siger jeg jer: Alt skal tilgives menneskenes børn, synder og gudsbespottelser, hvad de end spotter Gud med. v29 Men den som spotter Helligånden, har ikke i evighed tilgivelse, men er skyldig i en evig synd.<< v30 For de havde sagt: >>Han har en uren ånd.<<
 
 ==Jesu familie==
 
-v31 Hans mor og hans brødre kom, og de stod udenfor og sendte bud ind til ham for at kalde på ham. v32 En skare sad rundt om ham, og de siger til ham: >>Se, din mor og dine brødre og dine søstre står udenfor og spørger efter dig.<< v33 Han svarede dem: >>Hvem er min mor og mine brødre?<< v34 Og han så rundt på dem som sad omkring ham, og siger: >>Se, her er min mor og mine brødre. v35 For den som gør Guds vilje, er min bror og min søster og min mor.<<
+v31 Hans mor og hans brødre kommer, og de stod udenfor og sendte bud ind til ham for at kalde på ham. v32 En skare sad rundt om ham, og de siger til ham: >>Se, din mor og dine brødre og dine søstre står udenfor og spørger efter dig.<< v33 Han svarede dem: >>Hvem er min mor og mine brødre?<< v34 Og han så rundt på dem som sad omkring ham, og siger: >>Se, her er min mor og mine brødre. v35 For den som gør Guds vilje, er min bror og min søster og min mor.<<
+
 

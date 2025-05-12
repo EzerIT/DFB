@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 15.04.2025>!!
+!!<Dato for denne version: 12.05.2025>!!
 
 ===Jobs bog, kapitel 16===
 
@@ -44,7 +44,7 @@
 
 //4 v7 Men nu har han virkelig udmattet mig! 
 
-//7 Du har udryddet hele min omgangskreds! 
+//7 Du har udryddet hele min omgangskreds!{H: Sl 88,9.19.}
 
 //8 v8 og så greb du fat i mig.
 //6 Det er blevet et vidne,
@@ -55,7 +55,7 @@
 //7 v9 Hans vrede har sønderrevet mig,
 //9 og han fortsatte med at angribe mig,
 
-//8 han skar tænder imod mig.
+//8 han skar tænder imod mig.{H: Sl 88,8.17.}
 
 //9 Min fjende gennemborer{E: *lṭš* >>se med knive<<.} mig nu med sine øjne. 
 

@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.04.2025>!!
+!!<Dato for denne version: 12.05.2025>!!
 
 ===Jobs bog, kapitel 10===
 
@@ -10,7 +10,7 @@
 
 //0 v1 Jeg{N: Sjæl.} væmmes ved mit liv,
 
-//1 jeg vil give min fortvivlelse{T: Eller >>klage<<.}{H: Job 7,13} 
+//1 jeg vil give min fortvivlelse{T: Eller >>klage<<.}{H: Job 7,13. Sl 88,2-3.} 
  frit løb, 
 
 //1 lad mig tale ud af min sjæls bitre nød.{H: Job 3,20. Ruth 1,20.}

@@ -1,13 +1,13 @@
-!!<Oversættelse: Torben Kjær>!!
+﻿!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.02.2025>!!
+!!<Dato for denne version: 12.05.2025>!!
 
 ===Markusevangeliet, kapitel 8===
 
 == Det andet bespisningsunder==
 
-v1 I de dage var der igen en stor skare, og da de ikke havde noget at spise, tilkaldte han sine disciple og siger til dem: v2 >>Jeg har medlidenhed med skaren; for de har allerede været hos mig i tre dage og har ikke noget at spise. v3 Hvis jeg sender dem sultne hjem, vil de blive udmattede på vejen, og nogle af dem er kommet langvejs fra.<< v4 Hans disciple svarede ham: >>Hvorfra kan nogen her mætte disse med brød i et øde område?<< v5 Han spurgte dem: >>Hvor mange brød har I?<< De sagde >>Syv.<< v6 Han befaler skaren at lejre sig på jorden; og han tog de syv brød, takkede, brød dem og gav dem til sine disciple for at de skulle lægge dem frem, og de lagde dem frem for skaren. v7 De havde nogle få småfisk; og han velsignede dem og sagde at de også skulle lægges frem. v8 De spiste og blev mætte; og de samlede syv kurve med tiloversblevne stykker. v9 De var omtrent fire tusind; og han sendte dem bort. v10 Straks gik han om bord i båden med sine disciple og kom til egnene ved Dalmanuta. 
+v1 I de dage var der igen en stor skare, og da de ikke havde noget at spise, tilkaldte han sine disciple og siger til dem: v2 >>Jeg har medlidenhed med skaren; for de har allerede været hos mig i tre dage og har ikke noget at spise. v3 Hvis jeg sender dem sultne hjem, vil de blive udmattede på vejen, og nogle af dem er kommet langvejs fra.<< v4 Hans disciple svarede ham: >>Hvorfra kan nogen her mætte disse med brød i et øde område?<< v5 Han spurgte dem: >>Hvor mange brød har I?<< De sagde >>Syv.<< v6 Han befaler skaren at sætte sig på jorden; og han tog de syv brød, takkede, brød dem og gav dem til sine disciple for at de skulle lægge dem frem, og de lagde dem frem for skaren. v7 De havde nogle få småfisk; og han velsignede dem og sagde at de også skulle lægges frem. v8 De spiste og blev mætte; og de samlede syv kurve med tiloversblevne stykker. v9 De var omtrent fire tusind; og han sendte dem bort. v10 Straks gik han om bord i båden med sine disciple og kom til egnene ved Dalmanuta. 
 
 ==Kravet om et tegn fra himlen==
 
@@ -15,13 +15,13 @@ v11 Farisæerne gik ud og begyndte at diskutere med ham, idet de krævede et teg
 
 ==Advarsel mod surdejen==
 
-v14 De havde glemt at tage brød med og havde kun ét brød med sig i båden. v15 Han befalede dem: >>Læg mærke til og tag jer i agt for farisæernes surdej og for Herodes’ surdej!<< v16 De diskuterede indbyrdes at de ikke havde brød med. v17 Da han mærker det, siger han til dem: >>Hvorfor diskuterer I at I ikke har brød? Indser I endnu ikke, og forstår I ikke? Er jeres hjerte blevet forhærdet? 
+v14 De havde glemt at tage brød med og havde kun ét brød med sig i båden. v15 Han befalede dem: >>Læg mærke til og vogt jer for farisæernes surdej og for Herodes’ surdej!<< v16 De diskuterede indbyrdes at de ikke havde brød med. v17 Da han vidste det, siger han til dem: >>Hvorfor diskuterer I at I ikke har brød? Indser I endnu ikke, og forstår I ikke? Er jeres hjerte blevet forhærdet? 
 
 v18 Skønt I har øjne, ser I ikke? 
 
 Og skønt I har ører, hører I ikke? 
 
-Husker I ikke, v19 da jeg brød de fem brød til de fem tusind, hvor mange kurve fulde af rester samlede I?<< De siger til ham: >>Tolv.<< v20 >>Og da jeg brød de syv til de fire tusind, hvor mange kurve fulde af rester samlede I?<< Og de siger til ham: >>Syv.<< v21 Han sagde til dem: >>Forstår I endnu ikke?<<
+Husker I ikke, v19 da jeg brød de fem brød til de fem tusind? Hvor mange kurve fulde af rester samlede I?<< De siger til ham: >>Tolv.<< v20 >>Og da jeg brød de syv til de fire tusind, hvor mange kurve fulde af rester samlede I?<< Og de siger til ham: >>Syv.<< v21 Han sagde til dem: >>Forstår I endnu ikke?<<
 
 ==Helbredelsen af den blinde==
 
@@ -29,11 +29,12 @@ v22 De kommer til Betsajda og man fører en blind hen til ham og beder ham om at
 
 ==Peters bekendelse==
 
-v27 Jesus og hans disciple gik ud til landsbyerne ved Kæsarea Filippi; og på vejen spurgte han sine disciple: >>Hvem siger menneskene at jeg er?<< v28 De sagde til ham: >>Johannes Døberen; og andre: Elias; men andre: En af profeterne.<< v29 Han spurgte dem: >>Men I, hvem siger I at jeg er?<< Peter svarede ham: >>Du er Kristus.<< v30 Han formanede dem strengt at de ikke måtte sige dette om ham til nogen. v31 Han begyndte at undervise dem om at Menneskesønnen skal lide meget og blive forkastet af de ældste og ypperstepræsterne og de skriftlærde og blive slået ihjel og opstå efter tre dage. v32 Han sagde det åbent til dem. Peter tog ham til side og begyndte at irettesætte ham. v33 Men han vendte sig om og så på sine disciple og irettesatte Peter og sagde: >>Gå bort, Satan! For du tænker ikke hvad der er Guds, men hvad der er menneskers.<< 
+v27 Jesus og hans disciple gik ud til landsbyerne ved Kæsarea Filippi; og på vejen spurgte han sine disciple: >>Hvem siger menneskene at jeg er?<< v28 De sagde til ham: >>Johannes Døberen; og andre: Elias; men andre: En af profeterne.<< v29 Han spurgte dem: >>Men I, hvem siger I at jeg er?<< Peter svarede ham: >>Du er Kristus.<< v30 Han befalede dem strengt at de ikke måtte sige dette om ham til nogen. v31 Han begyndte at undervise dem om at Menneskesønnen skal lide meget og blive forkastet af de ældste og ypperstepræsterne og de skriftlærde og blive slået ihjel og opstå efter tre dage. v32 Han sagde det åbent til dem. Peter tog ham til side og begyndte at irettesætte ham. v33 Men han vendte sig om og så på sine disciple og irettesatte Peter og siger: >>Gå bort, Satan! For du tænker ikke hvad der er Guds, men hvad der er menneskers.<< 
 
 ==Om efterfølgelse==
 
-v34 Han kaldte skaren sammen med sine disciple til sig og sagde til dem: >>Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og på den måde følge mig. v35 For den der vil frelse sig selv, skal miste sig selv; og den der mister sig selv for min og evangeliets skyld, skal frelse sig selv. v36 For hvad gavner det et menneske at vinde hele verden og miste sig selv? v37 For hvad kan et menneske give som erstatning for sig selv? v38 For den der skammer sig ved mig og mine ord i denne utro og syndige slægt, vil Menneskesønnen også skamme sig ved når han kommer i sin Fars herlighed med de hellige engle.<<{T: Kapitel 9 vers 1 hører naturligt til her.} 
+v34 Han kaldte skaren sammen med sine disciple til sig og sagde til dem: >>Hvis nogen vil følge efter mig, skal han fornægte sig selv og bære sit kors og på den måde følge mig. v35 For den der vil frelse sig selv,{E: Alternativ oversættelse for >>sig selv<< her og i de følgende vers: >>sin sjæl<< eller >>sit liv<<.} skal miste sig selv; og den der mister sig selv for min og evangeliets skyld, skal frelse sig selv. v36 For hvad gavner det et menneske at vinde hele verden og miste sig selv? v37 For hvad kan et menneske give som erstatning for sig selv? v38 For den der skammer sig ved mig og mine ord i denne utro og syndige slægt, vil Menneskesønnen også skamme sig ved når han kommer i sin Fars herlighed med de hellige engle.<<{T: Kapitel 9 vers 1 hører naturligt til her.} 
+
 
 
 

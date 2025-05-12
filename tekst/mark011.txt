@@ -1,7 +1,7 @@
-!!<Oversættelse: Torben Kjær>!!
+﻿!!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 10.02.2025>!!
+!!<Dato for denne version: 12.05.2025>!!
 
 ===Markusevangeliet, kapitel 11===
 
@@ -13,19 +13,19 @@ v1 Da de nærmer sig Jerusalem og kommer til Betfage og Betania ved oliebjerget,
 
 Velsignet han som kommer i Herrens navn, 
 
-v10 velsignet vor far Davids rige som kommer, 
+v10 velsignet vores far Davids rige som kommer, 
 
 hosianna i det højeste!<< 
 
-v11 Han gik ind i Jerusalem til templet, og da han havde set på alt, var det allerede blevet sent, og så gik han ud til Betania med de tolv.
+v11 Han gik ind i Jerusalem til templet, og da han havde set på alt, var det allerede blevet sent, og han gik ud til Betania med de tolv.
 
 ==Forbandelsen af figentræet==
 
-v12 Den næste dag, da de gik ud af Bethania, blev han sulten. v13 Da han langt borte så et figentræ som havde blade, gik han hen for at se om han måske kunne finde noget på det, og da han kom til det, fandt han intet andet end blade; for det var ikke figentid. v14 Han sagde til det: >>Aldrig mere i evighed skal nogen spise frugt af dig!<< Og hans disciple hørte ham.
+v12 Den næste dag, da de gik ud af Bethania, blev han sulten. v13 Da han langt borte så et figentræ som havde blade, gik han hen for at se{T: >>For at se<< er tilføjet.} om han måske kunne finde noget på det, og da han kom til det, fandt han intet andet end blade; for det var ikke figentid. v14 Han sagde til det: >>Aldrig mere i evighed skal nogen spise frugt af dig!<< Og hans disciple hørte ham.
 
 ==Tempelrensningen==
 
-v15 De kommer til Jerusalem; og han gik ind i templet og begyndte at uddrive dem der solgte og købte i templet, og han væltede vekselerernes borde og duesælgernes bænke. v16 Og han tillod ikke at nogen bar noget igennem templet. v17 Han underviste dem: >>Står der ikke skrevet
+v15 De kommer til Jerusalem; og han gik ind i templet og begyndte at uddrive dem der solgte og købte i templet, og han væltede vekselerernes borde og duesælgernes bænke. v16 Og han tillod ikke at nogen bar noget igennem templet. v17 Han underviste dem og sagde til dem: >>Står der ikke skrevet
 
 at mit hus skal kaldes et bedehus for alle folkene? 
 
@@ -33,10 +33,11 @@ Men I har gjort det til en røverhule!<< v18 Ypperstepræsterne og de skriftlær
 
 ==Om troens magt==
 
-v20 Da de om morgenen går forbi, så de at figentræet var visnet fra roden af. v21 Peter huskede det og siger til ham: >>Rabbi! Se, det figentræ du forbandede, er visnet!<< v22 Jesus sagde til dem: >>Hav tro på Gud! v23 Sandelig siger jeg jer, den der siger til dette bjerg: Løft dig op og kast dig i havet, og ikke tvivler i sit hjerte, men tror at det han siger, sker, for ham vil det ske. v24 Derfor siger jeg til jer: Alt, hvad I beder og bønfalder om, tro at I har modtaget det, og det vil ske for jer. v25 Når I står og beder, så tilgiv hvis I har noget imod nogen, for at også jeres Far der er i himlene, kan tilgive jer jeres overtrædelser. v26 [Men hvis I ikke tilgiver, vil jeres Far der er i himlene, heller ikke tilgive jeres overtrædelser]{T: Dette vers mangler i nogle af de ældste og bedste håndskrifter}.<<
+v20 Da de om morgenen går forbi, så de at figentræet var visnet fra roden af. v21 Peter huskede det og siger til ham: >>Rabbi! Se, det figentræ du forbandede, er visnet!<< v22 Jesus siger til dem: >>Hav tro på Gud! v23 Sandelig siger jeg jer, den der siger til dette bjerg: Løft dig op og kast dig i havet, og ikke tvivler i sit hjerte, men tror at det han siger, sker, for ham vil det ske. v24 Derfor siger jeg til jer: Alt, hvad I beder og bønfalder om, tro at I har modtaget det, og det vil ske for jer. v25 Når I står og beder, så tilgiv hvis I har noget imod nogen, for at også jeres Far der er i himlene, kan tilgive jer jeres overtrædelser. v26 [Men hvis I ikke tilgiver, vil jeres Far der er i himlene, heller ikke tilgive jeres overtrædelser]{T: Dette vers mangler i nogle af de ældste og bedste håndskrifter}.<<
 
 ==Spørgsmålet om Jesu fuldmagt==
 
-v27 De kommer igen til Jerusalem; og mens han går omkring i templet, kommer ypperstepræsterne og de skriftlærde og de ældste til ham. v28 De sagde til ham: >>Med hvilken fuldmagt gør du dette? Eller hvem har givet dig denne fuldmagt, så du gør dette?<< v29 Men Jesus sagde til dem: >>Jeg vil spørge jer om én ting, og svar mig, og jeg vil sige jer med hvilken fuldmagt jeg gør dette. v30 Var Johannes’ dåb fra himlen eller fra mennesker? Svar mig!<< v31 De diskuterede indbyrdes og sagde: >>Hvis vi siger: Fra himlen, så vil han sige: Hvorfor troede I ham så ikke? v32 Men siger vi: Fra mennesker –<< De frygtede skaren; for alle holdt på at Johannes virkelig var en profet. v33 De svarede Jesus: >>Vi ved det ikke.<< Jesus siger til dem: >>Så siger jeg heller ikke til jer med hvilken myndighed jeg gør dette.<<
+v27 De kommer igen til Jerusalem; og mens han går omkring i templet, kommer ypperstepræsterne og de skriftlærde og de ældste til ham. v28 De sagde til ham: >>Med hvilken fuldmagt gør du dette? Eller hvem har givet dig denne fuldmagt, så du gør dette?<< v29 Men Jesus sagde til dem: >>Jeg vil spørge jer om én ting, og svar mig, og jeg vil sige jer med hvilken fuldmagt jeg gør dette. v30 Var Johannes’ dåb fra himlen eller fra mennesker? Svar mig!<< v31 De diskuterede indbyrdes og sagde: >>Hvis vi siger: Fra himlen, så vil han sige: Hvorfor troede I ham så ikke? v32 Men siger vi: Fra mennesker –<< De frygtede skaren; for alle mente at Johannes virkelig var en profet. v33 De svarede Jesus: >>Vi ved det ikke.<< Jesus siger til dem: >>Så siger jeg heller ikke til jer med hvilken myndighed jeg gør dette.<<
+
 
 
