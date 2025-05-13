@@ -16,8 +16,12 @@ class FormatText extends Formatter {
 
         // Handle verse restriction
         if ($this->from_verse>0) {
-            if (preg_match("/(v$this->from_verse )/s",$txt))
-                $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
+            if (preg_match("/(v$this->from_verse )/s",$txt)) {
+                if ($this->exegetic_layout)
+                    $txt = preg_replace("|(===[^=]+===).*(//[0-9]+).*(v$this->from_verse )|s",'\1\2\3',$txt);
+                else
+                    $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
+            }
             else {
                 global $title;
                 $this->title = $title[$this->book] . ", kapitel " . $this->chapter;
