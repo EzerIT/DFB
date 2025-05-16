@@ -1,16 +1,44 @@
-!!<Modenhed: Ufuldstændigt>!!
+﻿!!<Modenhed: Ufuldstændigt>!!
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 29.04.2021>!!
+!!<Redigering: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 16.05.2025>!!
+ 
+ ===Første Mosebog, kapitel 32===
+ 
+//1 v25 Jakob blev så alene tilbage. 
+//1 En mand var i brydekamp med ham 
+//3 indtil morgenrøden dæmrede; 
+//2 v26 han så 
+//4 at han ikke kunne vinde over ham, 
+//3 og slog ham da på hans hofteskål, 
+//4 så Jakobs hofteskål gik af led 
+//5 mens han var i brydekamp med ham. 
+//3 v27 Han sagde: 
+//4 >>Slip mig, 
+//5 for morgenrøden dæmrer.<< 
+//3 Men han svarede: 
+//4 >>Jeg vil ikke slippe dig 
+//5 medmindre du har velsignet mig.<< 
+//3 v28 Derpå sagde han til ham: 
+//4 >>Hvad er dit navn?<< 
+//3 Og han svarede: 
+//4 >>Jakob.<< 
+//3 v29 Så sagde han: 
+//4 >>Fremover skal dit navn ikke være Jakob, 
+//6 men Israel;{T: Israel kan både forstås som >>han kæmper mod Gud (El)<< eller >>Gud (El) kæmper<<.}
+//5 for du har kæmpet med Gud og med mennesker 
+//6 og vundet.<< 
+//1 v30 Så spurgte Jakob 
+//2 bedende: 
+//3 >>Vil du ikke godt sige mig dit navn.<< 
+//2 Men han svarede: 
+//3 >>Hvorfor spørger du om mit navn?<< 
+//2 Og så velsignede han ham der. 
+//1 v31 Jakob navngav stedet Penuel;{T: Penuel betyder: >>Guds ansigt<<.} 
+//3 >>for jeg har set Gud ansigt til ansigt,{H: Dom 6,22.} 
+//4 og jeg har reddet mit liv.{N: Sjæl}<< 
+//2 v32 Solen skinnede over ham
+//4 da han havde passeret Penuel,
+//3 men han haltede på grund af sin hofte. 
 
-===Første Mosebog, kapitel 32===
-
-v25 Jakob blev alene tilbage; og en mand sloges med ham lige indtil det blev daggry. 
-v26 Da han så at han ikke kunne overvinde ham, slog han på hans hofteskål, og Jakobs hofteskål gik af led mens han sloges med ham. 
-v27 Han sagde: >>Lad mig gå, for det er ved at blive daggry.<< Men han sagde: >>Jeg vil ikke lade dig gå medmindre du har velsignet mig.<< 
-v28 Han sagde til ham: >>Hvad er dit navn?<< Han svarede: >>Jakob.<< 
-v29 Han sagde: >>Fremover skal dit navn ikke være Jakob, men Israel;{T: Israel betyder enten: >>en der har holdt ud i kampen med Gud<< eller: >>Gud har holdt ud i kampen<< (eller måske: >>Gud har været udholdende<<).} for du har holdt ud i kampen med Gud og med mennesker og vundet.<< 
-v30 Jakob svarede: >>Jeg beder dig, sig mig dit navn.<< Og han sagde: >>Hvorfor spørger du om mit navn?<< Og han velsignede ham der. 
-v31 Jakob kaldte stedet Penuel;{T: Penuel betyder: Guds ansigt.}{H: Sl 80,4.} >>for jeg har set Gud ansigt til ansigt, og mit liv {T: Ordret: >>min sjæl<<.} er frelst.<< 
-v32 Da han gik forbi Penuel, stod solen op, og han haltede på grund af sin hofte. 

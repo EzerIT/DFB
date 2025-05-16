@@ -1,52 +1,386 @@
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 01.06.2016>!!
+﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.05.2025>!!
 
 ===Jeremias' Bog, kapitel 2===
- 
-==HERREN minder folket om de gode gerninger han tidligere har vist dem, og klager over deres meget store utaknemmelighed og afgudsdyrkelse. De er værre end hedningerne.==
- 
- 
-v1 Og HERRENS ord kom til mig:
-v2 Gå hen og råb i Jerusalems ører og sig: Således siger HERREN: Jeg husker din ungdoms hengivenhed og din forlovelsestids kærlighed, hvordan du fulgte mig i ørkenen, i det utilsåede land.
-v3 Israel var hellig for HERREN, hans førstegrøde; alle som ville æde ham, blev skyldige; ulykke kom over dem, siger HERREN.
-v4 Hør HERRENS ord, Jakobs hus og alle Israels huses slægter!
-v5 Således siger HERREN: Hvilken uret fandt jeres fædre hos mig, siden de holdt sig langt fra mig og søgte efter tomhed, og de blev tomme?
-v6 Og de sagde ikke: >>Hvor er HERREN, han som førte os op fra Egyptens land, han som ledte os i ørkenen, i et land der var øde og fuldt af huller, i tørhedens og dødsskyggenss land, i et land som ingen havde vandret igennem, og hvor intet menneske havde boet?<<
-v7 Og jeg førte jer ind i et frugtbart land for at I skulle spise af dets frugt og goder. Men da I kom derind, besmittede I mit land og gjorde min arv{T: eller bare >>ejendom<<.} til noget afskyeligt.
-v8 Præsterne sagde ikke: >>Hvor er HERREN?<< De som arbejdede med loven, kendte mig ikke, hyrderne syndede imod mig, og profeterne spåede ved Ba'al og fulgte dem der ikke kunne hjælpe.
-v9 Derfor må jeg stadig gå i rette med jer, siger HERREN, og med jeres børnebørn må jeg gå i rette.
-v10 Drag over til Kithims øer, og send bud til Kedar, og læg nøje mærke til om noget sådant er sket.
-v11 Mon et hedningefolk har skiftet guder, som dog ikke var guder? Men mit folk har udskiftet sin herlighed med det som ikke kan hjælpe.
-v12 Gys over det, I himle, og vær forfærdede. Ja, vær meget forskrækkede, siger HERREN.
-v13 For to onde ting har mit folk gjort: Mig, den levende vandkilde, har de forladt for at hugge sig brønde, revnede brønde, som ikke kunne holde vand.
- 
-==HERREN fortæller dem at han vil bruge Nebukadnezar til at straffe dem, og end ikke egypterne skal kunne hjælpe dem.==
 
-v14 Er Israel en købt træl, eller er han en hjemmefødt træl? Hvorfor er han blevet røvet?
-v15 Unge løver brølede mod ham. De lod deres stemme høre, og de lagde hans land i ruiner. Hans byer er ødelagte, så ingen bor i dem.
-v16 Også Nofs og Takpankes børn gjorde din isse skaldet.
-v17 Det der har voldt dig dette, er det ikke at du har forladt HERREN, din Gud, dengang han ledte dig på vejen?
-v18 Og nu, hvad har du at gøre på vejen til Egypten for at drikke Shihors{T: d. e. Nilen, Jos. 13,8.} vand? Og hvad har du at gøre på vejen til Assyrien for at drikke flodens{T: Eufrats.} vand?
-v19 Din ondskab skal tugte dig og dine frafald straffe dig: Vid da og se, at det er ondt og bittert at du har forladt HERREN din Gud, og at du ikke frygtede for mig{E: Sidste del af verset er muligvis forvansket. Ordret står der i den masoretiske tekst >>min rædsel er ikke over dig<<, mens LXX har >>Jeg fandt ikke behag i dig<<. ESV  foreslår >>frygt for mig er ikke i dig<<.}, siger den herre, den Hærskarers HERRE.
+
+==Som ung elskede Israel HERREN og fulgte ham==
+
+
+//0 v1 HERRENS ord kom til mig
+//1 :
+//2 v2 >>Gå hen 
+//3 og råb i Jerusalems ører 
+//4 :
  
-==HERREN klager over deres ondskab, løgn, hykleri og store afgudsdyrkelse, manglende anger, stolthed, blodsudgydelse og andre synder, og at de ikke vil kendes ved deres ondskab og hykleri, derfor skal de ikke undslippe Guds straf.==
+//6 Sådan siger HERREN:{T: Dette idiomatiske udtryk anvendes hyppigt af Jeremias som en understregning af at det er HERRENS ord han taler.}
+
+//7 Jeg husker din ungdoms hengivenhed{N: Nåde.}
+
+og din trolovelsestids kærlighed,
+
+//9 hvordan du fulgte mig i ørkenen i et land 
+
+//10 hvor intet sås. 
+
+//8 v3 Israel var hellig for HERREN, 
+
+//10 hans førstegrøde.
+
+//9 alle som ville fortære ham, blev skyldige. 
+
+//10 Ulykke kom over dem,
+
+//11 det er HERRENS udsagn.
+
+
+==Israel har fuldstændig forladt HERREN==
+
+
+//5 v4 Hør HERRENS ord, 
+//7 Jakobs hus 
+
+og alle Israels huses slægter!
+
+//6 v5 Sådan siger HERREN: 
+
+//7 Hvilken uret fandt jeres fædre hos mig, 
+
+//13 siden de holdt sig langt væk fra mig 
+
+//15 og gik efter tomheden, 
+
+//16 og de blev tomme?
+
+//14 v6 De sagde ikke: 
+
+//15 >Hvor er HERREN, 
+
+//16 han som førte os op fra Egyptens land, 
+
+//16 han som ledte os i ørkenen, 
+
+i et land med ødemarker og kløfter, 
+
+i et land med tørke og dødsskygge,{E: *ṣalmāwet* (>>dødskygge<<) oversættes i dag ofte med >>mørke<< eller >>dybt mørke<<.}{H: Jer 13,16.}
+
+i et land 
+//17 som ingen havde vandret igennem, 
+
+//18 og hvor intet menneske bor?<
+
+//12 v7 Og jeg bragte jer til et land, frugthaven 
+
+//14 for at I skulle spise af dets frugt og dets goder. 
+
+//13 Men I kom derind, 
+og I gjorde mit land urent,
+
+og min arv{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tôʕēvāʰ* (>>vederstyggelighed<<) er et meget stærkt udtryk i GT som især anvendes om seksuel synd (3 Mos 18,22 og 13,18) og afgudsdyrkelse.}{H: 3 Mos 18,26-30.}
+
+//14 v8 Præsterne sagde ikke: 
+
+//16 >Hvor er HERREN?< 
+
+//15 De lovkyndige kendte mig ikke, 
+
+//15 hyrderne{T: Kongerne og lederne.} brød med{T: Eller >>gjorde oprør mod<<.} mig,
  
-v20 For fra gammel tid har jeg sønderbrudt dit åg, sønderrevet dine bånd, men du sagde: >>Jeg vil ikke tjene.<< For du gav dig selv hen på alle ophøjede høje og under hvert et grønt træ som en skøge.
-v21 Og jeg, jeg har plantet dig som ædle vinkviste, helt igennem ægte planter. Hvordan har du da omdannet dig for mig til ranker af et fremmed vintræ?
-v22 For om du så vaskede dig med lud{T: natron.} og brugte meget sæbe, så pletter dine ugerninger dig dog for mit ansigt, siger den herre HERREN.
-v23 Hvordan kan du sige: >>Jeg er ikke uren, jeg vandrer ikke efter Ba'alerne?<< Se hvordan du går i dalen, vid hvad du har gjort, du lette kamelhoppe der løber sine egne veje, hid og did,
-v24 som de vilde æselhopper der er vant til ørkenen og i sin sjæls længsel snapper efter vejret. Når hun er i brunst, hvem kan da holde hende tilbage? Ingen som søger hende, bliver trætte, de vil finde hende i hendes måned.
-v25 Afhold din fod fra at blive barfodet, og din strube fra at blive tørstig. Men du siger: >>Det er forgæves! Nej! For jeg elsker fremmede, og efter dem vil jeg gå.<<
-v26 Ligesom en tyv bliver til skamme, når han opdages, sådan er Israels hus blevet til skamme, de, deres konger, deres fyrster og deres præster og deres profeter,
-v27 de som siger til træet: >>Du er min far,<< og til stenen: >>Du fødte mig.<< For de har vendt ryggen og ikke ansigtet til mig. Men i deres ulykkes tid siger de: >>Stå op og frels os!<<
-v28 Hvor er dine guder som du lavet til dig? Lad dem stå op, hvis de kan frelse dig i din ulykkes tid. For så mange som dine byer er, er dine guder, Juda!
-v29 Hvorfor vil I skændes med mig? I har alle syndet mod mig, siger HERREN.
-v30 Forgæves slog jeg jeres børn. De lod sig ikke tugte. Jeres sværd fortærede jeres profeter som en ødelæggende løve.
-v31 Du slægt, læg mærke til HERRENS ord! Er jeg blevet til en ørken for Israel eller et mørkets land? Hvorfor siger mit folk da: >>Vi har gjort os frie, vi vil ikke mere komme til dig.<<
-v32 Mon en jomfru glemmer sin pynt, en brud sine bånd{T: Ordret >>brystbånd<< eller >>bælte<<.}? Men mit folk har glemt mig i utallige dage.
-v33 Hvor god er du til at vælge din vej for at søge kærlighed? Derfor har du også lært dine veje at kende det onde.
-v34 På fligen af dit tøj findes endog de fattige uskyldige sjæles blod. Du pågriber dem ikke når de bryder ind. Men på trods af alle disse ting
-v35 siger du: >>Jeg er uskyldig. Hans vrede har vendt sig fra mig.<< Se, jeg vil gå i rette med dig, fordi du siger: >>Jeg har ikke syndet.<<
-v36 Hvorfor har du så travlt med at ændre din vej? Også ved Egypten skal du blive til skamme, ligesom du blev til skamme ved Assyrien.
-v37 Også derfra skal du gå ud, med hænderne over dit hoved, for HERREN forkaster dem som du stolede på, og du skal ikke lykkes ved dem.
+//15 og profeterne, de profeterede ved Ba'al 
+
+//16 og 
+//18 fulgte efter dem der er til ingen nytte.
+//17
+
+//11 v9 Derfor må jeg stadig rejse anklage mod jer,
+
+//12 det er HERRENS udsagn,
+
+//13 og mod jeres børnebørn må jeg rejse anklage.
+
+***
+
+//10 v10 For drag{H: Jer 5,1; 18,13.} I over til Kittims kystområder{T: Øerne og kystlandene mod vest.}{H: 1 Mos 10,4-5. Dan 11,30.} 
+//14 og se, 
+
+//13 og send I bud til Kedar,{H: 1 Mos 25,13. Jer 49,28.} 
+//14 og læg I nøje mærke til 
+
+//12 og se,
+//14 ja, om noget sådant er sket!
+
+//13 v11 Mon et hedningefolk har skiftet guder? 
+
+//15 Og disse er ikke guder! 
+
+//14 Men mit folk har udskiftet sin herlighed 
+
+//15 med det som intet gavner.
+
+//11 v12 Gys 
+//15 I himle,{H: 5 Mos 32,1. Es 1,2}{E: Et ordspil hvor >>gys<< (*šōmmû*) og >>himle<< (*šāmayim*) på hebraisk lydmæssigt ligner hinanden.}
+//14 over dette,
+
+//13 og skælv!
+//12 Ja, tør fuldstændig ud!{T: Eller >>bliv fuldstændig stiv af skræk!<<}{E: *ḥorvû* (*ḥrv*) >>bliv tør, tør ud<<, i sammenhængen en antydning af at himlen ikke skal give regn af forfærdelse. De fleste ændrer verbet til *ḥirdu* (*ḥrd*) >>skælv<<.}
+
+//14 Det er HERRENS udsagn.
+
+//13 v13 For to onde ting har mit folk gjort: 
+
+//14 Mig har de forladt, kilden med levende vand,{H: Jer 17,13.}
+
+//15 for at hugge sig cisterner, revnede cisterner, 
+
+//16 som ikke kan holde vandet.
+
+
+==HERREN vil straffe Israels synd==
+
+
+//9 v14 Er Israel en slave,{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 30,10 HERRENS tjener.} 
+
+//16 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
+
+//12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: et >>spørgsmål<<, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias´ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 8,4-5.19.22.}
+
+//13 v15 Unge løver brølede mod ham, 
+
+//15 de lod deres stemme høre, 
+
+//16 og de gjorde hans land til rædsel. 
+
+//17 Hans byer er brændt ned,{E: MT har fravalgt vokalisering af verbet, der derfor enten kan læses som afledt af verbet *yṣt* (>>brænde<<) eller af verbet *nṣh* (>>blive lagt øde<<).} så ingen bor i dem.
+
+//14 v16 Også Nofs og Takpankes{T: Byer i Egypten.} sønner 
+
+gør din isse skaldet.{T: Eller >>gjorde<<. Reaktion på sorg. Det er uklart om det er en profeti (fremtid) eller om det refererer til fortiden.}
+
+//11 v17 Har du ikke selv forvoldt dig dette, 
+
+//13 ved at du har forladt HERREN din Gud, 
+
+den tid
+//14 han ledte dig på vejen?
+
+//12 v18 Og nu, 
+//14 hvad har du at gøre på vejen til Egypten 
+
+//16 for at drikke Shihors{T: Nilen.} vand? 
+
+//15 Og hvad har du at gøre på vejen til Assyrien 
+
+//16 for at drikke flodens{T: Eufrat.} vand?
+
+***
+
+//13 v19 Din ondskab skal tugte dig, 
+
+//15 og dine frafald skal revse dig: 
+
+//14 Erkend 
+//17 og indse, 
+//16 at det er ondt 
+//18 og bittert 
+
+//17 når du forlader HERREN din Gud, 
+
+//18 og at min rædsel ikke er over dig!{H: Sl 90,11. 2 Krøn 17,10; 20,29; Sl 89,8.}
+
+//15 Det er den Herre, Hærskarers{N: Hærskarers.} HERRES udsagn.
+
+
+==HERREN klager over folkets hykleri og afgudsdyrkelse==
+
+
+//10 v20 For fra gammel tid har jeg brudt dit åg, 
+
+//11 sønderrevet dine lænker, 
+
+//13 men du sagde: 
+//15 >Jeg vil ikke tjene!< 
+
+//14 For på enhver høj, der var ophøjet, 
+
+og under ethvert grønt træ 
+
+giver du dig selv hen
+//16 som en skøge.
+
+//15 v21 Og jeg, jeg plantede dig som en ædel vinstok, 
+
+//17 helt igennem en ægte art.{T: Ordret: >>sæd<<.} 
+
+//16 Hvordan har du forvandlet dig for mig 
+
+til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
+
+//12 v22 Selvom du så vaskede dig med lud,{T: Ordret: natron, en stærk base.} 
+
+//14 og du brugte meget sæbe på dig selv, 
+
+//13 så bliver din ugerning{T: Eller >>skyld<<.}{H: Es 1,15.} ved med at plette dig for mit ansigt,
+
+//14 det er den Herre, HERRENS udsagn.
+
+//8 v23 Hvordan kan du sige: 
+//13 >Jeg har ikke gjort mig selv uren, 
+
+//14 jeg er ikke gået efter Ba'alerne?< 
+
+//12 Se på din vej i dalen!{T: Ben-Hinnoms dal, jf. Jer 7,31.} 
+
+//12 Erkend
+//13 hvad du har gjort, 
+
+//14 du hurtige, unge kamelhoppe 
+//16 der løber sine egne veje, hid og did,
+
+//15 v24 som et vildæsel 
+
+//19 der er vant til ørken, 
+//19 i sin sjæls længsel snapper hun efter vejret! 
+
+//17 Når hun er i brunst, 
+//18 hvem kan holde hende tilbage? 
+
+//16 Alle som søger hende, undgår at blive trætte, 
+//17 de vil finde hende i hendes måned.
+
+//12 v25 Hold din fod tilbage fra at blive barfodet 
+
+//14 og din strube fra at blive tørstig! 
+
+//13 Men du siger: 
+//14 >Det er håbløst!{H: Es 57,10.} 
+//16 Nej! 
+
+//15 For jeg elsker fremmede, 
+
+//16 og efter dem vil jeg gå.<
+
+***
+
+//11 v26 Ligesom en tyv bliver til skamme{T: Eller >>skammer sig<<. Ordret: >>tyvens skam<<.} 
+//13 når han opdages, 
+
+//12 sådan bliver Israels hus til skamme, 
+
+de, deres konger, deres ledere 
+
+og deres præster og deres profeter,
+
+//15 v27 de som siger til træet: 
+//17 >Du er min far,< 
+
+//16 og til stenen: 
+//17 >Du har selv født mig!< 
+
+//14 For de har vendt ryggen til mig 
+
+//16 og ikke ansigtet. 
+
+//15 Men i deres ulykkes tid siger de: 
+
+//16>Stå op 
+//17 og frels os!<
+
+//13 v28 Hvor er dine guder 
+
+//15 som du har lavet dig? 
+
+//14 Lad dem stå op, 
+//16 hvis de kan frelse dig 
+
+i din ulykkes tid! 
+
+//15 For så mange som dine byer 
+
+er dine guder,{H: Jer 11,12-13.} 
+//16 Juda!
+
+
+==HERREN går i rette med sit folk==
+
+
+//10 v29 Hvorfor vil I anklage mig?{H: Jer 2,9.} 
+
+//12 I har alle brudt med mig,{H: Job 2,8.} 
+
+//15 det er HERRENS udsagn.
+
+//14 v30 Forgæves slog jeg jeres børn. 
+
+//15 De tog ikke imod tugt. 
+
+//13 Jeres sværd fortærede jeres profeter 
+
+som en ødelæggende løve.
+
+//12 v31 I der er slægten,{T: Ordret: >>I slægten<< (vokativ).} 
+//11 læg I mærke til HERRENS ord! 
+
+//12 Har jeg været en ørken for Israel 
+
+//14 eller et land med totalt mørke?{E: *maˀpēlᵊyāʰ* (>>totalt mørke<<) findes kun her.} 
+
+//13 Hvorfor siger mit folk: 
+//15 >Vi strejfer helt frie omkring, 
+
+//16 vi vil ikke mere komme til dig?<
+
+//14 v32 Mon en jomfru glemmer sine smykker, 
+
+//16 en brud sine brystbånd? 
+
+//15 Men mit folk har glemt mig 
+
+//16 i utallige dage.
+
+***
+
+//9 v33 Hvor er du god til at vælge din vej 
+
+//11 for at søge kærlighed! 
+
+//1 Derfor har du også lært dine veje 
+
+alt det onde.
+
+//12 v34 Endog på fligene af dit tøj findes  
+
+de fattige, uskyldige sjæles blod. 
+
+//14 Du pågriber dem ikke når de bryder ind. 
+
+//13 Men på trods af alle disse ting
+
+//14 v35 siger du: 
+
+//15 >Ja, jeg er uskyldig. 
+
+//16 Endog hans vrede har vendt sig fra mig!< 
+
+//11 Se, jeg vil gå i rette med dig, 
+
+//12 fordi du siger: 
+//13 >Jeg har ikke syndet!<
+
+//9 v36 Hvorfor tager du det så let{E: Nogle ændrer *tēzᵊlî* (*zll*) >>tage det let<< til *tazelî* (*ʔzl*) >>gå bort<<.}
+
+//11 med at ændre din vej? 
+
+//10 Også ved Egypten skal du blive til skamme,{H: Jer 43,7-13.} 
+
+//11 ligesom du blev til skamme ved Assyrien.
+
+//10 v37 Også derfra skal du gå ud, 
+
+//12 med hænderne over hovedet, 
+
+//11 for HERREN har forkastet dem du satte din lid til,
+
+//12 og du skal ikke lykkes ved dem.<<
+ 

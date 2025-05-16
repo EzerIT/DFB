@@ -260,17 +260,7 @@ $style['sl'][137] = $modenhed['med indrykning'];
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
 $style['es']      = $modenhed['med indrykning'];
-
-$style['jer'][ 1] = $modenhed['uden indrykning'];
-$style['jer'][ 2] = $modenhed['uden indrykning'];
-$style['jer'][ 3] = $modenhed['med indrykning'];
-$style['jer'][ 4] = $modenhed['med indrykning'];
-$style['jer'][ 5] = $modenhed['med indrykning'];
-$style['jer'][ 6] = $modenhed['med indrykning'];
-$style['jer'][ 7] = $modenhed['uden indrykning'];
-for ($k=8; $k<=52; ++$k)
-    $style['jer'][$k] = $modenhed['med indrykning'];
-
+$style['jer']     = $modenhed['med indrykning'];
 $style['ez']      = $modenhed['ufuldstændigt'];
 $style['am']      = $modenhed['ufuldstændigt'];
 $style['obad']    = $modenhed['uden indrykning'];
@@ -280,6 +270,7 @@ $style['hab']     = $modenhed['uden indrykning'];
 $style['sef']     = $modenhed['uden indrykning'];
 $style['hagg']    = $modenhed['ufuldstændigt'];
 $style['zak']     = $modenhed['uden indrykning'];
+
 $style['matt']    = $modenhed['uden indrykning'];
 $style['mark']    = $modenhed['uden indrykning'];
 $style['luk']     = $modenhed['ufuldstændigt'];

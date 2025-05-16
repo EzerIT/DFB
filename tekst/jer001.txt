@@ -1,34 +1,181 @@
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 01.06.2016>!!
+﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.05.2025>!!
 
 ===Jeremias' Bog, kapitel 1===
- 
-==Jeremias kaldes af Gud som profet og får styrke fra Gud til opgaven.==
- 
- 
-v1 Ord af Jeremias, Hilkijas søn, der var en af præsterne i Anatot i Benjamins land.
-v2 HERRENS ord kom til ham da Josija, Amons søn, havde været konge i Juda i tretten år.
-v3 Og det kom også mens Jojakim, Josijas søn, var konge i Juda, og det blev ved med at komme indtil udgangen af Sidkijas, Josias søns,  ellevte år som  konge i Juda, da Jerusalems indbyggere blev ført i fangenskab i den femte måned.
-v4 Og HERRENS ord kom til mig:
-v5 >>Før jeg dannede dig i din mors liv, kendte jeg dig, og før du kom ud af din mors krop, helligede jeg dig. Jeg gjorde dig til profet for folkeslagene.<<
-v6 Men jeg sagde: >>Ak Herre, HERRE! Jeg duer ikke til at tale, for jeg er for ung.<<
-v7 Men HERREN sagde til mig: >>Sig ikke: >Jeg er for ung<; for overalt hvor jeg sender dig, skal du gå, og alt det jeg befaler dig, skal du sige.
-v8 Du skal ikke være bange for dem, for jeg er med dig for at redde{T: Kan også oversættes med >>frelse<< eller >>udfri<<} dig,<< siger HERREN.
-v9 Og HERREN rakte sin hånd frem og rørte ved min mund, og HERREN sagde til mig: >>Se, jeg har lagt mine ord i din mund.
-v10 Se, i dag har jeg sat{T: Ordet kan mere ordret oversættes med “udnævne”} dig over folkene og kongerigerne til at rykke op og bryde ned, til at ødelægge og lægge i ruiner, til at bygge og til at plante.<<
 
-==Jeremias ser to syner som forestiller babyloniernes ødelæggelse af Jerusalem.==
+ 
+==Jeremias profeterede under kongerne Josija, Jojakim og Sidkija==
 
-v11 Og HERRENS ord kom til mig: >>Jeremias, hvad ser du?<< Og jeg svarede: >>Jeg ser en stav af mandeltræ.<<
-v12 Og HERREN sagde til mig: >>Du så rigtigt, for jeg våger{T: Mandeltræ og våge lyder næsten ens på hebraisk. Det tidligt blomstrende mandeltræ er et billede på årvågenhed.} over mit ord for at opfylde det.<<
-v13 Og HERRENS ord kom til mig for anden gang: >>Hvad ser du?<< Og jeg svarede: >>Jeg ser en kogende gryde, og den vender sig herimod fra de nordlige egne.<<
-v14 Og HERREN sagde til mig: >>Fra nord skal ulykken{T: eller >>ondskaben<<} slippes løs mod  alle landets indbyggere.
-v15 For se, jeg kalder på alle stammerne fra kongerigerne mod nord,<< siger HERREN, >>og de skal komme og sætte hver sin trone ved indgangen til Jerusalems porte og på alle dens mure hele vejen rundt og i alle Judas byer.{E: Billedet med tronerne i byportene symboliserer de fremmede folkeslags erobring af Jerusalem og Judæa. En trone i byporten markerer den endegyldige magtovertagelse.}
-v16 Og jeg vil holde dom over dem på grund af deres ondskab. For de forlod mig og ofrede røgelse til andre guder og tilbad deres hænders værk.
  
-==HERREN styrker ham atter og bekræfter kaldet.==
+//0 v1 Ord af Jeremias, søn af Hilkija, en af præsterne 
+//3 i Anatot i Benjamins land.
+//2 v2 Til ham kom HERRENS ord i de dage Josija,{H: 2 Kong 21,24. 2 Krøn 34,1-2.} Amons søn, var konge i Juda, i det trettende år{H: Jer 25,3.}
+//3 af hans regering.
+//1 v3 Og det kom også i de dage Jojakim,{H: 2 Kong 23,36. 2 Krøn 36,5-8.}{T: Opbygningen af Jeremias’ bog er ikke kronologisk, men de profetiske udsagn er ordnet efter hvem der er tilhørere.} Josijas søn, var konge i Juda, 
+//3 og det blev ved med at komme indtil udgangen af Sidkijas,{H: 2 Kong 24,18. 2 Krøn 36,11-13.} Josias søns ellevte år som konge i Juda, 
+//4 indtil Jerusalems indbyggere{T: >>indbyggere<< er tilføjet.} gik i eksil i den femte måned. 
+
+==HHERREN satte Jeremias til profet før han blev født==
+
+
+//2 v4 HERRENS ord kom til mig
+//5 :
+
+//6 v5 >>Før jeg dannede dig i din mors liv,{H: Es 49,1.5. Gal 1,15-16.} 
+
+//8 kendte jeg dig, 
+
+//7 og før du kom ud af livmoderen,
  
-v17 Og du, du skal binde op om dig{T: Ordret >>om dine lænder<<.} og rejse dig op og tale til dem om alt det jeg vil befale dig. Vær ikke rædselsslagen for dem for at jeg ikke skal gøre dig rædselsslagen for dem.
-v18 Og jeg, se, jeg har i dag gjort dig til en befæstet borg og til en jernsøjle og til en kobbermur for hele landet, imod Judas konger, imod dets fyrster, imod dets præster og imod folket i landet.
-v19 Og de skal kæmpe mod dig, men ikke få overhånd over dig, for jeg er med dig,<< siger HERREN, >>for at redde dig.<<
+//8 helligede jeg dig. 
+
+//9 Jeg satte dig til profet for folkeslagene.<<
+
+***
+
+//4 v6 Men jeg sagde: 
+//5 >>Ak Herre, HERRE! 
+//6 Se, jeg duer ikke til
+//8 at tale, 
+//7 for jeg er ung.<<
+
+
+==HERREN kalder Jeremias til profet==
+
+
+//3 v7 Men HERREN sagde til mig: 
+
+//4 >>Sig ikke: 
+//6 >Jeg er ung;< 
+
+//5 for til enhver
+//8 som jeg sender dig til, 
+//7 skal du gå, 
+
+//6 og alt det 
+//8 jeg befaler dig, 
+//7 skal du sige.
+
+//4 v8 Frygt ikke for dem! 
+
+//5 For jeg er med dig 
+//7 for at redde dig,
+
+//6 det er HERRENS udsagn.<<{T: Udtrykket forekommer hyppigt hos Jeremias og fungerer både som en understregning og som en bekræftelse af at det er HERRENS ord og ikke Jeremias’ egne ord. Lignende idiomatiske udtryk findes både hos Moses og profeterne.}{H: 2 Mos 4,22; Jer 2,2. Es 56,8. Zak 8,2.}
+
+//3 v9 HERREN rakte sin hånd frem, 
+//4 og rørte ved min mund, 
+//3 og HERREN sagde til mig: 
+//4 >>Se, jeg har lagt mine ord i din mund.
+
+//5 v10 Se, 
+//6 jeg har på denne dag sat{T: Ordret: >>udnævnt<<.} dig over folkeslagene og over kongerigerne
+
+//7 til at rykke op
+//8 og bryde ned, 
+
+//8 til at tilintetgøre og udslette,
+
+//8 til at bygge
+//7 og til at plante.<<
+
+
+==Jeremias’ første syn==
+
+
+//2 v11 Og HERRENS ord kom til mig
+//5 : 
+//6 >>Hvad ser du,
+//7 Jeremias?<<
+//4 Jeg svarede: 
+//5 >>Jeg ser en stav af mandeltræ.<<
+//3 v12 Og HERREN sagde til mig: 
+//4 >>Du har set rigtigt,
+//6 
+//5 for jeg våger{E: Mandeltræ (*šāqēd*) og våge (*šōqēd*) lyder næsten ens på hebraisk. Ordspillet går også på betydningen idet det tidligt blomstrende mandeltræ er et billede på årvågenhed.}
+over mit ord 
+//6 for at opfylde det.<<
+
+==Jeremias’ andet syn og HERRENS tydning==
+
+
+//2 v13 Og HERRENS ord kom til mig for anden gang
+//4 : 
+//5 >>Hvad ser du?<< 
+//3 Jeg svarede: 
+//4 >>Jeg ser en kogende gryde, 
+//5 og den vender herimod{T: Ordret: >>og dets ansigt<<.} fra nord.<<
+//2 v14 Og HERREN sagde til mig: 
+
+//3 >>Fra nord skal ulykken{T: Eller >>ondskaben<<.} slippes løs 
+
+mod alle landets indbyggere.
+
+//4 v15 For se, jeg kalder på 
+
+alle stammerne fra kongerigerne mod nord, 
+
+//8 det er HERRENS udsagn,
+
+//7 og de vil komme 
+//7 og sætte 
+//9 hver sin trone
+
+//8 ved indgangen til Jerusalems porte 
+
+og på alle dens mure hele vejen rundt 
+
+og i alle Judas byer.{T: En trone i byporten markerer den endegyldige magtovertagelse.}
+
+//6 v16 Og jeg vil afsige mine domme over dem 
+
+på grund af al deres ondskab, 
+
+//7 fordi de forlod mig 
+//8 og ofrede{T: Eller >>brændte<<.} røgelse til andre guder 
+
+//8 og tilbad deres hænders værk.
+
+
+==HERREN gentager sit kald til Jeremias== 
+
+
+//5 v17 Men du, du skal spænde dit bælte, 
+
+//8 og rejse dig, 
+//8 og tale til dem
+
+//9 alt det jeg vil befale dig.
+ 
+//7 Vær ikke rædselsslagen for dem 
+
+//8 for at ikke jeg skal gøre dig rædselsslagen for dem.
+
+//6 v18 Og jeg, 
+//7 se, jeg har i dag gjort dig 
+
+til en befæstet by 
+
+og til en jernsøjle 
+
+og til bronzemure 
+
+mod hele landet, 
+
+mod Judas konger, 
+mod dets ledere, 
+
+mod dets præster og mod landets folk.
+
+//8 v19 Og de vil kæmpe mod dig, 
+
+//9 men ikke vinde over dig, 
+
+//10 for jeg er med dig,
+
+//12 det er HERRENS udsagn,
+
+//11 for at redde dig.<<
+

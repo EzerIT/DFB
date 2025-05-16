@@ -1,53 +1,193 @@
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 11.05.2017>!!
+﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 16.05.2025>!!
 
 ===Jeremias' Bog, kapitel 7===
  
-==Jeremias råder jøderne til at de skal omvende sig og ikke stole på deres hykleriske gudstjeneste, og forkynder at Jerusalem og templet skal ødelægges ligesom Shilo.==
+==Jeremias’ tale til folket om den falske gudsdyrkelse==
  
  
-v1 Det ord som kom fra HERREN til Jeremias:
-v2 Stil dig i porten til HERRENS hus. Der skal du udråbe dette ord og sige: Hør HERRENS ord, hele Juda! I som går ind ad disse porte for at tilbede HERREN!
-v3 Således taler Hærskarers HERRE, Israels Gud: Ret op på jeres veje og jeres gerninger{T: Ordret >>gør jeres veje og jeres gerninger gode<<.}, så vil jeg lade jer bo på dette sted.
-v4 I må ikke stole på løgnagtige ord, når de siger: >>HERRENS tempel, HERRENS tempel, HERRENS tempel er her{E: *hemmah* >>er her<< er vanskeligt at oversætte. Ordret betyder det >>de<<, og KJV oversætter det med >>HERRENS tempel er disse<<. DO92 udelader helt at oversætte det.}!<<
-v5 Men hvis I virkelig retter op på jeres veje og jeres gerninger, og hvis I virkelig gør ret mellem en mand og hans næste,
-v6 og I lader være med at udnytte den fremmede, den faderløse og enken, og ikke udgyder uskyldigt blod på dette sted, og ikke følger andre guder til ulykke for jer selv,
-v7 da vil jeg lade jer bo på dette sted, i det land som jeg gav jeres fædre, fra evighed og til evighed.
-v8 Se, I stoler på løgnagtige ord, som intet gavner.
-v9 Skulle I stjæle, slå ihjel og bedrive hor og sværge falsk og tænde ild for Ba'al og følge fremmede guder som I ikke kender,
-v10 og så komme og stå for mit ansigt i dette hus som bærer mit navn{T: Ordret >>som kaldes mit navn over det<<.}, og sige: >>Vi er frelst<<, for så at kunne gøre alle disse afskyelige ting?
-v11 Er dette hus som bærer mit navn, blevet en røverhule i jeres øjne? Ja, jeg har selv set det, siger HERREN.
-v12 Gå dog til mit sted som var i Shilo, hvor jeg lod mit navn bo i begyndelsen, og se hvad jeg har gjort ved det på grund af mit folk Israels ondskab.
-v13 Jeg talte til jer tidligt og ustandseligt, men I hørte ikke. Jeg kaldte på jer, men I svarede ikke. Så nu, siger Herren, fordi I gør alle disse gerninger,
-v14 vil jeg gøre det samme ved dette hus, som jeg har gjort ved Shilo; dette hus som bærer mit navn, og som I stoler på, det sted som jeg gav jer og jeres fædre..
-v15 Og jeg vil smide jer bort fra mit ansigt, ligesom jeg smed alle jeres brødre, alt Efraims afkom, bort.
+//0 v1 Det ord 
+//1 som kom fra HERREN til Jeremias
+//2 :
+//3 v2 >>Stil dig i porten til HERRENS hus{H: Jer 26,2.} 
+//5 og dér skal du udråbe dette ord, 
+//5 og du skal sige: 
+//6 Hør HERRENS ord, 
+//8 hele Juda! 
+//9 I som går ind ad disse porte 
+//10 for at tilbede HERREN!
 
-==Profeten må ikke bede for dem på grund af deres alvorlige afgudsdyrkelse som er skyld i at landet skal ødelægges.==
- 
-v16 Og du, du må ikke bede for dette folk og ikke opløfte klageskrig eller bøn for dem og ikke trænge ind på mig med forbøn, for jeg vil ikke høre dig.
-v17 Ser du ikke hvad de gør i Judas byer og på Jerusalems gader?
-v18 Børnene samler træ, og fædrene tænder ilden, og kvinderne ælter dej for at lave kager til himmelens dronning, og de udøser drikofre for andre guder for at fornærme{T: Kan også oversættes med >>provokere<<.} mig.
-v19 Er det mig, de fornærmer? siger HERREN. Er det ikke sig selv, så de må skamme sig ved det?
-v20 Derfor siger den herre HERREN således: Se min vrede og min harme udøses over dette sted, over mennesker og over dyr og over markens træer og landets frugt, og den skal brænde og ikke gå ud.
- 
-==HERREN forkaster deres hykleriske offer og klager over deres store ulydighed mod alle profeternes taler.==
+//7 v3 Sådan siger Hærskarers{N: Hærskarers} HERRE, Israels Gud: 
+//8 Gør jeres veje og jeres gerninger gode, 
+//12 så vil jeg lade jer bo på dette sted.
+//11 v4 I må ikke stole på ord fyldt med løgn,
+//12 når de siger: 
+//13 >HERRENS tempel, HERRENS tempel, HERRENS tempel er dette!<{E: *hemmah* er her vanskeligt at oversætte. Ordret: >>De/disse<<.}
 
-v21 Således siger Hærskarers HERRE, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!
-v22 For jeg talte ikke med jeres fædre, og gav dem heller ikke befalinger den dag da jeg førte dem ud af Egyptens land, angående brændoffer og slagtoffer.
-v23 Men dette befalede jeg dem: Hør min røst, så vil jeg være jeres Gud, og I skal være mit folk, og I skal vandre på hele den vej jeg befaler jer, for at det må gå jer godt.
-v24 Men de hørte ikke og spidsede ikke ører{T: Ordret >>strakte ikke deres ører<<.}, men de fulgte i deres onde hjerters stædighed deres egne råd, og de gik tilbage og ikke fremad.
-v25 Fra den dag jeres fædre forlod Egyptens land, og indtil denne dag sendte jeg alle mine tjenere, profeterne, til jer dagligt, tidligt og ustandseligt.
-v26 Men de hørte mig ikke og spidsede ikke ører, men de gjorde deres nakke stiv. De var værre end deres fædre.
-v27 Og du skal sige alle disse ord til dem, men de skal ikke høre dig. Du skal kalde på dem, men de skal ikke svare dig.
-v28 Og du skal sige til dem: >>Dette er det folk som ikke hører på HERRENS deres Guds røst og ikke tager imod opdragelse. Troskaben er gået til grunde og tilintetgjort fra deres mund.<<
+//10 v5 Men hvis I virkelig gør jeres veje og jeres gerninger gode, 
+//12 og hvis I virkelig øver ret mellem en mand og hans næste,
+//13 v6 ikke undertrykker den fremmede, den faderløse og enken,
+//14 og ikke udgyder uskyldigt blod på dette sted, 
+//15 og ikke følger andre guder til ulykke for jer selv,
+//11 v7 da vil jeg lade jer bo på dette sted, i det land 
+//12 som jeg gav jeres fædre, fra evighed og til evighed.
+
+//9 v8 Se, I stoler på ord fulde af løgn,
+//14 som intet gavner.
+//13 v9 Kan I stjæle, 
+//14 kan I slå ihjel, 
+//15 og kan I bryde ægteskabet, 
+//15 og kan I sværge falsk 
+//15 og brænde røgelse for Ba'al, 
+//15 og kan I følge fremmede guder 
+//16 som I ikke kender,
+//12 v10 og så komme 
+//12 og stå for mit ansigt i dette hus, 
+//13 som mit navn er udråbt over,
+//12 og sige: 
+//15 >Vi er frelst<, 
+//14 - for så at kunne gøre alle disse vederstyggeligheder?
+//13 v11 Er dette hus som mit navn er udråbt over, blevet en røverhule{H: Matt 21,13. Mark 11,17. Es 56,7.} 
+//15
+//14 i jeres øjne? 
+//11 Også jeg, 
+//13 se, jeg har set det, 
+//14 det er HERRENS udsagn.
+
+
+==HERREN vil ødelægge templet ligesom Shilo==
+
+
+//12 v12 For gå dog til mit sted 
+//12 som var i Shilo, 
+//15 hvor jeg lod mit navn bo i begyndelsen, 
+//13 og se 
+//14 hvad jeg har gjort ved det på grund af mit folk Israels ondskab.
+//10 v13 Og nu
+//11 fordi I har gjort alle disse gerninger,
+//14 det er HERRENS udsagn,
+//13 og jeg 
+//15 tidligt og ustandseligt
+//16 talte til jer,{E:  Ordret: >>stående tidligt op og talende<<. Dette udtryk med to infinitiv absolut anvendes talrige gange af Jeremias og er som en underskrift af profeten.}{H: Jer 25,4.} 
+//14 men I hørte ikke, 
+//13 jeg kaldte på jer, 
+//14 men I svarede ikke,  
+//12 v14 så vil jeg gøre med det hus, 
+//16 som mit navn er udråbt over,
+//15 og som I stoler på, 
+//14 det sted 
+//15 som jeg gav jer og jeres fædre,
+//13 ligesom jeg gjorde med Shilo. 
+//12 v15 Og jeg vil kaste jer bort fra mit ansigt, 
+//13 ligesom jeg kastede alle jeres brødre, al Efraims afkom, bort.
+
+
+==HEREREN befaler Jeremias ikke at bede for folket==
+
+
+//4 v16 Og du, 
+//7 gå ikke i forbøn for dette folk 
+//9 og opløft hverken klageskrig eller bøn for dem 
+//9 og træng ikke ind på mig, 
+//8 for jeg vil ikke høre dig.
+//6 v17 Ser du ikke 
+//10 hvad de gør i Judas byer og i Jerusalems gader?
+//9 v18 Børnene samler træ, 
+//11 og fædrene antænder ilden, 
+//12 og kvinderne ælter dej 
+//10 for at lave offerkager{T: Findes kun her og i Jer 44,19.} til himmelens dronning, 
+//12 og de udøser drikofre for andre guder 
+//11 for at krænke mig.
+//8 v19 Er det mig, de krænker? 
+//10 Det er HERRENS udsagn. 
+//9 Er det ikke sig selv så deres ansigter må rødme{T: >>må rødme<< er tilføjet.} af skam?<<
+
+//7 v20 Derfor, sådan siger den Herre HERREN:
+//9 >>Se, min vrede og min harme udøses over dette sted, over menneskene og over dyrene og over markens træer og jordens frugt, 
+//10 og den vil brænde 
+//11 og ikke gå ud.
  
-==HERREN byder dem at hyle og græde, for deres glæde skal vendes til sorg.==
- 
-v29 Klip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for HERREN har forkastet og forladt den slægt som hans vrede er vendt imod{T: Ordret >>sin vredes slægt<<.}.
-v30 For Judas børn har handlet ondt i mine øjne, siger HERREN. De har sat deres afskyelige ting i det hus som bærer mit navn, så de har besmittet det.
-v31 Og de har bygget Tofets høje, som er i Ben-Hinnoms dal, for at brænde deres sønner og døtre i ilden. Det har jeg ikke befalet, og det er heller ikke faldet mig på sinde.
-v32 Derfor, se, de dage kommer, siger HERREN, hvor man ikke mere skal kalde det Tofet og Ben-Hinnoms dal, men Morderdalen. Og af mangel på plads skal de begrave i Tofet.
-v33 Og dette folks døde kroppe skal blive til føde for himmelens fugle og dyrene på jorden, og ingen skal skræmme dem bort.
-v34 Og jeg vil lade fryds og glædes stemme, brudgoms og bruds stemme ophøre i Judas byer og i Jerusalems gader, for landet skal blive til en ruin.
+==Jeremias skal tale forgæves til Israels folk== 
+
+//8 v21 Sådan siger Hærskarers HERRE, Israels Gud: 
+//9 Føj jeres brændofre til jeres slagtofre 
+//11 og spis kødet! 
+//10 v22 For jeg talte ikke med jeres fædre 
+//13 og gav dem heller ikke befalinger 
+//12 på den dag
+//14 da jeg førte dem ud af Egyptens land,
+//13 angående brændoffer og slagtoffer.
+//11 v23 Men dette ord befalede jeg dem
+//13 : 
+//14 Hør på min røst, 
+//16 så vil jeg være jeres Gud, 
+//17 og I skal være mit folk, 
+//15 og I skal vandre på hele den vej
+//17 som jeg befaler jer, 
+//16 for at det må gå jer godt.
+//12 v24 Men de hørte ikke 
+//14 og bøjede ikke deres ører,
+//15 men de gik efter deres egne råd i deres onde hjerters forstokkethed, 
+//15 og de vendte ryggen 
+og ikke ansigtet til mig.{T: >>til mig<< er tilføjet. Udtrykket findes kun her i GT, og der er forskellige oversættelser som >>de gik tilbage og ikke fremad<<. Lignende udtryk finder vi i Jer 2,27; 32,33.}
+//13 v25 Fra den dag 
+//16 da jeres fædre drog ud af Egyptens land, 
+//15 og indtil denne dag 
+//14 sendte jeg jer alle mine tjenere, profeterne, 
+//15 dagligt, tidligt og ustandseligt, 
+//16 sendte jeg dem.
+//12 v26 Men de hørte ikke på mig 
+//14 og bøjede ikke deres ører, 
+//13 men de gjorde deres nakke stiv. 
+//14 De handlede værre end deres fædre.
+
+//5 v27 Og du skal tale alle disse ord til dem, 
+//6 men de vil ikke lytte til dig. 
+//5 Du skal kalde på dem, 
+//6 men de vil ikke svare dig.
+//5 v28 Og du skal sige til dem: 
+//7 >Dette er det folk 
+//10 som ikke hører på{T: Eller >>adlyder<<.} HERREN deres Guds røst 
+//11 og ikke tager imod tugt. 
+//9 Sandheden er gået til grunde, 
+//10 og den er udryddet af deres mund.<
+
+
+==HERREN har forkastet sit folk==
+
+
+//8 v29 Klip dit hår af 
+//10 og kast det bort!{T: Tegn på sorg for både mænd og kvinder, men ikke tilladt for Israels folk.}{H: Jer 41,5. 5 Mos 14,1-2. 3 Mos 19,27-28; 21,5.}
+
+//10 Opløft på de nøgne høje en dødsklage,  
+
+//9 for HERREN har forkastet 
+//10 og forstødt 
+
+den slægt som hans vrede er vendt imod.
+
+//6 v30 For Judas børn har gjort 
+//10 det der er ondt i mine øjne, 
+//9 det er HERRENS udsagn. 
+//8 De har sat deres ækle rædsler i det hus 
+//11 som mit navn er udråbt over, 
+//10 for at gøre det urent.
+//9 v31 Og de har bygget Tofet-højene, 
+//12 som er i Ben-Hinnoms dal,{H: Jer 2,23.} 
+//11 for at brænde deres sønner og døtre helt i ilden, 
+//10 hvad jeg ikke har befalet, 
+//11 og det er heller ikke faldet mig ind.{N: Hjerte}{H: Jer 19,5-7; 32,35.}
+
+//7 v32 Derfor, se, de dage kommer, 
+//9 det er HERRENS udsagn
+//8 hvor man ikke mere vil kalde det Tofet og Ben-Hinnoms dal, 
+//11 men slagtningens dal.{H: 2 Kong 23,10.} 
+//10 Og de vil begrave i Tofet af mangel på plads.
+//11 v33 Og dette folks døde kroppe skal blive til føde for himmelens fugle og jordens dyr, 
+//12 og ingen skræmmer dem bort.
+//9 v34 Og jeg vil lade fryds og glædes røst, brudgoms og bruds røst ophøre i Judas byer og i Jerusalems gader, 
+//10 for landet skal blive til ruiner.<<
+
 
