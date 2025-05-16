@@ -1,195 +1,228 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 29===
 
 ==Profeti om Jerusalems ødelæggelse==
-v1 Ve Ariel, {T: Det betyder ”Guds løve”, dvs. Jerusalem. Ez 48,15f} Ariel, 
 
-den by, hvor David slog lejr! 
+//0 v1 Ve Ariel, Ariel, 
 
-Læg år til år, 
+den by, 
+//5 hvor David slog lejr!{H: 2 Sam 5,6}
 
-lad højtid følge højtid!{T: Ordret: >>højtider løbe i kreds<<.}
+//4 Læg år til år, 
 
-v2 Men jeg bringer trængsel over Ariel; 
+//6 lad højtiderne indtræffe regelmæssigt,
 
-så hun bliver suk og klage, 
+//5 v2 men jeg vil bringe trængsel over Ariel; 
 
-men da skal hun være for mig som Guds løve.{T: Ariel}
+//6 så hun bliver suk og klage, 
 
-v3 Jeg vil slå lejr rundt omkring dig, 
+//7 og da vil hun være for mig som en Ariel{E: *ʔᵃrîʔēl* kan være et ordspil på et alters ildsted (Ez 43,15-16); etymologisk betyder det >>Guds løve<<.}
 
-og jeg vil indeslutte dig med en vold 
+//3 v3 Jeg vil slå lejr rundt omkring dig, 
 
-og rejse fæstningsværker mod dig.
+//5 og jeg vil indeslutte dig med en vold 
 
-v4 Når du er fornedret, 
+//5 og opføre belejringsanlæg imod dig.
 
-skal du tale fra jorden, 
+//4 v4 Når du er væltet omkuld,{H: Es 26,5} 
 
-og fra støvet lyder din tale svagt, 
+//5 vil du tale nede fra jorden, 
 
-og din stemme skal være som et genfærds fra jorden, 
+//7 og fra støvet lyder din tale svagt; 
 
-og fra støvet skal din tale være en hvisken.
+//6 din stemme vil være som et genfærd nede fra jorden, 
 
-v5 Og mængden af dine fjender{E: *zār* skal i de fleste sammenhænge oversættes: >>fremmed<<, men i enkelte sammenhænge angiver det >>fjende<<. Det foreslås undertiden her at rette til: *ṣār*: >>fjende<<.} 
+//8 og fra støvet vil din tale være en hvisken.
 
-skal blive som fint støv 
+//7 v5 Og mængden af dine fjender{T: Ordret >>fremmede<<.} 
 
-og voldsmændenes mængde som avner, der flyver af sted, 
+vil blive som fint støv 
 
-og det skal ske på et øjeblik, pludseligt.
+//9 og voldsmændenes mængde som avner der flyver af sted, 
 
-v6 Hun skal hjemsøges af Hærskarers HERRE{N: Hærskarers} 
+//8 og det skal ske på et øjeblik, pludseligt.
+
+//2 v6 Du vil blive hjemsøgt af Hærskarers{N: Hærskarers} HERRE 
 
 med torden og jordskælv og vældigt drøn, 
 
 hvirvelvind og storm 
 
-og fortærende, flammende ild.
+og flammer af fortærende ild.
 
-v7 Og som en drøm, 
+//3 v7 Og som en drøm, 
 
 et nattesyn, 
 
-skal det gå mængden af alle folkeslag{T: Kan også oversættes: >>hedninger<<.} 
+vil det gå med mængden af alle folkeslag 
 
-der fører krig mod Ariel, 
+//4 der fører krig mod Ariel, 
 
-ja, alle der kæmper imod hende og hendes fæstning, 
+//6 ja, alle der kæmper imod hende og hendes fæstning, 
 
-og de der bringer trængsel over hende.
+//7 og de der bringer trængsel over hende.
 
-v8 Og det skal gå som når den sultne drømmer og tror at han spiser, 
+//5 v8 Og så vil det være som  
+//7 når den sultne drømmer
+//10 at nu er han ved at spise, 
 
-men når han vågner, er han sulten;{T: Ordret: >>er hans sjæl tom<<.}
+//9 men så vågner han 
+//10 og føler sig{N: Sjæl} tom,
 
-og som når den tørstige drømmer og tror at han drikker, 
+//8 og som når den tørstige drømmer 
+//10 at nu er han ved at drikke, 
 
-men når han vågner, se, han er udmattet 
+//9 men så vågner han, 
+//10 og se, han er udmattet 
 
-og tørstig.{T: Ordret: >>og hans sjæl tørstig<<.}
+//11 og føler sig{N: Sjæl} tørstig.
 
-Sådan skal det gå mængden af alle folkeslag{T: Kan også oversættes: >>hedninger<<.} 
-der fører krig mod Zions bjerg.
+//6 Sådan skal det gå mængden af alle folkeslag 
+
+//7 der fører krig mod Zions bjerg.
 
 ***
 
-v9 Tøv og bliv forundrede! 
+//1 v9 Tøv 
+//5 og bliv forundrede! 
 
-Stir jer blinde, og bliv blinde! 
+//4 Stir jer blinde, 
+//6 og bliv blinde! 
 
-De er fulde, men ikke af vin; 
+//5 De er fulde, 
+//6 men ikke af vin; 
 
-de dingler, men ikke af stærk drik.
+//5 de dingler, 
+//7 men ikke af øl.
 
-v10 For HERREN har udgydt over jer
+//6 v10 For HERREN har udgydt over jer 
 
-en dyb søvnens ånd, 
+en dyb søvns ånd, 
 
-og han har lukket jeres øjne, 
+//8 og han har lukket jeres øjne, 
 
 – profeterne – 
 
-og han har tildækket jeres hoveder 
+//10 og han har tildækket jeres hoveder 
 
 – seerne – 
 
 ***
 
-v11 Synet om alt det skal for jer være som ordene i den lukkede bog som de giver til en der har forstand på læsning, og siger: >>Læs dette!<< Så siger han: >>Det kan jeg ikke, for den er forseglet.<<
-v12 Og bliver bogen givet til en der ikke har forstand på læsning, idet man siger: >>Læs dette!<< så må han sige: >>Jeg forstår mig ikke på læsning.<<
+//9 v11 For jer blev hele synet som ord i en lukket bog 
+//11 som de giver til en der har lært at læse,{T: Ordret her og v 12: >>har kundskab om bogen<<.} 
+//12 idet de siger: 
+//14 >>Læs dette!<< 
+//13 og han så siger: 
+//14 >>Det kan jeg ikke, 
+//15 for den er forseglet.<<
+//10 v12 Og bliver bogen givet 
+//12 til en der ikke har lært at læse, 
+//11 idet de siger: 
+//13 >>Læs dette!<< 
+//12 så må han sige: 
+//13 >>Jeg kan ikke læse.<<
 
-v13 Herren sagde: 
+//7 v13 Herren sagde: 
 
->>Fordi dette folk holder sig nær til mig med sin mund 
+//8 >>Fordi dette folk holder sig nær til mig med sin mund 
 
-og ærer mig med sine læber, 
+//10 og ærer mig med sine læber, 
 
-skønt dets hjerte er langt fra mig, 
+//11 skønt dets hjerte er langt fra mig, 
 
-og deres frygt for mig 
+//12 og deres frygt{N: Frygt} for mig 
 
 er tillærte menneskebud:
 
-v14 Se, derfor vil jeg blive ved at handle forunderligt med dette folk, 
+//9 v14 Se, derfor vil jeg blive ved 
+//11 at handle forunderligt med dette folk, 
 
 forunderligt, vidunderligt; 
 
-så dets vises visdom vil forgå, 
+//10 så dets vises visdom vil forgå, 
 
-og dets kloges indsigt vil forsvinde.<<
+//11 og dets kloges indsigt vil forsvinde.<<
 
-v15 Ve dem der søger dybt ned, væk fra HERREN, 
+//3 v15 Ve 
+//5 dem der søger dybt ned, væk fra HERREN, 
 
-for at skjule en plan, 
+//7 for at skjule en plan! 
 
-og deres gerninger er i mørket, 
+//6 Deres gerninger er i mørket, 
 
-og de siger: 
+//7 og de siger: 
 
->>Hvem ser os, og hvem kender os?<<
+//8 >>Hvem ser os, 
+//9 og hvem kender os?<<
 
-v16 Oh, hvor I forvrænger! 
+//4 v16 I omstyrtere!
 
-Mon leret skal regnes som pottemageren? 
+//5 Mon leret skal regnes som pottemageren? 
 
-Så et værk kan sige om den, der udførte det: 
+//6 Så et værk kan sige om den der udførte det: 
 
->>Han har ikke lavet mig<<? 
+//8 >>Han har ikke lavet mig<<? 
 
-Eller kan det der er dannet, sige om den der dannede det: 
+//7 Eller kan det der er dannet, sige om den der dannede det: 
 
->>Han har ingen forstand<<?
+//8 >>Han har ingen forstand<<?
 
 ==De undertryktes frelse==
-v17 Mon ikke der endnu er en meget kort tid, 
 
-så bliver Libanon igen til frugthaven, 
+//2 v17 Mon ikke om yderligere meget kort tid 
 
-og frugthaven{T: Her og eventuelt i foregående linje kan der også oversættes: >>Karmel<<.} skal regnes for en skov?
+//6 Libanon igen vil blive til frugthave,{T: Ordret: >>Karmel<<, sml. denne betydning i Es 10,18 og Karmelbjerget i Es 35,2.} 
 
-v18 Og på den dag skal de døve høre en bogs ord 
+//7 og Karmel regnes for en skov.
 
-og blindes øjne skal se ud fra mulm og mørke.
+//5 v18 Og på den dag vil de døve høre en bogs ord 
 
-v19 De svage skal igen glæde sig over HERREN, 
+//6 og blindes øjne vil se ud fra mulm og mørke.
 
-og de fattige blandt mennesker skal juble over Israels Hellige.
+//7 v19 De svage vil igen glæde sig over HERREN, 
 
-v20 For det er forbi med voldsmanden, og det er slut med spotteren, 
+//8 og de fattige blandt mennesker vil juble over Israels Hellige.
 
-og alle der lurer på ondt, er udryddet,
+//4 v20 For det er forbi med voldsmanden, 
+//5 og det er slut med spotteren, 
 
-v21 de der erklærer et menneske skyldigt med et ord 
+//6 og alle der lurer på ondt, er udryddet,
 
-og stiller fælde for den der dømmer i porten, 
+//7 v21 de der erklærer et menneske skyldigt med et ord 
 
-og afviser med tomme ord en retfærdig.
+//8 og sætter fælder for den der dømmer i porten, 
 
-v22 Derfor sagde HERREN sådan til Jakobs hus,
+//9 og afviser en retfærdig med nytteløse anklager.{T: Ordret >>det golde<< sml. 1 Mos 1,2.}
 
-han der udfriede Abraham:
+//3 v22 Derfor sagde HERREN sådan til Jakobs hus,
 
->>Nu skal Jakob ikke mere blive til skamme, 
+//5 han der udfriede Abraham:
 
-og nu skal hans ansigt ikke mere blegne.
+//4 >>Nu vil Jakob ikke mere blive til skamme, 
 
-v23 For når han ser sine børn, 
+//6 og nu vil han ikke mere blive bleg i ansigtet.
+
+//5 v23 For 
+//7 når han ser sine børn, 
 
 mine hænders gerning, i sin midte, 
 
-så skal de hellige mit navn, 
+//6 så vil de hellige mit navn 
 
-og de skal hellige Jakobs Hellige 
+//8 og hellige Jakobs Hellige, 
 
-og de skal have ærefrygt for Israels Gud.
+//9 og de vil have ærefrygt for Israels Gud.
 
-v24 Og de der var forvildede i ånden, skal få indsigt, 
+//7 v24 Og de åndeligt{N: Ånd.} forvildede får indsigt, 
 
-og de der knurrede, skal tage imod belæring.<<
+//8 og de der brokkede sig, tager imod belæring.<<
+
+ 
+
+
 
 

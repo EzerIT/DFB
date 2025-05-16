@@ -1,151 +1,193 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 22===
 
 ==Ord mod Jerusalem==
-v1 Udsagn om Synernes Dal.{T: Dvs. Jerusalem, hvor profeterne havde mange syner.}
 
-Hvad er der dog med dig, siden du med alle dine er gået op på tagene?
+//0 v1 Udsagn om Synernes Dal.{H: Joel 4,14.}
 
-v2 Så fuld af råb, 
+//1 Hvad er der dog med dig, 
+//4 siden du med alle dine er gået op på tagene?
 
-du støjende by, 
+//3 v2 Så fuld af råb, 
+
+//4 du støjende by, 
 
 du jublende stad! 
 
-Dine dræbte er ikke dræbt med sværd 
+//5 Dine dræbte er ikke dræbt med sværd 
 
-og ikke døde i krig.
+//7 og ikke døde i krig.
 
-v3 Alle dine ledere er flygtet sammen, 
+//6 v3 Alle dine ledere er flygtet sammen, 
 
-uden bue er de fanget; 
+//8 uden bue er de fanget; 
 
-alle der befandt sig hos dig, 
+//7 alle der befandt sig hos dig, 
 
 er fanget sammen, 
 
-de var flygtet langt bort.
+//8 de var flygtet langt bort.
 
-v4 Derfor sagde jeg: >>Vend blikket fra mig, 
+//2 v4 Derfor sagde jeg: 
+//4 >>Vend blikket fra mig, 
 
-jeg må græde bittert;{T: Ordret: >>jeg må være bitter i min gråd<<.} 
+//6 jeg er bitter i min gråd 
 
-træng ikke ind på mig for at trøste mig 
+//5 træng ikke ind på mig 
+//6 for at trøste mig 
 
 over ødelæggelsen af mit folks datter.<<
 
-v5 For en dag med bestyrtelse og nedtrampning og forvirring
+//3 v5 For en dag med bestyrtelse og nedtrampning og forvirring
 
-er det for Herren, Hærskarers HERRE{N: Hærskarers} i Synernes Dal, 
+//6 er det for Herren, Hærskarers{N: Hærskarers} HERRE i Synernes Dal, 
 
-man bryder{E: Oversættelsen af *mᵊqarqar* (>>bryder ned<<) er usikker og omdiskuteret. Andre oversætter: >>laver spektakel<<, atter andre: >>udgraver en brønd<<.} mur{T: Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: >>larm<<.} ned, og der er skrig rettet hen mod bjerget.
+//8 man bryder en mur ned, og der er et skrig rettet hen mod bjerget.
 
-v6 Og Elam tog kogger op, 
+//7 v6 Og Elam tog kogger op,
 
-med bemandet{E: Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām*, >>Aram<<. Oversættelsen af denne linje bliver da: >>Aram med vogn, ryttere<<.} vogn, ryttere, 
+med bemandede{E: *ʔādām* (>>mands<<) kan rettes til *ʔᵃrām* (>>Arams<<) .} stridsvogne, ryttere, 
 
-og Kir tog dækket af sit skjold.
+//8 og Kir viste deres skjolde frem.
 
+//5 v7 Og så
 
-v7 Og det skete at dine udvalgte dale blev fulde af vogne, 
+//7 blev dine udvalgte dale fulde af vogne, 
 
-og rytterne tog opstilling mod porten.
+//8 og rytterne tog opstilling ved byporten.
 
-v8 Han afdækkede Judas værn, 
+//6 v8 Han fjernede Judas værn, 
 
-og på den dag så du hen 
+//4 og på den dag så du hen 
 
 til Skovhusets våben.
 
-v9 Og revnerne i Davidsbyens mur så I, de var mange,
+//7 v9 Og revnerne i Davidsbyens bymur så I, 
+//8 for der var mange af dem,
 
-og I samlede den nederste dams vand.
+//6 og I samlede den nederste dams vand.
 
-v10 I talte Jerusalems huse 
+//8 v10 I talte Jerusalems huse 
 
-og nedbrød husene for at befæste muren.
+//7 og nedbrød husene 
 
-v11 I anlagde et reservoir mellem de to mure 
+//9 for at befæste bymuren.
+
+//8 v11 I anlagde et reservoir mellem de to mure 
 
 til vandet fra den gamle dam, 
 
-men I så ikke op til ham der havde gjort det; 
+//9 men I så ikke op til ham der havde gjort det; 
 
-ham der havde planlagt det for lang tid siden, så I ikke efter.
+//10 og 
+//12 ham der havde planlagt det for lang tid siden, 
+//11 så I ikke efter.
 
-***
+  ***
 
-v12 Herren, Hærskarers HERRE,{N: Hærskarers} kaldte den dag 
+//5 v12 Herren, Hærskarers HERRE, kaldte den dag 
 
 til gråd og til klage 
 
-og til at klippe sig skaldet og til at binde sæk om sig.
+og til at klippe sig skaldet 
 
-v13 Men se, der er fryd og glæde, 
+//8 og tage sørgetøj på.
 
-man dræber okse og slagter får, 
+//7 v13 Men se, der er fryd og glæde, 
 
-man spiser kød og drikker vin: 
+//8 man dræber okse 
+//9 og slagter får, 
 
->>Lad os spise og drikke,{T: Ordret blot: >>at spise og at drikke<<. Men i sammenhængen opfattes det oftest som opfordring.} for i morgen skal vi dø!<<
+//8 man spiser kød 
+//10 og drikker vin: 
 
-v14 Men Hærskarers HERRE{N: Hærskarers} åbenbarede sig for mine ører: 
+//9 >>Lad os spise
 
->>Denne synd kan ikke sones for jer, før I dør!<< 
+//11 og drikke,{T: Ordret: >>spis og drik<<.}
 
-siger Herren Hærskarers HERRE.{N: Hærskarers}
+//10 for i morgen skal vi dø!<<
 
-==Ord mod forvalteren Shebna==
+//6 v14 Men Hærskarers HERRE åbenbarede sig tydeligt:{T: Ordret: >>for mine egne ører<<.} 
 
-v15 Så sagde Herren, Hærskarers HERRE:{N: Hærskarers} 
+//7 >>Denne synd kan ikke sones for jer, 
+//8 før I dør!<< 
 
->>Gå hen til denne forvalter, til Shebna, der er sat over huset, og sig til ham:{E: Ordene >>og sig til ham<< står ikke i den hebraiske tekst, men er underforstået.}
+//9 siger Herren Hærskarers HERRE.
 
-v16 Hvad har du her, og hvem har du her, 
+  ==Ord mod forvalteren Shebna==
 
-siden du har hugget en grav ud til dig her? 
+//0 v15 Så sagde Herren, Hærskarers HERRE: 
 
-Som en der får hugget sin grav ud højt oppe, 
+//1 >>Gå 
+//3 hen til denne forvalter, til Shebna, 
+//4 der er sat over paladset{N: Hus.} og sig:
 
-som en der får en bolig udhulet til sig i klippen!
+//2 v16 Hvad har du her, 
+//5 og hvem har du her, 
 
-v17 Se, HERREN vil slynge dig væk, 
+//4 siden du har hugget en grav ud til dig her?
 
-et langt kast, du mand, 
+//5 Som en der får hugget sin grav ud højt oppe, 
 
-og tager et fast greb i dig!
+//5 som en der får en bolig udhulet til sig i klippen!
 
-v18 Han skal fuldstændig krølle dig sammen til en sammenfiltret bylt, 
+//3 v17 Se, HERREN vil slynge dig væk, 
+
+et langt kast, 
+
+//7 stærke mand, 
+
+//6 og tage et fast greb i dig!
+
+//5 v18 Han vil fuldstændig krølle dig sammen 
+//7 til en sammenfiltret bylt, 
 
 en bold hen til et vidtstrakt land; 
 
-dér skal du dø, 
+//8 dér skal du dø, 
 
-og dér skal din æres vogne 
+//9 og dér skal dine herlige vogne 
 
-være en skændsel for din herres hus!
+blive til vanære for din herres hus!
 
-v19 Og jeg støder dig ned fra din stilling, 
+//6 v19 Jeg støder dig ned fra din stilling, 
 
-og han {T: Sandsynligvis kong Hizkija} vil styrte dig ned fra dit embede,
+//7 og han {T: Sandsynligvis kong Hizkija} vil styrte dig ned fra dit embede,
 
-v20 Og det skal ske på den dag, da vil jeg kalde på min tjener, på Eljakim, Hilkijas søn.
-v21 Og jeg vil klæde ham i din kjortel og binde dit bælte om ham og give din myndighed i hans hånd; og han skal være en far for Jerusalems indbyggere og for Judas hus.
-v22 Og jeg vil lægge nøglen til Davids hus på hans skulder, 
+//4 v20 Og så, på den dag, 
+//8 vil jeg kalde på min tjener, på Eljakim, Hilkijas søn.
 
-og hvad han lukker op, kan ingen lukke i, 
+//9 v21 Jeg vil klæde ham i din embedsdragt, 
+//7 binde dit bælte om ham 
+//9 og give din myndighed i hans hånd;{N: Hånd.} 
+//8 og han vil blive en far for Jerusalems indbyggere og for Judas hus.
+//9 v22 Jeg vil lægge nøglen til Davids hus{N: Hus} på hans skulder, 
 
-og hvad han lukker i, kan ingen lukke op.
+//10 og hvad han lukker op, 
+//12 kan ingen lukke i, 
 
-v23 Og jeg vil slå ham i som en nagle på et fast sted, 
+//11 og hvad han lukker i, 
+//12 kan ingen lukke op.
 
-så han bliver en ærestrone for sin fars hus.
+//6 v23 Jeg vil slå ham i som en nagle på et fast sted, 
 
-v24 Og de skal hænge på ham al hans fars hus’ herlighed, de høje og de lave efterkommere,{T: Oversættelsen her usikker. Andre oversætter: >>de ædle og de vilde skud<< eller: >>kvistene og bladene<<.} alle de små kar, både skålene og alle krukkerne.<<
+//7 så han bliver en ærestrone for sin fars hus.
 
-v25 >>På den dag,<< lyder Hærskarers HERRES{N: Hærskarers} udsagn, >>skal den nagle  der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for HERREN har talt.<<
+//8 v24 Og på ham vil de hænge al rigdommen fra hans fars familie,{N: Hus} de høje og de lave efterkommere,{T: Betydningen af *ṣᵊfîʕāʰ* (>>vilde skud<< eller >> bladene<<) er uklar.} alle de små kar, både skålene og alle krukkerne.<<
+
+//5 v25 >>På den dag,<< 
+//8 lyder Hærskarers HERRES udsagn, 
+//7 >>vil den nagle  
+//8 der sad på et fast sted, vige, 
+//6 og den brækkes af 
+//8 og falder ned, 
+//7 og det 
+//9 der hang på den, udslettes, 
+//8 for HERREN har talt.<<
+
+
 
 

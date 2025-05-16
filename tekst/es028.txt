@@ -1,263 +1,291 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 28===
 
 ==Domsprofeti over Samaria og Jerusalem== 
-v1 Ve stoltheds krone, 
 
-Efraims berusede, 
+//0 v1 Ve den pragtfulde krone, 
 
- og en visnet blomst er dens prægtige prydelse
+Efraims berusede! 
 
-på højden{T: Kan også oversættes: >>hovedet<<.} over en frugtbar{T: Ordret: >>fede<<. Ordene: >>frugtbar dal<< slettes af en del fortolkere her (jf. vers 4) som forstyrrende i både rytme og mening. Ordene findes dog her i alle håndskrifter.} dal, 
+//1 En visnet blomst er dens prægtige prydelse
 
-fuld af dem som er slået omkuld af vin!
+//5 på en bjergtop over en frugtbar dal, 
 
-v2 Se, Herren har en stærk og mægtig, 
+//4 fuld af dem som er slået omkuld af vin!
 
-der som skybrud af hagl, 
+//3 v2 Se, Herren har en stærk og mægtig, 
 
-som en ødelæggende storm, 
+//5 der som skybrud af hagl, 
 
-som et skybrud af mægtige, oversvømmende vande, 
+ som en ødelæggende storm, 
 
-kaster den{T: Kronen (vers 1).} til jorden med magt.
+ som et skybrud af mægtige, oversvømmende vande, 
 
-v3 Under fødder skal den trædes ned, 
+ kaster den til jorden med magt.
 
-Efraims berusedes stoltheds krone.
+//6 v3 Den vil blive trådt under fode, 
 
-v4 Og hans prægtige smykke, 
+den pragtfulde krone som Efraims berusede har.
+
+//7 v4 Og hans prægtige smykke, 
 
 en falmet blomst, 
 
-der står på højden over en frugtbar dal, 
+//9 der står på bjergtoppen over den frugtbare dal, 
 
-skal blive som en figen der er tidligt moden 
+//8 vil blive som en figen der er tidligt moden 
 
 inden høsten, 
 
-som én får øje på 
+//9 som én får øje på, 
 
-og sluger mens den endnu er i hans hånd.
+//11 og mens den endnu er i hans hånd, 
+//10 sluger han den.
 
-v5 På den dag skal Hærskarers HERRE{N: Hærskarers} blive 
+//4 v5 På den dag vil Hærskarers{N: Hærskarers} HERRE blive 
 
-til en herlig krone og en prægtig krans 
+til en vidunderlig krone og en pragtfuld krans 
 
 for sit folks rest,
 
-v6 og til rettens Ånd 
+//5 v6 og til en rettens Ånd 
 
-for den der sidder i domstolen, 
+//7 for den der sidder i domstolen, 
 
-og til styrke for dem der driver krigen tilbage til porten.{T: Dvs. driver fjenden ud af byen.}
+//6 og til styrke 
+//7 for dem der slår angreb tilbage henne ved byporten.
 
-***
+ ***
 
-v7 Men også de dingler af vin 
+//2 v7 Men også de dingler af vin 
 
-og vakler rundt af berusende drik; 
+//5 og vakler rundt på grund af øl: 
 
-præst og profet dingler af berusende drik, 
+//4 præst og profet dingler af øl, 
 
-de er forvirrede på grund af vin, 
+//6 de er forvirrede på grund af vin, 
 
-de vakler rundt på grund af berusende drik,
+//6 de vakler rundt på grund af øl,
 
-de dingler når de har et syn, 
+//6 de dingler når de har et syn, 
 
-de raver rundt ved domsforkyndelse.
+//7 de raver rundt ved domsforkyndelse.
 
-v8 For alle borde er fulde af ulækkert bræk; 
+//5 v8 For alle borde er fulde af ulækkert bræk, 
 
-der er ikke én ren plet.{T: Ordret: >>uden en plads<<.}
+uden plads til noget andet. 
 
-v9 Hvem skal han lære kundskab? 
+//3 v9 Hvem kan han lære kundskab? 
 
-Og hvem skal han få til at forstå et budskab? 
+//7 Og hvem kan han få til at forstå et budskab? 
 
+//6 Er det dem der er vænnet fra mælken, 
 
-Er det dem der er vænnet fra mælk, 
+//8 dem der er taget fra brystet?
 
-dem der er taget fra brystet?{E: Den hebraiske tekst har dualis.}
+//7 v10 For >>Savlasav, 
+//9 savlasav,
 
-v10 For >>Savlasav, savlasav,
+//8 kavlakav, 
+//10 kavlakav,{T: Her er de hebraiske ord blot gengivet. Det er stærkt omdiskuteret om de gengiver fulde menneskers eller små børns vrøvl, eller om de muligvis skal oversættes: >>forskrift efter forskrift, målesnor efter målesnor<<.}
 
-kavlakav, kavlakav,{E: Her er de hebraiske ord blot gengivet. Det er stærkt omdiskuteret, om de gengiver fulde menneskers eller små børns vrøvl, eller de muligvis skal oversættes: >>forskift efter forskift, målesnor efter målesnor<<.}
+//9 lidt her, 
+//10 lidt der.<<
 
-lidt her, lidt der.<<
+ ***
 
-***
+//5 v11 For med stammende udtale 
 
-v11 Ja, med stammende læbe 
+og på fremmede sprog 
 
-og med fremmed sprog 
+vil han tale til dette folk.
 
-skal han tale til dette folk.
+//7 v12 Da han sagde til dem: 
 
-v12 Da han sagde til dem: 
+//8 >>Her er der ro, 
 
->>Her er der ro, 
+//10 lad den trætte hvile, 
 
-lad den trætte hvile, 
+//9 her er hvilested,<< 
 
-her er hvilested,<< 
+//10 var de ikke villige 
+//11 til at lytte.
 
-var de ikke villige til at lytte.
+//6 v13 Så vil HERRENS ord for dem da blive:
 
-v13 Så bliver HERRENS ord for dem da:
+//8 >>Savlasav, 
+//9 savlasav,
 
->>Savlasav, savlasav,
+//8 kavlakav, 
+//10 kavlakav,
 
-kavlakav, kavlakav,
+//9 lidt her, 
+//10 lidt der,<<
 
-lidt her, lidt der,<<
+//7 for at de skal gå 
+//8 og snuble bagover 
 
-for at de skal gå og snuble bagover 
+//9 og kvæstes, 
+//9 falde i en snare 
+//9 og tages til fange.
 
-og kvæstes og falde i en snare og tages til fange.
+ ***
 
-***
+//4 v14 Hør derfor HERRENS ord, 
 
-v14 Hør derfor HERRENS ord, 
+//6 I spottere, 
 
-I spottere, 
+//7 der hersker over dette folk, 
 
-der hersker over dette folk, 
+//8 som er i Jerusalem! 
 
-som er i Jerusalem! 
+//5 v15 Fordi I sagde: 
 
-v15 Fordi I sagde: 
+//7 >>Vi har sluttet en pagt med døden 
 
->>Vi har sluttet en pagt med døden 
+//9 og indgået en kontrakt med dødsriget; 
 
-og lavet et forbund med dødsriget; 
+//8 en flodbølge vil, 
 
-en flodbølge,{T: Oversættes af andre: >>en svungen svøbe<<.} når den farer forbi, 
+//11 når den farer forbi,{T: Alternativt: >>en svungen svøbe<<.}  
 
-skal den ikke nå os; 
+//10 ikke nå os, 
 
-for vi har gjort løgn til vores tilflugt, 
+//9 fordi vi har gjort usandhed til vores tilflugt, 
 
-og vi skjuler os i falskhed.<<
+//10 og vi skjuler os i løgn.<<
 
-v16 Derfor, sådan sagde Herren HERREN: 
+//6 v16 Derfor, sådan har Herren HERREN sagt: 
 
->>Se, jeg lægger{E: Den masoretiske tekst har: >>Se mig, der lægger …<<. Men man følger oftest bl.a. Septuaginta} som grundvold i Zion en sten, 
+//8 >>Se, jeg lægger som grundvold i Zion en sten, 
 
 en prøvet sten, 
 
 en kostbar hjørnesten, 
 
-fast grundlagt. 
+fast funderet. 
 
-Den der tror, haster ikke.<< {T: Den græske oversættelse har: >>skal ikke blive til skamme.<<}.
+//12 Den der tror, 
+//11 haster ikke.<< {T: LXX har: >>skal ikke blive til skamme.<<}
 
-v17 Og jeg vil sætte ret som målesnor 
+//10 v17 Og jeg vil sætte ret som målesnor 
 
-og retfærdighed som lodline, 
+//13 og retfærdighed som lodline, 
 
-og hagl skal drive løgnens tilflugtssted bort 
+//12 og hagl vil drive usandhedens tilflugtssted bort 
 
-og vande skylle over skjulet.
+//13 og vande skylle over skjulet.
 
-v18 Jeres pagt med døden skal ophæves,{E: *xuppar*. Ordret: >>skal sones<<, dette ene sted går man dog ud fra oversættelsen: >>skal ophæves<<. Man vælger at følge Targum:  *tufar*: >>brydes/ophæves<<.}
+//11 v18 Jeres pagt med døden ophæves,{T: Ordret: >>tildækkes<<.}
 
-og jeres forbund med dødsriget skal ikke bestå;
+//12 og jeres forbund med dødsriget{N: Sheol} vil ikke bestå;
 
-en flodbølge,{T: Oversættes af andre: >>en svungen svøbe<<.} når den farer forbi,   
+//9 en flodbølge,  
 
- så bliver I trampet ned af den.
+//12 når den farer forbi,{H: Es 28,15}   
 
-v19 Hver gang den farer forbi, 
+//11 så bliver I til nedtrampet jord.
 
-skal den tage jer med; 
+//11 v19 Hver gang den farer forbi, 
 
-for den skal fare forbi hver morgen, 
+//10 griber den jer; 
+
+//12 for den vil fare forbi hver morgen, 
 
 om dagen og om natten; 
 
-og det skal være en rædsel bare at forstå budskabet.
+//13 og det skal være en rædsel 
+//14 bare at forstå budskabet,
 
-***
+//11 v20 for sengen er for kort 
+//13 til at strække sig ud, 
 
-v20 For sengen er for kort til at strække sig ud, 
+//12 og tæppet er for smalt, 
+//13 når man vil dække sig til.
 
-og tæppet er for smalt, når man vil dække sig til.
+ ***
 
-v21 For som ved Perasims bjerg
+//7 v21 For som ved Perasims bjerg 
 
 rejser HERREN sig,
 
-harm som i dalen ved Gibeon, 
+//9 raser som i dalen ved Gibeon, 
 
-for at gøre sin gerning 
+//10 for at gøre sin gerning 
 
-– fremmed er hans gerning! 
+//12 – fremmed er hans gerning! 
 
-Og for at udføre sit værk 
+//11 Og for at udføre sit arbejde 
 
-– fremmedartet er hans værk!
+//12 – fremmedartet er hans arbejde!
 
-v22 Og nu, hold op med at spotte 
+//8 v22 Og nu, lad være med at spotte 
 
-så at jeres lænker ikke skal blive strammere; 
+//10 så at jeres lænker ikke skal blive strammere; 
 
-for en ødelæggelse og en beslutning har jeg hørt om 
+//9 for en ødelæggelse og en beslutning har jeg hørt om 
 
-fra Herren, Hærskarers HERRE,{N: Hærskarers} 
+fra Herren, Hærskarers HERRE, 
 
-angående hele jorden.
+angående hele jorden.{N: Jord.}
 
-***
+ ***
 
-v23 Lyt og hør min stemme, 
+//4 v23 Lyt 
+//5 og hør min stemme, 
 
-giv agt og hør min tale!
+//4 lyt nøje efter 
+//6 og hør min tale!
 
-v24 Mon det er hele dagen 
+//5 v24 Mon den der pløjer, vil pløje hele dagen 
 
-bonden{T: Ordret: >>han der pløjer<<.} pløjer for at så, 
+//9 for at så; 
 
-vender og harver sin jord?
+//8 vil han blive ved med at vende 
+//9 og harve sin jord?
 
-v25 Er det ikke sådan at når han har jævnet dens overflade, 
+//7 v25 Er det ikke snarere sådan 
+//8 at når han har jævnet dens overflade, 
 
-så spreder han dild og strør kommen 
+//9 så spreder han dild 
+//10 og strør kommen
 
-og sår hvede i rækker 
+//11 han sår hvede i rækker 
 
-og byg på det afmærkede sted 
+//12 og byg på den afmærkede jord 
 
-og spelt på dets kant?
+//13 og spelt i dens kanter?
 
-v26 For han underviser ham om den rigtige måde, 
+//6 v26 For han er vejledt i hvordan han skal bære sig ad, 
 
-hans Gud lærer ham den.
+//7 hans Gud lærer ham det.
 
-v27 Ja, dild tærskes ikke med tærskeslæde, 
+//9 v27 For dild tærskes ikke med tærskeslæde, 
 
-og vognhjul køres ikke hen over kommen; 
+//11 og vognhjul køres ikke hen over kommen; 
 
-men dild slås af med stav og kommen med kæp.
+//10 men dild slås af med stav 
+//11 og kommen med kæp.
 
-v28 Brødkorn stødes småt,{T: Andre opfatter linjen som spørgsmål: >>Knuser man brødkorn?<<} 
+//8 v28 Brødkorn skal stødes småt,{T: Kan være et spørgsmål: >>Knuser man brødkorn?<<} 
 
-men ikke for evigt; 
+//11 for man kan ikke for evigt tærske løs på dem,  
 
-og driver man sin vogns hjul og sine heste hen over det, 
+//10 og lader man sin vogns hjul og sine heste køre hen over dem, 
 
-knuser man det ikke.
+//11 får man dem ikke knust.
 
-***
+ ***
 
-v29 Også dette kommer fra Hærskarers HERRE,{N: Hærskarers} 
+//9 v29 Også dette kommer fra Hærskarers HERRE, 
 
-han giver forunderlige råd 
+//10 han giver forunderlige råd, 
 
-han har stor visdom.
+//10 han har stor visdom.
+
+
 
 

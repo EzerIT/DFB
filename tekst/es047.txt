@@ -1,159 +1,186 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 47===
 
-v1 Stig ned og sæt dig i støv, 
+//0 v1 Stig ned 
+//4 og sæt dig i støv, 
 
-jomfru, Babylons datter! 
+//3 jomfru, du Babylondatter! 
 
-Sæt dig på jorden, der er ingen trone, 
+//2 Sæt dig på jorden, 
+//5 der er ingen trone, 
 
-kaldæernes datter! 
+//4 kaldæernes datter! 
 
-For du skal ikke fortsætte med at de kalder dig: 
+//3 For du skal ikke fortsætte med at 
+//4 de kalder dig: 
 
 >>sart<< og >>forkælet.<<
 
-v2 Tag håndkværnen{T: Ordret: >>de to kværnsten<<.} og mal mel; 
+//1 v2 Tag håndkværnen 
+//2 og mal mel; 
 
-fjern dit slør, 
+//1 fjern dit slør, 
 
-tag slæb væk, blot ben, 
+//1 tag slæbet af, 
+//1 blot lårene, 
 
-vad gennem floder!
+//1 vad gennem floderne!
 
-v3 Lad din nøgenhed blive blottet, 
+//3 v3 Lad din nøgenhed blive blottet, 
 
-lad også din skam blive set. 
+//4 lad også din skam blive set. 
 
-Jeg vil tage hævn, 
+//2 Jeg vil tage hævn, 
 
-og jeg vil ikke komme et menneske imøde.{T: For at skåne det.}
+//4 og jeg vil ikke komme et menneske i møde.
 
-v4 Vores forløser,{E: Mange oversættere følger Septuaginta der forudsætter at *ʔādām*: >>et menneske<< (vers 3) skulle have været: *ʔāmar*: >>siger<< og høre til vers 4, så vers 4 skal begynde: >>siger vores forløser<<.} Hærskarers HERRE{N: Hærskarers} er hans navn, 
+//3 v4 Vores løser,{T: Eller >>løskøber<< jf. 3 Mos 25,25. Ruth 2,20.} {E: Ud fra Septuaginta kan *ʔādām* (>>et menneske<<) i vers 3 rettes til *ʔāmar* (>>han sagde<<), dvs. >>vores løskøber har sagt<<.} 
+//4 Hærskarers{N: Hærskarers} HERRE er hans navn, 
 
-Israels Hellige.
+//5 Israels Hellige.
 
-***
+ ***
 
-v5 Sæt sig i tavshed, og gå ind i mørket, 
+//0 v5 Sæt dig i tavshed, 
+//5 og gå ind i mørket, 
 
-kaldæernes datter! 
+//4 kaldæernes datter! 
 
-For du skal ikke fortsætte med at de kalder dig:
+//3 For du skal ikke fortsætte med at 
+//4 de kalder dig: 
 
 >>Kongerigers herskerinde<<.
 
-***
+ ***
 
-v6 Jeg var vred på mit folk, 
+//2 v6 Jeg var vred på mit folk, 
 
-jeg vanhelligede min ejendom 
+//2 jeg vanhelligede den jord jeg gav dem i arv,
 
-og gav dem i din hånd; 
+//3 og gav dem i din magt;{N: Hånd} 
 
-du viste dem ikke barmhjertighed, 
+//4 du viste dem ikke barmhjertighed, 
 
-på en olding gjorde du dit åg meget tungt.
+//6 på en olding gjorde du dit åg meget tungt.
 
-v7 Du sagde: >>Til evig tid 
+//5 v7 Du sagde: 
+//7 >>Til evig tid skal jeg være herskerinde <<,
 
-skal jeg være herskerinde altid.<<{E: Det hebraiske ord: *ʕad* (>>altid<<), der har mange nuancer, er omdiskuteret i sammenhængen. De skriftlærdes accent har knyttet det til næste linje der så skal begynde: >>Så du …<<. Men det foregående ords konsonantform knytter det til denne linje.}  
+//6 så du ikke{E: I stedet for denne betydning af konjunktionen *ʕad* (>>indtil<<) kan ordet opfattes som et adverbium i betydningen >>altid<< og en ekstra tilføjelse til citatet.} fik lagt disse ting på dit hjerte,
 
-Du har ikke lagt disse ting på dit hjerte, 
+//7 du har ikke tænkt over enden på det.
 
-du har ikke tænkt over enden på det.
+ ***
 
-***
+//1 v8 Så 
+//2 hør nu dette, 
+//4 du vellystige, 
 
-v8 Så hør nu dette, du vellystige, 
+//5 som sidder i tryghed, 
 
-som sidder i tryghed, 
+//6 som siger i dit hjerte: 
 
-som siger i dit hjerte: 
+//7 >>Jeg, 
+//9 og ingen anden! 
 
->>Jeg, og ingen anden! 
+//8 Jeg vil ikke sidde som enke 
 
-Jeg skal ikke sidde som enke 
+//9 og ikke kende til barnløshed!<<
 
-og ikke kende barnløshed!<<
-
-v9 Men disse to ting skal komme over dig, 
+//3 v9 Men disse to ting skal komme over dig, 
 
 pludselig, på én dag: 
 
-Barnløshed og enkestand; 
+ Barnløshed og enkestand; 
 
-i deres fulde mål kommer de over dig 
 
-på grund{T: Oversættes af andre: >>på trods af<<.} af dine mange trolddomskunster, 
 
-den store mængde af dine besværgelser.
+//5 i deres fulde mål kommer de over dig 
 
-v10 Du satte din lid til din ondskab, du sagde: 
+ på grund{T: Eller: >>på trods af<<.} af dine mange trolddomskunster, 
 
->>Der er ingen, der ser mig.<< 
+ den store mængde af dine besværgelser.
 
-Din visdom og din kundskab, de har forført dig, 
+//6 v10 Du satte din lid til din ondskab, 
+//8 du sagde: 
 
-og du sagde i dit hjerte: >>Jeg, og ingen anden!<<
+//9 >>Der er ingen der ser mig.<< 
 
-v11 Men der kommer ulykke over dig, 
+//7 Din visdom og din kundskab, 
+//9 de har forført dig, 
 
-du vil ikke kende dens oprindelse,{E: Verbet: *šḥr* er omdiskuteret. Det betyder oftest: >>søge/længes efter<<. Det er dog vanskeligt i sammenhængen her hvorfor man her i stedet forbinder det med *šaḥar*: >>morgenrøde<< så oversættelsen bliver som valgt her. Atter andre forbinder det med et arabisk ord så der skal oversættes: >>(du vil ikke vide) at trylle den væk<<.} 
+//8 og du sagde i dit hjerte: 
+//9 >>Jeg, 
+//10 og ingen anden!<<
 
-og ødelæggelse vil falde over dig, 
+//4 v11 Men der kommer ulykke over dig, 
 
-du vil ikke kunne sone den,{T: Afvende den med et sonoffer.} 
+//6 du vil ikke vide
+//7 at trylle den væk,
 
-og over dig vil der pludselig komme 
+//5 og ødelæggelse vil falde over dig, 
 
-en undergang du ikke ved af.
+//6 du vil ikke kunne 
+//7 sone den; 
 
-v12 Stå nu frem med{T: Kan også oversættes: >>Hold nu fast ved<<.} dine besværgelser 
+//5 og over dig vil der pludselig komme 
+
+en undergang 
+//6 du ikke ved af.
+
+//2 v12 Stå nu frem med dine besværgelser 
 
 og dine mange trolddomskunster 
 
-som du har anstrengt dig med fra din ungdom; 
+//6 som du har slidt dig træt med fra din ungdom; 
 
-måske kan du opnå noget, 
+//5 måske kan du 
+//6 opnå noget, 
 
-måske kan du indgyde frygt.
+//5 måske kan du skabe frygt.
 
-***
+ ***
 
-v13 Du har udmattet dig med dine mange råd; 
+//4 v13 Du er blevet udmattet af dine mange råd; 
 
-lad nu dem stå frem 
+//3 lad nu dem stå frem 
 
-og hjælpe dig, de der gransker{E: Det er omdiskuteret om grundbetydningen verbet *hvr* her er: >>opdeler<< eller: >>tilbeder<<.} himlen, 
+//5 og hjælpe dig, 
+//7 de der gransker himlen, 
 
-de der kigger efter stjernerne, 
+//8 de der kigger efter stjernerne, 
 
-de der for hver måned meddeler, 
+//9 de der for hver måned meddeler, 
 
-hvad der skal komme over dig.
+//6 hvad der skal komme over dig.
 
-v14 Se, de er som strå, 
+//4 v14 Se, de er som strå, 
 
-ild brænder dem op, 
+//7 ild brænder dem op, 
 
-de kan ikke redde deres sjæl{T: Dvs. sig selv.} 
+//6 de kan ikke redde sig selv{N: Sjæl.} 
 
-fra en flammes magt; 
+ fra flammens magt;
 
-der er ingen glødende kul til at varme sig ved,
+//7 der er ingen glødende kul 
+//9 til at varme sig ved,
 
-ingen ild at sidde overfor.
+//8 ingen ild 
+//9 at sidde overfor.
 
-v15 Sådan er de for dig, dem som du har anstrengt dig med, 
+//5 v15 Sådan er de blevet for dig, 
+//7 dem som du har slidt dig træt med, 
 
-dem du har handlet med{T: Andre oversætter: >>færdedes med<<.} fra din ungdom af, 
+//8 dem du har handlet med fra din ungdom af, 
 
-hver farer vild i sin egen retning, 
+//7 i hver sin retning 
+//6 farer enhver forvildet rundt , 
 
-der er ingen der frelser dig. 
+//7 der er ingen der frelser dig. 
+
+
 
 

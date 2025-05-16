@@ -1,102 +1,128 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.11.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 46===
 
 ==Babylons fald==
-v1 Bel synker i knæ, Nebo synker sammen, 
 
-deres gudebilleder er på de vilde dyr{E: Grundteksten har singularis der må opfattes kolletivt. *ḥayyāʰ* betegner dyr i bred forstand og oversættes her ofte: >>lastdyrene<<.} og kvæget; 
+//0 v1 Bel er faldet på knæ, 
+//4 Nebo væltet omkuld, 
 
-det I bar på, læsses op som byrde på de trætte dyr.
+//3 deres gudebilleder er på trækdyrene{T: Ordret: >>til de vilde dyr<<.} og kvæget; 
 
-v2 De synker sammen, de synker alle i knæ, 
+//4 det I bar på, læsses op som byrde på de trætte dyr.
 
-de kan ikke redde byrden; 
+//2 v2 De er bøjet sammen, er faldet på knæ alle sammen, 
 
-men de må selv gå i fangenskab.{T: Ordret: >>deres sjæl må gå i fangenskab<<.}
+//4 de kan ikke 
+//3 redde byrden; 
 
-***
+//5 men de må selv{N: Sjæl} gå i fangenskab.
 
-v3 Hør på mig, Jakobs hus, 
+//4 ***
 
-og hele resten af Israels hus 
+//1 v3 Hør på mig, 
+//4 Jakobs hus, 
 
-der er løftet op fra moders skød, 
+//6 og hele resten af Israels hus 
 
-der er båret fra moders liv!
+//5 der er løftet op fra mors skød, 
 
-v4  Indtil alderdommen er jeg den samme,{T: Ordret: >>er jeg Ham<<, se note til 41,4.} 
+//7 der er blevet båret helt fra mors liv!
 
-og indtil de grå hår bærer{E: Verbet *sbl* bruges kun ganske få gange i GT, om tung last, synd og smerte.} jeg; 
+//6 v4 Indtil alderdommen er jeg den samme,{H: Es 41,4.} 
 
-jeg har gjort det, og jeg vil bære, 
+//7 og indtil de grå hår vil jeg bære; 
 
-og jeg vil løfte op og redde.
+//3 det er mig der har gjort det, 
+//5 og mig der vil bære, 
 
-***
+//5 og jeg vil bære
+//6 og redde.
 
-v5 Med hvem vil I sammenligne mig og stille mig lige med, 
+ ***
 
-og hvem vil I måle mig med så vi skulle være ligemænd?
+//4 v5 Med hvem vil I sammenligne mig 
+//7 og stille mig lige med, 
 
-v6 De ryster guld ud af pungen 
+//6 og hvem vil I måle mig med 
+//7 så vi skulle ligne hinanden?
 
-og vejer sølv af på vægten, 
+//6 v6 De ryster guld ud af pungen 
 
-de hyrer en guldsmed, og han laver det til en gud, 
+//7 og vejer sølv af på vægten, 
 
-de bøjer sig og tilbeder den også.
+//5 de hyrer en guldsmed, 
+//6 og han laver det til en gud, 
 
-v7 De løfter den op på skulderen, de bærer den, 
+//5 de bøjer sig, 
+//7 ja, de tilbeder den endda!
 
-og de sætter den på dens plads; og den står, 
+//6 v7 De løfter den op på skulderen, 
+//7 de bærer den, 
 
-den flytter sig ikke fra sit sted; 
+//8 og de sætter den på dens plads;
 
-selv om nogen råber til den, svarer den ikke, 
+//9 og den bliver stående,
 
-den frelser ikke nogen af hans nød.
+//11 den flytter sig ikke fra sit sted; 
 
-***
+//10 ja, selv om man råber til den, 
+//12 svarer den ikke, 
 
-v8 Husk dette, og mand jer op! 
+//11 den frelser ikke nogen fra hans nød.
 
-Tag det til hjerte, I overtrædere!
+ ***
 
-v9 Husk de tidligere ting fra gammel tid; 
+//2 v8 Husk dette, 
+//3 og mand jer op! 
 
-for jeg er Gud, og der er ingen anden, 
+//2 Tag dette, 
+//5 I overtrædere, 
+//4 til hjerte!
 
-jeg er{T: Ordene: >>jeg er<< er underforstået fra foregående linje.} Gud, og der er ingen som mig
+//3 v9 Husk de tidligere ting fra gammel tid; 
 
-v10 der fra begyndelsen forkynder enden 
+//4 for jeg er Gud, 
+//7 og der er ingen anden, 
 
-og fra gammel tid ting der ikke er sket endnu, 
+//8 og ingen anden som mig
 
-der siger: >>Min plan skal bestå, 
+//6 v10 der fra begyndelsen forkynder enden, 
 
-og alt det jeg ønsker, vil jeg gøre,<<
+//8 og fra gammel tid 
+//9 hvad der ikke er sket endnu, 
 
-v11 der kalder en rovfugl fra Østen, 
+//7 der siger: 
+//9 >>Min plan skal bestå, 
 
-fra et fjernt land en mand der udfører hans plan;{T: Ordret: >>hans plans mand<<.} 
+//10 og alt det jeg ønsker, vil jeg gøre,<<
+//8 v11 der kalder en rovfugl fra Østen, 
 
-jeg har både sagt det og vil lade det ske, 
+//9 fra et fjernt land en mand der udfører hans plan; 
 
-jeg har lagt plan, jeg vil også udføre det.
+//5 ja, jeg har sagt det
 
-v12 Hør på mig, I overmodige,{T: Ordret: >>med stærkt hjerte<<.} 
+//7 og ja, jeg vil også lade det ske, 
 
-der er langt fra retfærdighed!
+//6 jeg har formet den, 
+//7 jeg vil også udføre den.
 
-v13 Jeg bringer min retfærdighed nær, den skal ikke være langt borte, 
+//1 v12 Hør på mig, 
+//3 I overmodige,{N: Hjerte}
 
-og min frelse tøver ikke; 
+//4 der er langt væk fra retfærdighed!
 
-og jeg vil give frelse i Zion, 
+//2 v13 Jeg har bragt min retfærdighed nær, 
+//5 den vil ikke være langt borte, 
+
+//4 og min frelse forsinkes ikke; 
+
+//3 og jeg vil give frelse i Zion, 
 
 min herlighed til Israel.
+
+
 
 

@@ -259,16 +259,7 @@ $style['sl'][137] = $modenhed['med indrykning'];
 
 $style['ordsp']   = $modenhed['ufuldstændigt'];
 $style['præd']    = $modenhed['ufuldstændigt'];
-
-$es_uden_indrykning = [21,22,23,28,29,
-                       30,
-                       46,47];
-   
-for ($k=1; $k<=66; ++$k)
-    $style['es'][$k] = $modenhed['med indrykning'];
-
-foreach ($es_uden_indrykning as $k)
-    $style['es'][$k] = $modenhed['uden indrykning'];
+$style['es']      = $modenhed['med indrykning'];
 
 $style['jer'][ 1] = $modenhed['uden indrykning'];
 $style['jer'][ 2] = $modenhed['uden indrykning'];

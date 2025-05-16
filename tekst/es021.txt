@@ -1,152 +1,167 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 13.04.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
 
 ===Esajas' Bog, kapitel 21===
 
 ==Ord mod Babylonien==
-v1 Udsagn om ørkenen ved havet{T: Dvs. Babylon, v 9}. 
 
-Ligesom hvirvelvinde farer forbi i Sydlandet,{T: Ordret: >>i Negev<<.} 
+//0 v1 Udsagn om ørkenen ved havet.{T: Dvs. Babylon, vers 9.} 
 
-kommer det fra ørkenen, 
+//1 Ligesom hvirvelvinde farer forbi i Sydlandet,{T: Ordret: >>i Negev<<.} 
 
-fra det forfærdelige land.
+//3 kommer det fra ørkenen, 
 
-v2 Et hårdt syn er forkyndt mig: 
+//2 fra et forfærdeligt land.
 
-Den troløse handler troløst, 
+//3 v2 Et hårdt syn er forkyndt mig: 
 
-og voldsmanden øver vold. 
+//7 Den troløse handler troløst, 
 
-Drag op, Elam! 
+//8 og voldsmanden øver vold. 
 
-Belejr, Medien! 
+//6 Drag op, 
+//8 Elam! 
 
-Ethvert af hendes suk gør jeg ende på.
+//7 Indled belejring, 
+//8 Medien! 
 
-v3 Derfor er mine lænder fulde af krampesmerter, 
+//5 Ethvert af dets suk gør jeg ende på.
 
-veer er kommet over mig 
+//7 v3 Derfor er mine lænder fulde af kramper, 
+
+//8 veer er kommet over mig 
 
 som en fødendes veer; 
 
-jeg vrider mig så jeg ikke kan høre, 
+//9 jeg vrider mig 
+//11 så jeg ikke kan høre, 
 
-jeg er forfærdet så jeg ikke kan se.
+//10 jeg er forfærdet 
+//11 så jeg ikke kan se.
 
-v4 Mit hjerte er faret vild, 
+//6 v4 Mit hjerte er fortumlet, 
 
-gru har overvældet mig, 
+//7 gru har overvældet mig, 
 
-skumringen jeg længtes efter, 
+//8 skumringen jeg længtes efter, 
 
-er blevet gjort til rædsel for mig.
+har han gjort til rædsel for mig.
 
-v5 Man dækker bordet, 
+//4 v5 Man dækker bord, 
 
-man breder tæppet ud,{T: Tidligere oversat: >>vagten holder vagt<<. Der er tale om to ensskrevne verber og deraf afledte substantiver.} 
+//7 man lægger hynder ud, 
 
-man spiser, man drikker. 
+//6 man spiser, 
+//6 man drikker. 
 
->>Rejs jer, ledere, 
+//5 >>Rejs jer, 
+//6 ledere, 
 
-salv skjold!<<
+//5 I skal salve jeres skjold med olie!<<
 
-***
+ ***
 
-v6 For sådan har HERREN sagt til mig: 
+//6 v6 For sådan har HERREN sagt til mig: 
 
->>Gå, sæt vagtposten ud, 
+//8 >>Gå, 
+//8 sæt en vagtpost ud, 
 
-som skal melde, hvad han ser!
+//10 hvad han ser, 
 
-v7 Og ser han en stridsvogn, 
+//9 skal han melde!
 
-med et par heste for,{T: Kan også oversættes: >>med et par ryttere<<.} 
+//10 v7 Og ser han en kolonne af ryttere to og to, 
 
-æselryttere,{T: Kan også oversættes: >>vogn trukket af æsel<<.} 
+æselryttere,  
 
-kamelryttere,{T: Kan også oversættes: >>vogn trukket af kamel<<.} 
+og kamelryttere, 
 
-så skal han lytte opmærksomt, 
+//11 så skal han lytte opmærksomt, 
 
 meget opmærksomt.<<
 
-v8 Og han skal råbe som en løve:{E: Ofte går man ud fra at *ʔaryēʰ* (>>løve<<) må være en skrivefejl for: *harōʔeʰ*: >>udkigsmand<<. Det har dog ingen støtte i manuskripterne.} 
+//12 v8 Og råbte han 
+//13 som en løve:{E: Ofte rettes til *harōʔeʰ*: >>udkigsmand<<. } 
 
->>På vagt, Herre, 
+//14 >>På vagt, 
+//17 Herre, 
 
-står jeg 
+//16 står jeg 
 
 altid om dagen, 
 
-og på min vagtpost
+//17 og på min vagtpost 
 
-står jeg 
+stiller jeg mig 
 
 hver nat.<<
 
-v9 Og se, da kom der 
+//15 v9 Og se, da kom der 
 
 en vogn med en mand, 
 
-med et par heste for.{T: Kan også oversættes: >>med et par ryttere<<.}
+med et par heste for.
 
-Han erklærede: >>Faldet,
+//12 Han reagerede 
+//12 og sagde: 
+//13 >>Faldet,
 
-Babylon er faldet, 
+//14 Babylon er faldet, 
 
-og dens gudebilleder 
+//15 og alle dens gudebilleder 
 
 er knust til jorden!<<
 
-v10 Du, min tærskede,{T: Dvs. det mishandlede jødiske folk.} 
+//7 v10 Du, min tærskede i{T: Ordret >>og søn af<<.} min lo!
 
-og søn af min tærskeplads! 
-
-Det jeg har hørt fra Hærskarers HERRE{N: Hærskarers}, 
+//9 Det jeg har hørt fra Hærskarers{N: Hærskarers} HERRE, 
 
 Israels Gud, 
 
-har jeg meddelt jer.
+//8 har jeg forkyndt.
 
-==Ord mod Edom==
-v11 Udsagn om Duma.{T: Dvs. Edom. Jer 49,7} 
+ ==Ord mod Edom==
 
-Der er en der råber til mig fra Se’ir: 
+//0 v11 Udsagn om Duma.{T: Dvs. Edom. Jer 49,7} 
 
->>Vægter, hvad er der tilbage af natten? 
+//1 Der er en der råber til mig fra Se’ir: 
 
-Vægter, hvad er der tilbage af natten?<<
+//3 >>Vægter, 
+//4 hvad er der tilbage af natten? 
 
-v12 Vægteren siger: 
+//3 Vægter,
+//4 hvad er der tilbage af natten?<<
 
->>Der kommer morgen, 
+//2 v12 Vægteren siger: 
 
-men også nat. 
+//3 >>Der kommer morgen, 
 
-Vil I spørge, så spørg! 
+//5 men også en nat. 
 
-Vend tilbage, kom!<<
+//4 Vil I spørge, 
+//5 så spørg! 
 
-==Ord mod dem på steppen==
-v13 Udsagn om dem på steppen.{T: Kan også oversættes: >>i Arabien<<.} 
+//5 Vend tilbage, 
+//5 kom!<<
 
-I buskadset, på steppen skal I overnatte, 
+ ==Ord mod dem på steppen==
 
-I, dedanitters karavaner!
+//0 v13 Udsagn om dem på sletten.{T: Kan også oversættes: >>i Arabien<<.} 
 
-v14 Til en tørstig 
+//1 I buskadset, på sletten skal I overnatte, 
 
-skal I bringe vand; 
+//4 I, dedanitters karavaner!
 
-I der bor i Themas land, 
+//4 v14 Når I møder en tørstig, 
 
-gå en flygtning i møde med det brød han har brug for.{T: Ordret: >>med hans brød<<.}
+//3 skal I bringe vand; 
 
-v15 For de flygtede for sværd, 
+//6 I der bor i Temas land, 
+
+//5 gå en flygtning i møde med det brød han har brug for.
+
+//4 v15 For de flygtede for sværd, 
 
 for et draget sværd, 
 
@@ -154,7 +169,8 @@ og for en spændt bue
 
 og for en krigs voldsomhed.{T: Ordret: >>tunghed<<.}
 
-v16 For sådan sagde HERREN til mig: >>Indenfor et år, som en daglejers år, skal det være forbi med al Kedars herlighed.
-v17 Og resttallet af buer som Kedars tapre sønner har tilbage, skal være ringe.<< For HERREN, Israels Gud, har sagt det.
-
-
+//2 v16 For sådan sagde HERREN til mig: 
+//3 >>Indenfor et år, som en daglejers år, 
+//5 vil det være forbi med al Kedars herlighed.
+//6 v17 Og det resterende antal buer som Kedars tapre sønner har tilbage, vil være ringe.<< 
+//4 For HERREN, Israels Gud, har sagt det.

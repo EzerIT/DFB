@@ -1,288 +1,322 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 04.10.2023>!!
+﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 16.05.2025>!!
+
 ===Esajas' Bog, kapitel 30===
 
 ==Israel skal søge hjælp hos Gud, ikke i Egypten==
-v1 >>Ve de genstridige børn,<< 
 
-lyder HERRENS udsagn, 
+//0 v1 >>Ve de børn 
+//3 der er genstridige,<< 
 
->>dem der smeder en plan,{T: Andre oversætter: >>et støbt billede<<.} 
+//6 lyder HERRENS udsagn, 
 
-som ikke er fra mig, 
+//5 >>ved at lægge en plan, 
 
-og slutter forbund, 
+//8 som ikke er fra mig, 
 
-men uden min Ånd, 
+//7 og slutte forbund, 
 
-for at føje synd til synd!
+//8 men uden min Ånd, 
 
-v2 De der drager ned til Egypten 
+//6 for at føje synd til synd!
 
-uden at spørge mig{T: Ordret: >>min mund<<.} til råds
+//4 v2 De drager 
+//7 ned til Egypten 
 
-for at søge  værn under Faraos beskyttelse 
+//6 uden at spørge mig{T: Ordret: >>min mund<<.} til råds
 
-og tilflugt i Egyptens skygge.
+//5 for at beskyttes af Faraos beskyttelse 
 
-v3 Men Faraos beskyttelse skal blive til skam for jer 
+//6 og søge tilflugt i Egyptens skygge!
 
-og tilflugten i Egyptens skygge til skændsel.
+//2 v3 Men Faraos beskyttelse vil blive til skam for jer 
 
-v4 For hans ledere har været i Soan, 
+//4 og tilflugten i Egyptens skygge til skændsel.
 
-og hans sendebud er kommet til Hanes.
+//3 v4 For hans ledere har været i Soan, 
 
-v5 Enhver af dem bliver til skamme{E: Den hebraiske tekst har: *hivʔîš*: >>skal udtørre<<, men en del håndskrifter har: *hōvîš*: >>bliver til skamme<<.} 
+//5 og hans sendebud er kommet til Hanes.
 
-hos et folk der ikke gavner dem, 
+//4 v5 Enhver af dem bliver til skamme{E: Masoreternes læsning *hōviˀyš* (>>vil udtørre<<) er rettet til: *hōvîš* (>>bliver til skamme<<), som også læses i enkelte håndskrifter.} 
 
-ikke er til hjælp og ikke til nytte, 
+//6 hos et folk der ikke gavner dem, 
 
-men til skam og også til vanære.<<
+//5 ikke er til hjælp
+//7 og ikke 
+//8 til nytte, 
 
-***
+//6 men til skam 
+//7 og også til vanære.<<
 
-v6 Udsagn om dyrene i sydlandet.{T: Ordret: >>Negev<< der samtidig er angivelse af verdensretningen.}
+ ***
 
-Gennem et nødens og trængslens land 
+//1 v6 Udsagn om dyrene i Sydlandet.{H: Es 21,1.}
 
-hvorfra hunløver og hanløver kommer, 
+//2 Gennem et nødens og trængslens land, 
 
-slange og flyvende drage, 
+//5 hvorfra hunløver og hanløver kommer, 
 
-bringer de deres rigdomme på æslers ryg 
+//6 slanger og lynhurtige giftslanger,{H: Es 14,29.} 
 
-og deres skatte på kamelers pukkel 
+//4 bringer de deres rigdomme på æslers ryg 
 
-til et folk der ikke kan gavne dem.
+//6 og deres skatte på kamelers pukler 
 
-v7 Egypten, de hjælper med intethed og tomhed, 
+//5 over til et folk 
+//6 der ikke kan gavne dem.
 
-derfor kalder jeg det: 
+//3 v7 Egypten, de hjælper som pust af vind og tomhed, 
 
->>en Rahab der sidder stille<<.{T: Dvs. en storpraler der intet udretter}
+//4 derfor kalder jeg det: 
 
-***
+//5 >>en Rahab 
+//6 der sidder stille<<.
 
-v8 Nu, gå, skriv det på en tavle hos dem, 
+ ***
 
-og optegn det i en bog 
+//1 v8 Nu, kom straks 
+//3 og skriv det på en tavle hos dem 
 
-så det er der til den kommende tid, 
+//5 og optegn det i en bog, 
 
-altid,{E: Hebraisk: *lāʕad*. De gamle oversættelser har læst: *lᵊʕēd*: >>som vidne<<. } til evig tid.
+//4 så det er der til den kommende tid,
+altid,{E: De gamle oversættelser har læst: *lᵊʕēd*: >>som vidne<<.} til evig tid.
 
-v9 For det er et genstridigt folk, 
+//5 v9 For det er et genstridigt folk, 
 
-løgnagtige børn, 
+//7 løgnagtige børn, 
 
-børn der ikke vil høre HERRENS lov,
+//7 børn 
+//9 der ikke vil 
+//10 høre HERRENS lov,
 
-v10 der siger til seerne: 
+//8 v10 der siger til seerne: 
 
->>Se ikke noget!<< 
+//10 >>I må ikke se noget!<< 
 
-og til dem der har syner: 
+//9 og til dem der har syner: 
 
->>I må ikke se syner om sande ting for os! 
+//10 >>I må ikke se syner om retskaffenhed for os! 
 
-Tal forførende ord til os, 
+//11 Tal smigrende ord til os, 
 
-sku bedragelige ting!
+//11 du skal skue bedrageriske ting!
 
-v11 Vig bort fra vejen, 
+//11 v11 Vig bort fra vejen, 
 
-bøj af fra stien; 
+//11 bøj af fra stien; 
 
-skaf os af med 
+//11 skaf os af med  
 
 Israels Hellige!<<
 
-***
+ ***
 
-v12 Derfor siger Israels Hellige sådan: 
+//6 v12 Derfor har Israels Hellige sagt sådan: 
 
->>Fordi I forkaster dette ord 
+//8 >>Fordi I forkaster dette ord 
 
-og stoler på vold og fordærvethed 
+//10 og stoler på vold og bedrageri 
 
-og støtter jer til det,
+//11 og støtter jer til det,
 
-v13 skal denne misgerning blive for jer 
+//9 v13 derfor skal denne misgerning for jer blive  
 
-som en revne der synker ned, 
+som et murbrud der kan falde ned,
 
-der breder sig i en høj mur, 
+//11 når en fæstningsmur buler ud,
 
-hvis brud sker hurtigt, på et øjeblik.
+//12 så der pludseligt, på et øjeblik, sker et sammenbrud,
 
-v14 Og den{T: Dvs.: revnen. Andre regner med at HERREN er subjekt.} bryder den ned som når man bryder en pottemagers krukke itu, 
+//10 v14 og når den bryder sammen, er det som når der kommer et brud i en pottemagers krukke, 
 
-smadret, uden at man skåner, 
+//12 den knuses, 
+//13 uden at man skåner, 
 
-så der ikke findes
+//11 så der ikke kan findes 
 
 et skår mellem stumperne  
 
-til at hente ild med fra et ildsted 
+//12 til at hente ild med fra et ildsted 
 
-eller til at øse vand med fra en cisterne.<<
+//13 eller til at øse vand med fra en vandbeholder.<<
 
-v15 For sådan sagde Herren HERREN, Israels Hellige: 
+//7 v15 For sådan sagde Herren HERREN, Israels Hellige: 
 
->>Ved omvendelse og ro skal I frelses, 
+//9 >>Ved omvendelse og ro skal I frelses,
 
-i stilhed og tillid skal jeres styrke være. 
+//10 i stilhed og tillid skal jeres styrke være. 
 
-Men I ville ikke!<<
+//11 Men I ville ikke!<<
 
-v16 Men I sagde: 
+//12 v16 I sagde: 
 
->>Nej, for vi vil flygte til hest.<< 
+//15 >>Nej, 
+//16 for vi vil flygte til hest.<< 
 
-Derfor skal I flygte! 
+//14 Derfor skal I flygte! 
 
->>Og vi vil ride på hurtigløbere.<< 
+//13 Og 
+//15 >>Vi vil ride på hurtigløbere.<< 
 
-Derfor skal jeres forfølgere være hurtigløbere!
+//14 Derfor skal jeres forfølgere være hurtigløbere!
 
-v17 Et{E: I stedet for *ʔeḥād* (>>et<<) foreslås det oftest at læse: *jeḥerad*: >>skal ryste<<, så sætningen lyder: >>Tusind skal ryste for éns trussel<<. Ændringen giver god mening og løser det problem at den hebraiske sætning eller ikke har noget verbum.  Der er dog ingen støtte i håndskrifterne for ændringen.} tusind flygter{T: Det hebraiske vers har ikke noget verbum. >>Flygter<< er tilføjet for forståelsens skyld.} for éns trussel, 
+//15 v17 Et{E: Eller en tekstrettelse til *jeḥerad* så sætningen lyder: >>Tusind skal ryste for éns trussel<<.} tusind vil flygte{T: Verbet er tilføjet for forståelsens skyld.} for en trussel fra en enkelt, 
 
-for fems trussel skal I flygte, 
+//16 for en trussel fra fem vil I flygte, 
 
-indtil I kun er ladt tilbage 
+//17 indtil kun I er ladt tilbage 
 
-som masten på toppen af bjerget 
+som en mast på toppen af et bjerg 
 
-og som banneret på højen.
+og som et banner på en høj.
 
+ ==Herren vil forbarme sig, og folket skal vende sig fra afguderne==
+//8 v18 Derfor venter HERREN på 
+//11 at være nådig mod jer, 
 
-==Herren vil forbarme sig, og folket skal vende sig fra afguderne==
-v18 Men derfor venter HERREN på at være nådig mod jer, 
+//10 og derfor vil han være ophøjet,{E: Enkelte håndskrifter har: *yiddûm* (>>forholde sig i ro<<). Ofte rettes teksten til *yāqûm* (>>rejse sig<<).} 
+//11 for at forbarme sig over jer; 
 
-og derfor vil han være ophøjet,{E: Hebraisk: *yārûm*. Enkelte håndskrifter har: *yiddûm*: >>forholde sig i ro<<. Ofte foreslås det at læse: *yāqûm*: >>rejse sig<<.} for at forbarme sig over jer; 
+//9 for HERREN er rettens Gud. 
 
-for HERREN er rettens Gud. 
+//10 Lykkelige er alle 
+//11 der venter på ham.
 
-Lykkelige{T: Ofte oversat: >>salige<<.} er alle der venter på ham.
+//2 v19 For 
+//6 du folk på Zion, 
+//7 der bor i Jerusalem, 
+//5 du skal ikke græde! 
+//4 Han viser dig nåde, 
+//7 når du råber; 
+//7 når han hører det, 
+//6 svarer han dig.
+//5 v20 Og skønt Herren giver jer ulykkesbrød og trængselsvand, 
+//6 så vil din lærer ikke længere skjule sig, 
+//7 men dine øjne vil se din lærer.
+//9 v21 Med egne ører vil du høre et ord der bag dig 
+//11 siger: 
+//12 >>Dette er vejen, 
+//13 på den skal I gå!<< 
+//10 både når I går til højre, 
+//11 og når I går til venstre. 
 
-v19 For du folk på Zion, der bor i Jerusalem, du skal ikke græde! Han viser dig nåde, når du råber; når han hører det, svarer han dig.
-v20 Og skønt Herren giver jer ulykkesbrød og trængselsvand, så skal din lærer ikke længere skjule sig, men dine øjne skal se din lærer.
-v21 Og dine ører skal høre et ord der bag dig siger: >>Dette er vejen, gå på den!<< både når I går til højre, og når I går til venstre. 
-v22 Og I skal regne dine gudebilleders sølvbeklædning for uren
+//8 v22 Og I skal regne dine gudebilleders sølvbelægning for uren 
 
 og dit støbte billedes guldovertræk. 
 
-Du skal smide dem væk som noget urent.{T: Egentlig: >>klædning der er plettet af menstruation<<.} 
+//10 Du skal smide dem væk som tøj sølet til i menstruationsblod.
 
->>Ud!<< skal du sige til det.
+//12 >>Ud!<< 
+//11 skal du sige til det.
 
-v23 Da skal han give regn til dit sædekorn, 
+//9 v23 Da vil han give regn til dit sædekorn, 
 
-som du sår i jorden, 
+//13 som du sår på agerjorden, 
 
-og brød som jordens afgrøde, 
+//12 og brød som afgrøde fra agerjorden, 
 
-og det skal være nærende og fedt; 
+//11 og det skal være nærende og mættende; 
 
-dit kvæg skal den dag græsse 
+//10 dit kvæg skal den dag græsse 
 
 på en vidtstrakt eng.
 
-v24 Også okserne og æslerne der bearbejder jorden, 
+//12 v24 Også okserne og æslerne 
+//14 der bearbejder jorden,
 
-skal æde syrnet blandingsfoder 
+//13 vil æde blandingsfoder{T: Ordret: >>syrnet foder<<.} 
 
-der er kastet med skuffeskovl{T: Det hebraiske ord forekommer kun her i GT, og den præcise betydning er usikker.} og med kasteskovl.
+//14 der er renset i vinden med skovl og fork.
 
-v25 Og på hvert højt bjerg 
+//11 v25 På hvert højt bjerg
 
-og på hver knejsende bakke 
+ og på hver knejsende bakke
 
-skal der være bække, strømme af vand, 
+vil der være bække, strømme af vand, 
 
 på den store slagtedag 
 
-når tårne falder.
+//13 når tårne falder.
 
-v26 Og månens lys skal være som solens lys, 
+//12 v26 Og månens lys skal være som solens lys, 
 
-og solens lys skal være syv gange som de syv dages lys 
+//13 og solens lys skal være syv gange stærkere end de syv dages lys 
 
-på en dag da HERREN forbinder sit folks brud 
+på den dag
+//14 da HERREN forbinder sit folks brud 
 
-og helbreder dets knusende slag. 
+//15 og helbreder dets knusende slag. 
 
-==Dom over Assyrien==
-v27 Se, HERRENS navn kommer langvejs fra, 
+ ==Dom over Assyrien==
+//3 v27 Se, HERRENS navn kommer langvejs fra,
+ 
+//5 hans vrede brænder, 
 
-hans vrede brænder, 
+//7 og dens styrke stiger; 
 
-og vældig hæver den sig; 
+//6 hans læber er fulde af raseri, 
 
-hans læber er fulde af harme, 
+//7 og hans tunge er som en fortærende ild.
 
-og hans tunge er som en fortærende ild.
+//8 v28 Hans ånde er som en flod der løber over, 
 
-v28 Og hans ånde er som en flod der løber over, 
+//9 der når til halsen, 
 
-der når til halsen, 
+//10 for at ryste folkeslag i ødelæggelsens si, 
 
-for at ryste folkeslag{T: Kan også oversættes: >>hedninger<<.} i ødelæggelsens si, 
+//11 og med et bidsel der fører vild i folkenes kæber.
 
-og et bidsel der fører vild, skal være i folkenes kæber.
+ ***
 
-***
+//4 v29 Der vil være sang hos jer 
+som i en nat 
+//7 hvor en fest helligholdes, 
 
-v29 Sangen skal være hos jer 
+//6 og hjertets glæde 
 
-som i en nat hvor en fest helligholdes, 
+//7 som når man går med fløjte 
 
-og hjertets glæde 
-
-som når man går med fløjte 
-
-for at komme til HERRENS bjerg, 
+//8 for at komme til HERRENS bjerg, 
 
 til Israels Klippe.
 
-v30 Så vil HERREN lade sin majestætiske røst høre, 
+//5 v30 Så vil HERREN lade sin majestætiske røst høre, 
 
-og han skal vise sin arm der slår ned 
+//7 og han vil vise sin arm, der slår ned 
 
 i voldsom vrede 
 
-og med fortærende, flammende ild, 
+ og med fortærende, flammende ild, 
 
 med styrtregn og skybrud og haglsten.
 
-***
+ ***
 
-v31 Ja, Assur skal forfærdes over HERRENS røst, 
+//6 v31 For Assur vil forfærdes over HERRENS røst, 
 
-han slår det med stokken.
+//8 han slår det med stokken.
 
-v32 Og hver gang skal den udvalgte kæp  
+//7 v32 Og hver gang kommer den anviste kæp  
 
-som HERREN bringer over det, 
+//10 som HERREN bringer over det; 
 
-ledsages af pauker og citere; 
+//9 med pauker og citere 
 
 og med løftet hånd i krig 
 
-skal han kæmpe mod det.
+vil han kæmpe mod det.
 
-v33 Ja, Tofet{T: Det sted i Hinnoms dal hvor der blev ofret børn. Andre oversætter: >>et ildsted<<.} er allerede gjort parat, 
+//8 v33 For hans ildsted {E: *tofteʰ* kan være en anderledes stavemåde for Tofet, sml. 2 Kong 23:10.} er allerede gjort parat,
+ 
+//10 det er også gjort klar til kongen, 
+//11 gjort dybt 
+//11 og bredt; 
 
-det er også gjort klar til kongen, gjort dybt og bredt; 
+//9 dets bål har ild og træ i mængde,
+ 
+//10 HERRENS ånde er som en flod af svovl, 
 
-dets bål{E: Der er usikkerhed om betydningen af det hebraiske ord (*mᵊdûrāʰ*) i sammenhængen. Det kan muligvis oversættes: >>(træ)stak<<, andre foreslår: >>ligbål<<.} har ild og træ i mængde, 
-
-HERRENS ånde er som en flod af svovl, 
-
-der antænder det.
-
+der brænder i det.
 
