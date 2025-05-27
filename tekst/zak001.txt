@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 31.08.2016>!!
+!!<Dato for denne version: 27.05.2025>!!
 
 ===Zakarias' Bog, kapitel 1===
 
@@ -10,7 +10,7 @@ v1 I den ottende måned i Dareios' andet år{T: regeringsår.} kom HERRENS ord t
 
 ==Synet om manden blandt myrtetræerne==
 
-v7 På den 24. dag i den 11. måned, det er måneden shebat, i Dareios' andet år kom HERRENS ord til profeten Zakarias, Berekjas søn, Iddos sønnesøn: v8 Jeg så om natten en mand, der red på en rød hest. Han holdt stille mellem myrtetræerne{T: Myrtetræer er stedsegrønne løvtræer.}, som var i kløften, og bag ham var der røde, spættede og hvide heste. v9 Jeg sagde: >>Hvad betyder disse, min herre?<< Og englen, som talte med mig, sagde til mig: >>Jeg vise dig, hvad disse betyder.<< v10 Den mand som holdt stille mellem myrtetræerne, svarede: >>Det er dem som HERREN har sendt ud for at drage rundt på jorden.<< v11 Og de sagde til HERRENS engel, som stod mellem myrtetræerne: >>Vi har vandret jorden rundt, og hele jorden ligger fredeligt hen.<< v12 Da svarede HERRENS engel: >>Hærskarers HERRE! hvor længe varer det, inden du vil forbarme dig over Jerusalem og Judas byer som du har været vred på i halvfjerds år?<< v13 HERREN svarede englen, som talte med mig, med gode og trøstende ord. v14 Og englen, som talte med mig, sagde til mig: >>Råb: Således siger Hærskarers HERRE:
+v7 På den 24. dag i den 11. måned, det er måneden shebat, i Dareios' andet år kom HERRENS ord til profeten Zakarias, Berekjas søn, Iddos sønnesøn: v8 Jeg så om natten en mand, der red på en rød hest. Han holdt stille mellem myrtetræerne{T: Myrtetræer er stedsegrønne løvtræer.}, som var i kløften, og bag ham var der røde, spættede og hvide heste. v9 Jeg sagde: >>Hvad betyder disse, min herre?<< Og englen, som talte med mig, sagde til mig: >>Jeg vil vise dig, hvad disse betyder.<< v10 Den mand som holdt stille mellem myrtetræerne, svarede: >>Det er dem som HERREN har sendt ud for at drage rundt på jorden.<< v11 Og de sagde til HERRENS engel, som stod mellem myrtetræerne: >>Vi har vandret jorden rundt, og hele jorden ligger fredeligt hen.<< v12 Da svarede HERRENS engel: >>Hærskarers HERRE! hvor længe varer det, inden du vil forbarme dig over Jerusalem og Judas byer som du har været vred på i halvfjerds år?<< v13 HERREN svarede englen, som talte med mig, med gode og trøstende ord. v14 Og englen, som talte med mig, sagde til mig: >>Råb: Således siger Hærskarers HERRE:
 
 >Jeg har en stor nidkærhed over for Jerusalem og Zion!
 
@@ -34,4 +34,4 @@ Mine byer skal på ny strømme over af gode ting;
 
 HERREN skal på ny trøste Zion,
 
-på ny vil har han udvalgt Jerusalem.<<<
+på ny vil han udvælge Jerusalem.<<<
