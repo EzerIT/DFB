@@ -1,52 +1,52 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 02.06.2025>!!
 
 ===1. Mosebog, kapitel 11===
 
 ==Babelstårnet==
 
-//0 v1 Hele jorden havde fælles sprog og ord.{E: Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.}
-//1 v2 Det hændte at
-//3 da de rejste mod{T: Kan også oversættes: >>fra<<.} øst,
+//0 v1 Hele jorden havde fælles sprog og ord.{E: Med udtrykket *debārîm ʔᵃḥādîm*, ordret >>ene ord<<, menes enten et fælles ordforråd eller en ens udtale.}
+//1 v2 Og så
+//3 da de rejste mod øst,
 //2 fandt de en slette i landet Sinear
 //2 og slog sig ned der. 
 //2 v3 Så sagde de
-//5 til hinanden:{T: Ordret: >>hver især til sin fælle<<.}
+//5 til hinanden:{T: Ordret: >>mand til sin fælle<<.}
 //4 >>Kom nu,
-//5 lad os stryge teglsten
-//6 og brænde $dem$ hårde.<<
-//3 De brugte tegl som mursten
+//5 lad os lave teglsten
+//6 og få dem brændt.<<
+//3 De brugte teglstenene som mursten
 //4 og tjære som mørtel. 
 //2 v4 De sagde:
 //4 >>Kom nu,
 //5 lad os bygge en by og et tårn,
 //8 og dets top skal nå til himlen{T: Ordret >>være i himlen<<.},
 //7 og lad os skabe os et navn
-//6 for at vi ikke bliver spredt ud over hele jordens overflade.<<
+//6 for at vi ikke bliver spredt ud over hele jorden.<<
 //3 v5 Da steg HERREN ned
-//4 for at se byen og tårnet
+//4 for at se på byen og tårnet
 //5 som menneskebørnene byggede. 
 //3 v6 HERREN sagde:
-//4 >>Se, de er ét folk,
-//7 og de har alle ét sprog.
-//6 Er dette
-//8 hvad de begynder
-//9 at gøre,
-//7 så vil intet være umuligt for dem af det
+//4 >>Når de er ét folk,
+//7 og alle har fælles sprog,
+//6 så er dette
+//8 blot hvad de begynder
+//9 at gøre.
+//7 Nu vil intet være umuligt for dem af det
 //8 de planlægger
 //9 at ville gøre. 
 //5 v7 Kom nu,
 //6 lad os stige ned
 //7 og forvirre deres sprog
 //8 sådan at de ikke forstår
-//9 hinandens sprog{T: Ordret: >>hver især sin fælles sprog<<.}.<<
-//3 v8 Og HERREN spredte dem derfra ud over hele jordens overflade,
+//9 hinandens sprog{T: Ordret: >>mand sin fælles sprog<<.}.<<
+//3 v8 Og HERREN spredte dem derfra ud over hele jorden,
 //2 og de holdt op
 //4 med at bygge byen. 
 //3 v9 Derfor gav man den navnet Babel;
 //4 for dér forvirrede HERREN hele jordens sprog,{T: På hebraisk er der ordspil mellem *bāvel* >>Babel<< og *bālal* >>forvirre<<.}
-//5 og derfra spredte HERREN dem ud over hele jordens overflade.
+//5 og derfra spredte HERREN dem ud over hele jorden.
 
 ==Sems slægt==
 
