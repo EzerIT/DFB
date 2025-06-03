@@ -52,8 +52,8 @@ class SfmTokenizer {
 
 class FormatSfm extends Formatter {
     private $output = '';      // HTML string is generated here
-    private $exegetic_layout;  // True if exegetic indentation is available and requested
-    private $exindent;         // Exegetic indentation value
+    private $syntactic_layout; // True if syntactic indentation is available and requested
+    private $synindent;        // Syntactic indentation value
     private $read_chapter;     // Chapter number read from file
 
     private function finish($building, string $buffer) {
@@ -62,7 +62,7 @@ class FormatSfm extends Formatter {
                 $this->title = rtrim($buffer) . ", kapitel $this->read_chapter";
                 break;
             case 'HEADER':
-                if (!$this->exegetic_layout)
+                if (!$this->syntactic_layout)
                     $this->output .= "<h2>$buffer</h2>\n";
                 break;
             case 'BLANK':
@@ -80,10 +80,10 @@ class FormatSfm extends Formatter {
             case 'POETRY2':
                 $this->output .= "<div class=\"poetry poetry2\">$buffer</div>\n";
                 break;
-            case 'EXINDENT':
+            case 'SYNINDENT':
                 if (empty($buffer))
                     $buffer = '~';
-                $this->output .= "<div class=\"indent\" data-indent=\"$this->exindent\">$buffer</div>";
+                $this->output .= "<div class=\"indent\" data-indent=\"$this->synindent\">$buffer</div>";
                 break;
         }
     }
@@ -94,7 +94,7 @@ class FormatSfm extends Formatter {
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");
 
-        $this->exegetic_layout = preg_match('/\\\\zei/',$txt) && $_SESSION['exegetic']=='on';
+        $this->syntactic_layout = preg_match('/\\\\zei/',$txt) && $_SESSION['exegetic']=='on';
 
         // Remove following chapters
         $chapter1 = $this->chapter+1;
@@ -107,7 +107,7 @@ class FormatSfm extends Formatter {
         // Handle verse restriction
         if ($this->from_verse>0) {
             if (preg_match("/(\\\\v\s+$this->from_verse\s)/s",$txt)) {
-                if ($this->exegetic_layout)
+                if ($this->syntactic_layout)
                     $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \Z 0 \2',$txt);
                 else
                     $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \m \2',$txt);
@@ -122,7 +122,7 @@ class FormatSfm extends Formatter {
 
         if ($this->to_verse>0) {
             if (!preg_match("/(\\\\v\s+$this->to_verse\s)/s",$txt)) {
-                if ($this->exegetic_layout)
+                if ($this->syntactic_layout)
                     $txt .= "\n\\b\n\\Z 0\n\\em [Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]\\em*\n";
                 else
                     $txt .= "\n\\b\n\\m\n\\em [Vers $this->to_verse i dette kapitel findes ikke i Den Frie Bibel.]\\em*\n";
@@ -233,7 +233,7 @@ class FormatSfm extends Formatter {
             $to[] = $_SESSION['godsname'];
 
 
-        if ($this->exegetic_layout) {
+        if ($this->syntactic_layout) {
             $from[] = '/\\\\[pmq][0-9]*\s+/';  // Remove \p, \m, \q, and \q1, \q2...
             $to[] = '';
 
@@ -320,10 +320,10 @@ class FormatSfm extends Formatter {
                     $buffer = '';
                     break;
 
-                case '\Z': // Exegetic indent
+                case '\Z': // Syntactic indent
                     $this->finish($building,$buffer);
-                    $this->exindent = $tokenizer->get_token();
-                    $building = 'EXINDENT';
+                    $this->synindent = $tokenizer->get_token();
+                    $building = 'SYNINDENT';
                     $buffer = '';
                     break;
 

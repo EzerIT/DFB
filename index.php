@@ -137,17 +137,17 @@ END;
                 
           <p>Cirklen og stjernen vises ikke hvis man fravælger de forklarende fodnoter.</p>
 
-          <h2>Eksegetisk layout</h2>
+          <h2>Syntaktisk layout</h2>
 
           <p>Normalt vises en tekst opstillet som almindelig prosa eller poesi. Man kan imidlertid
-              vælge at få vist teksten med <i>eksegetisk layout</i>. Det betyder at tekstens
+              vælge at få vist teksten med <i>syntaktisk layout</i>. Det betyder at tekstens
               elementer vises med forskellige grader af indrykning, som illustrerer den indbyrdes relation
               mellem tekstens bestanddele. Nogle læsere finder at dette giver en bedre forståelse af
               tekstens sammenhæng.</p>
 
-          <p>Eksegetisk layout er kun tilgængelig i det Gamle Testamente og kun i visse kapitler.</p>
+          <p>Syntaktisk layout er kun tilgængelig i det Gamle Testamente og kun i visse kapitler.</p>
 
-          <p>Eksegetisk layout kan slås til og fra under menupunktet »Læseoplevelse«.</p>
+          <p>Syntaktisk layout kan slås til og fra under menupunktet »Læseoplevelse«.</p>
           
 
           <h2>Direkte links</h2>
