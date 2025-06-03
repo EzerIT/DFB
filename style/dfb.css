@@ -43,6 +43,11 @@ h2 {
     color: black;
 }
 
+.split {
+    display: flex;
+    justify-content: space-between;
+}
+
 hr {
     border-color: #888;
 }

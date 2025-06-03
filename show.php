@@ -6,6 +6,7 @@
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('formatter.inc.php');
+require_once('oversigt.inc.php');
 
 
 // $minchap: Minimum chapter number
@@ -50,6 +51,35 @@ function pagination($book, $kapitel) {
             . "\">$chno</a>\n";
     }
     echo "  </div>\n";
+}
+
+function refhebgr($book,$chapt,$from,$to) {
+    global $hebbooks;
+    global $grbooks;
+
+    if (isset($hebbooks[$book])) {
+        $hbook = $hebbooks[$book];
+
+        if ($from==0)
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chapt\">Ⓗ</a>";
+        elseif ($to==0)
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chapt/$from/999\">Ⓗ</a>";
+        else
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/ETCBC4/$hbook/$chapt/$from/$to\">Ⓗ</a>";
+
+    }
+    elseif (isset($grbooks[$book])) {
+        $gbook = $grbooks[$book];
+        
+        if ($from==0)
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chapt\">Ⓖ</a>";
+        elseif ($to==0)
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chapt/$from/999\">Ⓖ</a>";
+        else
+            return "<a target=\"_blank\" href=\"https://learner.bible/text/show_text/nestle1904/$gbook/$chapt/$from/$to\">Ⓖ</a>";
+    }
+    else
+        return "Ukendt bog";
 }
 
 
@@ -277,7 +307,7 @@ makemenus(null);
             $text = $formatter->to_html();
             ?>
           <div class="card mt-4">
-              <h1 class="card-header bg-warning"><?= $formatter->title ?></h1>
+              <h1 class="card-header bg-warning split"><span><?= $formatter->title ?></span><span><?= refhebgr($bog,$kap,$fra,$til) ?></span></h1>
             <div class="card-body bibletext">
                 <?= $text ?>
                 <span id="tenspaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>

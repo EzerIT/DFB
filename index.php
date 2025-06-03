@@ -164,6 +164,11 @@ END;
           <p>De bogforkortelser der benyttes i disse URL'er, er ikke de sædvanlige forkortelser
               for Bibelens bøger. De korrekte forkortelser finder man nemmest ved at åbne et bestemt
               kapitel på normal vis og iagttage sidens URL.</p>
+
+          <h2>Links til hebraisk og græsk tekst</h2>
+
+          <p>I overskriften for de enkelte kapitler står enten et Ⓗ eller et Ⓖ. Dette er et link til
+              den tilsvarende hebraiske/aramæiske eller græske tekst.</p>
           
           <h2>Kommentarer</h2>
 
