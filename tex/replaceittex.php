@@ -53,7 +53,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\*([^\*]+)\*/';
     $to[] = '\\emph{\1}';
 
-    $from[] = '/\s*{[KN]:\s*([^}]+)}/';
+    $from[] = '/\s*{[NH]:\s*([^}]+)}/';
     $to[] = '';
 
     $from[] = '/\s*{E:\s*([^}]+)}/';
@@ -62,7 +62,7 @@ function replaceittex($filename, $chtype) {
     $from[] = '/\s*{Q:\s*([^}]+)}/';
     $to[] = '\\pnotehead{\1}';
 
-    $from[] = '/\s*{[TH]:\s*([^}]+)}/';
+    $from[] = '/\s*{T:\s*([^}]+)}/';
     $to[] = '\\footnote{\1}Z1Z';
 
     $from[] = '/(JHVH[sv]*)/';
@@ -90,8 +90,14 @@ function replaceittex($filename, $chtype) {
     $to[] = '\1';  // Vi mangler at beslutte hvad der skal ske her
 
     // Fjern indrykningsmarkør
-    $from[] = '~//\d*~';
+    $from[] = '~//\d+[\x20\xa0\x09]*\R~m';  // Prevent that marker without text causes subsequent line feed to be removed
     $to[] = '';
+
+    $from[] = '~//\d+~';  // Other markers are simply removed
+    $to[] = '';
+
+    $from[] = '/(.)\s+:/';  // Remove space in front of colon
+    $to[] = '\1:';
 
     $from[] = '/\n *\n/';
     $to[] = 'QQ';
