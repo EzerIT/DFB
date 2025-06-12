@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.03.2025>!!
+!!<Dato for denne version: 12.06.2025>!!
 
  ===Esajas' Bog, kapitel 40===
 
@@ -264,7 +264,7 @@ mangler der ikke én.
 
 //8 v31 Men de der venter på HERREN, vil få ny styrke,
 
-//9 de vil får svingfjer som ørnene,
+//9 de vil få svingfjer som ørnene,
 
 //9 de løber,
 //10 men bliver ikke udmattede,
