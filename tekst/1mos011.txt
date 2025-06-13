@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 02.06.2025>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 13.06.2025>!!
 
 ===1. Mosebog, kapitel 11===
 
@@ -26,7 +26,7 @@
 //6 for at vi ikke bliver spredt ud over hele jorden.<<
 //3 v5 Da steg HERREN ned
 //4 for at se på byen og tårnet
-//5 som menneskebørnene byggede. 
+//5 som menneskeheden{T: Ordret >>Adams børn<<.} byggede. 
 //3 v6 HERREN sagde:
 //4 >>Når de er ét folk,
 //7 og alle har fælles sprog,

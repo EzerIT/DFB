@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 26.03.2025>!!
+!!<Dato for denne version: 13.06.2025>!!
 
 ===Esajas' Bog, kapitel 58===
 
@@ -46,11 +46,17 @@ som et folk
 
 //10 for at jeres stemme kan blive hørt i det høje!
 
-//1 v5 Mon det er sådan en faste
-//5 jeg foretrækker,
+//1 v5 Mon det er sådan en faste 
+//5 jeg foretrækker, 
 
-//4 en dag
-//5 hvor et menneske ydmyger sig,
+//4 en dag 
+//5 hvor et menneske ydmyger sig selv?{N: Sjæl.} 
+
+//3 At hænge med hovedet som et siv 
+
+//4 eller ligge i sæk og aske  
+
+//5 er det mon det du vil kalde faste 
 
  en velegnet dag for HERREN?
 
