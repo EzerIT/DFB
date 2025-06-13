@@ -261,13 +261,15 @@ class FormatText extends Formatter {
             // the minimal possible number of characters,
             // optional spaces,
             // "//\d" or end-of-line
-            $to[] = '<div class="indent" data-indent="\1">QWW\2WWQ</div>\3';  // QWW...WWQ is removed below
+            $to[] = '<div class="textline"><div class="indented-number" data-indent="\1">\1</div><div class="indented-text" data-indent="\1">\2</div></div>\3';
+//            $to[] = '<div class="noindent"><div class="indentno" data-indent="\1">|\1</div>\2</div>\3';
+//            $to[] = '<div class="indent" data-indent="\1">QWW\2WWQ</div>\3';  // QWW...WWQ is removed below
 
-            $from[] = '/QWWWWQ/'; // Empty text ...
-            $to[] = '~';          // ... is replaced with tilde
+            $from[] = '/SHS/';
+            $to[] = '<span class="hebrew">';
 
-            $from[] = '/(QWW|WWQ)/'; // Other occurrences of QWW or WWQ ...
-            $to[] = '';              // ... are removed
+            $from[] = '/SHE/';
+            $to[] = '</span>';
         }
         else {
             // Remove indentation marker

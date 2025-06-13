@@ -155,125 +155,198 @@ else
         display: block;
     }
 
-    div.poetry1 {
+     div.textline {
+         margin-left: 11em;
+         text-indent: -11em;
+     }
+
+     #labelex {
+         font-weight: bold;
+     }
+     
+     div.indented-number {
+         display: inline-block;
+         vertical-align: top;
+         width: 11em;
+         text-indent: 0em;
+         font-weight: bold;
+     }
+
+     div.indented-text {
+         display: inline-block;
+         margin-left: 0px; /* Temporary value, may be altered by JavaScript */
+         text-indent: 0px; /* Temporary value, may be altered by JavaScript */
+     }
+     
+     div.poetry1 {
         margin-left: 7em;
         text-indent: -5em;
         display: block;
-    }
+     }
 
-    div.poetry2 {
-        margin-left: 7em;
-        text-indent: -3em;
-        display: block;
-    }
+     div.poetry2 {
+         margin-left: 7em;
+         text-indent: -3em;
+         display: block;
+     }
+
+     @font-face {
+         font-family: 'Ezra SIL Webfont';
+         src: url('fonts/SILEOT.woff') format('woff');
+     }
+
+     span.hebrew {
+         font-family: "Ezra SIL Webfont" !important;
+         font-size: 120% !important;
+     }
     </style>
 
     <script>
 
+     <?php if ($_SESSION['exegetic']): ?>
      let maxindent = 0; // The maximum indentation level of the text
-     
-     function do_indent() {
-         let pixels_per_space = $('#tenspaces').width()/10;
-
-         // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
-         // By dividing by maxindent+4 rather than maxindent below, we leave a litte room for the tex.
-         let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+4)),40); 
+     let pixels_per_space = 0; // The width of a space - calculated below
          
+     function do_indent() {
          $(".indentspaces").remove(); // Remove old indentation, if any
-         $('.indent').each(function(i) {
-             let indentpixels = $(this).data('indent')*pixels_per_indent;
-             let indentspaces = Math.round(indentpixels/pixels_per_space);
-             let nbsps = '';
-             while (indentspaces>=10) {
-                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-                 indentspaces -= 10;
-             }
-             // 6 is the length of "&nbsp;"
-             nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
 
-             $(this).prepend('<span class="indentspaces">' + nbsps + '</span>');
-             $(this).css('margin-left',indentpixels + 'px')
-                    .css('text-indent',(-indentpixels) + 'px');
-         })
+         <?php if ($_SESSION['indent_text'] ?? false): ?>
+             // We do indentation of the first line of a paragraph by inserting an appropriate number of spaces.
+             // We do indentation of the following lines of a paragraph by seting margin-left.
+             // The reason we don't use margin-left for the first line is because we want to be able to
+             // copy-paste an indented text into a document.
+         
+
+             // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
+             // By dividing by maxindent+4 rather than maxindent below, we leave a litte room for the text.
+             let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+4)),40); 
+         
+             $('.indented-text').each(function(i) {
+                 let indentpixels = $(this).data('indent')*pixels_per_indent;
+                 let indentspaces = Math.round(indentpixels/pixels_per_space);
+                 let nbsps = '';
+                 while (indentspaces>=10) {
+                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                     indentspaces -= 10;
+                 }
+                 // 6 is the length of "&nbsp;"
+                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
+
+                 $(this).prepend('<span class="indentspaces">' + nbsps + '</span>');
+                 $(this).css('margin-left',indentpixels + 'px')
+                        .css('text-indent',(-indentpixels) + 'px');
+             });
+         <?php endif; ?>
+
+         <?php if ($_SESSION['indent_number'] ?? true): ?>
+             $(".indented-number").each(function(i) {
+                 let indentspaces = $(this).data('indent');
+                 let nbsps = '';
+                 while (indentspaces>=10) {
+                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                     indentspaces -= 10;
+                 }
+                 // 6 is the length of "&nbsp;"
+                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
+
+                 $(this).prepend('<span class="indentspaces">' + nbsps + '|</span>');
+             })
+         <?php endif; ?>
      }
-
+     <?php endif; ?>
      
     $(function() {
-            <?php if ($_SESSION['showverse']=='on'): ?>
-                $('.verseno').show();
-            <?php else: ?>
-                $('.verseno').hide();
-            <?php endif; ?>
+         <?php if ($_SESSION['showverse']=='on'): ?>
+             $('.verseno').show();
+         <?php else: ?>
+             $('.verseno').hide();
+         <?php endif; ?>
 
-            <?php if ($_SESSION['showchap']=='on'): ?>
-                $('.chapno').show();
-            <?php else: ?>
-                $('.chapno').hide();
-            <?php endif; ?>
+         <?php if ($_SESSION['showchap']=='on'): ?>
+             $('.chapno').show();
+         <?php else: ?>
+             $('.chapno').hide();
+         <?php endif; ?>
 
-            <?php if ($_SESSION['showh2']=='on'): ?>
-                $('h2').show();
-                $('.paragraph1').css('text-indent','0');
-            <?php else: ?>
-                $('h2').hide();
-                <?php if ($_SESSION['showh2']=='off'): ?>
-                    $('.paragraph1:first-of-type').css('text-indent','0');
-                <?php endif; ?>
-            <?php endif; ?>
-
-            <?php if ($_SESSION['showfna']=='on'): ?>
-                $('.refa').show();
-            <?php else: ?>
-                $('.refa').hide();
-            <?php endif; ?>
-
-            <?php if ($_SESSION['showfn1']=='on'): ?>
-                $('.ref1, .explain, .refh').show();
-            <?php else: ?>
-                $('.ref1, .explain, .refh').hide();
-            <?php endif; ?>
-
-            <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
-                $('.paragraph').css('display','inline');
-                $('.poetry').css('display','inline').css('margin-left','0');
-                $('.verseno').before('<br class="versebreak">');
-            <?php endif; ?>
-
-            <?php if ($_SESSION['linespace']=='on'): ?>
-                $('.paragraph').css('line-height','2');
-                $('.poetry').css('line-height','2');
-                $('.indent').css('line-height','2');
-            <?php endif; ?>
+         <?php if ($_SESSION['showh2']=='on'): ?>
+             $('h2').show();
+             $('.paragraph1').css('text-indent','0');
+         <?php else: ?>
+             $('h2').hide();
+             <?php if ($_SESSION['showh2']=='off'): ?>
+                 $('.paragraph1:first-of-type').css('text-indent','0');
+             <?php endif; ?>
+         <?php endif; ?>
 
          <?php if ($_SESSION['showfna']=='on'): ?>
-         $('[data-let]').each(function( index ) {
-             $(this).text("[" + $(this).data('let') + "]");
-             <?php if ($_SESSION['showfnblock']=='on'): ?>
-             $('#footnotes').append("<b>" + $(this).data('let') + ":</b> " + $(this).attr('title') + "<br>");
-             <?php endif; ?>
-         });
+             $('.refa').show();
+         <?php else: ?>
+             $('.refa').hide();
+         <?php endif; ?>
+
+         <?php if ($_SESSION['showfn1']=='on'): ?>
+             $('.ref1, .explain, .refh').show();
+         <?php else: ?>
+             $('.ref1, .explain, .refh').hide();
+         <?php endif; ?>
+
+         <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
+             $('.paragraph').css('display','inline');
+             $('.poetry').css('display','inline').css('margin-left','0');
+             $('.verseno').before('<br class="versebreak">');
+         <?php endif; ?>
+
+         <?php if ($_SESSION['linespace']=='on'): ?>
+             $('.paragraph').css('line-height','2');
+             $('.poetry').css('line-height','2');
+             $('.indent').css('line-height','2');
+         <?php endif; ?>
+
+         <?php if ($_SESSION['showfna']=='on'): ?>
+             $('[data-let]').each(function( index ) {
+                 $(this).text("[" + $(this).data('let') + "]");
+                 <?php if ($_SESSION['showfnblock']=='on'): ?>
+                 $('#footnotes').append("<b>" + $(this).data('let') + ":</b> " + $(this).attr('title') + "<br>");
+                 <?php endif; ?>
+             });
          <?php endif; ?>
          
          <?php if ($_SESSION['showfn1']=='on'): ?>
-         $('[data-num]').each(function( index ) {
-             $(this).text("[" + $(this).data('num') + "]");
-             <?php if ($_SESSION['showfnblock']=='on'): ?>
-             $('#footnotes').append("<b>" + $(this).data('num') + ":</b> " + $(this).attr('title') + "<br>");
-             <?php endif; ?>
-         });
+             $('[data-num]').each(function( index ) {
+                 $(this).text("[" + $(this).data('num') + "]");
+                 <?php if ($_SESSION['showfnblock']=='on'): ?>
+                 $('#footnotes').append("<b>" + $(this).data('num') + ":</b> " + $(this).attr('title') + "<br>");
+                 <?php endif; ?>
+             });
          <?php endif; ?>
          
          $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
 
-         // Find maxindent
-         $(".indent").each(function() {
-             thisindent = $(this).data("indent");
-             if (thisindent>maxindent)
-                 maxindent = thisindent
-         });
-         do_indent();
-         $(window).resize(do_indent);
+         <?php if ($_SESSION['exegetic']): ?>
+             // Find maxindent
+             $(".indented-text").each(function() {
+                 thisindent = $(this).data("indent");
+                 if (thisindent>maxindent)
+                     maxindent = thisindent
+             });
+     
+             pixels_per_space = $('#tenspaces').width()/10;
 
+             labelwidth = $('#labelex').width();
+             $('#labelex').hide();
+         
+             <?php if ($_SESSION['indent_number'] ?? true): ?>
+                 labelwidth += maxindent*pixels_per_space;
+             <?php endif; ?>
+     
+             $(".textline").css('margin-left',labelwidth + 'px')
+                           .css('text-indent',-labelwidth + 'px');
+             $(".indented-number").css('width',labelwidth + 'px');
+     
+             do_indent();
+             $(window).resize(do_indent);
+         <?php endif; ?>
+         
          // Handler for Bible references
          $('.refh').on('click', function() {
              $('#ref-body').html($(this).data('refs'));
@@ -311,6 +384,7 @@ makemenus(null);
             <div class="card-body bibletext">
                 <?= $text ?>
                 <span id="tenspaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span id="labelex">|29&nbsp;&nbsp;&nbsp;</span>
             </div>
           </div>
         </div>
