@@ -19,6 +19,8 @@ setifpost('showfnblock');
 setifpost('oneline');
 setifpost('linespace');
 setifpost('exegetic');
+setifpost('indent_type');
+setifpost('include_orig_lang');
 setifpost('markadded');
 setifpost('font');
 setifpost('fontsize');
@@ -48,7 +50,7 @@ if (isset($_POST['usecookie'])) {
         $use_https = true;
     }
 
-    foreach (['showverse', 'showchap', 'showh2', 'showfna', 'showfn1', 'showfnblock', 'oneline', 'linespace', 'exegetic', 'markadded', 'godsname', 'font','fontsize'] as $key)
+    foreach (['showverse', 'showchap', 'showh2', 'showfna', 'showfn1', 'showfnblock', 'oneline', 'linespace', 'exegetic', 'indent_type', 'include_orig_lang', 'markadded', 'godsname', 'font','fontsize'] as $key)
         setcookie($key, $_SESSION[$key], time()+60*60*24*365*2 /* 2 years */, '/', $host, $use_https, true);
 }
 

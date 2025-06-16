@@ -97,6 +97,11 @@ hr {
     background: rgba(255,255,255,0.9);
 } 
 
+div#syn-options {
+    margin-left: 5em;
+}
+
+
 div.explain {
     margin-bottom: 1ex;
 }

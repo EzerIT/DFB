@@ -198,12 +198,16 @@ END;
         <div class="card mt-4">
             <h1 class="card-header bg-info text-light">Ophavsret</h1>
             <div class="card-body">
-                <p>Intet indhold i Den Frie Bibel er belagt med ophavsret. Det betyder at alle har ret
+                <p>Intet <i>dansk</i> indhold i Den Frie Bibel er belagt med ophavsret. Det betyder at alle har ret
                     til at gøre hvad som helst med teksten: Kopiere den, udskrive den, citere den, lægge
                     den på andre websider, radiotransmittere den, sælge den, prædike over den, osv.</p>
                 <p>Derimod er selve betegnelsen <i>Den Frie Bibel</i> et varemærke, og hvis du ændrer
                     teksten, må du ikke benytte betegnelsen <i>Den Frie Bibel</i> om den ændrede
                     tekst.</p>
+                <p>Den <i>hebraiske eller aramæiske</i> tekst som kan vises sammen med visse kapitler, er underlagt denne ophavsret:
+                    © 2015 Eep Talstra Center for Bible and Computer, licenseret under en
+                    <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.da">Creative Commons Navngivelse-IkkeKommerciel 4.0 International Licens</a>.
+                    (Selve tekstdatabasen kan findes via denne bestandige identifikator: <a href="http://www.persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-048i-71" target="_blank">urn:nbn:nl:ui:13-048i-71</a>.)</p>
             </div>
         </div>
    

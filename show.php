@@ -1,8 +1,4 @@
 <?php
-  // TODO: Tjek at $book er lovlig, så det bliver vanskeligere at misbruge fx bog="../../../../etc/passwd"
-  // Hacket slipper ikke igennem i øjeblikket, men det er mere held end forstand.
-
-
 require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('formatter.inc.php');
@@ -98,6 +94,12 @@ if (!isset($abbrev[$bog]))
     makeheadstart('Ulovlig henvisning', true);
 else
     makeheadstart($abbrev[$bog] . ' ' . $kap, true);
+
+if ($_SESSION['exegetic']=='on' && isset($style[$bog]))
+    $syntactic_layout = (is_array($style[$bog]) ? $style[$bog][$kap] : $style[$bog]) == $modenhed['med indrykning'];
+else
+    $syntactic_layout = false;
+
 ?>
     <style>
     .bibletext, .biblenotes, .reflinks {
@@ -164,7 +166,7 @@ else
          font-weight: bold;
      }
      
-     div.indented-number {
+     div.indented-number, div.indented-number-blank {
          display: inline-block;
          vertical-align: top;
          width: 11em;
@@ -195,7 +197,7 @@ else
          src: url('fonts/SILEOT.woff') format('woff');
      }
 
-     span.hebrew {
+     .hebrew {
          font-family: "Ezra SIL Webfont" !important;
          font-size: 120% !important;
      }
@@ -203,56 +205,56 @@ else
 
     <script>
 
-     <?php if ($_SESSION['exegetic']): ?>
-     let maxindent = 0; // The maximum indentation level of the text
-     let pixels_per_space = 0; // The width of a space - calculated below
+     <?php if ($syntactic_layout): ?>
+         let maxindent = 0; // The maximum indentation level of the text
+         let pixels_per_space = 0; // The width of a space - calculated below
          
-     function do_indent() {
-         $(".indentspaces").remove(); // Remove old indentation, if any
+         function do_indent() {
+             $(".indentspaces").remove(); // Remove old indentation, if any
 
-         <?php if ($_SESSION['indent_text'] ?? false): ?>
-             // We do indentation of the first line of a paragraph by inserting an appropriate number of spaces.
-             // We do indentation of the following lines of a paragraph by seting margin-left.
-             // The reason we don't use margin-left for the first line is because we want to be able to
-             // copy-paste an indented text into a document.
-         
+             <?php if ($_SESSION['indent_type']=='text'): ?>
+                 // We do indentation of the first line of a paragraph by inserting an appropriate number of spaces.
+                 // We do indentation of the following lines of a paragraph by seting margin-left.
+                 // The reason we don't use margin-left for the first line is because we want to be able to
+                 // copy-paste an indented text into a document.
+                 
+     
+                 // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
+                 // By dividing by maxindent+4 rather than maxindent below, we leave a litte room for the text.
+                 let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+4)),40); 
+                 
+                 $('.indented-text').each(function(i) {
+                     let indentpixels = $(this).data('indent')*pixels_per_indent;
+                     let indentspaces = Math.round(indentpixels/pixels_per_space);
+                     let nbsps = '';
+                     while (indentspaces>=10) {
+                         nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                         indentspaces -= 10;
+                     }
+                     // 6 is the length of "&nbsp;"
+                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
+     
+                     $(this).prepend('<span class="indentspaces">' + nbsps + '</span>');
+                     $(this).css('margin-left',indentpixels + 'px')
+                            .css('text-indent',(-indentpixels) + 'px');
+                 });
+             <?php endif; ?>
 
-             // Make indentation match maxindent; however, don't indent more than 40 pixels per level.
-             // By dividing by maxindent+4 rather than maxindent below, we leave a litte room for the text.
-             let pixels_per_indent = Math.min(Math.round($(".bibletext").width()/(maxindent+4)),40); 
-         
-             $('.indented-text').each(function(i) {
-                 let indentpixels = $(this).data('indent')*pixels_per_indent;
-                 let indentspaces = Math.round(indentpixels/pixels_per_space);
-                 let nbsps = '';
-                 while (indentspaces>=10) {
-                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-                     indentspaces -= 10;
-                 }
-                 // 6 is the length of "&nbsp;"
-                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
-
-                 $(this).prepend('<span class="indentspaces">' + nbsps + '</span>');
-                 $(this).css('margin-left',indentpixels + 'px')
-                        .css('text-indent',(-indentpixels) + 'px');
-             });
-         <?php endif; ?>
-
-         <?php if ($_SESSION['indent_number'] ?? true): ?>
-             $(".indented-number").each(function(i) {
-                 let indentspaces = $(this).data('indent');
-                 let nbsps = '';
-                 while (indentspaces>=10) {
-                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-                     indentspaces -= 10;
-                 }
-                 // 6 is the length of "&nbsp;"
-                 nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
-
-                 $(this).prepend('<span class="indentspaces">' + nbsps + '|</span>');
-             })
-         <?php endif; ?>
-     }
+             <?php if ($_SESSION['indent_type']=='number'): ?>
+                 $(".indented-number").each(function(i) {
+                     let indentspaces = $(this).data('indent');
+                     let nbsps = '';
+                     while (indentspaces>=10) {
+                         nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                         indentspaces -= 10;
+                     }
+                     // 6 is the length of "&nbsp;"
+                     nbsps += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;".substring(0,indentspaces*6);
+     
+                     $(this).prepend('<span class="indentspaces">' + nbsps + '|</span>');
+                 })
+             <?php endif; ?>
+         }
      <?php endif; ?>
      
     $(function() {
@@ -290,7 +292,7 @@ else
              $('.ref1, .explain, .refh').hide();
          <?php endif; ?>
 
-         <?php if ($_SESSION['oneline']=='on' && $_SESSION['exegetic']=='off'): ?>
+         <?php if ($_SESSION['oneline']=='on' && !$syntactic_layout): ?>
              $('.paragraph').css('display','inline');
              $('.poetry').css('display','inline').css('margin-left','0');
              $('.verseno').before('<br class="versebreak">');
@@ -322,7 +324,7 @@ else
          
          $('[data-toggle="tooltip"]').tooltip({trigger:'hover focus'});
 
-         <?php if ($_SESSION['exegetic']): ?>
+         <?php if ($syntactic_layout): ?>
              // Find maxindent
              $(".indented-text").each(function() {
                  thisindent = $(this).data("indent");
@@ -333,19 +335,21 @@ else
              pixels_per_space = $('#tenspaces').width()/10;
 
              labelwidth = $('#labelex').width();
-             $('#labelex').hide();
          
-             <?php if ($_SESSION['indent_number'] ?? true): ?>
+             <?php if ($_SESSION['indent_type']=='number'): ?>
                  labelwidth += maxindent*pixels_per_space;
              <?php endif; ?>
      
              $(".textline").css('margin-left',labelwidth + 'px')
                            .css('text-indent',-labelwidth + 'px');
              $(".indented-number").css('width',labelwidth + 'px');
+             $(".indented-number-blank").css('width',labelwidth + 'px');
      
              do_indent();
              $(window).resize(do_indent);
          <?php endif; ?>
+         $('#tenspaces').hide();
+         $('#labelex').hide();
          
          // Handler for Bible references
          $('.refh').on('click', function() {
@@ -362,6 +366,10 @@ else
                             .replace(/NR5RN/g,'e');
              $(this).html('<a href="mailto:' + email + '">' + email + '</a>');
          });
+
+         <?php if ($_SESSION['indent_type']=='text'): ?>
+         $('#main-container').removeClass('container').addClass('container-fluid');
+         <?php endif; ?>
      });
 
 
@@ -372,11 +380,11 @@ makeheadend();
 makemenus(null);
 ?>
 
-    <div class="container">
+    <div id="main-container" class="container">
       <div class="row">
         <div class="col-lg-9 col-xl-8">
             <?php
-            $formatter = make_formatter($bog, $kap, $fra, $til);
+            $formatter = make_formatter($bog, $kap, $fra, $til, $syntactic_layout);
             $text = $formatter->to_html();
             ?>
           <div class="card mt-4">

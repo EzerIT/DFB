@@ -1,7 +1,7 @@
 <?php
 
 class FormatText extends Formatter {
-    private $syntactic_layout;  // True if syntactic indentation is available and requested
+    private $fh; // File handle for original language text
 
     public function to_html() {
         $txt = file_get_contents(sprintf('tekst/%s%03d.txt',$this->book,$this->chapter));
@@ -11,8 +11,6 @@ class FormatText extends Formatter {
             echo "<p>Tekst indeholder dobbelt citationstegn.</p>\n";
             die;
         }
-
-        $this->syntactic_layout = preg_match('~//~',$txt) && $_SESSION['exegetic']=='on';
 
         // Handle verse restriction
         if ($this->from_verse>0) {
@@ -251,27 +249,7 @@ class FormatText extends Formatter {
         $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
         $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$this->chapter.':</span>\2</span>';
      
-        if ($this->syntactic_layout) {
-            // Handle indentation
-            //      (Regexp (.*?) matches the minimum number of arbitrary characters
-            //       (?= indicates a lookahead condition).
-            $from[] = '~//(\d+)\s*(.*?)\s*(?=//\d|$)~s'; // A double slash,
-            // digits,
-            // optional spaces,
-            // the minimal possible number of characters,
-            // optional spaces,
-            // "//\d" or end-of-line
-            $to[] = '<div class="textline"><div class="indented-number" data-indent="\1">\1</div><div class="indented-text" data-indent="\1">\2</div></div>\3';
-//            $to[] = '<div class="noindent"><div class="indentno" data-indent="\1">|\1</div>\2</div>\3';
-//            $to[] = '<div class="indent" data-indent="\1">QWW\2WWQ</div>\3';  // QWW...WWQ is removed below
-
-            $from[] = '/SHS/';
-            $to[] = '<span class="hebrew">';
-
-            $from[] = '/SHE/';
-            $to[] = '</span>';
-        }
-        else {
+        if (!$this->syntactic_layout) {
             // Remove indentation marker
             $from[] = '~//\d+[\x20\xa0\x09]*\R~m';  // Prevent that marker without text causes subsequent line feed to be removed
             $to[] = '';
@@ -316,6 +294,46 @@ class FormatText extends Formatter {
         $txt = preg_replace($from, $to, $txt);
 
 
+        if ($this->syntactic_layout) {
+            if ($_SESSION['include_orig_lang']=='on') {
+                $orig_file = sprintf('tekst/orig/%s%03d.txt',$this->book,$this->chapter);
+                ($this->fh = @fopen($orig_file,'r')) || die("Kan ikke finde filen $orig_file");
+                fgets($this->fh); // Skip identification line
+            }
+            
+            // (Regexp (.*?) matches the minimum number of arbitrary characters
+            // (?= indicates a lookahead condition).
+            $txt = preg_replace_callback('~//(\d+)\s*(.*?)\s*(?=//\d|$)~s', // A double slash,
+                                                                            // digits,
+                                                                            // optional spaces,
+                                                                            // the minimal possible number of characters,
+                                                                            // optional spaces,
+                                                                            // "//\d" or end-of-line
+                                         function($matches) {
+                                             if ($_SESSION['include_orig_lang']=='on') {
+                                                 $orig_line = fgets($this->fh);
+                                                 $orig_line = substr(strstr($orig_line,' '),1); // Strip indent number and space
+                                                 
+                                                 return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
+                                                      . $matches[1]
+                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
+                                                      . $matches[2]
+                                                      . '</div></div>'
+                                                       .'<div class="textline"><div class="indented-number-blank"></div>'
+                                                      . '<div class="indented-text" data-indent="' . $matches[1] . '"><span class="hebrew">'
+                                                      . $orig_line
+                                                      . '</span></div></div>';
+                                             }
+                                             else
+                                                 return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
+                                                      . $matches[1]
+                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
+                                                      . $matches[2]
+                                                      . '</div></div>';
+                                         }, $txt);
+        }
+
+        
         // Generate references
 
         $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',

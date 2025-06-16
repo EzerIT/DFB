@@ -52,7 +52,6 @@ class SfmTokenizer {
 
 class FormatSfm extends Formatter {
     private $output = '';      // HTML string is generated here
-    private $syntactic_layout; // True if syntactic indentation is available and requested
     private $synindent;        // Syntactic indentation value
     private $read_chapter;     // Chapter number read from file
 
@@ -93,8 +92,6 @@ class FormatSfm extends Formatter {
 
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");
-
-        $this->syntactic_layout = preg_match('/\\\\zei/',$txt) && $_SESSION['exegetic']=='on';
 
         // Remove following chapters
         $chapter1 = $this->chapter+1;

@@ -114,12 +114,14 @@ abstract class Formatter {
     protected $chapter;
     protected $from_verse;
     protected $to_verse;
+    protected $syntactic_layout;
 
-    public function __construct(string $book, int $chapter, int $from_verse, int $to_verse) {
+    public function __construct(string $book, int $chapter, int $from_verse, int $to_verse, bool $syntactic_layout) {
         $this->book = $book;
         $this->chapter = $chapter;
         $this->from_verse = $from_verse;
         $this->to_verse = $to_verse;
+        $this->syntactic_layout = $syntactic_layout;
     }
 
     abstract public function to_html();
@@ -138,7 +140,7 @@ require_once('format_text.inc.php');
 require_once('format_sfm.inc.php');
 
 
-function make_formatter(string $book, int $chapter, int $from_verse, int $to_verse) {
+function make_formatter(string $book, int $chapter, int $from_verse, int $to_verse, bool $syntactic_layout) {
     global $filetype, $chap;
 
     if (!isset($chap[$book]) || !in_array($chapter,$chap[$book]))
@@ -146,10 +148,10 @@ function make_formatter(string $book, int $chapter, int $from_verse, int $to_ver
     
     switch (is_array($filetype[$book]) ? $filetype[$book][$chapter] : $filetype[$book]) {
         case 'sfm':
-            return new FormatSfm($book,$chapter,$from_verse,$to_verse);
+            return new FormatSfm($book,$chapter,$from_verse,$to_verse,$syntactic_layout);
 
         case 'txt':
-            return new FormatText($book,$chapter,$from_verse,$to_verse);
+            return new FormatText($book,$chapter,$from_verse,$to_verse,$syntactic_layout);
     }
 }
         
