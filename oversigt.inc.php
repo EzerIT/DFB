@@ -229,7 +229,6 @@ $style['3mos']    = $modenhed['uden indrykning'];
 
 for ($k=1; $k<=36; ++$k)
     $style['4mos'][$k] = $modenhed['uden indrykning'];
-$style['4mos'][21]     = $modenhed['med indrykning'];
 
 $style['5mos']    = $modenhed['ufuldstændigt'];
 $style['dom']     = $modenhed['uden indrykning'];
