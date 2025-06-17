@@ -14,7 +14,8 @@
 //6 Joshafat, Akiluds søn, var arkivar;
 //7 v4 Benaja, Jojadas søn, var hærchef;  
 //8 Sadok og Ebjatar var præster;
-//7 v5 Azarja, Natans søn, stod over distriktsguvernørerne, og præsten Zabud, Natans søn, var kongens nærmeste rådgiver.
+//7 v5 Azarja, Natans søn, stod over distriktsguvernørerne,
+//8 og præsten Zabud, Natans søn, var kongens nærmeste rådgiver.
 //7 v6 Akishar var hofchef,
 //7 og Adoniram, Abdas søn, stod for pligtarbejdet.
 
