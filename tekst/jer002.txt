@@ -1,7 +1,7 @@
 ﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.05.2025>!!
+!!<Dato for denne version: 17.06.2025>!!
 
 ===Jeremias' Bog, kapitel 2===
 
@@ -75,10 +75,10 @@ i et land
 
 //14 for at I skulle spise af dets frugt og dets goder. 
 
-//13 Men I kom derind, 
-og I gjorde mit land urent,
+//13 Men I kom, 
+//13 og I gjorde mit land urent,
 
-og min arv{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tôʕēvāʰ* (>>vederstyggelighed<<) er et meget stærkt udtryk i GT som især anvendes om seksuel synd (3 Mos 18,22 og 13,18) og afgudsdyrkelse.}{H: 3 Mos 18,26-30.}
+//15 og min arv{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tôʕēvāʰ* (>>vederstyggelighed<<) er et meget stærkt udtryk i GT som især anvendes om seksuel synd (3 Mos 18,22 og 13,18) og afgudsdyrkelse.}{H: 3 Mos 18,26-30.}
 
 //14 v8 Præsterne sagde ikke: 
 
@@ -142,7 +142,7 @@ og min arv{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tô�
 
 //9 v14 Er Israel en slave,{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 30,10 HERRENS tjener.} 
 
-//16 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
+//13 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
 
 //12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: et >>spørgsmål<<, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias´ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 8,4-5.19.22.}
 
@@ -241,7 +241,7 @@ til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 //15 v24 som et vildæsel 
 
 //19 der er vant til ørken, 
-//19 i sin sjæls længsel snapper hun efter vejret! 
+//18 i sin sjæls længsel snapper hun efter vejret! 
 
 //17 Når hun er i brunst, 
 //18 hvem kan holde hende tilbage? 
@@ -345,7 +345,7 @@ som en ødelæggende løve.
 
 //11 for at søge kærlighed! 
 
-//1 Derfor har du også lært dine veje 
+//10 Derfor har du også lært dine veje 
 
 alt det onde.
 
