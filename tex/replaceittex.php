@@ -194,12 +194,13 @@ $with_headings = $_SERVER['argv'][6] == '+o';
 
 echo<<<'END'
 
-\documentclass[11pt,oneside,a4paper]{memoir}
+\documentclass[11pt,oneside,a4paper,twocolumn]{memoir}
 \usepackage{fontspec}
 \usepackage{xcolor}
 \usepackage{polyglossia}
 
 \setdefaultlanguage{danish}
+\setcolsepandrule{20pt}{0pt}
 
 %\setmainfont[Ligatures=TeX]{Times New Roman}
 \setmainfont[Ligatures=TeX]{DejaVu Serif Condensed}
@@ -421,9 +422,12 @@ echo<<<'END'
 \markright{}
 \tableofcontents*
 
+\onecolumn
+
 \chapter[Forord]{Forord}\setcounter{footnote}{0}\setcounter{pagenote}{0}
 \input{forord.tex}%
 
+\twocolumn
 
 END;
 
