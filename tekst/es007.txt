@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 16.04.2025>!!
+!!<Dato for denne version: 17.06.2025>!!
 
 
 ===Esajas’ Bog, kapitel 7===
@@ -77,4 +77,4 @@ som han har lejet på den anden side af floden, hos kongen af Assyrien,
 
 //8 De skal kun være til at slippe kvæg løs på
 
-og til at blive trådt ned af får.
+og til at blive trådt ned af får.<<

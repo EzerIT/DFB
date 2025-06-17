@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.11.2022>!!
+!!<Dato for denne version: 17.06.2025>!!
 
 ===Esajas’ Bog, kapitel 3===
 
@@ -148,4 +148,4 @@ brystbåndene, parfumedåserne og amuletterne,
 
 //6 v26 I hendes{T: Dvs. Jerusalems.} porte skal der være sorg //4 og klage,
 
-//6 og hun selv skal sidde //5 tomhændet //6 på jorden.
+//6 og hun selv skal sidde //5 tomhændet //6 på jorden.<<
