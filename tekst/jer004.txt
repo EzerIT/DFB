@@ -125,7 +125,7 @@ og lederne vil miste modet,{T: Ordret: >>hjerterne vil gå til grunde<<.}
 //10 Og nu er sværdet nået helt til sjælen.<<
 //5 v11 Til den tid vil der blive sagt til dette folk og til Jerusalem:
 
-//6{T: HERREN taler.} >>En glohed vind kommer fra de nøgne høje i ørkenen{T: Et udtryk for dom og ødelæggelse.}
+//6 >>En glohed vind kommer fra de nøgne høje i ørkenen{T: Et udtryk for dom og ødelæggelse.}
 
 ned mod{T: Ordret: >>vej<<.} mit folks datter,{T: Kan oversættes >>min datter – mit folk<<, >>mit kære folk<<. Men da >>Israels sønner<< = >>Israel<<, må det medføre >>mit folks datter<< = >>mit folk<<. Dette og lignende poetiske udtryk møder vi gentagne gange i Jeremias’ bog.}{H: Jer 8,19.22; 9,1; 14,17; Klag 2,11; 3,48; 4,3.6.10; 5 Mos 32,19-20; Jer 31,9; 2 Kor 6,18.}
 

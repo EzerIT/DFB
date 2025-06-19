@@ -1,0 +1,199 @@
+﻿!!<Oversættelse: Jens Bruun Kofoed>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 19.06.2025>!!
+
+===Første Kongebog, kapitel 7===
+
+==Salomos palads==
+//0 v1 Salomo byggede på sit eget palads i 13 år,
+//1 og så stod det færdigt.
+//1 v2 Han byggede Libanonskovhuset,
+//4 100 alen langt,
+//5 50 alen bredt,
+//5 og 30 alen højt
+//3 med 4 rækker af cedertræssøjler 
+//4 og cedertræskapitæler{E: Det hebraiske ord *xᵊrutôt* kan også betyde >>bjælker<<, men angiver her formentlig de kapitæler, der afsluttede søjlerne foroven.} oven på søjlerne. 
+//7 v3 Han lagde cedertræ oven på de paneler{E: Eftersom det hebraiske *ṣēlāʕ* angiver noget smalt eller ribbensagtigt, må der være tale om triglyffer, dvs. en ornamentering bestående af en rektangulær plade med tre lodrette, konkave riller.}
+//8 som hvilede på søjlerne,
+//6 45 paneler
+//7 15 triglyffer per række{T: Ordret >>45, 15 per række<<. Beskrivelsen har voldt oversættere problemer siden antikken eftersom matematikken ikke går op, hvis >>15 per række<< refererer til de fire rækker af søjler. Det vil give 60, ikke 45. LXX harmoniserer derfor til >>tre rækker<< i vers 3, mens andre oversættelser harmoniserer >>45<< til >>60<<. Hvis der er tale om 15 triglyffer, altså 15 paneler med tre lodrette, konkave riller, giver MT imidlertid mening og kan fastholdes.}
+//5 v4 Der var tre rækker af indramninger,
+//6 lysning sad over for lysning tre gange.
+//7 v5 Alle åbninger og dørstolper havde fire indhak i ramme og yderkant, lysning sad over for lysning tre gange.
+//2 v6 Han lavede søjlehallen,
+//5 50 alen lang
+//6 30 alen bred,
+//4 og en forhal foran den{T: Ordret: >>foran dem<<, dvs. søjlerne i hallen.}
+//4 med søjler og en gesims oven over dem.
+//3 v7 Også tronsalen,
+//6 der hvor han holdt rettergang,
+//5 domssalen, lavede han
+//6 og beklædte den med cedertræ fra gulvet til loftsbjælkerne.{T: Ordret >>fra gulvet til gulvet<<, hvilket ikke giver mening. Ledsætningen er ikke oversat i LXX mens Peshitta og Vulgata oversætter med >>til loftsbjælkerne<<.}
+//4 v8 Hans egne gemakker,{N: Hus.}
+//9 der, hvor han selv boede,
+//8 lå ud til den anden gårdsplads i forhold til søjlehallen 
+//7 og var ligesom dette arbejde.
+//6 Salomo lavede gemakker til Faraos datter,
+//8 som han havde giftet sig med,
+//7 svarende til denne søjlehal.
+//5 v9 Alle disse bygninger{T: >>Bygninger<< er tilføjet.} var af kostbare sten, efter kvaderstensmål,
+//8 skåret med stensav,
+//7 indvendigt og udvendigt fra fundamentet op til murkronerne{E: *ṭᵊfāḥôt* bruges kun her som arkitektonisk term, og betydningen er derfor usikker. Svarer sandsynligvis til den danske tekniske term >>murkrone<<.} og fra ydersiden ud mod den store gårdsplads.
+//6 v10 Fundamentet var også af kostbare sten, store sten på ti og otte alen.{T: Ordret: >>store sten, sten på ti alen og sten på otte alen<<.}
+//8 v11 Ovenpå var der kostbare sten efter kvaderstensmål og cedertræ.
+//7 v12 Den store gårdsplads omkring havde tre skifter kvadersten
+//8 og et skifte cedertræ.i
+//9 Det gjaldt også den indre forgård til HERRENS tempel og templets forhal{T: Det kan også referere til paladsets søjlehal.}
+
+==Templets udstyr==
+//1 v13 Kong Salomo sendte bud efter
+//4 og tog imod Hiram fra Tyrus.
+//5 v14 Han var søn af en enke fra Naftalis stamme.
+//7 Hans far var fra Tyrus,
+//8 og havde været kobbersmed.
+//6 Han var fuld af visdom, indsigt og kundskab
+//7 til at udføre alle arbejder i kobber.
+//4 Han kom til kong Salomo,
+//4 og udførte alt arbejdet for ham.
+
+//4 v15 Han formede de to bronzesøjler.
+//6 Hver søjle var 18 alen høj,
+//7 og målesnoren omkring den anden viste 12 alen.{T: Ordret: >>18 alen høj, den ene søjle, og en snor, 12 alen, omkredsede den anden søjle<<.  Det må være højden og omkredsen på hver søjle der er angivet.}
+//5 v16 Desuden de to kapitæler
+//11 til toppen af søjlerne,
+//10 støbt i kobber,
+//9 højden på den ene kapitæl var fem alen, 
+//10 ligesom højden på den anden kapitæl var fem alen.
+//8 v17 Der var gitre af fletværk,{T: Ordret: >>gitre af gitterværk<<.}
+//9 kvaster og kædeværk på kapitælerne
+//11 på toppen af søjlerne,
+//10 syv på den ene kapitæl,
+//11 syv på den anden.
+//7 v18 Han lavede søjlerne og to rækker granatæbler{T: >>Granatæbler<< står ikke i den hebraiske tekst, men er for klarhedens skyld suppleret i lyset af vers 20 og med støtte fra både hebraiske manuskripter og gamle græske oversættelser.} rundt om det ene fletværk
+//9 for at dække kapitælerne
+//10 på toppen af søjlerne,
+//8 og således gjorde han også på den anden kapitæl.
+//6 v19 Kapitælerne,
+//9 som hvilede på søjlerne
+//8 ved Forhallen, var fire alen og udformet som en lilje{T: Det hebraiske ord betyder >>lilje<< og kan betegne alle slags liljer. Siden det optræder i en arkitektonisk kontekst, refererer det måske til en bestemt slags lilje, nemlig lotusblomsten, der var hyppigt anvendt som ornamentering.} 
+//7 v20 Kapitælerne på de to søjler lå desuden lige oven over den vulst,
+//9 som var ved siden af fletværket.
+//8 Der var 200 granatæbler i rækker, også{T: Ordet >>også<< er tilføjet.} rundt om den anden kapitæl.
+//4 v21 Han rejste søjlerne ved forhallen til templet.{T: Ordret: >>til Tempelhallen<<, altså forhallen til hovedrummet i templet.}
+//7 Han rejste den højre søjle,
+//8 og kaldte den Jakin;
+//7 han rejste den venstre søjle,
+//8 og kaldte den Boaz.
+//6 v22 På søjlehovederne blev der udført liljeværk,
+//5 og så var arbejdet på søjlerne færdigt.
+
+//4 v23 Han lavede Havet{H: 2 Mos 30,18.}
+//6 som var støbt,
+//5 ti alen fra kant til kant,
+//10 cirkelrundt,
+//9 og fem alen højt.
+//8 Målesnoren, der gik omkring det, viste 30 alen.
+//7 v24 Der var kalabasformet ornamentering under Havets kant hele vejen rundt,
+//9 ti på en alen,
+//8 omkredsende det fuldstændigt,
+//9 to rækker kalabasformet ornamentering støbt i ét med det.{T: Ordret: >>støbt i dets støbning<<}
+//6 v25 Det stod på tolv okser, 
+//10 tre vendte mod nord, 
+//11 tre mod vest, 
+//11 tre mod syd 	
+//11 og tre mod øst;
+//9 Havet stod oven på dem, 
+//10 og deres bagkroppe vendte indad. 
+//8 v26 Det var en håndsbredde tykt,
+//9 dets kant var som kanten på et bæger, lavet som en blomstrende lilje;
+//7 2000 bat{N: Gt-mål} rummede det.
+
+//4 v27 Han lavede ti stel af bronze,
+//7 hvert stel var fire alen langt,
+//10 fire alen bredt,
+//10 og tre alen højt.
+//9 v28 Således var stellene lavet:
+//10 De havde paneler,{T: Det hebraiske ord betyder >>indramning<<, men her må der være tale om >>paneler<< eller >>relieffer<<.}
+//11 og panelerne var mellem rammerne.{E: Det hebraiske *šālāv* betyder >>samling<<, og fordi der her er tale om samlingerne af panelerne, er oversættelsen >>rammerne<< valgt.}
+//12 v29 På panelerne,
+//15 som var mellem rammerne,
+//14 var der løver, okse og keruber,
+//13 og på samme måde var der på panelerne oven over
+//14 og neden under løverne og oksen kransformede arbejder med facetskæring.{E: Det hebraiske *môrād* betegner noget der hænger ud over noget eller bevæger sig nedad, og henviser her formentlig til en stil, hvor udsmykningen er designet til at fremstå som om den falder eller bevæger sig nedad, typisk i buede eller faldende linjer.}
+//8 v30 Der var kobberaksler og fire kobberhjul på hvert stel.
+//11 Det havde fire fødder.
+//13 De havde skråstivere{T: Ordret: >>skulderblade<<.}
+//14 neden under bækkenet, og skråstiverne var støbt
+//15 på hver side som kranse.
+//12 v31 Dets munding inden for kransen{E: *kōteret* betyder >>kapitæl<<, men må her forstås som den afslutning på toppen der omkranser åbningen.} og opad var en alen højt.{E: Den hebraiske tekst har siden antikken voldt oversættere problemer. LXX oversætter tilsyneladende en variant i forhold til MT med sit >>egerne på hjulet var (fastgjort?) i stellet<<. Vulgata forsøger formentlig at fastholde MT med sit >>indeni var der et støttepunkt ved toppen af hovedet, og det der viste sig udenfor, var en alen højt<<.} 
+//13 Dets munding var cirkelrund
+//15 og lavet sådan at den ragede halvanden alen op.
+//14 Også på dets munding var der udskæringer, og dets{E: MT har >>deres<<, men eftersom der i lyset af konteksten refereres til >>bækkenerne,<< oversættes der med støtte i 2 hebraiske manuskripter i singularis med >>dets<<.} paneler
+//15 var firkantede,
+//16 ikke runde.
+//10 v32 De fire hjul var under panelerne,
+//12 og hjullejerne sad på stellet.
+//13 Hvert af hjulene var halvanden alen højt.
+//11 v33 Hjulene var lavet som vognhjul,
+//12 deres lejer, fælge, eger og nav
+//13 var alle støbt.
+//9 v34 Der gik fire skråstivere til de fire hjørner på hvert stel,
+//11 dets skråstivere gik i ét med stellet{T: Ordret: >>fra stellet dets skråstivere<<. Betydningen er usikker, og oversættelsen må betragtes som et kvalificeret gæt (med støtte i Vulgata)}
+//10 v35 På toppen af stellet
+//13 var der et halv alen højt 
+//12 cirkelrundt fodstykke,{T: Ordret: >>rund cirkel<<.}
+//11 og på toppen af stellet gik stiverne og panelerne i ét med det.
+//6 v36 På fladerne af dets stivere og på dets stel indgraverede han keruber, løver og palmetter hvor der var tomme felter og rammer, 
+//7 og kranse hele vejen rundt.
+//5 v37 Således lavede han de ti stel
+//6 med samme støbning, mål og form for dem alle.
+
+//4 v38 Han lavede de ti bronzebækkener,
+//5 som kunne rumme 40 bat hver.
+//6 Hvert bækken var fire alen,
+//7 og der var ét bækken på hvert af de ti stel.
+//4 v39 Han stillede stellene op,
+//6 fem ved templets sydside{T: Ordret: >>templets højre skulder<<, som set fra vest er templets sydside.}
+//7 og fem ved dets venstre.
+//5 Havet placerede han ved templets sydøstlige hjørne,{T: Ordret: >>ved templets sydside, østligt i forhold til syden<<.} 
+
+//3 v40 Hiram lavede askespandene{E: MT har *hakkiyyōrôt* >>bækkenerne<<, men jf. vers 45 (og 2 Mos 27,3 og 38,3) og med støtte i en række hebraiske manuskripter, Septuaginta, Peshitta og Vulgata, oversættes der i stedet for med >>askespandene<<, svarende til hebraisk *hassîrôth*.} skovlene og stænkeskålene.
+//3 Dermed var Hiram færdig
+//4 med at gøre alt det arbejde,
+//6 han udførte for kong Salomo på HERRENS tempel:
+//5 v41 De to søjler, vulsterne på kapitælerne
+//7 på toppen af de to søjler,
+//6 de to gitre
+//8 til at dække de to vulster på kapitælerne
+//9 på toppen af søjlerne,
+//7 v42 de 400 granatæbler til de to gitre,
+//8 to rækker granatæbler på hvert gitter
+//9 til at dække de to vulster på kapitælerne
+//10 ovenpå søjlerne;
+//7 v43 de ti stel og de ti bækkener på stellene;
+//7 v44 Havet selv og de tolv okser under Havet;
+//7 v45 askespandene, skovlene, stænkeskålene
+//8 og alle de redskaber,
+//10 som Hiram havde lavet for kong Salomo til HERRENS tempel
+//9 i poleret bronze.
+//2 v46 Kongen fik dem støbt i nedgravede støbeforme{T: Ordret: >>jordstøbeforme<<.} i Jordandalen mellem Sukkot og Saretan.
+//1 v47 Salomo lod alle redskaberne være på grund af deres meget store mængde,
+//2 vægten af bronzen blev ikke beregnet.
+
+//1 v48 Salomo lavede alle genstandene,
+//5 i HERRENS tempel:
+//4 Guldalteret, bordet, 
+//6 som skuebrødene lå på, 
+//5 også af guld,
+//3 v49 lysestagerne,
+//6 fem til højre
+//7 og fem til venstre foran det inderste rum,
+//5 af rent guld,
+//4 blomsten, lamperne og tængerne af guld;
+//4 v50 bægrene, lyseslukkerne, stænkeskålene, skålene{E: Det hebraiske *kaf* >>hånd, håndflade<< anvendes i kultisk kontekst som en teknisk term for en skål på størrelse med en *hul håndflade* og betegner formentlig en skål, der var beregnet til røgelse.} og fyrbækkenerne af rent guld;
+//4 hængslerne{E: Betydningen af det hebraisk *pōt* er usikker, eftersom det kun er attesteret to gange i bibelsk hebraisk. I Es 3,17 står det i en parallellisme med *qodqōd* >>isse, kronen af hovedet<< og oversættes derfor generelt med >>isse<<. Her, hvor det bruges om en dør, er der formentlig tale om *toppen* af døren, altså soklerne, som dørens hængsler sidder i, eller en betegnelse for både sokkel og hængsel.} for på dørene ind til templets indre, til det Allerhelligste, og på dørene ind til tempelhallen, af guld. 
+
+//2 v51 Så var alt det arbejde fuldstændig færdigt,
+//3 som kong Salomo havde udført på HERRENS tempel. 
+//1 Salomo hentede sin far Davids helliggaver,
+//2 og anbragte sølvet, guldet, og genstandene i skatkamrene i HERRENS tempel.

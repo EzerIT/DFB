@@ -149,7 +149,7 @@
 //7 skal have det.
 //6 Hug til!<<
 //3 v27 Kongen svarede
-//4:
+//4 :
 //5 >>Giv hende det levende barn{T: Ordret: >>den der er født levende<<.}
 //7 og slå det endelig ikke ihjel. 
 //6 Hun er hans mor.<<

@@ -8,7 +8,7 @@
 
 
 //0 v1 Da svarede Job HERREN 
-//2:
+//2 :
 
 //3 v2 >>Jeg ved 
 //7 at du formår alt, 
