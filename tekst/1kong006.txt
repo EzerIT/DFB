@@ -1,0 +1,132 @@
+﻿!!<Oversættelse: Jens Bruun Kofoed>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 19.06.2025>!!
+
+===Første Kongebog, kapitel 6===
+
+==Salomos tempel==
+//0 v1 I det 480. år
+//3 efter israelitternes udvandring fra Egypten,
+//2 i det fjerde år, i måneden ziv
+//4 – det er den anden måned –
+//3 efter Salomo var blevet konge over Israel,
+//1 begyndte han at bygge et tempel for HERREN.
+
+//4 v2 Templet
+//6 som kong Salomo byggede for HERREN,
+//5 var 60 alen{N: Gt-mål} langt,
+//6 20 bredt
+//6 og 30 alen højt.
+//4 v3 Forhallen ind til selve templet
+//5 var 20 alen lang i forhold til templets bredde,
+//5 10 alen dyb foran templet.
+//3 v4 Han lavede vinduer med smalle rammer{E: Substantivet *šᵊqufîm* forekommer kun her og i Ez 41,16, begge gange i pluralis og sammen med >>vinduer<< og har grundbetydningen >>rammer<<. Roden *ʔṭm* anvendes bare otte gange i bibelsk hebraisk, og har grundbetydningen >>lukke<<. Roden bruges her i form af et passivt participium der beskriver vinduerne som i én eller anden forstand >>værende lukkede<<. Nogle oversætter hele udtrykket med >>vinduer med gitterværk i rammer<< – altså vinduer med sprosser – men eftersom tanken snarere er at begrænse indsyn til templet, er oversættelsen >>vinduer med smalle rammer<< valgt her.}
+//3 v5 og byggede en flad bygning{E: De fleste manuskripter har konsonanterne *yṣwʕ* (ketiv), der betyder >>seng, leje<<, mens en del foreslår læsningen *yṣʕ* (qere), der betyder >>noget fladt<<. Eftersom >>noget fladt op ad muren<< må være en sidebygning med fladt tag, er det oversat med >>en flad bygning<< for at fastholde den masoretiske tekst. LXX har *melathra*, der kan betyde >>tag-tømmer, tag-konstruktioner, tage<< eller >>bygninger, huse<<.} op ad templets mur hele vejen rundt,
+//5 rundt om templets mure, både til Tempelhallen og til det Allerhelligste.
+//6 Han byggede siderum{E: Her har både  MT og LXX et andet ord, henholdsvis *ṣᵊlāʕôt* >>siderum<< (eller bogstaveligt >>ribben på huset<<) og *he pleura* i samme betydning.} hele vejen rundt.
+//4 v6 Den nederste etage af den flade bygning
+//7 var fem alen bred,
+//6 den midterste
+//7 seks alen bred,
+//6 og den tredje
+//7 syv alen i bredden,
+//5 for han lavede afsatser udvendigt på templet hele vejen rundt
+//6 for ikke at bygge ind i templets mure.
+
+//2 v7 Da templet
+//5 blev bygget,
+//4 blev der brugt færdige sten fra stenbruddet{T: Ordret: >>hele sten, stenbrudssten<<.}
+//5 så hverken hamre, hakkeøkser eller noget som helst redskab af jern hørtes i templet
+//6 i forbindelse med byggeriet.
+//3 v8 Indgangen til sidebygningens nederste{E: MT har *hattîxōnāʰ* (>>den midterste<<), men af konteksten fremgår det at der må være tale om den nederste. Oversættelsen >>nederste<< vælges derfor med støtte i LXX.} etage var på templets sydside,{T: Ordret >>højre side af templet<<.}
+//4 og trappeskakterne{E: Ordet forekommer kun her, og betydningen er derfor usikker. LXX har >>vindeltrappe<<.} førte til den midterste etage,
+//5 og fra den midterste til tredje etage.
+//1 v9 Han byggede templet
+//3 færdigt
+//2 og gav huset loft med spær{E: Ordet forekommer kun her, og betydningen er derfor usikker. I sammenhængen må det imidlertid dreje sig om en slags tømmer. Ordet mangler i LXX.} og paneler{E: Ordet forekommer tre gange om soldater på >>rækker<< og to gange som arkitektonisk term i ukendt betydning, men i lyset af førstnævnte måske i betydningen paneler, altså >>rækker af træ<<. Ordet mangler i LXX.} af cedertræ.
+//1 v10 Han byggede den lave bygning op ad hele templet,
+//3 fem alen i højden,
+//2 og gav det tag af{T: Ordret: >>dækkede det med<<.} cedertræ.  
+
+//0 v11 Så talte HERREN til Salomo
+//1 :
+//2 v12 >>Om det tempel
+//4 du bygger,
+//3 skal det gælde at hvis du retter dig efter mine forordninger,
+//5 handler efter mine beslutninger,
+//6 og adlyder mine befalinger
+//7 så du følger dem,
+//4 vil jeg holde det løfte til dig,
+//5 jeg gav din far David.
+//4 v13 Jeg vil tage bolig midt blandt israelitterne,
+//5 og vil ikke forlade mit folk Israel.<<
+
+//0 v14 Salomo byggede templet
+//2 færdigt.
+//1 v15 Han byggede templets indvendige vægge{T: Ordret: >>Han byggede husets vægge fra hus til hus<<.} med paneler af cedertræ,
+//2 fra templets gulv til loftsbjælkerne{T: Ordret: >>loftets vægge<<.} beklædte han det indvendigt med træ.
+//3 Han dækkede templets gulv med planker af cypres.
+//1 v16 Han konstruerede de 20 alen fra templets bagvæg med paneler af cedertræ fra gulvet til loftsbjælkerne
+//4 og byggede indenfor det inderste rum, det Allerhelligste.
+//3 v17 Templet var 40 alen langt,  
+//5 det vil sige Tempelhallen foran det Allerhelligste.{N: Ansigt}{T: Ordret >>foran mig<<.}
+//4 v18 Cedertræet på templets inderside
+//5 var udsmykket med knopper og udsprungne blomster.
+//6 Det hele var cedertræ, 
+//7 der var ikke en sten at se.
+//2 v19 Det Allerhelligste, inderst i templet, gjorde han klar
+//4 til at man dér kunne placere HERRENS pagts ark.
+//3 v20 Det Allerhelligste{E: *wᵊlifnê* (>>og foran<<) er udeladt.} var
+//5 20 alen langt,
+//6 20 alen bredt
+//7 og 20 alen højt.
+//4 Han belagde det med rent guld.
+//1 Han belagde også cedertræsalteret. 
+//0 v21 Salomo belagde templet indvendigt med rent guld.
+//1 Han trak guldkæder foran det inderste rum,
+//3 og belagde det med guld.
+//2 v22 Hele templet belagde han med guld
+//4 indtil hele templet var færdigt.
+//3 Hele alteret,
+//5 som stod i det Allerhelligste,
+//4 belagde han med guld.
+
+//1 v23 Til det Allerhelligste lavede han to keruber af oliventræ,
+//2 ti alen høje.
+//5 v24 Fem alen var kerubens ene vinge, 
+//5 fem alen var dens anden vinge,
+//4 ti alen fra vingespids til vingespids.
+//6 v25 Den anden kerub var ti alen.
+//5 De to kerubers mål og form var ens.
+//3 v26 Den ene kerubs højde var ti alen,
+//4 og det var den anden kerubs også.
+//1 v27 Han placerede keruberne midt i det Allerhelligste.
+//2 Kerubernes vinger var bredt ud,
+//3 så den enes vinge rørte væggen,
+//5 og den anden kerubs vinge rørte den anden væg.
+//4 Midt i det inderste rum rørte deres vinger hinanden.
+//1 v28 Han belagde keruberne med guld,
+//2 v29 og på alle rummets vægge, hele vejen rundt, lavede han udskæringer{T: Ordret: >>udskar han indgraverede udskæringer<<.} med keruber, palmetter, udsprungne blomster, både indvendigt og udvendigt.
+//2 v30 Rummets loft belagde han med guld både indvendigt og udvendigt.
+
+//2 v31Til indgangen til det Allerhelligste lavede han døre af oliventræ,
+//5 dørstolpen var femkantet.{T: Ordret: >>dørstolpen, dørkarmene/dørstolperne, en femtedel<<. Usikkerheden i betydningen afspejles i de tidlige versioner der sammentrækker den hebraiske tekst i udtrykkene *flias pentaplas* >>femfoldige dørstolper<< (LXX) og *postesque angulorum quinque* >>femkantede dørstolper<< (Vulgata). Eftersom der er stor forskel på oversættelsen i de moderne oversættelser, er Vulgatas oversættelse valgt som et kvalificeret gæt.}
+//4 v32 De to dørstolper var af oliventræ.
+//5 Han udskar dem med keruber, palmetter og udsprungne blomster
+//7 og belagde dem med guld.
+//6 Han belagde keruberne og palmetterne med guldet.
+//3 v33 På samme måde lavede han indgangen til Tempelhallen med firkantede dørstolper af oliventræ.
+//5 v34 De to dørstolper var af cypres,
+//6 to foldedøre udgjorde den ene dør,{T: Ordret: >>to fløje, som kunne slås op/åbnes<<.}
+//7 to foldedøre{E: MT har *qᵊlāʕîm* >>tæppe<<, men det er formentlig en skriverfejl for *ṣᵊlāʕîm* >>fløje<<, som optræder i den foregående ledsætning.} den anden. 
+
+//4 v35 Han udskar keruber, palmetter og udskårne blomster
+//4 og belagde dem med guld
+//5 lagt jævnt ud over det udskårne.
+//1 v36 Han byggede den indre forgård med tre skifter kvadersten og et skifte cedertræsbjælker.
+
+//0 v37 I det fjerde år blev grunden lagt til HERRENS tempel, i måneden ziv,
+//1 v38 og i det ellevte år i måneden bul
+//4  – det er den ottende måned – 
+//3 stod templet færdigt i overensstemmelse med alle hans specifikationer og beslutninger.
+//2 Han byggede det på syv år.
