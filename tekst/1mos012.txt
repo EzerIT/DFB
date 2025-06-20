@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 12===
 
@@ -43,7 +43,7 @@
 
 //1 v8 Derfra drog han videre op til bjerglandet øst for Betel
 //1 og slog sit telt op
-//1 med Betel mod vest
+//2 med Betel mod vest
 //3 og Aj mod øst. 
 //1 Dér byggede han et alter for HERREN
 //1 og påkaldte HERRENS navn.

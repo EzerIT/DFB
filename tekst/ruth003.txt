@@ -1,14 +1,14 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 03.02.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===Ruths bog, kapitel 3===
 ==No'omi råder Ruth til at anmode Boaz om ægteskab==
 
 //0 v1 Derefter sagde hendes svigermor No'omi til hende:
-//2>>Min datter,
+//2 >>Min datter,
 //4 mon ikke jeg skulle søge efter et hjem til dig,
 //5 så det må gå dig godt?
 //3 v2 Nuvel,
@@ -33,9 +33,9 @@
 //7 Han vil så give dig besked om
 //8 hvad du skal gøre.<<
 //1 v5 Hun sagde til hende:
-//4 >>Jeg vil gøre
-//2 nøjagtig
-//3 som du siger.<<
+//2 >>Alt det 
+//4 du siger
+//3 vil jeg gøre.<<
 
 //1 v6 Hun gik ned til tærskepladsen
 //2 og gjorde nøjagtig
@@ -56,7 +56,7 @@
 //4 der lå en kvinde ved hans fødder!
 //2 v9 Han sagde:
 //4 >>Hvem er du?<<
-//4 Hun svarede:
+//3 Hun svarede:
 //5 >>Jeg er Ruth, din tjenestepige,
 //6 giv din tjenestepige beskyttelse, {E: *ûfāraśtā xᵊnāfexā* (>>du skal sprede dine vinger<<) som i 2,12, men her, som i Ez 16,8 og andre steder, som reference til ægteskab.}
 //7 for du kan løskøbe os.{H: Ruth 2,20.}<<

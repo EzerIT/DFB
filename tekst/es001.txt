@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.04.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas’ Bog, kapitel 1===
 
@@ -189,7 +189,7 @@ Hærskarers HERRE, Israels Mægtige:
 
 //6 Ve dem! Jeg vil gøre gengæld mod mine modstandere
 
-//6 og hævne mig på mine fjender.
+//8 og hævne mig på mine fjender.
 
 //8 v25 Jeg vil igen anbringe min hånd på dig
 

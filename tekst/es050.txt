@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.03.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas' Bog, kapitel 50===
 
@@ -20,7 +20,7 @@
 //4 og på grund af jeres overtrædelser blev jeres mor sendt bort.
 
 //2 v2 Hvorfor, da jeg kom,
- var der ingen?
+    //5 var der ingen?
 
 //4 Da jeg råbte,
 //5 svarede ingen?

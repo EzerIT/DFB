@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 9===
 
@@ -75,7 +75,8 @@
 //8 som er på jorden.<< 
 //0 v17 Og Gud sagde til Noa:
 //1 >>Dette skal være et tegn på den pagt
-//2 som jeg har oprettet mellem mig og alt kød som er på jorden.<<
+//2 som jeg har oprettet mellem mig og alt kød
+//3 som er på jorden.<<
 
 ==Noas sønner==
 

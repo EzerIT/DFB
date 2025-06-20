@@ -1,7 +1,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 03.02.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===Ruths bog, kapitel 4===
@@ -76,7 +76,7 @@
 //3 og de ældste sagde:
 //2 >>Vi er vidner.
 //3 Må HERREN give at den kvinde
-der kommer ind i dit hus,
+//7 der kommer ind i dit hus,
 //6 bliver som Rakel og som Lea,
 //7 der begge byggede Israels hus.
 //5 Må du blive mægtig i Efrata

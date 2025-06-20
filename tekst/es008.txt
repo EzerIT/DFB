@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.02.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas’ Bog, kapitel 8===
 
@@ -62,7 +62,8 @@ skal fylde dit land så langt det er.
 
 //6 For Gud er med os!<<{T: Hebraisk: >>Immanuel<<.}
 
-//3 v11 For sådan sagde HERREN til mig da hans hånd overmandede mig, //6 og han advarede mig //7 mod at vandre på dette folks vej:
+//3 v11 For sådan sagde HERREN til mig da hans hånd overmandede mig, //6 og han advarede mig //7 mod at vandre på dette folks vej
+//5 :
 
 //6 v12 >>I skal ikke kalde alt det sammensværgelse 
 
@@ -70,7 +71,7 @@ skal fylde dit land så langt det er.
 
 //7 Frygt ikke det som det frygter, 
 
-//4 og nær ikke rædsel!
+//8 og nær ikke rædsel!
 
 //4 v13 Hærskarers HERRE,{N: Hærskarers} //9 han skal være hellig for jer; 
 

@@ -1,7 +1,7 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 03.02.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===Ruths bog, kapitel 2===
@@ -62,7 +62,7 @@
 //4 v10 Da faldt hun på knæ
 //4 og bøjede sig helt ned mod jorden
 //3 og sagde til ham:
-//4>>Hvorfor viser du mig venlighed
+//4 >>Hvorfor viser du mig venlighed
 //6 ved at lægge mærke til mig?
 //5 Jeg er dog en fremmed.<<
 //2 v11 Boaz svarede
@@ -95,7 +95,7 @@
 //4 v15 Så rejste hun sig
 //6 for at samle aks.
 //5 Boaz befalede sine unge karle
-//6:
+//6 :
 //7 >>Lad hende også samle op inde mellem negene,
 //8 og I må ikke genere hende!
 //10 v16 Pluk også noget ud af negene til hende
@@ -135,9 +135,9 @@
 //5 Han er en af vores løskøbere der kan fri os af vores gældsbyrde.<<{H: 3 Mos 25,25. Ruth 3,9.12-13; 4,1-12}
 //1 v21 Moabitten Ruth sagde så:
 //2 >>Han sagde endda til mig:
-//5 >De unge karle
+//3 >De unge karle
 //6 som arbejder for mig,
-//3 dem må du endelig holde dig nær ved
+//5 dem må du endelig holde dig nær ved
 //4 indtil de er færdige med at høste
 //5 for mig.<<<
 //1 v22 No'omi sagde da til sin svigerdatter Ruth:

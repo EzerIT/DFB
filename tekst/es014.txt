@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.04.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas' Bog, kapitel 14===
 
@@ -188,9 +188,9 @@ på grund af deres fædres synd,
 //9 der er strakt ud 
 over alle folkeslagene.
 
-//5 v27 For Hærskarers HERRE har besluttet det, 
+//7 v27 For Hærskarers HERRE har besluttet det, 
 
-//7 hvem kan så forhindre det? 
+//9 hvem kan så forhindre det? 
 
 //8 Hans hånd er strakt ud, 
 

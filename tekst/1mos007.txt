@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 7===
 
@@ -52,7 +52,8 @@
 //6 og HERREN lukkede til efter ham. 
 //2 v17 Da kom vandfloden over jorden i 40 dage;
 //3 og vandet steg
-//4 og løftede arken, så den hævede sig over jorden. 
+//4 og løftede arken,
+//5 så den hævede sig over jorden. 
 //3 v18 Vandet vældede frem
 //5 og steg meget på jorden,
 //4 og arken flød oven på vandet. 

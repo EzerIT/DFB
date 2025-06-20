@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 13.06.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 11===
 
@@ -86,7 +86,7 @@
 //5 v21 Re’u levede,
 //8 efter han havde fået Serug,
 //7 i 207 år,
-//3 og han fik sønner og døtre. 
+//6 og han fik sønner og døtre. 
 //4 v22 Da Serug var 30 år,
 //6 fik han Nakor.
 //5 v23 Serug levede,

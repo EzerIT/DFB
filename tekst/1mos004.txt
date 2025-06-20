@@ -1,6 +1,6 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 4===
 
@@ -89,7 +89,7 @@
 //6 den ene hed Ada
 //8 og den anden Silla. 
 //7 v20 Ada fødte Jabal;
-//8 han blev far til dem som bor i telte og $vogter$ kvæg. 
+//9 han blev far til dem som bor i telte og $vogter$ kvæg. 
 //10 v21 Hans bror hed Jubal;
 //11 han blev far til alle dem der spiller på harpe og fløjte. 
 //8 v22 Også Silla fødte, $nemlig$ Tubal-Kain,

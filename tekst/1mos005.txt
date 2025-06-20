@@ -1,6 +1,6 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 5===
 
@@ -39,7 +39,7 @@
 
 
 //4 v9 Da Enosh havde levet 90 år,
-//8 fik han Kenan. 
+//6 fik han Kenan. 
 //5 v10 Enosh levede,
 //8 efter han havde fået Kenan,
 //7 i 815 år,
@@ -61,7 +61,7 @@
 //4 v15 Da Mahalal’el havde levet 65 år,
 //6 fik han Jered. 
 //5 v16 Mahalal’el levede,
-//5 efter han havde fået Jered,
+//8 efter han havde fået Jered,
 //7 i 830 år,
 //6 og han fik sønner og døtre. 
 //5 v17 Mahalal’els levealder blev $i alt$ 895 år.
@@ -79,7 +79,7 @@
 
 
 //4 v21 Da Enok havde levet 65 år,
-//3 fik han Metusalem. 
+//6 fik han Metusalem. 
 //5 v22 Enok vandrede med Gud,
 //9 efter at han havde fået Metusalem,
 //8 i 300 år,
@@ -107,7 +107,7 @@
 //8 >>Han skal aflaste os{T: På hebraisk er der ordspil mellem *nōₐḥ* >>Noa<< og *niḥam* >>aflaste<<. Noa betyder >>hvile<<.} fra vores arbejde og vores hænders slid på den agerjord,
 //9 som HERREN har forbandet.<<
 //5 v30 Lemek levede,
-//5 efter han havde fået Noa,
+//8 efter han havde fået Noa,
 //7 i 595 år,
 //6 og han fik sønner og døtre. 
 //5 v31 Lemeks levealder blev $i alt$ 777 år.

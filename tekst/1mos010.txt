@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===1. Mosebog, kapitel 10===
@@ -67,7 +67,8 @@
 //11 v28 Obal, Abimael, Saba, 
 //11 v29 Ofir, Havila og Jobab;
 //10 alle disse var Joktans sønner. 
-//11 v30 Deres bosættelser lå fra Mesha helt til Sefar, Østens bjerge. 
+//11 v30 Deres bosættelser lå fra Mesha
+//12 helt til Sefar, Østens bjerge. 
 //2 v31 Dette er Sems sønner efter deres slægter, efter deres tungemål, i deres lande, efter deres folk. 
 //3 v32 Dette er Noas sønners slægter ifølge deres slægtshistorier, i deres folk;
 //4 og fra dem spredte nationerne sig ud over jorden efter vandfloden.

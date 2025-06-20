@@ -2,7 +2,7 @@
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Salme 97===
 
@@ -22,7 +22,8 @@
 ==Gud har vist sin dømmende og frelsende magt==
 //3 v4 Hans lyn oplyste verden,
 
-//6 jorden så det og bævede.
+//5 jorden så det
+//6 og bævede.
 
 //4 v5 Bjergene smeltede som voks foran HERREN,{T: Ordret: >>foran HERRENS ansigt<<. Tilsvarende i næste linje.}
 
@@ -32,11 +33,11 @@ foran hele jordens Herre.
 
 //6 og alle folkene så hans herlighed.
 
-v7 Ydmyges skal alle de som dyrker et gudebillede,
+//1 v7 Ydmyges skal alle de som dyrker et gudebillede,
 
 //3 de som roser sig af tomme afguder.
 
-//2 Kast jer ned for ham, alle guder!
+//2 Kast jer ned for ham, //3 alle guder!
 
 ==Guds dom og frelse==
 //0 v8 Zion hørte det og blev glad,
@@ -47,7 +48,7 @@ v7 Ydmyges skal alle de som dyrker et gudebillede,
 
 //1 v9 For du,//4 HERRE,//3 er den Højeste over hele jorden,
 
-//2du er højt ophøjet over alle guder.
+//2 du er højt ophøjet over alle guder.
 
 //0 v10 I, som elsker HERREN,//2 skal hade det onde;
 

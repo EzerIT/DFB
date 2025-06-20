@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===1. Mosebog, kapitel 13===
@@ -25,7 +25,7 @@
 //4 som vandrede med Abram,
 //3 havde får og kvæg og telte. 
 //2 v6 Landet kunne ikke forsørge{T: Ordret >>bære<<.} dem
-//6 når de boede sammen,
+//5 når de boede sammen,
 //4 for de havde så mange ejendele
 //3 at de ikke kunne
 //6 bo sammen. 

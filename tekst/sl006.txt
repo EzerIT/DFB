@@ -2,16 +2,16 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 
 ===Salme 6{E: Salmen hører til den kristne kirkes syv bodssalmer (32; 38; 51; 102; 130; 143).}===
 
 ==Overskrift==
-//0 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}.//2 Til strengespil. //3 Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. //1Salme af David.
+//0 v1 Til korlederen{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<.}.//2 Til strengespil. //3 Al-ha-sheminit{E: Ordret: >>på den ottende<<. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).}. //1 Salme af David.
 
 ==Klage og bøn==
-//0 v2 HERRE! //3straf mig ikke i din vrede,
+//0 v2 HERRE! //3 straf mig ikke i din vrede,
 
 //4 og tugt mig ikke i din harme!
 
@@ -29,7 +29,7 @@
 
 //6 v6 For i døden er der ingen der husker dig,
 
-//8 hvem vil takke dig //7 i dødsriget?
+//7 hvem vil takke dig //8 i dødsriget?{N: Sheol}
 
 //5 v7 Jeg er udmattet af mit suk,
 

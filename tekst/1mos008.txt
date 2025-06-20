@@ -1,6 +1,6 @@
 !!<Oversættelse: Christian Canu Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.12.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 8===
 
@@ -17,7 +17,7 @@
 //1 og vandstanden var blevet mindre efter 150 dage. 
 //2 v4 Og i den syvende måned, på den syttende dag i måneden strandede{T: Ordret >>hvilede<<.} arken på Ararats bjerge. 
 //1 v5 Og der blev mindre og mindre vand indtil den tiende måned.
-//0 I den tiende $måned$, på den første dag i måneden, kom bjergtoppene til syne.
+//2 I den tiende $måned$, på den første dag i måneden, kom bjergtoppene til syne.
 
 ==Noa sender fugle ud fra arken==
 
@@ -79,7 +79,7 @@
 //3 og tog af alle slags rene dyr og af alle slags rene fugle
 //3 og ofrede helofre på alteret. 
 //2 v21 HERREN duftede den behagelige duft.
-//3 Da sagde HERREN i sit hjerte:
+//2 Da sagde HERREN i sit hjerte:
 //3 >>Jeg vil ikke
 //7 forbande agerjorden yderligere på grund af mennesket,
 //6 selvom menneskets hjertes tanke er ond fra ungdommen af;

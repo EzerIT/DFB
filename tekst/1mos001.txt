@@ -1,6 +1,6 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 12.06.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===1. Mosebog, kapitel 1===
 
@@ -29,7 +29,7 @@
 //4 og lad den skille vand fra vand.<<
 //2 v7 Gud skabte hvælvingen
 //4 og skilte vandet
-//5 under hvælvingen
+//6 under hvælvingen
 //5 fra vandet
 //6 over hvælvingen;
 //4 og det blev sådan.
