@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 17.06.2025>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas’ Bog, kapitel 3===
 
@@ -86,7 +86,9 @@ rådsherre, trolddomskyndig og slangetæmmer.
 
 //5 og vejen du vandrer på, har de slugt.{T: Eller >>dine stiers vej har de forvirret<<.}
 
- //3 v13 HERREN //0 er trådt frem //4 for at gå i rette,
+//0 v13 Nu er han trådt frem //4 for at anklage;  
+
+//3 det er HERREN,
 
 //2 og han stiller sig op //3 for at dømme folkene.
 
@@ -146,6 +148,6 @@ brystbåndene, parfumedåserne og amuletterne,
 
 //5 og din hærstyrke i krigen.
 
-//6 v26 I hendes{T: Dvs. Jerusalems.} porte skal der være sorg //4 og klage,
+//4 v26 De vil sørge //6 og klage i dens byporte,
 
-//6 og hun selv skal sidde //5 tomhændet //6 på jorden.<<
+//5 rippet for alt //6 sidder den tilbage i landet{N: Jord}.<<
