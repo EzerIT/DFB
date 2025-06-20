@@ -316,8 +316,8 @@ class FormatText extends Formatter {
                                                  
                                                  return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
                                                       . $matches[1]
-                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
                                                       . '<span style="color:transparent;font-size:0pt;">¤</span>'
+                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
 
                                                       . $matches[2]
                                                       . '</div></div>'
@@ -329,8 +329,8 @@ class FormatText extends Formatter {
                                              else
                                                  return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
                                                       . $matches[1]
-                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
                                                       . '<span style="color:transparent;font-size:0pt;">¤</span>'
+                                                      . '</div><div class="indented-text" data-indent="' . $matches[1] . '">'
                                                       . $matches[2]
                                                       . '</div></div>';
                                          }, $txt);
