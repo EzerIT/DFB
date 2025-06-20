@@ -2,7 +2,7 @@
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Salme 25===
 
@@ -20,7 +20,7 @@
 
 //6 skam kommer over dem som handler troløst uden årsag.
 
-//4 v4 HERRE, //3 lad mig kende //1 dine veje,
+//1 v4 Dine veje, //4 HERRE, //3 lad mig kende dem,
 
 //2 lær mig dine stier!
  

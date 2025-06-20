@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 10.02.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Esajas' Bog, kapitel 9===
 
@@ -148,7 +148,8 @@ palmegren og siv på samme dag.
 
 //10 og folket er som føde for ild, 
 
-//11 ingen skåner //12 sin bror.
+//12 Selv sin egen bror
+//11 skåner man ikke
 
 //13 v19 Man sluger i sig til højre, 
 
@@ -158,7 +159,9 @@ palmegren og siv på samme dag.
 
 //14 men mættes ikke; 
 
-//12 enhver æder //13 kødet af sin arm,{E: Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* >>sin arm<< skal læses: *reʕô*: >>sin landsmand<<. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.}
+//13 det er kødet af sin egen arm,{E: Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* >>sin arm<< skal læses: *reʕô*: >>sin landsmand<<. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.}
+//12 man æder
+
 
 //13 v20 Manasse mod Efraim 
 

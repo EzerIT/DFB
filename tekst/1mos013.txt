@@ -24,8 +24,8 @@
 //1 v5 Men også Lot,
 //4 som vandrede med Abram,
 //3 havde får og kvæg og telte. 
-//2 v6 Landet kunne ikke forsørge{T: Ordret >>bære<<.} dem
-//5 når de boede sammen,
+//2 v6 Landet kunne ikke rumme{T: Ordret >>bære<<.}
+//5 at de boede sammen,
 //4 for de havde så mange ejendele
 //3 at de ikke kunne
 //6 bo sammen. 
@@ -41,7 +41,8 @@
 //9 og hvis $du vil$ til højre,
 //10 går jeg til venstre.<< 
 //5 v10 Lot løftede blikket
-//6 og så hele Jordansletten, og den var meget vandrig
+//6 og så at hele Jordansletten
+//7 var meget vandrig
 //9 - det var før HERREN ødelagde Sodoma og Gomorra,
 //8 $dengang$ var den som HERRENS have, som Egyptens land - 
 //9 helt til Soar. 

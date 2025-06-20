@@ -2,12 +2,12 @@
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Salme 104===
 
 == HERREN er stor!==
-//4 Min sjæl,//0 pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} //3 HERREN!
+//0 v1 Pris //4 af hjertet{N: Sjæl} //3 HERREN!
 
 //2 HERRE, min Gud,//3 du er meget stor!
 
@@ -47,7 +47,7 @@
 
 //6 v9 Du satte en grænse//11 det ikke må overskride,
 
-//12 det skal ikke igen dække jorden.
+//11 det skal ikke igen //12 dække jorden.
 
 ==Gud sørger for alt levende==
 //10 v10 Han sender kilder ud i dalene,
@@ -169,6 +169,6 @@ og til sit arbejde indtil aften.
 
 //4 og ugudelige //5 ikke være til længere!
 
-//3 Min sjæl, //0 pris //2 HERREN!
+//0 Pris //3 af hjertet{H: Sl 104,1} //2 HERREN!
 
 //1 Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 105}

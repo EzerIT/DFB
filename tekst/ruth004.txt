@@ -62,11 +62,11 @@
 //2 Og han tog sin sko af.
 //1 v9 Da sagde Boaz til de ældste og til alt folket:
 //2 >>I er i dag vidner på
-//3 at jeg
-//6 af No'omi har købt alt det
+//3 at jeg hermed køber alt det
 //6 som tilhørte Elimelek,
 //5 og alt det
-//7 som tilhørte Kiljon og Maklon.
+//7 som tilhørte Kiljon og Maklon,
+//6 det køber jeg af No'omi.{N: Hånd}
 //4 v10 Og jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru
 //5 for at oprejse et navn for den afdøde knyttet til hans arvede jord,
 //6 for at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port.

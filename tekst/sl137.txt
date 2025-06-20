@@ -2,7 +2,7 @@
 !!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Dato for denne version: 20.06.2025>!!
 
 ===Salme 137===
 
@@ -43,7 +43,7 @@ på fremmed jord?
 over min højeste glæde.{T: Ordret: >>over min glædes hoved/tinde<<.}
 
 ==Straf over Edom og Babylon==
-//4 v7 HERRE,//1 husk//3 Edoms sønner
+//1 v7 Husk dog, //4 HERRE, //3 Edoms sønner
 
 for Jerusalems dag,
 
