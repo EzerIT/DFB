@@ -299,6 +299,15 @@ class FormatText extends Formatter {
                 $orig_file = sprintf('tekst/orig/%s%03d.txt',$this->book,$this->chapter);
                 ($this->fh = @fopen($orig_file,'r')) || die("Kan ikke finde filen $orig_file");
                 fgets($this->fh); // Skip identification line
+                if ($this->from_verse>0) {
+                    // Skip lines from original text file
+                    do {
+                        $pos = ftell($this->fh);
+                        $orig_line = fgets($this->fh);
+                        $verse = strstr($orig_line,":",true);
+                    } while ($verse < $this->from_verse);
+                    fseek($this->fh,$pos);
+                }
             }
             
             // (Regexp (.*?) matches the minimum number of arbitrary characters
@@ -312,7 +321,7 @@ class FormatText extends Formatter {
                                          function($matches) {
                                              if ($_SESSION['include_orig_lang']=='on') {
                                                  $orig_line = fgets($this->fh);
-                                                 $orig_line = substr(strstr($orig_line,' '),1); // Strip indent number and space
+                                                 $orig_line = substr(strstr($orig_line,' '),1); // Strip verse and indent number and space
                                                  
                                                  return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
                                                       . $matches[1]
