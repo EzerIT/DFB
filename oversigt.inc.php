@@ -44,7 +44,7 @@ $chap['1tim']     = range(1,6);
 $chap['2tim']     = range(1,4);
 $chap['tit']      = range(1,3);
 $chap['filem']    = [1];
-$chap['hebr']     = [1,8,13];
+$chap['hebr']     = [1,2,3,4,5,6,7,8,13];
 $chap['jak']      = range(1,5);
 $chap['1pet']     = range(1,5);
 $chap['2pet']     = range(1,3);
@@ -290,7 +290,17 @@ $style['1tim']    = $modenhed['uden indrykning'];
 $style['2tim']    = $modenhed['uden indrykning'];
 $style['tit']     = $modenhed['uden indrykning'];
 $style['filem']   = $modenhed['uden indrykning'];
-$style['hebr']    = $modenhed['ufuldstændigt'];
+
+$style['hebr'][ 1] = $modenhed['uden indrykning'];
+$style['hebr'][ 2] = $modenhed['uden indrykning'];
+$style['hebr'][ 3] = $modenhed['uden indrykning'];
+$style['hebr'][ 4] = $modenhed['uden indrykning'];
+$style['hebr'][ 5] = $modenhed['uden indrykning'];
+$style['hebr'][ 6] = $modenhed['uden indrykning'];
+$style['hebr'][ 7] = $modenhed['uden indrykning'];
+$style['hebr'][ 8] = $modenhed['ufuldstændigt'];
+$style['hebr'][13] = $modenhed['ufuldstændigt'];
+
 $style['jak']     = $modenhed['uden indrykning'];
 $style['1pet']    = $modenhed['uden indrykning'];
 $style['2pet']    = $modenhed['uden indrykning'];
