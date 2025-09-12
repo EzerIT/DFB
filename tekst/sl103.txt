@@ -1,105 +1,123 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 12.09.2025>!!
 
 ===Salme 103===
-
 ==Overskrift==
 v1 Af David.
-
 ==Min sjæl, pris HERREN!==
-Min sjæl, pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} HERREN,
+//0 Lovpris,
+//3 du min sjæl,
+//2 HERREN, 
 
-og hele mit indre skal prise{E: Ordene: >>skal prise<< er i oversættelsen suppleret fra foregående linje. De er underforstået, men står ikke her i grundteksten.} hans hellige navn!
+//1 og 
+//3 hele mit indre  
+//2 skal lovprise{T: Ordene: >>skal prise<< er underforstået og tilføjet fra foregående linje.} hans hellige navn!  
 
-v2 Min sjæl, pris HERREN,
+//0 v2 Lovpris,  
+//7 du min sjæl,  
+//6 HERREN, 
 
-og glem ikke alle hans velgerninger,
+//5 og glem ikke alle hans velgerninger! 
 
-v3 ham som tilgiver dig al din skyld,
+//4 v3 Det er ham som tilgiver dig al din skyld, 
 
-ham som helbreder alle dine sygdomme,
+//4 ham som helbreder alle dine sygdomme, 
 
-v4 ham som udløser dit liv fra graven,
+//4 v4 ham som løskøber dit liv fra graven, 
 
-ham som kroner dig med nåde{N: nåde} og barmhjertighed,
- 
-v5 ham som mætter dit liv{E: Grundtekstens: *ʕedyēx* betyder: >>dit smykke<<. Det kan være tænkt som synonym for >>sjæl<<. Men oftest rettes til: *ʕodēxî*: >>din eksistens/dit liv/så længe du er til<<. I konsonantteksten er det blot to bogstaver der byttes om.} med det gode,
+//5 ham som kroner dig med trofasthed{N: Nåde} og barmhjertighed, 
 
-så din ungdom bliver ny igen som ørnen.{T: Grundtekstens ord kan også betyde: >>gribben<<.}
+//4 v5 ham som mætter dit liv{E: *ʕedyēx* betyder >>dit smykke<<. Det kan være et synonym for >>sjæl<<, men oftest rettes til *ʕodēxî* >>din eksistens/dit liv/så længe du er til<< ved at bytte om på to konsonanter.} med det gode, 
 
-==Guds nåde igennem tiderne==
-v6 HERREN udøver retfærdighed
+//3 så din ungdom bliver ny igen som ørnen.{E: *nešer* kan også betyde >>grib<<.} 
 
-og ret for alle undertrykte.
+ ==Guds nåde igennem tiderne== 
 
-v7 Han kundgjorde Moses sine veje
+//2 v6 HERREN udøver retfærdighed 
 
-og Israels børn sine gerninger.
+//6 og ret for alle undertrykte. 
 
-v8 HERREN er barmhjertig og nådig,
+//5 v7 Han lod Moses kende sine veje 
 
-sen til vrede og rig på nåde{N: nåde}
- 
-v9 Han vil ikke gå i rette for evigt
+//6 og israelitterne sine gerninger. 
 
-og ikke vredes for altid.
+//4 v8 HERREN er barmhjertig og nådig, 
 
-v10 Han har ikke handlet mod os efter vore synder
+//7 sen til vrede og rig på trofasthed{N: Nåde} 
 
-og ikke lønnet os efter vor skyld.
+//6 v9 Han vil ikke gå i rette for evigt 
 
-v11 For så høj som himlen er over jorden,
+//8 og ikke vredes for altid. 
 
-så mægtig har hans nåde været over dem som frygter ham.
+//7 v10 Han har ikke handlet mod os efter vores synder 
 
-v12 Så langt som øst{T: Ordret: >>opgang<<.} er fra vest,{T: Ordret: >>nedgang<<.}
+//10 og ikke behandlet os efter vores skyld. 
 
-har han fjernet vore overtrædelser fra os.
+//9 v11 For  
+//12 så høj som himlen er over jorden, 
 
-v13 Som en far forbarmer sig{T: Ordret: >>som en fars forbarmen sig<<} over sine børn,
+//11 så mægtig har hans trofasthed{N: Nåde} været over de gudfrygtige. 
 
-har HERREN forbarmet sig over dem som frygter ham.
+//11 v12 Så langt som øst er fra vest, 
 
-v14 For han ved at vi er skabt,{T: Ordret: >>kender vor skabning/skabthed/formethed<<. Det tilsvarende verbum (*yṣr*) betyder: >>forme, modellere<<. Det bruges om pottemagerens arbejde, og således også om Gud i 1 Mos 2,7.}
+//10 har han fjernet vores overtrædelser fra os. 
 
-han husker på at vi er støv.
+//12 v13 Som en far forbarmer sig over sine børn, 
 
-v15 Et menneske{T: Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.} – som græs er dets dage,
+//11 har HERREN forbarmet sig over de gudfrygtige. 
 
-som markens blomst blomstrer det.
+//8 v14 For han ved at vi er formet,{H: 1 Mos 2,7.} 
 
-v16 Når en vind farer over det,{E: På hebraisk er både >>menneske, græs<< og >>blomst<< maskulinum, hvorved pronomenet kan henvise til dem alle tre på én gang. I oversættelsen er det nødvendigt at vælge, og da >>menneske<< er hovedordet i passagen, må oversættelsen lade pronomenet henvise til det.} er det ikke mere,
+//9 han husker på  
+//10 at vi er støv. 
 
-og dets sted kender det ikke længere.
+//5 v15 Et menneske,{E: Grundtekstens ord *ʔᵉnôš* bruges hvor menneskets svaghed pointeres.}  
+//8 som græs er dets dage, 
 
-v17 Men HERRENS nåde er fra evighed og til evighed over dem som frygter ham,
+//7 som markens blomst  
+//9 blomstrer det. 
 
-og hans retfærdighed er med børns børn,
+//8 v16 Når en vind farer over det,{E: På hebraisk er både >>menneske, græs<< og >>blomst<< maskulinum, hvorved pronomenet kan henvise til dem alle tre.}  
+//9 er det ikke mere, 
 
-v18 med dem som holder hans pagt,
+//10 og dets sted kender det ikke længere. 
 
-og med dem som husker hans befalinger for at gøre derefter.
+//6 v17 Men HERRENS trofasthed er fra evighed og til evighed over de gudfrygtige, 
 
-==Pris HERREN, alle hans skaberværker==
-v19 HERREN har rejst sin trone i himlen,
+//7 og hans retfærdighed er for børnebørnene, 
 
-og hans kongerige behersker Altet.
+//8 v18 for dem som holder hans pagt, 
 
-v20 Pris{E: Grundtekstens *bārᵃxî* kan også oversættes: >>velsign<<, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.} HERREN, I hans engle,
+og for dem som husker hans bestemmelser 
+//9 ved at handle på dem. 
 
-I stærke krigere som udfører hans ord, idet I adlyder hans befaling!{T: Ordret: >>hans ords røst<<.}
+ ==Lovpris HERREN, alle hans skaberværker== 
 
-v21 Pris HERREN, alle hans hærskarer,
+//3 v19 HERREN har rejst sin trone i himlen, 
 
-I hans tjenere som udfører hans vilje!
+//4 og hans kongerige behersker Altet. 
 
-v22 Pris HERREN, alle hans værker
+//1 v20 Lovpris HERREN,  
+//2 I hans sendebud, 
 
-på alle steder i hans kongerige.
+I stærke krigere 
+//3 som handler efter hans ord  
+//4 ved at adlyde budskabet i hans ord!{T: Ordret: >>hans ords røst<<.} 
 
-Min sjæl, pris HERREN!
+//1 v21 Lovpris HERREN, 
+//2 hele hans mangfoldighed,{H: 1 Mos 2,1}
 
+I hans tjenere 
+//3 som udfører hans vilje! 
 
+//1 v22 Lovpris HERREN,  
+//2 alle hans værker 
+
+på alle steder i hans kongerige. 
+
+//0 Lovpris,  
+//2 du min sjæl,  
+//1 HERREN! 
 

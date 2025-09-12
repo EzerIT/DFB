@@ -181,7 +181,7 @@ else {
 
 $outputfile = fopen($_SERVER['argv'][$aix+1], "w") or die("Unable to open output file!");
 
-fwrite($outputfile, '\id ' . $_SERVER['argv'][$aix] . " - Den Frie Bibel (version: 2025-05-12)\n");
+fwrite($outputfile, '\id ' . $_SERVER['argv'][$aix] . " - Den Frie Bibel (version: 2025-09-11)\n");
 
 $text = replaceitsfm(array_slice($_SERVER['argv'],$aix+2));
 
