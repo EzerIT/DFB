@@ -1,7 +1,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.04.2020>!!
+!!<Dato for denne version: 13.09.2025>!!
 ===Anden Mosebog, kapitel 18===
 
 ==Jetros besøg hos Moses==
@@ -24,7 +24,7 @@ v14 Da Moses’ svigerfar så alt det han gjorde for folket, sagde han: >>Hvad e
 v15 Moses sagde til sin svigerfar: >>Fordi folket kommer til mig for at adspørge Gud.
 v16 Når de har en sag, kommer de til mig, så jeg dømmer mellem en mand og hans næste; og jeg kundgør dem Guds forordninger og hans love.<<
 v17 Da sagde Moses’ svigerfar til ham: >>Det du gør, er ikke godt.
-v18 Du bliver fuldstændig udmattet,{T: Den hebraiske tekst har verbet *נבל* (>>blive udmattet<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.}  både du og dette folk, som er med dig; for den opgave er for tung for dig, du kan ikke løse den alene.
+v18 Du bliver fuldstændig udmattet,{E: Den hebraiske tekst har verbet *NBL* (>>blive udmattet<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.}  både du og dette folk, som er med dig; for den opgave er for tung for dig, du kan ikke løse den alene.
 v19 Lyt nu til min røst, jeg vil give dig råd, og Gud skal være med dig: Du skal være for folket over for Gud, og du skal føre sagerne frem for Gud.
 v20 Og du skal indskærpe{T: Ordret: >>advare<<.} dem forordningerne og lovene og kundgøre dem vejen, de skal vandre på, og den gerning, de skal gøre.
 v21 Du skal af hele folket se dig om efter dygtige mænd som frygter Gud, pålidelige mænd, som hader uretmæssig vinding, og sætte dem over dem som førere over tusind, førere over hundred, førere over halvtreds og førere over grupper på ti.

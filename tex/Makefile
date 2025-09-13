@@ -4,5 +4,5 @@
 
 ../dfb.pdf:	force
 	php replaceittex.php HERREN d +v +f +s +o > y.tex
-	rubber -m xelatex y.tex
+	latexmk -quiet y.tex
 	cp y.pdf $@

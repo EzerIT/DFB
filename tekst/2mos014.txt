@@ -1,47 +1,139 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.04.2020>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 12.09.2025>!!
+
 ===Anden Mosebog, kapitel 14===
+==HERREN drukner Faraos hær da han fører Israel igennem havet==
+//0 v1 HERREN talte til Moses
+//3 følgende:
+//4 v2 »Tal til israelitterne 
+//6 så de vender om
+//6 og slår lejr foran Pi-ha-Kirot, mellem Migdol og havet, foran Ba’al-Sefon;
+//5 over for det skal I slå lejr ved havet.
+//6 v3 For Farao vil sige om israelitterne: 	
+//8 ›De er faret vild i landet,
+//9 ørkenen har lukket sig om dem.‹
+//7 v4 Og jeg vil gøre Faraos hjerte hårdt
+//10 så han vil forfølge dem,
+//9 og jeg vil forherlige mig på Farao og på hele hans hær.
+//8 Så skal egypterne{T: Ordret >>Egypten<<. Ligeledes i vers 9, 10, 12, 13, 17, 18, 25 og 26.} forstå
+//9 at jeg er HERREN.«
+//2 Og de gjorde sådan.
 
-==Israel lejrer sig ved havet efter Guds Befaling; Farao sætter efter dem med sin hær==
-v1 HERREN talte til Moses og sagde:
-v2 >>Tal til Israels børn så de vender om og slår lejr ud for Pi-ha-Kirot, mellem Migdol og havet, ud for Ba’al-Sefon, over for det skal I slå lejr ved havet.
-v3 For Farao vil sige om Israels børn: >De er faret vild i landet, ørkenen har lukket sig om dem.<
-v4 Og jeg vil forhærde Faraos hjerte så han vil forfølge dem, og jeg vil forherlige mig på Farao og på hele hans hær. Så skal egypterne{T: Ordret: >>Egypten<<.} forstå at jeg er HERREN.<< Og de gjorde sådan.
-v5 Kongen af Egypten fik besked om at folket var flygtet. Da vendte Faraos og hans tjeneres hjerte sig mod folket, og de sagde: >>Hvad er det vi har gjort, for vi lod Israel rejse, så de ikke skal trælle for os?<<
-v6 Så lod han spænde for sin vogn og tog sit folk med sig.
-v7 Og han tog seks hundrede udvalgte vogne{E: Der er formodentlig tænkt på veludrustede stridsvogne.} og{T: Ordet *wᵊ* (>>og<<) kan i sammenhængen muligvis oversættes: >>nemlig<<. Derved undgår man også at skulle underforstå et >>andre<< (se næste note).} alle andre{T: Ordet >>andre<< er underforstået ud fra sammenhængen.} vogne i Egypten og vognkæmpere{T: Ordet *šāliš* betyder ordret: >>3. mand<<. Det er måske betegnelse for >>adjudant<< eller >>officer<<.} på dem alle.
-v8 HERREN forhærdede Egyptens kong Faraos hjerte så at han forfulgte Israels børn; men Israels børn drog ud med en løftet hånd.{T: Udtrykket angiver styrke og uforfærdethed.}
-v9 Så satte egypterne{T: Ordret: >>Egypten<<.} efter dem og indhentede dem, hvor de havde slået lejr ved havet – alle Faraos hestevogne og hans ryttere og hans hær – ved Pi-ha-Kirot ud for Ba’al-Sefon. 
+//1 v5 Kongen af Egypten fik besked om
+//3 at folket var flygtet.
+//2 Da vendte Faraos og hans tjeneres hjerte sig mod folket,
+//4 og de sagde:
+//5 »Hvad er det vi har gjort,
+//6 for vi lod Israel rejse,
+//7 så de ikke skal trælle for os?«
+//3 v6 Så lod han spænde for sin vogn
+//4 og tog sit folk med sig.
+//3 v7 Og han tog seks hundrede udvalgte stridsvogne og andre vogne i Egypten,
+//4 og der var vognkæmpere{E: Ordet *šāliš* betyder ordret >>3. mand<<. Det er måske betegnelse for en adjudant eller en officer.} på dem alle.
+//0 v8 HERREN gjorde Egyptens kong Faraos hjerte hårdt
+//2 så at han forfulgte israelitterne;
+//1 men israelitterne drog ud med løftet hånd.{T: Udtrykket angiver styrke, uforfærdethed eller forsætlighed.}
+//3 v9 Så satte egypterne efter dem
+//4 og indhentede dem
+//6 hvor de havde slået lejr ved havet,
+//5 alle Faraos stridsvogne og hans ryttere og hans hær var foran Pi-ha-Kirot ud for Ba’al-Sefon.
 
-==Israelitternes frygt==
-v10 Farao nærmede sig; og Israels børn løftede deres øjne, og se: Egypterne{T: Ordret: >>Egypten<<.} rykkede ud efter dem; da blev de meget bange, og Israels børn råbte til HERREN.
-v11 De sagde til Moses: >>Er der ikke grave i Egypten, siden du tog os ud for at dø i ørkenen? Hvad er det du har gjort med os ved at føre os ud af Egypten?
-v12 Er det ikke det vi sagde til dig i Egypten, da vi sagde: >Lad os være, vi vil trælle for egypterne.{T: >>Egypten<<.} For det er os bedre for os at trælle for egypterne end at dø i ørkenen.<<<
-v13 Da sagde Moses til folket: >>Frygt ikke, træd frem og se HERRENS frelse, som han vil udføre for jer i dag; for som I skal se egypterne{T: Ordret: >>Egypten<<.} i dag, skal I ikke i evighed se dem igen.
-v14 HERREN vil kæmpe for jer, og I – I skal tie stille.<<
+//2 v10 Farao nærmede sig;
+//3 og israelitterne så op,
+//5 og se der:
+//6 egypterne var ved at rykke ud mod dem
+//4 og de blev meget bange,
+//3 Israelitterne råbte til HERREN,
+//4 v11 og de sagde til Moses:
+//5 »Er der ikke grave i Egypten,
+//7 siden du tog os ud
+//8 for at dø i ørkenen?
+//6 Hvad er det du har gjort med os
+//8 ved at føre os ud af Egypten?
+//7 v12 Er det ikke det
+//8 vi sagde til dig i Egypten,
+//9 da vi sagde:
+//10 ›Lad os være,
+//12 vi vil trælle for egypterne
+//11 For det er bedre for os
+//13 at trælle for egypterne
+//12 end at dø i ørkenen.‹«
+//3 v13 Da sagde Moses til folket:
+//4 »Frygt ikke,
+//5 træd frem
+//7 og se HERRENS frelse,
+//8 som han vil udføre for jer i dag;
+//6 for
+//9 som I ser egypterne i dag,
+//8 skal I ikke
+//10 se dem igen
+//9 nogensinde.
+//7 v14 HERREN vil kæmpe for jer,
+//8 men I skal tie stille.«
 
-==Frelsens Herre==
-v15 HERREN sagde til Moses: >>Hvorfor skriger du til mig? Sig til Israels børn at de skal bryde op; 
-v16 og du – løft din stav og ræk din hånd ud over havet og kløv det, så skal Israels børn gå midt igennem havet på tør grund.
-v17 Men jeg, se: jeg vil forhærde egypternes{T: Ordret: >>Egyptens<<.} hjerte så de følger{T: Ordret: >>kommer<<.} efter dem; og jeg vil forherlige mig på Farao og på hele hans hær, på hans vogne og på hans ryttere.
-v18 Egypterne{T: Ordret: >>Egypten<<.} skal forstå at jeg er HERREN, når jeg forherliger mig på Farao, på hans vogne og på hans ryttere.<<
+//0 v15 HERREN sagde så til Moses:
+//1 »Hvorfor råber du til mig?
+//2 Sig til israelitterne
+//4 at de skal bryde op,
+//3 v16 men du skal løfte din stav
+//5 og række din hånd ud over havet
+//6 og dele det,
+//7 og så skal israelitterne gå midt igennem havet på tør grund.
+//4 v17 Men jeg,
+//5 se her, jeg er i færd med at gøre egypternes hjerter hårde
+//7 så de følger{T: Ordret »kommer«.} efter dem;
+//8 jeg vil forherlige mig på Farao og på hele hans hær, på hans vogne og på hans ryttere.
+//6 v18 Egypterne skal forstå
+//8 at jeg er HERREN,
+//7 når jeg forherliger mig på Farao, på hans vogne og på hans ryttere.«
 
-==Israelitterne går tørskoede gennem havet==
-v19 Da brød Guds engel, som gik foran Israels hær, op og gik om bag dem; og skysøjlen brød op fra at være foran dem og stillede sig bag dem
-v20 så den kom mellem Egyptens hær og Israels hær, og den var sky og mørke, men oplyste natten;{E: Meningen er at der var mørke over egypterne, men lys hos israelitterne, jf. 9. plage.} den ene kom ikke den anden nær hele natten.
-v21 Moses rakte sin hånd ud over havet, og HERREN drev havet væk{T: Ordret: >>fik til at gå (væk)<<.} ved en stærk østenstorm hele natten og gjorde havet til tørt land; og vandene skiltes ad. 
-v22 Israels børn gik midt igennem havet på tørt land, idet vandet var som en mur på deres højre og på deres venstre side.
-v23 Og egypterne forfulgte dem og kom efter dem, alle Faraos heste, hans vogne og hans ryttere, til midten af havet.
-v24 Men det skete i morgenvagten at HERREN så ned til Egyptens hær gennem{T: Ordret: >>i<<.} ildsøjlen og skyen, og han skabte forvirring{E: Det hebraiske ord indikerer også frygt og panik.} i Egyptens hær,
-v25 og han fjernede{T: Ordet *yāsar* betyder: >>fjernede<<. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå: *jæʔæsor*: >>blokerede<<. I konsonantteksten skal der blot indføjes et enkelt bogstav.} hjulene fra deres vogne og lod dem rykke frem med besvær. Da sagde egypterne:{T: Ordret: >>da sagde Egypten<<.} >>Lad os{T: Den hebraiske tekst har singularis, jf. foregående note.} flygte for Israel, for HERREN kæmper for dem mod Egypten.<<
+//0 v19 Da flyttede Guds sendebud sig
+//3 fra at gå foran Israels hær
+//2 og gik om bag dem;
+//1 skysøjlen bevægede sig fra at være foran dem
+//2 og stod bag dem
+//2 v20 så den kom mellem Egyptens hær og Israels hær,
+//1 og den var både en sky og et mørke,
+//2 men den oplyste natten;
+//3 den ene kom ikke den anden nær hele natten.
+//0 v21 Så rakte Moses sin hånd ud over havet,
+//1 og HERREN fik havet til at løbe væk ved en stærk østenstorm hele natten
+//2 og gjorde havet til tørt land;
+//4 og vandene blev skilt ad.
+//3 v22 Israelitterne gik midt igennem havet på tørt land,
+//4 idet vandet var for dem som en mur på deres højre og på deres venstre side.
+//3 v23 Og egypterne optog forfølgelsen 
+//4 og kom efter dem, alle Faraos heste, hans vogne og hans ryttere, ud til midten af havet.
+//2 v24 Men så ved morgenvagten
+//3 da så HERREN ned til Egyptens hær gennem{T: Ordret: »i«.} ildsøjlen og skyen,
+//4 og han skabte forvirring i Egyptens hær,
+//4 v25 og han fjernede{E: Ordet *yāsar* betyder »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå *yeʔesor* »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.} hjulene fra deres vogne
+//5 og lod dem køre frem med besvær.
+//3 Da sagde egypterne:
+//4 »Lad os flygte for Israel,
+//5 for HERREN kæmper for dem mod Egypten.«
 
-==Straffen over forfølgerne==
-v26 Da sagde HERREN til Moses: >>Ræk din hånd ud over havet, så vandet vender tilbage over egypterne,{T: Ordret: >>Egypten<<. Således også: >>over dets vogne og over dets ryttere<<.} over deres vogne og over deres ryttere.<< 
-v27 Så rakte Moses sin hånd ud over havet, og havet vendte ved daggry tilbage til sit normale leje, og da egypterne flygtede imod det, styrtede HERREN egypterne midt ud i havet.
-v28 Vandet vendte tilbage og dækkede vognene og rytterne i hele Faraos hær, som var kommet efter dem ud i havet; der blev end ikke én tilbage af dem.
-v29 Men Israels børn vandrede på det tørre midt gennem havet, og vandet var som en mur for dem på deres højre og på deres venstre side.
-v30 Sådan frelste HERREN Israel den dag fra egypternes{T: Ordret: >>Egyptens<<.} hånd, og Israel så egypterne{T: Ordret: >>Egypten<<.} ligge døde ved havets bred.
-v31 Israel så den stærke{T: Ordret: >>store<<.} hånd som HERREN havde vist mod Egypten, og folket frygtede HERREN; og de troede på HERREN og på Moses, hans tjener.
+//0 v26 Da sagde HERREN til Moses:
+//2 »Ræk din hånd ud over havet,
+//3 så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.«
+//1 v27 Så rakte Moses sin hånd ud over havet,
+//2 og havet vendte
+//4 ved daggry tilbage til sit normale leje,
+//3 og da egypterne flygtede
+//4 imod det,
+//1 styrtede HERREN egypterne midt ud i havet.
+//2 v28 Vandet vendte tilbage
+//4 og dækkede vognene og rytterne i hele Faraos hær,
+//6 som var kommet efter dem ud i havet;
+//5 der blev end ikke én tilbage af dem.
+//3 v29 Men israelitterne gik på det tørre midt gennem havet,
+//4 og vandet var for dem som en mur på deres højre og på deres venstre side.
 
+//1 v30 HERREN frelste på den dag Israel fra Egyptens hånd,
+//2 og Israel så egypterne
+//4 ligge døde ved havets bred.
+//3 v31 Israel så hvilken stærk{T: Ordret »stor«.} hånd
+//5 som HERREN havde brugt mod Egypten,
+//4 og folket frygtede HERREN;
+//5 de troede på HERREN og på Moses, hans tjener.

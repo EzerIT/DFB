@@ -224,7 +224,10 @@ for ($k=1; $k<=14; ++$k)
 for ($k=15; $k<=50; ++$k)
     $style['1mos'][$k] = $modenhed['ufuldstændigt'];
 
-$style['2mos']    = $modenhed['uden indrykning'];
+for ($k=1; $k<=40; ++$k)
+    $style['2mos'][$k] = $modenhed['uden indrykning'];
+$style['2mos'][14] = $modenhed['med indrykning'];
+
 $style['3mos']    = $modenhed['uden indrykning'];
 
 for ($k=1; $k<=36; ++$k)

@@ -11,6 +11,9 @@ function replaceittex($filename, $chtype) {
         exit(2);
     }
 
+    $from[] = '/\x{feff}/u'; // Byte order mark
+    $to[] = '';
+
     $from[] = '/(!!<.*>!!)/';
     $to[] = '%\1'."\n";
 
