@@ -201,6 +201,7 @@ echo<<<'END'
 \usepackage{fontspec}
 \usepackage{xcolor}
 \usepackage{polyglossia}
+\usepackage{relsize}
 
 \setdefaultlanguage{danish}
 \setcolsepandrule{20pt}{0pt}
@@ -350,10 +351,10 @@ if (!$with_headings)
 
 switch ($HaShem) {
   case 'HERREN':
-        echo '\newcommand{\JHVH}{H{\footnotesize{ERREN}}}',"\n";
-        echo '\newcommand{\JHVHs}{H{\footnotesize{ERRENS}}}',"\n";
-        echo '\newcommand{\JHVHv}{H{\footnotesize{ERRE}}}',"\n";
-        echo '\newcommand{\JHVHvs}{H{\footnotesize{ERRES}}}',"\n";
+        echo '\newcommand{\JHVH}{H\textscale{0.85}{ERREN}}',"\n";
+        echo '\newcommand{\JHVHs}{H\textscale{0.85}{ERRENS}}',"\n";
+        echo '\newcommand{\JHVHv}{H\textscale{0.85}{ERRE}}',"\n";
+        echo '\newcommand{\JHVHvs}{H\textscale{0.85}{ERRES}}',"\n";
         break;
 
   case 'Herren':
