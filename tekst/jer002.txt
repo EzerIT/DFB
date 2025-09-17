@@ -1,7 +1,7 @@
-﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.06.2025>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' Bog, kapitel 2===
 
@@ -15,9 +15,9 @@
 //3 og råb i Jerusalems ører 
 //4 :
  
-//6 Sådan siger HERREN:{T: Dette idiomatiske udtryk anvendes hyppigt af Jeremias som en understregning af at det er HERRENS ord han taler.}
+//6 Sådan siger HERREN:{T: Dette idiomatiske udtryk anvendes hyppigt af Jeremias som en understregning af at det er HERRENS ord han taler. Sml. Jer 1,8.}
 
-//7 Jeg husker din ungdoms hengivenhed{N: Nåde.}
+//7 Jeg husker dig{T: Femininum. Her i vers 2 omtales Israel med femininum, men i vers 3 med maskulinum. Denne vekslen mellem >>han<< og >>hun<< om Israel forekommer gennem hele Jeremias’ bog.} for din ungdoms hengivenhed{N: Nåde.}
 
 og din trolovelsestids kærlighed,
 
@@ -25,15 +25,15 @@ og din trolovelsestids kærlighed,
 
 //10 hvor intet sås. 
 
-//8 v3 Israel var hellig for HERREN, 
+//8 v3 Hellig{H: 2 Mos 19,4-6. 5 Mos 7,6.} er Israel for HERREN, 
 
 //10 hans førstegrøde.
 
-//9 alle som ville fortære ham, blev skyldige. 
+//9 Alle de som fortærer ham, bliver skyldige!
 
-//10 Ulykke kom over dem,
+//10 Ulykke vil komme over dem! 
 
-//11 det er HERRENS udsagn.
+//11 Det er HERRENS udsagn.
 
 
 ==Israel har fuldstændig forladt HERREN==
@@ -50,7 +50,7 @@ og alle Israels huses slægter!
 
 //13 siden de holdt sig langt væk fra mig 
 
-//15 og gik efter tomheden, 
+//15 og gik efter tomheden,{T: Afgud.} 
 
 //16 og de blev tomme?
 
@@ -64,21 +64,21 @@ og alle Israels huses slægter!
 
 i et land med ødemarker og kløfter, 
 
-i et land med tørke og dødsskygge,{E: *ṣalmāwet* (>>dødskygge<<) oversættes i dag ofte med >>mørke<< eller >>dybt mørke<<.}{H: Jer 13,16.}
+i et land med tørke og dødsskygge,{E: *ṣalmāwet* (>>dødskygge<<) oversættes i dag ofte med >>mørke<< eller >>dybt mørke<< fordi det er et sammensat ord. Men denne rettelse er omdiskuteret da det i hebraiske navne er helt almindeligt at sammensætte ord med en beskrivende funktion. Flere oversættelser vælger dog >>dødsskygge<<.}{H: Jer 13,16.}
 
 i et land 
-//17 som ingen havde vandret igennem, 
+//17 som ingen har vandret igennem,
 
-//18 og hvor intet menneske bor?<
+//18 og hvor intet menneske har boet?<
 
-//12 v7 Og jeg bragte jer til et land, frugthaven 
+//12 v7 Jeg bragte jer til frugthavens land,
 
 //14 for at I skulle spise af dets frugt og dets goder. 
 
-//13 Men I kom, 
+//13 Men I kom derind, 
 //13 og I gjorde mit land urent,
 
-//15 og min arv{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tôʕēvāʰ* (>>vederstyggelighed<<) er et meget stærkt udtryk i GT som især anvendes om seksuel synd (3 Mos 18,22 og 13,18) og afgudsdyrkelse.}{H: 3 Mos 18,26-30.}
+//15 og min arvelod{T: Eller >>ejendom<<.} har I gjort til en vederstyggelighed.{E: *tôʕēvāʰ* (>>vederstyggelighed<<) er et meget stærkt udtryk i GT som især anvendes om seksuel synd (3 Mos 18,22) og afgudsdyrkelse.}{H: 3 Mos 18,26-30.}
 
 //14 v8 Præsterne sagde ikke: 
 
@@ -94,9 +94,9 @@ i et land
 //18 fulgte efter dem der er til ingen nytte.
 //17
 
-//11 v9 Derfor må jeg stadig rejse anklage mod jer,
+//11 v9 Derfor må jeg stadig rejse anklage mod jer
 
-//12 det er HERRENS udsagn,
+//12 - det er HERRENS udsagn -
 
 //13 og mod jeres børnebørn må jeg rejse anklage.
 
@@ -105,8 +105,8 @@ i et land
 //10 v10 For drag{H: Jer 5,1; 18,13.} I over til Kittims kystområder{T: Øerne og kystlandene mod vest.}{H: 1 Mos 10,4-5. Dan 11,30.} 
 //14 og se, 
 
-//13 og send I bud til Kedar,{H: 1 Mos 25,13. Jer 49,28.} 
-//14 og læg I nøje mærke til 
+//13 og send bud til Kedar,{H: 1 Mos 25,13. Jer 49,28.} 
+//14 og læg nøje mærke til 
 
 //12 og se,
 //14 ja, om noget sådant er sket!
@@ -117,14 +117,14 @@ i et land
 
 //14 Men mit folk har udskiftet sin herlighed 
 
-//15 med det som intet gavner.
+//15 med det som er til ingen nytte.
 
 //11 v12 Gys 
-//15 I himle,{H: 5 Mos 32,1. Es 1,2}{E: Et ordspil hvor >>gys<< (*šōmmû*) og >>himle<< (*šāmayim*) på hebraisk lydmæssigt ligner hinanden.}
+//15 I himle,{H: 5 Mos 32,1. Es 1,2.}{E: Et ordspil hvor >>gys<< (*šōmmû*) og >>himle<< (*šāmayim*) på hebraisk lydmæssigt ligner hinanden.}
 //14 over dette,
 
 //13 og skælv!
-//12 Ja, tør fuldstændig ud!{T: Eller >>bliv fuldstændig stiv af skræk!<<}{E: *ḥorvû* (*ḥrv*) >>bliv tør, tør ud<<, i sammenhængen en antydning af at himlen ikke skal give regn af forfærdelse. De fleste ændrer verbet til *ḥirdu* (*ḥrd*) >>skælv<<.}
+//12 Tør fuldstændig ud!{T: Eller >>bliv fuldstændig stiv af skræk!<<}{E: *ḥorvû* (>>bliv tør, tør ud<<), i sammenhængen en antydning af at himlen ikke skal give regn af forfærdelse. De fleste ændrer verbet til *ḥirdu* >>skælv<<.}
 
 //14 Det er HERRENS udsagn.
 
@@ -132,7 +132,7 @@ i et land
 
 //14 Mig har de forladt, kilden med levende vand,{H: Jer 17,13.}
 
-//15 for at hugge sig cisterner, revnede cisterner, 
+ //15 for at hugge sig cisterner, revnede cisterner, 
 
 //16 som ikke kan holde vandet.
 
@@ -140,27 +140,27 @@ i et land
 ==HERREN vil straffe Israels synd==
 
 
-//9 v14 Er Israel en slave,{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 30,10 HERRENS tjener.} 
+//9 v14 Er Israel en slave,{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 39,10 HERRENS tjener og ligeledes Nebukadnezar i Jer 43,10.} 
 
-//13 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
+//16 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
 
-//12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: et >>spørgsmål<<, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias´ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 8,4-5.19.22.}
+//12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: et >>spørgsmål<<, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias’ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 2,31; 8,4-5.19.22.}
 
-//13 v15 Unge løver brølede mod ham, 
+//13 v15 Unge løver brøler mod ham, 
 
-//15 de lod deres stemme høre, 
+//15 de lod deres røst høre. 
 
-//16 og de gjorde hans land til rædsel. 
+//16 De gjorde hans land til rædsel, 
 
-//17 Hans byer er brændt ned,{E: MT har fravalgt vokalisering af verbet, der derfor enten kan læses som afledt af verbet *yṣt* (>>brænde<<) eller af verbet *nṣh* (>>blive lagt øde<<).} så ingen bor i dem.
+//17 hans byer er brændt ned,{E: MT har fravalgt vokalisering af verbet, der derfor enten kan læses som afledt af verbet *yṣt* (>>brænde<<) eller af verbet *nṣh* (>>blive lagt øde<<).} så ingen bor i dem.
 
 //14 v16 Også Nofs og Takpankes{T: Byer i Egypten.} sønner 
 
 gør din isse skaldet.{T: Eller >>gjorde<<. Reaktion på sorg. Det er uklart om det er en profeti (fremtid) eller om det refererer til fortiden.}
 
-//11 v17 Har du ikke selv forvoldt dig dette, 
+//11 v17 Forvolder du ikke selv dig dette 
 
-//13 ved at du har forladt HERREN din Gud, 
+//13 ved at du har forladt HERREN din Gud 
 
 den tid
 //14 han ledte dig på vejen?
@@ -187,7 +187,7 @@ den tid
 
 //17 når du forlader HERREN din Gud, 
 
-//18 og at min rædsel ikke er over dig!{H: Sl 90,11. 2 Krøn 17,10; 20,29; Sl 89,8.}
+//18 og min rædsel ikke er over dig!{H: Sl 90,11. 2 Krøn 17,10; 20,29.}
 
 //15 Det er den Herre, Hærskarers{N: Hærskarers.} HERRES udsagn.
 
@@ -200,30 +200,32 @@ den tid
 //11 sønderrevet dine lænker, 
 
 //13 men du sagde: 
-//15 >Jeg vil ikke tjene!< 
+//15 >Jeg vil ikke være slave!< 
 
-//14 For på enhver høj, der var ophøjet, 
+//14 For på enhver høj der var ophøjet, 
 
 og under ethvert grønt træ 
 
 giver du dig selv hen
 //16 som en skøge.
 
-//15 v21 Og jeg, jeg plantede dig som en ædel vinstok, 
+***
 
-//17 helt igennem en ægte art.{T: Ordret: >>sæd<<.} 
+//15 v21 Men jeg, jeg plantede dig som en ædel vinstok, 
+
+//17 helt igennem en ægte stikling.{T: Ordret: >>sæd<<.} 
 
 //16 Hvordan har du forvandlet dig for mig 
 
 til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 
-//12 v22 Selvom du så vaskede dig med lud,{T: Ordret: natron, en stærk base.} 
+//12 v22 Selvom du så vasker dig med lud, 
 
-//14 og du brugte meget sæbe på dig selv, 
+//14 og du bruger meget sæbe på dig selv, 
 
-//13 så bliver din ugerning{T: Eller >>skyld<<.}{H: Es 1,15.} ved med at plette dig for mit ansigt,
+//13 så bliver din ugerning{T: Eller >>skyld<<.}{H: Es 1,15.} ved med at plette dig for mit ansigt
 
-//14 det er den Herre, HERRENS udsagn.
+//14 - det er den Herre, HERRENS udsagn.
 
 //8 v23 Hvordan kan du sige: 
 //13 >Jeg har ikke gjort mig selv uren, 
@@ -236,12 +238,12 @@ til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 //13 hvad du har gjort, 
 
 //14 du hurtige, unge kamelhoppe 
-//16 der løber sine egne veje, hid og did,
+//16 der løber sine egne veje, hid og did!
 
-//15 v24 som et vildæsel 
+//15 v24 Et vildæsel 
 
 //19 der er vant til ørken, 
-//18 i sin sjæls længsel snapper hun efter vejret! 
+//19 i sin sjæls længsel snapper hun efter vejret. 
 
 //17 Når hun er i brunst, 
 //18 hvem kan holde hende tilbage? 
@@ -254,19 +256,17 @@ til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 //14 og din strube fra at blive tørstig! 
 
 //13 Men du siger: 
-//14 >Det er håbløst!{H: Es 57,10.} 
+//14 >Det er håbløst! 
 //16 Nej! 
 
 //15 For jeg elsker fremmede, 
 
 //16 og efter dem vil jeg gå.<
 
-***
-
-//11 v26 Ligesom en tyv bliver til skamme{T: Eller >>skammer sig<<. Ordret: >>tyvens skam<<.} 
+//11 v26 Ligesom en tyv bliver til skamme 
 //13 når han opdages, 
 
-//12 sådan bliver Israels hus til skamme, 
+//12 sådan bliver Israels hus gjort til skamme, 
 
 de, deres konger, deres ledere 
 
@@ -284,7 +284,7 @@ og deres præster og deres profeter,
 
 //15 Men i deres ulykkes tid siger de: 
 
-//16 >Stå op 
+//16>Stå op 
 //17 og frels os!<
 
 //13 v28 Hvor er dine guder 
@@ -307,9 +307,9 @@ er dine guder,{H: Jer 11,12-13.}
 
 //10 v29 Hvorfor vil I anklage mig?{H: Jer 2,9.} 
 
-//12 I har alle brudt med mig,{H: Job 2,8.} 
+//12 I har alle brudt med mig!{H: Jer 2,8.} 
 
-//15 det er HERRENS udsagn.
+//15 Det er HERRENS udsagn.
 
 //14 v30 Forgæves slog jeg jeres børn. 
 
@@ -319,12 +319,12 @@ er dine guder,{H: Jer 11,12-13.}
 
 som en ødelæggende løve.
 
-//12 v31 I der er slægten,{T: Ordret: >>I slægten<< (vokativ).} 
+//12 v31 I der er slægten, 
 //11 læg I mærke til HERRENS ord! 
 
 //12 Har jeg været en ørken for Israel 
 
-//14 eller et land med totalt mørke?{E: *maˀpēlᵊyāʰ* (>>totalt mørke<<) findes kun her.} 
+//14 eller et land med totalt mørke?{E: *maˀpēlᵊyāʰ* (>>totalt mørke<<) findes kun her i GT.} 
 
 //13 Hvorfor siger mit folk: 
 //15 >Vi strejfer helt frie omkring, 
@@ -345,7 +345,7 @@ som en ødelæggende løve.
 
 //11 for at søge kærlighed! 
 
-//10 Derfor har du også lært dine veje 
+//1 Derfor har du også lært dine veje 
 
 alt det onde.
 

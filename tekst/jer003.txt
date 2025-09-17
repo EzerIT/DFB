@@ -1,136 +1,140 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
-===Jeremias’ bog, kapitel 3===
+===Jeremias’ bog, Kapitel 3===
 
 
 ==Israel, den troløse hustru==
 
 
-//0 v1 HERRENS ord kom til mig:{E: *leˀmōr*: >>at sige<<. Dette udtryk indleder almindeligvis direkte tale. >>HERRENS ord kom til mig<< er her underforstået. Hele udtrykket findes i Jer 2,1.} 
+//0 v1
 
-//1 >>Hvis{E: *hēn* er her aramaisk og betyder >>når<< eller >>hvis<<.} en mand skiller sig{T: Ordret: >>sender bort<<.} fra sin hustru,
+//1 >>Se,{E: Verset indledes med ordet *lēˀmōr* (>>sigende<<), som er en infinitiv konstruktus, og som her og i Jer 1,4 ikke oversættes, men fungerer som et kolon før direkte tale. I Hag 2,11-12 forekommer samme konstruktion foran *hēn* >>se<< ligesom her. Det er også muligt at opfatte *lēˀmōr* som et forkortet udtryk for et underforstået >>HERRENS ord kom til mig<<.} skiller en mand sig fra sin hustru,
 
-//5 og hun går{T: Kan oversættes >>er gået<<.} fra ham
+//5 og hun går fra ham
 
 //4 og bliver en anden mands,
 
-//5 vil han så stadig vende tilbage til hende?{H: Hos 2,14-3,3; Es 50,1.}
+//5 kan han da vende tilbage til hende igen? 
 
-//6 Vil dette land ikke blive fuldstændig vanhelliget?{H: Jer 2,2b; 3,9; 5 Mos 24,4.}
+//6 Vil dette land 
 
-//3 Og du som har horet{E: *zānît* >>hore som en skøge<<.} med mange elskere,{T: Ordret: >>venner<<.}
+ikke blive fuldstændig vanhelliget?{H: Jer 3,9. 5 Mos 24,1-4.}
 
-//4 du vil vende tilbage til mig?{T: Underforstået: >>som om intet var sket<<.}
-//5 – Det er HERRENS udsagn. 
-//2 v2 Se op på de nøgne høje
+//3 Og du, du har horet med mange elskere,
+
+//4 og du skulle vende tilbage til mig?
+//5 Det er HERRENS udsagn. 
+
+//2 v2 Løft dine øjne mod de nøgne høje
 //4 og se!
 
-//3 Hvor er du ikke blevet krænket?{T: Eller >>voldtaget<<.}{E: *ŠGL* >>voldtage<<, nogle ændrer konsonanterne til *ŠXV* >>ligge ned<<.}
+//3 Hvor har du ikke bedrevet hor?{E: *šglt* >>blevet krænket<< (ketiv). Ud fra sammenhængen vælges her qere-formen *šukavet* >>bedrive hor<<. Flere oversættelser vælger ketiv-formen >>er blevet krænket<<.} 
 
-//5 Du sad ved vejene og ventede på dem{T: >>Og ventede<< er tilføjet.}
+//5 Ved vejene sad du og ventede på dem
 
-som en araber{T: Bestemt form, dvs. ligesom beduinen.} i ørkenen,
+som araberen i ørkenen,
 
 //7 og du har vanhelliget landet
 
-med dit hor{E: *znûtayix* betyder >>prostitution<<, >>utugt<<, >>hor<<.} og din ondskab.
+med dit hor og din ondskab.
 
-//8 v3 Regnbygerne blev holdt tilbage,
+//8 v3 Regnskyllene blev holdt tilbage,
 
-//9 og der fandtes ingen forårsregn,{T: Forårsregnen falder i marts-april.}{H: Jer 5,24; Am 4,7; Jer 14,1-6.}
+//9 og forårsregnen udeblev,{H: Jer 14,1-4. Am 4,7.}
 
-//6 men du havde en pande{T: Udtryk for hårdhjertethed. >>Pande<< bruges i Bibelen foruden om personligheden også om Guds udvælgelse.}{H: Ez 3,8; 9,4; Es 48,4; 2 Mos 28,36-38; Åb 7,3-8; 13,16; 17,5; 14,1; 22,4.} som en skøge,
+//6 men du havde en pande{T: Udtryk for hårdhjertethed. >>Pande<< bruges i Bibelen foruden om personligheden også om Guds udvælgelse idet han viser sin udvælgelse ved at et mærke sættes på nogle menneskers pande, jf. 2 Mos 28,36-38. Ez 9,4. Åb 7,3-4.}{H: Es 48,4. Ez 3,8.} som en skøge,
 
 //7 du nægtede
 //8 at skamme dig.
 
-//4 v4 Kaldte du mig ikke for kort tiden siden:{T: Ordret: >>fra nu<<, nemlig da tørken begyndte.}
+//4 v4 Har du ikke fra nu af råbt til mig:
 //6 >Min far!
 
-//7 Du var min ungdoms ven!
+//7 Min ungdoms ven er du!
 
-//8 v5 Vil han for evigt være vred,
+//8 v5 Vil han for evigt nære vrede,
 
-//9 vil han for altid nære vrede?<{T: Ordret: >>bevare<<, >>vrede<< er underforstået.}
+//9 vil han for altid bevare den?<
 
-//5 Se, sådan sagde du,
+//5 Se, du har talt sådan,
 
-//6 men du har gjort alt det onde
+//6 men du gjorde alt det onde
 //7 du var i stand til!<<
 
 
 ==HERREN beretter om Israel og Judas frafald==
 
 
-//0 v6 Mens Josias var konge, sagde HERREN til mig:
+//0 v6 Da sagde HERREN til mig i de dage Josia var konge:
 //1 >>Har du set
 //2 hvad det frafaldne Israel har gjort?
-//3 Hun gik op på ethvert højt bjerg og ind under ethvert grønt{T: Ordret: >>frisk<<.} træ, 
+//3 Hun gik op på ethvert højt bjerg og ind under ethvert grønt træ; 
 //5 og du horede der.{T: HERREN taler direkte til Israel her.}
-//4 v7 Jeg sagde:{T: Nogle oversætter >>sagde til mig selv<< eller >>tænkte<<.}
-//7 >Efter hun har gjort alt dette,
+//4 v7 Jeg sagde:
+//7 >Efter hun har gjort alle disse ting,
 //6 vil hun vende tilbage til mig.<
 //5 Men hun vendte ikke tilbage,
-//6 og hendes troløse søster Juda så det.{H: Jer 2,20; 3,2.}
-//4 v8 Og jeg så{T: Nogle ændrer til >>hun så<<.}
-//7 at til trods for alle de gange 
-//9 det frafaldne Israel havde brudt ægteskabet{T: Dvs. afgudsdyrkelse i stedet for at tilbede HERREN.}{H: Jer 3,9.14.} 
-//8 - jeg sendte hende bort{H: 2 Kong 17,1-18; 2 Kong 15,29.}
-//6 og gav hende hendes skilsmissebrev -
-//5 frygtede hendes troløse søster Juda ikke, 
-//7 men gik hen og 
-//7 horede ligesom hun.
-//8 v9 Ved hendes letfærdige{E: *miqqōl*, >>letfærdighed<<, står i construct form og er knyttet til >>hor<<, men nogle oversætter *miqqōl* som et adverbium >>betød så lidt<<.} hor
-//9 vanhelligede{T: Verberne i vers 9 kan oversættes med præsens.} hun landet
-//9 og begik ægteskabsbrud med sten og træer.
+//6 og hendes troløse søster Juda så det. 
+//4 v8 Og jeg så.{T: LXX har >>hun så<<, og flere følger dette.}
+//7 For på grund af alt dette, 
+//9 fordi frafaldne Israel havde brudt ægteskabet, 
+//8 sendte jeg hende bort{H: 2 Kong 17,6-7.}
+//6 og gav hende hendes skilsmissebrev. 
+//5 Og hendes søster Juda, den troløse, frygtede ikke, 
+//7 men også hun gik hen 
+//7 og horede.
+//8 v9 Ved sit letfærdige{E: *miqqōl*, >>letfærdighed<<, står i construct form og er knyttet til >>hor<<, men nogle oversætter *miqqōl* som et adverbium >>betød så lidt<<.} hor
+//9 vanhelligede hun da landet
+//9 og begik ægteskabsbrud{T: Dvs. praktiserede afgudsdyrkelse.} med stenen og træet.
 //6 v10 Selv ved alt dette vendte hendes troløse søster Juda ikke om til mig af hele sit hjerte,
-//7 men fortsatte{T: >>fortsatte<< er tilføjet.} i løgn
-//8 – det er HERRENS udsagn.<<
+//7 men kun i hykleri.
+//8 Det er HERRENS udsagn.<<
 
 
 ==Jeremias skal kalde det frafaldne Israel til omvendelse==
 
 
 //0 v11 HERREN sagde til mig:
-//1 >>Det frafaldne Israel har vist sig mere retfærdig end det troløse Juda!
-
-//3 v12 Gå hen
-//5 og råb{T: Eller >>du skal gå hen og råbe<<.} disse ord mod nord,
+//1 >>Frafaldne Israel har selv{N: Sjæl.} vist sig mere retfærdig end troløse Juda!
+//3 v12 Gå 
+//5 og råb disse ord mod nord,
 //4 og du skal sige:
 
-//5 >Vend om{T: Eller >>vend tilbage<<, >>kom tilbage<<.}
-//10 du frafaldne Israel!<
+//5 >Vend om
+//10 du frafaldne Israel!<{T: Der er et ordspil mellem *šûvāʰ* (>>vend om<<)
+ og *mᵊšuvāʰ* (>>frafaldne<<). Lignende ordspil i Jer 3,14.} 
+//9 Det er HERRENS udsagn.
 
-//9 - Det er HERRENS udsagn.
-
-//8 Jeg vil ikke se på jer i vrede,{T: Ordret: >>jeg vil ikke lade mit ansigt falde på jer<<.}
+//8 Jeg vil ikke se på jer i vrede,
 
 //9 for jeg er nådig!
-//10 - Det er HERRENS udsagn.
+//10 Det er HERRENS udsagn.
 
-//8 Jeg vil ikke være vred{T: Ordret: >>bevare<<.} for evigt!
+//8 Jeg vil ikke være vred for evigt!
 
 //7 v13 Erkend blot din skyld,
 
-//8 at du brød med{T: >>Gjorde oprør mod<< ligger også i verbet.} HERREN din Gud,{H: Jer 2,8.29; 33,8.}
+//8 at du brød med HERREN din Gud,{H: Jer 2,8.}
 
-//9 at du har spredt din elskov{T: Ordret: >>du har spredt dine veje<<. Der er en seksuel undertone her.} til fremmede{T: Underforstået: >>guder<<.}
+//9 at du har strøet din elskov{T: Ordret: >>du har spredt dine veje<<. Der er en seksuel undertone her.} ud til de fremmede{T: Guder.}
 
 under ethvert grønt træ,
 
-//10 og min røst har I ikke lyttet til!{T: Eller >>mig har I ikke adlydt<<.}
+//10 og min røst har I ikke lyttet til!{H: Jer 3,25.}
 
-//11 - Det er HERRENS udsagn.
+//11 Det er HERRENS udsagn.
 
-//6 v14 Vend tilbage
+***
+
+//6 v14 Vend om
 //9 I frafaldne sønner!
 
-//8 - Det er HERRENS udsagn -
+//8 Det er HERRENS udsagn.
 
-//7 for jeg, jeg er jeres herre,{E: *bāʕaltî* >>være ægtemand/herre<<. Anvendelsen af verbet er speciel. Der er et ordspil i at HERREN er Israels sande ægtemand (*ba’al*) og ikke afguden Ba’al.} 
+//7 For jeg, jeg er jeres herre,{E: *bāʕaltî* >>være ægtemand/herre<<. Anvendelsen af verbet er speciel. Der er et ordspil i at HERREN er Israels sande ægtemand (*ba’al*) og ikke afguden Ba’al.} 
 
 //8 og jeg vil tage jer, 
 
@@ -140,65 +144,66 @@ og to fra en slægt,
 
 //8 og jeg vil bringe jer til Zion.
 
-//9 v15 Og jeg vil give jer hyrder efter mit hjerte,
+//9 v15 Jeg vil give jer hyrder{H: Jer 23,4.} efter mit hjerte,
 
 //11 og de skal vogte jer med kundskab og indsigt. 
 
-//10 v16 Og når det sker
+//10 v16 Og det vil ske
 //11 at I bliver talrige
-//14 og bærer frugt i landet i de dage
-//15 – det HERRENS udsagn -
-//13 skal de{T: HERREN skifter i sin tale her fra >>I<< til >>de<< om Israel. I vers 19 taler HERREN atter helt personligt nu med et >>du<<.} ikke mere sige:
+//14 og I vil bære frugt i landet; i de dage
+//15 - det er HERRENS udsagn -
+//13 skal de ikke mere sige:
 //15 >HERRENS pagts ark.<
-//14 De vil ikke tænke på den,
-//15 de vil ikke huske på den
-//15 de vil ikke spørge efter{T: Ordret: >>bestemme<<,>>lægge mærke til<<.} den,
+//14 Den vil ikke dukke op i tankerne,
+//15 de vil ikke huske på den,
+//15 de vil ikke savne den,
 //14 og en anden vil ikke blive lavet.
-//12 v17 På dette tidspunkt vil de kalde Jerusalem HERRENS trone,{H: 3 Mos 16,2.13; 2 Kong 19,15; Sl 80,2.}
-//14 og alle folkeslag skal samles der{T: Ordret: >>være ventende på<<.} til HERRENS navn{T: Dvs. for at ære HERRENS navn.} i Jerusalem,{H: Es 2,2-3; 56,6-8; 60,11-14; Zak 8,20-23.}
-//15 og de skal ikke længere følge deres genstridige{T: Eller >>trodsige<<.} onde hjerte.
+//12 v17 På dette tidspunkt vil de kalde Jerusalem HERRENS trone, 
+//14 og alle folkeslag vil samle sig der i HERRENS navn i Jerusalem,{H: Es 2,2-3. Zak 8,20-23.}
+//15 og de vil ikke længere følge deres onde hjertes forstokkethed.
 
+***
 
 //13 v18 I de dage vil Judas hus slutte sig til Israels hus,
 //14 og sammen vil de komme fra landet i nord til landet
-//15 som jeg gav i arv til jeres fædre.{H: Jer 31,2-6; 31,15-22; Hos 3,5; Mik 2,12; Ez 37,15-28; Es 11,10-16; Jer 23,1-8.}
+//15 som jeg gav i arv til jeres fædre.{H: Jer 23,7-8. Mik 2,12-13. Es 11,11-12. Ez 37,12-14.}
 
-//2 v19 Og jeg, jeg sagde:{H: Jer 5,4; Jer 31,20; Hos 11,8-9.}
+//2 v19 Og jeg, jeg sagde: 
 
-//5 Hvor vil jeg gerne sætte dig{T: >>Dig<< er femininum, dvs. som sin datter give hende en arvelod sammen med de andre sønner.} blandt sønnerne,
+//5 Hvor vil jeg gerne sætte dig{T: >>Dig<< er femininum.} blandt sønnerne,
 
-//6 og give dig et dejligt land,{H: 5 Mos 28,1-6; 30,9-10.19-20.}
+//6 og give dig et dejligt land,{H: 5 Mos 28,1-6; 30,9-10.19-20. Jer 31,20. Hos 11,8-9.}
 
 en herlig arvelod, den allerherligste blandt folkeslagene!
 
 //4 Og jeg sagde:
-//5 Du skal kalde mig far{H: Jer 3,4-5; Hos 11,1.}
+//5 Du skal kalde mig min far{H: Jer 3,4.}
 
-//6 og ikke vende dig væk fra mig!{T: Ordret: >>fra efter mig<<.}
+//6 og ikke vende dig væk fra mig!
 
-//3 v20 Sandelig som en kvinde har troløst forladt sin ven,{T: Ordret: >>fra sin ven<<.}
+//3 v20 Sandelig som en kvinde troløst har forladt sin ven,
 
 //4 sådan har I handlet troløst mod mig,
 //6 Israels hus! 
 
-//5 – Det er HERRENS udsagn.<<
+//5 Det er HERRENS udsagn.<<
 
 
 ==Israels folk græder, og HERREN svarer==
 
 
-//0 v21 En røst høres på de nøgne høje,{H: Jer 3,2; 2 Krøn 34,3-7.}
+//0 v21 En røst høres på de nøgne høje,
 
-//4 gråd, en tryglen fra Israels sønner,{H: Jer 5,7.}
+//4 gråd, en tryglen fra Israels sønner,
 
-//3 for de slog ind på afveje,{T: Ordret: >>forvrænge deres veje<<.}
+//3 for de slog ind på afveje,
 
 //4 de glemte HERREN deres Gud.
 
-//2 v22 >>Vend om,{H: Jer 4,14; Hos 14.}
-//4 I frafaldne sønner!
+//2 v22 >>Vend om,{H: Jer 3,14. Hos 14,2.}
+//4 I frafaldne sønner! 
 
-//3 Jeg vil helbrede jeres frafald.<<
+//3 Jeg vil helbrede jeres frafald.<<{H: Hos 14,5-9.}
 
 
 ==Folket erkender at de har syndet mod Gud==
@@ -207,23 +212,23 @@ en herlig arvelod, den allerherligste blandt folkeslagene!
 //1 >>Her er vi, 
 //4 vi kommer til dig,
 
-//3 for du er HERREN vores Gud.{H: 2 Mos 20,2-6; 5 Mos 5,6-10; 6,4.} 
+//3 for du er HERREN vores Gud.{H: 2 Mos 20,2. 5 Mos 5,6; 6,4.} 
 
-//2 v23 Sandelig, det er løgn{T: Eller >>forgæves<<.} der kommer fra højene, 
+//2 v23 Sandelig, det er løgnen der kommer fra højene, 
 
-larmen fra bjergene!{T: Der er her tale om larmende afgudsdyrkelse.}
+larmen fra bjergene!{T: Larmende afgudsdyrkelse.}
 
 //3 Sandelig, ved HERREN vores Gud 
 
 er Israels frelse!
 
-//5 v24 Skændslen{E: *bbōšet* >>skam<<. I Jer 11,13 er udtrykket knyttet til altre og direkte til Ba’al.}
-fortærede vores fædres slid 
+//5 v24 Skændslen{E: I Jer 11,13 er ordet *bōšet* (>>skam<<, >>skændsel<<) knyttet til altre og direkte til Ba’al.}
+fortærede vores fædres rigdom 
 
-fra vores ungdom af;
+fra vores ungdom af,
 
-deres får og geder,
-deres kvæg,
+deres får
+og deres kvæg,
 
 deres sønner 
 og deres døtre.
@@ -237,7 +242,7 @@ og deres døtre.
 vi og vores fædre, 
 
 fra ungdommen af
-
 og indtil denne dag.
 
-//6 Vi adlød ikke{T: Ordret: >>vi hørte ikke på<<.} HERREN vores Gud.<<{H: Jer 7,23-28; 2 Mos 19,5.}
+//6 Vi adlød ikke{T: Ordret: >>vi hørte ikke på<<.} HERREN vores Gud.<<{H: Jer 7,23-26. 2 Mos 19,5.}
+

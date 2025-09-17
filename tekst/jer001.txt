@@ -1,7 +1,7 @@
-﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.06.2025>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' Bog, kapitel 1===
 
@@ -13,9 +13,9 @@
 //3 i Anatot i Benjamins land.
 //2 v2 Til ham kom HERRENS ord i de dage Josija,{H: 2 Kong 21,24. 2 Krøn 34,1-2.} Amons søn, var konge i Juda, i det trettende år{H: Jer 25,3.}
 //3 af hans regering.
-//1 v3 Og det kom også i de dage Jojakim,{H: 2 Kong 23,36. 2 Krøn 36,5-8.}{T: Opbygningen af Jeremias’ bog er ikke kronologisk, men de profetiske udsagn er ordnet efter hvem der er tilhørere.} Josijas søn, var konge i Juda, 
-//3 og det blev ved med at komme indtil udgangen af Sidkijas,{H: 2 Kong 24,18. 2 Krøn 36,11-13.} Josias søns ellevte år som konge i Juda, 
-//4 indtil Jerusalems indbyggere{T: >>indbyggere<< er tilføjet.} gik i eksil i den femte måned. 
+//1 v3 Og det kom også i de dage Jojakim,{H: 2 Kong 23,36. 2 Krøn 36,5-7.}{T: Opbygningen af Jeremias’ bog er ikke kronologisk, men de profetiske udsagn er ordnet efter hvem der er tilhørere.} Josijas søn, var konge i Juda, 
+//3 frem til udgangen af Sidkijas,{H: 2 Kong 24,18. 2 Krøn 36,11-13.} Josijas søns ellevte år som konge i Juda, 
+//4 indtil Jerusalems indbyggere{T: >>Indbyggere<< er tilføjet.} gik i eksil i den femte måned. 
 
 ==HHERREN satte Jeremias til profet før han blev født==
 
@@ -37,7 +37,7 @@
 
 //4 v6 Men jeg sagde: 
 //5 >>Ak Herre, HERRE! 
-//6 Se, jeg duer ikke til
+//6 Se, jeg forstår mig ikke på 
 //8 at tale, 
 //7 for jeg er ung.<<
 
@@ -61,9 +61,11 @@
 //4 v8 Frygt ikke for dem! 
 
 //5 For jeg er med dig 
-//7 for at redde dig,
+//7 for at redde dig
 
-//6 det er HERRENS udsagn.<<{T: Udtrykket forekommer hyppigt hos Jeremias og fungerer både som en understregning og som en bekræftelse af at det er HERRENS ord og ikke Jeremias’ egne ord. Lignende idiomatiske udtryk findes både hos Moses og profeterne.}{H: 2 Mos 4,22; Jer 2,2. Es 56,8. Zak 8,2.}
+//6 - det er HERRENS udsagn.<<{T: Dette stærke udtryk forekommer talrige gange i hele Jeremias’ bog og er ligesom en underskrift af HERREN: >>Jeg, HERREN, bekræfter det, det står fast, det vil ske<<. Samtidig er det en kraftig understregning af at det er HERRENS ord og ikke Jeremias’ egne ord. Lignende idiomatiske udtryk findes både hos Moses og profeterne.}{H: 2 Mos 4,22; Jer 2,2. Es 56,8. Zak 8,2.}
+
+***
 
 //3 v9 HERREN rakte sin hånd frem, 
 //4 og rørte ved min mund, 
@@ -71,12 +73,12 @@
 //4 >>Se, jeg har lagt mine ord i din mund.
 
 //5 v10 Se, 
-//6 jeg har på denne dag sat{T: Ordret: >>udnævnt<<.} dig over folkeslagene og over kongerigerne
+//6 jeg har på denne dag udnævnt dig med myndighed{T: >>Med myndighed<< er tilføjet.} over folkeslagene og over kongerigerne
 
 //7 til at rykke op
 //8 og bryde ned, 
 
-//8 til at udrydde
+//8 til at udrydde 
 //8 og rive ned,
 
 //7 til at bygge
@@ -90,7 +92,7 @@
 //5 : 
 //6 >>Hvad ser du,
 //7 Jeremias?<<
-//4 Jeg svarede: 
+//4 Jeg sagde: 
 //5 >>Jeg ser en stav af mandeltræ.<<
 //3 v12 Og HERREN sagde til mig: 
 //4 >>Du har set rigtigt,
@@ -105,37 +107,37 @@ over mit ord
 //2 v13 Og HERRENS ord kom til mig for anden gang
 //4 : 
 //5 >>Hvad ser du?<< 
-//3 Jeg svarede: 
+//3 Jeg sagde: 
 //4 >>Jeg ser en kogende gryde, 
-//5 og den vender herimod{T: Ordret: >>og dets ansigt<<.} fra nord.<<
+//5 og dens top vender bort fra nord.<<
 //2 v14 Og HERREN sagde til mig: 
 
-//3 >>Fra nord skal ulykken{T: Eller >>ondskaben<<.} slippes løs 
+//3 >>Fra nord skal ulykken slippes løs 
 
 mod alle landets indbyggere.
 
 //4 v15 For se, jeg kalder på 
 
-alle stammerne fra kongerigerne mod nord, 
+alle stammerne fra kongerigerne mod nord 
 
-//8 det er HERRENS udsagn,
+//8 - det er HERRENS udsagn -
 
 //7 og de vil komme 
 //7 og sætte 
 //9 hver sin trone
 
-//8 ved indgangen til Jerusalems porte 
+//8 ved indgangen til Jerusalems porte, 
 
-og på alle dens mure hele vejen rundt 
+og mod alle dens mure hele vejen rundt 
 
-og i alle Judas byer.{T: En trone i byporten markerer den endegyldige magtovertagelse.}
+og mod alle Judas byer.{T: En trone i byporten markerer den endegyldige magtovertagelse.}
 
 //6 v16 Og jeg vil afsige mine domme over dem 
 
 på grund af al deres ondskab, 
 
 //7 fordi de forlod mig 
-//8 og ofrede{T: Eller >>brændte<<.} røgelse til andre guder 
+//8 og brændte røgelse for andre guder 
 
 //8 og tilbad deres hænders værk.
 
@@ -174,9 +176,10 @@ mod dets præster og mod landets folk.
 
 //9 men ikke vinde over dig, 
 
-//10 for jeg er med dig,
+//10 for jeg er med dig
 
-//12 det er HERRENS udsagn,
+//12 - det er HERRENS udsagn -
+
 
 //11 for at redde dig.<<
 

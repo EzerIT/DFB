@@ -1,7 +1,7 @@
-﻿!!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 16.05.2025>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' Bog, kapitel 7===
  
@@ -14,17 +14,19 @@
 //3 v2 >>Stil dig i porten til HERRENS hus{H: Jer 26,2.} 
 //5 og dér skal du udråbe dette ord, 
 //5 og du skal sige: 
-//6 Hør HERRENS ord, 
+//6 >Hør HERRENS ord, 
 //8 hele Juda! 
 //9 I som går ind ad disse porte 
-//10 for at tilbede HERREN!
+//10 for at tilbede HERREN!<
+
+***
 
 //7 v3 Sådan siger Hærskarers{N: Hærskarers} HERRE, Israels Gud: 
 //8 Gør jeres veje og jeres gerninger gode, 
 //12 så vil jeg lade jer bo på dette sted.
-//11 v4 I må ikke stole på ord fyldt med løgn,
+//11 v4 I må ikke stole på løgneordene,
 //12 når de siger: 
-//13 >HERRENS tempel, HERRENS tempel, HERRENS tempel er dette!<{E: *hemmah* er her vanskeligt at oversætte. Ordret: >>De/disse<<.}
+//13 >HERRENS tempel, HERRENS tempel, HERRENS tempel er disse!<{E: *hemmah* >>de/disse<< refererer formentlig til tempelkomplekset som bestod af mere end en bygning, jf. Sl 84,2 >>dine boliger<<.}
 
 //10 v5 Men hvis I virkelig gør jeres veje og jeres gerninger gode, 
 //12 og hvis I virkelig øver ret mellem en mand og hans næste,
@@ -34,7 +36,7 @@
 //11 v7 da vil jeg lade jer bo på dette sted, i det land 
 //12 som jeg gav jeres fædre, fra evighed og til evighed.
 
-//9 v8 Se, I stoler på ord fulde af løgn,
+//9 v8 Se, I stoler på løgneordene,
 //14 som intet gavner.
 //13 v9 Kan I stjæle, 
 //14 kan I slå ihjel, 
@@ -42,19 +44,19 @@
 //15 og kan I sværge falsk 
 //15 og brænde røgelse for Ba'al, 
 //15 og kan I følge fremmede guder 
-//16 som I ikke kender,
+//16 som I ikke har kendt,
 //12 v10 og så komme 
 //12 og stå for mit ansigt i dette hus, 
 //13 som mit navn er udråbt over,
 //12 og sige: 
 //15 >Vi er frelst<, 
-//14 - for så at kunne gøre alle disse vederstyggeligheder?
-//13 v11 Er dette hus som mit navn er udråbt over, blevet en røverhule{H: Matt 21,13. Mark 11,17. Es 56,7.} 
+//14 - for så at kunne gøre alle disse vederstyggeligheder?{H: Jer 2,7.}
+//13 v11 Er dette hus som mit navn er udråbt over, blevet en røverhule{H: Matt 21,13. Mark 11,17.} 
 //15
 //14 i jeres øjne? 
 //11 Også jeg, 
-//13 se, jeg har set det, 
-//14 det er HERRENS udsagn.
+//13 se, jeg har set det 
+//14 - det er HERRENS udsagn.
 
 
 ==HERREN vil ødelægge templet ligesom Shilo==
@@ -66,15 +68,15 @@
 //13 og se 
 //14 hvad jeg har gjort ved det på grund af mit folk Israels ondskab.
 //10 v13 Og nu
-//11 fordi I har gjort alle disse gerninger,
-//14 det er HERRENS udsagn,
-//13 og jeg 
-//15 tidligt og ustandseligt
-//16 talte til jer,{E:  Ordret: >>stående tidligt op og talende<<. Dette udtryk med to infinitiv absolut anvendes talrige gange af Jeremias og er som en underskrift af profeten.}{H: Jer 25,4.} 
+//11 fordi I har gjort alle disse gerninger
+//14 - det er HERRENS udsagn -
+//13 og jeg talte til jer; 
+//15 tidligt og ustandseligt{E:  Ordret: >>stående tidligt op og talende<<. Dette udtryk med to infinitiv absolut (intensiverende) anvendes talrige gange af Jeremias og er som en underskrift af profeten.}{H: Jer 25,4.}
+//16 talte jeg,{T: Nogle oversættelser udelader >>talte jeg<<.} 
 //14 men I hørte ikke, 
 //13 jeg kaldte på jer, 
-//14 men I svarede ikke,  
-//12 v14 så vil jeg gøre med det hus, 
+//14 men I svarede ikke, 
+//12 v14 så vil jeg gøre med det hus 
 //16 som mit navn er udråbt over,
 //15 og som I stoler på, 
 //14 det sted 
@@ -97,24 +99,26 @@
 //9 v18 Børnene samler træ, 
 //11 og fædrene antænder ilden, 
 //12 og kvinderne ælter dej 
-//10 for at lave offerkager{T: Findes kun her og i Jer 44,19.} til himmelens dronning, 
+//10 for at lave offerkager{T: Ordet findes kun her og i Jer 44,19.} for himlens dronning, 
 //12 og de udøser drikofre for andre guder 
 //11 for at krænke mig.
 //8 v19 Er det mig, de krænker? 
 //10 Det er HERRENS udsagn. 
-//9 Er det ikke sig selv så deres ansigter må rødme{T: >>må rødme<< er tilføjet.} af skam?<<
+//9 Er det ikke til skam for sig selv?
+
+***
 
 //7 v20 Derfor, sådan siger den Herre HERREN:
-//9 >>Se, min vrede og min harme udøses over dette sted, over menneskene og over dyrene og over markens træer og jordens frugt, 
+//9 Se, min vrede og min harme udøses imod dette sted, over menneskene og over dyrene og over markens træer og jordens frugt, 
 //10 og den vil brænde 
 //11 og ikke gå ud.
  
 ==Jeremias skal tale forgæves til Israels folk== 
 
-//8 v21 Sådan siger Hærskarers HERRE, Israels Gud: 
+//8 v21 Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud: 
 //9 Føj jeres brændofre til jeres slagtofre 
 //11 og spis kødet! 
-//10 v22 For jeg talte ikke med jeres fædre 
+//10 v22 For jeg talte ikke til jeres fædre 
 //13 og gav dem heller ikke befalinger 
 //12 på den dag
 //14 da jeg førte dem ud af Egyptens land,
@@ -131,13 +135,13 @@
 //14 og bøjede ikke deres ører,
 //15 men de gik efter deres egne råd i deres onde hjerters forstokkethed, 
 //15 og de vendte ryggen 
-//16 og ikke ansigtet til mig.{T: >>til mig<< er tilføjet. Udtrykket findes kun her i GT, og der er forskellige oversættelser som >>de gik tilbage og ikke fremad<<. Lignende udtryk finder vi i Jer 2,27; 32,33.}
+og ikke ansigtet til mig.{T: >>Til mig<< er tilføjet. Udtrykket findes kun her i GT, og der er forskellige oversættelser som >>de gik tilbage og ikke fremad<<. Lignende udtryk finder vi i Jer 2,27; 32,33.}
 //13 v25 Fra den dag 
 //16 da jeres fædre drog ud af Egyptens land, 
 //15 og indtil denne dag 
-//14 sendte jeg jer alle mine tjenere, profeterne, 
-//15 dagligt, tidligt og ustandseligt, 
-//16 sendte jeg dem.
+//14 sendte jeg alle mine tjenere, profeterne til jer, 
+//15 dagligt, tidligt og ustandseligt 
+//16 sendte jeg.
 //12 v26 Men de hørte ikke på mig 
 //14 og bøjede ikke deres ører, 
 //13 men de gjorde deres nakke stiv. 
@@ -151,7 +155,7 @@
 //7 >Dette er det folk 
 //10 som ikke hører på{T: Eller >>adlyder<<.} HERREN deres Guds røst 
 //11 og ikke tager imod tugt. 
-//9 Sandheden er gået til grunde, 
+//9 Sandfærdigheden er gået til grunde, 
 //10 og den er udryddet af deres mund.<
 
 
@@ -159,35 +163,39 @@
 
 
 //8 v29 Klip dit hår af 
-//10 og kast det bort!{T: Tegn på sorg for både mænd og kvinder, men ikke tilladt for Israels folk.}{H: Jer 41,5. 5 Mos 14,1-2. 3 Mos 19,27-28; 21,5.}
+//10 og kast det bort!{T: Tegn på sorg for både mænd og kvinder, men ikke tilladt for Israels folk.}{H: 5 Mos 14,1-2. 3 Mos 19,27-28; 21,5-6.}
 
 //10 Opløft på de nøgne høje en dødsklage,  
 
 //9 for HERREN har forkastet 
 //10 og forstødt 
 
-den slægt som hans vrede er vendt imod.
+sin vredes slægt.
+
+***
 
 //6 v30 For Judas børn har gjort 
-//10 det der er ondt i mine øjne, 
-//9 det er HERRENS udsagn. 
-//8 De har sat deres ækle rædsler i det hus 
+//10 det der er ondt i mine øjne 
+//9 - det er HERRENS udsagn. 
+//8 De har sat deres vederstyggeligheder{H: Jer 4,1.} i det hus 
 //11 som mit navn er udråbt over, 
 //10 for at gøre det urent.
 //9 v31 Og de har bygget Tofet-højene, 
 //12 som er i Ben-Hinnoms dal,{H: Jer 2,23.} 
-//11 for at brænde deres sønner og døtre helt i ilden, 
+//11 for at brænde deres sønner og døtre op i ilden, 
 //10 hvad jeg ikke har befalet, 
-//11 og det er heller ikke faldet mig ind.{N: Hjerte}{H: Jer 19,5-7; 32,35.}
+//11 og som heller ikke er faldet mig ind.{N: Hjerte}{H: Jer 19,5-6; 32,35.}
 
-//7 v32 Derfor, se, de dage kommer, 
-//9 det er HERRENS udsagn
+***
+
+//7 v32 Derfor, se, de dage kommer 
+//9 - det er HERRENS udsagn -
 //8 hvor man ikke mere vil kalde det Tofet og Ben-Hinnoms dal, 
 //11 men slagtningens dal.{H: 2 Kong 23,10.} 
 //10 Og de vil begrave i Tofet af mangel på plads.
-//11 v33 Og dette folks døde kroppe skal blive til føde for himmelens fugle og jordens dyr, 
+//11 v33 Og dette folks døde kroppe skal blive til føde for himlens fugle og jordens dyr, 
 //12 og ingen skræmmer dem bort.
-//9 v34 Og jeg vil lade fryds og glædes røst, brudgoms og bruds røst ophøre i Judas byer og i Jerusalems gader, 
-//10 for landet skal blive til ruiner.<<
+//9 v34 Og jeg vil i Judas byer og i Jerusalems gader bringe fryds røst og glædes røst, brudgoms røst og bruds røst, til ophør, 
+//10 for landet skal blive til en ruin.<<
 
 

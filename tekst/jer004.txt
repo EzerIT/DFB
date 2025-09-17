@@ -1,7 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias’ bog, kapitel 4===
 
@@ -9,25 +9,26 @@
 ==Israels omvendelse vil føre til velsignelse for folkeslagene==
 
 
-//1 v1 >>Hvis du vender om,{T: Eller >>vender tilbage<<.}
+//1 v1 >>Hvis du vil vende om,
 //6 Israel
 
-//5 – det er HERRENS udsagn -
+//5 - det er HERRENS udsagn -
 
 //4 til mig, skal du vende om,
 
-//3 og hvis du fjerner dine afskyeligheder fra mit ansigt
+//3 og hvis du fjerner dine vederstyggeligheder{E: *šiqqûṣ* (>>vederstyggelighed<<), et meget stærkt udtryk for afguder, som er en vederstyggelighed for HERREN.} fra mit ansigt
 
-//4 og ikke strejfer omkring,{T: Til andre guder er underforstået. Nogle oversætter: >>så du ikke strejfer omkring<<.}
+//4 og ikke strejfer omkring,
 
-//2 v2 og du sværger:{T: Eller >>da kan du sværge<<.}
+//2 v2 og du vil sværge:{T: Eller >>da kan du sværge<<.} 
+
 //5 >Så sandt HERREN lever!<
 
-//4 - i sandhed, i ret og i retfærdighed -{H: 2 Mos 20,7; 5 Mos 5,11.}
+//4 i sandhed, i ret og i retfærdighed.
 
-//3 da vil folkeslagene velsigne sig{E: *hitbārᵊxû* >>velsigne sig<<, >>velsigne hinanden<< er verbalformen hitpael. Samme verbalform er anvendt i 1 Mos 22,18 og 26,4. I løftet første gang til Abraham i 1 Mos 12,3 er verbalformen den passive nifal >>velsignes<< anvendt.} i ham,{H: 1 Mos 18,18.}
+//3 Da vil folkeslagene velsigne sig i ham,{H: 1 Mos 22,18; 26,4.}
 
-//4 og i ham vil de rose sig.<<{T: Eller >>være stolt af ham<<.}
+//4 og i ham vil de rose sig.
 
 
 ==HERREN kalder Juda og Jerusalem til hjertets omvendelse==
@@ -35,19 +36,19 @@
 
 //0 v3 For sådan siger HERREN til Judas mænd og til Jerusalem:
 
-//3 >>Pløj ny jord
+//3 Pløj jer ny jord,
 
-//4 og så ikke blandt tornebuske!{T: Figurativt i forhold til moral og gudsforhold.}
+//4 og så ikke blandt tornebuske!
 
-//3 v4 Lad jer omskære for HERREN
+//3 v4 Omskær jer for HERREN
 
 //5 og fjern jeres hjertes forhud,
 
 //6 Judas mænd og Jerusalems indbyggere,
 
-//4 for at ikke min vrede skal bryde ud som ild{H: Jer 21,12; 23,19; 30,23.}
+//4 for at ikke min vrede skal bryde ud som ild{H: Jer 21,12.}
 
-//6 og brænde{T: Eller >>fortære<<.}
+//6 og brænde
 //7 så ingen kan slukke den,
 
 //5 på grund af jeres onde handlinger! 
@@ -56,48 +57,48 @@
 ==Ulykke vil komme fra nord==
 
 
-//3 v5 Fortæl det i Juda
+//3 v5 Fortæl{T: Da alle verber i vers 5 og 6 er pluralis, er budskabet til alle i landet og må sendes ud med løbere.} det i Juda,
 
 //5 og gør det kendt i Jerusalem, 
 
-//4 sig:{T: Det er vanskeligt at afgøre om det er HERREN eller Jeremias der taler i vers 5.}
+//4 sig 
 
-//5 Stød i hornet{T: >>Vædderhorn<<.} i landet,
+//5 og stød{E: Ketiv-formen af verbet med *w* er valgt i oversættelsen, men de fleste oversættelser vælger qere-formen og oversætter >>sig: Stød i hornet<<.} i hornet i landet,
 
 //3 råb det ud
 //3 af fuld hals
 //4 og sig:
 
 //5 >Saml jer
-//6 og lad os gå{T: Ordret: >>lad os komme<<.} 
+//6 og lad os drage 
 
 til de befæstede byer!<
 
-//3 v6 Rejs et banner:{E: *nēs*, samme konsonanter som i *nusu* >>flygt<<.} Til Zion!
+//3 v6 Rejs et banner: Til Zion!
 
 //3 Bring jer i sikkerhed,
 //5 bliv ikke stående!
 
-//4 For jeg{T: HERREN:} bringer ulykke fra nord
+//4 For jeg{T: HERREN.} er i færd med at bringe ulykke fra nord,
 
-og et mægtigt sammenbrud!
+ja et mægtigt sammenbrud!
 
-//2 v7 En løve{H: Sl 10,9; Jer 25,38; 49,19; 50,44.} stiger op{E: Eller >>skal stige op<<. Verberne i vers 7 opfattes som profetisk perfektum og oversættes derfor med præsens eller futurum. Det er sikkert det vil ske, for Gud har talt. Nogle oversætter som ren perfektum >>er kommet op<<.} fra sit buskads,{T: Eller >>sit skjul<<.} 
+//2 v7 En løve{H: Jer 25,38; 50,44.} er steget op fra sit buskads, 
 
-//8 og folkeslagenes ødelægger skal drage ud,
+//8 og han som er folkeslagenes ødelægger, er brudt op,
 
-//7 han skal gå frem fra sit sted
+//7 han er draget ud fra sit sted
 
-//9 for at gøre dit land til rædsel,
+//9 for at gøre dit land til rædsel.
 
-//8 dine byer vil blive lagt i ruiner{T: Eller >>lagt øde<<.} så ingen bor der.<<
+//8 Dine byer skal falde sammen så ingen bor der.<<
 
-//6 v8 Derfor{T: Ordret: >>på dette<<.} skal I binde sækkelærred om lænderne,
+//6 v8 Derfor, bind sække om jer,
 
 //8 I skal klage
 //9 og jamre,
 
-//7 for HERRENS heftige vrede 
+//7 for HERRENS glødende vrede 
 
 har ikke vendt sig fra os.
 
@@ -106,83 +107,87 @@ har ikke vendt sig fra os.
 
 
 //5 v9 >>Og det vil ske på den dag
-//7 – det er HERRENS udsagn -
+//7 - det er HERRENS udsagn -
 
 //6 at kongen 
+og lederne vil miste modet,{N: Hjerte}
 
-og lederne vil miste modet,{T: Ordret: >>hjerterne vil gå til grunde<<.}
+//7 og præsterne vil komme til at skælve,
 
-//7 og præsterne vil blive forfærdet
-
-//8 og profeterne vil blive stumme af rædsel.<<
+//8 og profeterne bliver målløse af rædsel.<<
 
 //4 v10 Da sagde jeg:
 //6 >>Ak, 
-//8 Herre HERRE,
-//7 sandelig, du har fuldstændig svigtet{T: Eller >>bedraget<<.} dette folk og Jerusalem{H: Rom 9,20-21; Es 45,9; 29,16.}
+//8 Herre, HERRE,
+//7 sandelig, du har fuldstændig bedraget dette folk og Jerusalem 
 //8 ved at sige:
-//9 >I skal have fred!<{H: Jer 6,14; Jer 14,13-15.}
+//9 >I skal have fred!< 
 //10 Og nu er sværdet nået helt til sjælen.<<
-//5 v11 Til den tid vil der blive sagt til dette folk og til Jerusalem:
 
-//6 >>En glohed vind kommer fra de nøgne høje i ørkenen{T: Et udtryk for dom og ødelæggelse.}
+***
 
-ned mod{T: Ordret: >>vej<<.} mit folks datter,{T: Kan oversættes >>min datter – mit folk<<, >>mit kære folk<<. Men da >>Israels sønner<< = >>Israel<<, må det medføre >>mit folks datter<< = >>mit folk<<. Dette og lignende poetiske udtryk møder vi gentagne gange i Jeremias’ bog.}{H: Jer 8,19.22; 9,1; 14,17; Klag 2,11; 3,48; 4,3.6.10; 5 Mos 32,19-20; Jer 31,9; 2 Kor 6,18.}
+//5 v11 Til den tid skal der siges til dette folk og til Jerusalem:
 
-//8 ikke
+//6 >>En glohed vind fra de nøgne høje i ørkenen
+
+ blæser i retning mod mit folks datter,
+
+//8 ikke en vind
 //10 for at skille fra
 
-//9 og ikke
+//9 og ikke en vind
 //10 for at rense. 
 
-//7 v12 En vind stærkere end denne vil komme på min befaling.{T: Ordret: >>for mig<<.}
+//7 v12 En vind stærkere end disse,{E: LXX oversætter >>en stærk(fuld) vind<< og udelader >>end disse<<. MT antager at der er to vinde, derfor er >>en vind<< tilføjet i de to forudgående verslinjer af hensyn til forståelsen.} vil komme på min befaling.{T: Ordret: >>for mig<<.}
 
-//8 Og nu er det mig, jeg afsiger domme over dem.<<
+//8 Nu vil også jeg, ja, jeg vil afsige domme over dem.<<
 
 //3 v13 Se, som skyerne stiger han op,
 
-//6 og som stormvinden{T: Eller >>hvirvelvind<<.} hans stridsvogne,{H: Joel 2,2, Ez. 38,16; Es 5,28; Es 66,15; Hag 1,8.}
+//6 og som hvirvelvinden er hans stridsvogne,{H: Es 29,6; 66,15.}
 
-//5 hurtigere end ørnene er hans heste.
+//5 hurtigere end ørne er hans heste.
 
 //4 >>Ve os!
-//5 For vi er knust<<.
+//5 For vi er ødelagt<<.
 
-//1 v14 >>Vask dit hjerte rent for ondskab,
+***
+
+//1 v14 >>Rens dit hjerte for ondskab,{H: Jer 4,18.}
 //6 Jerusalem,
 
-//5 for at du skal blive frelst!
+//5 for at du kan blive frelst!
 
-//4 Hvor længe skal dine syndige tanker
+//4 Hvor længe skal dine onde tanker 
 
-bo i dit indre?
+overnatte i dit indre?
 
-//3 v15 For en røst forkynder fra Dan,
+//3 v15 For en røst meddeler fra Dan,
 
-//6 og en kundgør ulykke fra Efraims bjerge.
+//6 og en forkynder ulykke fra Efraims bjerge.
 
-//5 v16 Gør det kendt for folkeslagene,
+//5 v16 Kundgør det for folkeslagene,
 
-//6 se, kundgør mod{E: *ʕal* oversættes >>mod<< ligesom i de følgende verslinjer i vers 16-17.} Jerusalem:
+//6 se, forkynd det mod Jerusalem:
 
-//7 Belejrere{E: *nōṣᵊrîm* >>vogtere<<, nogle ændrer til *ṣᵊrîm* der betyder >>fjender<<.} kommer fra et fjernt land,
+//7 Vogtere{E: *nōṣᵊrîm* (>>vogtere<<) ændres af nogle til *ṣᵊrîm* (>>fjender<<).} kommer fra et fjernt land,
 
-//8 og de råber mod Judas byer.{H: Es 1,8.}
+//8 og de lader deres røst lyde mod Judas byer!
 
 //4 v17 Som mænd der vogter en mark,
 
 er de imod hende fra alle sider,
 
-//5 for det var mod mig hun{T: Juda.} gjorde oprør{H: Jer 1,13-15.}
+//5 for det var mod mig hun{T: Juda.} var genstridig
 
-//6 – det er HERRENS udsagn.
+//6 - det er HERRENS udsagn.
 
-//2 v18 Dine veje og dine handlinger
+//2 v18 Din vej og dine handlinger
 
 har bragt disse ting over dig, 
 
-//4 denne din ulykke{T: Ordret: >>ondskab<<. Ordet har her den udvidede betydning: >>konsekvensen af ondskab<<.}
-//3 er virkelig bitter;
+//4 det er din ondskab,
+//3 det er virkelig bittert;
 
 //4 det har rørt dit hjerte dybt.<<
 
@@ -190,31 +195,31 @@ har bragt disse ting over dig,
 ==Jeremias klager og er knust over at landet ødelægges==
 
 
-//0 v19 Mine indvolde, mine indvolde!{T: Udtryk for Jeremias' fortvivlelse.}
-//4 jeg vrider mig som i veer!{T: Ordret: >>jeg vrider mig<<. Gennem hele Jeremias’ bog møder vi Jeremias’ talrige klager og bekendelser, hvortil HERRENS klage føjes til.}{H: Jer 5,3-5; 8,18-23; 11,18-23; 12,1-6; 15,10-11.15-21; 17,14-18; 18,18-23; 20,7-13.14-18.}
+//0 v19 Mine indvolde, mine indvolde!{T: Udtryk for Jeremias´ fortvivlelse.}
+//4 jeg må vride mig!
 
-//3 Mit hjertes vægge!{T: Ordret: >>tråde<<.}
+//3 Mit hjertes vægge!
 
 //4 Mit hjerte slår heftigt i mig,
 
 //5 jeg kan ikke tie,{H: Jer 1,9-10.}
 
-//2 for jeg har hørt{T: Eller >>jeg hører<<. Nogle oversætter >>du har hørt min sjæl<<.} lyden fra hornet, 
-//6 åh min sjæl,
+//2 for hornets lyd har du hørt, 
+//6 min sjæl,
 
-//5 og krigsråb.
+//5 krigsråb.
 
-//4 v20 Ødelæggelse på ødelæggelse råbes der,
+//4 v20 Sammenbrud på sammenbrud råbes der,
 
-//6 for hele landet er ødelagt.{T: Eller >>lagt i ruiner<<.}
+//6 for hele landet er ødelagt.
 
-//5 Pludselig ødelagdes mine telte,
+//5 Pludselig er mine telte ødelagt,
 
 //6 på et øjeblik mine teltduge. 
 
-//3 v21 Hvor længe skal jeg se banneret
+//3 v21 Hvor længe skal jeg se banner,
 
-//4 og høre lyden fra hornet?{H: Jer 20,9.}
+//4 høre lyden fra horn? 
 
 
 ==HERREN taler til sit tåbelige folk==
@@ -222,93 +227,92 @@ har bragt disse ting over dig,
 
 //1 v22 >>For mit folk er tåbelige,
 
-//3 mig kender de ikke.
+//3 mig kender de ikke.{T: Ordet >>kende<< har på hebraisk en dybere og mere omfattende betydning med emotionel og villet forpligtelse i retning af >>erkende<<, >>vedkende sig<<, også seksuelt >>ligge med<< som i 1 Mos 4,1.}
 
-//2 Tåbelige børn{T: Ordret: >>sønner<<.} er de,
+
+//2 Uforstandige børn er de,
 
 //4 og uden indsigt er de,
 
 //3 vise er de
-//5 i at handle ondt,
+//5 i at gøre ondt,{H: Jer 2,13.}
 
 //4 men
-//6 at handle ret 
+//6 at gøre godt 
 //5 forstår de ikke.<<
 
 
 ==Jeremias ser som i et syn landet som en ørken==
 
 
-//0 v23 Jeg så jorden{T: Eller >>landet<<.}
+//0 v23 Jeg så jorden,
 
-//2 - se, den var gold og øde,{H: 1 Mos 1,2.}
+//2 og se, den var gold og øde,{H: 1 Mos 1,2.}
 
-//1 og{T: >>jeg så<< er underforstået fra første linje i verset.} op mod himlene,
+//1 og jeg så{T: >>Jeg så<< er underforstået fra første linje i verset.} op mod himlene,
 
 //2 og der var ingen lys mere.
 
-//0 v24 Jeg så bjergene
+//0 v24 Jeg så bjergene,
 
-//1 – se, de skælvede,
+//1 og se, de skælvede,
 
-//2 og alle højene 
+//2 og alle højene vaklede.
 
-de rystede. 
-
-//0 v25 Jeg så
-//1 – se, der var ingen mennesker mere,
+//0 v25 Jeg så,
+//1 og se, der var intet menneske,
 
 //2 og alle himlens fugle var flygtet.
 
-//0 v26 Jeg så
-//3 – se, 
+//0 v26 Jeg så,
+//3 og se, 
 
-det frugtbare land var ørken,
+frugthaven var som ørkenen,
 
-//4 og alle dets byer var revet ned
+//4 og alle dens byer var revet ned
 
-foran{E: *mippᵊnê* kan både betyde >>foran<< og >>på grund af<<.} HERREN,
-
-foran hans heftige vrede.{T: Vers 23-26 er et billede på det modsatte af skabelsen i 1 Mos 1.}{H: Joel 2,1-11; Amos 8,9-10; Nah 1,2-8; Zef. 1,2-3.}
+foran{E: Andre oversætter *mipāneʰ* >>på grund af<< eller >>fordi/af<<.} HERREN, 
+foran hans glødende vrede.{T: Vers 23-26 er et billede på det modsatte af skabelsen i 1 Mos 1,1.3.31}{H: Sef. 1,2-4.}
 
 
 ==HERREN vil gøre ende på landet, men ikke helt==
 
 
-//2 v27 For sådan siger{T: Eller >>har HERREN sagt<<.} HERREN:
+//2 v27 For sådan siger HERREN:
 
-//3 >>Hele landet skal lægges i ruiner,{T: >>blive ørken<<.}
+//3 >>En ødemark skal hele landet blive,
 
-//5 men jeg vil ikke gøre ende på det.
+//5 men jeg vil ikke gøre en fuldstændig ende på det.
 
-//4 v28 Derfor{T: Ordret: >>over dette<<.} skal landet sørge,
+//4 v28 På grund af dette vil jorden sørge,
 
-//6 himlen ovenfor formørkes,{H: Jer 2,12; Mika 6,2; Hos 4,3.} 
+//6 himlen ovenover vil blive sort, 
 
-//5 fordi jeg har talt,
-//7 jeg har bestemt det,
+//5 for jeg har talt,
+//7 jeg har planlagt det,
 
-//6 og jeg vil ikke fortryde,{E: *niḥamtî* kan betyde >>angre<<, men her er meningen klar, Gud har besluttet og vil ikke skifte mening.}
+//6 og jeg vil ikke fortryde,
 
-//7 og jeg viger ikke{T: Ordret: >>vende tilbage<<.} fra det.<<
+//7 og jeg viger ikke fra det.<<
 
-//1 v29 Ved lyden af rytter{T: Ordret: >>hest<<.} 
+***
 
-og veludrustede{T: Ordret: >>buebevæbnede<<.} bueskytter{E: Singularis, kollektivt.}{H: Sl 78,9.}
+//1 v29 Ved lyden af rytter 
+
+og bueskytte 
 
 flygter hver by,
 
-//3 de løber{T: Ordret: >>kommer<<.} ind i krattene,{T: Ordret: >>mørk, tæt skymasse<<.}
+//3 de går ind i krattene,
 
-//4 de går op på klipperne,{H: Es 2,10.19-21; Åb 6,15-16; Jer 16,16; Dom 6,2; 1 Sam 13,6.}
+//4 de går op på klipperne,
 
 //2 hver by forlades,
 
 //3 intet menneske bor i dem.
 
-//0 v30 Men du, 
-
-//3 du ødelagte,{E: Pronomenet er femininum og adjektivet er maskulinum.}
+//0 v30 Og du, 
+//3 en ødelagt,{T: Jerusalem, kaldt Zions datter i vers 31.}{E: Pronomenet er femininum og adjektivet er maskulinum og mangler i LXX. Oversættelsen er usikker.}
 
 //2 hvad vil du gøre?
 
@@ -316,22 +320,22 @@ flygter hver by,
 
 //5 når du pynter dig med smykker af guld,
 
-//4 når du gør dine øjne store{T: Ordret: >>rive dine øjne fra hinanden<<.} med sminke,{T: Blåhvidt farvet pulver med metalglans.}
+//4 når du gør dine øjne store{T: Ordret: >>river dine øjne fra hinanden<<.} med sminke,
 
-//3 er det forgæves at du gør dig smuk.
+//3 er det forgæves at du gør dig smuk!
 
 //4 Elskerne har forkastet dig,
 
-//5 det er dit liv de søger.{T: Underforstået: >>at tage<<.}
+//5 det er din sjæl de tragter efter.
 
 //1 v31 For jeg har hørt en røst som hos den fødende,
 
-//3 skrig{T: Ordret: >>trængsel<<.} som en der er ved at føde sit første barn.
+//3 klageskrig som en der er ved at føde sit første barn.
 
 //2 Det er røsten fra Zions datter der gisper efter vejret,
 
-//4 hun strækker sine hænder{T: Ordret: >>sine håndflader<<.} frem:
+//4 hun breder sine hænder ud:
 
 //3 >>Ve mig!
 
-//4 For min sjæl synker sammen over for morderne.<<
+//4 For min sjæl er bukket under for mordere.<<

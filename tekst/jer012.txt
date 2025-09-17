@@ -1,7 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' bog, kapitel 12===
 
@@ -16,9 +16,9 @@
 
 //1 alligevel er der domme jeg vil tale med dig om.
 
-//2 Hvorfor lykkes de gudløses vej? 
+//2 Hvorfor lykkes de gudløses vej 
 
-//5 De lever i ro, alle de der handler fuldstændigt troløst.{H: Jer 3,20; 5,11; Hos 5,7; 6,7, Mal 2,10.14-16.}
+//5 og hvorfor lever de i ro, alle dem der handler fuldstændigt troløst?{H: Jer 3,20; 5,11.}
 
 //4 v2 Du plantede dem,
 //9 de slog også rod,
@@ -30,6 +30,7 @@
 
 //8 men langt borte fra deres indre.{T: Ordret: >>nyrer<<, der betragtes som sæde for følelser.}
 
+
 //6 v3 Men du,
 //9 HERRE,
 //8 du kender mig,
@@ -37,9 +38,9 @@
 
 //8 du undersøger mit hjerte over for dig.
 
-//5 Træk dem væk som får{T: Ordret: >>får og geder<<. Metaforisk om Israel.} til slagtning
+//5 Træk dem væk som får til slagtning
 
-//6 og hellig dem til den dag de skal dræbes!
+//6 og indvi{T: Ordret: >>hellig<<.} dem til den dag de skal dræbes!
 
 ***
 
@@ -47,7 +48,7 @@
 
 //5 og græsset på hver mark visne
 
-//4 på grund af indbyggernes ondskab;
+//4 på grund af indbyggernes ondskab der;
 
 dyr og fugle er revet væk.
 
@@ -59,20 +60,20 @@ dyr og fugle er revet væk.
 ==HERRENS svar til Jeremias==
 
 
-//0 v5 >>Hvis du løber mod fodgængere{T: Ordret: >>til fødderne<<.} 
+//0 v5 >>Hvis du løber mod fodgængere 
 //4 og de har gjort dig træt,
 
-//3 hvordan vil du så konkurrere{T: Ordret: >>varmer sig selv op<<.} med hestene?
+//3 hvordan vil du så konkurrere med hestene?
 
 //2 I et land med fred føler du dig tryg,
 
-//3 men hvad vil du gøre i Jordans pragt?{H: Ez 47,5; Jer 49,19; 50;44; Zak 11,3.}
+//3 men hvad vil du gøre i Jordans tætte krat?
 
 //1 v6 For også din bror og din fars hus,
 
-//3 selv de handler bedragerisk mod dig,
+//3 selv de handler troløst mod dig,
 
-//3 selv de råber af fuld hals{T: Teksten er uklar.} efter dig.
+//3 selv de råber af fuld hals efter dig.
 
 //2 Tro ikke på dem
 
@@ -84,7 +85,7 @@ dyr og fugle er revet væk.
 
 //0 v7 Jeg har forladt mit hus,
 
-//0 jeg har forkastet min arvelod,{H: Es 2,6.}
+//0 jeg har forkastet min arvelod,{T: Eller >>min ejendom<<.}{H: Es 2,6.}
 
 //0 jeg har givet min sjæls elskede 
 
@@ -94,28 +95,28 @@ i hendes fjenders hånd.
 
 som en løve i skoven.
 
-//5 Hun har udstødt{T: Ordret: >>givet<<.} sit høje råb{T: Ordret: >>sin stemme<<, oversættelsen skyldes sammenligningen med en løve.} imod mig,
+//5 Hun har udstødt sit høje brøl imod mig,
 
 //6 derfor hader jeg hende.
 
-//4 v9 Er min arvelod for mig som en flerfarvet{E: *ṣāvûₐʕ*, >>flerfarvet<<, er en hapax legomenon der også kan betyde >>hyæne<<. Oversættelsen er usikker.} rovfugl?
+//4 v9 Er min arvelod for mig blevet som en flerfarvet{E: *ṣāvûₐʕ* (>>flerfarvet<<) findes kun her, kan også betyde >>hyæne<<. Oversættelsen er usikker.} rovfugl?
 
-//5 Svæver rovfugle{E: Singularis, kollektivt.} rundt over hende?
+//5 Svæver en rovfugl rundt over hende?{T: Kan også oversættes >>og rovfuglene (kollektivt) er imod hende fra alle sider<<, idet partiklen *ha* enten kan opfattes som den bestemte artikel eller som angivelse af et spørgsmål.} 
 
-//6 Gå!
-//6 Saml alle markens vilde dyr!
+//6 Gå
+//6 og saml alle markens vilde dyr!
 
-//6 Bring dem som føde!
+//6 Bring dem til fortæring!{H: Jer 5,17. Es 56,9.}{T: Ud fra sammenhængen må det være et billede på Guds dom over Juda, der fortæres af fjender. Lignende domsbilleder finder vi i Es 18,6 hvor både rovfugle og de vilde dyr deltager.}
 
 //2 v10 Mange hyrder har ødelagt min vingård,
 
-//4 de har nedtrådt min del,
+//4 de har nedtrådt mit grundstykke,
 
-//4 de har gjort{T: Ordret: >>givet<<.} min dejlige del
+//4 de har gjort mit dejlige grundstykke
 
-til en øde ørken.{E: *šᵊmāmāʰ* betyder >>øde<<, >>ødemark<< gentages i vers 11, og der er et ordspil med verbet *nāšammāh* >>blive lagt øde<<.}
+til en øde ørken.
 
-//5 v11 Man har gjort den til en ødemark,
+//5 v11 Man har gjort det til en ødemark,
 
 //6 øde sørger den foran mig, 
 
@@ -123,9 +124,9 @@ til en øde ørken.{E: *šᵊmāmāʰ* betyder >>øde<<, >>ødemark<< gentages i
 
 //8 fordi intet menneske havde hjerte for det.<<{T: Af og til kan det være svært at afgøre hvem der taler, fordi HERRENS tale og Jeremias' kommentarer flettes ind i hinanden. Da er det sammenhængen og især verbalformer og pronomener der er afgørende. I det følgende er det Jeremias som kommenterer.} 
 
-//3 v12 På alle nøgne høje{H: Jer 3,2.21; 4,11; 7,29; 14,6.} i ørkenen
+//3 v12 På alle nøgne høje i ørkenen
 
-kom ødelæggerne,
+kom ødelæggere,
 
 //5 for HERRENS sværd fortærer 
 
@@ -138,7 +139,7 @@ fra den ene ende af landet til den anden.
 //1 v13 De havde sået hvede,
 //2 men tjørn har de høstet.
 
-//1 De gjorde sig selv syge{T: Dvs. anstrengte sig så de blev syge.}
+//1 De blev udmattede 
 //3 og fik ikke noget ud af det.
 
 //2 De blev til skamme på grund af deres afgrøder,
@@ -149,14 +150,14 @@ på grund af HERRENS glødende vrede.
 ==Ulykke og frelse for Israel og dets naboer==
 
 
-//0 v14 Sådan siger HERREN mod alle mine onde naboer,
+//0 v14 >>Sådan siger HERREN mod alle mine onde naboer,
 //2 de som skader den arvelod
 //3 som jeg gav som ejendom til mit folk, til Israel:
-//1 >>Se, jeg rykker dem op af deres jord,{H: Jer 1,10; 18,7; 31,28.}
+//1 Se, jeg rykker dem op af deres jord,
 //3 og Judas hus rykker jeg op af deres midte.
 //2 v15 Og det vil ske,
 //4 efter jeg har rykket dem op,
-//3 at jeg igen vil{T: Ordret: >>vende tilbage<<.}
+//3 at jeg igen vil
 //4 vise dem barmhjertighed,
 //4 og jeg vil bringe dem tilbage,
 //5 hver til sin arvelod
@@ -170,6 +171,7 @@ på grund af HERRENS glødende vrede.
 //5 så vil de blive bygget op midt i mit folk. 
 //4 v17 Men hvis de ikke hører,
 //5 så vil jeg rykke dette folkeslag op, 
-//6  - rykke op
+//6 rykke op
 //7 og ødelægge det
-//8 – det er HERRENS udsagn.<< 
+//8 - det er HERRENS udsagn.<< 
+

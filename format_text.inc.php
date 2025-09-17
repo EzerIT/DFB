@@ -254,7 +254,7 @@ class FormatText extends Formatter {
             $from[] = '~//\d+[\x20\xa0\x09]*\R~m';  // Prevent that marker without text causes subsequent line feed to be removed
             $to[] = '';
 
-            $from[] = '~//\d+~';  // Other markers are simply removed
+            $from[] = '~//\d+\s*~';  // Other markers are simply removed
             $to[] = '';
 
             $from[] = '/(.)\s+:/';  // Remove space in front of colon

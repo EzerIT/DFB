@@ -1,7 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' bog, kapitel 6===
 
@@ -9,47 +9,47 @@
 ==Jerusalem skal ødelægges på grund af ugudelighed==
 
 
-//0 v1 Bring jer i sikkerhed,{H: Jer 6,4.}
+//0 v1 Bring jer i sikkerhed,
 //7 Benjamins sønner,
 
 //6 væk fra Jerusalems midte!
 
-//5 Blæs i hornet i Tekoa!{H: Amos 1,1.}
+//5 Blæs i hornet i Tekoa!{E: Der er et ordspil mellem >>blæs<< (*tiqʕû*) og Tekoa og samme verbum i vers 3 med betydningen >>slå op<<.}
 
-//6 Rejs et signal over Bet-ha-Kerem,{H: Dom 20,38.40; Neh 3,14.} 
+//6 Rejs et signal over Bet-ha-Kerem, 
 
-//4 for ulykke ser ned fra nord,
+//4 for ulykke ser ned fra nord,{H: Jer 1,13.}
 
-//5 stor ødelæggelse!
+//5 et stort sammenbrud!
 
-//3 v2 Den yndige{E: *nnāwāh* betyder >>græsgang<<, men de fleste ændrer til *nāˀwāʰ* >>yndig (kvinde)<< der har næsten samme vokalisering.} og forkælede
+//3 v2 Den yndige{E: *nāwāh* betyder >>græsgang<<, men de fleste ændrer til *nāˀwāʰ* >>yndig (kvinde)<< med samme vokalisering.} og forkælede
  
-ødelægger jeg{H: Hos 4,5; Es 2,2-3; Ez 24,21; Hag 2,6-7.}
-//5 - Zions datter.{T: Jerusalem.}
+ødelægger jeg{T: Midt i Jeremias’ tale bryder HERREN ind her.} 
+//5 - Zions datter.{T: Jerusalem.} 
 
-//4 v3 Til hende kommer hyrderne
+//4 v3 Til hende kommer hyrder
 
-med deres flokke af får og geder,
+med deres hjord,
 
-//5 de slår{T: Ordret: >>blæse<<.} teltene op omkring hende, 
+//5 de slår telte op rundt omkring hende, 
 
-//5 de vogter
-//6 hver sit område.{T: Ordret: >>sin hånd<<.}
+//5 afgræsser
+//6 hver sit område.
 
-//2 v4 Hellig en krig imod hende,
+//2 v4 Forbered en hellig krig imod hende,
 
 //2 rejs jer,
 //4 lad os gå op ved middagstid!
 
 //3 Ve os,
-//4 for dagen er næsten forbi,{T: Ordret: >>aftager<<.}
+//4 for dagen hælder,
 
-//5 for aftenskyggerne bliver lange!{T: >>strækkes ud<<.}
+//5 for aftenskyggerne bliver lange!
 
 //2 v5 Rejs jer,
 //3 og lad os gå op om natten,
 
-//3 lad os ødelægge hendes paladser!{T: Eller >>fæstninger<<.}{H: Jer 9,20; 22,13-19.}
+//3 lad os ødelægge hendes paladser!
 
 
 ==Instruktion til angriberne==
@@ -57,7 +57,7 @@ med deres flokke af får og geder,
 
 //1 v6 For sådan siger Hærskarers{N: Hærskarers} HERRE: 
 
-//2 >>Skær hendes træer ned,
+//2 >>Fæld træer,
 
 //5 kast en vold op imod Jerusalem! 
 
@@ -65,25 +65,25 @@ med deres flokke af får og geder,
 //8 der skal hjemsøges.
 
 //7 Hun er fuld af
-//8 undertrykkelse{H: Jer 22,17.} i sin midte.
+//8 undertrykkelse i sin midte.
 
-//6 v7 Ligesom en brønd holder sit vand koldt,
+//6 v7 Ligesom en brønd holder sit vand friskt,
 
 //7 sådan holder hun sin ondskab frisk.
 
 //5 Der høres om vold og ødelæggelse i hende.
 
-//6 Foran mit ansigt er der altid sygdom og sår.
+//6 For mit ansigt er der altid sygdom og sår.
 
-//3 v8 Lad dig irettesætte,
+//3 v8 Lad dig belære,
 //5 Jerusalem,
 
-//4 for at min sjæl ikke skal vende sig bort fra dig,{H: Ez 23,17.}
+//4 for at min sjæl ikke skal vende sig bort fra dig,
 
-//5 for at jeg ikke skal gøre dig til ørken,
+//5 for at jeg ikke skal gøre dig til en ødemark,
 
 //6 et land
-//7 som ikke er beboet.<<
+//7 som ikke er beboet.
 
 
 ==Israels vedvarende oprør==
@@ -91,139 +91,139 @@ med deres flokke af får og geder,
 
 //0 v9 Sådan siger Hærskarers HERRE:
 
-//2 >>Som af vintræet skal de omhyggeligt indsamle efterhøsten{T: >>Efterhøsten<< er underforstået og tilføjet.} 
+//2 Indsaml omhyggeligt som af vintræet, efterhøsten 
 
 af Israels rest!
 
-//4 Før din hånd igen som vinavleren
+//4 Før som den der samler druer, igen din hånd 
 
-hen over rankerne!<<{T: Eller >>skuddene<<, en hapax legomenon, findes kun her.}
+hen over rankerne!<<
 
 //3 v10 Til hvem kan jeg tale
 
 //6 og give en advarsel
 //5 så de hører?
 
-//4 Se, deres øre er uomskåret,{H: ApG 7,51; 2 Mos 6,12.30; 3 Mos 26,41.}
+//4 Se, deres øre er uomskåret,{H: Jer 5,21. Ez 12,2. ApG 7,51.}
 
 //6 de er ikke i stand til
 //7 at høre opmærksomt.
 
 //5 Se, HERRENS ord 
 
-var til irettesættelse af dem,{H: Jer 4,3-5.}
+er blevet til vanære for dem,
 
-//6 de glædede sig ikke over den.
+//6 de glæder sig ikke over det.
 
 //1 v11 Men jeg er fuld af HERRENS vrede,
 
 //3 jeg er træt af
-//4 at bære på den.{T: Eller: >>udholde den<<.}
+//4 at holde den tilbage.
 
-//2 >>Hæld den over barnet ude på gaden
+//2 >>Udøs den over barnet ude på gaden
 
-og også over gruppen af unge mænd,
+og samtidig over gruppen af de udvalgte unge mænd,
 
-//4 for såvel mand som hustru vil blive fanget,
+//4 for selv mand sammen med hustru vil blive fanget,
 
-//6 den gamle sammen med den ældgamle,
+//6 gamle sammen med ældgamle.
 
-//5 v12 og deres huse vil blive overgivet til andre -
+//5 v12{T: Jer 6,12-15 er næsten ens med Jer 8,10-12.} Deres huse vil blive overgivet til andre,
 
-//6 både marker og kvinder,
+//6 marker og kvinder samtidig,
 
 //3 for jeg vil strække min hånd 
 
 ud over landets indbyggere
 
-//6 – det er HERRENS udsagn.
+//6 - det er HERRENS udsagn.
 
-//5 v13 For fra de mindste til de mægtigste,
+//5 v13 For fra deres mindste til deres største,
 
-alle blandt dem er grådige efter vinding,{T: Eller: >>søger uretmæssig vinding<<.}{H: Jer 8,10; Ez 22,27.} 
+enhver af dem søger uretmæssig vinding,{H: Ez 22,27.} 
 
 //6 fra profet til præst,
 
-alle blandt dem handler bedragerisk.{H: Jer 8,8.10.}  
+enhver af dem praktiserer løgn.
 
 //7 v14 Og de helbreder mit folks brud
 
-som en let sag{T: Ordret: >>synes let/hurtigt<<.} 
-//9 og siger:
+som en let sag 
+//9 idet de siger:
 
 //10 >Fred, fred!< 
 
-//8 - men der er ingen fred.
+//8 men der er ingen fred.
 
-//4 v15 De skulle virkelig have skammet sig,
-//7 for afskyelige ting har de gjort.{T: Jer 6,12-15 er parallel med Jer 8,10-13. Det hebraiske ord for >>afskyelig<< er et meget stærkt udtryk som især bruges i forbindelse med seksuel synd og afgudsdyrkelse.}{H: 3 Mos 18,22-30; Jer 44,2-4; Ez 8,5-18.}
+//4 v15 De vil blive gjort til skamme,{H: Jer 2,26.}
+//7 for en vederstyggelighed{H: Jer 2,7.} har de gjort.
 
-//6 Desuden følte de overhovedet ingen skam,
+//6 Desuden skammer de sig overhovedet ikke.
 
-//8 selv det at vise virkelig skam{T: Eller: >>at rødme<<.} 
+//8 Selv det at vise skam{T: Eller: >>at rødme<<.} 
 //7 kender de ikke til.
 
 //5 Derfor skal de falde blandt dem som falder,
 
-//6 når{T: Ordret: >>til den tid<<.}
-//9 jeg hjemsøger dem,
-//8 skal de snuble,
+//6 til den tid,
+//9 når jeg hjemsøger dem,
+//8 skal de snuble
 
-//7 - siger HERREN.<<
+//7 - siger HERREN.
 
 
 ==Ulykken skyldes ulydighed==
 
 
-//0 v16 Sådan siger HERREN:{T: Eller >>sådan har HERREN sagt/talt<<.}
+//0 v16 Sådan siger HERREN:
 
-//2 >>Stå ved vejene 
+//2 Stå på vejene 
 //7 og se,
 
-//7 spørg efter de ældgamle stier!{H: Jer 7,22-23; 11,1-13.}
+//7 og spørg efter de ældgamle stier,{H: Jer 7,23; 11,4-5.}
 
-//8 Hvor vejen til det gode er,
-//7 gå ad den,
+//8 hvor vejen er til det gode,
+//7 og gå ad den,
 
-//7 og I skal finde{T: Imperativ pluralis.} hvile for jeres sjæle!<<
+//7 så skal I finde hvile for jeres sjæle!
 
 //6 Men de svarede:
-//7 >>Vi vil ikke gå!<<
+//7 >Vi vil ikke gå!<
 
-//5 v17 >>Jeg satte vægtere{H: Ez 3,16-21; 33,7.} over jer:
+//5 v17 Jeg satte vægtere{H: Ez 33,7.} over jer:
 
-//6 >Vær opmærksomme på lyden fra hornet!<<<
+//6 Hør godt efter lyden fra hornet!
 
 //7 Men de svarede:
-//8 >>Vi vil ikke være opmærksomme!<<
+//8 >Vi vil ikke høre godt efter!<
 
-//4 v18 >>Derfor hør,
+//4 v18 Derfor hør,
 //7 I folkeslag,
 
-//6 og forstå
-//8 vidnesbyrdet{E: Teksten er vanskelig. *ʕēdāʰ* kan betyde både >>forsamling<< og >>vidnesbyrd<<. Flere vælger >>forsamling<< og oversætter >>forstå, du forsamling, hvad der sker med dem!<< Det er dog mest nærliggende at oversætte *ʕēdāʰ* med >>vidnesbyrdet<< som >>I folkeslag<< skal forstå, parallelt med >>du jord<< skal se ulykke.}{H: Jer 2,12.} 
-//7 som er imod dem!{T: Dvs. Guds dom.}
+//6 og forstå,
+//8 du menighed,
+//7 det som er imod dem!{T: Dvs. Guds dom.}
 
 //5 v19 Hør,
 //7 du jord,
 
 //6 se, jeg bringer ulykke
-til dette folk,
+over dette folk,
 
 det er frugten af deres planer,
 
-//7 for de lyttede ikke opmærksomt til mine ord,
+//7 for de hørte ikke opmærksomt på mine ord,
 
-//8 og min vejledning,{H: Jer 8,8-9.}
+//8 og min lov,
 //9 den forkastede de.
 
-//3 v20 Hvad skal jeg med røgelse der kommer fra Sheba,{H: Ez 27,22.}
+//3 v20 Hvad skal jeg med røgelse der kommer fra Sheba,
 
 //5 og den gode kalmus fra et fjernt land?
 
-//4 Jeg har ikke behag i jeres brændofre, 
+//4 Jeres brændofre har jeg ikke behag i, 
 
-//5 og jeres slagtofre er mig ikke til behag.<<{H: Es 1,11-14; Amos 5,21; Mika 6,6-8; Jer 7,21-22; 1 Sam 15,22.}
+//5 og jeres slagtofre behager mig ikke.{H: Es 1,11.}
 
 
 ==Det grusomme folk fra nord==
@@ -231,22 +231,24 @@ det er frugten af deres planer,
 
 //1 v21 Derfor, sådan siger HERREN:
 
-//2 >>Se, jeg lægger anstødssten foran dette folk,
+//2 Se, jeg lægger anstødssten for dette folk,
 
 //3 og de vil snuble over dem,
 
 fædre og sønner sammen,
 
 nabo og hans ven
-//4 skal gå til grunde.<<
+//4 vil gå til grunde.
 
-//0 v22 Sådan siger HERREN:{T: Jer 6,22-24 er næsten identisk til Jer 50,41-43.}
+***
 
-//3 >>Se, et folk kommer fra nordens land,
+//0 v22 Sådan siger HERREN:{T: Jer 6,22-24 er næsten identisk med Jer 50,41-43.}
 
-//6 og en stor nation vækkes{T: Verbet kan også betyde >>bryder op<<.} fra jordens fjerneste egne.{H: 25,32; 31,8; 50,41.}
+//3 Se, et folk kommer fra nordens land,
 
-//5 v23 Bue og krumsværd griber de,{H: Jer 50,42; Jer 4,29-31.}
+//6 og en stor nation vækkes{T: Verbet kan også betyde >>bryder op<<.} fra jordens fjerneste egne.{H: Jer 5,15.}
+
+//5 v23 Bue og krumsværd griber de,
 
 //4 grusomme er de 
 //7 og viser ingen barmhjertighed.
@@ -258,59 +260,59 @@ nabo og hans ven
 //5 er stillet op som mænd til krig 
 
 mod dig, 
-//6 Zions datter.<<{T: Der er et ordspil mellem *ṣāfôn* >>norden<< og *ṣiyyôn* >>Zion<<.}
+//6 Zions datter.<<{E: Der er et ordspil mellem *ṣāfôn* >>norden<< og *ṣiyyôn* >>Zion<<.}
 
-//2 v24 Vi{T: Folket taler her, og Jeremias kan være inkluderet, da han også taler i vers 25. Vers 25-26 har dobbeltheden i sig idet det kan være både Jeremias og HERREN der taler.} har hørt rygtet,
+//2 v24 Vi{T: Folket taler her, og Jeremias kan være inkluderet, da han også taler i vers 25. Vers 25-26 har dobbeltheden i sig idet det kan være både Jeremias og HERREN der taler.} har hørt rygtet om det,
 //5 vores hænder er blevet slappe,
 
-//4 angst{T: Ordret: >>nød<<.} har grebet os,
+//4 angst har grebet os,
 //5 veer ligesom hos den fødende.{H: Jer 22,23.} 
 
 //3 v25 Gå ikke ud på marken,
 
-//6 gå ikke på vejen,
+//6 og gå ikke på vejen,
 
-//5 for fjenden har et sværd.
+//5 for fjenden har et sværd!
 
-//6 Rædsel overalt!{T: Eller >>rædsel alle steder fra!<<}{H: Jer 20,3.10; 46,5; 49,29; Sl 31,14.} 
+//6 Rædsel fra alle sider!{H: Jer 20,3.10. Sl 31,14.} 
 
 //5 v26 Mit folks datter,{H: Jer 6,23; 4,11.}
 //4 bind sæk omkring dig,
 
 //7 rul dig i støvet,
 
-//6 sørg som over din eneste søn,
+//6 i sorg over den eneste søn,{T: >>Søn<< er tilføjet.}
 
-den bitterste klage!{H: Am 8,10; Zak 12,10.}
+hold du selv den bitreste klage!
 
-//5 For han kommer pludselig - ødelæggeren er over os!
+//5 For pludselig kommer ødelæggeren over os!
 
 
 == Mit folk kaldes vraget sølv==
 
 
-//1 v27 >>Jeg har sat dig som metalprøver i mit folk, som en fæstning,{H: Jer 1,18.} 
+//1 v27 >>Som metalprøver har jeg sat dig i mit folk, som en fæstning,{T: Eller >>en der prøver guld<<.}{E: Vokaliseringen af *mivṣār* ændres af de fleste til *mᵊvaṣer* (>>en der prøver guld<<). Men da samme hebraiske ord findes i Jer 1,18, oversat med >>fæstning<< er begge oversættelser mulige.} 
 
 //3 for at du kan kende
-//4 og prøve deres færd.{T: ordret: >>veje<<.}{H: Jer 5,1.}
+//4 og prøve deres vej.{H: Jer 5,1.}
 
-//2 v28 De er alle de mest genstridige,{T: Eller >>trodsige<<.}
+//2 v28 De er alle de mest oprørske oprørere
 
 //7 de går omkring som bagtalere,
 
-//6 de er som bronze{T: Hærdet ved en legering af kobber og tin.} og jern,{H: Jer 1,18.}
+//6 de er som bronze og jern,{H: Jer 1,18.}
 
 //5 alle 
-//6 er de ødelæggere.
+//6 gør de det der er til fordærv.
 
-//4 v29 Blæsebælgen blæser,{E: *nāḥar* betyder >>blive svedet<<, de fleste oversætter >>blæser<<.}
+//4 v29 Blæsebælgen blæste,
 
-ud af ilden kommer{T: Ordret: >>bliver færdig<<.} bly.{T: Nogle oversætter: >>blyet er brugt op.<< Oversættelsen er usikker, men meningen er klar. I renselsesprocessen tilsættes bly for at fjerne urenheder fra sølvmalm. Men renselsesprocessen lykkedes ikke, og urenhederne blev ikke skilt fra.} 
+af ilden er blyet fortæret.{T: Eller >>uberørt<<.}{E: De fleste opløser det sammensatte ikke vokaliserede ord til *meʔēš tām* >>fra ild fuldkommen<<. Meningen af >>fuldkommen<< er uklar idet det kan betyde at blyet er uberørt, at blyet er fortæret eller at der ikke var nok bly. Oversættelsen er usikker.}
 
 //5 Forgæves har man smeltet og smeltet, 
 
-//6 men de onde er ikke blevet skilt fra.{H: Es 1,25; Ez 22,18-22; Zak 13,9; Mal 3,3.}
+//6 og de onde er ikke blevet skilt fra.{H: Ez 22,18-22;}
 
-//3 v30 Vraget sølv, kalder man{T: Pluralis.} dem, 
+//3 v30 Forkastet{T: Eller >>vraget<<.} sølv, kalder man dem, 
 
 //4 for HERREN har forkastet dem.<<

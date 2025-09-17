@@ -1,7 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' bog, kapitel 5===
 
@@ -9,274 +9,278 @@
 ==Dialog mellem HERREN og Jeremias==
 
 
-//0 v1 >>Gå op og ned gennem Jerusalems gader,{T: Ordret: >>udenfor<<.}
+//0 v1 >>Gå omkring i Jerusalems gader,
 
-//4 og se
-//4 og bemærk,
+//4 og se dog efter
+//4 og find frem til,
 
-//4 søg{E: Imperativerne i verset er pluralis, så talen er rettet bredt til flere.} på hendes åbne pladser
+//4 søg på hendes åbne pladser,
 
-//5 om der findes nogen,
+//5 om I kan finde nogen,
 
 //7 om der er en
-//8 der handler ret 
+//8 der handler ret, 
 
-//8 og søger troskab{T: Eller >>sandhed<<.}
+//8 der søger efter sandhed,{T: Eller >>troskab<< (mod pagten).}
 
-//6 – og jeg vil tilgive hende!{H: 1 Mos 18,23-33.}
+//6 så vil jeg tilgive hende!
 
-//3 v2 Skønt de siger: >Så sandt HERREN lever!<
-//6
+//3 v2 Selvom de siger: 
+//6 >Så sandt HERREN lever!<
 //5
 
-//4 sandelig,{E: *lāxēn* >>derfor<< ændres af mange til *āxēn* >>sandelig<<.} så sværger de falsk!<<{T: De bruger eden med HERRENS navn, men i virkeligheden sværger de til løgn, til Ba'al.} 
+//4 så sværger de til løgn!<<{T: Til Ba'al.} 
 
-//2 v3 >>HERRE,
+//2 v3 HERRE,
 //5 dine øjne,
 
-//6 ser de ikke efter troskab?{T: Eller >>sandhed<<.}
+//6 ser de ikke efter sandhed?
 
 //4 Du slog dem,
-//6 men de blev ikke nedbrudte,{T: Ordret: >>de vred sig ikke i smerte/anger<<, >>skælvede<<.}
+//6 men de skælvede ikke,
 
-//5 du slog dem til det yderste,{T: Ordret: >>bringe til ende<<, >>afslutte<<.}
+//5 du udryddede dem,
 //6 de nægtede
 //8 at tage imod tugt.{H: Jer 2,30; 7,28.}
 
-//7 De gjorde deres ansigter hårdere end klippe,
+//7 De gjorde deres ansigter hårdere end klippen,{H: Jer 3,3.}
 
 //6 de nægtede 
 //7 at vende om.
 
 //3 v4 Men jeg, jeg sagde: 
-//5 De er blot fattige folk 
+//5 Kun ringe er de,
 
-//7 de handler som tåber,
+//7 de handler tåbeligt,{H: Jer 50,36.}
 
 //8 for de kender ikke 
 HERRENS vej,
 
-//9 deres Guds bestemmelser.{T: Kan oversættes >>bud<< eller >>dom<<.}{H: Jer 8,7; Es 58,2; Sl 119,43.160.}
+//9 deres Guds ret.{T: Eller >>bestemmelser<<, kan også oversættes >>bud<< eller >>dom<<.}{H: Jer 8,7; Es 58,2; Sl 119,43.160.}
 
-//6 v5 Jeg vil gå 
-til lederne
+//6 v5 Jeg vil selv gå 
+til de store
 
-//8 og tale med dem,
+//8 og jeg vil tale med dem,
 
 //7 for de, 
 de kender HERRENS vej,
 
-//8 deres Guds bestemmelser.<<
+//8 deres Guds ret.
 
-//4 >>Men de{T: Det er uklart om det er Jeremias eller HERREN der taler her. Men det kan opfattes som HERRENS svar til Jeremias i vers 3. Denne glidende overgang mellem Jeremias og HERRENS tale optræder mange gange i Jeremias’ bog.} 
-havde alle brudt åget
+//4 Men de{T: Det er uklart om det er Jeremias eller HERREN der taler her. Men det kan opfattes som HERRENS svar til Jeremias i vers 3. Denne glidende overgang mellem Jeremias og HERRENS tale optræder mange gange i Jeremias’ bog.} havde alle sammen brudt åget
 
-//7 og sluppet tøjlerne.{T: Ordret: >>revet båndene over<<.}
+//7 og sønderrevet lænkerne.
 
-//6 v6 Derfor skal en løve fra skoven slå dem,{H: Jer 2,15; 4,7; Hos 13,7-8; Hab 1,8; Zef 3,3.}
+//6 v6 Derfor vil en løve fra skoven slå dem,{H: Jer 4,7.}
 
 //7 en ulv fra stepperne ødelægge dem,
 
-//8 en leopard skal vogte over deres byer -
+//8 en leopard vil lure på deres byer
 
-//9 alle
+//9 enhver
 //11 der går ud af dem,
-//10 skal blive revet i stykker,
+//10 vil blive revet i stykker,
 
-//5 for deres synder er mange,
+//5 for deres overtrædelser er talrige,
 
-//6 og deres frafald er talrige.
+//6 og deres frafald utallige.
 
-//1 v7 Hvorfor skal jeg tilgive dig dette?
+***
 
-//3 Dine sønner har forladt mig,
+//1 v7 >>Hvorfor skulle jeg tilgive dig dette?
 
-//5 og de sværger ved dem der ikke er guder!{H: Ez 8,7-12.}
+//3 Dine sønner forlod mig,
 
-//6 Selvom jeg mættede dem,{E: *ŚVʕ* (hifil) betyder >>sørge for/mætte<<, men flere opfatter verbet som en hifil af *ŠVʕ*, dvs. ændrer vokaliseringen fra *sin* i >>mætte<< til *shin* som i det hebraiske ord for >>sværge<<, der findes i forudgående verslinje, og oversætter >>selvom jeg lod dem sværge<<. Det er nærliggende at opfatte de to forskellige verber som et af Jeremias’ mange ordspil.}{H: 2 Kong 23,1-3.}
+//5 og de svor ved dem der ikke er guder!{H: Ez 8,10-11.}
+
+//6 Selvom jeg mættede dem,{E: *śvʕ* (hifil) betyder >>sørge for/mætte<<, men flere opfatter verbet som en hifil af *švʕ* og ændrer bogstavet *sin* i >>mætte<< til *shin* som i det hebraiske ord for >>sværge<<, der findes i forudgående verslinje, og oversætter >>selvom jeg lod dem sværge<< med henvisning til 2 Kong 23,1-3. Det er nærliggende at opfatte de to forskellige verber som et af Jeremias’ mange ordspil.}
 
 //7 begik de ægteskabsbrud
 
-//8 og snittede sig{T: Hedensk praksis i forbindelse med afgudsdyrkelse.}{H: Jer 16,6; 41,5.} i skøgens hus.
+//8 og i skøgens hus snittede de sig.
 
-//4 v8 Som velnærede,{E: Eller >>varmblodige<<. *mᵊyuzzānîm* er en hapax legomenon, findes kun her, og oversættelsen er usikker.} lystne{T: Oversættelsen er usikker.} hingste er de;
+//4 v8 Som velnærede,{T: Eller >>varmblodige<<. Dette og det følgende ord findes kun her, og oversættelsen er usikker.} gejle hingste er de;
 
 //6 hver mand vrinsker efter sin vens hustru. 
 //5
 
-//2 v9 Skal jeg ikke hjemsøge{T: Eller >>straffe<<.} for disse ting?
+//2 v9 Skulle jeg ikke hjemsøge for alt dette?
 
-//4 - Det er HERRENS udsagn.
+//4 Det er HERRENS udsagn.
 
 //3 Over et folk
 //5 som dette
 
-//4 skal min sjæl ikke tage hævn?{H: Jer 5,29.}
+//4 skulle min sjæl ikke tage hævn?{H: Jer 5,29.}
 
 
 ==HERRENS straf forkyndes==
 
 
-//0 v10 Gå op{T: Pluralis.} gennem hendes rækker af vin{E: *šārāʰ* er en hapax legomenon, findes kun her, >>vingårds terrasse<<, >>række af vin<<, >>mur<< er foreslået.}
-//2 og ødelæg dem,{H: Jer 12,10; Nah 2,3; Hos 2,14.}
+//0 v10 Gå op gennem hendes rækker af vin{E: *šārāʰ* findes kun her, >>vingårds terrasse<<, >>række af vin<<. LXX oversætter >>gå op på hendes fæstninger og bryd dem ned<<.}
+//2 og ødelæg dem,{H: Hos 2,14.}
 
-//3 men I skal ikke gøre en fuldstændig ende på dem.
+//3 men gør ikke en fuldstændig ende på dem!{H: Jer 4,27.}
 
-//1 Fjern hendes ranker,{T: Eller >>skud<<.}{H: Jer 2,21; Es 5,1-7.}
+//1 Fjern hendes ranker,{H: Jer 2,21. Es 5,3-6.}
 
 //3 for de tilhører ikke HERREN;
  
-//4 v11 for de har handlet fuldstændig troløst mod mig,{H: Jer 3,2; 12,6; Hos 5,7; 6,7; Mal 2,10.14-16.}
+//4 v11 for de har handlet fuldstændig troløst mod mig,{H: Jer 3,2. Es 5,7.}
 
 Israels hus og Judas hus
 
-//7 – det er HERRENS udsagn.
+//7 - det er HERRENS udsagn.
 
-//6 v12 De lyver{T: Eller >>de har løjet<<. Nogle oversætter >>fornægter<<.}{H: Jer 14,23.15; 23,17; 43,2.} om HERREN 
+//6 v12 De fornægtede HERREN 
 
-//8 og siger:
-//9 >Ikke ham!{E: *lōˀ-hûˀ* >>ikke ham<< eller >>ikke det<< er en hapax legomenon og findes kun her. Det kan opfattes som en benægtelse af Guds eksistens, men det er mere nærliggende at Gud ikke handler sådan, og derfor oversættes det: >>Ham er det ikke!<< eller: >>han gør det ikke<<. LXX oversætter >>det er ikke sådan<<.}
+//8 og sagde:
+//9 >Ham er det ikke!{E: *lōˀ-hûˀ* >>ikke ham<< eller >>ikke det<< findes kun her. Det kan opfattes som en benægtelse af Guds eksistens, men det er mere nærliggende at Gud ikke handler sådan, og derfor oversættes det: >>Ham er det ikke!<< eller: >>han gør det ikke<<. LXX oversætter >>det er ikke sådan<<.}
 
 //11 Ulykke vil ikke komme over os,
 
 //12 og heller ikke sværd og hungersnød vil vi se.<
 
-//10 v13 Profeterne er som vinden,{T: Ordret: >>til vinden<<. Dvs. deres budskab er tomme ord.}{H: Jer 14,13-15.}
+//10 v13 Profeterne skal blive til vind,
 
 //11 og 
-//13 HERRENS ord{E: *haddibbēr* opfattes som et substantiv selvom formen er en perfektum, med betydningen >>det som han talte (fra HERREN)<<. LXX har >>HERRENS ord<<.}
+//13 Ordet{E: *haddibbēr* opfattes som et substantiv selvom formen er en perfektum, med betydningen >>det som han talte<< (fra HERREN). LXX har >>HERRENS ord<<.}
 //12 er ikke i dem!
 
-//7 Sådan skal det gå dem selv!{T: Ordret: >>blive gjort mod dem<<.}{E: Denne linje mangler i Septuaginta. Nogle mener linjen passer bedst ind efter vers 14 første linje og flytter den derhen.}
+//7 Sådan skal det gå dem selv!{E: Denne linje mangler i LXX. Nogle mener linjen passer bedst ind efter vers 14 første linje og flytter den derhen.}
 
 
 ==Dommen kommer==
 
 
-//5 v14 Derfor,
-//6 sådan siger{T: Eller >>har sagt<<.} HERREN, Hærskarers{N: Hærskarers} Gud:{H: 1 Sam 17,45; Es 3,1; 5,16; 6,3; Es 44,6-20.}
+//5 v14 Derfor
+//6 har HERREN, Hærskarers{N: Hærskarers} Gud sagt sådan, 
 
-//7 Fordi I{T: Kan være sagt til profeterne, nogle oversætter >>de<<.} taler sådanne ord,{T: Ordret: >>dette ord<<.}
+//7 fordi I taler dette ord:
 
-//8 se, jeg gør{T: Ordret: >>give<<.} mine ord i din mund til ild{H: Jer 1,9-10.}
+//8 Se, jeg gør mine ord i din mund til ild,
 
-//10 og dette folk til træ,
-//9 og det skal fortære dem.
+//10 og dette folk til træer,
+//9 og den skal fortære dem.
 
-//8 v15 Se, 
-et folk fra det fjerne,
-//12 bringer jeg mod jer, Israels hus
+//8 v15 Se, et folk fra det fjerne
 
-//11 – det er HERRENS udsagn.
+bringer jeg mod jer, 
+//12 Israels hus
 
-//10 Det er et udholdende folk,
+//11 - det er HERRENS udsagn.
+
+//10 Et folk der er udholdende,
 
 //11 et folk fra ældgammel tid,
 
 //12 et folk
 //14 hvis sprog du ikke kender,
 
-//15 og du forstår ikke 
-//16 hvad de siger.
+//15 og hvis tale du ikke forstår. 
+//16 
 
-//13 v16 Deres{E: Singularis, kollektivt.} pilekogger er som en åben grav,
+//13 v16 Dets pilekogger er som en åben grav,
 
-//14 de er alle krigere,{T: Eller >>tapre mand<<.}
+//14 de er alle krigere!
 
-//9 v17 de skal fortære din høst og dit brød,
+//9 v17 De vil fortære din høst og dit brød,
 
-//10 de skal fortære dine sønner og dine døtre,
+//10 de vil fortære dine sønner og dine døtre,
 
-//11 de skal fortære dine får og geder og dit kvæg,
+//11 de vil fortære dine får og geder og dit kvæg,
 
-//11 de skal fortære dine vintræer{E: Singularis, kollektivt.} og dine figentræer,{E: Singularis, kollektivt.}
+//11 de vil fortære dit vintræ og dit figentræ,
 
-//11 de skal nedbryde dine befæstede byer{T: Ordret: >>dine byers fæstninger<<.}
+//11 de vil smadre dine befæstede byer, 
 
-//13 – dem som du stolede på –
-//12 med sværdet.
+//13 dem som du satte din lid tid, 
+//12 med sværd.
 
 
 ==Ingen frygter HERREN==
 
 
 //2 v18 Men også i de dage
-//5 – det er HERRENS udsagn -
-//4 vil jeg ikke gøre helt ende på jer.{T: Eller >>tilintetgøre jer helt<<.}{H: Jer 4,27; 5,10.}
-//3 v19 Det vil ske
-//4 når I siger:
-//6 >Hvorfor har HERREN vores Gud gjort alt dette mod os?<
-//5 skal du sige til dem:
-//6 >Ligesom I forlod{H: Jer 2,17.} mig
-//8 og tjente fremmede guder{H: 1 Mos 35,2.4; Jos 24,20.23.} i jeres eget land,
-//7 sådan skal I tjene fremmede{T: Dvs. >>fremmede<< og >>fremmede (guder)<<. Den dobbelte betydning kan udtrykke ironi.}{H: Jer 2,25; 5 Mos 32,16; Jer 30,8; 51,2.51.} i et land
+//5 - det er HERRENS udsagn -
+//4 vil jeg ikke gøre en fuldstændig ende på jer. 
+//3 v19
+//4 Når I da siger:
+//6 >Hvorfor har HERREN vores Gud gjort alt dette mod os?<{H: Jer 13,22; 9,11-13.}
+//5 så skal du{T: Jeremias.} sige til dem:
+//6 >Ligesom I forlod mig
+//8 og tjente fremmede guder i jeres eget land,
+//7 sådan skal I tjene fremmede i et land
 //8 der ikke er jeres.<
 
 
 ==HERREN advarer det genstridige folk==
 
 
-//0 v20 Fortæl dette til Jakobs hus
+//0 v20 Fortæl dette i Jakobs hus
 
 //2 og kundgør det i Juda 
 //3 og sig:
 
-//4 v21 >Hør dette,
+//4 v21 Hør dette,
 
-//8 I tåbelige folk uden forstand;
+//8 I tåbelige folk uden forstand;{H: Jer 4,22.}
 
 //9 de har øjne,
 //10 men ser ikke,
 
 //9 de har ører,
-//10 men hører ikke.{H: Es 6,9-10; Matt 13,13-15; Johs 12,39-40; ApG 28,25-27.} 
+//10 men hører ikke. 
 
-//7 v22 Frygter I ikke mig
+//7 v22 Skulle I ikke frygte mig
 
-//9 – det er HERRENS udsagn -
+//9 - det er HERRENS udsagn -
 
-//8 eller skælver{H: Jer 5,3.} I ikke for mit ansigt?
+//8 og skælve{H: Jer 5,3.} for mit ansigt,
 
-//9 Det er mig som har sat sandet som grænse for havet,
+//9 jeg som satte sandet som grænse for havet,
 
 //10 en evig bestemmelse
-//12 som det ikke kan overskride.
+//12 som det ikke kan overskride?
 
-//11 De{T: >>Vandene/bølgerne<<.} raser frem og tilbage, 
-//13 men de kan ingenting, 
+//11 De{T: >>Vandene/bølgerne<<.} kan rase frem og tilbage, 
+//13 men formår ingenting, 
 
-//12 dets bølger larmer,
-//13 men de kan ikke overskride den.<{T: >>Bestemmelsen, grænsen<<.}{H: 1 Mos 1,6-10; Job 38,8-11; Sl 104,5-9.}
+//12 dets bølger kan larme,
+//13 men de kan ikke overskride den.{H: 1 Mos 1,6-10. Job 38,8-11.}
 
-//6 v23 Dette folk har 
+***
 
-et genstridigt og trodsigt hjerte,{H: Sl 78,8.}
+//6 v23 Men dette folk har 
+
+et trodsigt og genstridigt hjerte,{H: Sl 78,8. Jer 6,28.}
 
 //7 de har vendt sig bort
-//9 og er gået væk.{H: Es 1,3; 2 Mos 19,4-8; 24,3-7; Jos 24,14-18.}
+//9 og er gået væk.{H: Es 1,4.}
 
 //8 v24 Og de har ikke sagt i deres hjerter:
 
-//9 >Vi vil frygte HERREN vores Gud,{H: 3 Mos 23,10; 23,17.}
+//9 Lad os dog frygte HERREN vores Gud,
 
-//10 som giver os regn,
+//10 han som giver regn,
 
-efterårsregn og forårsregn i rette tid,{T: Ordret: >>til sin tid<<.}
+efterårsregn og forårsregn i rette tid;
 
-//11 uger bestemt til høst
+//11 bestemte uger til høst
 
-sørger han for til os!<
+sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 
-//5 v25 Jeres overtrædelser har frataget{T: Ordret: >>bøje af<<.} jer disse,
+//5 v25 Jeres ugerninger har frataget jer disse 
 
-//7 og jeres synder har holdt det gode{T: >>regnen<<.} borte fra jer!{H: Amos 4,6-9.}
+//7 og jeres synder har holdt det gode væk fra jer!{H: Amos 4,7.}
 
-//6 v26 For der findes ugudelige i mit folk, 
+//6 v26 For i mit folk er der fundet ugudelige, 
 
-//8 de ligger på lur{T: Ordret: >>ser nøje på<<.}
-//11 ligesom fuglefængerne der kryber sammen,
+//8 som ligger på lur
+//11 ligesom fuglefængere dukker sig;
 
-//10 de har sat dødelige fælder op,{T: Ordret: >>ødelæggelse/ødelægger<<.}
+//10 de sætter fælder op,
 
 //11 det er mennesker de fanger.
 
@@ -288,39 +292,40 @@ sørger han for til os!<
 //7 derfor er de blevet mægtige 
 //9 og har vundet rigdom.
 
-//8 v28 De er blevet fede,
-//8 de er blevet runde,{T: Eller >>glinser<<, oversættelsen er usikker.}
+//8 v28 De er fede,
+//8 de er glatte,{T: Eller >>glinser<<, findes kun her, så oversættelsen er usikker.}
 
-//9 der er heller ingen grænser for deres onde handlinger,
+//9 de overskrider også grænsen for onde ord.{T: Eller >>handlinger<<. Alternativ oversættelse: >>de strømmer over med det der er ondt<<. Der er et fint ordspil med verbet *ʕāvᵊrû* (*ʕvr*) >>overskride<< her og samme verbum der forekommer to gange i vers 22.}
+ 
+//10 De fælder ikke redelig dom i en sag, 
 
-//10 de forsvarer ikke en sag,{T: Eller >>de dømmer ikke ret i en sag<<.}
+//13 den faderløses sag,
+//12 så de vinder den,
 
-//13 den faderløses sag
-//12 forsvarer de ikke,{T: Eller >>fremmer<<. >>Ikke<< er underforstået fra foregående verslinje.}{H: Jer 22,16; 30,13.}
+//11 og de skaffer ikke de fattige ret.
 
-//11 og de har heller ikke skaffet de fattige deres ret.{T: Eller >>de har ikke forsvaret de fattiges ret<<.}
+//1 v29 Skulle jeg ikke hjemsøge dem?{H: Jer 11,22.}
 
-//1 v29 Skal jeg ikke hjemsøge{T: Eller: >>straffe<<.} dem?{H: Jer 9,24; 11,22; 13,21; 49,8; 50,31; Es 10,12.}
-
-//4 – Det er HERRENS udsagn.
+//4  Det er HERRENS udsagn.
 
 //3 På et folk 
 //5 som dette
 
-//4 skal min sjæl ikke tage hævn?<<{H: Jer 5,9; 9,8.}
+//4 skulle min sjæl{N: Sjæl.} ikke tage hævn?<<
 
 
 ==Jeremias sukker over sit folk==
 
 
-//2 v30 Forfærdelige og rædselsfulde ting{H: Jer 23,14.}
+//2 v30 Noget rædselsfuldt og afskyeligt{H: Jer 23,14. Hos 6,10.}
 
-er sket i landet.
+forekommer i landet:
 
-//4 v31 Profeterne profeterer løgn,
+//4 v31 Profeterne profeterer løgn,{H: Ez 22,28.}
 
-//5 præsterne styrer{E: *yirdû* >>regere<< kan også betyde >>skrabe til sig<<.} på egen hånd,{T: Eller: >>på eget initiativ/efter egne råd<<. Ordret: >>til/i retning af deres hænder<<.}{H: Jer 33,18; 1 Krøn 25,2; 2 Krøn 26,13; 2 Krøn 23,18.}
+//5 præsterne styrer på egen hånd, 
 
 //3 og mit folk elsker det sådan,
 
-//4 men hvad vil I gøre når enden på det kommer?{T: Vers 30-31 kan opfattes som en del af HERRENS tale til folket.}{H: Jer 5,9.}
+//4 men hvad vil I gøre når enden på det kommer?{T: Vers 30-31 kan opfattes som en del af HERRENS tale til folket.}{H: Es 10,3.}
+

@@ -1,31 +1,31 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Dato for denne version: 17.09.2025>!!
 
-===Jeremias' bog, kapitel 8===
+===Jeremias' bog, Kapitel 8===
 
 
 ==HERRENS dom==
 
 
 //0 v1 >>Til den tid
-//4 – det er HERRENS udsagn -
-//3 skal de tage knoglerne af Judas konger, knoglerne af dets{T: Juda.} ledere, knoglerne af præsterne, knoglerne af profeterne og knoglerne af Jerusalems indbyggere ud af deres grave.
-//2 v2 De skal sprede dem ud foran solen, månen og hele himlens hærskare
+//4 - det er HERRENS udsagn -
+//3 skal de tage knoglerne af Judas konger, knoglerne af dets ledere, knoglerne af præsterne, knoglerne af profeterne og knoglerne af Jerusalems indbyggere ud af deres grave.
+//2 v2 De skal sprede dem ud for solen, månen og hele himlens hærskare
 //4 som de har elsket,
-//5 som de har tjent,
-//6 som de har gået efter,
-//7 som de har søgt,
-//8 og som de har bøjet sig ned for og tilbedt.{T: Ordret: >>lægge sig ned for<<. Kan oversættes >>som de har kastet sig ned for<<.}{H: 2 Kong 21,3; 23,4; Ez 8,16.}
+//5 og som de har tjent,
+//6 og som de har fulgt,
+//7og som de har søgt,
+//8 og som de har kastet sig ned for at tilbede.
 //3 De skal ikke samles sammen,
 //6 de skal ikke begraves,
-//5 de skal blive til gødning{T: Ordret: >>møg<<.}{H: Jer 9,21; 16,4; 25,33; Sl 83,11, 1 Kong 21,20-26.} på jordens overflade.
+//5 til gødning{H: Jer 16,3-4.} på jordens overflade skal de blive.
 //4 v3 Døden vælges frem for livet af hele resten, 
-//7 resten af denne onde slægt{H: 2 Kong 25,5-7; Sl 137.} 
-//6 som er tilbage alle de steder
-//7 som jeg har fordrevet dem til{H: Jer 24,9; 29,18; Dan 9,7; Ez 4,13.}
-//5 – det er Hærskarers{N: Hærskarers.} HERRES udsagn.
+//7 de som er tilbage af denne onde slægt, 
+//6 de som er tilbage alle de steder
+//7 som jeg har fordrevet dem til.
+//5 Det er Hærskarers{N: Hærskarers.} HERRES udsagn.
 
 
 ==Et genstridigt folk==
@@ -34,17 +34,17 @@
 //1 v4 Og du skal sige til dem: 
 //2 >Sådan siger HERREN:
 
-//3 Hvis nogen falder, 
-//8 rejser de sig da ikke igen? 
+//3 Hvis de falder, 
+//8 rejser de sig så ikke igen? 
 
-//7 Hvis nogen går væk,{T: Eller: >>falder fra<<, >>går vildveje<<. Ordret: >>vende om<<.}
-//8 kommer de da ikke tilbage?<<<{T: Eller: >>vender om<<. Samme verbum er anvendt med modsatrettet betydning og optræder derved som et ordspil. Denne samtaleform med retoriske spørgsmål er ofte anvendt i Jeremias' bog.}{H: Jer 2,10-11; 2,32, 3,1-5; 13,23; 18,14-15.}
+//7 Hvis en vender sig bort,
+//8 vender han så ikke om?<<<{T: Eller: >>vender tilbage<<. Samme verbum er anvendt med modsatrettet betydning og optræder derved som et ordspil. Denne samtaleform med retoriske spørgsmål er ofte anvendt i Jeremias' bog.}
 
-//6 v5 Hvorfor er dette folk gået væk?{T: Det kan også være HERREN der taler her. I så fald er >>fra mig<< underforstået. HERREN skifter ofte i sine taler mellem direkte tale til folket og hans tanker om folket til Jeremias. Undertiden kan det være svært at skelne og vide hvad der er HERRENS tanker, og hvad der er Jeremias' tanker, det synes vævet sammen og understreger Jeremias som HERRENS talerør til folket.}
+//6 v5 Hvorfor er dette folk frafaldent,{T: Det kan også være HERREN der taler her. I så fald er >>fra mig<< underforstået. HERREN skifter ofte i sine taler mellem direkte tale til folket og hans tanker om folket til Jeremias. Undertiden kan det være svært at skelne og vide hvad der er HERRENS tanker, og hvad der er Jeremias' tanker, det synes vævet sammen og understreger Jeremias som HERRENS talerør til folket, jf. Jer 5,5.}
 
-//7 Hvorfor{T: >>hvorfor<< er underforstået.} er Jerusalem hele tiden frafalden?
+//7 Jerusalem, et evigt frafald?
 
-//8 De holder fast på bedrageri, 
+//8 De holder fast ved bedraget, 
 
 //8 og de nægter 
 //9 at vende om.
@@ -57,97 +57,100 @@
 //8 Intet menneske angrer sin ondskab
 
 //9 og siger:
-//10 >>Hvad har jeg gjort?<<
+//10 >>Hvad har jeg gjort!<<
 
-//7 Alle vender de tilbage i deres livsløb 
+//7 Alle vender de sig bort i deres livsløb 
 
 som en hest
-//9 der styrter afsted i krig.
+//9 der styrter afsted i krigen.
 
 //8 v7 Selv storken på himlen
 
-kender sine fastsatte tider, 
+kender sine bestemte tider, 
 
-//10 turtelduen, svalen{T: Eller >>mursejler<<.} og tranen{T: Hvilken fugl er usikkert.}
+//10 og turtelduen,{T: Eller >>duen<<.} svalen{T: Eller >>(mur)sejleren<<, der ligner en stor svale.} og tranen,{E: *ʕāgûr* findes kun her og i Es 38,14. Oversættelsen er usikker. De fleste oversætter >>tranen<<, andre >>drosselen<<.} 
 
-giver agt på tiden
+de giver agt på tiden
 //11 når de skal komme,
 
 //9 men mit folk kender ikke
 
-HERRENS bestemmelser.{H: Jer 5,4-5; Es 58,2; Sl 119,43.160.}
- 
+HERRENS ret.{H: Jer 5,4.}
+
+***
+
 //4 v8 Hvordan kan I sige:
 //6 >>Vi er vise,
 
-//7 og HERRENS lov er hos os?<<{T: Eller: >>vi har HERRENS lov<<.}{H: 2 Kong 22,8-13; 1 Krøn 2,55; 2 Krøn 34,13.} 
+//7 og HERRENS lov er hos os!<< 
 
 //5 Sandelig, se, til løgn
 
-har skrivernes løgnagtige pen gjort den.
+har skrivernes løgnepen gjort den!
 
-//6 v9 De vise vil blive gjort virkelig til skamme,{E: Verbet her og i det følgende opfattes som en profetisk perfektum.} 
+//6 v9 De vise vil blive gjort til skamme,{E: Verberne her i vers 9 står i perfektum og kan oversættes >>De vise blev gjort til skamme<<, men de fleste vælger præsens eller futurum idet det opfattes som en sikker og uafvendelig konsekvens der vil indtræffe.}
 
-//7 de vil blive grebet af rædsel 
+//7 de vil blive grebet af rædsel{E:*htt* (>>grebet af rædsel<<) og *bôš* (>>blive til skamme<<) står ofte sammen i Jeremias’ bog.}{H: Jer 17,18; 48,20; 50,2.} 
+ 
 //9 og fanget.
 
-//8 Se, de har forkastet HERRENS ord,
+//8 Se, HERRENS ord har de forkastet,
 
-//10 så hvad er det for en visdom de har?
+//10 så hvad for en visdom er det de har?
 
 
 ==HERREN straffer sit folk==
 
 
-//9 v10 >>Derfor giver jeg deres hustruer til andre,
+//9 v10{T: Jer 8,10-12 er næsten identisk med Jer 6,12-15.} >>Derfor giver jeg deres hustruer til andre,
 
-//11 deres marker til nye ejere,{T: >>nye<< er tilføjet.}
+//11 deres marker til andre ejere,{T: >>Andre<< er tilføjet fra forudgående verslinje.}
 
-//10 for fra de mindste til de mægtigste,
+//10 for fra de mindste til de største,
 
-alle blandt dem er grådige efter vinding,{T: Eller: >>søger uretmæssig vinding<<.}{H: Jer 6,13; Ez 22,27.} 
+enhver af dem søger uretmæssig vinding, 
 
 //12 fra profet til præst,
 
-alle sammen handler de bedragerisk,
+enhver af dem praktiserer løgn,
 
 //13 v11 og de helbreder mit folks brud som en let sag
 
-//15 og siger:
+//15 idet de siger:
 //16 >Fred, fred!<
 
 //14 men der er ingen fred.
 
-//11 v12 De skulle virkelig have skammet sig{T: Eller >>de skal virkelig blive til skamme<<.}
+//11 v12 De skulle virkelig have skammet sig{T: Eller >>de skal blive gjort til skamme<<.}
 
-//13 for afskyelige ting har de gjort.{H: Jer 6,15.}
+//13 for en vederstyggelighed{H: Jer 2,7.} har de gjort.
 
-//12 Desuden følte de overhovedet ingen skam,
+//12 Desuden føler de overhovedet ingen skam,
 
 //14 og 
-//16 det at blive til skamme{E: Verbalformen er her en nifal i modsætning til i Jer 6,15, hvor verbalformen er en hifil. Ellers er Jer 6,13-15 identisk med Jer 8,10-12.}
+//16 det at blive til skamme
 //15 kender de ikke til.
 
 //13 Derfor skal de falde blandt dem som falder,
 
-//15 når jeg hjemsøger dem, skal de snuble,
+//15 til tiden for deres hjemsøgelse skal de snuble
 
-//16 siger HERREN.
+//16 - siger HERREN.
 
 ***
 
-//14 v13 Jeg vil samle dem ind og gøre ende på dem{E: Her et ordspil på forskellige, men næsten enslydende verber: *ʔāsōf* (Qal infinitiv absolut af *asf*) >>samle<< og *ʔᵃsîfēm* (Hiphil imperfektum af *suf*) >>gøre ende på<<. Mange oversætter >>jeg vil samle deres høst<< idet man opfatter *ʔᵃsîfēm* som et substantiv >>høst<<. Andre sammenligner med Sef 1,2 og ændrer vokaliseringen så de to verber oversættes som et emfatisk verbum enten >>sandelig samle<< eller >>fuldstændig gøre ende på<<.}{H: Jer 5,10; 6,9.}
+//14 v13 Jeg vil samle dem ind og gøre ende på dem{E: Her et ordspil på forskellige, men næsten enslydende verber: *ʔāsōf* (Qal infinitiv absolut af *asf*) >>samle<< og *ʔᵃsîfēm* (Hiphil imperfektum af *suf*) >>gøre ende på<<. Mange oversætter >>jeg vil samle deres høst<< idet man opfatter *ʔᵃsîfēm* som et substantiv >>høst<<. Andre sammenligner med Sef 1,2 og ændrer vokaliseringen så de to verber oversættes som ét emfatisk verbum enten >>sandelig samle<< eller >>fuldstændig gøre ende på<<.}{H: Jer 6,9.}
 
-//17 – det er HERRENS udsagn.
+//17 - det er HERRENS udsagn.
 
 //16 Der er ingen druer på vintræet
 
 //18 og ingen figner på figentræet,
 
-//17 bladene{T: Singularis, kollektivt.} er visnet,
+//17 bladene er visnet,
 
 //15 og hvad jeg gav dem,
-//16 skal de miste<<{T: Ordret: >>gå væk fra dem<<. Teksten er uklar. LXX m.fl. oversætter den ikke, og der er mange forslag.}{H: Mika 7,1; Matt 21,19.}
+//16 vil forsvinde fra dem.<<{T: Eller >>og jeg gav dem til dem der drog hen over dem<<. Teksten er uklar. LXX m.fl. oversætter den ikke.}{H: Mika 7,1-2.}
 
 
 ==Folkets svar==
@@ -159,30 +162,30 @@ alle sammen handler de bedragerisk,
 
 //3 Lad os tage hen til de befæstede byer
 
-//3 og omkomme der,{T: Ordret: >>være stille<<.}{H: Jer 48,2.}
+//3 og lad os omkomme der,
 
 //4 for HERREN vores Gud har forårsaget at vi omkommer.{T: Ordret: >>har gjort os stille<<.}
 
-//6 Han har givet os forgiftet{E:* rōˀš* >>gift<<, en bitter og giftig urt.} vand{H: Jer 9,14; 23,15.} at drikke,
+//6 Han har givet os forgiftet{E:* rōˀš* (>>gift<<), en bitter og giftig urt.} vand{H: Jer 9,14; 23,15.} at drikke,
 
 //5 for vi har syndet imod HERREN.
 
 //1 v15 Vi håbede på fred,
 
-//5 men intet godt kom;
+//5 men intet godt kom,
 
 //4 på en tid med helbredelse, 
 
 //5 men se: Rædsel!<<{H: Jer 14,19.}
 
-//3 v16 Fra Dan{H: Jer 4,15; 1 Kong 4,25; 1 Kong 12,29; 2 Kong 10,29; Amos 8,14.} høres hans heste pruste,{T: Det er uklart om det er Jeremias eller folket der taler her.}
+//3 v16 Fra Dan høres hans hestes prusten,{T: Det er uklart om det er Jeremias eller folket der taler her.}
 
 //5 ved lyden af vrinsken fra hans stærke hingste{T: >>hingste<< er tilføjet.} 
 
-skælver hele landet.
+ryster hele landet.
 
 //4 De kommer,
-//4 og de fortærer landet og alt hvad det er fuldt af,
+//4 og de fortærer landet og dets overflod,
 
 byen 
 //5 og de som bor i den.
@@ -196,27 +199,27 @@ byen
 slanger, giftslanger{H: 4 Mos 21,6-9.}
 
 //5 som der ikke findes nogen besværgelse{T: Ordret: >>hvisken<<.} imod,
-//4 og de skal bide jer{H: Jer 35,11; 2 Kong 24,2; Sl 58,5-6.}
+//4 og de vil bide jer{H: 2 Kong 24,2-3.}
 
-//5 – det er HERRENS udsagn.<<
+//5 - det er HERRENS udsagn.<<
 
 
 ==Jeremias' sorg over sit folk==
 
 
-//3 v18 Uhelbredeligt{E: *mavlîgîtî* er en hapax legomenon, findes kun her. Man forsøger at opløse ordet i >>ingen<< og >>helbredelse<<. Teksten er vanskelig. Oversættelsen er usikker. *mavlîgîtî* >>min glæde<<, >>min trøst/lindring<< er foreslået. Dertil kommer at der er et ordspil mellem *ʕᵃlê* der ved en vokalændring kan betyde >>gå bort/er væk<< og *ʕālay* >>over mig<<, og der oversættes >>Min glæde er borte, sorg er over mig<<. Der ses her bort fra atnachen. >>Hvor finder jeg lindring for sorgen<< er også foreslået.} stiger sorg op i mig!
+//3 v18 Uhelbredeligt{E: *mavlîgîtî* findes kun her. Man forsøger at opløse ordet i *mivli geha* (>>ingen helbredelse<<). Teksten er vanskelig og oversættelsen er usikker. LXX oversætter >>uhelbredelig<<. Nogle knytter det til vers 17. En alternativ oversættelse af *mavlîgîtî* er >>min glæde<<, >>min trøst/lindring<< idet verbet *balag* betyder >>smile, skinne<<. Dertil kommer at der er et ordspil mellem *ʕᵃlê* der ved en vokalændring kan betyde >>gå bort/er væk<< og *ʕālay* >>over mig<<, og der oversættes >>Min glæde er borte, sorg er over mig<<. Der ses her bort fra accenten.} stiger sorg op i mig!{T: Eller >>Min glæde er borte, sorg er over mig, mit hjerte er sygt<<.}
 
-//7 Mit hjerte er sygt{T: Ordret: >>svagt<<.} i mig.
+//7 Mit hjerte er sygt i mig.
 
 //6 v19 Hør nu,{T: Ordret: >>se<<.} en stemme, et råb om hjælp fra mit folks datter
 
-fra et land langt væk!
+fra et land langt borte!
 
-//8 Er HERREN ikke i Zion?{E: Denne sætnings konstruktion: et spørgsmål, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias' bog.}{H: Jer 2,14.31; 8,4-5.19.22; 14,19; 22,28; 49,1.}
+//8 Er HERREN ikke i Zion?
 
-//9 Eller er hendes konge ikke der?{T: Eller: >>har hun ingen konge<<.}
+//9 Eller er hendes konge ikke der?
 
-//7 Hvorfor krænkede{H: Jer 7,18f; 11,17; 25,6f.; 32,29f.32; 44,3.} de mig med deres gudebilleder,
+//7 Hvorfor har de krænket{H: Jer 7,18-19; 11,17.} mig{T: HERREN bryder pludselig ind og stiller folket spørgsmål.} med deres gudebilleder,
 
 med fremmede tomheder? 
 
@@ -227,21 +230,22 @@ med fremmede tomheder?
 
 //5 v21 Over mit folks datters sammenbrud er jeg knust, 
 
-//8 jeg sørger,{T: Ordret: >>er mørk<<.}
-//9 forfærdelse har grebet mig.{H: Jer 6,24.}
+//8 jeg går i sørgeklæder,
+//9 rædsel har grebet mig.
 
 //7 v22 Er der ingen balsam i Gilead?{H: 1 Mos 37,25.}
 
 //8 Eller er der ingen læge der?
 
-//6 Så hvorfor kommer der ikke 
+//6 For, hvorfor er der ikke kommet 
 
-helbredelse til mit folks datter? 
+heling{T: Ordret: >>ny hud<< (over såret).}{H: Jer 30,17; 33,6.} til mit folks datter? 
 
-//4 v23 Gid{T: Eller: >>Hvis blot<<. Ordret: >>hvem vil give at<<.}  mit hoved var vand,
+//4 v23 Gid mit hoved var vand,
 
 //6 mit øje en kilde af tårer,
 
 //5 så ville jeg græde dag og nat
 
 over de dræbte af mit folks datter!
+

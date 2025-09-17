@@ -1,8 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
-
+!!<Dato for denne version: 17.09.2025>!!
 
 ===Jeremias' bog, kapitel 10===
 
@@ -10,72 +9,72 @@
 ==HERREN advarer mod at lære af folkeslagene==
 
 
-//0 v1 Hør ordet
-//3 som HERREN taler{T: Eller >>har talt<<.} til jer,
-//2 Israels hus.{H: Jer 2,4; Amos 3,1.}
+//0 v1 Hør det ord
+//3 som HERREN har talt til jer,
+//2 Israels hus.
 
 //1 v2 Sådan siger HERREN:
 
-//2 >>Lær ikke folkeslagenes vej
+//2 >>Tag ikke ved lære af hedningernes{E: *gôyim* kan betyde både >>hedninger<< og >>folkeslag, nationer<<.} vej
 
 //4 og vær ikke rædselsslagne{T: >>Og hav ikke ærefrygt<<. Begge oversættelser ligger i verbet. I Mal 2,5 anvendes verbet i forhold til HERRENS navn.} over himlens tegn
 
-//5 selvom folkeslagene er rædselsslagne over dem.
+//5 selv om hedningerne er rædselsslagne over dem!
 
-//3 v3 For folks skikke{T: Ordret: >>bestemmelser<<.}
-//5 - er tomhed!
+//3 v3 For folkenes skikke,
+//5 det er tomhed!
 
-//4 For man fælder et træ i skoven,
+//4 For man fælder et træ fra skoven,
 
-//5 med øksen bearbejdes det ved en håndværkers hånd,
+//5 det bearbejdes med øksen ved en håndværkers hånd,
 
-//7 v4 med sølv og guld pynter han det,
+//7 v4 med sølv og med guld pynter han det,
 
-//8 med søm og hammer sikrer de det,
+//8 med søm og hammer sikrer de det
 
 //9 så det ikke vakler.
 
-//6 v5 De er som et palmetræ{T: Ordet bliver af nogle oversat med >>fugleskræmsel<<.} i en mark med agurker.
+//6 v5 Som et palmetræ{T: Ordet bliver af nogle oversat med >>fugleskræmsel<<.} i en agurkehave er de,
 
-//9 De taler ikke,
+//9 og de taler ikke,
 
-//8 de skal bæres,
+//8 de skal hele tiden bæres,
 
-//9 for de kan ikke gå.
+//9 for de kan ikke skride frem.{T: Det hebraiske verbum bruges her om at skride frem i procession.}
 
 //7 I skal ikke frygte for dem,
 
 //8 for de gør intet ondt,
 
-//9 men gøre godt kan de heller ikke.<<
+//9 og gøre godt kan de heller ikke.<<
 
 
 ==Jeremias lovpriser HERREN som eneste sandhed og skaber==
 
 
-//0 v6 Der er ingen som du,
+//0 v6 Ingen er som du,
 //4 HERRE,
 
-//3 du er mægtig,
+//3 du er stor,
 
-//4 og dit navn er mægtigt i kraft.
+//4 og stort er dit navn i styrke.
 
 //2 v7 Hvem vil ikke frygte dig,
 //4 folkeslagenes konge,
 
-//3 for det sømmer sig for dig.
+//3 for det sømmer sig over for dig.
 
-//4 For blandt alle vise mænd i folkeslagene
+//4 For blandt alle folkeslagenes vise 
 
 og i alle deres kongeriger
 
 //5 er der ingen som dig. 
 
-//1 v8 De er på en gang{T: Eller >>på en og samme tid<<.} dumme
-//2 og tåbelige
+//1 v8 De er på én gang uforstandige
+//2 og tåbelige.
 
-//0 - vejledning af tomheder -{T: Dvs. af afguder. Kan oversættes >>vejledning i tomheder<<.}
-//3 træ er han.{T: Afguden.}
+//0 Vejledning af tomheder
+//3 – træ er han!{T: Afguden.}
 
 //2 v9 Udhamret sølv bliver bragt fra Tarshish{H: Ez 27,12.}
 
@@ -83,64 +82,66 @@ og i alle deres kongeriger
 
 //4 et arbejde af en håndværker og en smeds hænder,
 
-//3 violet og purpur er deres tøj,
+//3 violet og purpur er deres klædning,
 
 //4 alt sammen et arbejde af dygtige mænd.
 
-//1 v10 Men HERREN er Gud, han er sandhed,{H: 2 Mos 34,6; Sl 40,11-12; 57,4.}
+***
+
+//1 v10 Men HERREN Gud er sandhed, 
 
 //4 han er den levende Gud
 
 og en evig konge.
 
-//3 Ved hans vrede{H: Jer 21,5; 32,37; 50,13.} skælver jorden,
+//3 Ved hans vrede ryster jorden,
 
-//5 og folkeslagene kan ikke udholde hans harme.
+//5 og folkeslagene kan ikke udholde hans straffende vrede.{E: *zaʕmô* (>>raseri, straffende vrede<<) med betydningen forbandet af en krænket Gud.}
 
 ***
 
 //4 v11 Sådan skal I sige til dem: 
-//5 >>Guderne
-//7 som ikke har dannet himlene og jorden,
+//5 >>De guder
+//7 som ikke dannede himlene og jorden,
 //6 disse skal forsvinde fra jorden og fra under himlene!<<{T: Hele vers 11 er skrevet på officielt aramaisk som var det fælles kommunikationssprog blandt folkeslagene.}
 
 ***
 
-//2 v12 Han er den som dannede jorden ved sin kraft,
+//2 v12{T: Jer 10,12-16 er næsten ens med Jer 51,15-19.} Han er den som dannede jorden ved sin kraft,
 
-//3 grundlagde verden{T: Eller. >>jorden<<.} i sin visdom,
+//3 grundlagde verden i sin visdom,
 
-//6 ved sin indsigt bredte han himlene ud.{H: Jer 51,15.}
+//6 ved sin indsigt bredte han himlene ud.
 
 //5 v13 Når han oplader sin røst,
 //8
 //7 bruser vandene i himlene,
 
-//6 og han får skyerne til at stige op fra jordens ende.
+//6 og han lader tågeskyer stige op fra jordens ende,
 
-//7 Han gør lynene til regn,
+//7 han gør lyn til regn,
 
-//8 og han får vinden til at fare ud fra sine forrådskamre.{H: Jer 51,6; Sl 135,7.}
+//8 og han lader vind fare ud fra sine forrådskamre.{H: Sl 135,7.}
 
 //4 v14 Ethvert menneske er en tåbe og uden kundskab,
 
-//4 enhver smed er blevet virkelig til skamme på grund af afgudsbilledet,
+//4 enhver smed er blevet gjort til skamme på grund af et afgudsbillede,
 
-//5 for hans smeltede billede er en løgn,
+//5 for hans smeltede billede{T: Singularis, kan evt. opfattes kollektivt.} er en løgn,
 //6 og der er ingen ånd i dem.
 
-//7 v15 De er tomhed,{E: *hevel* betyder >>vindpust<<, >>tomhed<<, >>intet<<.}{H: Præd 1,2; Jer 8,13; 14,22; 16,19; 51,18; 1 Kor 8,4.}
-//10 et latterligt arbejde!
+//7 v15 De er tomhed,{E: *hevel* betyder >>vindpust<<, >>tomhed<<, >>intet<<.}{H: Jer 14,22; 16,19.}
+//10 et latterligt{E: *taʕtuʕîm* (>>latterliggørelse<<), findes kun her og i Jer 51,18.} arbejde!
 
 //9 På tidspunktet for deres hjemsøgelse skal de gå til grunde.
 
-//8 v16 Jakobs del{T: Eller >>arvelod<<.}{H: Jer 51,19; 5 Mos 32,9; Am 8,7; 4 Mos 18,20; Klag 3,24; Sl 16,5; Sl 73,26; Sl 119,57.} er ikke som disse,
+//8 v16 Ikke som disse er Jakobs del{T: Eller >>arvelod<<.}{H: 5 Mos 32,9.} 
 
 //10 for det er ham{T: HERREN.} som har formet det hele,
 
 //9 og Israel er den stamme som er hans ejendom.
 
-//10 Hærskarers{N: Hærskarers} HERRE er hans navn.{H: Jer 10,12-16 = Jer 51,15-19.}
+//10 Hærskarers{N: Hærskarers} HERRE er hans navn.
 
 ***
 
@@ -154,15 +155,16 @@ og en evig konge.
 
 //1 v18 For sådan siger HERREN:
 
-//2 >>Se, jeg kaster landets indbyggere ud denne gang,
+//2 >>Se, jeg slynger landets indbyggere ud denne gang,
 
 //3 og jeg vil give dem trængsel 
-//4 så de kan finde ud af det.<<{T: Eller >>mærke det<<. Sætningen har ingen objekt. En lignende uafsluttet sætning møder vi i 2 Mos 2,25: >>Og Gud vidste<<. LXX læser verbet som en passiv og oversætter >>så dit slag må opdages/erfares<<.}{H: Dom 14,18; 2 Mos 2,25.} 
+//4 så de kan finde ud af det.<<{T: Eller >>mærke det<<. Sætningen har intet objekt. En lignende uafsluttet sætning møder vi i 2 Mos 2,25: >>Og Gud vidste<<. LXX læser verbet som en passiv og oversætter >>så dit slag må opdages/erfares<<.} 
 
+***
 
-//0 v19 Ve mig,{H: Jer 15,10; 45,3; Es 6,5} for mit sammenbrud!
+//0 v19 Ve mig,{H: Jer 15,10.} for mit sammenbrud!
 
-//2 Mit sår vil ikke læges!{H: Jer 14,17; 30,12.}
+//2 Mit sår vil ikke læges!{H: Jer 30,12.}
 
 //4 Og jeg sagde:
 
@@ -172,65 +174,65 @@ og en evig konge.
 
 //3 v20 Mit telt er ødelagt,
 
-//6 og alle mine reb er revet over,{H: Es 33,20.}
+//6 og alle mine barduner er revet over,
 
-//5 mine børn er gået fra mig
-//6 og er ikke mere.
+//5 mine børn er gået fra mig,
+//6 og de er ikke mere.
 
-//4 Der er ingen længere der rejser{T: Ordret >>strækker ud<<.} mit telt  
+//4 Der er ingen længere der rejser mit telt  
 
 //5 og sætter mine teltduge op.
 
-//1 v21 For hyrderne er tåber
+//1 v21 For hyrderne{T: Profeterne og præsterne.}{H: Jer 2,8.} er tåber,
 
-//3 og søger ikke HERREN,
+//3 og HERREN søger de ikke,
 
-//2 derfor klarede de sig ikke godt,{H: Jer 20,11; 23,5; Jos 1,8.}
+//2 derfor klarer de sig ikke godt,{T: Eller >>handler de ikke klogt<<.}
 
-//3 og alle deres får og geder er spredt.
+//3 og hele deres hjord{T: Ordret: >>græsgang<<, her metaforisk om de bortførte.} er spredt.{H: Jer 23,2.}
 
 ***
 
-//0 v22 Lyden af nyheder,
+//0 v22 Lyden af et budskab!
 
-//1 se, den kommer,
+//1 Se, det kommer,
 
-//3 en mægtig rystelse 
+//3 en mægtig krigslarm 
 
 fra et land i nord,
 
 //2 for at gøre Judas byer 
 
-til ødemark, en bolig for sjakaler.{H: Jer 9,10; 49,33; 51,37.}
+til ødemark, en bolig for sjakaler.{H: Jer 9,10.}
 
 
 ==Jeremias' bøn til HERREN==
 
 
-//0 v23 Jeg ved,
+//0 v23 Jeg har erkendt,
 //3 HERRE,
 
-//2 at menneskets vej er ikke hans,{T: >>bestemmelse<< eller >>i hans magt<< er underforstået.} 
+//2 at menneskets vej ikke beror på ham selv, 
 
-//3 og det er ikke mennesket
-//4 der går,
+//3 og det beror ikke på en mand 
+//4 der vandrer,
 
-//5 der bestemmer sine skridt. 
+//5 at styre sine skridt. 
 
 //1 v24 Tugt mig,
 //4 HERRE,
-//3 men med retfærdighed,
+//3 men med retfærdighed,{T: Eller >>med rette<<.}
 
 //5 ikke i din vrede
-//4 for at du ikke skal tilintetgøre mig.{T: Ordret: >>gøre mig mindre/færre<<.}
+//4 for at du ikke skal reducere mig til ingenting!
 
-//2 v25 Hæld din vrede ud 
+//2 v25 Udøs din harme 
 
 over folkeslagene
 
 //5 som ikke kender dig,
 
-//4 og over slægterne{T: Ordret: >>familier<<. I Jeremias’ bog refererer det til Israels stammer og hele Israel, men også til andre folkeslag som her.}{H: Jer 1,15 og Jer 25,9. Jer 2,4; 3,14; 8,3; 31,1; 33,24.}
+//4 og over slægter{H: Jer 25,12-13.}
 
 //5 som ikke påkalder dit navn!
 
@@ -240,3 +242,4 @@ over folkeslagene
 //5 og de har gjort ende på ham.
 
 //6 Hans græsgang har de lagt øde.
+
