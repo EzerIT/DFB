@@ -58,7 +58,7 @@ function replaceitsfm(array $filenames) {
             global $thisverse, $thischapter;
             if ($match[2]) { // We have a chapter number
                 $thischapter = $match[2];
-                return '\\c ' . $match[2] . PHP_EOL . '\\m ';
+                return '\\c ' . $match[2] . PHP_EOL . '\\p ';
             }
             elseif ($match[4]) { // We have a verse number
                 $thisverse = $match[4];
@@ -84,16 +84,16 @@ function replaceitsfm(array $filenames) {
     $to[] = '';
     
 //    $from[] = '/===.*(apitel|alme) (.*){E:\s*([^}]+)}===/';
-//    $to[] = '\\c \2 \\p\\fe + \\ft \3\\fe*' . PHP_EOL . '\\m ';
+//    $to[] = '\\c \2 \\p\\fe + \\ft \3\\fe*' . PHP_EOL . '\\p ';
 //    
 //    $from[] = '/===.*(apitel|alme) (.*){T:\s*([^}]+)}===/';
-//    $to[] = '\\c \2 \\p\\f + \\ft \3\\f*' . PHP_EOL . '\\m ';
+//    $to[] = '\\c \2 \\p\\f + \\ft \3\\f*' . PHP_EOL . '\\p ';
 //    
 //    $from[] = '/===.*(apitel|alme) (.*)===/';
-//    $to[] = '\\c \2' . PHP_EOL . '\\m ';
+//    $to[] = '\\c \2' . PHP_EOL . '\\p ';
 
     $from[] = '/==(.*)==/';
-    $to[] = PHP_EOL . '\\s \1' . PHP_EOL . '\\m ';
+    $to[] = PHP_EOL . '\\s \1' . PHP_EOL . '\\p ';
 
     $from[] = '/>>>/';
     $to[] = '»›';
@@ -147,10 +147,10 @@ function replaceitsfm(array $filenames) {
     $from[] = '/(\\\\p[ \n\r]*)+(\\\\toc)/';  // Replace multiple \p followed by \toc with just the final marker
     $to[] = "\\2";
 
-    $from[] = '/\\\\m[ \n\r]*\\\\p/';  // Replace \m\p with \m
-    $to[] = '\\m';
+    $from[] = '/\\\\p[ \n\r]*\\\\p/';  // Replace \p\p with \p
+    $to[] = '\\p';
 
-    $from[] = '/\\\\m[ \n\r]*\\\\s/';  // Replace \m\s with \s
+    $from[] = '/\\\\p[ \n\r]*\\\\s/';  // Replace \p\s with \s
     $to[] = "\\s";
 
     $from[] = '/\\\\p[ \n\r]*\\\\b/';  // Replace \p\b with \b
