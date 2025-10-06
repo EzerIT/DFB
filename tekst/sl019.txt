@@ -1,88 +1,92 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 14.09.2021>!!
-===Salme 19===
-
-==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Salme af David.
-
-==Universets vidnesbyrd om og lovprisning af Guds storhed==
-v2 Himlen fortæller om Guds herlighed,
-
-hvælvingen forkynder hans hænders værk.
+ !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+ !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+ !!<Litterært tjek: Trine Tøndering>!!
+ !!<Dato for denne version: 06.10.2025>!!
  
-v3 Dag lader tale sprudle frem til dag, og nat kundgør viden til nat.
+ ===Salme 19===
+ ==Overskrift==
+//0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} 
+//1 Salme af David.
+ ==Universets vidnesbyrd om og lovprisning af Guds storhed==
+//0 v2 Himlen fortæller om Guds herlighed,
 
-v4 Der er ingen tale og ingen ord uden at deres røst høres.
+//4 hvælvingen forkynder hans hænders værk.
 
-v5 Deres røst{E: Grundteksten har: *qawwām*: >>deres rettesnor<<. Det er vanskeligt at se mening med det, især ud fra parallellen >>ord<< i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: >>deres røst<<, jf. citatet i Rom 10,18.} når ud over hele jorden
+//3 v3 Dag lader udsagn strømme hen til dag, 
+//5 og nat kundgør viden til nat.
 
-og deres ord til verdens ende.
+//4 v4 Der er ingen udsagn
+//6 og ingen ord 
+//5 uden at dens{T: I vers 4 og 5 bruges stedord i flertal som henviser til til >>himlen<<, der er en flertalsform..} røst høres.
 
-Han satte et telt for solen på himlen,{E: Grundteksten har: *bāhem*: >>i/på dem<<. Det henviser formodentlig til >>himlen<< der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (>>deres<<) alle henviser til >>himlen<< (v. 2), og de kunne da oversættes >>dens<<.}
+//6 v5 Dens målesnor {E: *qawwām* kan bruges on skabelsen (Job 38,5), men rettes ofte til  *qôlām* (>>deres røst<<), jf. citatet i Rom 10,18.} når ud over hele jorden
 
-v6 og den går som en brudgom ud af sit kammer,
+//7 og deres tale til verdens ende.
 
-den glæder sig som en helt over at løbe sin bane.
+//2 På den satte han et telt for solen,
 
-v7 Fra himlens ene ende er dens udgang,
+//3 v6 og den er som en brudgom 
+//6 der går ud af sit kammer,
 
-og dens omløb når den anden ende,
+//5 den glæder sig som en helt 
+//6 over at løbe sin bane.
 
-ja, intet er skjult for dens glød. 
+//4 v7 Fra himlens ene ende er dens udgang,
 
-==Lovprisning af HERRENS lov==
-v8 HERRENS lov{N: Lov} er fuldkommen,
+//6 og dens omløb når den anden ende,
 
-den styrker sjælen.{T: Ordret: >>den bringer sjælen tilbage<<.}
+//5 intet er skjult for dens glød. 
 
-HERRENS vidnesbyrd er pålideligt,
+ ==Lovprisning af HERRENS lov==
 
-det giver den enfoldige visdom.
+//1 v8 HERRENS lov{N: Lov} er fuldkommen,
 
-v9 HERRENS bestemmelser er rette,
+//2 den styrker sjælen.{T: Ordret: >>den bringer sjælen tilbage<<.}
 
-de glæder hjertet.
+//1 HERRENS vidnesbyrd er pålideligt,
 
-HERRENS befaling er pur,
+//3 det giver den enfoldige visdom.
 
-det giver øjnene lys.
+//2 v9 HERRENS bestemmelser er rette,
 
-v10 Frygt for HERREN{E: Grundtekstens *yirʔāh*: >>frygt<<, synes at bryde rytmen i versene, idet >>frygt<< næppe kan være synonym for >>lov<<. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. >>Frygt<< for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud >>til evig tid<<. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: >>ord<<.} er ren,
+//3 de glæder hjertet.
 
-den består til evig tid,
+//1 HERRENS befaling er pur,
 
-HERRENS domme er sandhed,
+//2 det giver øjnene lys.
 
-de er alle retfærdige.
+//1 v10 Frygt for HERREN{E: Mange retter ud fra Sl 119,38 >>frygt<< (*yirʔāh*) til >>ord<< (*ʔimrāh*).} er ren,
 
-v11 De er mere kostbare end guld,
+//3 den består til evig tid,
 
-ja, end lutret guld i mængde,
+//2 HERRENS domsafsigelser er sandheden,
 
-og sødere end honning
+//5 de er alle retfærdige.
 
-og flydende bikage.
+//4 v11 De er mere kostbare end guld, ja, end lutret guld i mængde,
 
-==Personlig afslutning og bøn==
-v12 Også din tjener lader sig advare af dem,
+//5 og sødere end honning og flydende bikage.
 
-der er stor løn ved at holde dem.
+ ==Personlig afslutning og bøn==
 
-v13 Uforsætlige synder – hvem lægger mærke til dem?
+//3 v12 Også din tjener lader sig advare af dem,
 
-Rens mig for skjulte synder!
+//8 når man holder dem,
+//7 får man stor løn.
 
-v14 Hold også din tjener borte fra hovmodige
+//6 v13 Uforsætlige synder – hvem lægger mærke til dem?
 
-så de ikke skal herske over mig.
+//5 Rens mig for skjulte synder!
 
-Da bliver jeg udadlelig
+//8 v14 Hold også din tjener borte fra hovmodige,
 
-og uden skyld i grov overtrædelse.
+//7 lad dem ikke herske over mig.
 
-v15 Lad min munds ord og mit hjertes tanker være til behag for dit ansigt,
+//6 Da er jeg uangribelig
 
-HERRE, min klippe og min genløser!
+//7 og uden skyld i grov overtrædelse.
+
+//4 v15 Lad min munds ord og mit hjertes tanker være til behag foran dig,{N: Ansigt}
+
+//5 HERRE, min klippe og min løskøber!
 
