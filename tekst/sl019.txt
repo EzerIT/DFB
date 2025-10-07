@@ -1,7 +1,7 @@
  !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
  !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
  !!<Litterært tjek: Trine Tøndering>!!
- !!<Dato for denne version: 06.10.2025>!!
+ !!<Dato for denne version: 07.10.2025>!!
  
  ===Salme 19===
  ==Overskrift==
@@ -21,7 +21,7 @@
 
 //6 v5 Dens målesnor {E: *qawwām* kan bruges on skabelsen (Job 38,5), men rettes ofte til  *qôlām* (>>deres røst<<), jf. citatet i Rom 10,18.} når ud over hele jorden
 
-//7 og deres tale til verdens ende.
+//7 og dens tale til verdens ende.
 
 //2 På den satte han et telt for solen,
 
@@ -63,9 +63,13 @@
 
 //5 de er alle retfærdige.
 
-//4 v11 De er mere kostbare end guld, ja, end lutret guld i mængde,
+//4 v11 De er mere kostbare end guld,
 
-//5 og sødere end honning og flydende bikage.
+end lutret guld i mængde,
+
+//5 og sødere end honning
+
+og flydende bikage.
 
  ==Personlig afslutning og bøn==
 
