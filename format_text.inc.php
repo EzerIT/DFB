@@ -16,7 +16,8 @@ class FormatText extends Formatter {
         if ($this->from_verse>0) {
             if (preg_match("/(v$this->from_verse )/s",$txt)) {
                 if ($this->syntactic_layout)
-                    $txt = preg_replace("|(===[^=]+===).*(//[0-9]+).*(v$this->from_verse )|s",'\1\2\3',$txt);
+                    $txt = preg_replace("~(===[^=]+===)(?:(?!v$this->from_verse ).)*(//[0-9]+).*(v$this->from_verse )~s",
+                                        '\1\2\3',$txt);
                 else
                     $txt = preg_replace("/(===[^=]+===).*(v$this->from_verse )/s",'\1\2',$txt);
             }
