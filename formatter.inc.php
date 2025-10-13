@@ -144,7 +144,7 @@ function make_formatter(string $book, int $chapter, int $from_verse, int $to_ver
     global $filetype, $chap;
 
     if (!isset($chap[$book]) || !in_array($chapter,$chap[$book]))
-        return new FormatNull($book,$chapter,$from_verse,$to_verse);
+        return new FormatNull($book,$chapter,$from_verse,$to_verse,$syntactic_layout);
     
     switch (is_array($filetype[$book]) ? $filetype[$book][$chapter] : $filetype[$book]) {
         case 'sfm':
