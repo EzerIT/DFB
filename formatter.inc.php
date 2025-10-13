@@ -125,6 +125,42 @@ abstract class Formatter {
     }
 
     abstract public function to_html();
+
+    protected function format_credits() {
+        // Find and cloak emails
+        foreach ($this->credit as &$cr)
+            if (preg_match('/Oversættelse:\s*(.*)/u',$cr,$name_matches)) {
+                $translators = explode(" og ",$name_matches[1]);
+                $translator_file = fopen("tekst/translators.txt","r");
+                $tr_text = '';
+
+                foreach ($translators as $tr)
+                    $has_email[$tr] = false;
+                
+                while ($line=fgets($translator_file)) {
+                    foreach ($translators as $tr) {
+                        if (preg_match("#$tr:(.*)#u",$line,$email_matches)) {
+                            $has_email[$tr] = true;
+                            if (empty($tr_text))
+                                $tr_text = "$tr (" . emailcloak($email_matches[1]) . ')';
+                            else
+                                $tr_text .= " og $tr (" . emailcloak($email_matches[1]) . ')';
+                        }
+                    }
+                }
+
+                foreach ($translators as $tr) {
+                    if (!$has_email[$tr]) {
+                        if (empty($tr_text))
+                            $tr_text = "$tr ";
+                        else
+                            $tr_text .= " og $tr ";
+                    }
+                }
+
+                $cr = "Oversættelse: $tr_text";
+            }
+    }
 }    
 
 // Formatter for non-exitant chapter

@@ -61,42 +61,12 @@ class FormatText extends Formatter {
     
         preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
         $this->credit = $meta_matches[1];
-
-        // Find and cloak emails
-        foreach ($this->credit as &$cr)
-            if (preg_match('/Oversættelse:\s*(.*)/u',$cr,$name_matches)) {
-                $translators = explode(" og ",$name_matches[1]);
-                $translator_file = fopen("tekst/translators.txt","r");
-                $tr_text = '';
-
-                foreach ($translators as $tr)
-                    $has_email[$tr] = false;
-
-                while ($line=fgets($translator_file)) {
-                    foreach ($translators as $tr) {
-                        if (preg_match("#$tr:(.*)#u",$line,$email_matches)) {
-                            $has_email[$tr] = true;
-                            if (empty($tr_text))
-                                $tr_text = "$tr (" . emailcloak($email_matches[1]) . ')';
-                            else
-                                $tr_text .= " og $tr (" . emailcloak($email_matches[1]) . ')';
-                        }
-                    }
-                }
-
-                foreach ($translators as $tr) {
-                    if (!$has_email[$tr]) {
-                        if (empty($tr_text))
-                            $tr_text = "$tr ";
-                        else
-                            $tr_text .= " og $tr ";
-                    }
-                }
-
-                $cr = "Oversættelse: $tr_text";
-            }
+        $this->format_credits();
 
         // First collection of substitutions:
+
+        $from[] = "/\u{FEFF}/";  // Byte Order Mark
+        $to[] = '';
 
         $from[] = '/!!<.*>!!/';  // Credits have been handled above
         $to[] = '';

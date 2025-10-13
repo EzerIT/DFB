@@ -54,6 +54,7 @@ class FormatSfm extends Formatter {
     private $output = '';      // HTML string is generated here
     private $synindent;        // Syntactic indentation value
     private $read_chapter;     // Chapter number read from file
+    private $fh; // File handle for original language text
 
     private function finish($building, string $buffer) {
         switch ($building) {
@@ -80,9 +81,29 @@ class FormatSfm extends Formatter {
                 $this->output .= "<div class=\"poetry poetry2\">$buffer</div>\n";
                 break;
             case 'SYNINDENT':
-                if (empty($buffer))
-                    $buffer = '~';
-                $this->output .= "<div class=\"indent\" data-indent=\"$this->synindent\">$buffer</div>";
+                if ($_SESSION['include_orig_lang']=='on') {
+                    $orig_line = fgets($this->fh);
+                    $orig_line = substr(strstr($orig_line,' '),1); // Strip verse and indent number and space
+
+                    $this->output .= '<div class="textline"><div class="indented-number" data-indent="' . $this->synindent . '">'
+                                   . $this->synindent
+                                   . '<span style="color:transparent;font-size:0pt;">¤</span>'
+                                   . '</div><div class="indented-text" data-indent="' . $this->synindent . '">'
+                                   . $buffer
+                                   . '</div></div>'
+                                    .'<div class="textline"><div class="indented-number-blank"></div>'
+                                   . '<div class="indented-text" data-indent="' . $this->synindent . '"><span class="hebrew">'
+                                   . $orig_line
+                                   . '</span></div></div>';
+                }
+                else {
+                    $this->output .= '<div class="textline"><div class="indented-number" data-indent="' . $this->synindent . '">'
+                                   . $this->synindent
+                                   . '<span style="color:transparent;font-size:0pt;">¤</span>'
+                                   . '</div><div class="indented-text" data-indent="' . $this->synindent . '">'
+                                   . $buffer
+                                   . '</div></div>';
+                }
                 break;
         }
     }
@@ -105,9 +126,10 @@ class FormatSfm extends Formatter {
         if ($this->from_verse>0) {
             if (preg_match("/(\\\\v\s+$this->from_verse\s)/s",$txt)) {
                 if ($this->syntactic_layout)
-                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \Z 0 \2',$txt);
+                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s(?:(?!\\\\v +$this->from_verse ).)*(\\\\zei +[0-9]+\\\\zei\\*).*(\\\\v +{$this->from_verse} )/s",'\1 \2 \3',$txt);
+
                 else
-                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \m \2',$txt);
+                    $txt = preg_replace("/(\\\\c +{$this->chapter})\s.*(\\\\v +{$this->from_verse} )/s",'\1 \p \2',$txt);
             }
             else {
                 global $title;
@@ -149,23 +171,44 @@ class FormatSfm extends Formatter {
                 }
         }
 
+        if ($this->syntactic_layout && $_SESSION['include_orig_lang']=='on') {
+            $orig_file = sprintf('tekst/orig/%s%03d.txt',$this->book,$this->chapter);
+            ($this->fh = @fopen($orig_file,'r')) || die("Kan ikke finde filen $orig_file");
+            fgets($this->fh); // Skip identification line
+            if ($this->from_verse>0) {
+                // Skip lines from original text file
+                do {
+                    $pos = ftell($this->fh);
+                    $orig_line = fgets($this->fh);
+                    $verse = strstr($orig_line,":",true);
+                } while ($verse < $this->from_verse);
+                fseek($this->fh,$pos);
+            }
+        }
+
+        
         // Read credits
-        if (file_exists(sprintf('tekst/%s%03d.cre',$this->book,$this->chapter))) {
+        if (file_exists(sprintf('sfm/%s%03d.cre',$this->book,$this->chapter))) {
             preg_match_all('/!!<(.*)>!!/',
-                           file_get_contents(sprintf('tekst/%s%03d.cre',$this->book,$this->chapter)),
+                           file_get_contents(sprintf('sfm/%s%03d.cre',$this->book,$this->chapter)),
                            $meta_matches);
             $this->credit = $meta_matches[1];
         }
         elseif (file_exists(sprintf('tekst/%s.cre',$this->book))) {
             preg_match_all('/!!<(.*)>!!/',
-                           file_get_contents(sprintf('tekst/%s.cre',$this->book)),
+                           file_get_contents(sprintf('sfm/%s.cre',$this->book)),
                            $meta_matches);
             $this->credit = $meta_matches[1];
         }
         else
             $this->credit = ["Ingen statusoplysninger."];
 
+        $this->format_credits();
+
         // Substitutions:
+
+        $from[] = "/\u{FEFF}/";  // Byte Order Mark
+        $to[] = '';
 
         $from[] = '/>>>/';
         $to[] = '»›';
@@ -331,7 +374,7 @@ class FormatSfm extends Formatter {
                     // Modifiers
                 case '\v':
                     $verseno = $tokenizer->get_token();
-                    $buffer .= "<span class=\"verseno\" data-verse=\"$verseno\">"
+                    $buffer .= " <span class=\"verseno\" data-verse=\"$verseno\">"
                              . "<span class=\"chapno\">$this->read_chapter:</span>$verseno</span>";
                     break;
 
@@ -419,13 +462,21 @@ class FormatSfm extends Formatter {
                     break;
 
                 case '\xo': // Source for reference
-                    $source_verse = preg_replace('/.*,([0-9]+)/','\1',$tokenizer->get_token());
+                    while (($tok = $tokenizer->peek_token())!='\xt' && $tok!='\x*')
+                        $tokenizer->get_token(); // Ignored, for now
                     break;
 
                 case '\xt':
-//                    $this->references[$source_verse] = '';
-//                    while (($tok = $tokenizer->get_token())!='\x*')
-//                        $this->references[$source_verse] .= $tok . ' ';
+                    $target = '';
+                    while (($tok = $tokenizer->get_token())!='\x*')
+                        $target .= ' ' . $tok;
+                    $dest = htmlspecialchars('<span class="reflinks">'
+                                           . formatref($target)
+                                           . '</span>');
+                    $buffer = rtrim($buffer) . '<span class="refh" data-refs="' . $dest . '">*</span>';
+                    $next_token = $tokenizer->peek_token();
+                    if (!empty($next_token) && IntlChar::isalnum($next_token[0]))
+                        $buffer .= ' ';
                     break;
 
                 default:
