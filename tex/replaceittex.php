@@ -1,6 +1,7 @@
 <?php
 
 require_once('../oversigt.inc.php');
+require_once('format_sfm_tex.inc.php');
 
 function replaceittex($filename, $chtype) {
     $txt = file_get_contents($filename);
@@ -450,7 +451,12 @@ foreach ($title as $bookabb => $tit) {
         foreach ($chap[$bookabb] as $ch) {
             if (is_array($style[$bookabb]) && in_array($style[$bookabb][$ch],$include_status)
                 || in_array($style[$bookabb],$include_status)) {
-                $text .= replaceittex(sprintf('../tekst/%s%03d.txt',$bookabb,$ch), ucfirst($chaptype[$bookabb]));
+                if ($filetype[$bookabb]=='txt')
+                    $text .= replaceittex(sprintf('../tekst/%s%03d.txt',$bookabb,$ch), ucfirst($chaptype[$bookabb]));
+                else {
+                    $fmter = new FormatSfmTex($bookabb,$ch,ucfirst($chaptype[$bookabb]));
+                    $text .= $fmter->to_latex();
+                }
             }
         }
         $text = fix_hyphenation($text);
