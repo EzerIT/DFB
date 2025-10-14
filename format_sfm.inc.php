@@ -298,6 +298,8 @@ class FormatSfm extends Formatter {
         $buffer = '';
         $building = null;
 
+        $in_footnote = false;
+        
         // Markers:
 
         while (($token = $tokenizer->get_token())!=='') {
@@ -410,52 +412,95 @@ class FormatSfm extends Formatter {
 
                 case '\em': // Emphasis text
                 case '\+tl': // Transliterated text
-                    $buffer .= '<i>';
+                    if ($in_footnote)
+                        $buffer .= '&lt;i&gt;';
+                    else
+                        $buffer .= '<i>';
                     break;
 
                 case '\em*': // Emphasis text
                 case '\+tl*': // Transliterated text ends
-                    $buffer .= '</i>';
+                    if ($in_footnote)
+                        $buffer .= '&lt;/i&gt;';
+                    else
+                        $buffer .= '</i>';
                     break;
 
                 case '\f': // Normal footnote
+                    if ($in_footnote)
+                        throw new ParserException('Footnote within footnote');
                     $buffer = rtrim($buffer) . '<span class="ref ref1"><span class="refnum" data-toggle="tooltip" data-num="'
                              . $this->nextnumber++
                               . '" data-placement="bottom" title="';
                     if ($tokenizer->get_token()!='+')
-                        throw new ParserException('No + after \\f');
+                        throw new ParserException('No + after \f');
+                    $in_footnote = true;
+                    $in_fq = false;
                     break;
 
                 case '\f*': // Normal footnote ends
+                    if (!$in_footnote)
+                        throw new ParserException('Misplaced \f*');
+                    if ($in_fq) {
+                        $buffer .= '&lt;/i&gt;';
+                        $in_fq = false;
+                    }
                     $buffer = rtrim($buffer) . '" data-html="true"></span></span>';
                     $next_token = $tokenizer->peek_token();
                     if (!empty($next_token) && IntlChar::isalnum($next_token[0]))
                         $buffer .= ' ';
+                    $in_footnote = false;
                     break;
 
                 case '\fe': // Exegetic footnote
+                    if ($in_footnote)
+                        throw new ParserException('Footnote within footnote');
                     $buffer = rtrim($buffer) . '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-let="'
                              . $this->nextletter++
                                . '" data-placement="bottom" title="';
                     if ($tokenizer->get_token()!='+')
                         throw new ParserException('No + after \\fe');
+                    $in_footnote = true;
+                    $in_fq = false;
                     break;
 
                 case '\fe*': // Exegetic footnote ends
+                    if (!$in_footnote)
+                        throw new ParserException('Misplaced \fe*');
+                    if ($in_fq) {
+                        $buffer .= '&lt;/i&gt;';
+                        $in_fq = false;
+                    }
                     $buffer = rtrim($buffer) . '" data-html="true"></span></span>';
                     $next_token = $tokenizer->peek_token();
                     if (!empty($next_token) && IntlChar::isalnum($next_token[0]))
                         $buffer .= ' ';
+                    $in_footnote = false;
                     break;
 
                 case '\fr': // Reference in footnote
-                    while (($tok = $tokenizer->peek_token())!='\ft' && $tok!='\fe*' && $tok!='\f*')
+                    if (!$in_footnote)
+                        throw new ParserException('Misplaced \fr');
+                    while (($tok = $tokenizer->peek_token())[0]!='\\')
                         $tokenizer->get_token(); // Ignored, for now
                     break;
 
                 case '\ft': // Start of footnote text
+                    if (!$in_footnote)
+                        throw new ParserException('Misplaced \ft');
+                    if ($in_fq) {
+                        $buffer = rtrim($buffer) . ':&lt;/i&gt; ';
+                        $in_fq = false;
+                    }
                     break;
 
+                case '\fq': // Start footnote quote
+                    if (!$in_footnote)
+                        throw new ParserException('Misplaced \fq');
+                    $in_fq = true;
+                    $buffer .= '&lt;i&gt;';
+                    break;
+                    
                 case '\x': // Start of cross reference
                     if ($tokenizer->get_token()!='+')
                         throw new ParserException('No + after \\x');
@@ -480,6 +525,10 @@ class FormatSfm extends Formatter {
                     break;
 
                 default:
+                    if ($token[0]=='\\') {
+                        throw new ParserException("Unknown token '$token'");
+                        die;
+                    }
                     $buffer .= $token . ' ';
                     break;
             }
