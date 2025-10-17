@@ -194,7 +194,7 @@ else
 
      @font-face {
          font-family: 'Ezra SIL Webfont';
-         src: url('fonts/SILEOT.woff') format('woff');
+         src: url('style/fonts/SILEOT.woff') format('woff');
      }
 
      .hebrew {
