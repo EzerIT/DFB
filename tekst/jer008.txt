@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 24.10.2025>!!
 
 ===Jeremias' bog, Kapitel 8===
 
@@ -59,7 +58,7 @@
 //9 og siger:
 //10 >>Hvad har jeg gjort!<<
 
-//7 Alle vender de sig bort i deres livsløb 
+//7 Alle vender de sig bort i deres løb{H: Jer 23,10.}
 
 som en hest
 //9 der styrter afsted i krigen.

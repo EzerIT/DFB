@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 24.10.2025>!!
 
 ===Jeremias’ bog, kapitel 4===
 
@@ -16,7 +15,7 @@
 
 //4 til mig, skal du vende om,
 
-//3 og hvis du fjerner dine vederstyggeligheder{E: *šiqqûṣ* (>>vederstyggelighed<<), et meget stærkt udtryk for afguder, som er en vederstyggelighed for HERREN.} fra mit ansigt
+//3 og hvis du fjerner dine vederstyggeligheder{E: *šiqqûṣ* (>>vederstyggelighed<<), et meget stærkt udtryk for afguder og afgudsdyrkelse, som er en vederstyggelighed for HERREN.}{H: Jer 13,27.} fra mit ansigt
 
 //4 og ikke strejfer omkring,
 

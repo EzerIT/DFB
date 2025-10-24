@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 15.04.2025>!!
+!!<Dato for denne version: 24.10.2025>!!
 
 ===Jobs bog, kapitel 42===
 
@@ -34,9 +34,9 @@
 //7 og nu har mit øje set dig.{H: Job 19,26.}
 
 //6 v6 Derfor opgiver jeg,{T: Eller >>stopper/frafalder jeg<<.}{E:*ʔemʔas* (*mʔs*) (>>foragte<<, >>forkaste<<) står her intransitivt ligesom i Job 7,16. Hvis verbet opfattes transitivt, oversættes >>jeg forkaster/foragter<<, og et objekt må tilføjes. Ud fra sammenhængen kan det være >>retssagen<< (Job 40,2) snarere end alle hans ord, også set i lyset af Bibelens vidnesbyrd i Ez 14,14.18-20, samt Job 1,8 og 2,3 om Job. De fleste oversættelser vælger dog >>jeg forkaster<< og tilføjer >>alt hvad jeg har sagt<< eller >>jeg foragter mig selv<<.}
-//7 og jeg finder trøst{E: *niḥamtî* kan betyde >>jeg fortryder<<, men  >>finder trøst<< er den gennemgående betydning i Jobs bog. De fleste oversættelser vælger dog >>jeg angrer i støv og aske<<, se efterfølgende note!}{H: Job 2,11; 6,10; 7,13; 29,25; 42,11.} 
+//7 og jeg finder trøst{E: *niḥamtî* kan betyde >>jeg fortryder<<, men  >>finder trøst<< er den gennemgående betydning i Jobs bog. De fleste oversættelser vælger dog >>jeg angrer i støv og aske<<, se efterfølgende note! Luther oversatte: >>Derfor erklærer jeg mig skyldig og gør bod i støv og aske.<<}{H: Job 2,11; 6,10; 7,13; 29,25; 42,11.} 
  
-over støv og aske<<.{H: Job 30,19; 19,25.}{T: Det kan betyde >>i/over lidelsen<<, men det kan også forstås >>over støv og aske hos Gud<<.}
+over støv og aske<<.{H: Job 30,19; 19,25; 1 Mos 18,27.}{T: Det kan betyde >>i/over lidelsen<<, men det kan også forstås >>over støv og aske hos Gud<<.}
 
 ==HERREN går i rette med Jobs venner==
 
