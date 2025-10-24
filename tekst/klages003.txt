@@ -1,0 +1,347 @@
+!!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 24.10.2025>!!
+
+===Klagesangene, Kapitel 3{T: Den akrostiske stil i kapitel tre afviger fra de øvrige kapitler idet tre vers efter hinanden begynder med samme hebraiske bogstav. Dette fremhæver kapitel tre som Klagesangenes klimaks.}===
+
+
+==Profeten klager på vegne af sit folk==
+
+//0 v1 Jeg er den mand{E: *gever* betyder >>ung, stærk mand<<.} 
+//5 der har set elendighed{H: Klages 1,3.9; 3,19.} 
+
+under hans vredes kæp.
+
+//4 v2 Mig har han drevet bort, 
+//5 og han lod mig gå
+
+i mørke og ikke i lys.
+
+//3 v3 Sandelig, mod mig vender han
+
+//5 sin hånd  igen og igen hele dagen.
+
+***
+
+//6 v4 Han har fortæret mit kød og min hud, 
+
+//6 mine knogler har han knust.
+
+//6 v5 Han har bygget op{H: Job 19,8.} over mig,
+
+//8 og han omgav mig med gift og trængsel.
+
+//7 v6 Han har ladet mig sidde i dybeste mørke 
+
+som dem der er døde for evigt.{E: *ʕôlām* (>>evig<<) kan oversættes >>for længe siden<<.}{H: Sl 143,3.}
+
+***
+
+//6 v7 Han har rejst en mur rundt om mig
+//7 så jeg ikke kan komme ud,
+
+//6 han har gjort min bronzelænke tung.
+
+//4 v8 Selv når jeg råber 
+//7 og skriger om hjælp,{H: Klages 2,18-19.}
+
+//6 lukker han{E: *śātam* (*śtm*) (>>svarer ikke<<, >>lukker vejen<<, >>lukker ude<<), findes kun her, og den nøjagtige betydning kan ikke fastslås. En del manuskripter og Syr. har *stm* der betyder >>blive stille<<, >>blive tavs<<. LXX og Vulgata oversætter >>lukkede vejen til bøn<<, andre oversætter >>han afviste min bøn<<. En arabisk parallel betyder >>forkaster<<.} min bøn ude.
+
+//6 v9 Han har spærret mine veje med tilhuggede sten,
+
+//9 mine stier har han gjort krogede.
+
+***
+
+//8 v10 For mig er han en bjørn der ligger på lur,
+
+//10 en løve i skjul. 
+
+//9 v11 Mine veje gjorde han til afveje,
+//10 og han sønderrev mig,
+
+//7 han gjorde mig forladt.
+
+//8 v12 Han spændte sin bue
+
+//9 og stillede mig op som målet for pilen.{H: Job 16,12.}
+
+***
+
+//8 v13 Han lod sit koggers sønner 
+
+trænge ind i mine nyrer. 
+
+//5 v14 Jeg er blevet til latter for hele mit folk,
+
+//7 deres spottevise{H: Job 30,9.} hele dagen lang.
+
+//6 v15 Han har mættet mig med bitre urter,
+
+//6 han har givet mig rigeligt malurt at drikke.
+
+***
+
+//7 v16 Han lod mine tænder kværne i grus,
+
+//6 han har trådt mig ned{T: Eller >>fik mig til at krybe sammen<<. Ordet findes kun her, og der er mange forskellige oversættelser.} i støvet.
+
+//7 v17 Du forstødte min sjæl fra fred{T: Eller >>min sjæl forkaster fred; jeg glemmer det gode<<.}
+
+//5 så jeg glemte det gode.
+
+//6 v18 Jeg sagde:
+//7 >>Tabt er min livskraft 
+
+//8 og mit håb fra HERREN!<<
+
+***
+
+//2 v19 Husk min elendighed og min hjemløshed,
+
+malurten og giften!
+
+//1 v20 Min sjæl bliver ved med at huske,{E: Verbet kan enten være 3. pers. fem.sg. (min sjæl) eller 2. pers.m.sg. (henvendt til Gud). Den traditionelle tolkning er >>min sjæl<< som subjekt og anvendes i de fleste oversættelser. Det samme gælder efterfølgende verslinje. Den anden mulighed findes hovedsagelig i rabbinsk eksegese, der henfører til at håbet i vers 21 begynder allerede i vers 20. >>Du bliver ved med at huske, og du bøjer dig ned over mig, min sjæl<<, jf. næste verslinje.}
+
+//5 og min sjæl er nedbøjet i mig.{H: Sl 42,7.}
+
+//4 v21 Dette vil jeg igen lægge mig på sinde;{N: Hjerte}
+
+//5 derfor vil jeg håbe:{T: Eller >>vente<< (med håb).}
+
+
+==HERRENS nåde og barmhjertighed er profetens håb==
+
+
+//3 v22 Det er HERRENS nådesbevisninger{H: Es 63,7. Sl 89,50.}{T: Eller >>nådegerninger<<. Flere oversættelser vælger at se bort fra at >>nåde<< står i pluralis, og oversætter >>HERRENS nåde<<.} 
+
+//7 at det ikke er forbi med os!{E: *tāmᵊnû* (*tmm*) (>>være skåret af/afsluttet<<). Mange oversættelser ændrer, med støtte i Syr, Peshitta og Targum, verbet til *tammu* og oversætter >>HERRENS nåde hører aldrig op<<. Men Biblica Hebraica Quinta fastholder her lectio difficilior princippet, den vanskeligste læsning er den stærkeste, mere sandsynligt den originale. Vers 22-24 findes ikke i LXX.}{H: 5 Mos 30,1-3.} 
+
+//6 For hans barmhjertige gerninger{T: Eller >>mægtige barmhjertighed<<.}{H: Sl 25,6} er ikke hørt op!{T: Eller >>hører ikke op<<.}
+
+//7 v23 De er nye hver morgen,
+
+//8 stor er din trofasthed!{T: Eller >>din troskab<<, >>din sandfærdighed<<.} 
+
+//5 v24 Min del{T: Arvelod.} er HERREN,
+//7 siger min sjæl,
+
+//6 derfor vil jeg håbe{H: Klages 3,18.21} på ham.
+
+***
+
+//4 v25 God er HERREN mod den{E: Ketiv-formen er valgt her og er parallel med >>en sjæl<< i efterfølgende verslinje. Qere-formen >>de<< vælges også af flere oversættelser.} der venter{H: Es 40,31. Sl 25,3.} på ham,
+
+//6 mod en sjæl
+//7 der søger ham.
+
+//5 v26 Det er godt at vente i stilhed 
+
+på HERRENS frelse.
+
+//6 v27 Det er godt for manden{H: Klages 3,1.}
+
+//9 at han bærer åg i sin ungdom.
+
+***
+
+//8 v28 Han skal sidde alene
+//12 og tie
+
+//11 når han lægger det på ham.
+
+//10 v29 Han skal lægge sin mund i støvet,
+
+//11 måske der er håb.
+
+//10 v30 Han skal give den der slår ham, sin kind
+
+//10 og blive mæt af skam.{T: Eller >>vanære<<.}
+
+***
+
+//9 v31 For ikke for evigt 
+
+forkaster Herren.
+
+//12 v32 For selvom han har voldt sorg,
+
+//13 så vil han forbarme sig efter sin nådes overflod.{E: MT har fravalgt vokaliseringen af >>nåde<<. Ketiv-formen er valgt her, qere-formen >>sine nådesbevisninger<< vælges af flere med støtte i Syr., jf. Klages 3,22.}
+
+//11 v33 For det er ikke af hjertet at han ydmyger
+
+//12 og bedrøver{H: Klages 1,5.12; 3,32.} menneskebørn.
+
+***
+
+//11 v34 Det at knuse
+
+under fode alle landets fanger, 
+
+//12 v35 det at bøje en mands ret 
+
+i den Højestes nærvær,{N: Ansigt.} 
+
+//12 v36 det at vildlede en mand i hans retssag,
+
+//10 ser Herren ikke det?
+
+***
+
+//7 v37 Hvem er det der sagde det, 
+//10 og det skete,
+
+//9 uden at Herren har befalet det?
+
+//10 v38 Er det ikke fra den Højestes mund 
+
+at det onde og det gode udgår?
+
+//8 v39 Hvad klager et menneske som lever, over,
+
+//9 en mand over sin synd?{H: Klages 1,8.} 
+
+
+==Folkets synd og Guds vrede==
+
+
+//2 v40 Vi vil undersøge vores veje 
+//4 og ransage dem
+
+//3 og vende om til HERREN!
+
+//2 v41 Vi vil løfte vores hjerte sammen med hænderne{T: Ordret: >>til/op til hænderne (der er løftet)<<.} 
+
+til Gud i himmelen!
+
+//3 v42 Vi, vi har syndet
+//6 og vi har været genstridige,
+
+//5 men du, du har ikke tilgivet.
+
+***
+
+//6 v43 Du har tilhyllet{E: Da teksten her ikke har noget objekt, er det uklart hvem der tilhylles, HERREN selv eller hans folk (os).} med vreden,{H: Klages 2,1.}
+//7 og du forfulgte os,
+
+//6 du har dræbt,
+//7 og du skånede ikke.
+
+//6 v44 Du har indhyllet dig i en sky
+
+//7 så ingen bøn kan komme igennem.
+
+//4 v45 Til affald{E: *sᵊḥî* (>>affald<<) findes kun her.} og skrald{E: Ordret: >>at være forkastet/foragtet<<, en infinitiv absolut med emfatisk betydning.} gør du os 
+
+midt blandt folkene.
+
+***
+
+//6 v46 Alle vores fjender 
+
+har åbnet deres mund på vid gab imod os.
+
+//5 v47 Gru og gruben{H: Jer 48,43. Es 24,17.} er blevet os til del,
+
+//6 ødelæggelsen{E: *šēˀt* (>>ødelæggelse<<, >>øde<<, >>fortvivlelse<<) findes kun her, og oversættelsen er usikker. Verset har desuden to ordspil: *paḥad* (>>gru<<) og *paḥat* (>>grube<<) samt *hašēˀt* (>>ødelæggelsen<<) og *hašever* (>>sammenbruddet<<)} og sammenbruddet.
+
+//1 v48 Mit øje løber over med bække af vand 
+
+på grund af mit folks datters sammenbrud.
+
+***
+
+//4 v49 Mit øje flyder over 
+//7 og kommer ikke til ro,
+
+//6 og det hører ikke op
+
+//5 v50 indtil HERREN skuer ned 
+
+//6 og ser fra himlen.
+
+//3 v51 Mit øje piner mig{N: Sjæl.}{H: Klages 1,12.} 
+
+på grund af alle min bys døtre. 
+
+***
+
+//2 v52 De har i sandhed jaget mig som man jager fuglen, 
+
+de der er mine fjender uden grund. 
+
+//3 v53 De styrtede mig levende i cisternen{H: Jer 38,6.}
+
+//5 og kastede sten på mig.
+
+//4 v54 Vandene flød over mit hoved,
+
+//5 og jeg sagde:
+//6 >>Jeg er skåret af!<<{T: Fra livet.}
+
+
+==Jeremias’ bøn til HERREN om frelse for sit folk==
+
+
+//0 v55 Jeg påkaldte dit navn,
+//4 HERRE,
+
+//3 fra cisternen dybest nede.
+
+//2 v56 Du har hørt min røst.
+
+//1 Luk ikke dit øre for mit suk og mit skrig! 
+
+//3 v57 Du kom nær den dag
+//4 jeg kaldte på dig.
+
+//3 Du sagde:
+//4 >>Frygt ikke!<<
+
+***
+
+//5 v58 Du har ført min sag,
+//7 Herre,
+//6 min sjæls sag!
+
+//5 du har løskøbt mit liv!
+
+//5 v59 Du har set, 
+//7 HERRE,
+//6 uretten mod mig.
+
+//2 Døm i min sag!{T: Eller >>skaf mig min ret<<.}
+
+//4 v60 Du har set al deres hævn,
+
+//5 alle deres planer mod mig.
+
+***
+
+//4 v61 Du har hørt deres hån,
+//6 HERRE,
+
+//5 alle deres planer imod mig,
+
+//6 v62 ordene fra dem der rejser sig imod mig, og deres hvisken 
+
+over mig hele dagen.
+
+//3 v63 Se godt efter når de sidder, og når de rejser sig op!
+
+//5 Jeg er deres spottesang!{H: Klages 3,14.}
+
+***
+
+//4 v64 Du vil yde{E: Verberne i vers 64-66, der er en yiqtol form, kan oversættes med imperativ.} dem gengæld,
+//6 HERRE,
+
+//5 efter deres hænders værk!
+
+//4 v65 Du vil give dem et hårdt hjerte,{T: Eller >>forblændet hjerte<<.}{E: *mᵊginnat* (>>tildækket<<) findes kun her, og betydningen er omdiskuteret.} 
+
+//5 din forbandelse{E: *taˀᵃlātᵊxā* (>>forbandelse<<). Ordet findes kun her, hvilket fremhæver udtrykket.} er over dem!
+
+//4 v66 Du vil forfølge i vrede
+
+//5 og udrydde dem fra under HERRENS himmel!
