@@ -24,7 +24,7 @@ $chap['jon']      = range(1,4);
 $chap['nah']      = range(1,3);
 $chap['hab']      = range(1,3);
 $chap['sef']      = range(1,3);
-$chap['hagg']     = [2];
+$chap['hagg']     = range(1,2);
 $chap['zak']      = range(1,14);
 
 $chap['matt']     = range(1,28);
@@ -276,7 +276,7 @@ $style['jon']     = $modenhed['uden indrykning'];
 $style['nah']     = $modenhed['uden indrykning'];
 $style['hab']     = $modenhed['uden indrykning'];
 $style['sef']     = $modenhed['uden indrykning'];
-$style['hagg']    = $modenhed['ufuldstændigt'];
+$style['hagg']    = $modenhed['med indrykning'];
 $style['zak']     = $modenhed['uden indrykning'];
 
 $style['matt']    = $modenhed['uden indrykning'];

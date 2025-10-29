@@ -1,14 +1,166 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 05.05.2021>!!
+!!<Oversættelse: Christian Canu Højgaard>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 29.10.2025>!!
 
 ===Haggajs Bog, kapitel 2===
 
-v4 >>Dog nu, vær frimodig, Zerubbabel! siger HERREN, og vær frimodig, Josva, Josadaks Søn, du ypperstepræst! og vær frimodig, alt folk i Landet! siger HERREN, og arbejd, for jeg er med jer,<< lyder det fra{T: Grundtekstens *nᵊʔum* angiver at det er et højtideligt udsagn.} Hærskarers HERRE. 
-v5 Det er løftet{T: ordret: >>ordet<<.} i min pagt med jer dengang I drog ud af Egypten, og min Ånd vil stadig være midt iblandt jer; frygt ikke!<<
-v6 For dette siger Hærskarers HERRE: >>Endnu en gang, om en kort tid, vil jeg få himlene og jorden og havet og det tørre land til at skælve. 
-v7 Og jeg vil få alle folkene til at skælve, og alle folkenes kostbarheder skal komme; og jeg vil fylde dette hus med herlighed,<< siger Hærskarers HERRE. 
-v8 >>Mit er sølvet, mit er guldet,<< lyder det fra Hærskarers HERRE.
-v9 Dette hus' sidste herlighed skal blive større end den første,<< siger Hærskarers HERRE, >>og jeg vil give fred på dette sted,<< lyder det fra Hærskarers HERRE.
+==Haggaj opmuntrer til at fortsætte med at bygge templet ==
+
+//0 v1 I den syvende måned, på den 21. dag i måneden, kom HERRENS ord ved profeten Haggaj
+//1 :
+//2 v2 >>Sig nu således til guvernøren i Juda, Zerubbabel, Shealtiels søn, og til ypperstepræsten Josva, Josadaks søn, og til dem der er tilbage af folket
+//3 : 
+
+//4 v3 Hvem er der tilbage iblandt jer
+
+//8 som har set dette hus i dets tidligere herlighed?
+
+//7 Hvordan ser I det nu?
+
+//6 Ser det ikke ud af ingenting i jeres øjne? 
+
+//5 v4 Men vær modig,{T: Eller >>stærk<<. Gælder også de andre forekomster i dette vers.}
+//9 Zerubbabel!
+
+//8 erklærer HERREN.
+
+//7 Og vær modig,
+
+//8 Josva, Josadaks søn, ypperstepræst!
+
+//7 Og vær modige,
+//9 alle folk i dette land!
+
+//8 erklærer HERREN,
+
+//6 og udfør - 
+//9 for jeg er med jer,
+
+//10 erklærer Hærskarers{N: Hærskarers} HERRE - 
+
+//8 v5 det{E: Objektet står uden prædikat. Mange oversættelser tilføjer >>dette er<< og begynder en ny sætning i vers 5. Her opfattes >>det<< (ordret >>ordet<<) som objekt for >>udfør<< i vers 4.}
+//9 jeg indgik som pagt med jer,
+
+//10 da I drog ud af Egypten.
+
+//11 Min Ånd{N: Ånd} bliver ved med at være midt iblandt jer.
+
+//7 Frygt ikke! 
+
+//8 v6 For dette siger Hærskarers HERRE:
+
+//9 Endnu en gang, om en kort tid,
+
+//10 vil jeg ryste himlene og jorden, havet og det tørre land. 
+
+//11 v7 Og jeg vil ryste alle folkeslagene, 
+
+//14 og alle folkeslagenes kostbarheder skal komme,
+
+//13 og jeg vil fylde dette hus med herlighed,
+
+//14 erklærer Hærskarers HERRE. 
+
+//12 v8 Mit er sølvet,
+//14 og mit er gulvet,
+
+//15 erklærer Hærskarers HERRE.
+
+//13 v9 Dette kommende{T: Eller >>sidste<<.} hus’ herlighed skal blive større end det førstes,
+
+//15 erklærer Hærskarers HERRE;
+
+//14 på dette sted vil jeg give fred,
+
+//15 erklærer Hærskarers HERRE.<<
+
+==Omvendelse giver velsignelse==
+
+//0 v10 På den 24. dag i den niende måned, i Dareios’ andet regeringsår, kom HERRENS ord ved profeten Haggaj
+//3 :
+//4 v11 >>Dette siger Hærskarers JHVH:
+//5 Spørg nu præsterne om loven
+//7 :
+//8 v12 >Se, når nogen frembærer helligt kød i folden på sin kjortel
+//9 og rører med folden ved brød eller ved noget kogt, ved vin, olie eller nogen som helst slags mad,
+//10 bliver det så helligt?<<<
+//6 Præsterne svarede
+//7 :
+//8 >>Nej.<< 
+//2 v13 Da sagde Haggaj:
+//4 >>Hvis en der er blevet uren ved kontakt med lig, rører ved noget af alt dette,
+//6 bliver det så urent?<<
+//5 Præsterne bekræftede
+//6 :
+//7 >>Det bliver urent.<< 
+//3 v14 Da svarede Haggaj
+//4 :
+
+//5 >>Sådan er dette folk,
+
+//7 og sådan er denne nation for mit ansigt,
+
+//9 erklærer HERREN,
+
+//8 og sådan er alt hvad de foretager sig, 
+
+//9 og hvad de ofrer der,
+
+//10 det er urent. 
+
+//6 v15 Tænk nu nøje over tiden fra denne dag og tilbage til
+
+//8 før der blev lagt sten på sten til HERRENS tempel.
+
+//10 v16 Før dette skete,{E: Eller >>hvordan havde I det?<<, jf. LXX.}
+
+//9 kom man da til en korndynge efter 20 mål,
+
+//10 så var der kun 10,
+
+//9 kom man til vinpersen
+
+//12 for at øse 50 spande,{T: Betydningen er usikker.}
+
+//11 var der kun 20. 
+
+//10 v17 Jeg slog jer med afsvedne afgrøder, plantesygdom{T: Muligvis meldug.} og hagl,
+
+//12 ja al jeres hænders værk,
+
+//11 men intet bragte I til mig,{E: Verbet mangler i grundteksten. Oftest rekonstruerer man sætningen efter Amos 4,6.9.10 (jf. LXX og Peshitta), men ordet *ʔetxem* minder mest om et objekt, så der er ikke tale om at vende tilbage til HERREN, men at bringe noget til HERREN.}
+
+//12 erklærer HERREN. 
+
+//7 v18 Tænk nu nøje over tiden fra denne dag og tilbage, fra den 24. dag i den niende måned, ja, endog fra den dag
+//8 da HERRENS hus blev grundlagt,
+//9 tænk over det! 
+//10 v19 Er der mon endnu såsæd i laden?
+//12 Ikke engang{E: *ʕad* kan også vokaliseres som *ʕôd* i betydningen >>endnu<<, jf. LXX.} vintræet, figentræet, granatæbletræet og oliventræet, har det båret frugt?
+//11 Men fra denne dag af vil jeg velsigne.<< 
+
+//1 v20 HERRENS ord kom for anden gang til Haggaj på den 24. dag i måneden
+//2 .
+
+//3 v21 >>Sig til Zerubbabel, Judas guvernør
+//4 :
+
+//5 Snart vil jeg ryste himmelen og jorden.
+
+//7 v22 Jeg vælter rigernes troner
+
+//8 og ødelægger folkeslagenes rigers styrke,
+
+//8 og jeg vælter vogne og deres ryttere,
+
+//9 heste og deres ryttere styrter
+
+//10 for hinandens sværd. 
+
+//6 v23 På den dag,
+//11 erklærer Hærskarers HERRE,
+//10 vil jeg tage dig,
+//9 Zerubbabel, Shealtiels søn, min tjener,
+//8 erklærer HERREN, og sætte dig som en signetring,
+//8 for dig har jeg udvalgt,
+//9 erklærer Hærskarers HERRE.<<
