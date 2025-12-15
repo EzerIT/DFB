@@ -30,7 +30,7 @@ $chap['zak']      = range(1,14);
 $chap['matt']     = range(1,28);
 $chap['mark']     = range(1,16);
 $chap['luk']      = [1,2,5,7,10,11,14,15,16,17,18,19,21,24];
-$chap['joh']      = [1,2,3,4,6,10,14,15,16,20];
+$chap['joh']      = [1,2,3,4,5,6,7,8,9,10,14,15,16,20];
 $chap['apg']      = [1,2,6,7,10];
 $chap['gal']      = range(1,6);
 $chap['ef']       = range(1,6);
@@ -282,7 +282,12 @@ $style['zak']     = $modenhed['uden indrykning'];
 $style['matt']    = $modenhed['uden indrykning'];
 $style['mark']    = $modenhed['uden indrykning'];
 $style['luk']     = $modenhed['ufuldstændigt'];
-$style['joh']     = $modenhed['ufuldstændigt'];
+
+for ($k=1; $k<=10; ++$k)
+    $style['joh'][$k] = $modenhed['uden indrykning'];
+for ($k=11; $k<=21; ++$k)
+    $style['joh'][$k] = $modenhed['ufuldstændigt'];
+
 $style['apg']     = $modenhed['ufuldstændigt'];
 $style['rom']     = $modenhed['uden indrykning'];
 $style['1kor']    = $modenhed['uden indrykning'];

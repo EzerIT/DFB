@@ -1,16 +1,25 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 13.10.2021>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 4===
 
-v46 Han kom da atter til Kana i Galilæa, hvor han havde gjort vandet til vin. Og der var en kongelig embedsmand hvis søn lå syg i Kapernaum.
-v47 Da denne hørte at Jesus var kommet fra Judæa til Galilæa, gik han til ham og bad om at han ville komme ned og helbrede hans søn; for han lå for døden.
-v48 Da sagde Jesus til ham: >>Hvis I ikke ser tegn og undere, vil I absolut ikke tro.<<
-v49 Embedsmanden sagde til ham: >>Herre! Kom derned før mit barn dør.<<
-v50 Jesus sagde til ham: >>Gå, din søn lever.<< Manden troede det ord Jesus sagde til ham, og gik.
-v51 Men allerede mens han var på hjemvejen,{T: Ordret: >>på vej ned<<.} mødte hans tjenere ham og meddelte at hans barn levede.
-v52 Da spurgte han dem ud om den time i hvilken han fik det bedre; og de sagde til ham: >>I går ved den syvende time forlod feberen ham.<<
-v53 Da forstod faderen at det var sket i den time, da Jesus sagde til ham: >>Din søn lever.<< Og han selv og hele hans hus kom til tro.
+
+==Den samaritanske kvinde==
+
+v1 Da nu Jesus vidste at farisæerne havde hørt at Jesus vandt og døbte flere disciple end Johannes v2 – dog døbte Jesus ikke selv, men hans disciple – v3 forlod han Judæa og gik bort igen til Galilæa. v4 Men det var nødvendigt at han drog gennem Samaria. v5 Han kom da til en by i Samaria, som hedder Sykar, nær ved det stykke land som Jakob gav til sin søn Josef, v6 og dér var Jakobs kilde. Da Jesus var blevet træt af rejsen, satte han sig så ved kilden; det var ved den sjette time.
+v7 En kvinde fra Samaria kommer for at hente vand. Jesus siger til hende: >>Giv mig noget at drikke.<< v8 For hans disciple var gået hen til byen for at købe mad. v9 Den samaritanske kvinde siger da til ham: >>Hvordan kan du, som er en jøde, bede mig, som er en samaritansk kvinde, om noget at drikke?<< For jøderne omgås ikke samaritanerne. v10 Jesus svarede hende: >>Hvis du kendte Guds gave og hvem det er, som siger til dig: Giv mig noget at drikke, ville du bede ham, og han ville have givet dig levende vand.<< v11 Kvinden siger til ham: >>Herre, du har ikke en spand, og brønden er dyb; hvorfra vil du da få det levende vand? v12 Er du større end vores far Jakob, som gav os brønden, og han drak selv af brønden, og hans sønner og hans kvæg?<< v13 Jesus svarede hende: >>Enhver som drikker af dette vand, vil tørste igen, v14 men den som drikker af det vand som jeg vil give ham, vil aldrig{T: Ordret: >>ikke i evighed<<.} tørste igen, ja, det vand som jeg vil give ham, vil i ham blive en kilde med vand som strømmer til evigt liv.<<
+
+v15 Kvinden siger til ham: >>Herre, giv mig dette vand, for at jeg ikke skal tørste og gå her ud og hente vand.<< v16 Han siger til hende: >>Gå og kald på din mand, og kom her.<< v17 Kvinden svarede ham: >> Jeg har ikke en mand.<< Jesus siger til hende: >>Du siger korrekt: >Jeg har ikke en mand,< v18 for du har haft fem mænd, og den du har nu, er ikke din mand; i dette har du talt sandt.<< v19 Kvinden siger til ham: >>Herre, jeg ser at du er en profet. v20 Vores fædre har tilbedt på dette bjerg, og I siger at i Jerusalem er stedet, hvor man skal tilbede.<< v21 Jesus siger til hende: >>Tro mig, kvinde, at der kommer en time da I hverken vil tilbede Faderen på dette bjerg eller i Jerusalem. v22 I tilbeder det I ikke kender, vi tilbeder det, vi kender, for frelsen er fra jøderne. v23 Men en time kommer og er nu, da de sande tilbedere vil tilbede Faderen i ånd og sandhed, for Faderen søger dem som tilbeder ham på denne måde. v24 Gud er ånd, og de som tilbeder ham, skal tilbede ham i ånd og sandhed.<< v25 Kvinden siger til ham: >>Jeg ved at Messias kommer, han som kaldes Kristus; når han kommer, vil han forkynde os alt.<< v26 Jesus siger til hende: >>Det er mig som taler til dig.<<
+
+v27 Netop da kommer hans disciple, og de undrer sig over at han talte med en kvinde; dog sagde ingen: >>Hvad søger du?<< eller: >>Hvorfor taler du med hende?<< v28 Kvinden forlod nu sin vandkrukke og gik hen til byen og siger til folk: v29 >>Kom og se en mand som har sagt alt hvad jeg har gjort. Mon han er Messias?<< v30 De gik ud af byen og kom til ham.
+v31 I mellemtiden sagde disciplene til ham: >>Rabbi, spis.<< v32 Men han sagde til dem: >>Jeg har mad at spise som I ikke kender.<< v33 Disciplene siger da til hinanden: >>Mon nogen har bragt ham noget at spise?<< v34 Jesus siger til dem: >>Min mad er at gøre hans vilje, som sendte mig, og fuldende hans gerning. v35 Siger I ikke: Der er endnu fire måneder, og så kommer høsten? Se, jeg siger jer: Løft jeres øjne og se at markerne er hvide til høst. v36 Den der høster, får allerede sin løn og samler frugt til evigt liv, for at den der sår, kan glæde sig sammen med den der høster. v37 For her er ordet sandt: Der er en som sår, og der er en anden som høster. v38 Jeg har sendt jer for at høste det som I ikke har arbejdet med; andre har arbejdet, og I er gået ind i deres arbejde.<<
+
+v39 Men fra den by kom mange af samaritanerne til tro på ham på grund af kvindens ord, da hun vidnede: >>Han har sagt mig alt hvad jeg har gjort.<< v40 Da nu samaritanerne kom til ham, bad de ham om at blive hos dem, og han blev der to dage. v41 Mange flere kom til tro på grund af hans ord, v42 og de sagde til kvinden: >>Vi tror ikke mere på grund af din tale, for vi har selv hørt og ved at han sandelig er verdens frelser.<<
+
+==Den kongelige embedsmand==
+
+v43 Men efter to dage gik han derfra til Galilæa, v44 for Jesus vidnede selv at en profet ikke er anerkendt i sit eget land. v45 Da nu Jesus kom til Galilæa, modtog galilæerne ham fordi de havde set alt det han havde gjort i Jerusalem under festen, for de var selv kommet til festen. v46 Han kom så igen til Kana i Galilæa, hvor han havde forvandlet vand til vin. Der var en kongelig embedsmand hvis søn lå syg i Kapernaum. v47 Han hørte at Jesus er kommet fra Judæa til Galilæa, og han gik hen til ham og bad ham om at drage ned og helbrede hans søn, for han var ved at dø. v48 Så sagde Jesus til ham: >>Hvis I ikke ser tegn og undere, vil I ikke tro.<< v49 Den kongelige embedsmand siger til ham: >>Herre, drag ned før min søn dør.<< v50 Jesus siger til ham: >>Gå, din søn lever.<< Manden troede det ord som Jesus havde sagt til ham, og gik. v51 Men allerede mens han var på vej, mødte hans tjenere ham og sagde at hans søn levede. v52 Da spurgte han dem ud om den time hvor han fik det bedre. De sagde da til ham: >>I går ved den syvende time forlod feberen ham.<<
+v53 Faderen forstod da at det var i den time hvor Jesus havde sagt til ham: >>Din søn lever,<< og han og hele hans hus troede. v54 Men dette andet tegn gjorde Jesus da han kom fra Judæa til Galilæa.
+

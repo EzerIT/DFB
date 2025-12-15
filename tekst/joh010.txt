@@ -1,14 +1,29 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 07.04.2021>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 10===
 
-v11 Jeg er den gode hyrde; den gode hyrde sætter sit liv ind for fårene.
-v12 Men lejesvenden, som ikke er hyrde, og som fårene ikke hører til, ser ulven komme og forlader fårene og flygter - og ulven røver dem og spreder dem -
-v13 fordi han er lejesvend, og fårene ikke betyder noget for ham.
-v14 Jeg er den gode hyrde, og jeg kender mine, og mine kender mig,
-v15 ligesom Faderen kender mig, og jeg kender Faderen; og jeg sætter mit liv ind for fårene.
-v16 Og jeg har andre får som ikke hører til denne fold; også dem skal jeg lede, og de skal høre min røst; og der skal blive én hjord, én hyrde.
+
+==Lignelsen om tyven og hyrden==
+
+v1 Sandelig, sandelig siger jer: Den som ikke går ind gennem døren til fårenes indhegning, men klatrer over andetsteds, han er en tyv og røver. v2 Men den som går gennem porten, er fårenes hyrde. v3 For ham åbner dørvogteren, og fårene hører hans stemme, og han kalder sine egne får ved navn og fører dem ud. v4 Når han har ført alle sine egne ud, går han foran dem, og fårene følger ham fordi de kender hans stemme. v5 En fremmed følger de ikke, men de vil flygte fra ham, fordi de ikke kender de fremmedes stemme.<< v6 Jesus fortalte dem denne lignelse, men de forstod ikke, hvad det var han talte til dem. v7 Så sagde Jesus igen: >>Sandelig, sandelig siger jeg jer: Jeg er døren til fårene. v8 Alle dem som er kommet før mig, er tyve og røvere, men fårene hørte dem ikke. v9 Jeg er døren. Hvis nogen går ind gennem mig, vil han blive frelst, og han vil gå ind og gå ud og finde græsgange. v10 Tyven kommer kun for at stjæle, slagte og ødelægge; jeg er kommet for at de skal have liv og have overflod.
+
+==Lignelsen om den gode hyrde==
+
+v11 Jeg er den gode hyrde. Den gode hyrde sætter sit liv til for fårene, v12 den som er daglejer og ikke hyrde, og som ikke ejer sine egne får, han ser ulven komme, og han forlader fårene og flygter, og ulven griber dem og spreder dem, v13 fordi han er en daglejer og ikke bryder sig om fårene.
+
+v14 Jeg er den gode hyrde, og jeg kender mine, og mine kender mig, v15 ligesom Faderen kender mig, og jeg kender Faderen, og jeg sætter mit liv til for fårene. v16 Jeg har andre får, som ikke tilhører denne indhegning, og dem skal jeg også lede, og de vil høre min stemme, og der vil blive én hjord, én hyrde.
+
+v17 Derfor elsker Faderen mig fordi jeg sætter mit liv til for at tage det tilbage. v18 Ingen tager det fra mig, men jeg sætter det til af mig selv. Jeg har magt til at sætte det til, og jeg har magt til at tage det tilbage. Dette bud har jeg modtaget af min Far.<<
+
+v19 Der blev igen splittelse blandt jøderne på grund af disse ord. v20 Mange af dem sagde: >>Han er besat og vanvittig. Hvem kan holde ud at høre på ham.<< v21 Andre sagde: >>Disse ord kommer ikke fra en dæmonbesat. Kan en dæmon åbne blindes øjne?<<
+
+==Festen for genindvielsen af templet==
+
+v22 Derefter kom festen for genindvielsen af templet i Jerusalem. Det var vinter, v23 og Jesus vandrede rundt i templet, i Salomons søjlegang. v24 Så omringede jøderne ham og sagde til ham: >>Hvor længe vil du holde os hen? Hvis du er Kristus, så sig det åbent.<< v25 Jesus svarede dem: >>Jeg har sagt jer det, og I tror det ikke. De gerninger som jeg gør i min Fars navn, de vidner om mig, v26 men I tror ikke, for I tilhører ikke mine får. v27 Mine får hører min stemme, og jeg kender dem, og de følger mig, v28 og jeg giver dem evigt liv, og de vil aldrig i evighed gå fortabt, og ingen skal rive dem ud af min hånd. v29 Det som min Far har givet mig, er større end alt.{T: Alternativ læsemåde: >>Min Far, som har givet dem til mig, er større end alt.<<} v30 Jeg og Faderen, vi er ét.<<
+
+v31 Jøderne tog igen sten op for at stene ham. v32 Jesus svarede dem: >>Jeg har vist jer mange gode gerninger fra Faderen; for hvilken af dem vil I stene mig?<< v33 Jøderne svarede ham: >>Vi vil ikke stene dig for en god gerning, men for gudsbespottelse fordi du gør dig selv til Gud, skønt du er et menneske.<< v34 Jesus svarede dem: >>Står der ikke skrevet i jeres lov: Jeg har sagt: I er guder? v35 Når han har kaldt dem guder, som Guds ord er kommet til, og Skriften kan ikke brydes, v36 siger I så til ham, som Faderen har helliget og sendt til verden: Du spotter Gud, fordi jeg har sagt: Jeg er Guds søn? v37 Hvis jeg ikke udfører min Fars gerninger, så tro mig ikke, v38 men hvis jeg udfører dem, skønt I ikke tror mig, så tro på grund af gerningerne for at I må begynde at forstå og fortsat forstå at Faderen er i mig og jeg i Faderen.<< v39 Så søgte de igen at gribe ham, men han undslap dem.
+
+v40 Han drog igen bort til den anden side af Jordan, til det sted hvor Johannes tidligere døbte, og han blev dér. v41 Mange kom til ham, og de sagde: >>Johannes gjorde intet tegn, men alt hvad Johannes sagde om ham, var sandt.<< v42 Og mange kom til tro på ham dér.

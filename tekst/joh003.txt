@@ -1,28 +1,20 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 19.05.2021>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 3===
-v1 Der var en mand af farisæerne, hans navn var Nikodemus, en af jødernes rådsherrer.
-v2 Han kom til ham om natten og sagde til ham: >>Rabbi! Vi ved at du er en lærer der er kommet fra Gud; for ingen kan gøre de tegn du gør, medmindre Gud er med ham.<<
-v3 Jesus svarede ham: >>Sandelig,{T: Græsk: *amen*.} sandelig, siger jeg dig, medmindre nogen bliver født på ny,{T: Kan også oversættes: >>ovenfra<<.} kan han ikke se Guds rige.<<
-v4 Nikodemus sagde til ham: >>Hvorledes kan et menneske blive født når det er gammelt? Kan det for anden gang komme ind i sin mors liv og blive født?<<
-v5 Jesus svarede: >>Sandelig, sandelig, siger jeg dig, medmindre nogen bliver født af vand og Ånd, kan han ikke komme ind i Guds rige.
-v6 Hvad der er født af kødet, er kød; og hvad der er født af Ånden, er ånd.
-v7 Du skal ikke undre dig over at jeg sagde til dig: I må fødes på ny.{T: Se note til vers 3.}
-v8 Vinden blæser hvorhen den vil, og du hører dens susen,{T: Ordret: >>dens lyd<<.} men du ved ikke hvorfra den kommer, og hvor den farer hen; således er enhver som er født af Ånden.<<
-v9 Nikodemus svarede ham: >>Hvorledes kan disse ting ske?<<
-v10 Jesus svarede ham: >>Du er Israels lærer og forstår ikke disse ting?
-v11 Sandelig, sandelig, siger jeg dig: Vi taler om det vi ved, og vidner om det vi har set; og I tager ikke imod vores vidnesbyrd.
-v12 Når jeg har talt med jer om de jordiske ting, og I ikke tror det, hvordan skal I da tro når jeg taler med jer om de himmelske?
-v13 Ingen er steget op til himlen, undtagen han som steg ned fra himlen, Menneskesønnen.{T: Nogle manuskripter tilføjer: >>som er i himlen<<.}
-v14 Og ligesom Moses ophøjede slangen i ørkenen, således må{T: Med guddommelig nødvendighed.} Menneskesønnen ophøjes
-v15 for at enhver som tror, skal have evigt liv i ham.
-v16 For således elskede Gud verden at han gav Den enbårne søn for at enhver som tror på ham, ikke skal fortabes, men have evigt liv.
-v17 For Gud sendte ikke sønnen til verden for at dømme verden, men for at verden skal frelses ved ham.
-v18 Den som tror på ham, dømmes ikke; men den som ikke tror, er allerede dømt fordi han ikke har troet på Guds enbårne søns navn.
-v19 Dette er dommen, at lyset er kommet til verden, og menneskene elskede mørket mere end lyset; for deres gerninger var onde.
-v20 For enhver som øver ondt, hader lyset og kommer ikke til lyset for at hans gerninger ikke skal afsløres.
-v21 Men den som gør sandheden, kommer til lyset for at hans gerninger må blive åbenbaret; for de er gjort i Gud.<<
+
+
+==Nikodemus==
+
+v1 Der var et menneske blandt farisæerne, han hed Nikodemus, en rådsherre blandt jøderne; v2 han kom til ham{T: Jesus.} om natten og sagde til ham: >>Rabbi, vi ved at du er en lærer som er kommet fra Gud, for ingen kan gøre de tegn du gør, uden Gud er med ham.<< v3 Jesus svarede ham: >>Sandelig, sandelig siger jeg dig: Hvis ikke nogen er blevet født på ny, kan han ikke se Guds rige.<< v4 Nikodemus siger til ham: >>Hvordan kan et menneske blive født når det er gammelt? Kan det for anden gang komme ind i sin mors liv og blive født?<< v5 Jesus svarede: >>Sandelig, sandelig siger jeg dig: Hvis ikke nogen er blevet født af vand og Ånd, kan han ikke gå ind i Guds rige. v6 Det som er blevet født af kødet, er kød og det, som er blevet født af Ånden, er ånd. v7 Du må ikke undre dig over at jeg har sagt til dig: Det er nødvendigt at I bliver født på ny. v8 Ånden blæser hvor den vil, og du hører dens susen, men du ved ikke hvorfra den kommer, og hvor den går hen, således er det det med enhver som er blevet født af Ånden.<< v9 Nikodemus svarede ham: >>Hvordan kan dette ske?<< v10 Jesus svarede ham: >>Er du Israels lærer og forstår ikke dette? v11 Sandelig, sandelig siger dig: Vi taler om det vi ved, og vi vidner om det vi har set, og vores vidnesbyrd tager I ikke imod. v12 Når jeg har talt til jer om det jordiske, og I ikke tror, hvordan vil I så tro når jeg taler til jer om det himmelske? v13 Ingen er steget op til himlen, men Menneskesønnen er steget ned fra himlen.
+
+v14 Ligesom Moses ophøjede slangen i ørkenen, således skal Menneskesønnen ophøjes v15 for at enhver som tror på ham, skal have evigt liv. v16 For således elskede Gud verden at han gav sin eneste søn for at enhver som tror på ham, ikke skal fortabes, men have evigt liv. v17 For Gud sendte ikke sin søn til verden for at fordømme verden, men for at frelse verden ved ham. v18 Den som tror på ham, fordømmes ikke, men den som ikke tror, er allerede fordømt fordi han ikke har troet på Guds eneste søns navn. v19 Og dette er fordømmelsen, at lyset er kommet til verden, og menneskene elskede mørket i stedet for lyset, for deres gerninger var onde. v20 For enhver som praktiserer ondt, hader lyset og kommer ikke til lyset for at hans gerninger ikke skal afsløres, v21 men den som praktiserer sandheden, kommer til lyset for at det skal åbenbares at hans gerninger er virket i Gud.<<
+
+==Dåb og vidnesbyrd==
+
+v22 Derefter kom Jesus og hans disciple til Judæas land, og han opholdt sig dér sammen med dem og døbte. v23 Men også Johannes døbte i Ænon nær Salem fordi der var meget vand dér, og folk kom og blev døbt, v24 for Johannes var endnu ikke blevet kastet i fængsel.
+
+v25 Da opstod der en diskussion mellem nogle af Johannes’ disciple og en jøde om renselse. v26 De kom til Johannes og sagde til ham: >>Rabbi, han, som var hos dig på den anden side af Jordan, som du har vidnet om, se, han døber, og alle kommer til ham.<< v27 Johannes svarede: >>Et menneske kan ikke tage noget som helst uden at det er blevet givet ham fra himlen. v28 I kan selv vidne for mig at jeg har sagt: Jeg er ikke Kristus, men jeg er udsendt forud for ham. v29 Den som har bruden, er brudgommen, men brudgommens ven, som står og hører ham, glæder sig virkelig over brudgommens stemme. Altså er denne min glæde blevet fuldkommen. v30 Han skal vokse, men jeg blive mindre. v31 Den som kommer fra oven, er over alle; den som er af jorden, er af jorden og taler af jorden. Den som kommer fra himlen, er over alle. v32 Hvad han har set og hørt, vidner han om, og ingen tager imod hans vidnesbyrd. v33 Den som har taget imod vidnesbyrdet, har beseglet at Gud er sandfærdig. v34 For han som Gud har udsendt, taler Guds ord, for han giver ikke Ånden efter mål. v35 Faderen elsker sønnen og har givet alt i hans hånd. v36 Den som tror på sønnen, har evigt liv, men den som er ulydig mod sønnen, vil ikke se livet, men Guds vrede bliver over ham.<<
+

@@ -1,24 +1,34 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 03.03.2021>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 6===
 
-v1 Derefter drog Jesus over til den anden side af Galilæas Sø, Tiberias-søen.
-v2 En stor skare fulgte ham fordi de så de tegn han gjorde på de syge.
-v3 Men Jesus gik op på bjerget og satte sig der med sine disciple.
-v4 Påsken, jødernes højtid, var nær.
-v5 Da Jesus nu løftede blikket og så at en stor skare kom hen til ham, sagde han til Filip: >>Hvor kan vi købe brød så alle disse kan få noget at spise?<<
-v6 Men dette sagde han for at prøve ham; for han vidste selv hvad han ville gøre.
-v7 Filip svarede ham: >>Brød for 200 denarer er ikke nok til at enhver kan få bare lidt.<<
-v8 En af hans disciple, Andreas, Simon Peters broder, sagde til ham:
-v9 >>Her er en lille dreng som har fem bygbrød og to småfisk; men hvad er det til så mange?<<
-v10 Jesus sagde: >>Få folk til at sætte sig ned.<< Der var meget græs på stedet. Da satte mændene sig ned, omtrent 5.000 i alt.
-v11 Så tog Jesus brødene og takkede og delte dem ud til dem der havde sat sig ned; ligeledes også af småfiskene, så meget de ville have.
-v12 Men da de var blevet mætte, sagde han til sine disciple: >>Saml de tiloversblevne stykker sammen for at intet skal gå til spilde.<<
-v13 Da samlede de sammen og fyldte tolv kurve med det der var blevet tilovers af de fem bygbrød fra dem som havde fået mad.
-v14 Da nu folkene så det tegn han havde gjort, sagde de: >>Han er i sandhed profeten der skal komme til verden.<<
-v15 Da Jesus nu fornemmede at de ville komme og tage ham med magt for at gøre ham til konge, gik han atter op på bjerget, helt alene.
+
+==Bespisningen af de 5000==
+
+v1 Derefter drog Jesu bort til den anden side af Galilæa Sø, Tiberias’ Sø, men en stor skare fulgte efter ham fordi de så de tegn, han gjorde på de syge. v3 Men Jesus gik op på bjerget og satte sig dér med sine disciple. v4 Påsken, jødernes fest, var nær.
+
+v5 Da Jesus så løftede sine øjne og så at en stor skare kommer til ham, siger han til Filip: >>Hvor skal vi købe brød for at de kan spise?<< v6 Men dette sagde han for at prøve ham, for han vidste selv hvad han ville gøre. v7 Filip svarede ham: >>Brød for to hundrede denarer er ikke nok til dem, så enhver kan få en smule.<< v8 En af hans disciple, Andreas, Simon Peters bror, siger til ham: v9 >>Der er en lille dreng her som har fem bygbrød og to fisk, men hvad er det til så mange?<< v10 Jesus sagde: >>Få menneskene til at sætte sig.<< Der var meget græs på det sted. Så satte mændene sig ned, der var cirka 5000. v11 Så tog Jesus brødene, så op mod himlen, takkede og delte dem ud til dem som sad ned, og på samme måde af fiskene, så meget de ville have. v12 Men da de var blevet mætte, siger han til sine disciple: >>Saml de stykker der er til overs, for at intet skal gå til spilde.<< v13 De samlede da og fyldte tolv kurve med rester fra de fem bygbrød, som var blevet til overs efter dem som havde spist. v14 Da nu folkene så det tegn han havde udført, sagde de: >>Han er virkelig Profeten, som kommer til verden.<< v15 Da Jesus forstod at de ville komme og gribe ham for at gøre ham til konge, drog han igen bort til bjerget alene.
+
+==Vandringen på søen==
+
+v16 Da det var blevet aften, gik hans disciple ned til søen, v17 og de gik ombord i båden og sejlede mod den anden side af søen til Kapernaum. Det var allerede blevet mørkt, og Jesus var endnu ikke kommet til dem, v18 men søen rejste sig, da der blæste en stærk vind. v19 Da de nu havde roet cirka 25 til 30 stadier, ser de Jesus vandre på søen og komme nær båden, og de blev grebet af frygt. v20 Men Jesus siger til dem: >>Det er mig, frygt ikke.<< v21 Så ville de tage ham op i båden, og straks kom båden til det land de sejlede mod.
+
+==Dialogen om livets brød==
+
+v22 Den næste dag så skaren, som stod på den anden side af søen, at der kun havde været én båd, og at Jesus ikke var gået sammen med disciplene til båden, men at hans disciple tog afsted alene, v23 men der kom både fra Tiberias nær til det sted hvor de havde spist efter at Herren havde takket for brødene. v24 Da nu skaren så at Jesus og hans disciple ikke var der, steg de ombord i bådene, og de kom til Kapernaum for at søge efter Jesus. v25 Da de fandt ham på den anden side af søen, sagde de ham: >>Rabbi, hvornår er du kommet hertil?<<
+
+v26 Jesus svarede dem: >>Sandelig, sandelig siger jeg jer: I søger mig ikke fordi I har set tegn, men fordi I spiste af brødene og blev mætte. v27 I skal ikke arbejde for den mad som går til grunde, men for den mad som forbliver til evigt liv, den mad som Menneskesønnen vil give jer, for Faderen, Gud, har beseglet ham.<< v28 De sagde da til ham: >>Hvad skal vi gøre for at udføre Guds gerninger.<< v29 Jesus svarede dem: >>Dette er Guds gerning, at I tror på ham som han har udsendt.<< v30 Så sagde de til ham: >>Hvilket tegn gør du for at vi kan se og tro dig? Hvad virker du? v31 Vores fædre spiste manna i ørkenen, ligesom der står skrevet: Han gav dem brød fra himlen at spise.<< v32 Så sagde Jesus til dem: >>Sandelig, sandelig siger jeg jer: Moses har ikke givet jer brødet fra himlen, men min Far giver jer det sande brød fra himlen, v33 for Guds brød er det der stiger ned fra himlen og giver liv til verden.<< v34 Da sagde de til ham: >>Herre, giv os altid dette brød.<< v35 Jesus sagde til dem: >>Jeg er livets brød. Den som kommer til mig, skal ikke sulte, og den som tror på mig, skal aldrig tørste.<<
+
+v36 >>Men jeg har sagt at I har set mig, og dog tror I ikke. v37 Alt hvad Faderen giver mig, vil komme til mig, og den som kommer til mig, vil jeg aldrig bortvise, v38 for jeg er ikke steget ned fra himlen for at udføre min vilje, men hans vilje, som sendte mig. v39 Og dette er hans vilje, som sendte mig, at jeg ikke skal miste noget af alt det Gud har givet mig, men jeg vil oprejse det på den sidste dag. v40 Ja, dette er min Fars vilje, at enhver som ser Sønnen og tror på ham, skal have evigt liv, og jeg vil oprejse ham på den sidste dag.<<
+
+v41 Så blev jøderne fortørnede over ham fordi han sagde: >>Jeg er brødet, som er steget ned fra himlen,<< v42 og de sagde: >>Er han ikke Jesus, Josefs søn, hvis far og mor vi kender? Hvordan kan han nu sige at han er stegt ned fra himlen?<< v43 Jesus svarede dem: >>Vær ikke fortørnede indbyrdes. v44 Ingen kan komme til mig uden at Faderen, som sendte mig, drager ham, og jeg vil oprejse ham på den sidste dag. v45 Der står skrevet hos profeterne: Alle vil blive undervist af Gud. Enhver som har hørt faderen og lært, kommer til mig. v46 Det er ikke sådan at nogen har set Faderen udtagen ham som er fra Faderen, og han har set Faderen. v47 Sandelig, sandelig siger jeg jer: Den som tror, har evigt liv. v48 Jeg er livets brød. v49 Jeres fædre spiste manna i ørkenen og døde, v50 Dette er brødet som stiger ned fra himlen for at man skal spise af det og ikke dø. v51 Jeg er det levende brød som er steget ned fra himlen; hvis nogen spiser af dette brød, skal han leve evigt, og det brød som jeg vil give, er mit kød til liv for verden.<<
+
+v52 Så diskuterede jøderne indbyrdes og sagde: >>Hvordan kan han give os sit kød at spise?<< v53 Jesus sagde da til dem: >>Sandelig, sandelig siger jeg jer: Hvis I ikke spiser Menneskesønnens kød og drikker hans blod, har I ikke liv i jer selv. v54 Den som spiser mit kød og drikker mit blod, har evigt liv, og jeg vil oprejse ham på den sidste dag. v55 For mit kød er sand mad, og mit blod er sand drik. v56 Den som spiser mit kød, og den som drikker mit blod, bliver i mig og jeg i ham. v57 Ligesom den levende Fader har udsendt mig, og jeg lever på grund af Faderen, så vil også han som spiser mig, leve på grund af mig. v58 Dette er brødet som er steget ned fra himlen, og det er ikke ligesom da fædrene spiste og døde, den som spiser dette brød, vil leve evigt.<< v59 Dette sagde han da han underviste i synagogen i Kapernaum.
+
+v60 Da mange af hans disciple hørte dette, sagde de: >>Dette er en hård tale. Hvem kan høre på den?<< v61 Men da Jesus vidste ved sig selv at hans disciple var fortørnede over dette, sagde han til dem: >>Tager I anstød af det? v62 Hvad da hvis I ser Menneskesønnen stige op til hvor han var tidligere? Det er Ånden som gør levende; kødet gavner intet, de ord jeg har talt til jer, er Ånd og er liv. v64 Men der er nogle af jer som ikke tror.<< For Jesus vidste fra begyndelsen hvem det er som ikke tror, og hvem det er som vil forråde ham. v65 Han sagde: >>Derfor har jeg sagt jer at ingen kan komme til mig uden det er givet ham af Faderen.<<
+
+v66 Derfor forlod mange af hans disciple ham og vandrede ikke mere med ham. v67 Da sagde Jesus til de tolv: >>Vil også ikke forlade mig?<< v68 Simon Peter svarede ham: >>Herre, til hvem skal vi gå? Du har det evige livs ord, v69 og vi er kommet til tro og har erkendt at du er Guds hellige.<< v70 Jesus svarede dem: >>Har jeg ikke udvalgt jer tolv, og en af jer er en djævel?<< v71 Han talte om Judas, søn af Simon Iskariot, en af de tolv, for han skulle forråde ham.
 

@@ -1,20 +1,16 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 12.01.2022>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 2===
 
-v1 Den tredje dag var der bryllup i Kana i Galilæa; og Jesu mor var med.
-v2 Også Jesus og hans disciple var budt med til brylluppet.
-v3 Da nu vinen slap op, siger Jesu mor til ham: >>De har ikke mere vin.<<
-v4 Men Jesus siger til hende: >>Hvad vil du mig,{T: Ordret: >>Hvad (er der) mellem mig og dig?>>} kvinde? Endnu er min time ikke kommet.<<
-v5 Hans mor siger til tjenerne: >>Hvad som helst han siger til jer, det skal I gøre.<<
-v6 Men efter jødernes renselsesskik var der sat seks vandkar af sten frem, de rummede hver to til tre spande.
-v7 Jesus siger til dem: >>Fyld vandkarrene med vand.<< Og de fyldte dem helt op.
-v8 Så siger han til dem: >>Øs nu op og bring det til skafferen.<< Og de bar det til ham.
-v9 Men da skafferen smagte vandet som var blevet til vin, og ikke vidste hvorfra det kom, men tjenerne som havde øst vandet op, vidste det, kalder skafferen på brudgommen
-v10 og siger til ham: >>Ethvert menneske sætter først den gode vin frem, og når folk er blevet fulde, da den ringere; du har gemt den gode vin indtil nu.<<
-v11 Denne begyndelse på tegnene gjorde Jesus i Kana i Galilæa, og han åbenbarede sin herlighed; og hans disciple troede på ham.
+
+==Brylluppet i Kana==
+
+v1 På den tredje dag var der bryllup i Kana i Galilæa, og Jesu mor var der. v2 Men også Jesus og hans disciple blev indbudt til brylluppet. v3 Da der manglede vin, siger Jesu mor til ham: >>De har ikke mere vin.<< v4 Jesus siger til hende: >>Hvad har jeg med dig at gøre, kvinde? Min time er endnu ikke kommet.<< v5 Hans mor siger til tjenerne: >>Hvad som helst han siger til jer, skal I gøre.<< v6 Men der stod dér seks sten vandkar til jødernes renselse, hver rummede to eller tre spande. v7 Jesus siger til dem: >>Fyld karrene med vand.<< De fyldte dem til kanten. v8 Han siger til dem: >>Øs nu og bring det til overtjeneren.<< De bragte det. v9 Men da overtjeneren smagte vandet, som var blevet til vin, og ikke vidste hvorfra det kom, men tjenerne som havde øst vandet, vidste det, kalder overtjeneren på brudgommen v10 og siger til ham: >>Ethvert menneske sætter først den gode vin frem, og når de er blevet fulde, den ringere. Du har beholdt den gode indtil nu.<< v11 Jesus gjorde denne begyndelse på sine tegn i Kana i Galilæa, og han åbenbarede sin herlighed, og hans disciple troede på ham.
+
+==Tempelrensningen==
+
+v12 Derefter drog han, hans mor, hans brødre og hans disciple ned til Kapernaum, og de blev dér nogle få dage. v13 Jødernes påske var nær, og Jesus drog op til Jerusalem. v14 I templet fandt han dem som solgte okser, får og duer, og vekselererne, som sad dér, v15 og han lavede en pisk af reb og drev alle ud af templet, både får og okser, og han spredte vekselerernes penge og væltede deres borde, v16 og til dem som solgte duer, sagde han: >>Tag dette bort herfra, gør ikke min Fars hus til en markedsplads.<< v17 Hans disciple huskede at der står skrevet: >>Lidenskab for dit hus vil fortære mig.<< v18 Så sagde jøderne til ham: >>Hvilket tegn viser du os siden du gør dette?<< v19 Jesus svarede dem: >>Hvis I nedbryder dette tempel, vil jeg rejse det på tre dage.<< v20 Da sagde jøderne: >>Dette tempel er der blevet bygget på 46 år, og du vil rejse det på tre dage?<< v21 Men han tale om sin krops tempel. v22 Da han så var blevet oprejst fra de døde, huskede hans disciple at han havde sagt dette, og de troede Skriften og det ord Jesus havde sagt. v23 Mens han var i Jerusalem under påskefesten, kom mange til tro på hans navn fordi de så de tegn han gjorde, v24 men Jesus selv betroede sig ikke til dem fordi han kendte alle, v25 og fordi han ikke havde brug for at nogen vidnede om mennesket, for han vidste selv, hvad der var i mennesket.
 

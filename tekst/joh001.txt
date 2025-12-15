@@ -1,18 +1,39 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 09.12.2021>!!
+!!<Oversættelse: Torben Kjær>!!
+!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
+!!<Literært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 15.12.2025>!!
 
 ===Johannesevangeliet, kapitel 1===
 
-v19 Dette er Johannes' vidnesbyrd da jøderne{T: Det græske ord her går i Johannesevangeliet oftest på de jødiske ledere.} fra Jerusalem sendte præster og levitter ud for at de skulle spørge ham: >>Hvem er du?<<
-v20 Da bekendte han og nægtede ikke; han bekendte: >>Jeg er ikke Kristus.<<
-v21 De spurgte ham: >>Hvad da? Er du Elias?<< Han sagde: >>Det er jeg ikke.<< >>Er du Profeten?<< Og han svarede: >>Nej.<<
-v22 Da sagde de til ham: >>Hvem er du? For at vi kan give dem som har udsendt os, et svar; hvad siger du om dig selv?<<
-v23 Han sagde: >>Jeg er en røst af en som råber i ørkenen: Jævn Herrens vej, som profeten Esajas har sagt.<<
-v24 De var udsendt fra farisæerne,
-v25 og de spurgte ham: >>Hvorfor døber du da, hvis du ikke er Kristus eller Elias eller Profeten?<<
-v26 Johannes svarede dem: >>Jeg døber med vand; midt iblandt jer står den I ikke kender,
-v27 han som kommer efter mig, hvis skorem jeg ikke er værdig at løse.<<
-v28 Dette skete i Betania på den anden side af Jordan, hvor Johannes døbte.
+==Prologen==
+
+v1 I begyndelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud. v2 Han var i begyndelsen hos Gud. v3 Alt blev til ved ham, og uden ham blev ikke et eneste til af det som er blevet til. v4 I ham var livet, og livet var lyset for mennesker, v5 og lyset skinner i mørket, og mørket fik ikke magt over det.
+
+v6 Et menneske trådte frem; han var udsendt af Gud, og hans navn var Johannes. v7 Han kom som et vidnesbyrd for at vidne om lyset for at alle skulle tro ved ham. v8 Han var ikke lyset, men han kom for at vidne om lyset. v9 Det var det sande lys som oplyser ethvert menneske, og som kommer til verden. v10 Han var i verden, og verden blev til ved ham, og verden kendte ham ikke. v11 Han kom til sine egne, og hans egne tog ikke imod ham. v12 Men alle dem som tog imod ham, gav han ret til at blive Guds børn, dem som tror på hans navn. v13 De blev ikke født af blod eller af køds vilje eller af mands vilje, men af Gud.
+
+v14 Og ordet blev menneske{T: Ordret: >>kød<<.} og bosatte sig blandt os, og vi så hans herlighed, en herlighed som den eneste søn har den fra Faderen, fuld af nåde og sandhed. v15 Johannes vidner om ham og råber: >>Det var om ham, jeg sagde: Han som kommer efter mig, overgår mig, for han var før mig.<< v16 For af hans fylde har vi alle modtaget og det nåde på nåde; v17 for loven blev givet ved Moses, nåden og sandheden kom ved Jesus Kristus. v18 Ingen har nogensinde set Gud; den eneste Gud, som er i Faderens favn, har gjort ham kendt.
+
+==Johannes’ vidnesbyrd om sig selv==
+
+v19 Dette er Johannes’ vidnesbyrd da jøderne fra Jerusalem sendte præster og levitter til ham for at de skulle spørge ham: >>Hvem er du?<< v20 Og han bekendte og nægtede ikke, men bekendte: >>Jeg er ikke Kristus.<< v21 De spurgte ham: >>Hvad da? Er du Elias?<< Og han sagde: >>Det er jeg ikke.<< >>Er du profeten?<< Og han svarede: >>Nej.<< v22 De sagde da til ham: >>Hvem er du? Vi skal give svar til dem som har sendt os, hvad siger du om dig selv?<< v23 Han sagde:
+
+	>>Jeg er en stemme, som råber i ørkenen:
+
+	Jævn Herrens vej,
+
+	som profeten Esajas har sagt.<<
+
+v24 Nogle farisæere var udsendt, v25 og de spurgte ham: >>Hvorfor døber du da, hvis du ikke er Kristus eller Elias eller profeten?<< v26 Johannes svarede dem: >>Jeg døber med vand; midt iblandt jer står han, som I ikke kender, v27 han, som kommer efter mig, hvis sandalrem jeg ikke er værdig at løse.<< v28 Dette skete i Betania på den anden side af Jordan, hvor Johannes døbte.
+
+==Johannes’ vidnesbyrd om Guds lam==
+
+v29 Den næste dag ser han Jesus komme mod sig, og han siger: >>Se, Guds lam, som borttager verdens synd. v30 Han er den om hvem jeg har sagt: Efter mig kommer en mand som overgår mig, for han var før mig. v31 Jeg kendte ham ikke, men for at han skulle blive åbenbaret for Israel, derfor er jeg kommet for at døbe med vand.<< v32 Og Johannes vidnede: >>Jeg har set Ånden som en due stige ned fra himlen, og den blev over ham. v33 Jeg kendte ham ikke, men han som har sendt mig for at døbe med vand, sagde til mig: Ham, som du ser Ånden stige ned over og blive over, han er er den som døber med Helligånd. v34 Jeg har set det og har vidnet at han er Guds søn.<<
+
+==De første disciple==
+
+v35 Den næste dag stod Johannes og to af hans disciple der igen, v36 og da han så Jesus komme gående, siger han: >>Se, Guds lam<<. v37 Hans to disciple hørte ham tale, og de fulgte Jesus. v38 Men da Jesus vendte sig om og så dem følge sig, siger han til dem: >>Hvad søger I?<< Men de sagde til ham: >>Rabbi,<< – det betyder lærer – >>hvor bor du?<< v39 Han siger til dem: >>Kom og se.<< De kom da og så hvor han boede, og de blev hos ham den dag. Det var ved den tiende time.
+
+v40 Andreas, Simon Peters bror, var den ene af de to som havde hørt Johannes og fulgt ham; v41 han fandt først sin egen bror og siger til ham: >>Vi har fundet Messias<< – som betyder Kristus. v42 Han førte ham til Jesus. Da Jesus så ham, sagde han: >>Du er Simon, Johannes’ søn, du skal kaldes Kefas<< – som betyder Peter.
+
+v43 Den næste dag ville han gå til Galilæa, og han finder Filip, og Jesus siger til ham: >>Følg mig.<< v44 Men Filip var fra Betsajda, fra Andreas’ og Peters by. v45 Filip finder Natanael og siger til ham: >>Vi har fundet ham som Moses i loven og også profeterne har skrevet om, Jesus, Josefs søn fra Nazaret.<< v46 Natanael sagde til ham: >>Kan noget godt være fra Nazaret?<< Filip siger til ham: >>Kom og se.<< v47 Jesus så Natanael komme til sig, og han siger om ham: >>Se, i sandhed en israelit der ikke er bedrag i.<< v48 Natanael siger til ham: >>Hvorfra kender du mig?<< Jesus svarede ham: >>Før Filip kaldte dig, så jeg dig, mens du var under figentræet.<< v49 Natanael svarede ham: >>Rabbi, du er Guds søn, du er Israels konge.<< v50 Jesus svarede ham: >>Tror du, fordi jeg har sagt dig at jeg så dig under figentræet? Du vil se større ting end disse.<< v51 Og han siger til ham: >>Sandelig, sandelig siger jeg jer: I vil se himlen åben, og Guds engle stige op og stige ned over Menneskesønnen.<<
+
