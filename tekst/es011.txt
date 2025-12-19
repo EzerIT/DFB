@@ -1,127 +1,123 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.04.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===Esajas' Bog, kapitel 11===
 
 ==Isajs rodskud==
-//0 v1 Men der vil spire en kvist frem af Isajs stub, 
+//0 v1 Der vil spire en kvist frem af Isajs stub,
 
-//3 og et skud fra hans rødder vil bære frugt.{E: I stedet for *yfrh* læser Septuaginta *yfrḥ*  (>>gro frem<<).}
+//3 og fra hans rødder skyder frugt frem.{E: Således Septuaginta der læser *yfrḥ*  (>>gro frem<<) i stedet for  *yfrh* (>>være frugtbar<<).}
 
-//2 v2 Og HERRENS Ånd vil hvile over ham, 
+//2 v2 HERRENS Ånd vil hvile over ham,
 
-visdoms og indsigts Ånd, 
+visdoms og indsigts Ånd,
 
-råds og styrkes Ånd, 
+råds og styrkes Ånd,
 
-den Ånd der giver kundskab og frygt for HERREN.
+den Ånd der giver kundskab og gudsfrygt{N: Frygt} i forholdet til HERREN.
 
-//4 v3 Hans glæde vil være frygt for HERREN, 
+//4 v3 Han vil nyde{T: Ordret >>dufte<< (se 1 Mos 8,21) og med ordspil på ordet for Ånd.}  gudsfrygt i forholdet til HERREN,
 
-//6 og han vil ikke dømme efter det hans øjne ser, 
+//6 og han vil ikke dømme efter det hans øjne ser,
 
 //6 og ikke fælde dom efter det hans ører hører.
 
-//7 v4 Men han vil dømme svage med retfærdighed 
+//7 v4 Men han vil dømme svage med retfærdighed
 
-//5 og fælde dom med retfærdighed for landets{N: Jord} elendige; 
+//5 og straffe landets{N: Jord} elendige på grundlag af retssikkerhed;
 
-//5 han vil slå jorden{N: Jord}{E: Ordet kan omvokaliseres fra*ʔereṣ* (>>jord<<) til *ʕārēṣ* (>>voldsmand<<).} med sin munds stav 
+//5 han vil slå landet{N: Jord}{E: Ordet kan omvokaliseres fra*ʔereṣ* (>>jord<<) til *ʕārēṣ* (>>voldsmand<<).} med sin munds stav
 
 //7 og dræbe gudløse med sine læbers ånde.
 
-//6 v5 Retfærdighed vil være hans hofters bælte 
+//6 v5 Retfærdighed vil være hans hofters bælte
 
 //7 og trofastheden hans lænders bælte.
 
-//3 v6 Ulven vil bo sammen med lammet, 
+//3 v6 Ulven vil slå sig ned sammen med lammet,
 
-//6 og panteren ligge sammen med kiddet; 
+//6 og panteren ligge sammen med kiddet;
 
-//7 kalven, ungløven og fedekalven{E: *ûmᵊrîʔ* (>>og fedekalv<<) ser i Septuaginta ud til at være læst  *yirʕû* (>>vil græsse<<).} er sammen, 
+//7 kalven, ungløven og fedekalven{E: *ûmᵊrîʔ* (>>og fedekalv<<) ser i Septuaginta ud til at være læst  *yirʕû* (>>vil græsse<<).} er sammen,
 
 //8 og en lille dreng vogter dem.
 
-//5 v7 Koen og bjørnen græsser,{E: Hebraisk: *tirʕeʸnāʰ* rettes ofte  til *titrāʕeʸnāʰ* (>>bliver venner<<).} 
+//5 v7 Koen og bjørnen græsser,{E: Hebraisk: *tirʕeʸnāʰ* rettes ofte til *titrāʕeʸnāʰ* (>>bliver venner<<).}
 
-//7 deres unger ligger sammen, 
+//7 deres unger ligger sammen,
 
 //6 og løven æder strå som oksen.
 
-//7 v8 Spædbarnet leger over giftslangens hul, 
+//7 v8 Spædbarnet leger over giftslangens hul,
 
-//8 og hen over hugormens hule
+//8 og det fravænnede barn vil stikke sin hånd hen over hugormens hule
 
-vil fravænnet barn stikke sin hånd.
+//4 v9 De vil ikke gøre ondt
+//6 og ikke ødelægge på hele mit hellige bjerg,
 
-//4 v9 De vil ikke gøre ondt 
-//6 og ikke ødelægge på hele mit hellige bjerg, 
-
-//5 for landet{N: Jord} er fuldt af kundskab om HERREN, 
+//5 for landet{N: Jord} er fuldt af kundskab om HERREN,
 
 //6 som vandene dækker havets bund.{T: Ordret blot: >>som vandene dækker havet<<.}
 
- ==Profeti om Israels hjemkomst og genrejsning==
-//1 v10 På den dag 
+==Profeti om Israels hjemkomst og genrejsning==
+//1 v10 På den dag
 
-//3 vil det være Isajs rodskud, 
-//6 der står som et banner for folkene, 
+//3 vil det være Isajs rod,
+//6 der står som et banner for folkene,
 
-//5 til ham vil folkeslagene søge hen, 
+//5 til ham vil folkeslagene søge hen,
 
 //4 og hans bolig vil være herlig.
 
 //2 v11 På den dag
 
-//3 vil Herren igen, for anden gang, række sin hånd ud 
+//3 vil Herren igen, for anden gang, række sin hånd ud
 
-//6 for at løskøbe den rest af sit folk 
+//6 for at løskøbe den rest af sit folk
 
-//7 som er tilbage, fra Assyrien og Egypten, 
+//7 som er tilbage, fra Assyrien og Egypten,
 
-fra Pathros, Nubien, Elam, 
+fra Pathros, Nubien, Elam,
 
 Sinear, Hamat og fra havets øer.
 
-//5 v12 Og han vil rejse et banner for folkene 
+//5 v12 Og han vil rejse et banner for folkene
 
-//7 og samle Israels fordrevne 
+//7 og samle Israels fordrevne
 
-//8 og bringe Judas spredte{E: *nidḥê* (>>fordrevne<<) er maskulinum, men *nᵊfuṣôt* (>>spredte<<) femininum, måske for at inkludere kvinder i løftet.} sammen 
+//8 og bringe Judas spredte{E: *nidḥê* (>>fordrevne<<) er maskulinum, men *nᵊfuṣôt* (>>spredte<<) femininum, måske for at inkludere kvinder i løftet.} sammen
 
 fra jordens fire hjørner.
 
-//6 v13 Efraims skinsyge vil forsvinde 
+//6 v13 Efraims skinsyge vil forsvinde
 
-//8 og Judas angribere blive udryddet; 
+//8 og Judas angribere blive udryddet;
 
-//7 Efraim vil ikke være skinsyg på Juda, 
+//7 Efraim vil ikke være skinsyg på Juda,
 
 //9 og Juda vil ikke være fjendtlig mod Efraim.
 
-//8 v14 Men de vil flyve ind over filistrenes bakker{T: Ordret >>skuldre<<.} imod vest, 
+//8 v14 Men de vil flyve ind over filistrenes bakker{T: Ordret >>skuldre<<.} imod vest,
 
-//9 sammen vil de plyndre østens befolkninger. 
+//9 sammen vil de plyndre østens befolkninger.
 
-//10 Edom og Moab vil blive et bytte for deres hånd, 
+//10 Edom og Moab vil blive et bytte for deres hånd,
 
 //11 og Ammonitternes børn vil blive deres undersåtter.
 
-//4 v15 HERREN vil lægge band på Egypterhavets vig 
+//4 v15 HERREN vil lægge band på Egypterhavets vig
 
-//6 og svinge sin hånd ud over floden med sin åndes glød, {E: *baʕyām* (>>glød<<) blev i de gamle oversættelser gengivet som *bᵊʕōṣēm rûḥô* (>>med sin kraftige storm<<).} 
+//6 og svinge sin hånd ud over floden med sin åndes glød,{E: *baʕyām* (>>glød<<) blev i de gamle oversættelser gengivet som *bᵊʕōṣēm rûḥô* (>>med sin kraftige storm<<).}
 
-//7 og han vil splitte den til syv wadier, 
+//7 og han vil splitte den til syv wadier,
 
 //8 så man kan gå over med sko.
 
-//5 v16 Og der vil være en ryddet vej for den rest af hans folk 
+//5 v16 Og der vil være en ryddet vej for den rest af hans folk
 
-//7 der bliver tilbage fra Assyrien, 
+//7 der bliver tilbage fra Assyrien,
 
-//6 ligesom der var for Israel 
+//6 ligesom der var for Israel
 
 //7 den dag det drog op fra Egyptens land.
-
-

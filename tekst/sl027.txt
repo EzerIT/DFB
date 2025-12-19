@@ -1,108 +1,114 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===Salme 27===
-
 ==Overskrift==
-v1 Af David.
-
+//0 v1 Af David.
 ==Tillid til HERREN==
-HERREN er mit lys og min frelse,
 
-hvem skal jeg frygte?
+//0 HERREN er mit lys og min frelse,
 
-HERREN er mit livs værn,
+//1 hvem skal jeg frygte?
 
-hvem skal jeg frygte for?
+//0 HERREN er værn for mit liv,
 
-v2 Da de onde nærmede sig mig
+//6 hvem skal jeg skælve af angst for?
 
-for at fortære mit kød,
+//6 v2 Da de onde nærmede sig mig
 
-mine modstandere og mine fjender,
+//8 for at skade mig,{T: Ordret >>fortære mit kød<<.}
 
-da snublede de og faldt.
+//7 mine modstandere og mine fjender,
 
-v3 Selv om en hær vil belejre mig,
+//5 da var det dem der snublede
+//6 og faldt.
 
-skal mit hjerte ikke frygte,
+//4 v3 Selv om en hær vil belejre mig,
 
-selv om man fører krig imod mig,
+//5 vil jeg på ingen måde{N: Hjerte} frygte,
 
-er jeg dog tryg.
+//4 selv om man fører krig imod mig,
 
-v4 Kun ét har jeg bedt om af HERREN,
+//5 har jeg dog tillid.
 
-det vil jeg tragte efter:
+//3 v4 Kun ét har jeg bedt om af HERREN,
 
-nemlig at jeg må bo i HERRENS hus
+//4 det vil jeg søge efter:
+
+//7 nemlig at jeg må bo i HERRENS hus
 
 alle mit livs dage,
 
-for at skue med fryd HERRENS herlighed
+//8 for at få et syn af HERRENS skønhed
 
-og for at grunde{E: Betydningen af verbet er omdiskuteret. Grundbetydningen er >>undersøge nøje<<. Meningen er muligvis at søge guddommeligt svar.} i hans tempel.
+//9 og nøje undersøge hans tempel.
 
-v5 For han vil gemme mig i sin hytte
+//6 v5 For han vil gemme mig i sin hytte
 
 på ulykkens dag,
 
-han vil skjule mig i sit telts skjulested,
+//7 han vil skjule mig i sit telts skjul,
 
-han vil løfte mig op på en klippe.
+//8 han vil løfte mig op på en klippe.
 
-v6 Og nu skal mit hoved knejse
+//5 v6 Nu ophøjes mit hoved over mine fjender, som omringer mig,
 
-over mine fjender som omringer mig,
+//6 og i hans telt vil jeg bringe ofre med jubel,
 
-og i hans telt jeg vil bringe ofre med jubel,
-
-jeg vil synge og spille for HERREN.
+//7 jeg vil synge
+//8 og spille for HERREN.
 
 ==Klage og bøn i helligdommen==
-v7 Hør, HERRE, min røst, når jeg råber,
 
-og vær mig nådig og svar mig!
+//2 v7 Hør,
+//8 HERRE,
+//7 min røst, når jeg råber,
 
-v8 Til dig sagde mit hjerte: >>I skal søge mit ansigt<<,{E: Teksten er vanskelig, men meningen er formodentlig at salmisten i sit hjerte husker det citerede ord fra Gud (2 Mos 23,17; 34,23; 5 Mos 4,29).}
+//6 vær mig nådig
+//6 og svar mig!
 
-jeg søger, HERRE, dit ansigt!
+//5 v8 Dig tænkte jeg over i mit hjerte:
+//7 >>I skal søge mig{N: Ansigt.}<<.{T: Formuleringen kan forklares som et citat af 2 Mos 23,17; 34,23.}
 
-v9 Skjul ikke dit ansigt for mig,
+//6 Dit ansigt,
+//8 HERRE,
+//7 søger jeg!
 
-afvis ikke i vrede din tjener,
+//4 v9 Skjul ikke dit ansigt for mig,
 
-du har været min hjælp,
+//4 afvis ikke i vrede din tjener,
 
-forkast mig ikke og forlad mig ikke,
+//6 du har været min hjælp,
 
-min frelses Gud!
+//5 opgiv mig ikke
+//6 og forlad mig ikke,
 
-v10 For{E: Ordet *kî-* (>>for<<) har flere betydninger. Det kan betyde >>selv om<< der kan give god mening her: >>Selv om min far og min mor har forladt mig, vil HERREN tage mig op til sig<<.} min far og min mor har forladt mig,
+//8 min frelses Gud!
 
-men HERREN tager mig op til sig.
+//7 v10 For{E: Ordet *kî* kan også oversættes >>selv om<<.} min far og min mor har forladt mig,
 
-v11 Lær mig, HERRE, din vej
+//8 men HERREN tager mig op til sig.
 
-og led mig ad den jævne sti,
+//3 v11 Lær mig,
+//7 HERRE,
+//6 din vej
 
-for mine fjenders skyld.
+//5 og led mig ad den jævne sti
+for mine modstanderes skyld.
 
-v12 Prisgiv mig ikke i mine modstanderes vold,{T: Ordret >>sjæl<<. Det oversættes her forskelligt, fx. >>begær, lyst til mord<<.}
+//4 v12 Overgiv mig ikke til mine fjenders forgodtbefindende,{N: Sjæl.}
 
-for falske vidner har rejst sig mod mig,
+//6 for falske vidner og voldelige anklagere har rejst sig mod mig.
 
-de fnyser vold.
-
-v13 Hvis jeg ikke havde stolet på at jeg skulle se HERRENS godhed i de levendes land – !{E: Enten er der underforstået en eftersætning: >>så havde det været ude med mig<<, eller også skal vers 12b-c være den logiske eftersætning: >>for falske vidner havde rejst sig … hvis jeg ikke havde stolet på HERREN<<.}
+//5 Tænk om jeg ikke havde troet på
+//6 at jeg skulle se HERRENS godhed i de levendes land!
 
 ==Nådes- eller opmuntringsord==
-v14 Vent på HERREN, vær stærk,
 
-og gør dit hjerte stærkt,
+//1 v14 Håb på HERREN,
+//3 vær stærk,
 
-ja, vent på HERREN!
+//4 og styrk dig af hjertet,
 
-
+//2 ja, håb på HERREN!

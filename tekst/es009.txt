@@ -1,95 +1,94 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 20.06.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===Esajas' Bog, kapitel 9===
 
-//0 v1 Det folk //5 der vandrer i mørket, 
+//0 v1 Det folk //5 der vandrede i mørket,
 
-//4 skal se et stort lys; 
+//4 har set et stort lys;
 
-//3 de der bor i dødsskyggens{E: Vokaliseringen af *ṣalmāwet* er omdiskuteret. Som det står i den masoretiske tekst, skal det oversættes: >>dødsskygge<<, men ofte vokaliseres: *ṣalmut*, der skal oversættes: >>mørke<<.} land, 
+//3 de der boede i et dybt mørkes{H: Sl 23,3} land,
 
-//4 over dem skal et lys skinne.
+//4 over dem har et lys strålet.
 
-//2 v2 Du gør folket{E: Oversættelsen er omdiskuteret og teksten usikker. Ofte retter man teksten så der skal oversættes: >>jubelen<< (*haggilā*) i stedet for: >>dets folk<< (*haggôy lôʔ*), der dog også kræver en tekstændring fra: *loʔ* (>>ikke<<) til: *lô* (>>dets/for det<<), der har støtte i mange håndskrifter og i vokaliseringen, og i alle tilfælde må forudsættes, også i denne oversættelse.} talrigt, 
+//2 v2 Du har gjort folket{E: Her følges masoreternes læsning *haggôy lô* >>folket …for det<< i stedet for konsonanttekstens *haggôy lôʔ* >>folket…ikke<< med støtte i mange håndskrifter; ofte rettes de to ord til ordet *haggilāʰ* »jubelen«.} talrigt,
+//4 har gjort glæden stor for det;
 
-//4 for det gør du glæden stor; 
+//3 de har glædet sig foran dig,{N: Ansigt}
 
-//3 de skal glæde sig for dit ansigt, 
+som glæden er om høsten,
 
-som glæden er om høsten, 
-
-//5 ligesom man jubler 
+//5 ligesom man jubler
 
 //6 når man fordeler bytte.
 
-//4 v3 For åget der tynger det, 
+//4 v3 For åget der tyngede det,
 
-og stangen over dets skulder,{T: Det hebraiske ord  betegner den øverste del af ryggen, hvor der typisk bliver slået.} 
+og stangen over dets skulder,
 
-dets slavefogeds stav 
+dets undertrykkeres stav
 
-//7 brækker du //6 som på Midjans dag.
+//7 har du brækket
+//6 som på Midjans dag.
 
-//5 v4 For hver støvle der tramper i krigslarm, 
+//5 v4 For hver støvle der tramper i krigslarm,
 
-//7 og hver kappe der er sølet til i blod, 
+//7 og hver kappe der er sølet til i blod,
 
-//6 den skal brændes, 
+//6 vil blive brændt,
 
-være føde for ild.
+som føde for ild.
 
-//7 v5 For et barn er født os, 
+//7 v5 For et barn blev født os,
 
-//8 en søn er givet os, 
+//8 en søn blev givet os,
 
-//9 og herredømmet skal være på hans skulder, 
+//9 og herredømmet var på hans skulder;
 
-//11 og man skal kalde ham 
+//11 han gav ham navnene
 
-Underfuld Rådgiver, 
+>>Under-Rådgiveren<<,{T: I oversættelsen af de otte navneord bevares både ordstilling og kernebetydning, så det er muligt at studere det litterære mønster med fire sammensatte navne. Bedre dansk er >>En Rådgivers Undere<<, >>Krigerens Gud<<, >>Evig Far<<, >>Fredens Hærchef<<.}
 
-Vældig Gud, 
+>>Gud er Kriger<<,
 
-Evighedsfader, 
+>>Far i Evighed<<,
 
-Fredsfyrste.
+>>Hærfører for fred<<.
 
-//10 v6 På herredømmets storhed og på freden vil der ikke blive nogen ende 
+//10 v6 Der vil ikke være ende på herredømmets storhed og på freden
 
-for Davids trone og for hans rige, 
+over Davids trone og over hans rige,
 
-//12 så han kan grundfæste det 
+//12 så han kan sikre det
 
-//13 og understøtte det 
+//13 og understøtte det
 
-med ret og retfærdighed 
+med ret og retfærdighed
 
-fra nu og til evig tid; 
+fra nu og til evig tid;
 
-//11 Hærskarers{N: Hærskarers} HERRES nidkærhed{T: Det hebraiske ord er betegnelse for jalousi og lidenskab.} skal gøre dette.
+//11 Hærskarers{N: Hærskarers} HERRES passion vil sørge for dette.
 
 ==Domsord mod det selvsikre folk==
-//1 v7 Herren har sendt et ord mod Jakob, 
+//1 v7 Herren har sendt et ord mod Jakob,
 
 //3 og det er faldet over Israel,
 
-//2 v8 og hele folket skal lære det at kende, 
+//2 v8 og hele folket skal lære det at kende,
 
-Efraim og Samarias indbyggere, 
+Efraim og Samarias indbyggere,
 
-der i hovmod og hjertets overmod 
+der i hovmod og hjertets overmod
 
 //4 siger:
 
-//5 v9 >>Teglstenene er faldet, 
+//5 v9 >>Teglstenene er faldet,
 
-//6 men vi vil bygge med kvadersten; 
+//6 men vi vil bygge med kvadersten;
 
-//5 morbærtræerne er fældet, 
+//5 morbærtræerne er fældet,
 
 //6 men vi vil sætte cedertræer i stedet!<<
 
@@ -97,80 +96,78 @@ der i hovmod og hjertets overmod
 
 //7 og han vil hidse hans modstandere op.
 
-//6 v11 Aram fra øst{T: Kan også oversættes: >>forfra<<.} //8 og filistrene fra vest,{T: Kan også oversættes: >>bagfra<<.} 
+//6 v11 Aram fra øst{T: Kan også oversættes: >>forfra<<.} //8 og filistrene fra vest,{T: Kan også oversættes: >>bagfra<<.}
 
-//7 de fortærer Israel i én mundfuld. 
+//7 de fortærer Israel i én mundfuld.
 
-//5 Trods det har hans vrede ikke lagt sig, 
+//5 Trods det har hans vrede ikke lagt sig,
 
 //6 men hans hånd er stadig udstrakt.
 
-//4 v12 Folket er ikke vendt om til ham //7 der slog det, 
-//6 og har ikke søgt Hærskarers HERRE,{N: Hærskarers}
+//4 v12 Folket er ikke vendt om til ham //7 der slog det,
+//6 og har ikke søgt Hærskarers HERRE,
 
-//5 v13 Derfor vil HERREN hugge hoved og hale af Israel, 
+//5 v13 Derfor vil HERREN hugge hoved og hale af Israel,
 
 palmegren og siv på samme dag.
 
-//7 v14 Gammel og anset, 
+//7 v14 Gammel og anset,
 
-//9 han er hovedet; 
+//9 han er hovedet;
 
-//8 men en profet //10 der lærer løgn, 
+//8 men en profet //10 der lærer løgn,
 
 //9 han er halen.
 
-//6 v15 Dette folks vejledere har forført det, 
+//6 v15 Dette folks vejledere har forført det,
 
 //8 og de der er blevet vejledt, er ført vild.
 
-//7 v16 Derfor kan Herren ikke glæde sig over dets unge mænd 
+//7 v16 Derfor kan Herren ikke glæde sig over dets unge mænd
 
-//10 og ikke forbarme sig over dets faderløse og dets enker; 
+//10 og ikke forbarme sig over dets faderløse og dets enker;
 
-//9 for enhver i det er gudløs og handler ondt, 
+//9 for enhver i det er gudløs og handler ondt,
 
-//10 og hver mund taler tåbelighed. 
+//10 og hver mund taler tåbelighed.
 
-//8 Trods det har hans vrede ikke lagt sig, 
+//8 Trods det har hans vrede ikke lagt sig,
 
 //10 men hans hånd er stadig udstrakt.
 
-//11 v17 For skændsel brænder som en ild, 
+//11 v17 For skændsel brænder som en ild,
 
-//12 den fortærer tjørn og tidsel 
+//12 den fortærer tjørn og tidsel
 
-//13 og antænder skovens tykninger, 
+//13 og antænder skovens tykninger,
 
 //14 og de skal hvirvle op i røg.
 
-//9 v18 Ved Hærskarers HERRES{N: Hærskarers} vrede er landet sat i brand;{E: Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: >>blevet ødelagt<<.} 
+//9 v18 Ved Hærskarers HERRES vrede er landet sat i brand;{E: Det hebraiske verbum *ʕtm* forekommer kun her, og betydningen er usikker og omdiskuteret. Septuaginta har tilsyneladende læst verbet: *nṣh*: >>blevet ødelagt<<.}
 
-//10 og folket er som føde for ild, 
+//10 og folket er som føde for ild,
 
 //12 Selv sin egen bror
 //11 skåner man ikke
 
-//13 v19 Man sluger i sig til højre, 
+//13 v19 Man sluger i sig til højre,
 
-//14 men sulter, 
+//14 men sulter,
 
-//13 og man æder til venstre, 
+//13 og man æder til venstre,
 
-//14 men mættes ikke; 
+//14 men mættes ikke;
 
 //13 det er kødet af sin egen arm,{E: Ofte forudsætter man en simpel skrivefejl, så der i stedet for: *zᵊrōʕô* >>sin arm<< skal læses: *reʕô*: >>sin landsmand<<. Det har ikke støtte i gamle håndskrifter, men kan give mening i sammenhæng med vers 20.}
 //12 man æder
 
 
-//13 v20 Manasse mod Efraim 
+//13 v20 Manasse mod Efraim
 
-//16 og Efraim mod Manasse; 
+//16 og Efraim mod Manasse;
 
-//15 de falder sammen over Juda. 
+//15 de falder sammen over Juda.
 
-//14 Trods det har hans vrede ikke lagt sig, 
+//14 Trods det har hans vrede ikke lagt sig,
 
-//15 men hans hånd er stadig udstrakt. 
-
-
+//15 men hans hånd er stadig udstrakt.

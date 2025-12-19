@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 18.03.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===Esajas' Bog, kapitel 53===
 
@@ -10,7 +10,7 @@
 
 //2 v2 Han skød op som en spire foran ham{N: Ansigt.}
 
-//5 og som et rodskud af tør jord,
+//5 og som en rod{H: Es 11,1.10} i tør jord,
 
 //4 han havde ingen indtagende skikkelse
 //7 og ingen skønhed

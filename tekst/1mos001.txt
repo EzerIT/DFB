@@ -1,6 +1,6 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 20.06.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===1. Mosebog, kapitel 1===
 
@@ -9,7 +9,7 @@
 //0 v1 I begyndelsen skabte Gud himlen og jorden.{E: En anden mulig oversættelse er >>Da Gud i begyndelsen skabte himlen og jorden...<<. Den valgte oversættelse er i overensstemmelse med alle de antikke oversættelser inklusive Septuaginta, de aramæiske targuminer og Peshitta samt tilsyneladende også Joh 1,1 og Kol 1,16-18.}
 //2 v2 Jorden var dengang gold og øde,
 //3 og der var mørke over urdybet,
-//4 og Guds ånd svævede over vandet.
+//4 men Guds ånd svævede over vandet.
 //1 v3 Så sagde Gud:
 //4 >>Lad der blive lys;<<
 //3 og der blev lys.

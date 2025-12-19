@@ -1,29 +1,29 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 12.06.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
- ===Esajas' Bog, kapitel 40===
+===Esajas' Bog, kapitel 40===
 
- ==Glædesbud til Jerusalem==
+==Glædesbud til Jerusalem==
 
-//0 v1 Trøst,
-//5 trøst mit folk,
+//0 v1 >>Trøst,
+//5 trøst mit folk,<<
 
-//4 siger jeres Gud;
+//4 siger jeres Gud.
 
-//3 v2 tal til Jerusalems hjerte
+//3 v2 Tal til Jerusalems hjerte
 
-//4 og råb til hende
+//4 og råb til det{T:  Ordret >>hende<< her og i det følgende, da bynavne er hunkøn på hebraisk.}
 
-//5 at hendes kamp er fuldført,
+//5 at dets kamp er fuldført,
 
-//6 at hendes skyld er betalt,
+//6 at dets skyld er betalt,
 
-//7 at hun har fået af HERRENS hånd
+//7 at det af HERRENS hånd har fået
 
 dobbelt for alle sine synder.
 
- ***
+***
 
 //2 v3 En stemme råber nu:
 
@@ -33,29 +33,29 @@ skal I bane HERRENS vej,
 
 //4 På den øde slette skal I jævne
 
- en hovedvej for vores Gud!
+en hovedvej for vores Gud!
 
 //5 v4 Hver dal skal hæves,
 
 //7 og hvert bjerg og hver høj skal sænkes;
 
-//6 det bakkede terræn skal blive til jævnt land
+//6 det bakkede terræn skal gøres til jævnt land
 
 //7 og de ujævne områder til slette.
 
-//6 v5 HERRENS herlighed skal åbenbares,
+//6 v5 HERRENS herlighed vil blive åbenbaret,
 
-//7 og ethvert menneske{T: Ordret: >>alt kød<<.} skal sammen se den;
+//7 og ethvert menneske{T: Ordret: >>alt kød<<; også i v. 6.} uden undtagelse vil se den;
 
 //8 for HERRENS mund har talt.<<
 
- ***
+***
 
 //2 v6 En stemme siger nu:
 //4 >>Råb!<<
 
-//3 Men den vil sige:{E: Weqatal-formen *weʔāmar* kan også bruges som en opfordring: >>Og den skal sige<<, eller, mindre sandsynligt her, som fortid: >>og han/den sagde<<. Alternativet er at omvokalisere formen til 1. person *ʔômar* (>>jeg siger<<) ud fra Esajas A teksten fra Dødehavet og LXX. Ellers må der tilføjes en uidentificeret ekstra stemme: >>en anden siger<<. Oftest deles det efterfølgende citat op i et spørgsmål og et svar ved en anden ikke nærmere angivet stemme.}
-//6 >>Hvordan kan jeg råbe?
+//3 Og den vil sige:{E: Weqatal-formen *weʔāmar* kan også bruges som en opfordring: >>Og den skal sige<<, eller, mindre sandsynligt her, som fortid: >>og han/den sagde<<. Alternativet er at omvokalisere formen til 1. person *ʔômar* (>>jeg siger<<) ud fra Esajas A teksten fra Dødehavet og LXX. Ellers må der tilføjes en uidentificeret ekstra stemme: >>en anden siger<<. Oftest deles det efterfølgende citat op i et spørgsmål og et svar ved en anden ikke nærmere angivet stemme.}
+//6 >>Hvordan skal jeg kunne råbe?
 
 //7 Ethvert menneske {H: Es 40,5.} er græs,
 
@@ -64,16 +64,16 @@ skal I bane HERRENS vej,
 //8 v7 Græsset bliver tørt,
 //9 blomsten visner,
 
-//10 for{T: Kan også oversættes >>så snart<<.} HERRENS ånde{N: Ånd} blæser på det.
+//10 for{T: Kan også oversættes >>så snart<<.} HERRENS ånde{N: Ånd} blæser på det.<<
 
-//5 ja, sandelig er folket græs!
+//5 Ja, sandelig folket er græs!
 
 //6 v8 Græsset bliver tørt,
 //7 blomsten visner,
 
-//8 men vores Guds ord vil bestå til evig tid.<<
+//8 men vores Guds ord vil bestå til evig tid.
 
- ***
+***
 
 //4 v9 Stig op på et højt bjerg,
 
@@ -102,7 +102,7 @@ han vil komme med styrke,
 
 //9 v11 Som en hyrde
 
- vil han vogte sin hjord,
+vil han vogte sin hjord,
 
 //10 samle lammene i sine arme
 
@@ -110,7 +110,7 @@ han vil komme med styrke,
 
 //11 han vil lede de diegivende får.
 
- ==Guds storhed==
+==Guds storhed==
 
 //1 v12 Hvem har målt vand i sin hule hånd
 
@@ -174,7 +174,7 @@ han vil komme med styrke,
 //9 til at opstille et gudebillede
 //10 der ikke kan vælte.
 
- ***
+***
 
 //5 v21 Ved I ikke?
 //7 Hører I ikke?
@@ -207,7 +207,7 @@ jordens grundlæggelse?
 
 //10 og en storm fører dem bort som strå.
 
- ***
+***
 
 //4 v25 >>Med hvem vil I sammenligne mig
 
@@ -228,7 +228,7 @@ jordens grundlæggelse?
 
 mangler der ikke én.
 
- ***
+***
 
 //2 v27 Hvorfor siger du,
 //6 Jakob,

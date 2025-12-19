@@ -1,234 +1,233 @@
-﻿!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 28.04.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 
 ===Esajas' Bog, kapitel 42===
 ==Herrens tjener==
-//0 v1 Bemærk min tjener, 
-//5 jeg støtter ham, 
+//0 v1 Da det er min tjener,
+//5 som jeg griber,
 
-//4 min udvalgte 
-//5 som jeg{N: Sjæl} kom til at holde af. 
+//4 min udvalgte
+//5 som jeg{N: Sjæl} har foretrukket,
 
-//3 Jeg har givet min Ånd over ham, 
+//3 har jeg givet min Ånd over ham.
 
-//4 han vil bringe ret ud til folkeslagene.
+//4 Han vil udbrede ret til folkeslagene.
 
-//6 v2 Han vil ikke skrige 
-//8 og ikke hæve stemmen. 
+//6 v2 Han vil ikke skrige
+//8 og ikke hæve stemmen.
 
 //9 og ikke lade sin røst høre på gaderne.
 
-//7 v3 Et knækket rør vil han ikke sønderbryde, 
+//7 v3 Et knækket rør vil han ikke sønderbryde,
 
-//8 og en ulmende væge 
-//9 vil han ikke slukke; 
+//8 og en ulmende væge
+//9 vil han ikke slukke.
 
-//5 i overensstemmelse med sandheden vil han øve ret.
+//5 Han vil føre retten igennem til sandheden.
 
-//6 v4 Han bliver ikke mat 
-//8 og knækkes ikke, 
+//6 v4 Han bliver ikke mat
+//8 og knækkes ikke,
 
-//7 indtil han får indført ret i landet{N: Jord}; 
+//7 indtil han får indført ret i landet{N: Jord};
 
 //8 og fjerne øer venter på hans lov.{H: Es 2,3.}
 
 ***
 
-//2 v5 Sådan sagde Gud HERREN, 
+//2 v5 Sådan sagde Gud HERREN,
 
-//5 der var skaber af himlene 
-//7 og spændte dem ud, 
+//5 der var skaber af himlene
+//7 og spændte dem ud,
 
-//6 der bredte jorden ud med dens vækster, 
+//6 der bredte jorden ud med dens vækster,
 
-//7 der gav folket på den åndedræt{H: 1 Mos 2,7.} 
+//7 der gav folket på den åndedræt{H: 1 Mos 2,7.}
 
-//8 og ånd{N: Ånd} til dem 
+//8 og ånd{N: Ånd} til dem
 
 //9 der færdes på den.
 
-//4 v6 Jeg, HERREN, har kaldt dig i retfærdighed, 
+//4 v6 Jeg, HERREN, har kaldt dig i retfærdighed,
 
-//6 og jeg tager dig fast ved hånden; 
+//6 og jeg tager dig fast ved hånden;
 
-//7 og jeg beskytter dig 
-//8 og gør dig 
+//7 og jeg beskytter dig
+//8 og gør dig
 
-til en pagt for folket, 
+til en pagt for folket,
 
 til et lys for folkeslagene,
 
-//9 v7 for at åbne blindes øjne, 
+//9 v7 for at åbne blindes øjne,
 
-//10 for at{E: *lᵊ* foran infinitiv kan også oversættes >>ved at<<.} føre fanger ud af fængslet, 
+//10 for at{E: *lᵊ* foran infinitiv kan også oversættes >>ved at<<.} føre fanger ud af fængslet,
 
 //11 dem der sidder i mørke, ud af fangehuset.
 
-//5 v8 Jeg er HERREN, 
-//7 det er mit navn; 
+//5 v8 Jeg er HERREN,
+//7 det er mit navn;
 
-//8 og min ære vil jeg ikke give nogen anden 
+//8 og min ære vil jeg ikke give nogen anden
 
 //9 eller min lovprisning til gudebilleder.
 
-//6 v9 De første ting, 
-//8 se, de er sket, 
+//6 v9 De første ting,
+//8 se, de er sket,
 
-//7 og om nye ting fortæller jeg; 
+//7 og om nye ting fortæller jeg;
 
-//8 før det spirer frem, 
+//8 før det spirer frem,
 //9 vil jeg lade jer høre det.
 
 ==Den nye sang om HERRENS sejr==
 
-//3 v10 Syng en ny sang for HERREN, 
+//3 v10 Syng en ny sang for HERREN,
 
-//7 hans lovprisning fra jordens ende; 
+//7 hans lovprisning fra jordens ende;
 
-//6 I der tager ud på havet og alt hvad det rummer, 
+//6 I der tager ud på havet og alt hvad det rummer,
 
 //7 I kystområder og deres beboere!
 
-//5 v11 Ørkenen og dens byer skal løfte stemmen, 
+//5 v11 Ørkenen og dens byer skal løfte stemmen,
 
-//6 lejre hvor Kedar bor; 
+//6 lejre hvor Kedar bor;
 
-//5 de der bor på en klippe,{E: Det er omdiskuteret om *selaʕ* (>>klippe<<) her skal opfattes som navn på en by eller egn: >>Sela<<.} skal juble, 
+//5 de der bor på en klippe,{E: Det er omdiskuteret om *selaʕ* (>>klippe<<) her skal opfattes som navn på en by eller egn: >>Sela<<.} skal juble,
 
 //7 fra bjergenes top skal de råbe af glæde.
 
-//6 v12 De skal give HERREN ære 
+//6 v12 De skal give HERREN ære
 
 //7 og forkynde hans lovprisning på kystområderne.
 
-//4 v13 HERREN vil drage ud som helten, 
+//4 v13 HERREN vil drage ud som helten,
 
-//7 som en kriger vække sin kamplyst 
+//7 som en kriger vække sin kamplyst
 
-//6 han vil råbe højt, 
-//8 ja, udstøde kampråb, 
+//6 han vil råbe højt,
+//8 ja, udstøde kampråb,
 
 //7 han vil vise sin magt over for sine fjender.
 
-//5 v14 Jeg har tiet fra ældgammel tid, 
+//5 v14 Jeg har tiet fra ældgammel tid,
 
-//8 jeg er tavs, 
-//8 jeg holder mig tilbage; 
+//8 jeg er tavs,
+//8 jeg holder mig tilbage;
 
-//7 som den fødende skriger jeg, 
+//7 som den fødende skriger jeg,
 
-//9 jeg stønner 
+//9 jeg stønner
 //10 og snapper efter luft samtidig.
 
-//8 v15 Jeg vil lægge bjerge og høje øde 
+//8 v15 Jeg vil lægge bjerge og høje øde
 
-//11 og lade alle deres planter visne, 
+//11 og lade alle deres planter visne,
 
 //10 og jeg gør floder til kystområder {E: *ʔiyyîm* (>>kystområder<<) kan rettes til *ṣiyyôt*: >>tørt land<<.}
 
 //11 og udtørrer søer
 
-//10 v16 Og jeg leder blinde ad en vej 
-//12 de ikke har kendt, 
+//10 v16 Og jeg leder blinde ad en vej
+//12 de ikke har kendt,
 
-//11 på stier 
+//11 på stier
 //13 de ikke har kendt
 
-//12 leder jeg dem; 
+//12 leder jeg dem;
 
-//9 jeg vil gøre mørket foran dem til lys 
+//9 jeg vil gøre mørket foran dem til lys
 
-//10 og de bakkede områder til slette. 
+//10 og de bakkede områder til slette.
 
-//6 Dette er ordene, 
-//8 jeg udfører dem 
+//6 Dette er ordene,
+//8 jeg udfører dem
 
 //9 og opgiver dem ikke.
 
-//7 v17 Vige tilbage 
-//8 og blive dybt til skamme skal de 
+//7 v17 Vige tilbage
+//8 og blive dybt til skamme skal de
 
-//9 der stoler på det udskårne billede, 
+//9 der stoler på det udskårne billede,
 
-//10 de der siger til et støbt billede: 
+//10 de der siger til et støbt billede:
 
 //11 >>I er vores guder.<<
 
 == HERREN forkynder straf over sit folk==
 
-//1 v18 I døve, 
-//5 hør! 
+//1 v18 I døve,
+//5 hør!
 
-//4 Og 
-//6 I blinde, 
-//5 luk øjnene op 
-//6 for at se! 
+//4 Og
+//6 I blinde,
+//5 luk øjnene op
+//6 for at se!
 
-//3 v19 Hvem er blind 
-//5 hvis ikke det er min tjener, 
+//3 v19 Hvem er blind
+//5 hvis ikke det er min tjener,
 
-//4 og døv som min budbringer 
-//5 som jeg sender? 
+//4 og døv som min budbringer
+//5 som jeg sender?
 
-//3 Hvem er blind som en hengiven 
+//3 Hvem er blind som en hengiven
 
 //5 og blind som HERRENS tjener?
 
-//4 v20 Du har set{E: Således konsonantteksten (*rāʔîtā*), men vokaliseringen forudsætter en infinitiv absolutus form *rāʔôt*, der blandt andet kan bruges som befaling, dvs. >>Se (mange ting)<<.} mange ting, 
+//4 v20 Du har set{E: Således konsonantteksten (*rāʔîtā*), men vokaliseringen forudsætter en infinitiv absolutus form *rāʔôt*, der blandt andet kan bruges som befaling, dvs. >>Se (mange ting)<<.} mange ting,
 //5 men du giver ikke agt;
 
-//4 han åbnede ørerne, 
+//4 han åbnede ørerne,
 //5 men hører ikke.
 
 ***
 
-//2 v21 HERREN ønsker for sin retfærdigheds skyld 
+//2 v21 HERREN ønsker for sin retfærdigheds skyld
 
-//5 at gøre loven{H: Es 42,4} stor 
+//5 at gøre loven{H: Es 42,4} stor
 //6 og herlig.
 
-//4 v22 Men det er et folk der er udbyttet og udplyndret, 
+//4 v22 Men det er et folk der er udbyttet og udplyndret,
 
-//6 alle er de fangne i huller 
+//6 alle er de fangne i huller
 
-//7 og gemt i fængsler. 
+//7 og gemt i fængsler.
 
-//5 De er blevet til rov, 
-//7 og der er ingen der redder, 
+//5 De er blevet til rov,
+//7 og der er ingen der redder,
 
-//6 til bytte, 
-//7 og der er ingen der siger: 
+//6 til bytte,
+//7 og der er ingen der siger:
 
 //8 >>Giv tilbage!<<
 
-//3 v23 Hvem blandt jer vil lægge øre til dette, 
+//3 v23 Hvem blandt jer vil lægge øre til dette,
 
-//5 vil lytte 
+//5 vil lytte
 //6 og høre for fremtiden.
 
-//4 v24 Hvem overgav Jakob til plyndring 
+//4 v24 Hvem overgav Jakob til plyndring
 
-//7 og Israel til røvere? 
+//7 og Israel til røvere?
 
-//6 Mon ikke HERREN, 
-//7 ham som vi syndede imod? 
+//6 Mon ikke HERREN,
+//7 ham som vi syndede imod?
 
-//5 Men de ville ikke vandre 
-//7 på hans veje, 
+//5 Men de ville ikke vandre
+//7 på hans veje,
 
 //6 og ikke lytte til hans lov?
 
-//7 v25 Så udøste han harme over ham, sin vrede, 
+//7 v25 Så udøste han harme over ham, sin vrede,
 
 og krigens vold.
 
-//8 Den blussede op rundt omkring imod ham; 
+//8 Den blussede op rundt omkring imod ham;
 
-//10 men han forstod det ikke; 
+//10 men han forstod det ikke;
 
-//9 den brændte ham, 
+//9 den brændte ham,
 
 //10 men han tager det ikke til hjerte.
-

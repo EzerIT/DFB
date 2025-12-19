@@ -1,26 +1,26 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 16.04.2025>!!
+!!<Dato for denne version: 19.12.2025>!!
 
 ===Esajas' Bog, kapitel 12===
 
 ==Det frelste Israels lovsang==
-//0 v1 På den dag skal du sige: 
+//0 v1 På den dag vil du sige:
 
-//2 >>Jeg vil takke dig, 
-//6 HERRE, 
+//2 >>Jeg vil takke dig,
+//6 HERRE,
 
-//5 for du har været vred på mig, 
+//5 for du har været vred på mig,
 
-//4 må din vrede lægge sig, 
+//4 må din vrede lægge sig,
 //5 og må du trøste mig.
 
-//3 v2 Se, Gud er min frelse, 
+//3 v2 Se, Gud er min frelse,
 
-//4 jeg vil være tryg 
-//6 og ikke frygte, 
+//4 jeg vil stole på dig
+//6 og ikke frygte,
 
-//5 for min styrke og lovsang til HERREN {E: *zimrāt* (>>lovsang<<) mangler suffixet, bogstavet >>yod<<: *-î* (>>min<<) og efterfølges af kortformen af HERRENS navn *yāh* (ligeledes i 2 Mos 15,2 og Sl 118,14) } er HERREN,{E: står her i kortformen *yāh* for Guds navn (HERREN).} 
+//5 for min styrke og lovsang til HERREN{E: *zimrāt* (>>lovsang<<) mangler suffixet, bogstavet >>yod<<: *-î* (>>min<<) og efterfølges af kortformen af HERRENS navn *yāh* (ligeledes i 2 Mos 15,2 og Sl 118,14).} er HERREN,
 
 //6 og han blev mig til frelse.<<
 
@@ -28,25 +28,23 @@
 
 af frelsens kilder.
 
-//2 v4 På den dag vil I sige: 
+//2 v4 På den dag vil I sige:
 
-//3 >>Tak HERREN, 
-//5 påkald hans navn, 
+//3 >>Tak HERREN,
+//5 påkald hans navn,
 
-//5 kundgør hans gerninger blandt folkene, 
+//5 kundgør hans gerninger blandt folkene,
 
-//5 forkynd 
+//5 forkynd
 //6 at hans navn er stort.<<
 
-//5 v5 Lovsyng HERREN, 
-//6 for han har gjort herlige ting, 
+//5 v5 Lovsyng HERREN,
+//6 for han har udført pragtfulde handlinger,
 
-//7 det være kendt på hele jorden.
+//7 det vil blive kendt på hele jorden.{N: Jord.}
 
-//4 v6 Bryd ud i jubel 
-//7 og råb af fryd, 
-//6 du Zions beboer,{E: Den hebraiske tekst har femininum singularis for at angive kollektiv forståelse.} 
+//4 v6 Bryd ud i jubel
+//7 og råb af fryd,
+//6 du Zion-beboer,{E: Opfordringen er igen i singularis som vers 1, men nu i femininum, måske fordi bynavne på hebraisk er femininum og dermed også den rest der bor der (Es 11,16).}
 
 //5 for Israels Hellige er stor i din midte.
-
-
