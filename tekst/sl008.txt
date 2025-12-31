@@ -1,43 +1,43 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard og Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 24.10.2022>!!
+!!<Dato for denne version: 31.12.2025>!!
 
 ===Salme 8===
 
 ==Overskrift==
 
-//0 v1 Til korlederen{E: *lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder >>lede, dirigere<<.}; //2 al-ha-gittit{T: Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.}; //1 en salme af David. 
+//0 v1 Til korlederen{H: Sl 4,1}; //2 al-ha-gittit{T: Dette udtryk angiver enten en melodi eller et instrument.}; //1 en salme af David. 
 
-==David lovpriser skaberens herlighed==
+==David lovpriser skaberen==
 
 //0 v2 HERRE, vor Herre!
 
 //3 Hvor herligt er dit navn over hele jorden,
 
-//3 du som udbreder{E: *tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* >>giv!<<, men i sammenhængen kan det opfattes som kortform for infinitiven.} din majestæt over himlene!
+//3 du som udbreder{E: *tᵊnāʰ*, den intensive imperativ af *ntn* >>giv!<<, tolkes her som en usædvanlig kortform af en infinitiv.} din majestæt på himlene!
 
-//2 v3 Af spædes og diendes mund har du grundlagt et værn{E: *ʕōz* betyder oftest >>magt, styrke<<, men dernæst også >>fæstning, bolværk<<. Endelig kan det betyde >>hæder, lovprisning, lovsang<<, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på >>værn<<.} mod dine modstandere{T: *lᵊmaʕan* betyder ordret >>for … skyld<<, men oversættes her ofte >>mod<<.}
+//2 v3 Af spædes og diendes mund har du grundlagt et værn{E: *ʕōz* (>>fæstning, bolværk, værn<<) kan også betyde >>magt, styrke<< eller >>hæder, ære, lovprisning<<, se hertil Sl 29,1; 68,35; 96,6.7; LXX og Matt 21,16.} for dine modstanderes skyld
 
 //3 for at standse fjenden og den som vil hævne sig.
 
-==I særdeleshed prises Guds godhed mod mennesket, som han satte til hersker over jorden==
+==Gud har givet mennesket guddommelig ære ==
 
 //1 v4 Når jeg ser din himmel, dine fingres gerninger,
 
 //3 månen og stjernerne, //4 som du anbragte,
 
-//2 v5 hvad er da et menneske //4 at du husker på det;
+//2 v5 hvad er da et skrøbeligt menneske //4 at du husker på det;
 
-//3 et menneskebarn //4 at du tager dig af det?
+//3 et menneskebarn{T: Ordret >>en søn af Adam/et menneske<<.} //4 at du tager dig af det?
 
-//6 v6 Du har gjort det kun lidt ringere end Gud{T: Oversættes oftest >>englene<< (således LXX), jf. Hebr 2,7.};
+//6 v6 Du har gjort det kun lidt ringere end Gud{T: Oversættes med >>englene<< i LXX, jf. Hebr 2,7.};
 
-//7 du kronede det med ære og herlighed.
+//7 du kronede det med ære og pragt.
 
 //5 v7 Du gør det til hersker over dine hænders gerninger;
 
-//6 du har lagt alting under dets fødder:
+//6 du har lagt alt under dets fødder:
 
 //7 v8 Får og okser, dem alle sammen,
 
@@ -52,3 +52,4 @@
 //0 v10 HERRE, vor Herre!
 
 //1 Hvor herligt er dit navn over hele jorden!
+

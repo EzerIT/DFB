@@ -1,91 +1,112 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Dato for denne version: 31.12.2025>!!
 
 ===Salme 90===
-
 ==Overskrift==
-v1 Bøn af Moses, Guds mand.
-
-==Guds evighed og menneskets forgængelighed==
-Herre, du har været bolig for os
+//0 v1 Bøn af Moses, Guds mand.
+ ==Guds evighed og menneskets forgængelighed==
+//0 Herre, 
+//2 du har været bolig for os 
 
 i slægt efter slægt.
 
-v2 Før bjergene fødtes,
+//5 v2 Før bjergene fødtes,
 
-før du frembragte{E: I stedet for: *wattᵊḥôlēl* (>>du frembragte<<) har bl.a. Septuaginta læst passivform, 3. person: *wattᵊḥôl-l*: >>(før jorden og verden) blev frembragt<<} jorden og verden,
+//7 før du frembragte{E: Ordet *wattᵊḥôlēl* (>>du frembragte<<) henviser egentlig til at føde et barn under fødselssmerter.  Septuaginta har læst passivformen *wattᵊḥôlal*: >>(før jorden og verden) blev frembragt<<} jorden og verden,
 
-fra evighed til evighed er du Gud.
+//6 fra evighed til evighed er du Gud.
 
-v3 Du lader mennesket{T: Det ord der er brugt (*ʔᵉnôš*), bruges når der tales om mennesket som et svagt, skrøbeligt væsen.} vende tilbage til støv,
+//4 v3 Du lader det svage menneske vende tilbage til støv,
 
-du siger: >>Vend tilbage, I menneskebørn!<<
+//7 du siger: 
+//8 >>Vend tilbage, 
+//9 I menneskebørn!<<
 
-v4 For tusind år er i dine øjne
+//6 v4 For tusind år er i dine øjne 
 
-som dagen i går, når den går forbi,{E: Mange retter: *yaʕᵃvōr* (>>den går forbi<<) til: *ʕāvar*: >>den er forbi<<. Meningen med den overleverede tekst kan være: >>som dagen i går, når den passerer forbi i tankerne<<. Det sker i et glimt.}
+som dagen i går, 
+//8 når den går forbi,{E: Mange retter *yaʕᵃvōr* (>>den går forbi<<) til *ʕāvar*: >>den er forbi<<.}
 
-og som en nattevagt.
+//7 og som en nattevagt.
 
-v5 Du skyllede dem bort, de bliver som en søvn,
+//5 v5 Du skyllede dem bort, 
+//6 de bliver som en søvn,
 
-om morgenen er de som græs der skyder friske skud.{E: Oversættelsen er omdiskuteret. Verbet: *ḥlf* betegner i qal oftest at noget forgår (>>om morgenen er de som græs der forgår<<), men her og i næste vers forudsætter man som regel betydningen: >>gro/sætte friske skud<<, der ellers især er knyttet til hif’il.}
+//8 om morgenen er de som græs 
+//9 der skyder friske skud.{E: Verbet *ḥlf* betegner i qal oftest at noget forgår, men her og i næste vers forudsættes betydningen >>gro/sætte friske skud<<, der normalt udtrykkes med hif’il.}
 
-v6 Om morgenen blomstrer det og sætter friske skud,
+//7 v6 Om morgenen blomstrer det 
+//9 og sætter friske skud,
 
-om aftenen visner det og tørrer ind.
+//8 om aftenen visner det 
+//9 og tørrer ind.
 
-==Menneskets syndighed og Guds vrede==
-v7 Jo, vi er fortæret af din vrede,
+ ==Menneskets syndighed og Guds vrede==
 
-og vi er forfærdet ved din harme.
+//3 v7 Jo, vi er fortæret af din vrede,
 
-v8 Du har stillet vore synder for dine øjne,
+//6 og vi er forfærdet ved din harme.
 
-vor skjulte synd for dit ansigts lys.
+//5 v8 Du har stillet vores synder for dine øjne,
 
-v9 For alle vore dage er svundet bort i din vrede,
+//6 vores skjulte synd for dit ansigts lys.
 
-vi har henlevet vore år som et suk.
+//4 v9 For alle vores dage er svundet bort i din vrede,
 
-v10 Vore leveår{T: Ordret: >>vore års dage<<.}, i dem er der halvfjerds år,
+//6 vi har henlevet vores år som et suk.
 
-og hvis der er stærk livskraft, firs år,
+//5 v10 Vores leveår{T: Ordret: >>vores års dage<<.}, 
+//7 i dem er der halvfjerds år,
 
-og deres stolthed er møje og besvær,
+//8 og 
+//10 hvis der er livskraft, 
+//9 firs år,
 
-for det er hastigt forbi, så flyver vi bort.
+//6 og deres stolthed er elendighed og ulykke,
 
-v11 Hvem kender styrken i din vrede
+//7 for det er hastigt forbi, 
+//8 så flyver vi bort.
 
-og ud fra frygten for dig din harme?{E: Sætningen er omdiskuteret. Ordret blot: >>og som din frygt din harme<< eller: >>og i overensstemmelse med din frygt din harme<<. Med >>din frygt<< er der ment: >>frygten for dig<<.}
+//1 v11 Hvem kender styrken i din vrede
 
-v12 Lær os at tælle vore dage sådan,
+//3 og din harme som frygt for dig?
 
-at vi får visdom i hjertet. 
+//3 v12 Lær os at tælle vores dage 
+//2 sådan
 
-==Bøn om nåde==
-v13 Vend om, HERRE, hvor længe?
+//4 at vi får visdom i hjertet. 
 
-Og hav medlidenhed med dine tjenere.
+ ==Bøn om nåde==
 
-v14 Mæt os om morgenen med din nåde,
+//3 v13 Vend om, 
+//7 HERRE, 
+//6 hvor længe?
 
-så vil vi juble og glæde os alle vore dage.
+//5 Og hav medlidenhed med dine tjenere.
 
-v15 Glæd os lige så mange dage som du har ydmyget os,
+//4 v14 Mæt os om morgenen med din trofasthed,
 
-de år som vi har set ulykke.
+//5 så vil vi juble 
+//5 og glæde os alle vores dage.
 
-v16 Lad din gerning blive synlig for dine tjenere
+//4 v15 Glæd os lige så mange dage 
+//7 som du har ydmyget os,
 
-og din herlighed over deres børn.
+//6 de år 
+//7 som vi har set ulykke.
 
-v17 Og Herren, vor Guds godhed være over os,
+//5 v16 Lad din fortjeneste blive synlig for dine tjenere
 
-og styrk vore hænders gerning for os,
+//8 og din pragt over deres børn.
 
-ja, styrk vore hænders gerning!
+//7 v17 Og Herren, vores Guds skønhed være over os,
+
+//6 og styrk vores hænders gerning for os,
+
+//7 vores hænders gerning, 
+
+//8 styrk du den!
+
 
