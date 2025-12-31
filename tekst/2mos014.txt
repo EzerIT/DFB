@@ -69,10 +69,10 @@
 //8 skal I ikke
 //10 se dem igen
 //9 nogensinde.
-//7 v14 HERREN vil kæmpe for jer,
+//7 v14 HERREN vil kæmpe for jer,
 //8 men I skal tie stille.«
 
-//0 v15 HERREN sagde så til Moses:
+//0 v15 HERREN sagde så til Moses:
 //1 »Hvorfor råber du til mig?
 //2 Sig til israelitterne
 //4 at de skal bryde op,
@@ -98,7 +98,7 @@
 //2 men den oplyste natten;
 //3 den ene kom ikke den anden nær hele natten.
 //0 v21 Så rakte Moses sin hånd ud over havet,
-//1 og HERREN fik havet til at løbe væk ved en stærk østenstorm hele natten
+//1 og HERREN fik havet til at løbe væk ved en stærk østenstorm hele natten
 //2 og gjorde havet til tørt land;
 //4 og vandene blev skilt ad.
 //3 v22 Israelitterne gik midt igennem havet på tørt land,
@@ -106,15 +106,15 @@
 //3 v23 Og egypterne optog forfølgelsen 
 //4 og kom efter dem, alle Faraos heste, hans vogne og hans ryttere, ud til midten af havet.
 //2 v24 Men så ved morgenvagten
-//3 da så HERREN ned til Egyptens hær gennem{T: Ordret: »i«.} ildsøjlen og skyen,
+//3 da så HERREN ned til Egyptens hær gennem{T: Ordret: »i«.} ildsøjlen og skyen,
 //4 og han skabte forvirring i Egyptens hær,
-//4 v25 og han fjernede{E: Ordet *yāsar* betyder »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå *yeʔesor* »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.} hjulene fra deres vogne
+//4 v25 og han fjernede{E: Ordet *yāsar* betyder »fjernede«. Mange oversættere følger de gamle oversættelser og går ud fra at der skulle stå *yeʔesor* »blokerede«. I konsonantteksten skal der blot indføjes et enkelt bogstav.} hjulene fra deres vogne
 //5 og lod dem køre frem med besvær.
 //3 Da sagde egypterne:
 //4 »Lad os flygte for Israel,
 //5 for HERREN kæmper for dem mod Egypten.«
 
-//0 v26 Da sagde HERREN til Moses:
+//0 v26 Da sagde HERREN til Moses:
 //2 »Ræk din hånd ud over havet,
 //3 så vandet vender tilbage over egypterne, over deres vogne og over deres ryttere.«
 //1 v27 Så rakte Moses sin hånd ud over havet,
@@ -122,7 +122,7 @@
 //4 ved daggry tilbage til sit normale leje,
 //3 og da egypterne flygtede
 //4 imod det,
-//1 styrtede HERREN egypterne midt ud i havet.
+//1 styrtede HERREN egypterne midt ud i havet.
 //2 v28 Vandet vendte tilbage
 //4 og dækkede vognene og rytterne i hele Faraos hær,
 //6 som var kommet efter dem ud i havet;
@@ -136,4 +136,4 @@
 //3 v31 Israel så hvilken stærk{T: Ordret »stor«.} hånd
 //5 som HERREN havde brugt mod Egypten,
 //4 og folket frygtede HERREN;
-//5 de troede på HERREN og på Moses, hans tjener.
+//5 de troede på HERREN og på Moses, hans tjener.
