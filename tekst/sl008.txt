@@ -1,7 +1,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard og Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 31.12.2025>!!
+!!<Dato for denne version: 10.01.2026>!!
 
 ===Salme 8===
 
@@ -35,7 +35,7 @@
 
 //7 du kronede det med ære og pragt.
 
-//5 v7 Du gør det til hersker over dine hænders gerninger;
+//5 v7 Du har ladet det regere{H:1 Mos 1,28} over dine hænders gerninger;
 
 //6 du har lagt alt under dets fødder:
 
