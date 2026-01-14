@@ -1,12 +1,12 @@
 !!<Oversættelse: Jens Bruun Kofoed>!!
 !!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 13.01.2026>!!
+!!<Dato for denne version: 14.01.2026>!!
 
 ===Første Kongebog, kapitel 8===
 
 ==Indvielsen af templet==
 
-//0 v1 Salomo samlede nu Israels ældste, alle stammelederne og overhovederne for israelitternes klaner{T: Ordret: >>israelitternes fædre<<.} hos sig i Jerusalem
+//0 v1 Salomo samlede nu Israels ældste, alle stammelederne og overhovederne for israelitternes familier{N: Hus} hos sig i Jerusalem
 //5 for at føre HERRENS pagts ark op fra Davidsbyen, 
 //6 det vil sige Zion.
 //4 v2 Alle israelitter samledes ved festen hos kong Salomo i måneden etanim,
@@ -47,7 +47,7 @@
 
 //4 v12 Da sagde Salomo:
 //6 >>HERREN har sagt
-//8 at han vil bo i mørket.
+//8 at han vil bo i den mørke sky.{H: 2 Mos 20,21}
 //7 v13 Nu har jeg bygget dig en ophøjet bolig,
 //8 et sted
 //9 hvor du kan bo for altid.<<
