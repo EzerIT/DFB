@@ -172,19 +172,7 @@ END;
           
           <h2>Kommentarer</h2>
 
-          <p>Kommentarer og spørgsmål til selve websiden kan sendes til Claus Tøndering (<span id="cloak6668">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script>
- //<!--
- document.getElementById('cloak6668').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy6668 = 'claus' + '&#64;';
- addy6668 = addy6668 + 'tond&#101;r' + 'ing&#46;' + 'd&#107;';
- document.getElementById('cloak6668').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6668 + '\'>' +addy6668+'<\/a>';
- //-->
-          </script>).</p>
-
-          <p> Kommentarer og spørgsmål til de enkelte kapitler kan sendes til den eller de personer
- der er ansvarlige for den pågældende oversættelse.</p>
+          <p>Kommentarer og spørgsmål til selve websiden kan sendes til <a href="redaktion.php">redaktionsgruppen</a>.</p>
 
         </div>
       </div>
@@ -210,15 +198,6 @@ END;
                     (Selve tekstdatabasen kan findes via denne bestandige identifikator: <a href="http://www.persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-048i-71" target="_blank">urn:nbn:nl:ui:13-048i-71</a>.)</p>
             </div>
         </div>
-   
-      <div class="card mt-3">
-        <h1 class="card-header bg-success text-light">Personer</h1>
-        <div class="card-body">
-          <p>Under hvert kapitel nævnes de personer der har stået for det pågældende kapitel.</p>
-
-          <p>Programmering: Claus Tøndering</p>
-        </div>
-      </div>
    
       <div class="card mt-3">
         <h1 class="card-header bg-success text-light">Hvor langt er vi?</h1>

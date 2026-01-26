@@ -35,55 +35,59 @@ makemenus(3);
                 bibelforskningen. På samme måde bliver Den Frie Bibel baseret på 1871-oversættelse af
                 Det Gamle Testmente og 1907-oversættelsen af Det Nye testamente (medmindre oversætteren
                 ønsker at arbejde direkte ud fra den hebraiske eller græske tekst).</p>
-              
+
               <h2>Ophavsret</h2>
 
-              <p>Som nævnt ovenfor bliver Den Frie Bibel ikke underlagt nogen ophavsretslige
-                begrænsninger. Det har nogle omfattende konsekvenser for folk der bidrager til teksten.
-                For eksempel:</p>
+              <p>Som nævnt bliver Den Frie Bibel ikke underlagt nogen ophavsretslige begrænsninger.
+                  Det har nogle <em>omfattende</em> konsekvenser for folk der bidrager til teksten.
+                  For eksempel:</p>
 
               <ul>
-                <li>Bidragydere giver fuldstændig afkald på deres ophavsret til værket.</li>
-                <li>Man har ikke krav på at blive nævnt som ophavsmand eller -kvinde til oversættelsen.</li>
-                <li>Andre kan ændre ens oversættelse efter forgodtbefindende og udgive den ændrede
-                  udgave, men de har i så fald ikke lov til at benytte betegnelsen »Den Frie
-                  Bibel«.</li>
-                <li>Folk kan kopiere teksten og sælge den uden at betale nogen afgift.</li>
+                  <li>Bidragydere giver fuldstændig afkald på deres ophavsret til værket.</li>
+                  <li>Man har ikke krav på at blive nævnt som ophavsmand eller -kvinde til
+                      oversættelsen; men for tiden er det praksis at oversætter og redaktør for de
+                      enkelte bøger som regel bliver nævnt. Det er tænkt som en høflig anerkendelse af
+                      de pågældendes arbejde, og for at publikum kan have et sted rette deres
+                      henvendelser, ikke for at tildele rettigheder.</li>
+                  <li>Den endelige redaktionsgruppe for DFB har ret til at ændre og ensrette
+                      oversættelserne.</li>
+                  <li>Udenforstående kan ændre ens oversættelse efter forgodtbefindende og udgive
+                      den ændrede udgave, men de har i så fald ikke lov til at benytte betegnelsen »Den
+                      Frie Bibel«.</li>
+                  <li>Folk kan kopiere teksten og sælge den uden at betale nogen afgift.</li>
+
               </ul>
 
               <p>Det er meget betydningsfulde rettigheder man giver afkald på, og noget eventuelle
                 bidragydere bør tage med i deres overvejelser.</p>
 
-              <p>Denne rettighedsfraskrivelse er identisk til forholdene omkring World English Bible,
+              <p>Denne rettighedsfraskrivelse svarer til forholdene omkring World English Bible,
                 som er begrundet <a href="http://ebible.org/web/webfaq.htm#WhyNoCopyright"
                                     target="_blank">her</a>.</p>
 
               <h2>Frem&shy;gangs&shy;måde</h2>
 
-              <p>Den danske tekst kan fremkomme på to måder, enten ved oversættelse fra grundsproget
-                  eller ved en modernisering af den danske udgave af GT fra 1871 eller NT fra
-                  1907.</p>
+              <p>Hver bog oversættes af en person med indsigt i det relevante tekstområde. For GTs
+                  vedkommende gerne med afsæt i 1871-oversættelsen og Amsterdam-databasens syntaktiske
+                  struktur. Fagredaktører og sprogredaktør gennemgår derpå oversættelsen, sammenligner
+                  paralleltekster og retter inkonsekvenser. Derefter samordnes terminologi og stil i en
+                  større redaktionsgruppe for at sikre helhed og sammenhæng.</p>
 
-              <p>Oversættelsen vil efterfølgende blive gennemgået af en »sprogvasker«, der skal
-              sikre at sproget er korrekt, letlæst dansk, og en hebraisk- eller græskkyndig teolog,
-              der sammenholder den med den nyeste bibelforskning. I fællesskab når oversætter,
-              sprogvasker og teolog så frem til et resultat der ligger så tæt på grundteksten som
-              muligt.</p>
 
               <h2>Over&shy;sæt&shy;tel&shy;ses&shy;mæs&shy;sige ret&shy;nings&shy;lin&shy;jer</h2>
 
               <p>Det danske sprog skal være så nutidigt og letlæst som muligt, hvis dette kan ske uden
                 at det går ud over oversættelsens nøjagtighed.</p>
-          
+
               <p>Hvor den hebraiske eller græske original er uklar eller tvetydig, skal man tilstræbe en tilsvarende
                 uklarhed og tvetydighed i den danske tekst. Hvis dette ikke er muligt, indsættes en
                 fodnote der angiver andre mulige oversættelser. Oversættelsen bør så vidt muligt undgå at
                 støtte en bestemt fortolkning af teksten hvis andre fortolkninger er mulige.</p>
 
               <p>Stave- og tegnsætningsanbefalinger fra
-                  <a href="https://ro.dsn.dk"target="_blank">Retskrivningsordbogen&nbsp;2024</a>
+                  <a href="https://ro.dsn.dk"target="_blank">Retskrivningsordbogen&nbsp;2025</a>
                   skal følges. Det anbefales endvidere at man undlader at sætte startkomma
-                  (<a href="https://ro.dsn.dk/?type=rulesearch&side=49"
+                  (<a href="https://ro.dsn.dk/?type=rulesearch&paragraf=49"
                     target="_blank">Retskrivningsordbogen §49</a>). Er oversætteren ikke selv fortrolig med disse
                 regler, rettes det til ved den endelige korrektur.</p>
 
@@ -97,7 +101,7 @@ makemenus(3);
               </ul>
 
               <p>Og tilsvarende for skulle/skal/skulde og ville/vil/vilde.</p>
-              
+
               <p>1871-oversættelsen bruger ofte ordet »kære«. Det er en oversættelse af et hebraisk ord
                 der svarer lidt til det engelske »please«. Det skal altså ikke oversættes med »kære«. I stedet kan
                 bruges »vær venlig at« o.lign.</p>
@@ -139,14 +143,14 @@ makemenus(3);
                 ligger tættest op ad originalteksten. Af ophavsretslige grunde bør man undgå direkte at
                 kopiere tekst fra andre oversættelser.</p>
 
-              <p>Interlineare tekster: Disse kan være noget udfordrende at bruge for folk der ikke er 
+              <p>Interlineare tekster: Disse kan være noget udfordrende at bruge for folk der ikke er
                 hebraisk- eller græskkyndige, men kan være en hjælp til at forstå hvordan de forskellige
                 oversættelser er opstået.</p>
 
             </div>
           </div>
         </div>
- 
+
       </div><!--End of row-->
     </div><!--End of container-->
 <?php
