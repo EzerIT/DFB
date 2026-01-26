@@ -45,7 +45,7 @@ function cloakEmail(elementId, domain, user, tld) {
                  <li>For det Gamle Testamente: Nicolai Winther-Nielsen (<span id="nwn"></span>)</li>
                  <li>For det Nye Testamente: Torben Kjær (<span id="tk"></span>)</li>
              </ul>
-             <li><strong>It-ansvarlig:</strong> Claus Tøndering (<span id="ct"></span>)</li>
+             <li><strong>IT-ansvarlig:</strong> Claus Tøndering (<span id="ct"></span>)</li>
          </ul>
         </div>
       </div>
