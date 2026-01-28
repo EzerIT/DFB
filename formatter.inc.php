@@ -163,7 +163,7 @@ abstract class Formatter {
     }
 }    
 
-// Formatter for non-exitant chapter
+// Formatter for non-existant chapter
 class FormatNull extends Formatter {
     public function to_html() {
         $this->title = "Fejl";

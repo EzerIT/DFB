@@ -96,7 +96,7 @@
 //6 Han placerede dem i vognbyer og hos kongen i Jerusalem.
 //4 v27 Kongen anbragte sølvet i Jerusalem som var det sten,
 //5 og cedertræet som var det morbærfigentræet
-//7 der vokser overalt i lavlandet.{T. Ordret >>som er i lavlandet i overflod<<.}
+//7 der vokser overalt i lavlandet.{T: Ordret >>som er i lavlandet i overflod<<.}
 //6 v28 Den eksport af heste,
 //9 som skete til Salomo,
 //8 var fra Egypten
