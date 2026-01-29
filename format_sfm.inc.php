@@ -55,6 +55,7 @@ class FormatSfm extends Formatter {
     private $synindent;        // Syntactic indentation value
     private $read_chapter;     // Chapter number read from file
     private $fh; // File handle for original language text
+    private $do_indent = false; // Indent the next paragraph
 
     private function finish($building, string $buffer) {
         switch ($building) {
@@ -62,17 +63,25 @@ class FormatSfm extends Formatter {
                 $this->title = rtrim($buffer) . ", kapitel $this->read_chapter";
                 break;
             case 'HEADER':
-                if (!$this->syntactic_layout)
+                if (!$this->syntactic_layout) {
                     $this->output .= "<h2>$buffer</h2>\n";
+                    $this->do_indent = false;
+                }
                 break;
             case 'BLANK':
                 $this->output .= "<div class=\"paragraph\">&nbsp;</div>\n";
                 break;
             case 'PARAGRAPH':
-                $this->output .= "<div class=\"paragraph\">$buffer</div>\n";
+                if (!$this->do_indent) {
+                    $this->output .= "<div class=\"paragraph paragraph1\">$buffer</div>\n";
+                    $this->do_indent = true;
+                }
+                else
+                    $this->output .= "<div class=\"paragraph\">$buffer</div>\n";
                 break;
-            case 'PARAGRAPH1':
-                $this->output .= "<div class=\"paragraph paragraph1\">$buffer</div>\n";
+            case 'PARAGRAPHM':
+                $this->output .= "<div class=\"paragraph paragraphm\">$buffer</div>\n";
+                $this->do_indent = true;
                 break;
             case 'POETRY1':
                 $this->output .= "<div class=\"poetry poetry1\">$buffer</div>\n";
@@ -109,7 +118,8 @@ class FormatSfm extends Formatter {
     }
 
     public function to_html() {
-        $txt = file_get_contents(sprintf('sfm/%s.sfm',$this->book));
+        global $filetype;
+        $txt = file_get_contents('sfm/' . $filetype[$this->book]);
 
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");
@@ -188,15 +198,11 @@ class FormatSfm extends Formatter {
 
         
         // Read credits
-        if (file_exists(sprintf('sfm/%s%03d.cre',$this->book,$this->chapter))) {
+        $creditfile = sprintf('sfm/%s%03d.cre', substr($filetype[$this->book],0,-4), $this->chapter);
+        
+        if (file_exists($creditfile)) {
             preg_match_all('/!!<(.*)>!!/',
-                           file_get_contents(sprintf('sfm/%s%03d.cre',$this->book,$this->chapter)),
-                           $meta_matches);
-            $this->credit = $meta_matches[1];
-        }
-        elseif (file_exists(sprintf('tekst/%s.cre',$this->book))) {
-            preg_match_all('/!!<(.*)>!!/',
-                           file_get_contents(sprintf('sfm/%s.cre',$this->book)),
+                           file_get_contents($creditfile),
                            $meta_matches);
             $this->credit = $meta_matches[1];
         }
@@ -278,7 +284,7 @@ class FormatSfm extends Formatter {
             $to[] = '';
 
             $from[] = '/\\\\zei\s*([0-9]+)\s*\\\\zei\\*/'; // Remove \zei...\zei*
-            $to[] = '\\Z \1';
+            $to[] = '\\Z \1 ';
         }
         else {
             $from[] = '/\\\\zei[ 0-9]+\\\\zei\\*/';
@@ -339,7 +345,7 @@ class FormatSfm extends Formatter {
 
                 case '\m':
                     $this->finish($building,$buffer);
-                    $building = 'PARAGRAPH1';
+                    $building = 'PARAGRAPHM';
                     $buffer = '';
                     break;
 

@@ -8,7 +8,7 @@ $chap['5mos']     = [6,8,10,18,30];
 $chap['dom']      = range(1,21);
 $chap['ruth']     = range(1,4);
 $chap['2sam']     = [11,12];
-$chap['1kong']    = [1,2,3,4,5,6,7,8,9,10];
+$chap['1kong']    = range(1,11);
 $chap['2kong']    = [5];
 $chap['job']      = range(1,42);
 $chap['sl']       = range(1,150);
@@ -315,6 +315,8 @@ $style['3joh']    = $modenhed['uden indrykning'];
 $style['jud']     = $modenhed['uden indrykning'];
 $style['åb']      = $modenhed['uden indrykning'];
 
+// For plain text files, $filetype[] contains the string 'txt'
+// For USFM files, $filetype[] contains the filename of the book
 $filetype['1mos']     = 'txt';
 $filetype['2mos']     = 'txt';
 $filetype['3mos']     = 'txt';
@@ -323,7 +325,7 @@ $filetype['5mos']     = 'txt';
 $filetype['dom']      = 'txt';
 $filetype['ruth']     = 'txt';
 $filetype['2sam']     = 'txt';
-$filetype['1kong']    = 'txt';
+$filetype['1kong']    = '111KIDFB.SFM';
 $filetype['2kong']    = 'txt';
 $filetype['job']      = 'txt';
 $filetype['sl']       = 'txt';

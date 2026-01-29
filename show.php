@@ -157,6 +157,11 @@ else
         display: block;
     }
 
+    div.paragraphm {
+        text-indent: 0;
+        display: block;
+    }
+
      div.textline {
          margin-left: 11em;
          text-indent: -11em;
@@ -302,6 +307,7 @@ else
              $('.paragraph').css('line-height','2');
              $('.poetry').css('line-height','2');
              $('.indent').css('line-height','2');
+             $('.indented-text').css('line-height','2');
          <?php endif; ?>
 
          <?php if ($_SESSION['showfna']=='on'): ?>
