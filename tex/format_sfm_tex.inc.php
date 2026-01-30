@@ -93,14 +93,15 @@ class FormatSfmTex {
             case 'POETRY2':
                 $this->output .= "\n\n$buffer\n";
                 break;
-            case 'PARAGRAPH1':
+            case 'PARAGRAPHM':
                 $this->output .= "\n\\noindent\n$buffer\n";
                 break;
         }
     }
 
     public function to_latex() {
-        $txt = file_get_contents(sprintf('../sfm/%s.sfm',$this->book));
+        global $filetype;
+        $txt = file_get_contents('../sfm/' . $filetype[$this->book]);
 
         if (strstr($txt,"\"")!==false)
             throw new ParserException("Double quotation mark in text");
@@ -194,7 +195,7 @@ class FormatSfmTex {
 
                 case '\m':
                     $this->finish($building,$buffer);
-                    $building = 'PARAGRAPH1';
+                    $building = 'PARAGRAPHM';
                     $buffer = '';
                     break;
 
