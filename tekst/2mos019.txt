@@ -1,35 +1,127 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.04.2020>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 02.02.2026>!!
 ===Anden Mosebog, kapitel 19===
 
-==Åbenbaringen på Sinaj==
-v1 I den tredje måned efter at Israels børn var draget ud af Egyptens land, på den dag{E: Der er ikke angivet en dato; meningen er nok at det skete på den første dag (nymånen) i den tredje måned efter udvandringen.} kom de til Sinajs ørken.
-v2 De brød op fra Refidim og kom til Sinajs ørken og slog lejr i ørkenen. Israel slog lejr dér over for bjerget, 
-v3 men Moses steg op til Gud, og HERREN råbte til ham fra bjerget og sagde: >>Sådan skal du sige til Jakobs hus og fortælle Israels børn:
-v4 >I har set, hvad jeg gjorde ved Egypten, og jeg bar jer på ørnevinger{E: Grundtekstens *nešer* kan betegne både >>ørn<< og >>grib<<. I antikke højkulturer var gribben (både han- og hunfuglen) symbol for forældreomsorg og forældrekærlighed.} og bragte jer til mig. 
-v5 Derfor: Hvis I vil lytte omhyggeligt{T: Den hebraiske tekst har verbet *šmʕ* (>>lytte<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.}  til min røst og holde min pagt, skal I være mig en ejendom ud af alle folkeslagene, selv om{T: Det hebraiske *kî* (>>selv om<<) skal oftest oversættes: >>for<<, og det er også en mulighed her.} hele jorden tilhører mig.
-v6 Så I skal for mig være et kongerige af præster{E: Det er omdiskuteret hvordan grundtekstens genitiv skal forstås. Sprogligt kan meningen være: >>et kongerige med præster som regenter / et præsteligt kongerige / et kongerige, der består af præster<<. Sidstnævnte synes mest oplagt i sammenhængen.} og et helligt folk. Disse er de ord som du skal sige til Israels børn.<<<
-v7 Moses kom og kaldte på folkets ældste og forelagde dem alle disse ord som HERREN havde befalet ham. 
-v8  Hele folket svarede samstemmende: >>Alt det som HERREN har sagt, vil vi gøre.<< Og Moses bragte folkets ord tilbage til HERREN.
+==Åbenbaringen på Sinaj== 
+//0 v1 I den tredje måned 
+//4 efter at Israels børn var draget ud af Egyptens land,  
+//3 på den dag kom de til Sinajs ørken.  
+//2 v2 De brød op fra Refidim 
+//2 og kom til Sinajs ørken 
+//2 og slog lejr i ørkenen. 
+//3 Israel slog lejr dér over for bjerget,  
+//4 v3 men Moses gik op til Gud.  
+//5 HERREN kaldte på ham fra bjerget 
+//6 og sagde:  
+//7 >>Sådan skal du sige til Jakobs hus 
+//10 og fortælle israelitterne: 
+//9 v4 >I har set 
+//11 hvad jeg gjorde ved Egypten. 
+//12 Jeg løftede jer op på ørnevinger{E: *nešer* kan betegne både >>ørn<< og >>grib<<.} 
+//12 og bragte jer til mig. 
+//10 v5 Derfor: 
+//11 Hvis I vil lytte omhyggeligt til min røst 
+//13 og holde min pagt, 
+//12 skal I for mig være et værdifuldt eje blandt alle folkeslagene, 
+//14 selv om{E: Det hebraiske *kî* (>>selv om<<) skal oftest oversættes >>for<<, og det er også en mulighed her.} hele jorden tilhører mig. 
+//13 v6 I skal for mig være et kongerige af præster og et helligt folk.< 
+//8 Disse er de ord 
+//9 som du skal sige til israelliterne.<< 
+//4 v7 Moses kom 
+//6 og kaldte på folkets ældste 
+//6 og forelagde dem alle disse ord  
+//7 som HERREN havde befalet ham. 
+//5 v8 Hele folket svarede samstemmende 
+//6:  
+//7 >>Alt det 
+//9 som HERREN har sagt,  
+//8 vil vi gøre.<<  
+== Forberedelsen til pagtslutningen ==  
+//4 Moses bragte folkets ord tilbage til HERREN,  
+//4 v9 og HERREN sagde til Moses: 
+//5 >>Se, jeg vil komme til dig i en tæt sky 
+//6 for at folket må høre 
+//8 når jeg taler med dig, 
+//7 og også altid må stole på dig.<< 
+//4 Moses fortalte HERREN folkets ord,  
+//4 v10 og HERREN sagde til Moses: 
+//5 >>Gå til folket.  
+//6 Du skal hellige dem i dag og i morgen,  
+//8 og de skal vaske deres tøj. 
+//8 v11 De skal være parate til den tredje dag, 
+//9 for på den tredje dag vil HERREN for øjnene af hele folket stige ned på Sinajs bjerg.  
+//7 v12 Du skal sætte et gærde rundt omkring folket 
+//9 og sige: 
+//10 >Vogt jer for  
+//12 at gå op på bjerget 
+//13 og at røre ved kanten af det;  
+//11 hver den 
+//15 som rører ved bjerget  
+//14 skal helt bestemt dø.<  
+//13 v13 Ingen hånd må røre ved ham,  
+//14 for han skal helt bestemt stenes  
+//15 eller skydes. 
+//12 Hvad enten det er et dyr  
+//12 eller et menneske,  
+//13 skal det ikke blive i live.  
+//9 Når shofarhornet{T: Et vædderhorn der bruges som blæseinstrument.} giver en lang tone, 
+//8 må de gå op på bjerget.<< 
+//4 v14 Moses gik ned fra bjerget til folket; 
+//5 han helligede folket,  
+//6 og de vaskede deres tøj. 
+//5 v15 Han sagde til folket: 
+//6 >>Vær parate til om tre dage;  
+//7 kom ikke kvinder nær.<<  
+== Moses på bjerget på den tredje dag ==  
+//1 v16 Og så på den tredje dag,  
+//3 da det blev morgen, 
+//2 kom der 
+//3 torden og lyn og en tung sky på bjerget  
+//5 og en meget kraftig tone fra et shofarhorn, 
+//4 og så skælvede hele folket 
+//5 som var i lejren.  
+//4 v17 Moses førte folket  
+//7 hen imod Gud,  
+//6 væk fra lejren,  
+//5 og de stillede sig neden for bjerget. 
+//6 v18 Hele Sinajs bjerg var hyllet i røg 
+//8 fordi HERREN steg ned på det i ilden, 
+//7 og røgen fra det steg op som røgen fra en smelteovn, 
+//7 og hele bjerget skælvede voldsomt. 
+//2 v19 Så 
+//3 tog shofarhornets tone til 
+//5 og blev meget kraftig. 
+//4 Moses taler,{T: Dette og det følgende verbum opfattes her som en historisk præsens, kan også sprogligt forklares som en særlig form af verbet og oversættes >>Moses begyndte at tale og Gud at svare<<.}  
+//5 og Gud svarer ham tydeligt.{E: *bᵊqôl* (>>i en lyd, tydligt<<) kan også oversættes >>i en torden<< eller >>i en tone<<.}  
+//2 v20 HERREN steg ned på Sinajs bjerg, på bjergets top, 
+//2 og HERREN kaldte Moses op til bjergets top, 
+//2 og Moses steg op.  
+//2 v21 Da sagde HERREN til Moses: 
+//3 >>Gå ned, 
+//3 advar folket 
+//5 for at de ikke skal trænge sig frem til HERREN  
+//7 for at se ham,  
+//6 så mange af dem vil falde. 
+//4 v22 Også præsterne, 
+//7 som kommer nær til HERREN, 
+//6 skal hellige sig  
+//5 for at HERREN ikke skal trænge frem mod dem.<< 
+//2 v23 Moses sagde til HERREN: 
+//4 >>Folket kan ikke 
+//6 gå op til Sinajs bjerg, 
+//5 for du har selv advaret os  
+//6 ved at sige:  
+//7 >Sæt gærde om bjerget 
+//8 og lad det blive helliget.<<< 
+//3 v24 Men HERREN sagde til ham: 
+//4 >>Gå nu! 
+//4 Gå ned, 
+//6 og gå du så op igen sammen med Aron, 
+//5 men præsterne og folket må ikke trænge sig frem  
+//7 for at gå op til HERREN 
+//6 for at han ikke skal trænge frem mod dem.<< 
+//2 v25 Så steg Moses ned til folket 
+//3 og sagde til dem:{T: Verbet bruges ikke med genstandsled, men indleder altid et direkte citat, der så her følger i det næste kapitel.} 
 
-==Forberedelsen til pagtslutningen==
-v9 Da sagde HERREN til Moses: >>Se, jeg vil komme til dig i en tæt sky for at folket må høre når jeg taler med dig, og også altid må stole på dig.<< Moses fortalte HERREN folkets ord,
-v10 og HERREN sagde til Moses: >>Gå til folket, og du skal hellige dem i dag og i morgen, og de skal vaske deres klæder.
-v11 De skal være parate til den tredje dag, for på den tredje dag vil HERREN for øjnene af hele folket stige ned på Sinajs bjerg.
-v12 Du skal sætte gærde rundt omkring folket og sige: >Vogt jer for at gå op på bjerget og at røre ved dets fod;{T: Ordret: >>grænse /rand<<.} hver den som rører ved bjerget skal så sandelig dø.<{T: Den hebraiske tekst har verbet *mwt* (>>dø<<) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.}
-v13 Ingen hånd må røre ved ham; men han skal så sandelig stenes eller skydes. Hvad enten det er et dyr eller et menneske, skal det ikke leve. Når hornet{E: På hebraisk hedder det: *yōvēl*. Ordet går igen i betegnelsen >>jubelår<<, som rettelig burde hedde: >>jobelår<<. Det indvarsles med vædderhorn.} giver en lang lyd, må de gå op på bjerget.<<
-v14 Moses gik ned ad bjerget til folket; og han helligede folket, og de vaskede deres klæder.
-v15 Og han sagde til folket: >>Vær parate til om tre dage; kom ikke kvinder nær.<<
-v16 Og det skete på den tredje dag, da det blev morgen, at der var torden og lyn og en tung sky på bjerget og en meget stærk lyd af horn, så hele folket som var i lejren, skælvede.
-v17 Men Moses førte folket ud af lejren hen imod Gud, og de stillede sig ved foden af bjerget.
-v18 Hele Sinajs bjerg var hyllet i røg, for HERREN steg ned på det i ilden, og røgen fra det steg op som røgen fra en smelteovn, og hele bjerget skælvede voldsomt.
-v19 Hornets lyd tog til og blev meget kraftig. Moses talte, og Gud svarede ham lydelig.
-v20 HERREN steg ned på Sinajs bjerg, på bjergets top, og HERREN kaldte Moses op til bjergets top, og Moses steg op.
-v21 Da sagde HERREN til Moses: >>Gå ned, advar folket for at de ikke skal bryde frem til HERREN for at se, så mange af dem skal falde. 
-v22 Også præsterne, som kommer nær til HERREN, skal hellige sig for at HERREN ikke skal bryde løs mod dem.<<
-v23 Moses sagde til HERREN: >>Folket kan ikke stige op på Sinajs bjerg, for du har selv advaret os og sagt: >Sæt gærde om bjerget og hellig det.<<<
-v24 Men HERREN sagde til ham: >>Gå, stig ned, og kom så op, du og Aron med dig. Men præsterne og folket må ikke bryde frem for at stige op til HERREN for at han ikke skal bryde løs mod dem.<<
-v25 Så steg Moses ned til folket og sagde det{T: Ordret slutter kapitlet lidt abrupt. Der står kun: >>og han sagde til dem.<< Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: >>… og sagde til dem:<<} til dem.
 
