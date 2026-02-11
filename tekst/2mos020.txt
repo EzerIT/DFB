@@ -1,37 +1,85 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 01.02.2021>!!
+!!<Foreløbig redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 11.02.2026>!!
 ===Anden Mosebog, kapitel 20===
-
-==De ti bud{E: Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.}==
-v1 Gud talte alle disse ord{E: I Mosebøgerne tales der strengt ikke om *de ti bud*, men om *de ti ord*, jf. vers 1, og i grundteksten gælder det også 34,28; 5 Mos 4,13; 10,4.} og sagde:
-v2 >>Jeg er HERREN din Gud,{T: Grundteksten kan også oversættes: >>Jeg, HERREN, er din Gud<<. Da Guds navn (HERREN) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.} som førte dig ud af Egyptens land, af trællehuset.
-v3 Du må ikke{T: Når nægtelsen *lōʔ* (>>ikke<<) efterfølges af verbum i wayyiqtol (imperfektum), kan det udtrykke stærkest muligt forbud når Gud taler til mennesker. Sådan må det opfattes her i buddene/ordene. Samtidig kan det dog ikke helt udelukkes at der også ligger en forjættelse i formuleringen om det som skal opfyldes i samlivet med Gud. En oversættelse kunne være: >>Du skal ikke have andre guder end mig!<< Tilsvarende gælder for de andre bud.} have andre guder end mig!{T: Ordret: >>Der må ikke for dig være andre guder foran mit ansigt / i mit nærvær<<. Meningen er enten som det er oversat her, eller: >>ved siden af mig<<.}
-v4 Du må ikke lave dig et gudebillede eller nogen som helst afbildning af det som er i himlen oventil, eller det som er på jorden nedentil, eller det som er i vandet under jorden.
-v5 Du må ikke tilbede dem og ikke tillade dig at tjene dem;{T: Kan også oversættes: >>ikke lade dig lede til at tjene dem<<.} for jeg, HERREN din Gud, er en skinsyg Gud som hjemsøger fædres skyld på børn, på dem i tredje og på dem i fjerde led af dem som hader mig;
-v6 men viser nåde i tusind led mod dem som elsker mig, og mod dem som holder mine bud.
-v7 Du må ikke bruge{T: Ordret: >>løfte<<. Det er formodentlig underforstået: >>løfte op på læberne<<, altså bruge Guds navn.} HERREN din Guds navn til falskhed;{T: Ordret: >>intethed<<. Der er i sammenhængen tænkt både på falsk ed, løgn og på ligegyldig brug af Guds navn.} for HERREN vil ikke lade den ustraffet{T: Eller: >>erklære uskyldig<<} som bruger hans navn til falskhed.
-v8 Husk sabbatsdagen så du holder den hellig.
-v9 Seks dage skal du arbejde og gøre al din gerning,
-v10 men den syvende dag er sabbat for HERREN din Gud; da skal du ingen gerning gøre, hverken du eller din søn eller din datter, din træl eller din trælkvinde{T: Både her og i vers 17 kan de hebraiske ord også oversættes: >>din tjener eller din tjenestepige<<.} eller dit kvæg eller din{E: Den >>fremmede<< hører ikke til husstanden, men er alligevel afhængig af den behandling, han får. Derfor kaldes han >>din fremmede<<.} fremmede som er indenfor dine porte.
-v11 For på seks dage gjorde HERREN himlen og jorden, havet og alt det som er i dem, men hvilede på den syvende dag; derfor velsignede HERREN sabbatsdagen og helligede den.
-v12 Ær din far og din mor for at dine dage må blive mange{T: Ordret: >>må være lange<<.} på den jord som HERREN din Gud giver dig.
-v13 Du må ikke begå drab.{E: Det hebraiske verbum (*rṣḥ*) bruges med én undtagelse (Ordsp 22,13) af 46 tilfælde i GT om selvisk mord og manddrab. Hebraisk har to andre verber der med lidt forskellig vinkel betyder >>at slå ihjel<<.}
-v14 Du må ikke bryde ægteskab.{E: Buddet vender sig imod at bryde en gudgivet ordning for det seksuelle samliv og familieliv.}
-v15 Du må ikke stjæle.
-v16 Du må ikke svare mod din næste som et falsk vidne. 
-v17 Du må ikke begære din næstes hus. Du må ikke begære din næstes hustru eller hans træl eller hans trælkvinde eller hans okse eller hans æsel eller noget som tilhører din næste.<<
-
-== Folkets reaktion==
-v18 Hele folket oplevede{T: Ordret: >>så<<.} tordenen{T: Ordret: >>røsterne<<.} og lynene{T: Ordret: >>faklerne<<.} og hornets lyd og bjerget rygende; folket oplevede det, og de rystede{E: af angst.} og stod langt borte.
-v19 Og de sagde til Moses: >>Tal du med os, så vil vi lytte; men lad ikke Gud tale med os, for at vi ikke skal dø.<<
-v20 Men Moses sagde til folket: >>Frygt ikke, for Gud er kommet for at sætte jer på prøve, og for at frygt{E: I betydningen >>ærefrygt<<, ikke som >>rædsel<<.} for ham skal være for jeres ansigt så I ikke synder.<< 
-v21 Mens folket stod langt borte, nærmede Moses sig mulmet hvor Gud var.
-
-==Forordning om alteret==
-v22 Og HERREN sagde til Moses: >>Sådan skal du sige til Israels børn: >I har oplevet{T: Ordret: >>set<<.} at jeg har talt fra himlen med jer.
-v23 I må ikke lave jer noget ved siden af mig;{T: Således er det forudsat med grundtekstens accent. Mange oversættere vælger at flytte accenten og oversætter: >>I må ikke lave jer guder af sølv ved siden af mig, og I må ikke lave jer guder af guld<<.} guder af sølv og guder af guld må I ikke lave jer.<
-v24 Du skal lave mig et alter af jord, og på det skal du ofre dine brændofre og dine måltidsofre,{T: Det hebraiske: *šelem* kunne også oversættes: >>fælesskabsofre<< eller >>fredsofre<<, idet samme rod (*šlm*) angiver helhed og fællesskab og går igen i ordet: *šālôm*: >>fred<<.} dine får og dine okser; på hvert sted, hvor jeg lader mit navn blive husket, vil jeg komme til dig og velsigne dig.
-v25 Men hvis du vil lave mig et alter af sten, skal du ikke bygge det af kvadre, for hvis du svinger dit huggejern over det, vanhelliger du det.
-v26 Og du må ikke gå op ad trapper på mit alter for at din nøgenhed ikke skal blottes over det.<<
+==De ti Bud==
+//0 v1 >>Gud talte alle disse ord{H: 2 Mos 34,28. 5 Mos 4,13; 10,4.}
+//2 og sagde:
+//3 v2 Jeg er HERREN din Gud,{T: Grundteksten kan også oversættes >>Jeg, HERREN, er din Gud<<.}
+//5 som førte dig ud af Egyptens land, af slavehuset.
+//4 v3 Du må ikke have andre guder end mig!{T: Ordret >>Der må ikke for dig være andre guder foran mit ansigt, i mit nærvær<<. En anden mulig oversættelse er >>ved siden af mig<<.}
+//5 v4 Du må ikke lave dig et gudebillede eller nogen som helst afbildning af det
+//7 som er i himlen foroven,
+//8 eller det som er på jorden forneden,
+//8 eller det som er i vandet under jorden.
+//6 v5 Du må ikke tilbede dem
+//8 og ikke lade dig lede til at tjene dem,
+//7 for jeg, HERREN din Gud, er en passioneret Gud
+//8 som straffer fædres skyld på børn, på dem i tredje og i fjerde led,
+//10 når de hader mig;
+//9 v6 men viser nåde i tusind led når de elsker mig, og når de holder mine bud.
+//5 v7 Du må ikke bruge{T: Ordret >>løfte<<, underforstået enten >>løfte op på læberne<< eller løfte hånden under edsaflæggelse.} HERREN din Guds navn falsk;
+//7 for HERREN vil ikke lade den ustraffet{T: Eller: >>erklære uskyldig<<.}
+//8 som bruger hans navn falsk.
+//6 v8 Husk sabbatsdagen
+//9 ved at holde den hellig.
+//8 v9 Seks dage skal du arbejde
+//10 og gøre al din gerning,
+//9 v10 men den syvende dag er sabbat for HERREN din Gud;
+//7 da må du ingen gerning gøre, hverken du eller din søn eller din datter, din ansatte{N: Slave}, din tjenestepige, dit kvæg eller din fremmede
+//9 som er inden for dine byporte.
+//8 v11 For på seks dage lavede HERREN himlen og jorden, havet og alt det
+//11 som er i dem,
+//10 men hvilede på den syvende dag;
+//9 derfor velsignede HERREN sabbatsdagen
+//10 og helligede den.
+//6 v12 Vis ære til din far og din mor
+//7 for at dine dage må blive mange på den jord
+//8 som HERREN din Gud giver dig.
+//5 v13 Du må ikke begå mord.
+//5 v14 Du må ikke bryde et ægteskab.
+//5 v15 Du må ikke stjæle.
+//5 v16 Du må ikke vidne mod din næste som et falsk vidne.
+//5 v17 Du må ikke begære din næstes hus.
+//5 Du må ikke begære din næstes hustru eller hans ansatte, hans tjenestepige, hans okse, hans æsel eller noget som helst
+//6 som tilhører din næste.<<
+ == Folkets reaktion==
+//1 v18 Hele folket oplevede{T: Ordret >>så<<.} tordenen, lysene{T: Ordret >>faklerne<<.} og shofarhornets{H: 2 Mos 19,13} tone og bjerget
+//3 dækket af røgen;
+//2 folket blev bange,
+//3 rystede af angst
+//3 og stod langt borte.
+//3 v19 De sagde til Moses:
+//4 >>Tal du med os,
+//6 så vil vi lytte;
+//5 men lad ikke Gud tale med os
+//6 for at vi ikke skal dø.<<
+//2 v20 Men Moses sagde til folket:
+//3 >>Frygt ikke,
+//4 for
+//7 det er for at sætte jer på prøve
+//6 at Gud er kommet,
+//5 og for at gudsfrygt{N: Frygte} skal præge jer{T: Ordret >>være på jeres ansigt<<.}
+//6 så I ikke synder.<<
+ ==Forordning om alteret==
+//2 v21 Folket stod langt borte,
+//3 men Moses nærmede sig den mørke sky
+//5 hvor Gud var,
+//4 v22 og HERREN sagde til Moses:
+//5 >>Sådan skal du sige til israelitterne:
+//6 >I har oplevet{H: 2 Mos 20,18.}
+//9 at jeg har talt fra himlen med jer.
+//8 v23 I må ikke lave jer guder af sølv ved siden af mig,
+//9 og I må ikke lave jer guder af guld.<
+//7 v24 Du skal lave mig et alter af jord,
+//11 og på det skal du ofre dine helofre{H: 1 Mos 8,20}, dine fællesskabsofre,{E: *šelem* kan også oversættes >>fredsoffer<< fordi verbet *šlm* er beslægtet med ordet *šālôm* (>>fred<<).} dine får og dine okser;
+//10 på hvert sted{T: Kan også oversættes >>på hele det sted<<.}
+//12 hvor jeg lader mit navn blive husket,
+//11 vil jeg komme til dig
+//12 og velsigne dig.
+//9 v25 Men hvis du vil lave mig et alter af sten,
+//11 må du ikke bygge det af kvadersten,
+//10 for hvis du svinger din mejsel over det,
+//11 vil du vanhellige det.
+//8 v26 Du må ikke gå op ad trappetrin på mit alter
+//9 for at din nøgenhed ikke skal blive afdækket over det.<<
