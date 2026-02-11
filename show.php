@@ -373,7 +373,7 @@ else
              $(this).html('<a href="mailto:' + email + '">' + email + '</a>');
          });
 
-         <?php if ($_SESSION['indent_type']=='text'): ?>
+         <?php if ($syntactic_layout && $_SESSION['indent_type']=='text'): ?>
          $('#main-container').removeClass('container').addClass('container-fluid');
          <?php endif; ?>
      });
