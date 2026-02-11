@@ -228,6 +228,7 @@ for ($k=15; $k<=50; ++$k)
 for ($k=1; $k<=40; ++$k)
     $style['2mos'][$k] = $modenhed['uden indrykning'];
 $style['2mos'][14] = $modenhed['med indrykning'];
+$style['2mos'][19] = $modenhed['med indrykning'];
 
 $style['3mos']    = $modenhed['uden indrykning'];
 
