@@ -1,160 +1,183 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Litterært tjek: >!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering >!!
+!!<Dato for denne version: 13.02.2026>!!
 
 ===Salme 31===
-
 ==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<}
 
-Salme af David.
+//0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<}
 
-==Klage og bøn om hjælp==
-v2 Hos dig, HERRE, har jeg søgt tilflugt,
+//1 Salme af David.
 
-lad mig aldrig i evighed blive til skamme,
+  ==Klage og bøn om hjælp==
 
-udfri mig i din retfærdighed.
+//0 v2 Hos dig, 
+//4 HERRE, 
+//3 har jeg søgt tilflugt,
 
-v3 Bøj dit øre til mig,
+//2 lad mig aldrig i evighed blive til skamme,
 
-red mig i hast,
+//3 udfri mig i din retfærdighed.
 
-vær mig en klippefæstning,
+//4 v3 Bøj dit øre til mig,
 
-en befæstet borg til at frelse mig.
+//5 red mig i hast,
 
-v4 For du er min klippe og min borg,
+//4 vær mig en klippefæstning,
 
-og led mig og før mig for dit navns skyld.
+//9 en befæstet borg 
+//8 til at frelse mig.
 
-v5 Befri mig fra det net
+//7 v4 For du er min klippe og min borg,
 
-som de har udlagt skjult for mig,
+//8 og for dit navns skyld leder du mig 
+//9 og fører mig.
 
-for du er min fæstning.
+//6 v5 Du fører mig ud af det net
 
-v6 I din hånd betror jeg min ånd,
+//9 som de har udlagt skjult for mig,
 
-du forløser{E: Perfektum må her forstås som det, der er digterens erfaring og derfor også hans tillid. Sætningen kan dog også oversættes: >>du har forløst mig<<} mig, HERRE, du trofaste{T: Kan også oversættes: >>sandheds/sande<<} Gud!
+//8 for du er min fæstning.
 
-==Tillid til Gud==
-v7 Jeg har hadet dem som dyrker falske guder,{E: I den hebraiske tekst ligger at de der tilbeder de falske guder, bedrages ved gudernes tomhed}
+//7 v6 I din hånd betror jeg min ånd,
 
-men jeg har stolet på HERREN.
+//10 du har forløst mig, HERRE, 
+//11 du trofaste{T: Kan også oversættes >>sandheds/sande<<.} Gud!
 
-v8 Jeg vil juble og glæde mig over din nåde{N: nåde},
+  ==Tillid til Gud==
 
-du, som har set min hjælpeløshed,
+//9 v7 Jeg har hadet 
+//11 dem som hengiver sig til falske guder,
 
-du tog dig af min sjæls trængsel.
+//10 men selv har jeg stolet på HERREN.
 
-v9 Du overgav mig ikke i fjendens hånd,
+//8 v8 Jeg vil juble 
+//9 og glæde mig over din nåde{N: nåde},
 
-du satte mine fødder på åbent land.
+//10 du, som har set min hjælpeløshed,
 
-==Klage==
-v10 Vær mig nådig, HERRE, for jeg er i nød,
+//11 du tog dig af min sjæls trængsel.
 
-hentæret af sorg er mit øje,
+//12 v9 Du overgav mig ikke i fjendens hånd,
 
-min sjæl og min krop.
+//11 du satte mine fødder på åbent land.
 
-v11 For mit liv er svundet hen i kval
+  ==Klage==
 
-og mine år i suk.
+//5 v10 Vær mig nådig, 
+//9 HERRE, 
+//8 for jeg er i nød,
 
-Min kraft er nedbrudt ved min skyld,{E: Til dels med støtte i gamle oversættelser retter mange *baʕᵃwōnî* (>>ved min skyld<<) til *bᵊʕōnjî*: >>i min nød<<. Selv om syndsbekendelse ikke er fremtrædende i salmen, kan den godt have haft sin plads i den, idet Guds trofasthed derved bliver understreget endnu stærkere som tillidens fundament}
+//10 hentæret af sorg er mit øje,
 
-og mine knogler er indtørrede.
+min sjæl og mit indre.
 
-v12 For alle mine fjender er jeg blevet til spot,
+//9 v11 For mit liv er svundet hen i kval
 
-og det i rigt mål for mine naboer
+//11 og mine år i suk.
 
-og til skræk for mine bekendte,
+//10 Min kraft er nedbrudt ved min skyld,{E: Til dels med støtte i gamle oversættelser retter mange til *bᵊʕōnjî*: >>i min nød<<.}
 
-de som så mig udenfor, flygtede fra mig.
+//11 og mine knogler er indtørrede.
 
-v13 Jeg blev glemt, ude af hjerte som en død,
+//7 v12 På grund af alle mine fjender er jeg blevet til spot,
 
-jeg var som et ødelagt kar.
+//10  i særdeleshed for mine naboer, 
 
-v14 For jeg hørte manges bagtalelse,
+//11 og til skræk for mine bekendte,
 
-der var rædsel rundt omkring,
+//10 de som så mig udenfor, 
+//9 flygtede fra mig.
 
-idet de rådslog sammen mod mig,
+//8 v13 Jeg blev glemt, var ude af hjertet som en død,
 
-tænkte de på at tage livet af mig.
+//8 jeg var som et ødelagt kar.
 
-==Ny tillidserklæring og bøn==
-v15 Men jeg har stolet på dig, HERRE!
+//9 v14 For jeg hørte manges bagtalelse,
 
-Jeg sagde: Du er min Gud.
+//12 der var rædsel rundt omkring,
 
-v16 Mine tider{T: Dvs. livsløb og fremtid} er i din hånd.
+//11 idet de rådslog sammen mod mig,
 
-Red mig fra mine fjenders hånd og fra mine forfølgere!
+//11 når de sammen pønsede på 
+//10 at tage livet af mig.
 
-v17 Lad dit ansigt lyse over din tjener,
+  ==Ny tillidserklæring og bøn==
 
-frels mig ved din nåde{N: nåde}.
+//6 v15 Men jeg har stolet på dig, 
+//9 HERRE!
 
-v18 HERRE, lad mig ikke blive til skamme,
+//8 Jeg har sagt: 
 
-for jeg har kaldt på dig.
+//9 Du er min Gud.
 
-Lad de ugudelige blive til skamme,
+//10 v16 Mit livsforløb{E: Ordret >>tider<<.} er i din hånd.
 
-lad dem tie i dødsriget.{T: Ordret: >>tie til dødsriget<<. Meningen er enten som i oversættelsen her, eller at de skal fare stumme ned i dødriget}
+//7 Red mig fra mine fjenders hånd og fra mine forfølgere!
 
-v19 Lad de falske læber blive stumme,
+//8 v17 Lad dit ansigt lyse over din tjener,
 
-dem som taler frækt mod en retfærdig
+//7 frels mig ved din nåde{N: nåde}.
+
+//10 v18 HERRE, 
+//9 lad mig ikke blive til skamme,
+
+//11 for jeg har kaldt på dig.
+
+//10 Lad de ugudelige blive til skamme,
+
+//12 lad dem tie i dødsriget{N: Sheol}.
+
+//11 v19 Lad de falske læber blive stumme,
+
+//12 dem som taler frækt om en retfærdig 
 
 med hovmod og foragt.
 
-==Tak og lovprisning==
-v20 Hvor stor er din godhed
+  ==Tak og lovprisning==
 
-som du har gemt til dem der frygter dig,
+//8 v20 Hvor stor er din godhed,
 
-som du har vist mod dem der søger tilflugt hos dig,
+//10 som du har gemt til dem der frygter{N: Frygt} dig,
 
-over for menneskets børn.
+//11 som du har vist 
+//13 mod dem der søger tilflugt hos dig,
 
-v21 Du vil skjule dem i dit ansigts skjul{T: Dvs. >>i din nærhed og omsorg<<}
+//12 over for menneskets børn.
 
-for menneskers sammensværgelser,{T: Der er usikkerhed om betydningen af ordet *rōxes* (>>sammensværgelse<<) der kun findes denne ene gang i GT. Andre oversætter: >>overgreb<<, >>bande<<}
+//9 v21 Du vil skjule dem i dit nærvær{N: Ansigt} 
 
-du vil gemme dem i en hytte
+ på grund af menneskers sammensværgelser,{E: *rōxes* bruges kun denne ene gang; andre forslag er >>oprør<< eller >>pøbel<<.}
 
-for tungers kiv.
- 
-v22 Lovet være HERREN!
+//9 du vil gemme dem i en hytte 
 
-For han har på underfuld vis vist sin nåde imod mig
+ for tungers kiv.
 
-i en belejret{T: Det er omdiskuteret om *māṣôr* betyder >>belejret<< eller >>befæstet<<} by.
+//11 v22 Lovet være HERREN!
 
-v23 Men jeg – jeg sagde i min angst:
+//12 For han har på underfuld vis vist sin nåde imod mig 
 
->>Jeg er udryddet fra dine øjne<<.
+i en belejret{E: *māṣôr* kan også betyde >>befæstet<<.} by.
 
-Men du hørte alligevel min tryglende røst,
+//10 v23 Jeg selv sagde i min angst:
 
-da jeg råbte til dig om hjælp.
+//12 >>Jeg er udryddet fra dine øjne<<.
 
-v24 Elsk HERREN, alle hans fromme!
+//11 Men du hørte alligevel min tryglende stemme,
 
-Herren beskytter trofaste,
+//12 da jeg råbte til dig om hjælp.
 
-men gengælder til overmål den som er hovmodig.{T: Ordret >>udøver hovmod<<}
+//1 v24 Elsk HERREN, 
+//3 alle hans fromme!
 
-v25 Vær stærke, og styrk jeres hjerte,
+//2  HERREN beskytter trofaste,
 
-alle I som venter på HERREN!
+//3 men gengælder til overmål den som handler hovmodigt.
 
+//1 v25 Vær stærke, 
+//2 og styrk jeres hjerte,
+
+//3 alle I 
+//4 som venter på HERREN!
 
