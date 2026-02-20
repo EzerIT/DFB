@@ -1,42 +1,42 @@
 !!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 20.06.2025>!!
+!!<Eksegetisk bearbejdning: Christian Canu Højgaard og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 20.02.2026>!!
 
 ===1. Mosebog, kapitel 4===
 
 ==Kain og Abel==
 
-//0 v1 Mennesket{E: På hebraisk staves >>menneske<< og >>Adam<< ens. Det gør det vanskeligt at afgøre hvornår der tales om Adam som person. Når der som her står *ʔādām* i bestemt form, *haʔādām*, oversættes der dog konsekvent med >>mennesket<<.} lå med{T: Ordret >>kendte<<.} sin kone Eva;
+//0 v1 Det første menneske, Adam,{H: 1 Mos 2,20} var sammen med{T: Ordret >>kendte<<.} sin kone Eva;
 //2 hun blev gravid
 //2 og fødte Kain
 //2 og sagde:
-//3 >>Jeg har fået{T: Ordret >>købt<<. På hebraisk er der ordspil mellem >>købt<< og >>Kain<<.} en mand ved HERRENs hjælp.{E: >>ved HERREN<< kan også forstås som et objekt i apposition, dvs. >>en mand, HERREN<< (jf. fx Luther), men der er blandt moderne oversættere størst enighed for valgte oversættelse. Oversættelsen støttes af *dia tou Theou* >>ved Gud<< i LXX og *min qᵊdām jwj* >>fra Herren<< i Targum Onqelos.}<< 
+//3 >>Jeg har skaffet{T: På hebraisk er der ordspil mellem >>skaffe<< og >>Kain<<.} en mand sammen med HERREN.{E: Et enslydende ord bruges oftest foran et objekt, der så står i apposition, dvs. >>en mand, HERREN<< (jf. fx Luther).  Oversættelsen >>ved hjælp af<< støttes af *dia tou Theou* >>ved Gud<< i LXX og *min qᵊdām jwj* >>fra Herren<< i Targum Onqelos.}<< 
 //2 v2 Hun
 //4 fødte igen, $denne gang$ hans bror Abel.
 //3 Abel blev fårehyrde,
 //4 mens Kain blev agerdyrker. 
-//3 v3 Efter noget tid skete det
-//4 at Kain bragte et offer til HERREN af agerjordens frugt. 
-//5 v4 Også Abel bragte $et offer$ af sin hjords førstefødte og af deres fedtstykker;
-//4 og HERREN anerkendte Abel og hans offer. 
-//5 v5 Men Kain og hans offer anerkendte han ikke;
-//7 da blev Kain meget vred,
-//7 og han sænkede ansigtet mod jorden. 
+//3 v3 Efter noget tid 
+//4 bragte Kain et offer til HERREN af agerjordens frugt, 
+//5 v4 og Abel bragte også $et offer$ af sin floks førstefødte og af deres fedtstykker.
+//4 HERREN bifaldt Abel og hans offer, 
+//5 v5 men Kain og hans offer bifaldt han ikke.
+//7 Da blev Kain meget vred
+//7 og hang med hovedet{N: Ansigt}. 
 //6 v6 HERREN sagde til Kain:
 //8 >>Hvorfor er du vred,
-//10 og hvorfor sænker du ansigtet mod jorden?
+//10 og hvorfor hænger du med hovedet?
 //9 v7 Er det ikke sådan
 //12 at hvis du gør godt,
-//11 kan du løfte $hovedet$,
+//11 kan du løfte $hovedet$,{T: Ordet >>hoved<< er tilføjet; en anden oversættelse er >>kan du godkendes, accepteres<<.}
 //10 men hvis du ikke gør godt,
 //11 kryber synden for døren,
 //12 og den begærer dig?
 //13 Men du skal herske over den.<<
 
 //7 v8 Kain talte til sin bror Abel;{E: De fleste antikke oversættelser tilføjer >>Lad os gå ud i marken<<, fx LXX, den Samaritanske Pentateuk og Targum Neofiti, for at angive hvad Kain sagde til Abel.}
-//8 og det skete
-//10 mens de var på marken
-//9 at Kain rejste sig mod sin bror Abel
+//8 og så,
+//10 mens de var på marken,
+//9 gik Kain imod sin bror Abel
 //10 og slog ham ihjel.
 
 //6 v9 HERREN sagde til Kain:
@@ -48,7 +48,7 @@
 //8 >>Hvad har du gjort?
 //10 Din brors blod råber til mig fra jorden.
 //9 v11 Nu
-//10 skal du være mere forbandet end agerjorden,
+//10 skal du være mere forbandet end{T: En anden oversættelse er >>forbandet fra<<.} agerjorden, 
 //13 som åbnede sit gab
 //14 for at tage imod din brors blod af din hånd. 
 //12 v12 Når du dyrker agerjorden,
@@ -68,14 +68,14 @@
 //6 v15 Men HERREN sagde til ham:
 //7 >>Nej.{T: Egentlig >>Derfor<<.}
 //8 Den der slår Kain ihjel, $på ham$ skal det hævnes syv gange!<<
-//6 Så satte HEREN et mærke på Kain
+//6 Så satte HEREN et tegn på Kain
 //7 for at ingen som fandt ham, skulle slå ham ihjel.
-//6 v16 Så gik Kain væk fra HERRENS ansigt
+//6 v16 Så gik Kain væk fra HERREN{N: Ansigt}
 //7 og slog sig ned i landet Nod øst for Eden.
 
 ==Kains efterkommere==
 
-//1 v17 Kain lå med sin kone,
+//1 v17 Kain var sammen med sin kone,
 //3 og hun blev gravid
 //3 og fødte Enok.
 //2 Han
@@ -112,7 +112,7 @@
 
 ==Adam får endnu en søn.==
 
-//0 v25 Adam lå atter med sin kone,
+//0 v25 Adam var atter sammen med sin kone,
 //1 og hun fødte en søn
 //1 og kaldte ham Set.
 //3 >>For Gud har givet{T: På hebraisk er der ordspil mellem >>Set<< og >>give<<.} mig en anden søn{T: Ordret >>afkom<<.} i stedet for Abel,
@@ -121,5 +121,6 @@
 //4 og han kaldte ham Enosh.
 //3 På den tid begyndte man
 //4 at påkalde HERRENS navn.
+
 
 
