@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Foreløbig redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
-!!<Dato for denne version: 11.02.2026>!!
+!!<Dato for denne version: 21.02.2026>!!
 ===Anden Mosebog, kapitel 20===
 ==De ti Bud==
 //0 v1 >>Gud talte alle disse ord{H: 2 Mos 34,28. 5 Mos 4,13; 10,4.}
@@ -15,7 +15,7 @@
 //6 v5 Du må ikke tilbede dem
 //8 og ikke lade dig lede til at tjene dem,
 //7 for jeg, HERREN din Gud, er en passioneret Gud
-//8 som straffer fædres skyld på børn, på dem i tredje og i fjerde led,
+//8 som straffer{E: *pōqēd* bruges her første gang i denne betydning. En anden oversættelse er >>drage børn ind til det tredje og fjerde [led] til ansvar for fædres ugerning<<.} fædres skyld på børn, på dem i tredje og i fjerde led,
 //10 når de hader mig;
 //9 v6 men viser nåde i tusind led når de elsker mig, og når de holder mine bud.
 //5 v7 Du må ikke bruge{T: Ordret >>løfte<<, underforstået enten >>løfte op på læberne<< eller løfte hånden under edsaflæggelse.} HERREN din Guds navn falsk;
