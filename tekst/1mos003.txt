@@ -109,7 +109,6 @@
 //9 og spiste af det træ,
 
 //10 om hvilket jeg havde påbudt dig
-
 //11 :
 
 //12 >Du må ikke spise af det<,
