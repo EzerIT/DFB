@@ -1,15 +1,19 @@
 !!<Oversættelse: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Christian Canu Højgaard>!!
-!!<Dato for denne version: 19.12.2025>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 23.02.2026>!! 
 
 ===1. Mosebog, kapitel 1===
 
+==I begyndelsen==
+
+//0 v1 I begyndelsen skabte Gud himlen og jorden.{E: Den valgte oversættelse er i overensstemmelse med LXX, de aramæiske targuminer og Peshitta samt tilsyneladende også Joh 1,1 og Kol 1,16-18. Nogle oversættere fortolker verset som bisætningen >>I begyndelsen, da Gud skabte himlen og jorden<<.}
+//2 v2 Jorden var dengang{T: Ordret >>Hvad nu jorden angår, var den<<.} gold og øde,
+//3 og der var mørke over verdenshavet,
+//4 men Guds Ånd svævede over vandet.
+
 ==Første dag==
 
-//0 v1 I begyndelsen skabte Gud himlen og jorden.{E: En anden mulig oversættelse er >>Da Gud i begyndelsen skabte himlen og jorden...<<. Den valgte oversættelse er i overensstemmelse med alle de antikke oversættelser inklusive Septuaginta, de aramæiske targuminer og Peshitta samt tilsyneladende også Joh 1,1 og Kol 1,16-18.}
-//2 v2 Jorden var dengang gold og øde,
-//3 og der var mørke over urdybet,
-//4 men Guds ånd svævede over vandet.
 //1 v3 Så sagde Gud:
 //4 >>Lad der blive lys;<<
 //3 og der blev lys.
@@ -20,23 +24,23 @@
 //4 og mørket kaldte han >>nat<<.
 //3 Og det blev aften,
 //3 og det blev morgen,
-//4 den første dag.
+//4 én{E: Kun her bruges grundtallet *ʔeḥād*; de fire næste dage er ubestemte ordenstal, den sjette dag et bestemt ordenstal.} dag. 
 
 ==Anden dag==
 
 //1 v6 Gud sagde:
 //3 >>Lad der komme en hvælving midt i vandet,
 //4 og lad den skille vand fra vand.<<
-//2 v7 Gud skabte hvælvingen
+//2 v7 Gud lavede hvælvingen
 //4 og skilte vandet
-//6 under hvælvingen
+//5 under hvælvingen
 //5 fra vandet
 //6 over hvælvingen;
 //4 og det blev sådan.
 //3 v8 Gud kaldte hvælvingen >>himmel<<.
 //4 Og det blev aften,
 //4 og det blev morgen,
-//5 den anden dag.
+//5 anden dag.
 
 ==Tredje dag==
 
@@ -49,39 +53,39 @@
 //2 og Gud så
 //3 at det var godt.
 //1 v11 Gud sagde:
-//4 >>Lad jorden få græs, urter
+//4 >>Lad jorden få græs,{T: Kan også oversættes >>bevoksning<<.} planter
 //6 der bærer frø,
 //5 og frugttræer
-//6 som bærer frøholdig frugt,{T: Ordret >>frugttræer som bærer frugt hvis frø er i dem<<.}
-//8 
+//6 som bærer frøholdig
+//8 frugt{T: Ordret >>frugttræer som bærer frugt hvis frø er i dem<<.}
 //7 til at spire frem på jorden; $enhver$ efter sin slags<<
 //3 og det blev sådan.
-//4 v12 Jorden frembragte græs, urter
-//6 der bærer frø efter deres slags,
+//4 v12 Jorden frembragte græs, planter
+//6 der bærer frø efter hver deres slags,
 //5 og træer
-//6 som bærer frøholdig frugt{T: Ordret >>frugttræer som bærer frugt hvis frø er i dem<<.}
-//8
-//7 efter deres slags;
+//6 som bærer frøholdig 
+//8 frugt{H: 1 Mos 1,11}
+//7 efter hver deres slags;
 //2 og Gud så
 //4 at det var godt.
 //3 v13 Og det blev aften,
 //3 og det blev morgen,
-//4 den tredje dag.
+//4 tredje dag.
 
 ==Fjerde dag==
 
 //1 v14 Gud sagde:
-//4 >>Lad der blive lys på himmelhvælvingen
+//4 >>Lad der blive lyskilder på himmelhvælvingen
 //6 til at skille dag fra nat;
-//5 de skal fungere som{T: Ordret >>blive til<<.} tegn og benyttes til $at bestemme$ tider{T: Eller >>højtider<< sådan som ordet ofte bruges i de bibelske festkalendere i 3 Mos 23; 4 Mos 28-29.}, dage og år. 
-//5 v15 De skal fungere som{T: Ordret >>blive til<<.} lys på himmelhvælvingen
+//5 de skal fungere som{T: Ordret >>blive til<<.} tegn og til tidsfastsættelse for dage og år. 
+//5 v15 De skal fungere som lyskilder på himmelhvælvingen
 //6 til at lyse over jorden;<<
 //3 og det blev sådan.
-//2 v16 Gud lavede de to store lys
-//4 - det store lys til at regere over dagen
-//5 og det lille lys til at regere over natten
-//5 - samt stjernerne. 
-//3 v17 Gud satte dem på himmelhvælvingen
+//2 v16 Gud lavede de to store lyskilder,
+//4 den store lyskilde til at regere over dagen
+//5 og den lille lyskilde til at regere over natten,
+//5 samt stjernerne. 
+//3 v17 Gud anbragte dem på himmelhvælvingen
 //4 til at lyse over jorden 
 //5 v18 og til at regere over dagen og over natten
 //5 og til at skille lyset fra mørket;
@@ -89,14 +93,14 @@
 //4 at det var godt.
 //3 v19 Og det blev aften,
 //3 og det blev morgen,
-//4 den fjerde dag.
+//4 fjerde dag.
 
 ==Femte dag==
 
 //1 v20 Gud sagde:
 //3 >>Lad vandet vrimle med en vrimmel af levende væsner,
-//4 og lad fugle flyve over jorden oppe under{T: Ordret >>på overfladen af<<.} himmelhvælvingen.<<
-//2 v21 Gud skabte de store havdyr{E: *tannîn* oversættes andre steder med >>slange<< (2 Mos 7,9), >>krokodille<< (Ezek 29,3) eller som en mytologisk drage (fx Es 27,1; Sl 74,13).} og alle væsener
+//4 og lad fugle flyve over jorden oppe under{N: Ansigt.} himmelhvælvingen.<<
+//2 v21 Gud skabte de store havdyr{E: *tannîn* oversættes andre steder med >>slange<< (2 Mos 7,9), >>krokodille<< (Ez 29,3) eller >>drage<< (f. eks. Es 27,1).} og alle væsener
 //7 som lever
 //6 $og$ kryber,
 //5 og som vrimler i havet,
@@ -112,22 +116,22 @@
 //7 og lad fuglene blive talrige på jorden.<<
 //3 v23 Og det blev aften,
 //3 og det blev morgen,
-//4 den femte dag.
+//4 femte dag.
 
 ==Sjette dag==
 
 //1 v24 Gud sagde:
-//4 >>Lad jorden frembringe levende dyr efter deres slags
-//5 - kvæg og kryb og vilde dyr på jorden efter deres slags;<<
+//4 >>Lad jorden frembringe levende dyr efter hver deres slags,
+//5 husdyr, kryb og vilde dyr på jorden efter hver deres slags;<<
 //3 og det blev sådan.
-//2 v25 Gud lavede de vilde dyr på jorden efter deres slags
-//3 og kvæget efter deres slags
+//2 v25 Gud lavede de vilde dyr på jorden efter hver deres slags
+//3 og husdyrene efter hver deres slags
 //4 og alle landjordens kryb efter deres slags;
 //2 og Gud så
 //3 at det var godt.
 //1 v26 Gud sagde:
 //2 >>Lad os lave mennesket i vores billede så det ligner os.{T: Ordret >>ligesom vores lighed<<.}
-//3 De skal herske over havets fisk og himlens fugle og kvæget og hele jorden og alt kryb
+//3 De skal forvalte{T: Ordret >>Regere over, lede arbejdere<< (1 Kong 5,30).} havets fisk, himlens fugle, husdyr, hele jorden og alt kryb
 //4 som kryber på jorden.<<
 //1 v27 Gud skabte mennesket i sit billede;
 //2 i Guds billede skabte han det;
@@ -138,23 +142,23 @@
 //3 og talrige,
 //3 og opfyld jorden,
 //4 og underlæg jer den;
-//3 hersk over havets fisk og himlens fugle og alle vilde dyr
+//3 stå for forvaltningen af{H: 1 Mos 1,26} havets fisk, himlens fugle og alle vilde dyr
 //4 som kryber på jorden.<<
 //1 v29 Gud sagde:
-//3 >>Se, jeg giver jer alle urter
+//3 >>Se, jeg giver jer alle planter
 //8 som bærer frø,
 //7 som er på hele jorden,
 //6 og alle træer
-//7 som bærer frøholdig frugt;{T: Ordret >>alle træer i hvilke der er frugten af træer som bærer frø<<.}
-//8
+//7 som bærer frøholdig
+//8 frugt;{H: 1 Mos 1,11}
 //5 de skal være jeres mad.
-//4 v30 Til alle jordens vilde dyr og alle himlens fugle og alt der kryber på jorden
-//6 – $alt$ som har en levende sjæl -
-//5 $giver jeg$ alle $slags$ grønne urter at æde;<<
+//4 v30 For alle jordens vilde dyr, alle himlens fugle og alt der kryber på jorden,
+//6 for alt som har liv,{T: Ordret >>alt der er en levende sjæl i<<.} 
+//5 for dem er alle de grønne planter føde;<<
 //2 og det blev sådan.
 //1 v31 Gud så alt det
-//3 han havde gjort,
-//2 og se, det var utroligt godt.
+//3 han havde lavet,
+//2 og se, det var meget godt.
 //1 Og det blev aften,
 //1 og det blev morgen,
 //2 den sjette dag.

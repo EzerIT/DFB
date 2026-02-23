@@ -246,17 +246,8 @@ class FormatSfmTex {
                     break;
 
                 case '\add':
-                    if ($_SESSION['markadded']=='on')
-                        $buffer .= '<span class="added">';
-                    break;
-
                 case '\add*':
-                    if ($_SESSION['markadded']=='on') {
-                        if ($buffer[-1]==' ')
-                            $buffer = rtrim($buffer) . '</span> ';
-                        else
-                            $buffer .= '</span>';
-                    }
+                    // Vi mangler at beslutte hvad der skal ske her
                     break;
 
                 case '\em': // Emphasis text
