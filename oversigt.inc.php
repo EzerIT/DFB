@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,32,50];
+$chap['1mos']     = [1,2,3,4,5,6,7,8,9,10,11,12,13,14];
 $chap['2mos']     = range(1,40);
 $chap['3mos']     = [19];
 $chap['4mos']     = range(1,36);
@@ -321,7 +321,7 @@ $style['åb']      = $modenhed['uden indrykning'];
 
 // For plain text files, $filetype[] contains the string 'txt'
 // For USFM files, $filetype[] contains the filename of the book
-$filetype['1mos']     = 'txt';
+$filetype['1mos']     = '01GENDFB.SFM';
 $filetype['2mos']     = 'txt';
 $filetype['3mos']     = 'txt';
 $filetype['4mos']     = 'txt';
