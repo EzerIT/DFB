@@ -1,50 +1,187 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.08.2023>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 09.03.2026>!!
+
 ===Anden Mosebog, kapitel 16===
-
-==Israelitterne knurrer, og HERREN svarer dem==
-v1 Så brød de op fra Elim, og hele Israels børns menighed kom til Sins ørken, som er mellem Elim og Sinaj, på den femtende dag i den anden måned efter at de drog ud af Egyptens land.
-v2 Men hele Israels børns menighed knurrede mod Moses og mod Aron i ørkenen.
-v3 Israels børn sagde til dem: >>Gid vi dog var døde for HERRENS hånd i Egyptens land, da vi sad ved kødgryden, da vi spiste brød til vi var mætte; for I har ført os ud i denne ørken for at dræbe hele denne forsamling med sult.<<
-v4 Da sagde HERREN til Moses: >>Se, jeg vil lade regne brød ned til jer fra himlen. Så skal folket gå ud, og de skal samle en dags portion hver dag, for at jeg kan sætte dem på prøve om man vil vandre ved min lov eller ej.
-v5 Men det skal ske på den sjette dag, når de tilbereder det som de bringer hjem, da skal der være dobbelt så meget som det de ellers samler dag for dag.<<
-v6 Moses og Aron sagde til alle Israels børn: >>I aften skal I forstå at det var HERREN der førte jer ud af Egyptens land;{E: Det var HERREN og ikke Moses og Aron, der førte folket ud af Egypten, som folket ellers påstod i v. 3.} 
-v7 og i morgen skal I se HERRENS herlighed, fordi han har hørt jeres knurren mod HERREN; for hvad er vi, siden I knurrer mod os?<<
-v8 Og Moses sagde: >>Når HERREN om aftenen giver jer kød at spise og brød om morgenen til at mættes ved – det er fordi HERREN har hørt jeres knurren med hvilken I knurrede mod ham. For hvad er vi? Jeres knurren er ikke mod os, men mod HERREN.<<
-v9 Og Moses sagde til Aron: >>Sig til hele Israels børns menighed: >Træd frem for HERRENS ansigt; for han har hørt jeres knurren.<<<
-v10 Og det skete, mens Aron talte til hele Israels børns menighed, da vendte de sig mod ørkenen; og se, HERRENS herlighed viste sig i skyen.
-v11 HERREN talte til Moses og sagde:
-v12 >>Jeg har hørt Israels børns knurren; tal til dem og sig: >Lige inden mørket falder på,{T: Ordret: >>mellem de to aftner<<. Det dækker formodentlig tiden mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.} skal I spise kød, og i morgen skal I mættes af brød; så skal I forstå at jeg er HERREN, jeres Gud.<<<
-
-== Vagtler og manna==
-v13 Og det skete om aftenen, at der kom vagtler{T: Ordret: >>vagtlen<<. Det skal formodentlig opfattes kollektivt, men angiver også, at vagteltrækket var et velkendt fænomen.} op og dækkede lejren, og om morgenen lå duggen omkring lejren.
-v14 Da duggen som lå der, fordampede,{T: Ordret: >>steg op<<. Der er ordspil med v. 13 (>>kom op<<).} se, da lå der over ørkenens overflade noget tyndt, skælagtigt, tyndt ligesom rimfrost, på jorden.
-v15 Da Israels børn så det, sagde de, den ene til den anden: >>Hvad er det?<< For de vidste ikke hvad det var. Men Moses sagde til dem: >>Det er det brød som HERREN har givet jer at spise.
-v16 Dette er det ord som HERREN har befalet: >Enhver skal samle deraf efter hvad han kan spise;{T: Ordret: >>svarende til hans føde<<.} I skal tage en omer{N: gt-mål} for hvert hoved, efter det antal personer som hver har i sit telt.<<<
-v17 Israels børn gjorde sådan og samlede, en mere og en anden mindre.
-v18 Da de målte det med omeren, havde den der havde samlet meget, ikke for meget, og den der havde samlet mindre, manglede ikke noget; enhver havde samlet så meget som han kunne spise.
-v19 Moses sagde til dem: >>Ingen må levne deraf til om morgenen.<<
-v20 Dog adlød nogle folk ikke Moses, men levnede deraf til om morgenen. Men der kom orm i det, og det stank. Og Moses blev vred på dem.
-v21 De samlede det morgen efter morgen, enhver så meget som han kunne spise, men når solen skinnede hedt, smeltede det.
-
-==Særregel angående sabbatten==
-v22 Men det skete på den sjette dag at de samlede dobbelt brød, to omer til hver. Da kom alle menighedens stammeledere og fortalte Moses det,
-v23 men sagde han til dem: >>Det er det som HERREN sagde: I morgen er det hviledag, hellig sabbat for HERREN; bag hvad I vil bage, og kog hvad I vil koge. Men alt det som bliver tilovers, skal I opbevare i forvaring til om morgenen.<<
-v24 Så opbevarede de det til om morgenen som Moses havde befalet; og det stank ikke, og der var ikke orm i det.
-v25 Moses sagde: >>Spis det i dag, for det er sabbat i dag for HERREN; i dag vil I ikke finde det på marken.
-v26 Seks dage skal I samle det; men på den syvende dag, en sabbat, på den vil der ikke være noget.<<
-v27 Men det skete at på den syvende dag gik nogle af folket ud at samle, men de fandt intet.
-v28 Da sagde HERREN til Moses: >>Hvor længe vil I nægte at holde mine bud og mine love?
-v29 Indse, at HERREN har givet jer sabbatten, derfor giver han jer på den sjette dag brød til to dage. Bliv hver på sit sted, ingen må gå ud fra sit sted på den syvende dag.<<
-v30 Så hvilede folket på den syvende dag.
-
-==Note om mannaen==
-v31 Israels hus kaldte dets navn manna{T: På hebraisk: *mān*, der også betyder: >>hvad?<<, jf. vers 15.}. Det lignede korianderfrø, hvidt, og smagte som honningkage. 
-v32 Moses sagde: >>Dette er det ord som HERREN befalede: >Tag en omerfuld af det i forvaring til jeres efterkommere, så de kan se det brød som jeg gav jer at spise i ørkenen, da jeg førte jer ud af Egyptens land.<<<
-v33 Og Moses sagde til Aron: >>Tag en krukke, og læg i den en omerfuld manna, og sæt den foran HERREN til forvaring til jeres efterkommere.<<
-v34 Sådan som HERREN befalede Moses, satte Aron den i forvaring foran vidnesbyrdet. 
-v35 Israels børn spiste mannaen i fyrre år, til de kom til beboet{T: Kan også oversættes: >>som kunne beboes<<.} land. De spiste mannaen indtil de kom til grænsen af Kanaans land.
-v36 Omeren er en tiendedel af efaen{N: gt-mål}.
+==Israelitterne brokker sig, og HERREN svarer dem==
+//0 v1 Så brød de op fra Elim, 
+//1 og hele israelitternes forsamling kom til Sins ørken, 
+//3 som er mellem Elim og Sinaj, 
+//2 på den femtende dag i den anden måned 
+//3 efter at de drog ud af Egyptens land.
+//1 v2 Men hele israelitternes forsamling brokkede sig over Moses og over Aron i ørkenen.
+//3 v3 Israelitterne sagde til dem: 
+//4 >>Gid 
+//6 vi dog var døde for HERRENS hånd i Egyptens land, 
+//7 da vi sad ved kødgryden, 
+//8 da vi spiste brød til vi var mætte; 
+//5 for I har ført os ud i denne ørken 
+//6 for at dræbe hele denne flok med sult.<<
+//2 v4 Da sagde HERREN til Moses: 
+//3 >>Se, jeg vil lade brød regne ned over jer fra himlen. 
+//6 Så skal folket gå ud, 
+//7 og de skal samle en dags portion hver dag 
+//5 for at jeg kan sætte dem på prøve 
+//6 om de vil følge min lov 
+//7 eller ej.
+//4 v5 Men på den sjette dag, 
+//5 når de tilbereder 
+//7 det som de bringer hjem, 
+//6 vil der være dobbelt så meget 
+//7 som det de ellers samler dag for dag.<<
+//1 v6 Moses og Aron sagde til alle israelitterne: 	
+//3 >>I aften 
+//5 vil I kunne forstå 
+//6 at det var HERREN der førte jer ud af Egyptens land; 
+//4 v7 og i morgen 
+//6 vil I se HERRENS herlighed, 
+//7 for han har lyttet til jeres brok over HERREN; 
+//5 men vi, 
+//6 hvad er vi, 
+//7 siden I brokker jer over os?<<
+//2 v8 Og Moses gentog: 
+//3 >>Når HERREN om aftenen giver jer kød 
+//6 at spise 
+//5 og om morgenen brød
+//6 til at mættes ved,
+//4 og når HERREN lytter til jeres brok 
+//6 fordi I brokker jer over ham, 
+//5 hvad er vi
+//7 da?{T: Ordret som i vers 7.} 
+//6 Det er ikke os I brokker jer over, 
+//7 men over HERREN.<<
+//2 v9 Og Moses sagde til Aron: 
+//4 >>Sig til hele israelitternes forsamling: 
+//5 >Kom hen til HERREN;{N: Ansigt} 
+//6 for han har hørt jer brokke jer.<<<
+//3 v10 Og så, 
+//5 mens Aron talte til hele israelitternes forsamling, 
+//4 vendte de sig mod ørkenen; 
+//5 og se, 
+//6 HERRENS herlighed viste sig i skyen.
+//2 v11 HERREN talte til Moses 
+//3 og sagde:
+//4 v12 >>Jeg har hørt israelitternes brok; 
+//5 tal til dem 
+//6 og sig: 
+//7 >Lige inden mørket falder på,{T: Ordret: >>mellem de to aftner<<, mellem solnedgang og mørke.} skal I spise kød, 
+//9 og i morgen skal I mættes af brød; 
+//8 så skal I forstå 
+//9 at jeg er HERREN, jeres Gud.<<<
+ == Vagtler og manna==
+//1 v13 Og så om aftenen 
+//2 kom der vagtler{T: Ordret: >>vagtlen<<; der kan være tænkt på et vagteltræk.} op 
+//4 og dækkede lejren, 
+//3 og om morgenen lå duggen omkring lejren.
+//4 v14 Duggen som lå der fordampede,{T: Ordret >>steg op<<, med ordspil til v. 13 (>>kom op<<).} 
+//5 og se, 
+//6 da lå der over ørkenens overflade noget tyndt, skælagtigt,
+//7 tyndt ligesom rimfrost, på jorden.
+//2 v15 Da israelitterne så det, 
+//4 sagde de, 
+//6 den ene til den anden: 
+//5 >>Hvad er det?<< {E: På hebraisk *mān hûˀ*, se vers 31.}
+//3 For de vidste ikke 
+//4 hvad det var. 
+//2 Men Moses sagde til dem: 
+//3 >>Det er det brød 
+//5 som HERREN har givet jer at spise.
+//4 v16 Dette er det ord 
+//6 som HERREN har befalet: 
+//5 >Enhver skal samle deraf 
+//8 efter hvad han kan spise; 
+//7 en omer{N: Gt-mål} for hvert hoved, efter det antal personer 
+//7 som hver 
+//8 har i sit telt
+//6 skal I samle.<<<
+//2 v17 Israelitterne gjorde sådan 
+//3 og samlede, 
+//4 en mere 
+//5 og en anden mindre.
+//3 v18 Da de målte det med omeren, 
+//5 var der ikke for meget 
+//7 for den der samlede mere, 
+//6 og 
+//8 ikke for lidt
+//7 for den der samlede mindre; 
+//5 hvad enhver kunne spise 
+//4 havde man samlet.
+//2 v19 Moses sagde til dem: 
+//5 >>Ingen 
+//6 må levne deraf til om morgenen.<<
+//4 v20 Dog adlød nogle folk ikke Moses, 
+//5 men levnede deraf til om morgenen, 
+//7 og så kom der orm i det 
+//7 og det stank. 
+//6 Og Moses blev vred på dem.
+//3 v21 De samlede det morgen efter morgen, 
+//6 enhver så meget som han kunne spise, 
+//5 men når solen skinnede varmt, 
+//6 smeltede det.
+ 
+ ==Særregel angående sabbatten==
+//4 v22 Og så 
+//6 på den sjette dag samlede de dobbelt brød, to omer til hver. 
+//5 Da kom alle forsamlingens stammeledere 
+//7 og fortalte Moses det,
+//6 v23 men sagde han til dem: 
+//7 >>Det er det 
+//9 som HERREN sagde: 
+//10 I morgen er det hviledag, hellig sabbat for HERREN; 
+//9 hvad I vil bage, 
+//8 skal I bage 
+//9 og 
+//12 hvad I vil koge 
+//11 skal I koge. 
+//10 Men alt det som bliver tilovers, skal I lægge til opbevaring til om morgenen.<<
+//6 v24 Så lod de det ligge til om morgenen 
+//8 som Moses havde befalet; 
+//7 og det stank ikke, 
+//8 og der var ikke orm i det.
+//2 v25 Moses sagde: 
+//4 >>Spis det i dag, 
+//7 for det er sabbat i dag for HERREN; 
+//6 i dag vil I ikke finde det på marken.
+//5 v26 Seks dage skal I samle det; 
+//6 men på den syvende dag, en sabbat, 
+//7 på den vil der ikke være noget.<<
+//3 v27 Og så 
+//4 på den syvende dag gik nogle af folket ud 
+//6 at samle, 
+//5 men de fandt intet.
+//3 v28 Da sagde HERREN til Moses: 
+//5 >>Hvor længe vil I nægte 
+//7 at holde mine befalinger og mine love?
+//6 v29 Indse, 
+//7 at HERREN har givet jer sabbatten, 
+//8 derfor giver han jer på den sjette dag brød til to dage. 
+//6 Bliv 
+//8 hver på sit sted, 
+//7 ingen må gå ud fra sit sted på den syvende dag.<<
+//4 v30 Så hvilede folket på den syvende dag.
+ 
+ ==Note om mannaen==
+//5 v31 Israels hus gav det navnet manna.{E: Hebraisk *mān* (>>hvad?<<) er et ordpill på vers 15.} 
+//6 Det lignede korianderfrø, hvidt, 
+//7 og smagte som honningkage. 
+//2 v32 Moses sagde: 
+//4 >>Dette er det ord 
+//5 som HERREN befalede: 
+//6 >Tag en omerfuld af det til opbevaring til kommende slægter, 
+//7 for at de kan se det brød 
+//8 som jeg gav jer at spise i ørkenen, 
+//9 da jeg førte jer ud af Egyptens land.<<<
+//3 v33 Og Moses sagde til Aron: 
+//5 >>Tag en krukke, 
+//6 og læg en omerfuld manna i den, 
+//6 og sæt den foran HERREN til opbevaring til kommende slægter.<<
+//7 v34 Sådan som HERREN befalet Moses, 
+//4 satte Aron den til opbevaring foran vidnesbyrdet. 
+//5 v35 Israelitterne spiste mannaen i fyrre år, 
+//8 indtil de kom til beboet land. 
+//7 De spiste mannaen 
+//8 indtil de kom til grænsen af Kana’ans land.
+//6 v36 Omeren, 
+//7 den er en tiendedel af efaen.{N: Gt-mål}	
+ 
 
