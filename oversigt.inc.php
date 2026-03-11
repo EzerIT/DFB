@@ -1,6 +1,6 @@
 <?php
 
-$chap['1mos']     = [1,2,3,4,5,6,7,8,9,10,11,12,13,14];
+$chap['1mos']     = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 $chap['2mos']     = range(1,40);
 $chap['3mos']     = [19];
 $chap['4mos']     = range(1,36);
@@ -220,10 +220,7 @@ $style['GT'] = $modenhed['med indrykning']; // Bedste værdi for GT's kapitler -
 $style['NT'] = $modenhed['uden indrykning']; // Bedste værdi for NT's kapitler - bruges ved generering af PDF
 
 
-for ($k=1; $k<=14; ++$k)
-    $style['1mos'][$k] = $modenhed['med indrykning'];
-for ($k=15; $k<=50; ++$k)
-    $style['1mos'][$k] = $modenhed['ufuldstændigt'];
+$style['1mos'] = $modenhed['med indrykning'];
 
 for ($k=1; $k<=40; ++$k)
     $style['2mos'][$k] = $modenhed['uden indrykning'];

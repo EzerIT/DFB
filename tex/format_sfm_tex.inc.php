@@ -144,6 +144,10 @@ class FormatSfmTex {
         $from[] = '/(.)\s+:/';  // Remove space in front of colon
         $to[] = '\1:';
 
+        // Contract "\w aaa | bbb\w*" to "\w aaa|bbb\w*"
+        $from[] = '/\\\\w ([^\\|\\s]+)\\s*\\|\\s*(.*\\\\w\\*)/';
+        $to[] = '\\w \1|\2';
+
         $txt =  preg_replace($from, $to, $txt);
 
 

@@ -278,6 +278,9 @@ class FormatSfm extends Formatter {
         else
             $to[] = $_SESSION['godsname'];
 
+        // Contract "\w aaa | bbb\w*" to "\w aaa|bbb\w*"
+        $from[] = '/\\\\w ([^\\|\\s]+)\\s*\\|\\s*(.*\\\\w\\*)/';
+        $to[] = '\\w \1|\2';
 
         if ($this->syntactic_layout) {
             $from[] = '/\\\\[pmq][0-9]*\s+/';  // Remove \p, \m, \q, and \q1, \q2...
@@ -295,7 +298,6 @@ class FormatSfm extends Formatter {
         }
 
         $txt =  preg_replace($from, $to, $txt);
-
 
         // A state-event machine handles further processing
 
