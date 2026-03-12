@@ -1,97 +1,117 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 12.03.2026>!!
 
-===Salme 145{E: Salmen er alfabetisk så første vers begynder med alfabetets første bogstav, andet vers med det andet osv. Der mangler dog et vers med bogstavet >>nun<<; det skulle stå mellem v. 13 og v. 14. Det findes imidlertid i et enkelt håndskrift og i Septuaginta og den gamle syriske oversættelse hvor det lyder: >>Trofast er HERREN på alle sine veje, nådig i alle sine gerninger<<. Bortset fra første ord (*neʔᵉmān*: >>trofast<<), er det ordret i grundteksten enslydende med v. 17, der indledes med *ṣaddîq* (>>retfærdig<<). Strofen passer godt ind i sammenhængen, men det er lidt mistænkeligt at den ligner v. 17 så meget.}===
+ ===Salme 145===
 
-==Overskrift==
-v1 Lovsang af David.
+ ==Overskrift==
 
-==Jeg vil ophøje dig!==
-Jeg vil ophøje dig, min Gud, kongen,
+//0 v1 Lovsang af David.
 
-og jeg vil prise{T: Kan også her og i v. 2 oversættes: >>velsigne<<.} dit navn evigt og altid.
+ ==Jeg vil ophøje dig!==
 
-v2 Hver dag vil jeg prise dig,
+//0 Jeg vil ophøje dig, 
+//3 min Gud, kongen,
 
-og jeg vil lovprise dit navn evigt og altid.
+//2 og jeg vil prise dit navn evigt og altid.
 
-v3 HERREN er stor og højt lovprist,
+//1 v2 Hver dag vil jeg prise dig,
 
-og hans storhed kan ikke udforskes.
+//4 og jeg vil lovprise dit navn evigt og altid.
 
-==Slægter skal prise dig==
-v4 Slægt skal prise dine gerninger for næste slægt,
+//3 v3 HERREN er stor 
+//4 og højt lovprist,
 
-og de skal fortælle om dine mægtige gerninger.
+//5 og hans storhed kan ikke udforskes.
 
-v5 Om din majestæts herlige pragt
+ ==Slægter skal prise dig==
 
-og om de ting der angår dine undere, vil jeg synge.{E: Med Septuaginta og den gamle syriske oversættelse flytter mange fortolkere og oversættere den skillende accent så: *wᵊdivrê* (>>og de ting/ord der angår<<) kommer til at høre til første halvvers, og det rettes til: *yᵊdabbērû*: >>de taler<<. Oversættelsen bliver da: >>Om din højheds herlige pragt skal de tale, / om dine undere vil jeg synge<<.}
+//2 v4 Slægt vil prise dine gerninger for næste slægt
 
-v6 Og de skal tale om dine frygtindgydende gerningers styrke,
+//7 og fortælle om dine mægtige gerninger.
 
-og jeg vil fortælle om din storhed.
+//6 v5 Om din majestæts herlige pragt 
 
-v7 De skal udbrede mindet om din store godhed
+ og om de ting der angår dine undere, vil jeg synge.{E: LXX og Peshitta deler verset anderledes, og mange retter til *yᵊdabbērû* (>>de taler<<) og oversætter >>Om din majestæts herlige pragt vil de tale<<.}
 
-og jublende prise din retfærdighed.
+//5 v6 De vil tale om dine frygtindgydende gerningers styrke,
 
-v8 HERREN er nådig og barmhjertig, sen til vrede{T: Oversættes også: >>langmodig<<.} og rig på nåde{N: nåde}.
- 
-v9 HERREN er god mod alle,
+//6 om din storhed 
+//7 vil jeg fortælle.
 
-og hans barmhjertighed er over alle hans skabninger.
+//4 v7 De vil udbrede mindet om din store godhed
 
-==Alle dine skabninger skal takke dig!==
-v10 Alle dine skabninger skal takke dig,
+//6 og jublende prise din retfærdighed.
 
-og dine fromme skal prise{T: Kan også oversættes: >>velsigne<<.} dig.
+//5 v8 HERREN er nådig og barmhjertig, 
+//6 sen til vrede og rig på nåde{N: nåde}.
 
-v11 De skal fortælle om dit kongedømmes herlighed{T: Kan også oversættes: >>ære<<.}
+//5 v9 HERREN er god mod alle,
 
-og tale om din styrke, 
+//6 og hans barmhjertighed er over alle hans skabninger.
 
-v12 for at kundgøre for menneskebørnene hans{E: Her og i næste linje tales der lidt overraskende om Gud i 3. person (>>hans<<) i stedet for som i de omkringstående vers til Gud i 2. person. Mange oversættere retter til 2. person – med støtte i Septuaginta og den gamle syriske oversættelse, men uden støtte i hebraiske håndskrifter. I digterens skift til 3. person kan der måske spores en vis skyhed over for Gud.} styrke
+ ==Alle dine skabninger vil takke dig!==
 
-og hans kongedømmes prægtige{T: Ordrets: >>pragts<<.} herlighed.{T: Kan også oversættes: >>ære<<.}
+//3 v10 De vil takke dig, 
+//10 HERRE, 
+//9 alle dine skabninger
 
-v13 Dit kongedømme er al evigheds kongedømme,
+//8 og dine fromme vil prise dig.
 
-og dit herredømme varer i hver slægt efter slægt.{E: Se note til salmens nummer.}
+//7 v11 De vil fortælle om dit kongedømmes herlighed
 
-v14 HERREN støtter alle som falder,
+//9 og tale om din styrke 
 
-og rejser alle nedbøjede.
+//8 v12 for at kundgøre for menneskebørnene hans styrke 
 
-v15 Alles øjne er rettet håbefuldt mod dig,
+og hans kongedømmes prægtige herlighed.
 
-og du giver dem deres føde i rette tid.{T: Ordret: >>til dets tid<<.}
+//6 v13 Dit kongedømme er al evigheds kongedømme,
 
-v16 Du åbner din hånd
+//7 og dit herredømme varer i hver slægt efter slægt.{T: Salmen er alfabetisk ligesom Sl 9, 119, Klagesangene og andre tekster, men der mangler et vers med bogstavet >>nun<< her mellem v. 13 og v. 14. Det lyder i den græske og syriske oversættelse: >>Trofast er HERREN på alle sine veje, nådig i alle sine gerninger<<.}
 
-og mætter alt levende med velbehag,{T: Oversættes ofte, let omskrivende: >>med hvad det ønsker<<.}
+//5 v14 HERREN støtter alle 
+//7 som falder,
 
-v17 Retfærdig er HERREN på alle sine veje,
+//6 og rejser alle 
+//7 nedbøjede.
 
-nådig i alle sine gerninger.
- 
-v18 Nær er HERREN hos alle som kalder på ham,
+//4 v15 Alles øjne er rettet håbefuldt mod dig,
 
-hos alle som kalder på ham i oprigtighed.{T: Kan også oversættes: >>i sandhed<<.}
+//6 og du giver dem deres føde i rette tid.
 
-v19 Han gør hvad de som frygter ham, ønsker,{T: Ordret: >>efter deres ønske/velbehag som frygter ham<<.}
+//7 v16 Du åbner din hånd
 
-og han hører deres skrig og frelser dem.
+//8 og mætter alt levende med hvad det ønsker.
 
-v20 Herren beskytter alle dem som elsker ham,
+//5 v17 Retfærdig er HERREN på alle sine veje,
 
-men alle de ugudelige udrydder han.
+//8 nådig i alle sine gerninger.
 
-==Afslutning==
-v21 Min mund skal udsige HERRENS pris,
+  
 
-og alt kød skal prise{T: Kan også oversættes: >>velsigne<<.} hans hellige navn
+//7 v18 Nær er HERREN hos alle 
+//11 som kalder på ham,
 
-evigt og altid.
+//10 hos alle 
+//11 som kalder på ham i oprigtighed.
+
+//9 v19 Han vil gøre hvad de som frygter ham, ønsker,
+
+//10 høre deres skrig 
+//11 og frelse dem.
+
+//8 v20 Herren beskytter alle dem som elsker ham,
+
+//9 men alle de ugudelige udrydder han.
+
+ ==Afslutning==
+
+//6 v21 Min mund vil tale til lovprisning af HERREN,
+
+//7 og alt kød vil lovprise hans hellige navn
+
+ evigt og altid.
+
+

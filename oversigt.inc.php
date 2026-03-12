@@ -266,6 +266,7 @@ $style['sl'][104] = $modenhed['med indrykning'];
 $style['sl'][121] = $modenhed['med indrykning'];
 $style['sl'][136] = $modenhed['med indrykning'];
 $style['sl'][137] = $modenhed['med indrykning'];
+$style['sl'][145] = $modenhed['med indrykning'];
 
 
 $style['ordsp']   = $modenhed['ufuldstændigt'];
