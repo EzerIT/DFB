@@ -1,161 +1,199 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 04.09.2017>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 26.03.2026>!!
 
 ===Salme 22===
 
 ==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Efter  >>Morgenrødens hind<<.{E: Hebraisk: *ʕal-ʔayyelet haššaḥar*. Det kan være en anvisning på at denne salme skal synges på samme melodi eller måde som den (for os) ukendte salme: >>Morgenrødens hind<<. En anden mulighed er at det er angivelse af at den skal synges og bedes om morgenen, evt. lige før solopgang.}
+//0 v1 Til korlederen.{H: Sl 4,1} 
+//2 Efter  >>Morgenrødens hind<<.{E: *ʕal-ʔayyelet haššaḥar* kan hentyde til en melodi eller dens brug.}
 
-Salme af David.
+//1 Salme af David.
 
-==Klage i gudsforladthedens nød==
-v2 Min Gud, min Gud! Hvorfor har du forladt mig?
+ ==Klage i gudsforladthedens nød==
 
-Fjernt fra min frelse er mit skrigs ord.{E: Meningen må være, at skriget ikke når den frelsende Gud. Mange retter *mîyšûʕātî* (>>fra min frelse<<) til: *mîššawʕātî*: >>fra mit råb om hjælp<< og underforstår et >>og<< og et >>du<<: >>Du er langt borte fra mit råb om hjælp og fra mit skrig<<.}
+//0 v2 Min Gud, min Gud! 
+//2 Hvorfor har du forladt mig?
 
-v3 Min Gud, jeg råber om dagen, men du svarer ikke,
+//3 Fjernt fra min frelse er mit skrigs ord.
 
-og om natten, men jeg bliver ikke beroliget.
+//1 v3 Min Gud, 
+//4 jeg råber om dagen, 
+//6 men du svarer ikke,
 
-v4 Men du er hellig,
+//5 og om natten, 
+//6 men jeg bliver ikke beroliget.
 
-tronende på Israels lovsange!{E: Mange vælger at flytte den delende accent fra *qādôš* (>>hellig<<)til *yôšēv* (>>tronende<<) og læse *haqqādôš*: >>den hellige<<: >>Men du troner som den hellige, (du) Israels lovsange<<.}
+//3 v4 Men du er hellig,
 
-v5 Vore fædre stolede på dig,
+//7 tronende på Israels lovsange!{E: Mange vælger at flytte den delende accent fra *qādôš* (>>hellig<<) til *yôšēv* (>>tronende<<) og læse *haqqādôš* (>>den hellige<<): >>Men du troner som den hellige, (du) Israels lovsange<<.}
 
-de stolede på dig, og du befriede dem.
+//6 v5 Vores fædre stolede på dig,
 
-v6 Til dig råbte de og blev reddet,
+//9 de stolede på dig, 
+//10 og du befriede dem.
 
-de stolede på dig og blev ikke gjort til skamme.
+//8 v6 Til dig råbte de 
+//9 og blev reddet,
 
-v7 Men jeg er en orm og ikke en mand,
+//7 de stolede på dig 
+//8 og blev ikke gjort til skamme.
 
-til spot for mennesker og foragtet af folk.{T: Ordret: >>menneskes spot og folks foragt<<.}
+//5 v7 Men jeg er en orm 
+//8 og ikke en mand,
 
-v8 Alle der ser mig, spotter mig,
+//7 til spot for mennesker 
+//8 og foragtet af folk.
 
-de vrænger mund,{T: Ordret: >>De laver en spalte med læben<<.} de ryster på hovedet:
+//6 v8 Alle 
+//9 der ser mig, 
+//8 spotter mig,
 
-v9 >>Vælt det på HERREN,{T: Mange vælger at ændre vokaliseringen af *gōl* (>>vælt!<<) til *gal*: >>han har væltet<<.} lad ham befri ham,
+//7 de vrænger mund,{T: Ordret: >>De laver en spalte med læben<<.} 
+//7 de ryster på hovedet:
 
-han må redde ham, for han har velbehag i ham<<!
+//8 v9 >>Vælt det på HERREN, 
+//9 lad ham befri ham,
 
-v10 Du er dog den som drog mig af moders liv,
+//9 han må redde ham, 
+//10 for han har velbehag i ham<<!
 
-du gav mig tryghed ved min moders bryster.
+//4 v10 Du er dog den som drog mig af mors liv,
 
-v11 På dig blev jeg kastet fra fødslen{T: Ordret: >>fra moderskød<<},
+//7 du gav mig tryghed ved min mors bryster.
 
-fra min moders liv er du min Gud.
+//6 v11 På dig blev jeg kastet fra fødslen,{T: Ordret: >>fra livmoderen<<.}
 
-v12 Vær ikke fjernt fra mig, for nød er nær,
+//5 fra min mors liv er du min Gud.
 
-for der er ingen hjælper.
+//2 v12 Vær ikke fjernt fra mig, 
+//5 for nød er nær,
 
-v13 Mange tyre har indesluttet mig,
+//6 for der er ingen hjælper.
 
-Bashans stærke {T: Underforstået: bøfler} har omringet mig.
+//4 v13 Mange tyre har indesluttet mig,
 
-v14 De har spærret deres gab op imod mig
+//8 Bashans stærke{T: Underforstået: bøfler.} har omringet mig.
 
-som en løve der river og brøler.
+//7 v14 De har spærret deres gab op imod mig 
 
-v15 Jeg er udøst som vand,
+som en løve 
+//8 der river 
+//9 og brøler.
 
-og alle mine knogler er vredet af led,
+//6 v15 Jeg er hældt ud som vand,
 
-mit hjerte er blevet som voks,
+//8 og alle mine knogler er vredet af led,
 
-det er smeltet midt i mit indre.
- 
-v16 Min kraft{E: Oftest regner man med, at to konsonanter er byttet om, så der i stedet for *kōḥî* (>>min kraft<<) skal læses *ḥikkî*: >>min gane<<. Rettelsen har dog ingen støtte i gamle håndskrifter.} er tørret som et potteskår,
+//7 mit hjerte er blevet som voks,
 
-min tunge er klæbet til mine gummer,
+//8 det er smeltet midt i mit indre.
 
-du har lagt mig ned i dødens støv.
+  
 
-v17 For hunde har omringet mig,
+//7 v16 Min kraft er tørret ud som et potteskår,
 
-en flok af ugerningsmænd har slået kreds omkring mig,
+//8 min tunge er klæbet til mine gummer,
 
-de har gennemboret{E: Den hebraiske tekst har *kāˀᵃrî*: >>som en løve<<. Hvis den er rigtig, må meningen være at fjenderne har slået kreds omkring ham og >>som en løve<< holder hans >>hænder og fødder<< fast. Med støtte bl.a. i de gamle oversættelser retter man oftest til *kāˀᵃrû*: >>de har gennemboret<< idet man forudsætter at de har oversat den originale tekst. Denne forståelse støttes nu også af en stump af et hebraisk manuskript der er fundet i en hule Nahal Hever nær Det Døde Hav. Manuskriptstumpen dateres til 1. århundrede e.Kr. (oftest) eller 1. århundrede f.Kr. Den er i alle tilfælde ca. 1000 år ældre end det ældste eksisterende hebraiske manuskript – det ældste, Codex Aleppo fra ca. 930 e.Kr., mangler bl.a. Sl 22, og det samme gælder Salmerullen fra Qumran.} mine hænder og mine fødder.
+//9 du har lagt mig ned i dødens støv.
 
-v18 Jeg kan tælle alle mine knogler,
+//5 v17 For hunde har omringet mig,
 
-de ser på mig med skadefryd.{T: Ordret: >>de ser, ser med lyst på mig<<.}
+//8 en flok af ugerningsmænd har slået kreds omkring mig,
 
-v19 De deler mine klæder imellem sig
+//7 de har gennemboret{E: I oversættelsen læses *kāˀᵃrû* i stedet for *kāˀᵃrî* ( >>som en løve<<) med støtte i de gamle oversættelser og i en stump af et hebraisk manuskript der er fundet i en hule i Nahal Hever nær Det Døde Hav fra 1. århundrede før eller efter Kristus.} mine hænder og mine fødder.
 
-og kaster lod om min klædning.
+//6 v18 Jeg kan tælle alle mine knogler, 
 
-==Bøn om frelse==
-v20 Men du, HERRE, vær ikke langt borte!
+//7 de spejder, 
+//8 så ser de mig
 
-Min styrke, skynd dig at komme mig til hjælp!
+//8 v19 De deler mine klæder imellem sig
 
-v21 Red min sjæl{T: Her formodentlig i betydningen >>mit liv<<.} fra sværdet,
+//9 og kaster lod om mit tøj.
 
-min eneste{T: Dvs. >>sjæl/liv<<.} fra hundes vold!
+ ==Bøn om frelse==
 
-v22 Frels mig fra løvens gab
+//3 v20 Men du, 
+//7 HERRE, 
+//6 vær ikke langt borte!
 
-og fra bøflers horn!
+//7 Min styrke, 
+//5 skynd dig at komme mig til hjælp!
 
-==Taksigelse for Guds hjælp==
+//4 v21 Red mit liv{N: Sjæl.} fra sværdet,
+
+//6 mit eneste fra hundes vold!
+
+//5 v22 Frels mig fra løvens gab
+
+//7 og fra bøflers horn! 
+
+==Taksigelse for Guds hjælp== 
 Du har svaret mig.
 
-v23 Jeg vil forkynde dit navn for mine brødre,
+//6 v23 Jeg vil forkynde dit navn for mine brødre,
 
-midt i forsamlingen vil jeg lovprise dig.
+//9 midt i flokken vil jeg lovprise dig.
 
-v24 I som frygter HERREN, lovpris ham!
+//8 v24 I som frygter HERREN, 
+//9 lovpris ham!
 
-Al Jakobs sæd, I skal ære ham,
+//8 Alle Jakobs efterkommere, 
+//9 vis ham ære,
 
-og I skal frygte ham, al Israels sæd!
+//11 og frygt for ham, 
+//12 alle Israels efterkommere!
 
-v25 For han har ikke foragtet og ikke afskyet
+//10 v25 For han har ikke foragtet 
+//11 og ikke afskyet
 
 den hjælpeløses elendighed,
+//11 og han skjulte ikke sit ansigt for ham,
 
-og han skjulte ikke sit ansigt for ham,
+//12 men 
+//14 da han råbte til ham om hjælp, 
+//13 hørte han.
 
-men da han råbte til ham om hjælp, hørte han.
+//7 v26 Fra dig kommer min lovsang i en stor gruppe,
 
-v26 Fra dig kommer min lovsang i en stor forsamling,
+//8 jeg vil indfri mine løfter foran dem som frygter ham.
 
-jeg vil indfri mine løfter foran dem som frygter ham.
+//9 v27 De ydmyge skal spise 
+//11 og mættes,
 
-v27 De ydmyge skal spise og mættes,
+//10 de skal prise HERREN, 
+//12 de som søger ham.
 
-de som søger HERREN, skal prise ham.
+//11 Må jeres hengivenhed{N: Hjerte} leve for evigt!
 
-Må jeres hjerte leve for evigt!
+//10 v28 Alle jordens ender skal huske på 
+//14 og omvende sig til HERREN,
 
-v28 Alle jordens ender skal huske på og omvende sig til HERREN,
+//14 og alle folks slægter skal bøje sig ned for dig{N: Ansigt}.
 
-og alle folks slægter skal kaste sig ned for dit ansigt.
+//13 v29 For kongemagten tilhører HERREN,
 
-v29 For kongemagten tilhører HERREN,
+//14 og han regerer over folkeslagene.
 
-og han hersker over folkene.
+//12 v30 Alle jordens mægtige spiste 
+//13 og tilbad foran ham{N: Ansigt},
 
-v30 Alle jordens mægtige spiste og tilbad,{E: Ordret: >>Alle jordens fede spiste og kastede sig ned<<. Ofte retter man *dišnê* (>>fede<<) til: *jᵊšenê*: >>de der sover (i jorden)<< og oversætter verberne som fremtid. Samtidig rettes versets første ord *ʔāxᵊlû* (>>de spiste<<) til *ʔāx lô*: >>Ja, for ham<< og det indledende *w* (>>og<<) i det følgende ord slettes som diplografi. Linjen lyder så: >>Ja, alle, der sover i jorden, skal kaste sig ned for ham<<. Rettelserne har dog ingen støtte i håndskrifter eller gamle oversættelser.}
+//11 de vil falde på knæ, alle 
+//13 der stiger ned i støvet, skal falde på knæ for ham{N: Ansigt},
 
-alle, der stiger ned i støvet, skal falde på knæ for hans ansigt,
+//14 og ikke har holdt sin sjæl i live.{E: Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: >>Men min sjæl lever for ham<<. I mange nyere oversættelser er denne sætning også overført til vers 31.}
 
-og den, som ikke har holdt sin sjæl i live.{E: Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: >>Men min sjæl lever for ham<<. I mange nyere oversættelser er denne sætning også overført til vers 31.}
+//12 v31 Efterkommerne skal tjene ham,
 
-v31 Efterkommerne skal tjene ham,
+//14 der skal fortælles om Herren til efterslægten.
 
-der skal fortælles om Herren til efterslægten.
+//13 v32 De skal komme 
+//14 og forkynde hans retfærdighed 
 
-v32 De skal komme og forkynde hans retfærdighed
+for et folk 
+//16 der fødes.
 
-for et folk der fødes.
+//15 For han har handlet.
 
-For han har gjort det.
 
