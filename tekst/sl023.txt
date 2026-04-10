@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 17.06.2016>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 10.04.2026>!!
 
 ===Salme 23===
 
@@ -8,40 +8,41 @@
 
 //0 v1 En salme af David.
 
-==David taler om sin og hver troende sjæls lykke og tryghed under den trofaste hyrdes ledelse og varetægt==
+==Trygheden under den trofaste hyrdes ledelse==
 
-//0 HERREN er min hyrde, //3 jeg skal intet mangle.
+//0 HERREN er min hyrde, //3 jeg mangler intet.
 
 //2 v2 Han lader mig ligge i grønne græsgange;
 
-//3 han leder mig til hvilens vande{E: Formentlig er der tænkt på roligt og stille vand, der i tørre egne indbyder til hvile, for her kan tørsten stilles og kræfterne genvindes, så der er ingen grund til at haste videre.}.
+//3 han leder mig langs med hvilens vande.
 
-//5 v3 Han giver min sjæl nye kræfter;
+//5 v3 Han giver mig{N: Sjæl} nye kræfter;
 
-//4 han fører mig på retfærdigheds stier{E: Stier der fører til målet for Guds trofaste retfærdigheds skyld.} for sit navns skyld.
+//4 han fører mig på stier til retfærdighed for sit navns skyld.
 
-//5 v4 Selv når jeg skal vandre i dødsskyggens {E: *ṣalmāwet* er usædvanligt ved at være sammensat af to ord: *ṣel* (>>skygge<<) og *māwet* (>>død<<). Og skygge er normalt i Mellemøsten et gode. Men David kan have villet understrege den yderste dødsfare med et sammensat ord. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: >>mørke, skygge<<.} dal,
+//5 v4 Selv når jeg vandrer i det dybe mørkes{E: Ordet *ṣalmût* blev i LXX omvokaliseret som *ṣalmāwet* og dermed læst som en sammensætning af de to ord *ṣel* (>>skygge<<) og *māwet* (>>død<<), og denne vokalisering blev senere brugt i den hebraiske tekst.} dal,
 
-//6 skal jeg ikke frygte for noget ondt,
+//6 er jeg ikke bange for noget ondt,
 
 //7 for du er med mig;
 
 //9 din kæp og din stav, //10 de skal trøste mig.
 
-==Trøst og glæde i HERREN, som er den gæstfrie vært==
+== HERREN som den gæstfrie vært==
 
 //8 v5 Du dækker bord for mig
 
-for øjnene af{T: Ordret: >>over for<<} mine fjender;
+lige over for mine fjender;
 
 //10 du har salvet mit hoved med olie,
 
 //9 mit bæger flyder over. 
 
-//1 v6 Kun godhed og nåde{N: nåde} skal følge mig
+//1 v6 Kun godhed og nåde{N: Nåde} følger mig
 
-alle mine livsdage,
+alle mit livs dage,
 
-//2 og jeg skal blive{E: *wᵊšavtî* betyder: >>og jeg skal vende tilbage<<. Det passer dårligt til den følgende præposition *bᵊ* (>>i<<). Man vokaliserer ofte * wᵊšivtî*: >>og min boen<< eller *wᵊyāšavtî*: >>og jeg skal bo<<.} i HERRENS hus
+//2 og jeg vender tilbage til HERRENS hus
 
-hele livet{T: Egentlig: >>i dages udstrækning<<, dvs. >>alle dage, hele livet<<.}.
+hele livet.{T: Ordret >>i dages udstrækning<<.}
+
