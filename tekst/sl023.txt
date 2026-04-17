@@ -1,6 +1,6 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
-!!<Dato for denne version: 10.04.2026>!!
+!!<Dato for denne version: 17.04.2026>!!
 
 ===Salme 23===
 
@@ -16,17 +16,17 @@
 
 //3 han leder mig langs med hvilens vande.
 
-//5 v3 Han giver mig{N: Sjæl} nye kræfter;
+//5 v3 Han heler min sjæl;
 
-//4 han fører mig på stier til retfærdighed for sit navns skyld.
+//4 han fører an for mig på retfærdigheds stier for sit navns skyld.
 
 //5 v4 Selv når jeg vandrer i det dybe mørkes{E: Ordet *ṣalmût* blev i LXX omvokaliseret som *ṣalmāwet* og dermed læst som en sammensætning af de to ord *ṣel* (>>skygge<<) og *māwet* (>>død<<), og denne vokalisering blev senere brugt i den hebraiske tekst.} dal,
 
 //6 er jeg ikke bange for noget ondt,
 
-//7 for du er med mig;
+//7 for du er sammen med mig;
 
-//9 din kæp og din stav, //10 de skal trøste mig.
+//9 din stok og din stav //10 trøster mig.
 
 == HERREN som den gæstfrie vært==
 

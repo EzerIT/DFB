@@ -1,10 +1,10 @@
- !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
- !!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
- !!<Litterært tjek: Trine Tøndering>!!
- !!<Dato for denne version: 07.10.2025>!!
- 
- ===Salme 19===
- ==Overskrift==
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Eksegetisk bearbejdning: Christian Højgaard, Nicolai Winther-Nielsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 17.04.2026>!!
+
+===Salme 19===
+==Overskrift==
 //0 v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} 
 //1 Salme af David.
  ==Universets vidnesbyrd om og lovprisning af Guds storhed==
@@ -41,7 +41,7 @@
 
 //1 v8 HERRENS lov{N: Lov} er fuldkommen,
 
-//2 den styrker sjælen.{T: Ordret: >>den bringer sjælen tilbage<<.}
+//2 den heler sjælen.{T: Ordret: >>den bringer sjælen tilbage<<.}
 
 //1 HERRENS vidnesbyrd er pålideligt,
 

@@ -1,7 +1,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Literært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 24.03.2022>!!
+!!<Dato for denne version: 17.04.2026>!!
 
 === Johannes’ Åbenbaring, kapitel 4===
 
@@ -15,7 +15,7 @@ v1 Derefter så jeg, og se der var en åben dør i himlen, og den første stemme
 
 v9 Når livsvæsnerne frembærer pris og ære og tak til ham som sidder på tronen, og som lever i evighedernes evigheder, v10 falder de firetyve ældste ned for ham som sidder på tronen, og de tilbeder ham som lever i evighedernes evigheder, og de kaster deres kroner ned for tronen og siger:
 
-	>>Værdig er du, vor Herre og Gud,
+	v11 >>Værdig er du, vor Herre og Gud,
 
 	til at få prisen og æren og magten,
 

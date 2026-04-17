@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.03.2025>!!
+!!<Dato for denne version: 17.04.2026>!!
 
 ===Jobs bog, kapitel 28===
 
@@ -67,7 +67,9 @@ sten i mulmet{H: Job 3,6.} og dødsskyggen.{H: Job 3,5.}
 
 //10 og hvor er stedet for indsigt?
 
-//11 v13 Mennesket kender ikke dens sted,{E: *ʕerkāhʕ* >>dens sted<<, har også betydningen >>dens værdi<<. LXX ændrer *ʕerkāhʕ* til *darkahʕ* (>>dens vej<<).} 
+//11 v13 Mennesket erkender ikke dens værdi,{T: Alternativ oversættelse: >>kender ikke dens
+sted<<.}{E: *ʕerkāhʕ* (>>dens værdi<<) har også betydningen >>dens sted<<. LXX ændrer *ʕerkāhʕ* til
+*darkahʕ* >>dens vej<<.}
 
 //14 og den findes ikke i de levendes land.
 
