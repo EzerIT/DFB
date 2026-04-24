@@ -1,49 +1,50 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 19.04.2017>!!
-
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 24.04.2026>!!
+ 
 ===Salme 124===
 
-==Overskrift==
-v1 Valfartssang.{E: Se note til Sl 120,1.} Af David.
+ ==Overskrift==
+//0 v1 Valfartssang.{H: Sl 120,1.} 
+//1 Af David.
 
-==Hvis ikke HERREN havde været med os==
-Hvis ikke HERREN havde været med os{T: Sætningen kan også oversættes: >>Hvis ikke det var HERREN, der havde været med os<<.}
+ ==Hvis ikke HERREN havde været med os==
+//0 Hvis ikke det var HERREN 
+//2 som havde været med os
 
-– sådan skal Israel sige –
+//1 – sådan skal Israel sige –
 
-v2 hvis ikke HERREN havde været med os,
+//0 v2 hvis ikke det var HERREN 
+//3 som havde været med os,
 
-dengang mennesker{T: Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.} rejste sig mod os,
+//4 dengang mennesker rejste sig mod os,
 
-v3 så havde de opslugt os levende
+//2 v3 så havde de opslugt os levende
 
-i deres flammende vrede mod os,
+//4 i deres flammende vrede mod os,
 
-v4 så var vandene skyllet over os,
+//3 v4 så var vandene skyllet over os,
 
-en vandstrøm var gået over vor hals,{E: Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: >>hals<<. Grundbetydningen i GT er dog: >>sjæl<<. Det oversættes ofte: >>liv<<. Her oversættes det ofte: >>os<<.}
+//5 en vandstrøm var gået over vores hals,{N: Sjæl}
 
-v5 så var de gået over vor hals,
+//4 v5 så var de gået over vores hals, 
 
-de brusende vande!
-
+ de brusende vande!
+ 
 ==Lovet være HERREN som var med os==
-v6 Lovet{T: Kan også oversættes: >>velsignet<<.} være HERREN
+//1 v6 Lovpriset være HERREN
 
-som ikke gav os til bytte for deres tænder!
+//4 som ikke gav os til bytte for deres tænder!
 
-v7 Vort liv{T: Ordret: >>sjæl<<.} undslap som en fugl
+//3 v7 Vores liv{N: Sjæl} undslap som en fugl 
 
-af fuglefængernes fælde.
+ af fuglefængernes fælde.
 
-Fælden blev knust,
+//4 Fælden blev knust,
 
-og vi undslap.
+//5 og vi undslap.
 
-v8 Vor hjælp er i HERRENS navn,
+//2 v8 Vores hjælp er i HERRENS navn, 
 
-hans som skabte himmel og jord.
-
+han som dannede himmel og jord.
 
