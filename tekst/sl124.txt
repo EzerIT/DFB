@@ -10,12 +10,12 @@
 
  ==Hvis ikke HERREN havde været med os==
 //0 Hvis ikke det var HERREN 
-//2 som havde været med os
+//2 som havde været for os
 
 //1 – sådan skal Israel sige –
 
 //0 v2 hvis ikke det var HERREN 
-//3 som havde været med os,
+//3 som havde været for os,
 
 //4 dengang mennesker rejste sig mod os,
 
