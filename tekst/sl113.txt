@@ -1,53 +1,51 @@
-!!<Oversættelse: Jørgen Bækgaard Thomsen>!!
+!!<Oversættelse: Jørgen Bækgaard Thomsen>!!	
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
-
+!!<Dato for denne version: 29.04.2026>!!
+ 
 ===Salme 113===
 
 ==Lovpris HERRENS navn!==
-v1 Halleluja!
+//0 v1 Halleluja!
 
-Lovpris, I HERRENS tjenere,
+//1 Lovpris, 
+//2 I HERRENS tjenere,
 
-lovpris HERRENS navn!
+//0 lovpris HERRENS navn!
 
-v2 HERRENS navn være priset{T: Kan også oversættes: >>velsignet<<.}
+//1 v2 HERRENS navn være lovpriset 
 
-fra nu og til evig tid!
+ fra nu og til evig tid!
 
-v3 Fra solens opgang{T: Dvs.: Øst.} til dens nedgang{T: Dvs.: Vest.}
+//4 v3 Fra solens opgang til dens nedgang 
 
-er HERRENS navn højlovet.
-
+ er HERRENS navn højlovet.
+ 
 ==HERREN er ophøjet==
-v4 HERREN er ophøjet over alle folk,
+//3 v4 HERREN er ophøjet over alle folkeslag,
 
-hans herlighed over himlen.
+//4 hans herlighed over himlen.
 
-v5 Hvem er som HERREN, vor Gud –
+//2 v5 Hvem er som HERREN, vores Gud?
 
-han som troner højt oppe,
+//5 Han som er højt oppe
+//6 når han troner
 
-v6 han som ser dybt ned –
+//4 v6 han som ser dybt ned
 
-i himlen og på jorden?{T: En del oversættere vælger – for forståelsens skyld – at flytte denne linje op mellem v.5a og 5b.}
-
+//5 for at se på himlen og på jorden.
+ 
 ==Herren bøjer sig frelsende ned==
-v7 Han som rejser en ringe op af støvet,
+//3 v7 Han som rejser en ringe op af støvet,
 
-som ophøjer en fattig af skarnet
+//4 som ophøjer en fattig af skarnet
 
-v8 for at lade ham sidde{E: Den masoretiske tekst har: *lᵊhôšîvî*: >>for at lade mig sidde<<. Som regel følger man her Septuaginta og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*: >>for at lade ham sidde<<.} blandt fornemme,{T: Kan også oversættes: >>fyrster<<.}
+//5 v8 for at lade ham sidde{E: *lᵊhôšîvî* rettes ud fra LXX og den syriske oversættelse, der forudsætter: *lᵊhôšîvô*.} blandt fornemme, 
 
-blandt sit folks fornemme.
+ blandt sit folks fornemme.
 
-v9 Han som lader en ufrugtbar bo{E: Participiet: *môšîvî* (>>lader bo<<) kan også oversættes: >>lader sidde<<. I dette vers skal det dog understrege kvindens position som husets frue.} i huset
+//3 v9 Han som lader den ufrivilligt barnløse bo i huset
 
-som en glad mor til sønnerne.
+//4 som en glad mor til sønnerne.
 
-Halleluja.{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 114.}
-
-
-
-
+//0 Halleluja.{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}

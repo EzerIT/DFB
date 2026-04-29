@@ -1,51 +1,58 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 04.09.2017>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 28.04.2026>!!
 
-===Salme 130===
+ ===Salme 130===
 
-==Overskrift==
-v1 Valfartssang.{E: Se note til Sl 120,1.}
+ ==Overskrift==
+//0 v1 Valfartssang.{E: Se note til Sl 120,1.}
 
-==Klage==
-Fra det dybe råber{E: Verbet *qᵊrāˀtîxā* i qatal, der oftest angiver fortid. Oversættelsen kunne være: >>råbte jeg til dig<<. I så fald angiver v.2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.} jeg til dig, HERRE!
+ ==Klage==
+//0 Fra det dybe råber{E: Verbet *qᵊrāˀtîxā* står i qatal, der oftest angiver fortid. Oversættelsen kunne være: >>råbte jeg til dig<<. I så fald angiver vers 2-4 det salmisten råbte, og hele salmen er en takkesalme efter udfrielsen. Det giver god mening. Men qatal synes ofte i klagesalmerne at skildre det som sker nu, men som bygger på det der jævnligt er gået forud – og som dermed altså ikke er enestående i situationen.} jeg til dig, 
+//4 HERRE!
 
-v2 Herre, hør på min røst,
+//3 v2 Herre, 
+//4 hør på min røst,
 
-lad dine ører være opmærksomme
+//5 læg øre 
 
-på min tryglende røst.{T: Ordret: >>på min tryglens (pluralis) røst<<}
+ til mine tryglende bønners røst!
 
-v3 Hvis du, HERRE,{T: Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.} vil vogte på skyld,
+//2 v3 Hvis du vil vogte på skyld, 
+//5 HERRE,{H: 2 Mos 15,2}
 
-Herre, hvem kan så bestå?
+//4 Herre, 
+//5 hvem kan så bestå?
 
-v4 Men hos dig er tilgivelsen
+//3 v4 For hos dig er tilgivelsen
 
-for at du må frygtes.
+//4 for at du må frygtes.
 
-==Længselsfuld tillid==
-v5 Jeg håber{E: Verberne i dette vers står i qatal, jf. note til v.1b.} på HERREN,
+ ==Længselsfuld tillid==
+//1 v5 Jeg håber på HERREN,
 
-min sjæl håber,
+//3 min sjæl{N: Sjæl} håber,
 
-og jeg venter på hans ord,
+//4 og jeg venter på hans ord,
 
-v6 min sjæl venter{E: Der er ikke noget verbum i linjen. Det må enten underforstås fra foregående linje: >>venter<< (som fortsættelsen tyder på), eller linjen kan oversættes: >>min sjæl er vendt til Herren<<.} på Herren
+//5 v6 min sjæl venter på Herren,
 
-mere end vægtere på morgenen,
+//6 mere end vægtere på morgenen,
 
-vægtere på morgenen.
-
+//7 vægtere på morgenen.
+ 
 ==Salmistens vidnesbyrd==
-v7 Israel, vent på HERREN,
+//2 v7 Vent, 
+//6 Israel,  
+//5 på HERREN,
 
-for hos HERREN er nåden{N: nåde},
+//4 for hos HERREN er nåden{N: nåde},
 
-og megen forløsning er hos ham.
+//5 og megen forløsning er hos ham.
 
-v8 Og han skal forløse Israel
+//3 v8 Og han skal forløse Israel 
 
-fra al dets skyld.{T: Grundtekstens ord står i pluralis, der understreger vægten af >>skyld<<.}
+ fra alle dets ugerninger.
+
+
 

@@ -224,6 +224,7 @@ $style['1mos'] = $modenhed['med indrykning'];
 
 for ($k=1; $k<=40; ++$k)
     $style['2mos'][$k] = $modenhed['uden indrykning'];
+$style['2mos'][ 3] = $modenhed['med indrykning'];
 $style['2mos'][14] = $modenhed['med indrykning'];
 $style['2mos'][16] = $modenhed['med indrykning'];
 $style['2mos'][19] = $modenhed['med indrykning'];
@@ -264,8 +265,11 @@ $style['sl'][ 97] = $modenhed['med indrykning'];
 $style['sl'][ 98] = $modenhed['med indrykning'];
 $style['sl'][103] = $modenhed['med indrykning'];
 $style['sl'][104] = $modenhed['med indrykning'];
+$style['sl'][113] = $modenhed['med indrykning'];
+$style['sl'][118] = $modenhed['med indrykning'];
 $style['sl'][121] = $modenhed['med indrykning'];
 $style['sl'][124] = $modenhed['med indrykning'];
+$style['sl'][130] = $modenhed['med indrykning'];
 $style['sl'][136] = $modenhed['med indrykning'];
 $style['sl'][137] = $modenhed['med indrykning'];
 $style['sl'][145] = $modenhed['med indrykning'];

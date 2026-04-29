@@ -1,5 +1,13 @@
 <?php
 
+// Increment a character
+function inc_char(string $s): string {
+    if (function_exists('str_increment')) {
+        return str_increment($s);   // PHP 8.3+
+    }
+    return ++$s;                   // PHP ≤ 8.2
+}
+
 class FormatText extends Formatter {
     private $fh; // File handle for original language text
 
@@ -332,7 +340,9 @@ class FormatText extends Formatter {
     
         $txt = preg_replace_callback('/REFALET/',
                                      function ($matches) {
-                                         return $this->nextletter++;
+                                         $retval = $this->nextletter;
+                                         $this->nextletter = inc_char($this->nextletter);
+                                         return $retval;
                                      }, $txt);
 
         $txt = preg_replace_callback('/REFANUM/',

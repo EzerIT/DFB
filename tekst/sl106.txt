@@ -1,7 +1,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 29.04.2026>!!
 
 ===Salme 106===
 
@@ -123,7 +123,7 @@ v26 Da løftede han sin hånd mod dem{E: Den hebraiske tekst kan både betyde at
 
 for at slå dem ned i ørkenen,
 
-v27 og for at slå deres efterkommere ned{E: Mange oversættere følger den gamle syriske oversættelse, der forudsætter: *ûlᵊhafîṣ*: >>og for at sprede<< (som Ez 20,23)i stedet for den masoretiske teksts *ûlᵊhappîl* (>>og for at slå ned/og for at lade falde<<.} blandt folkene
+v27 og for at slå deres efterkommere ned{E: Mange oversættere følger den gamle syriske oversættelse, der forudsætter: *ûlᵊhafîṣ*: >>og for at sprede<< (som Ez 20,23) i stedet for den masoretiske teksts *ûlᵊhappîl* (>>og for at slå ned/og for at lade falde<<).} blandt folkene
 
 og strø dem ud i landene.
 
@@ -225,7 +225,4 @@ fra evighed og til evighed,
 
 og hele folket skal sige: Amen!
 
-Halleluja!{T: Mange oversættere lader (med støtte i Septuaginta) >>halleluja<< være indledning til Sl 107}
-
-
-
+Halleluja!{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}

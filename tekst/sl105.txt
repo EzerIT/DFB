@@ -1,12 +1,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 29.04.2026>!!
 
-===Salme 105{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 104 i stedet være indledning til Sl 105}===
+===Salme 105===
 
 ==Opfordring til lovsang==
-v1 Tak HERREN, udråb{E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.} hans navn,
+v1 Tak{T: I den græske oversættelse indledes salmen med et >>Halleluja<< der er overført fra slutningen af den forudgående salme. Det samme sker i flere andre salmer.} HERREN, udråb{E: Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.} hans navn,
 
 kundgør hans gerninger blandt folkene!
 
@@ -193,7 +193,4 @@ v45 med det formål at de skulle holde hans bestemmelser
 
 og overholde hans love.{N: lov}
 
-Halleluja! {T: Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette >>halleluja<<.}
-
-
-
+Halleluja! {T: Nogle oversættere udelader (med støtte i den græske og den syriske oversættelse) dette >>halleluja<<.}

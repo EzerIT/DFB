@@ -1,12 +1,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 28.02.2022>!!
+!!<Dato for denne version: 29.04.2026>!!
 
-===Salme 107{T: Mange oversættere lader (med støtte i Septuaginta) det afsluttende >>halleluja<< i Sl 106 i stedet være indledning til Sl 107.}===
+===Salme 107===
 
 ==Opfordring til taksigelse==
-v1 Tak HERREN, for han er god,
+v1 Tak{T: I den græske oversættelse indledes salmen med et >>Halleluja<< der er overført fra slutningen af den forudgående salme. Det samme sker i flere andre salmer.} HERREN, for han er god,
 
 for hans nåde{N: nåde} varer til evig tid.
 

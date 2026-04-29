@@ -1,12 +1,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 14.07.2017>!!
+!!<Dato for denne version: 29.04.2026>!!
 
-===Salme 116{T: Septuginta, der følges af en del oversættere, har det >>halleluja<<, der i den masoretiske tekst står som afslutning på Sl 115, som indledning til Sl 116.}===
+===Salme 116===
 
 ==Du har reddet mit liv==
-v1 Jeg elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for HERREN har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>HERREN<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker HERREN, for han har hørt min tryglende røst<<.} at HERREN har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(HERREN) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
+v1 Jeg{T: I den græske oversættelse indledes salmen med et >>Halleluja<< der er overført fra slutningen af den forudgående salme. Det samme sker i flere andre salmer.} elsker{E: Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: >>Jeg elsker, for HERREN har hørt<<, men verbet >>elske<< kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller >>HERREN<< må flyttes frem, så oversættelsen bliver: >>Jeg elsker HERREN, for han har hørt min tryglende røst<<.} at HERREN har hørt{E: Den masoretiske tekst har yiqtol: *yišmaʕ*: >>(HERREN) vil høre<<. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (>>for<<) (*y* og *î* dækker begge over bogstavet >>jod<<), så der skal læses qatal: *šāmaʕ*: >>har hørt<<.}
 
 
 min tryglende røst.{T: Ordret: >>min tryglens røst<<.}
@@ -90,7 +90,4 @@ v19 i forgårdene til HERRENS hus,
 
 i din midte, Jerusalem!
 
-Halleluja!{T: Septuginta, der følges af en del oversættere, har dette >>halleluja<< som indledning til Sl 117.}
-
-
-
+Halleluja!{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}
