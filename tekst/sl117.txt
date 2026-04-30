@@ -1,12 +1,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 29.04.2026>!!
+!!<Dato for denne version: 30.04.2026>!!
 
 ===Salme 117===
 
 ==Lovpris HERREN==
-v1 Lovpris{T: I den græske oversættelse indledes salmen med et >>Halleluja<< der er overført fra slutningen af den forudgående salme. Det samme sker i flere andre salmer.} HERREN, alle folk!{T: Kan også oversættes: >>hedninger<<, men det er næppe meningen her.}
+v1 Lovpris{T: Den græske oversættelse indledes med et »Halleluja« der er overført fra slutningen af den forudgående salme, se note til Sl 104,35.} HERREN, alle folk!{T: Kan også oversættes: >>hedninger<<, men det er næppe meningen her.}
 
 Pris ham, alle folkeslag!
 
@@ -14,4 +14,4 @@ v2 For hans nåde{N: nåde} mod os har været mægtig,
 
 og HERRENS troskab{T: Kan også oversættes: >>sandhed<<.} varer til evig tid.
 
-Halleluja!{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}
+Halleluja!{T: I den græske oversættelse indleder »halleluja« næste salme, se note til Sl 104,35.}

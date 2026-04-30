@@ -2,7 +2,7 @@
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
 !!<Eksegetisk layout: Mikkel Kølkær>!!
-!!<Dato for denne version: 29.04.2026>!!
+!!<Dato for denne version: 30.04.2026>!!
 
 ===Salme 104===
 
@@ -171,4 +171,4 @@ og til sit arbejde indtil aften.
 
 //0 Pris //3 af hjertet{H: Sl 104,1} //2 HERREN!
 
-//1 Halleluja!{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}
+//1 Halleluja!{T: I den græske oversættelse indleder »halleluja« næste salme. Det samme gælder i Sl 106,48, Sl 113,9, Sl 115,18, Sl 116,19, Sl 117,2 og Sl 135,21.}

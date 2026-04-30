@@ -1,7 +1,7 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
 !!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 29.04.2026>!!
+!!<Dato for denne version: 30.04.2026>!!
 
 ===Salme 106===
 
@@ -225,4 +225,4 @@ fra evighed og til evighed,
 
 og hele folket skal sige: Amen!
 
-Halleluja!{T: Mange oversættere lader (med støtte i den græske oversættelse) »halleluja« være indledning til den efterfølgende salme. Det samme sker i flere andre salmer.}
+Halleluja!{T: I den græske oversættelse indleder »halleluja« næste salme, se note til Sl 104,35.}
