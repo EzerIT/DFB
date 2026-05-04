@@ -1,13 +1,5 @@
 <?php
 
-// Increment a character
-function inc_char(string $s): string {
-    if (function_exists('str_increment')) {
-        return str_increment($s);   // PHP 8.3+
-    }
-    return ++$s;                   // PHP ≤ 8.2
-}
-
 class FormatText extends Formatter {
     private $fh; // File handle for original language text
 
@@ -119,7 +111,7 @@ class FormatText extends Formatter {
         }
         elseif (preg_match('/===(.*)\s*{E: *([^}]+)}===/',$txt,$tit)) {
             $this->title = $tit[1] . '<span class="ref refa"><span class="refnumhead" data-toggle="tooltip" data-let="a" data-placement="bottom" title="' . $tit[2] . '" data-html="true">[a]</span></span>';
-            ++$this->nextletter;
+            $this->nextletter = inc_char($this->nextletter);
         }
         else {
             preg_match('/===(.*)===/',$txt,$tit);
@@ -160,8 +152,11 @@ class FormatText extends Formatter {
         $to[] = '';
      
         $from[] = '/\s*{N: *([^}]+)}/';
-        $to[] = '<a class="explain" href="ordforklaring.php?ord=\1">°</a>';
-     
+        $to[] = "<a class=\"explain\" href=\"ordforklaring.php?ord=\\1\" "
+              . "data-toggle=\"tooltip\" data-placement=\"bottom\" "
+              . "data-template='<div class=\"tooltip glossary-tooltip\" role=\"tooltip\"><div class=\"arrow\"></div><div class=\"tooltip-inner\"></div></div>' "
+              . "title=\"\\1\">°</a>";
+        
         $from[] = '/JHVHs/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRENS</small>';

@@ -151,7 +151,12 @@ else
         min-width: 100px;
         font-size: <?= $_SESSION['fontsize'] ?>%;
      }
-     
+
+     .glossary-tooltip .tooltip-inner {
+         background-color: darkgreen;
+         min-width: 80px;
+         text-align: center;
+     }     
     div.paragraph {
         text-indent: 2em;
         display: block;

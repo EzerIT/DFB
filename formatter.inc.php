@@ -172,6 +172,15 @@ class FormatNull extends Formatter {
     }
 }
 
+
+// Increment a character
+function inc_char(string $s): string {
+    if (function_exists('str_increment')) {
+        return str_increment($s);   // PHP 8.3+
+    }
+    return ++$s;                   // PHP ≤ 8.2
+}
+
 require_once('format_text.inc.php');
 require_once('format_sfm.inc.php');
 

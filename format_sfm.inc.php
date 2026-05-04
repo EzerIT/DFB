@@ -393,7 +393,10 @@ class FormatSfm extends Formatter {
                     if (!preg_match('/(.*)\|(.*)/',$word,$mat))
                         throw new ParserException("Badly formed glossary string");
 
-                    $buffer .= "$mat[1]<a class=\"explain\" href=\"ordforklaring.php?ord=$mat[2]\">°</a>";
+                    $buffer .= "$mat[1]<a class=\"explain\" href=\"ordforklaring.php?ord=$mat[2]\" "
+                             . "data-toggle=\"tooltip\" data-placement=\"bottom\" "
+                             . "data-template='<div class=\"tooltip glossary-tooltip\" role=\"tooltip\"><div class=\"arrow\"></div><div class=\"tooltip-inner\"></div></div>' "
+                             . "title=\"$mat[2]\">°</a>";
 
                     if ($tokenizer->get_token()!='\w*')
                         throw new ParserException("\w* not found");
@@ -463,9 +466,12 @@ class FormatSfm extends Formatter {
                 case '\fe': // Exegetic footnote
                     if ($in_footnote)
                         throw new ParserException('Footnote within footnote');
+
+                    $oldnextletter = $this->nextletter;
+                    $this->nextletter = inc_char($this->nextletter);
                     $buffer = rtrim($buffer) . '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-let="'
-                             . $this->nextletter++
-                               . '" data-placement="bottom" title="';
+                            . $oldnextletter
+                            . '" data-placement="bottom" title="';
                     if ($tokenizer->get_token()!='+')
                         throw new ParserException('No + after \\fe');
                     $in_footnote = true;
