@@ -51,14 +51,14 @@ class FormatText extends Formatter {
                 // Remove trailing //#
                 $txt = preg_replace('|(.*)//[0-9]+\s*$|','\1', $txt);
 
-                
+
                 // Remove a possible final heading
                 if (preg_match('/[^=]==[^=]+==\s*$/s',$txt,$matches,PREG_OFFSET_CAPTURE,0)) {
                     $txt = substr($txt,0,$matches[0][1]);
                 }
             }
         }
-    
+
         preg_match_all('/!!<(.*)>!!/',$txt,$meta_matches);
         $this->credit = $meta_matches[1];
         $this->format_credits();
@@ -73,34 +73,34 @@ class FormatText extends Formatter {
 
         $from[] = '/>>>/';
         $to[] = '»›';
-        
+
         $from[] = '/<<</';
         $to[] = '‹«';
-        
+
         $from[] = '/>>/';
         $to[] = '»';
-        
+
         $from[] = '/<</';
         $to[] = '«';
-        
+
         $from[] = '/>/';
         $to[] = '›';
-        
+
         $from[] = '/</';
         $to[] = '‹';
-        
+
         $from[] = '/\'/';
         $to[] = '&rsquo;';
-        
+
         $from[] = '/^ *\*\*\* *$/m';
         $to[] = '&nbsp;';
-        
+
         $from[] = '/\*([^\*]+)\*/';
         $to[] = '<i>\1</i>';
-        
+
         $from[] = '~//([^\d])~';
         $to[] = "//0";
-        
+
         $txt =  preg_replace($from, $to, $txt);
 
 
@@ -123,10 +123,10 @@ class FormatText extends Formatter {
 
         $from = array();
         $to = array();
-        
+
         $from[] = '/===(.*)===/';  // Titles have been handled above
         $to[] = '';
-        
+
         if ($this->syntactic_layout) {
             $from[] = '/==(.*)==/';
             $to[] = '';
@@ -144,19 +144,13 @@ class FormatText extends Formatter {
 
         $from[] = '/\s*{E: *([^}]+)}/';
         $to[] = '<span class="ref refa"><span class="refnum" data-toggle="tooltip" data-let="REFALET" data-placement="bottom" title="\1" data-html="true"></span></span>';
-     
+
         $from[] = '/\s*{T: *([^}]+)}/';
         $to[] = '<span class="ref ref1"><span class="refnum" data-toggle="tooltip" data-num="REFANUM" data-placement="bottom" title="\1" data-html="true"></span></span>';
-     
+
         $from[] = '/\s*{K: *([^}]+)}/';
         $to[] = '';
-     
-        $from[] = '/\s*{N: *([^}]+)}/';
-        $to[] = "<a class=\"explain\" href=\"ordforklaring.php?ord=\\1\" "
-              . "data-toggle=\"tooltip\" data-placement=\"bottom\" "
-              . "data-template='<div class=\"tooltip glossary-tooltip\" role=\"tooltip\"><div class=\"arrow\"></div><div class=\"tooltip-inner\"></div></div>' "
-              . "title=\"\\1\">°</a>";
-        
+
         $from[] = '/JHVHs/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRENS</small>';
@@ -164,7 +158,7 @@ class FormatText extends Formatter {
             $to[] = 'Herrens';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/JHVHvs/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRES</small>';
@@ -172,7 +166,7 @@ class FormatText extends Formatter {
             $to[] = 'Herres';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/JHVHv/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRE</small>';
@@ -180,14 +174,14 @@ class FormatText extends Formatter {
             $to[] = 'Herre';
         else
             $to[] = $_SESSION['godsname'];
-     
+
         $from[] = '/JHVH/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERREN</small>';
         else
             $to[] = $_SESSION['godsname'];
-     
-     
+
+
         $from[] = '/HERRENS/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRENS</small>';
@@ -195,7 +189,7 @@ class FormatText extends Formatter {
             $to[] = 'Herrens';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/HERRES/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRES</small>';
@@ -203,7 +197,7 @@ class FormatText extends Formatter {
             $to[] = 'Herres';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/HERREN/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERREN</small>';
@@ -211,7 +205,7 @@ class FormatText extends Formatter {
             $to[] = 'Herren';
         else
             $to[] = $_SESSION['godsname'];
-     
+
         $from[] = '/HERRE/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRE</small>';
@@ -219,10 +213,10 @@ class FormatText extends Formatter {
             $to[] = 'Herre';
         else
             $to[] = $_SESSION['godsname'];
-     
+
         $from[] = '/([^a-z])[vV]([0-9]+)[\n ]*/';
         $to[] = '\1<span class="verseno" data-verse="\2"><span class="chapno">'.$this->chapter.':</span>\2</span>';
-     
+
         if (!$this->syntactic_layout) {
             // Remove indentation marker
             $from[] = '~//\d+[\x20\xa0\x09]*\R~m';  // Prevent that marker without text causes subsequent line feed to be removed
@@ -245,7 +239,7 @@ class FormatText extends Formatter {
 
             $from[] = '/^ *([^\n@]+) *$/m';
             $to[] = '<div class="paragraph">\1</div>';
-            
+
             $from[] = '/@([^@]+)@/';
             $to[] = '<h2>\1</h2>';
         }
@@ -255,13 +249,13 @@ class FormatText extends Formatter {
 //            $to[] = '<span class="added">\1</span>';
 //        else
             $to[] = '\1';
- 
+
         $from[] = '/--/';
         $to[] = '&ndash;';
- 
+
         $from[] = '/(\s)-(\s)/';
         $to[] = '\1&ndash;\2';
- 
+
         $from[] = '/\.\.\./';
         $to[] = '…';
 
@@ -283,7 +277,7 @@ class FormatText extends Formatter {
                     fseek($this->fh,$pos);
                 }
             }
-            
+
             // (Regexp (.*?) matches the minimum number of arbitrary characters
             // (?= indicates a lookahead condition).
             $txt = preg_replace_callback('~//(\d+)\s*(.*?)\s*(?=//\d|$)~s', // A double slash,
@@ -296,7 +290,7 @@ class FormatText extends Formatter {
                                              if ($_SESSION['include_orig_lang']=='on') {
                                                  $orig_line = fgets($this->fh);
                                                  $orig_line = substr(strstr($orig_line,' '),1); // Strip verse and indent number and space
-                                                 
+
                                                  return '<div class="textline"><div class="indented-number" data-indent="' . $matches[1] . '">'
                                                       . $matches[1]
                                                       . '<span style="color:transparent;font-size:0pt;">¤</span>'
@@ -319,7 +313,24 @@ class FormatText extends Formatter {
                                          }, $txt);
         }
 
-        
+
+        // Generate glossary
+
+        $txt = preg_replace_callback('/\s*{N: *([^}]+)}/',
+                                     function ($matches) {
+                                         // Make first character uppercase, except if word is "gt-mål" or "nt-mål"
+                                         $upper = match ($matches[1]) {
+                                             'gt-mål', 'Gt-mål' => 'GT-mål',
+                                             'nt-mål', 'Nt-mål' => 'NT-mål',
+                                             default => mb_strtoupper(mb_substr($matches[1],0,1)) . mb_substr($matches[1],1),
+                                         };
+
+                                         return "<a class=\"explain\" href=\"ordforklaring.php?ord=$matches[1]\" "
+                                              . "data-toggle=\"tooltip\" data-placement=\"bottom\" "
+                                              . "data-template='<div class=\"tooltip glossary-tooltip\" role=\"tooltip\"><div class=\"arrow\"></div><div class=\"tooltip-inner\"></div></div>' "
+                                              . "title=\"$upper\">°</a>";
+                                     }, $txt);
+
         // Generate references
 
         $txt = preg_replace_callback('/\s*{H: *([^}]+)}/',
@@ -332,7 +343,7 @@ class FormatText extends Formatter {
                                      }, $txt);
 
         // Generate footnote marks
-    
+
         $txt = preg_replace_callback('/REFALET/',
                                      function ($matches) {
                                          $retval = $this->nextletter;
@@ -361,37 +372,37 @@ class FormatText extends Formatter {
 
             $from[] = '/>>>/';
             $to[] = '»›';
-     
+
             $from[] = '/<<</';
             $to[] = '‹«';
-     
+
             $from[] = '/>>/';
             $to[] = '»';
-     
+
             $from[] = '/<</';
             $to[] = '«';
-     
+
             $from[] = '/>/';
             $to[] = '›';
-     
+
             $from[] = '/</';
             $to[] = '‹';
         }
         // If file does not end in ".txt", it is assumed to contain HTML, although the following
         // replacements still take place
-     
+
         $from[] = '/\'/';
         $to[] = '&rsquo;';
-     
+
         $from[] = '/^ *\*\*\* *$/m';
         $to[] = '&nbsp;';
-     
+
         $from[] = '/\$([^\*]+)\$/';
         $to[] = '<b>\1</b>';
-     
+
         $from[] = '/\*([^\*]+)\*/';
         $to[] = '<i>\1</i>';
-     
+
         $from[] = '/JHVHs/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRENS</small>';
@@ -399,7 +410,7 @@ class FormatText extends Formatter {
             $to[] = 'Herrens';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/JHVHvs/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRES</small>';
@@ -407,7 +418,7 @@ class FormatText extends Formatter {
             $to[] = 'Herres';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/JHVHv/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRE</small>';
@@ -415,14 +426,14 @@ class FormatText extends Formatter {
             $to[] = 'Herre';
         else
             $to[] = $_SESSION['godsname'];
-     
+
         $from[] = '/JHVH/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERREN</small>';
         else
             $to[] = $_SESSION['godsname'];
-     
-     
+
+
         $from[] = '/HERRENS/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRENS</small>';
@@ -430,7 +441,7 @@ class FormatText extends Formatter {
             $to[] = 'Herrens';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/HERRES/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRES</small>';
@@ -438,7 +449,7 @@ class FormatText extends Formatter {
             $to[] = 'Herres';
         else
             $to[] = $_SESSION['godsname'].'s';
-     
+
         $from[] = '/HERREN/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERREN</small>';
@@ -446,7 +457,7 @@ class FormatText extends Formatter {
             $to[] = 'Herren';
         else
             $to[] = $_SESSION['godsname'];
-     
+
         $from[] = '/HERRE/';
         if ($_SESSION['godsname']=='HERREN')
             $to[] = 'H<small>ERRE</small>';
@@ -454,19 +465,19 @@ class FormatText extends Formatter {
             $to[] = 'Herre';
         else
             $to[] = $_SESSION['godsname'];
-     
-     
+
+
         $from[] = '/--/';
         $to[] = '&ndash;';
-     
+
         $from[] = '/(\s)-(\s)/';
         $to[] = '\1&ndash;\2';
-     
+
         $from[] = '/\.\.\./';
         $to[] = '…';
-     
+
         $txt = preg_replace($from, $to, $txt);
-     
+
         $txt = preg_replace_callback('/{H: *([^}]+)}/',
                                      function ($matches) {
                                          $refs = formatref($matches[1]);
@@ -474,7 +485,7 @@ class FormatText extends Formatter {
                                              $refs = substr($refs,0,-1);
                                          return $refs;
                                      }, $txt);
-     
+
         return '<div class="explain">' . $txt . '</div>';
     }
 }

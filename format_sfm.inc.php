@@ -393,10 +393,17 @@ class FormatSfm extends Formatter {
                     if (!preg_match('/(.*)\|(.*)/',$word,$mat))
                         throw new ParserException("Badly formed glossary string");
 
+                    // Make first character uppercase, except if word is "gt-mål" or "nt-mål"
+                    $upper = match ($mat[2]) {
+                        'gt-mål', 'Gt-mål' => 'GT-mål',
+                        'nt-mål', 'Nt-mål' => 'NT-mål',
+                        default => mb_strtoupper(mb_substr($mat[2],0,1)) . mb_substr($mat[2],1),
+                    };
+
                     $buffer .= "$mat[1]<a class=\"explain\" href=\"ordforklaring.php?ord=$mat[2]\" "
                              . "data-toggle=\"tooltip\" data-placement=\"bottom\" "
                              . "data-template='<div class=\"tooltip glossary-tooltip\" role=\"tooltip\"><div class=\"arrow\"></div><div class=\"tooltip-inner\"></div></div>' "
-                             . "title=\"$mat[2]\">°</a>";
+                             . "title=\"$upper\">°</a>";
 
                     if ($tokenizer->get_token()!='\w*')
                         throw new ParserException("\w* not found");
