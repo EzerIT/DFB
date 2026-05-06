@@ -25,7 +25,7 @@ $sfm_name['nah']      = 'NAM';
 $sfm_name['hab']      = 'HAB';
 $sfm_name['sef']      = 'ZEP';
 $sfm_name['hagg']     = 'HAG';
-$sfm_name['zak']      = 'ZEK';
+$sfm_name['zak']      = 'ZEC';
 
 $sfm_name['matt']     = 'MAT';
 $sfm_name['mark']     = 'MRK';
