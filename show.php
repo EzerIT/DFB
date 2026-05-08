@@ -154,7 +154,6 @@ else
 
      .glossary-tooltip .tooltip-inner {
          background-color: darkgreen;
-         min-width: 80px;
          text-align: center;
      }     
     div.paragraph {
