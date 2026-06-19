@@ -1,0 +1,134 @@
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 19.06.2026>!!
+
+
+===5. Mosebog, kapitel 24===
+ 
+ ==Diverse ægteskabsregler==
+ 
+ 
+//0 v1 Hvis en mand tager sig en hustru 
+//2 og lever med hende,{T: Ordret >>agerer som ægtemand med hende<<.} 
+//1 men
+//2 hvis han så ikke synes om hende 
+//5 fordi han har fundet noget skamløst {H: 5 Mos 23,15} hos hende, 
+//4 da kan han udfærdige et skilsmissedokument til hende,  
+//4 give hende det i hånden 
+//5 og få hende væk fra sit hjem.{N: Hus} 
+//6 v2 Hun kan da forlade hans hjem 
+//6 og gå hen 
+//6 og få en anden mand. 
+//7 v3 Måske ringeagter denne seneste ægtefælle hende også,{H: 5 Mos 21,15; 22,13} 
+//9 udfærdiger et skilsmissedokument,
+//9 giver hende det i hånden 
+//10 og sender hende ud af sit hjem. 
+//8 Eller også så dør
+//9 den seneste ægtefælle.
+//3 v4 Da er det ikke tilladt for hendes første mand, 
+//6 som lod sig skille fra hende, 
+//5 igen
+//7 at tage hende 
+//8 til sin hustru
+//6 efter at hun er blevet skændet.{E: Med *huṭṭammāʔāʰ* menes enten at hun er blevet besudlet, eller at hun blevet rituel uren.}  
+//4 For det vil være afskyeligt for HERREN; 
+//5 og du må ikke gøre det land syndigt, 
+//6 som HERREN din Gud nu er ved at give dig som arvet jord. 
+ 
+ ***
+ 
+//0 v5 Hvis en mand tager sig en hustru til ægte, 
+//3 må han ikke tage med hæren ud, 
+//4 og han må ikke pålægges andre opgaver. 
+//2 Han skal være fritaget af hensyn til sit hjem i et år 
+//3 og glæde sig sammen med den hustru 
+//4 han har giftet sig med.
+ 
+ ==Forskellige regler==
+ 
+//1 v6 Man må ikke tage en håndkværn eller den øverste møllesten som pant, 
+//3 for så tager man et liv{N: Sjæl} i pant.
+ 
+ ***
+
+//2 v7 Hvis der skulle findes en mand 
+//4 som kidnapper en af sine landsmænd{N. Bror} blandt israelitterne 
+//5 og behandler ham som slave{H: 5 Mos 21,14}
+//6 eller sælger ham, 
+//3 da skal denne kidnapper dø, 
+//4 og du skal fjerne det onde fra dig.
+ 
+ ***
+
+//2 v8 Vær påpasselig med udbrud af hudsygdomme, 
+//5 ved at passe rigtig godt på 
+//6 og ved at gøre præcis 
+//7 som præsterne fra Levi stamme lærer jer, 
+//5 sådan som jeg befalet dem 
+//4 at I skal passe på 
+//5 med at gøre. 
+//3 v9 Husk på 
+//4 hvad HERREN din Gud gjorde ved Miriam undervejs 
+//5 da I vandrede ud af Egypten.
+ 
+ ***
+
+//2 v10 Hvis du låner din næste noget, 
+//5 må du ikke gå ind i hans hus 
+//6 for tage pant. 
+//4 v11 Du skal blive stående udenfor, 
+//5 og den mand 
+//7 som du har lånt noget, 
+//6 skal bære pantet ud til dig udenfor. 
+//3 v12 Men hvis det er en nødlidende mand, 
+//5 må du ikke lægge dig til at sove i hans pant.{H: 2 Mos 22,25}. 
+//4 v13 Giv uden tøven pantet tilbage til ham
+//6 når solen går ned, 
+//5 så han kan lægge sig i sin kappe 
+//6 og ønske velsignelse over dig. 
+//7 Det skal tjene dig til retfærdighed for HERREN din Gud{N: Ansigt}
+ 
+ ***
+
+//2 v14 Du må ikke undertrykke en nødlidende og fattig daglejer blandt dine landsmænd eller den fremmede 
+//4 som er i dit land ved dine byporte. 
+//3 v15 Du skal give ham hans løn på dagen, 
+//6 og solen må ikke gå ned forinden, 
+//5 for han er nødlidende 
+//6 og hans liv{N: Sjæl} afhænger af den.
+//4 Han må ikke råbe over dig til HERREN, 
+//5 så det bliver dig til synd.{H: 5 Mos 24,22}
+ 
+ ***
+
+//2 v16 Forældre må ikke henrettes på grund af deres børn, 
+//4 og børn må ikke henrettes på grund af forældrene.
+//4 For sin egen synd skal enhver
+//3 henrettes.
+ 
+ ***
+
+//2 v17 Du må ikke bøje retten for den fremmede, den faderløse 
+//6 og ikke tage en enkes kappe i pant. 
+//5 v18 Du skal huske på, 
+//6 at du var slave i Egypten, 
+//7 og HERREN din Gud løskøbte dig derfra. 
+//4 Derfor befaler jeg dig 
+//5 at gøre dette. 
+//3 v19 Når du høster kornet på din mark
+//5 og har glemt et neg på marken, 
+//4 da må du ikke vende tilbage 
+//7 for at tage det. 
+//6 Det skal tilhøre den fremmede, den faderløse og enken 
+//5 for at HERREN din Gud kan velsigne dig i hele din gerning.{H: 5 Mos 2,7}
+//3 v20 Når du ryster dit oliventræ, 
+//4 må du ikke bagefter gennemsøge grenene. 
+//5 Det skal den fremmede, den faderløse og enken have. 
+//3 v21 Når du plukker druer i din vingård, 
+//4 må du ikke bagefter gå planterne efter; 
+//6 de skal tilhøre den fremmede, den faderløse og enken. 
+//5 v22 Du skal huske på 
+//7 at du var slave i Egypten, 
+//6 derfor befaler jeg dig 
+//7 at handle efter dette ord.
+
