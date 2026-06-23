@@ -13,7 +13,7 @@ $chap['2kong']    = [5];
 $chap['job']      = range(1,42);
 $chap['sl']       = range(1,150);
 $chap['ordsp']    = [3];
-$chap['præd']     = [8];
+$chap['præd']     = [3,8];
 $chap['es']       = range(1,66);
 $chap['jer']      = range(1,52);
 $chap['klages']   = range(1,5);
@@ -283,7 +283,8 @@ $style['sl'][145] = $modenhed['med indrykning'];
 
 
 $style['ordsp']   = $modenhed['ufuldstændigt'];
-$style['præd']    = $modenhed['ufuldstændigt'];
+$style['præd'][3] = $modenhed['med indrykning'];
+$style['præd'][8] = $modenhed['ufuldstændigt'];
 $style['es']      = $modenhed['med indrykning'];
 $style['jer']     = $modenhed['med indrykning'];
 $style['klages']  = $modenhed['med indrykning'];
