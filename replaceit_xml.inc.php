@@ -129,7 +129,6 @@ class replaceit_XML {
 
         xml_parse($parser, $xml);
 
-        xml_parser_free($parser);
         return str_replace("'","&rsquo;",self::$to_print);
     }
   }
