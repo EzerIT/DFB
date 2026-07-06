@@ -17,10 +17,10 @@ class replaceit_XML {
     static private $collecting = 0;     // 0 = not collecting, 1 = not collecting but in correct chapter, 2 = collecting
     static public $refnum = 0;         // Footnote number
 
-    
+
     static private function tagStart($parser, $tagname, $attributes = null) {
         global $title;
-        
+
         switch ($tagname) {
           case 'title':
                 self::$collect = '';
@@ -40,9 +40,9 @@ class replaceit_XML {
                 else if (isset($attributes['eID'])) {
                     self::$in_chapter = false;
                 }
-            
+
                 break;
-            
+
           case 'verse':
                 if (isset($attributes['sID'])) {
                     $v = explode('.',$attributes['sID']);
@@ -114,9 +114,9 @@ class replaceit_XML {
     static public function replaceit($filename, $book, $chapter, $from_verse, $to_verse) {
         self::$book = $book;
         self::$chapter = $chapter;
-        self::$from_verse = $from_verse; 
+        self::$from_verse = $from_verse;
         self::$to_verse = $to_verse;
-    
+
         $parser = xml_parser_create('UTF-8');
 
 //        xml_parser_set_option($parser, XML_OPTION_TARGET_ENCODING, "UTF-8");
@@ -127,8 +127,21 @@ class replaceit_XML {
 
         $xml=file_get_contents($filename);
 
+        $xml = str_replace("</note> ", "</note>", $xml);
+
         xml_parse($parser, $xml);
 
-        return str_replace("'","&rsquo;",self::$to_print);
+        // Replacements
+
+        $from = array();
+        $to = array();
+
+        $from[] = "/'/";
+        $to[] = "&rsquo;";
+
+        $from[] = '/(\s)-(\s)/';
+        $to[] = '\1&ndash;\2';
+
+        return preg_replace($from,$to,self::$to_print);
     }
   }
