@@ -29,6 +29,9 @@ function look_through(string $book, int $chapt)
                     $verses[] = $verse;
                 
             fwrite($outfile, "\$verses['$book'][$chapt] = [" . implode(',',$verses) . "];\n");
+
+            if (strstr($txt, "//")!==false)
+                fwrite($outfile, "\$incomplete_is_indented['$book'][$chapt] = true;\n");
             break;
     }
 }

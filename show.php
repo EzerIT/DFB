@@ -3,6 +3,7 @@ require_once('head.inc.php');
 require_once('setdefault.inc.php');
 require_once('formatter.inc.php');
 require_once('oversigt.inc.php');
+require_once('verses.inc.php');
 
 
 // $minchap: Minimum chapter number
@@ -95,8 +96,12 @@ if (!isset($abbrev[$bog]))
 else
     makeheadstart($abbrev[$bog] . ' ' . $kap, true);
 
-if ($_SESSION['exegetic']=='on' && isset($style[$bog]))
-    $syntactic_layout = (is_array($style[$bog]) ? $style[$bog][$kap] : $style[$bog]) == $modenhed['med indrykning'];
+if ($_SESSION['exegetic']=='on' && isset($style[$bog])) {
+    $chapter_style = is_array($style[$bog]) ? $style[$bog][$kap] : $style[$bog];
+    $syntactic_layout = $chapter_style == $modenhed['med indrykning']
+                     || ($chapter_style == $modenhed['ufuldstændigt'] &&
+                         !empty($incomplete_is_indented[$bog][$kap]));
+}
 else
     $syntactic_layout = false;
 
