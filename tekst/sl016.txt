@@ -1,61 +1,81 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 06.10.2016>!!
-===Salme 16===
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 31.07.2026>!!
+  
 
-==Overskrift==
-v1 Miktam{T: Betydningen ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<, eller >>uudslettelig<< af *kātam*: >>indpræge (på en stele)<<. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 56-60) fastholde en alvorlig situation i folkets erindring.} af David
+ ===Salme 16===	 
 
-==Tilflugt hos Gud==
-Bevar mig, Gud, for jeg søger tilflugt hos dig.
+ ==Overskrift== 
 
-==Glæden ved at høre til hos Gud==
-v2 Jeg{E: Ordret: >>Du sagde<<. I så fald må man underforstå >>min sjæl<< eller lade v. 2-4a være rettet til en anden person (fem.!). Man vokaliserer oftest som 1. pers. Teksten i v. 2-4 er i det hele taget usikker og til dels uigennemskuelig.} sagde til HERREN: >>Du er min Herre,
+//0 v1 Miktam{T: Betydningen er ukendt, evt. >>klenodie, gyldent smykke<< (af *ketem*: >>guld<<), eller >>uudslettelig<< (af *kātam*: >>indpræge (på en stele)<<).} af David 
 
-jeg har intet gode ud over dig.
+ ==Tilflugt hos Gud== 
 
-v3 De hellige, de som er i landet,
+//0 Bevar mig, 
+//4 Gud, 
+//3 for jeg søger tilflugt hos dig. 
 
-og de ædle har jeg alt mit velbehag i<<.
- 
-v4 Mangfoldige bliver deres smerter, som bejler til en anden.{T: Underforstået >>en anden gud<<. Mange retter vokaliseringen af *māhārû* (>>betale brudesum, bejle<<) til: *mihᵃrû*: >>løbe efter<<.}
+ ==Glæden ved at høre til hos Gud== 
 
-Jeg vil ikke udgyde deres drikofre af blod
+//2 v2 Jeg{E: Ordret >>Du sagde<< som tiltale til en kvinde. Teksten i v. 2-4 er usikker.} sagde til HERREN: 
+//4 >>Du er min Herre, 
 
-og ikke bringe deres navne over mine læber.
+//5 jeg har intet gode ud over dig. 
 
-v5 HERRE, min tilmålte del og mit bæger,
+//3 v3 De hellige, 
+//6 de som er i landet, 	
 
-du sikrer min lod.
+//5 og de ædle 
+//6 er alt det jeg ønsker<<. 
 
-v6 Målesnorene faldt for mig på skønne steder,
+//4 v4 Mangfoldige bliver deres smerter, 
 
-ja, en dejlig arv tilfaldt mig.
+//6 de, som anskaffer sig noget andet.{E: I sammenhængen sikkert en anden gud. Verbet findes ellers kun i 2 Mos 22,15 og bruges om betaling af brudekøbssum. Oftest omvokaliseres til *mihᵃrû* >>skynder sig efter, løber efter<<.} 
 
-==Tillid til HERREN==
-v7 Jeg vil prise{E: Betyder også >>velsigne<<.} HERREN, som gav mig råd,
+//5 Jeg vil ikke udgyde deres drikofre af blod 
 
-ja, mine nyrer vejleder mig om natten.
+//6 og ikke bringe deres navne over mine læber. 
 
-v8 Jeg har altid HERREN for øje,
+//1 v5 HERRE, min tilmålte del og mit bæger, 
 
-for han er ved min højre side;
+//2 du sikrer min jordlod. 
 
-jeg skal ikke vakle.
+//5 v6 Målesnorene faldt for mig på skønne steder, 
 
-==Tryghed over for døden==
-v9 Derfor glæder mit hjerte sig, og min ære jubler,{T: Grundtekstens >>min ære jubler<< skal sandsynligvis forstås som >>min sjæl jubler<<.} 
+//6 ja, en dejlig arvet jord blev min.{T: Ordret >>over/ved siden af mig<<} 
 
-ja, mit kød skal bo i tryghed.
+ ==Tillid til HERREN== 
 
-v10 For du vil ikke overlade min sjæl til dødsriget,{E: Hebraisk: *šᵊʔôl*.}
+//4 v7 Jeg vil prise HERREN, 
+//7 som rådgav mig, 
 
-du vil ikke lade din hellige se graven.{E: Tidligere oversat: >>forrådnelse<<, i nogen grad med støtte i LXX.}
+//6 ja, mine følelser{T: Ordret >>mine nyrer<<} vejleder mig om natten. 
 
-v11 Du vil lære mig livets vej,
+//5 v8 Jeg har altid HERREN for øje, 
 
-der er fuldendt glæde for dit ansigt,
+//7 for han er ved min højre side; 
 
-der er altid skønne ting i din højre hånd.
+//8 jeg vil ikke vakle. 
+
+ ==Tryghed over for døden== 
+
+//6 v9 Derfor glæder mit hjerte sig, 
+//8 det jublede over min herlighed,{H: Sl 3,3.}  
+
+//7 ja, min krop vil bo i tryghed. 
+
+//3 v10 For du vil ikke overlade min sjæl til dødsriget,{N: Sheol} 
+
+//5 du vil ikke lade din hellige 
+//6 se graven.{E: Eller på grundlag af LXX >>forrådnelse<<.} 
+
+//4 v11 Du vil lære mig livets vej, 
+
+//5 der er fuldendt glæde foran dig,{N: Ansigt} 
+
+//6 der er altid skønne ting i din højre hånd. 
+
+
+
 

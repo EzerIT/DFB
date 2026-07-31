@@ -1,6 +1,6 @@
 !!<Oversættelse: Nicolai Winther-Nielsen>!!
 !!<Litterært tjek: Trine Tøndering >!!
-!!<Dato for denne version: 28.07.2026>!!
+!!<Dato for denne version: 31.07.2026>!!
 
 ===Jonas’ bog, kapitel 3===
 ==Jonas prædiker i Nineve ==
@@ -38,7 +38,7 @@
 //6 og vand bør de heller drikke.
 //7 v8 Men de skal tildække sig i sæk, både mennesker og dyr, 
 //8 og skrige højt til Gud, 
-//9 og de skal omvende sig 
+//9 og de skal vende om
 //10 hver især fra deres onde vej og fra den uret 
 //11 som de har begået.{N: Hånd}
 //5 v9 Hvem ved 
@@ -47,7 +47,7 @@
 //7 og vende sig fra sin rasende vrede 
 //8 så vi ikke forgår.<<
 //0 v10 Og Gud så deres gerninger, 
-//1 at de omvendte sig fra deres onde vej.
+//1 at de vendte om fra deres onde vej.
 ==Jonas’ vrede over Gud ==
 //0 Så angrede Gud den ulykke 
 //2 han havde meddelt 

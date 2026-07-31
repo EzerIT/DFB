@@ -1,12 +1,107 @@
-!!<Modenhed: Ufuldstændigt>!!
-!!<Oversættelse: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Endnu ikke sket>!!
-!!<Dato for denne version: 17.02.2022>!!
+!!<Oversættelse: Nicolai Winther-Nielsen>!!
+!!<Litterært tjek: Trine Tøndering>!!
+!!<Dato for denne version: 31.07.2026>!!
 
-===Femte Mosebog, kapitel 30===
+===5. Mosebog, kapitel 30===
+ 
+ ==HERRENS velsignelse efter omvendelse==
+ 
+ 
+//0 v1 Og så, 
+//3 når alle disse ting kommer over dig, velsignelsen og forbandelsen, 
+//6 som jeg hermed forelægger dig, 
+//5 og du lægger dig det på sinde{N: Hjerte} iblandt alle folkeslagene, 
+//6 som HERREN din Gud har ført dig bort til,
+//5 v2 og du så vender om{H: 5 Mos 4,30} til HERREN din Gud
+//5 og lytter til hans stemme helt 
+//7 som jeg påbyder dig i dag, 
+//6 du såvel som dine børn, af hele dit hjerte og hele din sjæl,
+//4 v3 da vil HERREN din Gud genrejse dig,{E: *wᵊšāv … ʔet-šᵊvûtxā*, ordret >>vende tilbage/tilbagevenden<<, fra verbet *šwb*, og ikke fra navneordet *šeḇîṯ*  (>>fangenskab<<); det er en fast vending om genopbygning af landet, om folkets åndelige genrejsning og for en persons vedkommende om at få sit gamle liv tilbage, dvs. ændre dennes tilværelse (Job 42,10).}
+//8 forbarme sig over dig 	
+//9 og igen
+//10 samle dig fra alle de folk
+//11 som HERREN din Gud har spredt dig til. 
+//7 v4 Selv hvis du skulle være blevet ført bort til himlens ende, 
+//8 vil HERREN din Gud samle dig derfra 
+//9 og hente dig derfra. 
+//6 v5 HERREN din Gud vil bringe dig til det land 
+//9 som dine fædre indtog. 
+//8 og du vil kunne indtage det.
+//9 Han vil gøre godt mod dig 
+//9 og gøre dig mere talrig end dine fædre. 
+//7 v6 HERREN din Gud vil omskære dit eget hjerte og dine efterkommeres hjerte 
+//9 for at du kan elske HERREN din Gud af hele dit hjerte og hele din sjæl 
+//8 af hensyn til dit liv. 
+//7 v7 HERREN din Gud vil lægge alle disse forbandelser på dine fjender og på dem som hader dig, 
+//8 som har forfulgt dig. 
+//5 v8 Hvad dig angår skal du vende dig om 
+//7 og lytte til HERRENS stemme 
+//7 og handle efter alle hans bud, 
+//8 som jeg er i færd med at befale dig i dag. 
+//6 v9 HERREN din Gud vil give dig overflod af det gode i hele din gerning, i dine nyfødte, i dit kvægs kalve og i din agerjords udbytte.
+//7 For HERREN vil igen 
+//9 glæde dig med det gode, 
+//10 ligesom han glædede dine fædre, 
+//8 v10 når du lytter til HERREN din Guds stemme
+//9 for at holde hans bud og hans forordninger, 
+//10 som er skrevet i denne lovbog, 
+//8 når du omvender dig til HERREN din Gud af hele dit hjerte og hele din sjæl.
+ 
+ ==Guds ords åbenbaring==
+ 
+//2 v11 For dette bud 
+//4 som jeg befaler dig i dag, 
+//3 det er ikke for anstrængende for dig, 
+//6 det er heller ikke noget langt borte. 
+//5 v12 Det er ikke i himlen 
+//7 så du må sige: 
+//8 >>Hvem vil fare op til himlen for os 
+//9 og hente det ned til os 
+//10 så vi kan høre det 
+//11 og handle efter det?<< 
+//6 v13 Det er heller ikke på den anden side af havet 
+//7 så du må sige: 
+//8 >>Hvem vil vandre over på den anden side af havet for os 
+//9 og hente det til os 
+//10 så vi kan høre det 
+//11 og handle efter det?<< 
+//4 v14 For ordet er meget tæt på dig, 
+//5 i din mund og i dit hjerte, 
+//6 for at du kan handle efter det.
+ 
+ ==Livets og dødens vej==
+ 
+//1 v15 Se, 
+//2 hermed forelægger jeg dig{N: Ansigt} i dag livet og det gode og døden og det onde. 
+//4 v16 For i dag befaler jeg dig 
+//6 at elske HERREN din Gud, 
+//7 at følge hans vejledning 
+//8 og holde hans bud og forordninger og love. 
+//5 Så kan du blive i live 
+//5 og blive talrig. 	
+//6 HERREN din Gud vil velsigne dig i det land 
+//7 du kommer hen til 
+//8 for at indtage det. 
+//3 v17 Men hvis du i dit hjerte vender dig væk 
+//6 og ikke hører efter, 
+//5 men du lader dig føre bort{H: 5 Mos 30,1.4} 
+//5 så du tilbeder andre guder 
+//6 og dyrker dem,
+//4 v18 så forkynder jeg jer hermed i dag 
+//6 at I helt sikkert vil gå til grunde. 
+//5 I vil ikke leve længe i det land 
+//6 som du nu drager over Jordan 
+//7 for at komme derhen //8 og indtage det.
+//2 v19 Jeg tager hermed i dag himlen og jorden til vidne mod jer. 
+//4 Jeg forelægger dig{N: Ansigt} hermed livet og døden, 
+//5 velsignelsen og forbandelsen 
+//3 Du skal vælge livet, 
+//4 for at du kan blive i live, du og dine efterkommere, 
+//6 v20 ved at du elsker HERREN din Gud,
+//7 lytter til hans stemme
+//8 og klynger dig til ham{H: 5 Mos 20,10}.
+//5 For det{T: Kan også oversættes >>han<<.} er dit liv og en god alderdom 
+//6 ved at du kan bo på den agerjord 
+//7 som HERREN med ed lovede dine fædre, Abraham, Isak og Jakob 
+//8 at give dem.
 
-v11 For dette bud som jeg befaler dig i dag, det er ikke gådefuldt for dig, det er heller ikke langt borte. 
-v12 Det er ikke i himlen så man måtte sige: >Hvem vil stige op til himlen for os og hente det til os og lade os høre det så vi kan handle efter det?< 
-v13 Det er heller ikke på den anden side af havet så man måtte sige: >Hvem vil drage over på den anden side af havet for os og hente det til os og lade os høre det så vi kan handle efter det?< 
-v14 For ordet er meget nær hos dig, i din mund og i dit hjerte, for at du skal handle efter det.
