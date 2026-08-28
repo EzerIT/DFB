@@ -1,86 +1,110 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 06.03.2016>!!
+!!<Redigering: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 28.08.2026>!!
 
 ===Salme 39===
 
-==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder >>dirigere<<.} Til Jedutun.{E: Jedutun var efter Davids bestemmelse sammen med Asaf og Heman overhoved for og stamfader til tempelsangerne (1 Krøn 25,1-3; 2 Krøn 5,12; 35,15). Han er formentlig den samme som Etan (1 Krøn 15,19). Overskriften her betyder formodentlig at salmen skal synges af >>Jedutun<< og hans tempelsangere.} 
+ ==Overskrift==
 
-Salme af David. 
+//0 v1 Til korlederen.{H: Sl 4,1} Til Jedutun.{H: 1 Krøn 25,1-3} 
 
-==En nødstedt fortæller om sin tilstand==
-v2 Jeg sagde: Jeg vil tage vare på mine veje,
+//1 Salme af David. 
 
-så jeg ikke synder med min tunge;
+ ==En nødstedt fortæller om sin tilstand==
 
-jeg vil lægge{E: Den hebraiske tekst har gentaget: *ʔešmrāʰ*: >>jeg vil tage vare<<. Sætningen er vanskelig, da *maḥsôm* (>>mundkurv<<) ikke kan være objekt. På grundlag af Septuaginta formoder man: *ʔāśîmāʰ*: >>jeg vil lægge<<} en mundkurv over min mund,
+//0 v2 Jeg sagde: 
+//1 Jeg vil tage vare på mine veje,
 
-så længe den ugudelige endnu er foran mig.
+//2 så jeg ikke synder med min tunge;
 
-v3 Jeg var stum i tavshed,
+//1 jeg vil tage vare på min mund med en mundkurv,
 
-jeg tav, uden at det blev godt.{E: Sætningen består på hebraisk kun af to ord. Andet ord, som byder på forståelsesvanskeligheder, er *miṭṭôv*: >>fra godt<<. Linjen kan (let omskrivende) oversættes: >>jeg tav endog om gode ting<<, eller: >>jeg tav – uden held<<, eller: >>jeg tav – uden (at det bragte mig) noget godt<<. Endelig forstår nogle fortolkere det som forkortet udgave af udtrykket >>fra godt til ondt<< = >>fuldstændig, altomfattende<<.}
+//2 så længe den ugudelige endnu er foran mig.
 
-Men min smerte tiltog.{T: Ordret: >>blev oprørt<<.}
+//0 v3 Jeg var stum i tavshed,
 
-v4 Mit hjerte blev hedt i mit indre,
+//0 jeg tav, uden at det blev godt,{E: *miṭṭôv* (>>fra godt<<) kan også oversættes >> uden held<< eller >> uden (at det bragte mig) noget godt<<.}
 
-under min stønnen optændes en ild.
+//2 og min smerte skyllede ind over mig.
 
-==Den nødstedtes utålmodige og bitre bøn==
-Jeg talte med min tunge:
+//1 v4 Det brændte i mit bryst{N: Hjerte},
 
-v5 >>Lad mig kende, HERRE, mit endeligt
+//2 under min stønnen optændtes en ild.
 
-og mine dages mål - hvad det er,
+//0 Så kom ordene over min tunge:
 
-så jeg ved hvor skrøbelig jeg er.
+ ==Den nødstedtes utålmodige og bitre bøn==
 
-v6 Se, håndsbredder har du givet mine dage,
+//2 v5 >>Lad mig kende, 
 
-og min livstid er som intet for dig,
+//6 HERRE, 
+//5 mit endeligt
 
-blot som{E: Den hebraiske tekst har *kāl-*: >>hel, hver<<. I mange håndskrifter mangler *l* dog, så der skal læses: *kᵊ*: >>som<<} et vindpust står hvert menneske der.<< Sela{N: Sela}
+//6 og mine dages mål, 
+//7 hvad det er,
 
-v7 Kun som et skyggebillede vandrer en mand,
+//4 så jeg ved 
+//5 hvor skrøbelig jeg er.
 
-kun forgæves{T: Ordret: >>åndepust, vindpust<<} larmer de,
+//3 v6 Se, som håndsbredder har du gjort mine dage,
 
-han samler, men kan ikke vide hvem der skal samle det ind.
+//5 og min livstid er som intet for dig,
 
-==Bøn om tilgivelse og hjælp==
-v8 Og nu, Herre, hvad har jeg ventet på?
+//4 blot som et vindpust står hvert menneske der.<< 
+//6 Sela{N: Sela}
 
-Min forhåbning – den gælder dig!
+//5 v7 Kun som et skyggebillede vandrer en mand,
 
-v9 Fri mig fra alle mine overtrædelser,
+//7 kun flygtigt larmer de,
 
-gør mig ikke til spot for tåben!
+//6 han kan samle sammen, 
+//7 men kan ikke vide 
+//8 hvem der skal samle det ind.
 
-v10 Jeg er blevet stum, jeg åbner ikke min mund,
+ ==Bøn om tilgivelse og hjælp==
 
-for du har gjort det.
+//1 v8 Og nu, 
+//2 hvad har jeg ventet på, 
+//4 Herre?
 
-v11 Tag din plage fra mig,
+//3 Mit håb 	
 
-jeg er gået til ved din hånds fjendskab.{E: Ordet *tigrāʰ* optræder kun her i GT. Betydningen er omdiskuteret, men >>strid, fjendskab<< er sandsynlig. Mange oversættere følger Septuaginta der må have forudsat: *gᵊvûrāʰ*: >>vægt<<}
+//5 er rettet mod dig!
 
-v12 Når du tugter en mand med straf for skyld,
+//4 v9 Fri mig fra alle mine overtrædelser,
 
-opløser du det han sætter pris på, som et møl.
+//6 gør mig ikke til spot for tåben!
 
-Hvert menneske er kun vindpust. Sela
+//7 v10 Jeg er blevet stum, 
+//8 jeg åbner ikke min mund,
 
-v13 Hør min bøn, HERRE, og mit skrig om hjælp,
+//9 for du har gjort det.
 
-lyt{E: Mange oversættere vælger at dele verset anderledes end den hebraiske tekst lægger op til. De lader >>lyt<< høre til første linje: >>lyt til mit skrig om hjælp, vær ikke tavs til mine tårer<<} til mine tårer, vær ikke tavs.
+//5 v11 Tag din plage fra mig,
 
-For jeg er en fremmed{T: Det hebraiske ord *gēr* (>>fremmed<<) betegner en person der har søgt ophold og beskyttelse i landet uden at have borgerret eller rettigheder i det hele taget.} hos dig, en tilflytter som alle mine fædre.
+//6 jeg er gået til ved din hånds fjendskab.{E: LXX har forudsat *gᵊvûrāʰ* (>>vægt<<).}
 
-v14 Se bort fra mig så jeg kan blive glad,
+//7 v12 Når du tugter en mand med straf for skyld,
 
-før jeg går bort og ikke mere er til.
+//9 og har opløst det han sætter pris på, som et møl.
+
+//8 kun flygtigt{H: Sl 39,7} er da hvert menneske. 
+//9 Sela
+
+//5 v13 Hør min bøn, 
+//8 HERRE, 
+//7 og mit skrig om hjælp{E: Masoreterne knytter ordet til den forudgående sætning} skal du lytte til,
+
+//6 forhold dig ikke tavs til mine tårer.
+
+//7 For jeg bor midlertidigt hos dig, 
+
+//8 er en tilflytter som alle mine fædre.
+
+//5 v14 Se bort fra mig 
+//6 så jeg kan blive glad,
+
+//7 før jeg går bort 
+//8 og ikke er der mere.
 
 
