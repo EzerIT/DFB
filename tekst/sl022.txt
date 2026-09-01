@@ -1,12 +1,12 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
-!!<Dato for denne version: 26.03.2026>!!
+!!<Dato for denne version: 01.09.2026>!!
 
 ===Salme 22===
 
 ==Overskrift==
 //0 v1 Til korlederen.{H: Sl 4,1} 
-//2 Efter  >>Morgenrødens hind<<.{E: *ʕal-ʔayyelet haššaḥar* kan hentyde til en melodi eller dens brug.}
+//2 Efter >>Morgenrødens hind<<.{E: *ʕal-ʔayyelet haššaḥar* kan hentyde til en melodi eller dens brug.}
 
 //1 Salme af David.
 
@@ -49,7 +49,7 @@
 //9 der ser mig, 
 //8 spotter mig,
 
-//7 de vrænger mund,{T: Ordret: >>De laver en spalte med læben<<.} 
+//7 de vrænger mund, 
 //7 de ryster på hovedet:
 
 //8 v9 >>Vælt det på HERREN, 
@@ -127,10 +127,9 @@ som en løve
 
 //5 v22 Frels mig fra løvens gab
 
-//7 og fra bøflers horn! 
+//7 og fra bøflers horn – du har svaret mig! 
 
 ==Taksigelse for Guds hjælp== 
-Du har svaret mig.
 
 //6 v23 Jeg vil forkynde dit navn for mine brødre,
 
@@ -165,7 +164,7 @@ den hjælpeløses elendighed,
 //10 de skal prise HERREN, 
 //12 de som søger ham.
 
-//11 Må jeres hengivenhed{N: Hjerte} leve for evigt!
+//11 Må jeres hengivenhed{N: Hjerte} vare for evigt!
 
 //10 v28 Alle jordens ender skal huske på 
 //14 og omvende sig til HERREN,
@@ -177,12 +176,12 @@ den hjælpeløses elendighed,
 //14 og han regerer over folkeslagene.
 
 //12 v30 Alle jordens mægtige spiste 
-//13 og tilbad foran ham{N: Ansigt},
+//13 og tilbad foran ham.{N: Ansigt}
 
-//11 de vil falde på knæ, alle 
-//13 der stiger ned i støvet, skal falde på knæ for ham{N: Ansigt},
+//11 De vil falde på knæ, alle 
+//13 der stiger ned i støvet,
 
-//14 og ikke har holdt sin sjæl i live.{E: Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: >>Men min sjæl lever for ham<<. I mange nyere oversættelser er denne sætning også overført til vers 31.}
+//14 og sig selv{N: Sjæl} holdt han ikke i live.{E: Med støtte i enkelte håndskrifter og gamle oversættelser rettes ofte denne linjes hebraiske tekst *wᵊnafšô lōˀ ḥiyyāʰ* til *wᵊnafš î lō ḥiyyāʰ*: >>Men min sjæl lever for ham<<.}
 
 //12 v31 Efterkommerne skal tjene ham,
 
@@ -195,5 +194,6 @@ for et folk
 //16 der fødes.
 
 //15 For han har handlet.
+
 
 
