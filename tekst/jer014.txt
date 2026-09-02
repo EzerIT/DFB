@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' bog, kapitel 14===
 
@@ -9,19 +8,19 @@
 ==HERREN taler til Jeremias om den forfærdelige tørke==
 
 
-//0 v1 HERRENS ord som kom{H: Jer 46,1; 47,1; 49,34.} til Jeremias angående tørken:{E: Ordret: >>mangel<<, pluralis.}{H: Jer 17,8.}
+//0 v1 HERRENS ord som kom til Jeremias angående tørken:{T: Ordet findes kun her og i Jer 17,8.}{H: Jer 3,3.}
 
 //3 v2 >>Juda sørger,
 
-//5 hendes porte{T: Byer.} vansmægter,
+//5 hendes porte vansmægter,
 
-//6 sørgeklædte{T: Ordret: >>være mørk<<.}er de sunket{T: >>Er sunket<< er tilføjet.} til jorden,
+//6 sørgeklædte er de sunket til jorden,
 
 //4 Jerusalems sørgeskrig stiger op.
 
 //5 v3 Deres ledere sender deres unge efter vand, 
 
-//7 de kommer til kanalerne,
+//7 de kommer til cisternerne,
 
 //8 de finder ikke vand,
 
@@ -29,19 +28,19 @@
 //8 med deres krukker.
 
 //7 De skammer sig
-//10 og er blevet gjort til skamme,
+//10 og gøres til skamme
 
-//10 og de dækker deres hoved til.
+//10 og dækker deres hoved til.
 
-//9 v4 På grund af jorden - den har slået revner
+//9 v4 På grund af jorden der har slået revner,
 
-//10 da der ingen regn er i landet -
+//10 fordi der ingen regn er i landet,
 
 //8 skammer bønderne sig,
 //9 de dækker deres hoved til.
 
 //6 v5 For også hinden på marken føder
-//8 og forlader kiddet,{T: >>Kiddet<< er tilføjet.}
+//8 og forlader kiddet,
 
 //9 for der er intet græs.
 
@@ -57,10 +56,10 @@
 ==Jeremias beder HERREN om at forbarme sig==
 
 
-//2 v7 Selvom vores overtrædelser vidner imod os,
+//2 v7 Selvom vores ugerninger vidner imod os,
 
 //7 HERRE, 
-//6 må du handle for dit navns skyld,
+//6 må du handle for dit navns skyld,{H: Jer 14,21. Sl 23,3; 25,11.}
 
 //7 for vores frafald er mange,
 
@@ -68,15 +67,15 @@
 
 //6 v8 Du Israels håb,
 
-//7 dets frelser i lidelsens tid,
+//7 dets frelser i nødens tid,
 
-//4 hvorfor vil du være som en fremmed{T: Eller: >>gæst<<.} i landet,
+//4 hvorfor vil du være som en fremmed i landet,
 
 //5 som en rejsende
 //6 der er drejet af
 //7 for at overnatte?
 
-//4 v9 Hvorfor vil du være som en hjælpeløs mand,
+//4 v9 Hvorfor er du som en mand, der er rædselsslagen,{T: Eller >>forvirret<<, >>hjælpeløs<<. Ordet findes kun her, og oversættelsen er usikker.}
 
 //5 som en kriger
 //6 der ikke er i stand til
@@ -85,9 +84,9 @@
 //3 Men du er i vores midte,
 //6 HERRE,
 
-//5 dit navn er nævnt{T: Eller >>udråbt<<. Det er et udtryk for ejerskab.} over os,
+//5 dit navn er udråbt{T: Et udtryk for ejerskab.} over os,{H: 5 Mos 28,10.}
 
-//4 forlad os ikke!
+//4 efterlad os ikke!{T: Ordret: >>Læg os ikke ned<< (som en byrde).}
 
 
 ==HERREN svarer Jeremias==
@@ -95,69 +94,66 @@
 
 //2 v10 Sådan siger HERREN til dette folk:
 
-//3 >>Sådan elskede de
+//3 >>Sådan elsker de
 //6 at strejfe omkring,
 
-//5 deres fødder holdt de ikke tilbage.
+//5 deres fødder holder de ikke tilbage.
 
-//4 Men HERREN havde ikke behag i dem;
+//4 Men HERREN har ikke behag i dem;
 
-//5 nu vil han huske deres overtrædelser
+//5 nu husker han deres skyld
 
-//6 og hjemsøge deres synder.<<
+//6 og hjemsøger deres synder.<<
 
 
 ==Jeremias må ikke bede for folket==
 
 
 //1 v11 Og HERREN sagde til mig:
-//3 >>Bed{T: Eller >>gå i forbøn for<<.} ikke om lykke for dette folk! 
+//3 >>Bed ikke om lykke for dette folk! 
 //5 v12 Når de faster,
-//7 hører jeg ikke deres råb,
-//6 og hvis de bringer brændoffer og afgrødeoffer,{E: *minḥāʰ* kan betyde >>gave<<, >>offergave (korn eller dyr)<< eller >>tribut<<. Her oversat med >>afgrødeoffer/kornoffer<<.}{H: Sl 72,10.}
-//7 tager jeg ikke imod dem,{T: Eller >>har jeg ikke behag i dem<<.}
+//7 lytter jeg ikke til deres råb,
+//6 og hvis de bringer brændoffer og afgrødeoffer,
+//7 har jeg ikke behag i dem,
 //4 for ved sværdet og ved hungersnøden og ved pesten gør jeg ende på dem.<<
 
-
 //2 v13 Jeg sagde:
-//3 >>Ak, min Herre HERRE!
+//3 >>Ak, Herre HERRE!
 //4 Se, profeterne siger til dem:
 //5 >I skal ikke se sværd,
-//7 og hungersnød vil ikke komme til jer,
+//7 og hungersnød skal ikke komme til jer,
 //6 for sand fred vil jeg give jer på dette sted!<<<
-
 
 //1 v14 Og HERREN sagde til mig:
 //2 >>Løgn profeterer profeterne i mit navn,
 //6 jeg har ikke sendt dem,
 //7 jeg har ikke befalet dem,
 //8 og jeg har ikke talt til dem.
-//5 Løgnesyn og spådom og tomhed og deres hjertes bedrag profeterer de for jer. 
-
+//5 Løgnesyn{H: Jer 23,16.} og spådom, tomhed og deres hjertes bedrag spår de for jer som profeti. 
 
 //4 v15 Derfor, sådan siger HERREN angående profeterne
 //6 der profeterer i mit navn, 
-//8 - og jeg har ikke sendt dem -
-//7 de siger:
+//8 - og jeg har bestemt ikke sendt dem -
+//7 men de siger:
 //8 >Sværd og hungersnød skal der ikke være i dette land!<
-//5 Ved sværdet og hungersnøden skal disse profeter tilintetgøres. 
+//5 Ved sværdet og hungersnøden skal disse profeter omkomme. 
 //7 v16 Og folket 
-//10 om hvem de profeterer, 
+//10 som de profeterer for, 
 //9 skal kastes ud i Jerusalems gader på grund af hungersnøden og sværdet,
-//8 og der er ingen til at begrave dem – dem, deres hustruer og deres sønner og døtre,
-//6 for jeg vil hælde deres ondskab ud over dem.
+//8 og der er ingen til at begrave dem, dem, deres hustruer og deres sønner og døtre,
+//6 for jeg hælder deres ondskab ud over dem.
 //3 v17 Og du skal tale dette ord til dem:
 
 //4 Lad mine øjne løbe over med tårer 
 
-nat og dag,{H: Jer 13,17; 9,9; 8,23.} 
+nat og dag,{H: Jer 8,23.} 
 //7 og lad dem ikke holde op,
 
-//6 for ved et mægtigt sammenbrud{H: Jer 10,19; 8,21; 6,14.} 
+//6 for ved et mægtigt sammenbrud{H: Jer 8,21.} 
 
 ligger jomfruen, mit folks datter, knust
 
-//7 med et frygtelig smertefuldt sår.{H: Jer 10,17; 30,12.}
+//7 med et frygtelig smertefuldt sår.{H: Jer 30,12.}
 
 //5 v18 Hvis jeg går ud på marken,
 
@@ -177,9 +173,9 @@ vandrer afsted til et land
 ==Jeremias gør sig til et med folket og klager sammen med dem==
 
 
-//0 v19 Har du fuldstændig forkastet Juda, 
+//0 v19 Har du fuldstændig forkastet Juda? 
 
-//3 eller er det Zion din sjæl afskyr?
+//3 Er det Zion din sjæl afskyr?
 
 //2 Hvorfor har du slået os,
 
@@ -188,30 +184,32 @@ vandrer afsted til et land
 //4 Vi håbede på fred,
 //6 men intet godt kom,
 
-//5 på en tid med helbredelse,
+//5 og på en tid med helbredelse,
 //6 men se: Rædsel!{H: Jer 8,15.}
 
 //3 v20 Vi kender,
 //7 HERRE, 
 //6 vores ugudelighed, 
 
-vores fædres skyld.
+vores fædres skyld;
 
-//5 Sandelig, vi har syndet mod dig!
+//5 for vi har syndet mod dig!
 
-//4 v21 Afvis os ikke for dit navns skyld,
+//4 v21 Vrag os ikke for dit navns skyld!
 
-//4 foragt ikke din herligheds trone!{T: Enten Jerusalem eller templet.}{H: Jer 17,12; Ez 43,6-7; Es 8,18; 18,7; 66,1.} 
+//4 Ringeagt ikke din herligheds trone!{T: Enten Jerusalem eller templet.}{H: Jer 17,12.}
 
 //5 Husk,{T: >>Os<< eller >>din pagt<< er underforstået.} 
 //6 bryd ikke din pagt med os!
 
-//1 v22 Findes der blandt folkeslagenes tomheder{T: Afguder.} dem der kan give regn,
-//3 eller kan himlene af sig selv{T: >>af sig selv<< er tilføjet.} give regnbyger?
+//1 v22 Findes der blandt folkeslagenes tomheder,{T: Afguder.} dem der kan give regn,
+
+//3 og mon himlene kan give regnskyl?{T: >>Af sig selv<< er underforstået.}
 
 //2 Er du ikke den som er
 //4 HERREN vores Gud?
 
-//3 Og vi venter{T: Eller >>håber<<.} på dig
+//3 Ja, vi håber på dig
 
-//4 for det er dig der har gjort alt dette.
+//4 for du har selv gjort alt dette.
+

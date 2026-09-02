@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' bog, kapitel 6===
 
@@ -35,7 +35,7 @@ med deres hjord,
 //5 afgræsser
 //6 hver sit område.
 
-//2 v4 Forbered en hellig krig imod hende,
+//2 v4 Forbered en hellig krig{T: Eller >>erklær hellig krig<<.}{H: Jer 51,27.} imod hende,
 
 //2 rejs jer,
 //4 lad os gå op ved middagstid!
@@ -121,17 +121,17 @@ er blevet til vanære for dem,
 
 //2 >>Udøs den over barnet ude på gaden
 
-og samtidig over gruppen af de udvalgte unge mænd,
+og samtidig over gruppen af de unge mænd,
 
-//4 for selv mand sammen med hustru vil blive fanget,
+//4 for selv mand sammen med hustru skal fanges,
 
 //6 gamle sammen med ældgamle.
 
-//5 v12{T: Jer 6,12-15 er næsten ens med Jer 8,10-12.} Deres huse vil blive overgivet til andre,
+//5 v12 Deres huse{T: Jer 6,12-15 er næsten identisk med Jer 8,10-12.} vil blive overgivet til andre,
 
 //6 marker og kvinder samtidig,
 
-//3 for jeg vil strække min hånd 
+//3 for jeg strækker min hånd 
 
 ud over landets indbyggere
 
@@ -154,12 +154,12 @@ som en let sag
 
 //8 men der er ingen fred.
 
-//4 v15 De vil blive gjort til skamme,{H: Jer 2,26.}
+//4 v15 De skal blive gjort til skamme{H: Jer 2,26.}
 //7 for en vederstyggelighed{H: Jer 2,7.} har de gjort.
 
 //6 Desuden skammer de sig overhovedet ikke.
 
-//8 Selv det at vise skam{T: Eller: >>at rødme<<.} 
+//8 Selv det at vise skam{T: Eller: >>at rødme<<.}
 //7 kender de ikke til.
 
 //5 Derfor skal de falde blandt dem som falder,
@@ -245,7 +245,7 @@ nabo og hans ven
 
 //3 Se, et folk kommer fra nordens land,
 
-//6 og en stor nation vækkes{T: Verbet kan også betyde >>bryder op<<.} fra jordens fjerneste egne.{H: Jer 5,15.}
+//6 ja, en stor nation vækkes{T: Verbet kan også betyde >>bryder op<<.} fra jordens fjerneste egne.{H: Jer 5,15.}
 
 //5 v23 Bue og krumsværd griber de,
 
@@ -280,17 +280,17 @@ mod dig,
 
 //7 rul dig i støvet,
 
-//6 i sorg over den eneste søn,{T: >>Søn<< er tilføjet.}
+//6 i sorg over den eneste søn,{T: >>Søn<< er underforstået.}
 
 hold du selv den bitreste klage!
 
 //5 For pludselig kommer ødelæggeren over os!
 
 
-== Mit folk kaldes vraget sølv==
+== Mit folk kaldes forkastet sølv==
 
 
-//1 v27 >>Som metalprøver har jeg sat dig i mit folk, som en fæstning,{T: Eller >>en der prøver guld<<.}{E: Vokaliseringen af *mivṣār* ændres af de fleste til *mᵊvaṣer* (>>en der prøver guld<<). Men da samme hebraiske ord findes i Jer 1,18, oversat med >>fæstning<< er begge oversættelser mulige.} 
+//1 v27 >>Som metalprøver har jeg sat dig{T: Eller >>sætter jeg dig<<.} i mit folk, som en fæstning,{T: Eller >>en der prøver guld<<.}{E: Vokaliseringen af *mivṣār* ændres af de fleste til *mᵊvaṣer* (>>en der prøver guld<<). Men da samme hebraiske ord findes i Jer 1,18, oversat med >>fæstning<<, er begge oversættelser mulige.} 
 
 //3 for at du kan kende
 //4 og prøve deres vej.{H: Jer 5,1.}
@@ -306,12 +306,12 @@ hold du selv den bitreste klage!
 
 //4 v29 Blæsebælgen blæste,
 
-af ilden er blyet fortæret.{T: Eller >>uberørt<<.}{E: De fleste opløser det sammensatte ikke vokaliserede ord til *meʔēš tām* >>fra ild fuldkommen<<. Meningen af >>fuldkommen<< er uklar idet det kan betyde at blyet er uberørt, at blyet er fortæret eller at der ikke var nok bly. Oversættelsen er usikker.}
+af ilden er blyet fortæret.{T: Eller >>uberørt<<.}{E: De fleste opløser det sammensatte ikke vokaliserede ord til *meʔēš tām* >>fra ild fuldkommen<<. Meningen af >>fuldkommen<< er uklar idet det kan betyde at blyet er uberørt, at blyet er fortæret, eller at der ikke var nok bly.}
 
 //5 Forgæves har man smeltet og smeltet, 
 
 //6 og de onde er ikke blevet skilt fra.{H: Ez 22,18-22;}
 
-//3 v30 Forkastet{T: Eller >>vraget<<.} sølv, kalder man dem, 
+//3 v30 Forkastet sølv, kalder man dem, 
 
 //4 for HERREN har forkastet dem.<<

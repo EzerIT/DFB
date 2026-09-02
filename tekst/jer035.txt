@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias’ bog, kapitel 35===
 
@@ -10,16 +9,16 @@
 
 
 //0 v1 Det ord 
-//3 som kom til Jeremias fra HERREN i de dage Jojakim, Josijas søn, var konge i Juda{T: 609-598 f.Kr.}
+//3 som kom til Jeremias fra HERREN i Judas konge, Jojakims, Josijas søns dage
 //2 :
-//3 v2 >>Gå{E: Eller >>du skal gå<<. Verbet er en infinitiv absolut, der forstærker imperativen ligesom i forbindelse med sabbatsbuddet i 2 Mos 20,8.} til rekabitterne{T: Ordret: >>rekabitternes hus<<.}{H: 2 Kong 10,15-27; 1 Krøn 2,55; Dom 1,16; 1 Sam 15,6; Dom 4,17-22; 5,24-27.}
-//4 og tal{E: Eller >>du skal tale<<. Perfektum er her oversat med imperativ. Her og de øvrige perfektum i verset kan i stedet for imperativ oversættes med >>du skal<<.} til dem,
+//3 v2 >>Gå til rekabitterne{T: Ordret: >>rekabitternes hus<<.}{H: 2 Kong 10,15.}
+//4 og tal med dem,
 //5 og bring dem til HERRENS hus til et af kamrene,
 //6 og giv dem vin at drikke!<<
-//1 v3 Så tog jeg Ja’azanja, Jeremias’ søn, søn af Havassinja, og hans brødre og alle hans sønner, ja alle rekabitterne,{T: Ordret: >>hele rekabitternes hus<<.}
-//1 v4 og bragte dem til HERRENS hus, til det kammer som tilhørte sønnerne af Hanan, Jigdaljas søn, gudsmanden
+//1 v3 Så tog jeg Ja’azanja, Jeremias’ søn, søn af Havassinja, og hans brødre og alle hans sønner, ja hele rakabitternes hus,
+//1 v4 og jeg bragte dem til HERRENS hus, til det kammer som tilhørte sønnerne af gudsmanden Hanan, Jigdaljas søn,
 //2 - det lå ved siden af ledernes kammer,
-//3 som lå oven over dørvogteren Ma’asejas,{H: Jer 21,1: 29,25; 37,3.} Shallums søns, kammer.
+//3 som lå oven over dørvogteren Ma’asejas, Shallums søns, kammer.
 //1 v5 Og foran sønnerne af rekabitternes hus satte jeg krukker 
 //3 fyldt med vin
 //2 og krus,
@@ -43,66 +42,68 @@
 //8 v9 og ikke at bygge huse
 //9 som bolig til os. 
 //7 Og vi har hverken vingård eller mark eller sæd. 
-//5 v10 Så vi har boet i telte,
-//5 og vi har adlydt,
-//5 og vi har gjort alt 
+//5 v10 Så vi boede i teltene,
+//5 og vi adlød,
+//5 og vi gjorde alt 
 //7 hvad Jonadab, vores far, befalede os.
-//6 v11 Og da
+//6 v11 Men da
 //8 Nebukadnesar, Babylons konge, drog op mod landet,
 //7 sagde vi:
 //8 >Kom
 //9 og lad os tage til Jerusalem foran kaldæernes hær og foran Arams hær!<
-//7 Så bosatte vi os i Jerusalem.<<
+//7 Så vi bor i Jerusalem.<<
 
 
 ==Rekabitterne som forbillede==
 
 
 //2 v12 Da kom HERRENS ord til Jeremias
-//4 :
+//4:
 //5 v13 >>Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
 //6 Gå
 //7 og sig til Judas mænd og Jerusalems indbyggere:
 //9 Vil I ikke tage imod tugt 
-//11 ved at lytte til mine ord?
+//11 så at I lytter til mine ord?
 //12 – Det er HERRENS udsagn -
-//10 v14 De ord, som Jonadab, Rekabs søn, 
-//14 befalede sine sønner
-//13 om ikke at drikke vin, er blevet fulgt,
+//10 v14 De ord er blevet overholdt, som Jonadab, Rekabs søn, 
+//14 befalede sine sønner,
+//13 om ikke at drikke vin,
 //12 og de har ikke drukket indtil denne dag,
-//11 for de adlød{T: Ordret: >>hørte<<.} deres fars befaling;
+//11 for de har adlydt deres fars befaling;
 //12 og jeg, jeg har talt til jer - tidligt og ustandseligt talte jeg -
-//14 men I lyttede ikke til mig.{T: Eller >>I adlød mig ikke<<.}
-//13 v15 Og jeg har sendt jer alle mine tjenere, profeterne - tidligt og ustandseligt sendte jeg dem
-//15 :
+//14 men I lyttede ikke til mig.
+//13 v15 Og jeg sendte alle mine tjenere, profeterne til jer - tidligt og ustandseligt sendte jeg dem 
+//15 for at sige:
 //16 Vend dog om enhver fra sin onde vej, 
-//19 og gør jeres gerninger gode,{H: Jer 7,3; 18,11; 25,5; 23,22.}
+//19 og gør jeres gerninger gode,{H: Jer 7,3; 18,11.}
 //18 og gå ikke efter andre guder
 //19 for at tjene dem,
 //17 men bo på den jord 
 //18 som jeg har givet til jer og jeres fædre!
-//14 I bøjede ikke jeres øre,
+//14 Men I bøjede ikke jeres øre,
 //14 og I lyttede ikke til mig.
-//8 v16 Sandelig, Rekabs søn, Jonadabs sønner har fulgt deres fars befaling
+//8 v16 Ja, Rekabs søn, Jonadabs sønner har fulgt deres fars befaling
 //11 som han befalede dem,
 //10 men dette folk har ikke lyttet til mig.<<
 
+==Dom over Juda og Jerusalem==
 
-//9 v17 Derfor sådan siger HERREN, Hærskarers Gud, Israels Gud:
+//9 v17 Derfor, sådan siger HERREN, Hærskarers Gud, Israels Gud:
 //10 >>Se jeg bringer over Juda og alle Jerusalems indbyggere al den ulykke
-//12 som jeg har talt til dem om,
-//11 for jeg talte til dem,
-//13 men de lyttede ikke,
-//12 og jeg kaldte på dem,
-//13 men de svarede ikke.<<
+//12 som jeg har talt angående dem,
+//11 fordi jeg har talt til dem,
+//13 men de har ikke lyttet,
+//12 og jeg har kaldt på dem,
+//13 men de har ikke svaret.<<
 //3 v18 Og til rekabitterne sagde Jeremias:
 //4 >>Sådan siger Hærskarers HERRE, Israels Gud:
-//5 Fordi I adlød Jonadab, jeres fars befaling,
-//7 og I vogtede på alle hans befalinger,
-//7 og I handlede efter alt
+//5 Fordi I adlød Jonadabs, jeres fars befaling,
+//7 og holdt alle hans befalinger,
+//7 og handlede efter alt
 //8 hvad han befalede jer:
 
 //6 v19 Derfor, sådan siger Hærskarers HERRE, Israels Gud: 
-//7 Der skal aldrig af Rekabs søn Jonadab{T: Dvs. af Jonadabs slægt.} mangle{T: Ordret: >>skæres af<<.}{H: Jer 33,17-18.} en mand 
-//9 til at stå for mit ansigt
-//8 alle dagene.<<
+//7 Der skal aldrig for Jonadab,{T: Dvs. af Jonadabs slægt.} Rekabs søn, mangle{T: Ordret: >>skæres af<<.}{H: Jer 33,15.17.} en mand 
+//9 som står for mit ansigt
+//8 alle dage.<<
+

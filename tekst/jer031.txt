@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 08.05.2026>!!
-
+!!<Dato for denne version: 02.09.2026>!!
 ===Jeremias’ bog, kapitel 31===
 
 
@@ -30,7 +29,7 @@
 //6 v4 Igen vil jeg bygge dig op,
 //8 og du skal blive bygget op,
 
-//9 jomfru Israel!
+//9 du jomfru, Israel!{H: Jer 18,13.}
 
 //7 Igen skal du smykke dig med dine tamburiner, 
 
@@ -69,7 +68,7 @@ til HERREN, vores Gud!<
 
 //7 >Frels, 
 //9 HERRE,
-//8 dit folk,{T: Eller >>HERREN har frelst dit folk<<.}{E: LXX og Targum og flere andre oversætter verbet med perfektum, og nogle ændrer >>dit folk<< til >>sit (HERRENS) folk<<. Studier af dødehavsrullerne understøtter læsningen af *hôšaʕ* (>>frels<<) som defective af *hôšiaʕ* (perfektum), men fastholder >>dit folk<<.}
+//8 dit folk,{T: Eller >>HERREN har frelst dit folk<<.}{E: Masoreterne har vokaliseret verbet som en imperativ. Men LXX og Targum m.fl. oversætter verbet med perfektum, og ændrer >>dit folk<< til >>sit (HERRENS) folk<<. De fleste vælger denne oversættelse. Studier af dødehavsrullerne understøtter læsningen af *hôšaʕ* (>>frels<<) som defective af *hôšiaʕ* (perfektum), men fastholder >>dit folk<<.}
 
 Israels rest!<
 
@@ -121,20 +120,20 @@ ad en jævn vej,
 
 over korn, og over vin og over olie, 
 
-og over afkom af småkvæg og hornkvæg.
+og over unge får og okser.
 
 //10 Deres sjæl vil være som en vandrig have,{H: Es 58,11.}
 
 //11 de vil ikke blive ved med
 //12 at vansmægte længere.
 
-//7 v13 Da skal jomfruen glæde sig i runddans,
+//7 v13 Da skal jomfruen glæde sig i runddans
 
-//9 og unge mænd og gamle sammen,
+//9 og unge mænd og gamle sammen.
 
-//8 og jeg vender deres sorg til jubel,
+//8 Jeg vender deres sorg til jubel,
 
-//9 og jeg trøster dem
+//9 og trøster dem
 //9 og gør dem glade efter deres fortvivlelse.{H: Es 35,10. Åb 21,4.}
 
 //8 v14 Jeg mætter præsternes sjæl med fedt,{T: Det betyder mad i overflod og ikke >>fedt<<, som alene skulle brændes på altret til HERREN.}{H: 3 Mos 7,31.}
@@ -151,7 +150,7 @@ og over afkom af småkvæg og hornkvæg.
 
 //2 En røst høres i Rama,
 
-//4 en klage, den bittreste gråd,{T: Ordret: >>bitterhedernes gråd<<.}
+//4 en klage, den bitreste gråd,{T: Ordret: >>bitterhedernes gråd<<.}
 
 //3 Rakel
 //7 græder over sine børn,
@@ -245,7 +244,8 @@ som en utæmmet kalv.
 //5 du er gået ad!
 
 //4 Vend om,
-//5 jomfru Israel!
+//5 du jomfru,
+ Israel!
 
 //2 Vend tilbage til disse dine byer!
 
@@ -269,16 +269,16 @@ som en utæmmet kalv.
 //4 v24 Juda og alle dets byer skal sammen bo der,
 //5 bønderne 
 //6 og de der drager afsted med hjorden.
-//3 v25 For jeg giver{E: Eller >>jeg vil give<<. Perfektum opfattes her som profetisk perfektum og gælder resten af verset og udtrykker at det er helt sikkert.} den udmattede sjæl rigeligt at drikke,
+//3 v25 For jeg har givet{E: Eller >>jeg vil give<<. Perfektum opfattes her som profetisk perfektum og gælder resten af verset og udtrykker at det er helt sikkert. En del oversættelser vælger præsens.} den udmattede sjæl rigeligt at drikke,
 //4 og hver vansmægtende{E: *dāˀᵃvāʰ* I stedet for en perfektum kan ordet opfattes som en aramæisk participle med adjektiv funktion.} sjæl
 //6 
-//5 fylder jeg.<<
+//5 har jeg fyldt.<<
 //0 v26 Ved dette vågnede jeg
 //2 og så -
 //3 min søvn havde været mig behagelig.
 
 
-==HERREN besøger nu sit folk for at genrejse det==
+==HERREN vil genrejse sit folk==
 
 
 //1 v27 >>Se, dage kommer
@@ -297,7 +297,7 @@ som en utæmmet kalv.
 //9 – det er HERRENS udsagn.
 //2 v29 I de dage skal man ikke mere sige:
 
-//4 >Fædre har spist sure druer,{T: Singularis kollektivt.}
+//4 >Fædre har spist sure druer,
 
 //5 og sønnernes tænder bliver stumpe!<{T: Dvs. sløve, uskarpe.}
 
@@ -307,7 +307,7 @@ som en utæmmet kalv.
 //5 hans tænder bliver stumpe!
 
 
-==HERREN slutter en ny pagt med Israel og Juda==
+==HERREN vil slutte en ny pagt med Israel og Juda==
 
 
 //1 v31 Se, dage kommer
@@ -369,7 +369,7 @@ som en utæmmet kalv.
 
 //5 og jordens grundvolde forneden kan udforskes,
 
-//4 så vil jeg forkaste hele Israels afkom{T: Ordret: >>sæd<<.}
+//4 så vil jeg forkaste hele Israels afkom
 
 for alt det
 //5 som de har gjort

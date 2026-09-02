@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' bog, kapitel 5===
 
@@ -17,14 +17,14 @@
 
 //5 om I kan finde nogen,
 
-//7 om der er en
+//7 om der er én
 //8 der handler ret, 
 
-//8 der søger efter sandhed,{T: Eller >>troskab<< (mod pagten).}
+//8 der søger efter sandhed,
 
 //6 så vil jeg tilgive hende!
 
-//3 v2 Selvom de siger: 
+//3 v2 Selv om de siger: 
 //6 >Så sandt HERREN lever!<
 //5
 
@@ -50,15 +50,15 @@
 //3 v4 Men jeg, jeg sagde: 
 //5 Kun ringe er de,
 
-//7 de handler tåbeligt,{H: Jer 50,36.}
+//7 de handler tåbeligt,
 
 //8 for de kender ikke 
 HERRENS vej,
 
-//9 deres Guds ret.{T: Eller >>bestemmelser<<, kan også oversættes >>bud<< eller >>dom<<.}{H: Jer 8,7; Es 58,2; Sl 119,43.160.}
+//9 deres Guds ret.{T: Eller >>bestemmelser<<, kan også oversættes >>bud<< eller >>dom<<.}{H: Jer 8,7; Es 58,2.}
 
 //6 v5 Jeg vil selv gå 
-til de store
+til de store,
 
 //8 og jeg vil tale med dem,
 
@@ -67,19 +67,20 @@ de kender HERRENS vej,
 
 //8 deres Guds ret.
 
-//4 Men de{T: Det er uklart om det er Jeremias eller HERREN der taler her. Men det kan opfattes som HERRENS svar til Jeremias i vers 3. Denne glidende overgang mellem Jeremias og HERRENS tale optræder mange gange i Jeremias’ bog.} havde alle sammen brudt åget
+//4 Men de{T: Det er uklart om det er Jeremias eller HERREN der taler her. Men det kan opfattes som HERRENS svar til Jeremias i vers 3. Denne glidende overgang mellem Jeremias og HERRENS tale optræder mange gange i Jeremias’ bog.} 
+havde alle sammen brudt åget
 
 //7 og sønderrevet lænkerne.
 
-//6 v6 Derfor vil en løve fra skoven slå dem,{H: Jer 4,7.}
+//6 v6 Derfor vil en løve fra skoven slå dem,
 
 //7 en ulv fra stepperne ødelægge dem,
 
-//8 en leopard vil lure på deres byer
+//8 en leopard vil lure{H: Jer 1,11-12.} på deres byer,
 
 //9 enhver
 //11 der går ud af dem,
-//10 vil blive revet i stykker,
+//10 vil blive revet i stykker;
 
 //5 for deres overtrædelser er talrige,
 
@@ -95,7 +96,7 @@ de kender HERRENS vej,
 
 //6 Selvom jeg mættede dem,{E: *śvʕ* (hifil) betyder >>sørge for/mætte<<, men flere opfatter verbet som en hifil af *švʕ* og ændrer bogstavet *sin* i >>mætte<< til *shin* som i det hebraiske ord for >>sværge<<, der findes i forudgående verslinje, og oversætter >>selvom jeg lod dem sværge<< med henvisning til 2 Kong 23,1-3. Det er nærliggende at opfatte de to forskellige verber som et af Jeremias’ mange ordspil.}
 
-//7 begik de ægteskabsbrud
+//7 begik de ægteskabsbrud,
 
 //8 og i skøgens hus snittede de sig.
 
@@ -118,9 +119,9 @@ de kender HERRENS vej,
 
 
 //0 v10 Gå op gennem hendes rækker af vin{E: *šārāʰ* findes kun her, >>vingårds terrasse<<, >>række af vin<<. LXX oversætter >>gå op på hendes fæstninger og bryd dem ned<<.}
-//2 og ødelæg dem,{H: Hos 2,14.}
+//2 og ødelæg dem,
 
-//3 men gør ikke en fuldstændig ende på dem!{H: Jer 4,27.}
+//3 men gør ikke en fuldstændig ende på dem!{H: Hos 2,14. Jer 4,27.}
 
 //1 Fjern hendes ranker,{H: Jer 2,21. Es 5,3-6.}
 
@@ -144,7 +145,7 @@ Israels hus og Judas hus
 //10 v13 Profeterne skal blive til vind,
 
 //11 og 
-//13 Ordet{E: *haddibbēr* opfattes som et substantiv selvom formen er en perfektum, med betydningen >>det som han talte<< (fra HERREN). LXX har >>HERRENS ord<<.}
+//13 ordet{E: *haddibbēr* opfattes som et substantiv, selvom formen er en perfektum, med betydningen >>det som han talte<< (fra HERREN). LXX har >>HERRENS ord<<.}
 //12 er ikke i dem!
 
 //7 Sådan skal det gå dem selv!{E: Denne linje mangler i LXX. Nogle mener linjen passer bedst ind efter vers 14 første linje og flytter den derhen.}
@@ -184,17 +185,17 @@ bringer jeg mod jer,
 
 //14 de er alle krigere!
 
-//9 v17 De vil fortære din høst og dit brød,
+//9 v17 Det fortærer din høst og dit brød.
 
-//10 de vil fortære dine sønner og dine døtre,
+//10 De skal fortære dine sønner og dine døtre,
 
-//11 de vil fortære dine får og geder og dit kvæg,
+//11 det skal fortære dine får og geder og dit hornkvæg,
 
-//11 de vil fortære dit vintræ og dit figentræ,
+//11 det skal fortære dit vintræ og dit figentræ,
 
-//11 de vil smadre dine befæstede byer, 
+//11 det skal smadre dine befæstede byer, 
 
-//13 dem som du satte din lid tid, 
+//13 dem som du sætter din lid til, 
 //12 med sværd.
 
 
@@ -203,11 +204,11 @@ bringer jeg mod jer,
 
 //2 v18 Men også i de dage
 //5 - det er HERRENS udsagn -
-//4 vil jeg ikke gøre en fuldstændig ende på jer. 
-//3 v19
-//4 Når I da siger:
+//4 gør jeg ikke en fuldstændig ende på jer. 
+//3 v19 Da,
+//4 når I siger:
 //6 >Hvorfor har HERREN vores Gud gjort alt dette mod os?<{H: Jer 13,22; 9,11-13.}
-//5 så skal du{T: Jeremias.} sige til dem:
+//5 så skal du sige til dem:
 //6 >Ligesom I forlod mig
 //8 og tjente fremmede guder i jeres eget land,
 //7 sådan skal I tjene fremmede i et land
@@ -219,7 +220,7 @@ bringer jeg mod jer,
 
 //0 v20 Fortæl dette i Jakobs hus
 
-//2 og kundgør det i Juda 
+//2 og forkynd det i Juda 
 //3 og sig:
 
 //4 v21 Hør dette,
@@ -276,7 +277,7 @@ sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 
 //6 v26 For i mit folk er der fundet ugudelige, 
 
-//8 som ligger på lur
+//8 som ligger på lur,
 //11 ligesom fuglefængere dukker sig;
 
 //10 de sætter fælder op,
@@ -286,7 +287,7 @@ sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 //9 v27 Ligesom en kurv 
 //11 fuld af fugle,
 
-//10 sådan er deres huse fulde af bedrag,
+//10 sådan er deres huse fulde af bedrag;
 
 //7 derfor er de blevet mægtige 
 //9 og har vundet rigdom.
@@ -294,7 +295,7 @@ sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 //8 v28 De er fede,
 //8 de er glatte,{T: Eller >>glinser<<, findes kun her, så oversættelsen er usikker.}
 
-//9 de overskrider også grænsen for onde ord.{T: Eller >>handlinger<<. Alternativ oversættelse: >>de strømmer over med det der er ondt<<. Der er et fint ordspil med verbet *ʕāvᵊrû* (*ʕvr*) >>overskride<< her og samme verbum der forekommer to gange i vers 22.}
+//9 de overskrider også grænsen for onde ord.{E: Eller >>handlinger<<. Alternativ oversættelse: >>de strømmer over med det der er ondt<<. Der er et fint ordspil med verbet *ʕāvᵊrû* (*ʕvr*) >>overskride<< her og samme verbum der forekommer to gange om havet og bølgerne i vers 22.}
  
 //10 De fælder ikke redelig dom i en sag, 
 
@@ -307,7 +308,7 @@ sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 
 //4  Det er HERRENS udsagn.
 
-//3 På et folk 
+//3 Over et folk 
 //5 som dette
 
 //4 skulle min sjæl{N: Sjæl.} ikke tage hævn?<<
@@ -316,7 +317,7 @@ sørger han for til os!{H: 3 Mos 26,3-4. 5 Mos 28,12.}
 ==Jeremias sukker over sit folk==
 
 
-//2 v30 Noget rædselsfuldt og afskyeligt{H: Jer 23,14. Hos 6,10.}
+//2 v30 Noget rædselsfuldt og gruopvækkende{H: Jer 23,14.}
 
 forekommer i landet:
 

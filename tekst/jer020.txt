@@ -1,25 +1,24 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias’ bog, kapitel 20===
 
 ==Pashkur straffer Jeremias for hans budskab==
 
-//0 v1 Da præsten, Pashkur, Immers søn 
+//0 v1 Da præsten Pashkur, Immers søn 
 //2 – han var overopsynsmand i HERRENS hus -
 //1 hørte Jeremias
 //2 profetere disse ord,
 //0 v2 slog Pashkur profeten Jeremias 
-//2 og satte ham i blokken{H: Jer 29,26; Sl 105,18.}
+//2 og satte ham i blokken
 //3 som var i den øvre Benjamin-port 
 //4 i HERRENS hus.
 //1 v3 Og den næste dag,
 //2 da Pashkur lod Jeremias komme ud af blokken,
 //3 sagde Jeremias til ham:
-//4 >>HERREN kalder dig ikke Pashkur,
-//6 men dit navn er Rædsel-overalt!{T: Magor-Missabib. Ordret: >>rædsel alle vegne fra<<.}{H: Jer 6,25; 20,10; 46,5; 49,29.}
+//4 >>HERREN kalder dig ikke >Pashkur<,
+//6 men >Rædsel fra alle sider<!{T: På hebraisk: Magor-Misaviv.}{H: Jer 6,25.}
 
 ==Pashkurs handlinger får konsekvenser==
 
@@ -27,20 +26,20 @@
 //6 >Se, jeg gør dig til rædsel for dig selv og for alle dem der elsker dig,
 //7 og de skal falde for deres fjenders sværd,
 //9 mens du ser det med egne øjne,
-//8 og hele Juda vil jeg give i Babylons konges hånd,
-//10 og han skal føre dem i eksil til Babylon
+//8 og hele Juda giver jeg i Babylons konges hånd,
+//10 og han skal bortføre dem til Babylon
 //10 og slå dem med sværd.
-//9 v5 Jeg vil give hele denne bys rigdom, al dens slid og alle dens værdifulde ting
-//10 og alle Judas kongers skatkamre vil jeg give i deres fjenders hånd,
-//12 og de skal plyndre dem
+//9 v5 Jeg giver hele denne bys rigdom, al dens slid og alle dens værdifulde ting
+//10 og alle Judas kongers skatkamre giver jeg i deres fjenders hånd,
+//12 og de skal røve dem
 //12 og tage dem
 //12 og bringe dem til Babylon.
 //11 v6 Og du,
 //14 Pashkur,
 //13 og alle der bor i dit hus, I skal gå i fangenskab,
 //12 og du skal komme til Babylon,
-//13 og der skal du dø.{H: 5 Mos 17,12; ApG. 23,1-5.}
-//14 Der skal du begraves og alle dine venner{T: Ordret: >>dine elskede<<.} 
+//13 og der skal du dø.
+//14 Der skal du begraves og alle dine venner 
 //15 som du har profeteret løgn for.<<<
 
 ==Jeremias’ klage over profettjenesten==
@@ -54,45 +53,45 @@
 
 //2 Jeg er til latter hele dagen,
 
-//5 alle gør nar af mig.
+//5 alle spotter mig.
 
 //4 v8 For
 //8 så ofte som jeg taler,
-//7 må jeg skrige,
+//7 må jeg skrige.
 
-//6 vold og ødelæggelse råber jeg,
+//6 Jeg må råbe vold og ødelæggelse,{H: Jer 6,7.}
 
 //7 for HERRENS ord er blevet mig 
 
-til vanære{T: Dvs. >>skændsel<< eller >>spot<<.} og til spot hele dagen.
+til vanære og til foragt{E: *qeles* (>>hån<<, >>foragt<<) findes kun her og to gange i Salmerne.} hele dagen.
 
-//5 v9 Og jeg sagde:{T: Eller >>tænkte<<.}
-//7 >>Jeg vil ikke længere{T: >>længere<< er tilføjet.} huske ham,
+//5 v9 Jeg sagde:
+//7 >>Jeg vil ikke huske ham,
 
 //8 og jeg vil ikke tale mere i hans navn!<<
 
-//6 Da blev det i mit hjerte som en brændende ild, 
+//6 Men det blev i mit hjerte som en brændende ild, 
 
-//8 lukket inde i mine ben.
+//8 lukket inde i mine knogler.
 
-//7 Jeg er træt af{T: Eller >>jeg har kæmpet for<<.}
-//9 at holde det tilbage,{H: Jer 6,11.}
+//7 Jeg er udmattet af
+//9 at holde den tilbage,{H: Jer 6,11.}
 
 //8 jeg kan ikke mere.
 
 //3 v10 For jeg hører manges bagtalelse:{H: Sl 31,14.}
 
-//6 >>Rædsel overalt!
+//6 Rædsel fra alle sider!
 
-//5 Angiv{T: Ordret: >>informer<<, >>rapportér<<. Oversættelsen her er i lyset af Jer 26,11, hvor han angives af præsterne og profeterne.} ham,
+//5 >>Angiv{T: Ordret: >>informer<<, >>rapportér<<. Oversættelsen her er i lyset af Jer 26,11, hvor han angives af præsterne og profeterne.} ham,
 //6 lad os angive ham!<<
 
-//4 Alle mine venner{T: Ordret: >>mine freds mænd<< (kollektivt).}{H: Jer 38,22.} 
+//4 Alle mine gode venner{T: Ordret: >>min freds mand<< (kollektivt).} 
 
 vogter på om jeg vakler.
 
 //6 >>Måske lader han sig overtale,
-//7 så vi overvinder ham,
+//7 så vi kan overvinde ham,
 
 //8 og vi kan tage vores hævn over ham.<< 
 
@@ -100,27 +99,27 @@ vogter på om jeg vakler.
 ==Jeremias bryder pludselig ud i tro og lovsang==
 
 
-//5 v11 HERREN er med mig som en vældig kriger,{H: Jer 14,9; 1,8.19; 15,20.}
+//5 v11 Men HERREN er med mig{H: Jer 1,8.19; 15,20.} som en vældig kriger,
 
 //6 derfor vil mine forfølgere snuble
-//8 og ikke overvinde mig.{T: >>mig<< er tilføjet.}
+//8 og ikke overvinde mig.
 
 //7 De er blevet fuldstændig til skamme,
-//8 for de har ikke haft lykken med sig;{T: >>De handlede ikke forstandigt<< ligger også i verbet.}
+//8 for de har ikke handlet klogt,
 
-//9 en evig skam der ikke vil blive glemt.
+//9 en evig vanære{H: Jer 3,25.} der ikke vil blive glemt.
 
 //1 v12 Hærskarers{N: Hærskarers.} HERRE, han er den som prøver den retfærdige,
 
-//3 den som ser nyrer og hjerte.{T: Dvs. det indre menneske. >>Nyrer<< er sædet for følelser og >>hjerte<< for viljen eller tanken.}{H: Jer 11,20.}
+//3 den som ser nyrer og hjerte.{H: Jer 11,20.}
 
 //2 Lad mig se din hævn over dem!
 
-//4 For dig har jeg betroet min sag.{H: Jer 11,20.}
+//4 For dig har jeg betroet min sag.
 
 ***
 
-//3 v13 Syng for HERREN,{H: Sl 6,9-10.}
+//3 v13 Syng for HERREN,
 
 //3 pris HERREN,
 
@@ -133,7 +132,7 @@ vogter på om jeg vakler.
 
 
 //1 v14 Forbandet være den dag
-//5 som jeg blev født på!{H: Job 3,3-10.}
+//5 som jeg blev født på!{H: Job 3,1-10; 10,20.}
  
 //4 Den dag 
 //6 min mor fødte mig,
@@ -144,20 +143,20 @@ vogter på om jeg vakler.
 //7 som bragte min far nyheden
 
 //8 :
-//9 >>Der er født dig en søn!<<{T: Ordret: >>en søn af hankøn<<. Vi finder udtrykket >>hankøn<< da Gud skabte mennesket.}{H: 1 Mos 1,27.}
+//9 >>Der er født dig en søn!<<{T: Ordret: >>en søn af hankøn<<. Vi finder udtrykket >>hankøn<< for mand, da Gud skabte mennesket i 1 Mos 1,27.}
 
 //6 og gjorde ham meget glad.
 
-//5 v16 Lad den mand være 
+//5 v16 Lad den mand være{T: Udtrykkene >>Lad den mand være<< og >>lad ham høre<< i det følgende, har styrken af en forbandelsesed.} 
 
 ligesom byerne, 
-//7 som HERREN ødelagde{H: 1 Mos 19,24-25; Klag 4,6.}
+//7 som HERREN omstyrtede{H: 1 Mos 19,24-25. Klag 4,6.}
 
-//8 og ikke fortrød!{H: Jer 15,6; 4,28.}
+//8 og ikke fortrød!
 
-//6 Lad ham høre{T: Eller: >>han skal høre<<.} et skrig om morgenen
+//6 Lad ham høre et skrig om morgenen
 
-//7 og et krigsråb ved middagstid;{H: Jer 4,19.} 
+//7 og et krigsråb ved middagstid, 
 
 //4 v17 fordi han{T: Gud.} ikke dræbte mig i livmoderen,
 
@@ -165,8 +164,9 @@ ligesom byerne,
 
 //6 og hendes livmoder evig gravid.
 
-//2 v18 Hvorfor dette:{H: 1 Sam 26,18.} Af livmoderen kom jeg ud{H: Job 10,18.}
+//2 v18 Hvorfor dette: Af livmoderen kom jeg ud{H: Job 10,18.}
 
-//4 for at se lidelse og sorg
+//4 for at se lidelse og fortvivlelse
 
 //3 og ende mine dage i skam?
+

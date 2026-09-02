@@ -1,7 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
+
 
 ===Jeremias’ bog, kapitel 32===
 
@@ -10,25 +10,25 @@
 
 
 //0 v1 Det ord
-//3 som kom til Jeremias fra HERREN i Judas kong Sidkijas tiende år
-//4 - det var Babylons konge, Nebukadnesars attende år.{T: 587 f.Kr. Jerusalems belejring varede fra Sidkijas niende til elvte regeringsår, 588-586 f.Kr., se Jer 34,1; 39,1; 52,29.}
-//5 v2 Dengang belejrede Babylons konges hær Jerusalem,
-//6 og profeten Jeremias var tilbageholdt i vagtgården{H: Jer 32,8.12; 33,1; 37,21; 39,14-15.}
+//3 som kom til Jeremias fra HERREN i Judas konge, Sidkijas tiende år
+//4 – det år var Nebukadnesars attende år{T: Regeringsår.}{H: Jer 34,1-2; 39,1.}
+//5 v2 - dengang Babylons konges hær belejrede Jerusalem,
+//6 og profeten Jeremias var tilbageholdt i vagtgården{H: Jer 33,1; 37,21.}
 //8 - som var i Judas konges hus -
-//7 v3 hvor Judas konge Sidkija holdt ham fangen,
+//7 v3 hvor Judas konge, Sidkija, havde tilbageholdt ham,
 //8 idet han sagde:
 //9 >>Hvorfor profeterer du
 //10 :
 //11 >Sådan siger HERREN:
 //12 Se, jeg giver denne by i Babylons konges hånd,
 //15 og han skal indtage den.
-//14 v4 Sidkija, Judas konge, vil ikke undslippe kaldæernes magt,{T: Ordret: >>hånd<<.}
-//15 – sandelig, han vil helt bestemt blive givet i Babylons konges hånd,
+//14 v4 Og Sidkija, Judas konge, vil ikke undslippe kaldæernes hånd
+//15 – men han vil helt bestemt blive givet i Babylons konges hånd,
 //17 og han skal tale direkte med ham{T: Ordret: >>hans mund skal tale med hans mund<<.}
 //18 og stå ansigt til ansigt med ham.{T: Ordret: >>hans øjne skal se hans øjne<<.}{H: Jer 34,3.}
 //16 v5 Og han skal føre Sidkija til Babylon, 
 //17 og han skal være der
-//18 indtil jeg ser til ham
+//18 indtil jeg tager mig af ham
 //19 – det er HERRENS udsagn.
 //13 Selvom I kæmper mod kaldæerne,
 //14 vil I ikke have lykken med jer.<<<
@@ -41,42 +41,42 @@
 //3 HERRENS ord kom til mig
 //5 :
 //6 v7 >>Se, Haname’el, søn af Shallum, din farbror kommer til dig
-//7 for at sige:
+//7 og siger:
 //8 >Køb dig min mark
-//10 som ligger i Anatot,
+//10 som ligger i Anatot,{H: 1 Kong 2,26-27.}
 //9 for du har løserretten
 //10 til at købe den.<<<
-//4 v8 Haname’el, min farbrors søn, kom til mig
-//6 efter HERRENS ord, til vagtgården,
-//8 og sagde til mig:
-//10 >>Køb dog min mark
-//11 som er i Anatot,
-//9 som ligger i Benjamins land,
-//10 for du har løserretten!
+//4 v8 Haname’el, min farbrors søn, kom til mig efter HERRENS ord, til vagtgården,
+//6 og sagde til mig:
+//8 >>Køb dog min mark
+//10 som er i Anatot,
+//11 som ligger i Benjamins land,
+//9 for du har arveretten
+//10 og du har løserretten.{T: Se note til Jer 31,11.} 
 //8 Køb dig den!<<
 //7 Da vidste jeg
 //8 at det var HERRENS ord.
-//5 v9 Jeg købte marken af Haname’el, min farbrors søn, den
-//6 som lå i Anatot,
+//5 v9 Jeg købte marken af Haname’el, min farbrors søn,
+//6 den som lå i Anatot,
 //5 og jeg vejede sølvet til ham,
-//6 sytten sekel sølv. 
+//6 sytten sekel{N: Gt-mål} sølv. 
 //5 v10 Så skrev jeg det i brevet,
 //5 forseglede det
 //5 og tilkaldte vidner,
 //5 og jeg vejede sølvet i vægtskålene.
-//5 v11 Jeg tog købsbrevet, det forseglede med fastsættelsen og bestemmelserne og det åbne.
-//5 v12 Jeg gav købsbrevet til Baruk,{H: Jer 36,8.32; 45,2.5.} Nerijas søn, søn af Makseja, for øjnene af Haname’el, min farbrors søn,{T: Ordet >>søn<< har masoreterne udeladt her, findes dog i mange hebraiske manuskripter, LXX og Peshitta.} og for øjnene af vidnerne
+//5 v11 Jeg tog købsbrevet, det forseglede med fastsættelsen og bestemmelserne og det var åbent.
+//5 v12 Jeg gav købsbrevet til Baruk,{H: Jer 36,8.32.} Nerijas søn, søn af Makseja, for øjnene af Haname’el, min farbrors søn,{E: Ordet >>søn<< har masoreterne udeladt her, jf. vers 9; findes dog i mange hebraiske manuskripter, LXX og Peshitta.} og for øjnene af vidnerne
 //7 som havde skrevet på købsbrevet,
 //6 for øjnene af alle judæerne,
-//7 de der boede i vagtgården.
+//7 de der sad i vagtgården.
 //5 v13 Og jeg befalede Baruk for øjnene af dem
 //6 :
 //7 v14 >>Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
 //9 Tag disse breve, dette købsbrev, såvel det forseglede som dette åbne brev,
 //10 og læg dem i et lerkar
-//11 for at de kan bestå i mange år.
+//11 for at de kan bestå i mange dage.
 
-//8 v15 Sådan siger Hærskarers HERRE, Israels Gud:
+//8 v15 For sådan siger Hærskarers HERRE, Israels Gud:
 //9 Der skal igen købes huse og marker og vingårde i dette land.<<
 
 
@@ -86,74 +86,75 @@
 //5 v16 Så bad jeg til HERREN,
 //7 efter at jeg havde givet købsbrevet til Baruk, Nerijas søn
 //6 :
-//7 v17 Ak, herre HERRE!
-//8 Se, du, du har dannet himlene og jorden ved din mægtige styrke og ved din udstrakte arm,
-//12 intet er umuligt{T: Ordret: >>for forunderligt<<, >>for vanskeligt<<.}{H: Jer 32,27.} for dig.
-//11 v18 Han som handler i nåde{N: Nåde.} med tusinder
-//12 og gengælder dem fædrenes skyld i deres børns bryst efter dem,{H: 2 Mos 20,5-6; 34,7; 5 Mos 5,9-10.}
+//7 v17 Ak, Herre, HERRE!
+//8 Se, du har selv dannet himlene og jorden ved din mægtige styrke og ved din udstrakte arm,{H: Jer 27,5.}
+//12 intet er umuligt{T: Eller >>for vanskeligt<<.}{H: Jer 32,27.} for dig.
+//11 v18 Han handler i nåde{N: Nåde.} med tusinder,
+//12 men gengælder fædres skyld{T: Eller >>ugerning<<.} på deres børn{T: Ordret: >>i deres børns skød/bryst<<.} efter dem,{H: 2 Mos 20,5-6; 34,7. 5 Mos 5,9-10.}
 //10 den store Gud,
-//11 den mægtige{H: 5 Mos 10,17, Neh 9,32; Rom 1,25; 9,5; 11,33-36.}{E: Mange oversættelser vælger den vokative form >>du store Gud, du mægtige<< og opfatter det som direkte tale til Gud. Men det fremgår ikke af den hebraiske tekst.} 
+//11 den mægtige{H: 5 Mos 10,17. Neh 9,32-33. Rom 9,5; 11,33.}{E: Mange oversættelser vælger den vokative form >>du store Gud, du mægtige<< og opfatter det som direkte tale til Gud. Men det fremgår ikke af den hebraiske tekst.} 
 //14 - Hærskarers HERRE er hans navn.
 //13 v19 Stor i råd
 //14 og mægtig i gerning,
-//12 så at dine øjne er åbne over alle menneskebørnenes veje
-//14 for at give enhver efter dets veje og efter dets gerningers frugt;
-//13 v20 så at du har gjort tegn og undere{H: 5 Mos 6,22; Neh 9,10.} i Egyptens land indtil denne dag - både i Israel og blandt mennesker -
-//14 og du har gjort dig et navn ligesom på denne dag.
-//14 v21 Du bragte dit folk, Israel, ud fra Egyptens land ved tegn og undere og ved din stærke hånd og din udstrakte arm og ved stor rædsel,
+//12 for dine øjne er åbne over alle menneskebørnenes veje
+//14 for at give enhver efter hans veje og efter hans gerningers frugt;
+//13 v20 du som har gjort tegn og undere{H: 5 Mos 6,22. Neh 9,10.} i Egyptens land indtil denne dag - både i Israel og blandt menneskene -
+//14 og du skabte dig et navn ligesom på denne dag.
+//14 v21 Du bragte dit folk, Israel, ud fra Egyptens land ved tegn og undere og med stærk hånd og med udstrakt arm og ved stor rædsel,
 //14 v22 og du gav dem dette land
-//17 som du svor deres fædre
+//17 som du tilsvor deres fædre
 //18 at ville give dem,
 //16 et land der flyder med mælk og honning.
 //15 v23 Og de kom
 //15 og tog det i eje,
-//16 men de adlød{T: Eller >>hørte<<.} ikke din røst
-//17 og vandrede ikke i din lov;
+//16 men de adlød{T: Eller >>hørte på<<.} ikke din røst
+//17 og vandrede ikke efter din lov;
 //18 alt
 //20 hvad du befalede dem
 //21 at gøre,
 //19 gjorde de ikke,
 //14 så du lod al denne ulykke komme over dem. 
-//9 v24 Se, voldene!{T: Dvs. belejringsvoldene.} De har nået{E: Profetisk perfektum, Jeremias er sikker på belejringen sker.} byen 
+//9 v24 Se, voldene!{T: Dvs. belejringsvoldene.} De har nået{E: Profetisk perfektum, Jeremias er sikker på at belejringen sker.} byen 
 //12 for at indtage den,
-//11 og byen er givet i kaldæernes hånd
+//11 og byen er blevet givet i kaldæernes hånd
 //14 - de som kæmper imod den -
-//13 på grund af sværdet, hungersnøden og pesten;
+//13 på grund af sværdet og hungersnøden og pesten;
 //12 og
-//14 det som du har talt 
+//14 det som du har talt, 
 //13 det er sket;
 //10 så se, du ser det!
-//11 v25 Alligevel har du, ja, du har sagt til mig,
+//11 v25 Men du, du har sagt til mig,
 //14 Herre, HERRE:
 //13 >Køb dig marken for sølvet
 //14 og tilkald vidner på det!<
 //12 selvom byen er blevet givet i kaldæernes hånd.<<
+
 //1 v26 Da kom HERRENS ord til Jeremias
 //2 :
 //3 v27 >>Se, jeg er HERREN, al køds Gud!
-//5 Er noget umuligt{T: Ordret: >>for forunderligt<<, >>for vanskeligt<<. LXX oversætter verbet med >>skjult<<, der svarer til Jer 33,3.}{H: Jer 32,17.} for mig?
+//5 Skulle noget være umuligt{H: Jer 32,17.} for mig?
 //4 v28 Derfor, sådan siger HERREN:
 //6 Se, jeg giver denne by i kaldæernes hånd og i Babylons konge, Nebukadnesars hånd,
 //9 og han skal indtage den.
 //8 v29 Og kaldæerne, 
 //10 som fører krig mod denne by, skal komme
-//9 og sætte ild til denne by 
-//11 og brænde den fuldstændigt ned,
+//9 og sætte denne by i brand
+//11 og brænde den ned,
 //10 også husene
-//11 på hvis tage de har brændt røgelse til Ba’al
-//13 og hældt drikofre ud til andre guder
-//12 for at krænke mig.
-//7 v30 Sandelig, Israels sønner og Judas sønner gjorde fra deres ungdom af kun
+//11 på hvis tage de har brændt røgelse for Ba’al
+//13 og har hældt drikofre ud for andre guder
+//12 for at krænke mig.{T: Eller >>ægge mig til vrede<<.}
+//7 v30 Ja, Israels sønner og Judas sønner har fra deres ungdom af kun gjort 
 //11 det som var ondt i mine øjne;
-//10
-//9 for Israels sønner har i sandhed ægget mig til vrede{T: Eller >>krænket mig<<.} ved deres hænders gerning
+//10 
+//9 Ja, Israels sønner ægger mig i sandhed til vrede ved deres hænders gerning
 //10 – det er HERRENS udsagn.
 //8 v31 For denne by har været årsag til min vrede og til min harme - fra den dag
 //12 da de byggede den op, 
 //11 og indtil denne dag
 //10 - så jeg må fjerne den fra mit ansigt.
-//9 v32 På grund af al den ondskab Israels børn{T: Ordret: >>sønner<<.} og Judas børn
-//10 gjorde
+//9 v32 På grund af al den ondskab som Israels sønner og Judas sønner
+//10 har gjort
 //13 for at krænke mig -
 //12 de, deres konger, deres ledere, deres præster og deres profeter, både Judas mænd og Jerusalems indbyggere.
 //11 v33 De vendte ryggen til mig
@@ -163,16 +164,16 @@
 //12 lærte jeg dem -
 //13 men ingen af dem hørte 
 //14 og tog imod tugt.
-//11 v34 De opstillede deres afskyeligheder i huset
-//13 som bærer mit navn,{T: Eller >>som mit navn er udråbt/nævnt over<<.}
+//11 v34 De opstillede deres afskyeligheder{H: Jer 4,1.} i huset
+//13 som mit navn er udråbt over
 //12 for at gøre det urent.
-//11 v35 Og de byggede Ba’als offerhøje
+//11 v35 Og de byggede Ba’als offerhøje,
 //14 som er i Ben-Hinnum dalen,
-//13 for at overgive{T: Dvs. >>hellige<<.}deres sønner og deres døtre til Molok{H: Jer 19,5.} 
+//13 for at overgive{T: Dvs. >>hellige<<.} deres sønner og deres døtre til Molok, 
 //12 - hvad jeg ikke har befalet dem,
-//14 og det er heller ikke faldet mig ind{T: Ordret: >>ikke gået op på mit hjerte<<.}{H: Jer 7,31; 19,5.}
-//13 at de skulle gøre denne afskyelighed -
-//14 for at få Juda til at synde.<<
+//14 og det er heller ikke faldet mig ind{N: Hjerte}{H: Jer 7,31; 19,5.}
+//13 at de skulle gøre denne vederstyggelighed{H: Jer 2,7.} -
+//14 og således forlede Juda til synd.<<
 
 
 ==De skal være mit folk==
@@ -181,37 +182,38 @@
 //5 v36 Men nu,
 //6 derfor, sådan siger HERREN, Israels Gud, til denne by
 //9 om hvilken I siger:
-//10 >>Den er givet i Babylons konges hånd ved sværdet og hungersnøden og ved pesten.<<
+//10 >>Den er givet i Babylons konges hånd ved sværdet og ved hungersnøden og ved pesten.<<{H: Jer 32,28.}
 //8 v37 >>Se, jeg samler dem fra alle de lande
-//10 som jeg der har fordrevet dem til i min vrede og i min harme og i voldsomt raseri.{H: Jer 10,10; 21,5; 50,13.}
-//9 Og jeg vil bringe dem tilbage til dette sted,
-//9 og jeg vil lade dem bo i sikkerhed.
+//10 som jeg der har fordrevet dem til i min vrede og i min harme og i stort raseri.{H: Jer 21,5; 10,10.}
+//9 Og jeg bringer dem tilbage til dette sted,
+//9 og jeg lader dem bo i sikkerhed.
 //11 v38 Og de skal være mit folk,
 //12 og jeg, jeg vil være deres Gud.
-//10 v39 Og jeg vil give dem ét hjerte og én vej
-//11 så de frygter mig alle dage
-//12 til bedste for dem og for deres børn efter dem. 
-//10 v40 Og jeg vil slutte en evig pagt med dem,
+//10 v39 Og jeg giver dem ét hjerte og én vej
+//11 så de frygter mig alle dage,
+//12 til gode for dem og for deres børn efter dem. 
+//10 v40 Og jeg slutter en evig pagt med dem,
 //13 at jeg ikke vender mig bort fra dem,
 //12 fra at handle godt mod dem.
-//11 Min frygt{T: Dvs. >>frygt for mig<<.}{H: Jer 2,19.} vil jeg lægge i deres hjerte
+//11 Min frygt{T: Dvs. >>frygt for mig<<.}{H: Jer 2,19.} lægger jeg i deres hjerte
 //12 så de ikke viger fra mig.
 //10 v41 Jeg vil fryde mig over dem
 //12 ved at gøre godt mod dem, 
-//11 og jeg vil plante dem i dette land i sandhed, af hele mit hjerte og af hele min sjæl.
+//11 og jeg planter dem i dette land i sandhed, af hele mit hjerte og af hele min sjæl.
 
 //7 v42 For sådan siger HERREN:
-//8 Ligesom jeg bragte al denne store ulykke til dette folk,
-//10 så bringer jeg over dem alt det gode
+//8 Ligesom jeg bragte al denne store ulykke over dette folk,
+//10 så bringer jeg nu over dem alt det gode
 //12 som jeg taler angående dem.
 //11 v43 Og marken skal købes i dette land
 //13 om hvilket I siger:
-//14 >Det er en ødemark uden mennesker og dyr;{T: Nogle oversætter >>kvæg<<.}
+//14 >Det er en ødemark, tom for mennesker og dyr;{T: Eller >>kvæg<<.}
 //15 den er givet i kaldæernes hånd.<
 //12 v44 Marker skal de købe for sølv, 
-//14 skrive købsbrev,
-//14 forsegle dem
+//14 og de skal skrive dokumentet
+//14 og forsegle det
 //14 og tilkalde vidner
-//13 i Benjamins land og i egnene omkring Jerusalem og i Judas byer, både i bjerglandets byer og i lavlandets byer og i Negevs byer,
-//9 for jeg forvandler deres livssituation{T: Eller >>jeg bringer dem tilbage fra deres fangenskab. Mange oversætter >>fangenskab<< med >>skæbne<<. Se note til Jer 29,14.}{H: 29,14; 30,3.18; 31,23; 33,7.11.26}
+//13 i Benjamins land{H: Jer 32,8.} og i egnene omkring Jerusalem og i Judas byer, både i bjerglandets byer og i lavlandets byer og i Negevs byer,
+//9 for jeg forvandler deres livssituation{T: Eller >>jeg bringer dem tilbage fra deres fangenskab. Mange oversætter >>livssituation/fangenskab<< med >>skæbne<<. Se note til Jer 29,14.}{H: 30,3.18; 31,23.}
 //10 – det er HERRENS udsagn.<<
+

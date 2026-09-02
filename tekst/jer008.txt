@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 24.10.2025>!!
-
+!!<Dato for denne version: 02.09.2026>!!
 ===Jeremias' bog, Kapitel 8===
 
 
@@ -53,12 +52,12 @@
 
 //6 at de taler hvad der ikke er ret.
 
-//8 Intet menneske angrer sin ondskab
+//8 Ingen angrer sin ondskab
 
 //9 og siger:
 //10 >>Hvad har jeg gjort!<<
 
-//7 Alle vender de sig bort i deres løb{H: Jer 23,10.}
+//7 Alle vender de sig bort i deres løb{H: Jer 23,10.} 
 
 som en hest
 //9 der styrter afsted i krigen.
@@ -67,7 +66,7 @@ som en hest
 
 kender sine bestemte tider, 
 
-//10 og turtelduen,{T: Eller >>duen<<.} svalen{T: Eller >>(mur)sejleren<<, der ligner en stor svale.} og tranen,{E: *ʕāgûr* findes kun her og i Es 38,14. Oversættelsen er usikker. De fleste oversætter >>tranen<<, andre >>drosselen<<.} 
+//10 og turtelduen, svalen og tranen,{E: *ʕāgûr* findes kun her og i Es 38,14. Oversættelsen er usikker. De fleste oversætter >>tranen<<, andre >>drosselen<<.} 
 
 de giver agt på tiden
 //11 når de skal komme,
@@ -87,7 +86,7 @@ HERRENS ret.{H: Jer 5,4.}
 
 har skrivernes løgnepen gjort den!
 
-//6 v9 De vise vil blive gjort til skamme,{E: Verberne her i vers 9 står i perfektum og kan oversættes >>De vise blev gjort til skamme<<, men de fleste vælger præsens eller futurum idet det opfattes som en sikker og uafvendelig konsekvens der vil indtræffe.}
+//6 v9 De vise vil blive gjort til skamme,{E: Verberne her i vers 9 står i perfektum, der opfattes som profetisk perfektum, en sikker og uafvendelig konsekvens der vil indtræffe. Sml. Jer 2,26; 6,15.}
 
 //7 de vil blive grebet af rædsel{E:*htt* (>>grebet af rædsel<<) og *bôš* (>>blive til skamme<<) står ofte sammen i Jeremias’ bog.}{H: Jer 17,18; 48,20; 50,2.} 
  
@@ -101,11 +100,11 @@ har skrivernes løgnepen gjort den!
 ==HERREN straffer sit folk==
 
 
-//9 v10{T: Jer 8,10-12 er næsten identisk med Jer 6,12-15.} >>Derfor giver jeg deres hustruer til andre,
+//9 v10 >>Derfor{T: Jer 8,10-12 er næsten identisk med Jer 6,12-15.} giver jeg deres hustruer til andre,
 
-//11 deres marker til andre ejere,{T: >>Andre<< er tilføjet fra forudgående verslinje.}
+//11 deres marker til andre ejere,{T: >>andre<< er tilføjet fra forudgående verslinje.}
 
-//10 for fra de mindste til de største,
+//10 for fra de små til de store,
 
 enhver af dem søger uretmæssig vinding, 
 
@@ -120,14 +119,13 @@ enhver af dem praktiserer løgn,
 
 //14 men der er ingen fred.
 
-//11 v12 De skulle virkelig have skammet sig{T: Eller >>de skal blive gjort til skamme<<.}
-
+//11 v12 De skal blive gjort til skamme,
 //13 for en vederstyggelighed{H: Jer 2,7.} har de gjort.
 
-//12 Desuden føler de overhovedet ingen skam,
+//12 Desuden skammer de sig overhovedet ikke,
 
 //14 og 
-//16 det at blive til skamme
+//16 det at vise skam{T: Eller: >>at rødme<<.} 
 //15 kender de ikke til.
 
 //13 Derfor skal de falde blandt dem som falder,
@@ -149,7 +147,7 @@ enhver af dem praktiserer løgn,
 //17 bladene er visnet,
 
 //15 og hvad jeg gav dem,
-//16 vil forsvinde fra dem.<<{T: Eller >>og jeg gav dem til dem der drog hen over dem<<. Teksten er uklar. LXX m.fl. oversætter den ikke.}{H: Mika 7,1-2.}
+//16 vil forsvinde fra dem.<<{T: Eller >>og jeg gav dem til dem der drog hen over dem<<. Teksten er uklar. Den græske oversættelse m.fl. oversætter den ikke.}{H: Mika 7,1-2.}
 
 
 ==Folkets svar==
@@ -193,7 +191,7 @@ byen
 ==HERRENS advarsel==
 
 
-//2 v17>>For se, nu sender jeg iblandt jer
+//2 v17 >>For se, nu sender jeg iblandt jer
 
 slanger, giftslanger{H: 4 Mos 21,6-9.}
 
@@ -206,19 +204,19 @@ slanger, giftslanger{H: 4 Mos 21,6-9.}
 ==Jeremias' sorg over sit folk==
 
 
-//3 v18 Uhelbredeligt{E: *mavlîgîtî* findes kun her. Man forsøger at opløse ordet i *mivli geha* (>>ingen helbredelse<<). Teksten er vanskelig og oversættelsen er usikker. LXX oversætter >>uhelbredelig<<. Nogle knytter det til vers 17. En alternativ oversættelse af *mavlîgîtî* er >>min glæde<<, >>min trøst/lindring<< idet verbet *balag* betyder >>smile, skinne<<. Dertil kommer at der er et ordspil mellem *ʕᵃlê* der ved en vokalændring kan betyde >>gå bort/er væk<< og *ʕālay* >>over mig<<, og der oversættes >>Min glæde er borte, sorg er over mig<<. Der ses her bort fra accenten.} stiger sorg op i mig!{T: Eller >>Min glæde er borte, sorg er over mig, mit hjerte er sygt<<.}
+//3 v18 Uhelbredeligt{E: *mavlîgîtî* findes kun her. Man forsøger at opløse ordet i *mivli geha* (>>ingen helbredelse<<). Teksten er vanskelig, og oversættelsen er usikker. LXX oversætter >>uhelbredelig<<. Nogle knytter det til vers 17. En alternativ oversættelse af *mavlîgîtî* er >>min glæde<<, >>min trøst/lindring<< idet verbet *balag* betyder >>smile, skinne<<, og der oversættes >>Min glæde er borte, sorg er over mig<<. Der ses her bort fra accenten.} stiger fortvivlelse op i mig!
 
 //7 Mit hjerte er sygt i mig.
 
-//6 v19 Hør nu,{T: Ordret: >>se<<.} en stemme, et råb om hjælp fra mit folks datter
+//6 v19 Hør nu, en stemme, et råb om hjælp fra mit folks datter
 
 fra et land langt borte!
 
 //8 Er HERREN ikke i Zion?
 
-//9 Eller er hendes konge ikke der?
+//9 Er hendes konge ikke der?
 
-//7 Hvorfor har de krænket{H: Jer 7,18-19; 11,17.} mig{T: HERREN bryder pludselig ind og stiller folket spørgsmål.} med deres gudebilleder,
+//7 Hvorfor har de krænket{H: Jer 7,18; 11,17.} mig{T: HERREN bryder pludselig ind og stiller spørgsmål om folket.} med deres gudebilleder,
 
 med fremmede tomheder? 
 
@@ -236,7 +234,7 @@ med fremmede tomheder?
 
 //8 Eller er der ingen læge der?
 
-//6 For, hvorfor er der ikke kommet 
+//6 For hvorfor er der ikke kommet 
 
 heling{T: Ordret: >>ny hud<< (over såret).}{H: Jer 30,17; 33,6.} til mit folks datter? 
 

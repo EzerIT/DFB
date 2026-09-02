@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' bog, kapitel 9===
 
@@ -10,7 +10,7 @@
 
 //0 v1 Gid jeg i ørkenen kunne finde
 
- et herberg for rejsende!
+et herberg for rejsende!
 
 //2 Da ville jeg forlade mit folk
 
@@ -28,8 +28,7 @@
 
 //2 deres bue med løgn;
 
-//4 og ikke ved hjælp af sandhed{E: Præpositionen *le* foran >>sandhed/troskab<< kan opfattes emfatisk >>sandelig<<. Nogle ændrer verbet til 3. person singularis og oversætter >>og ikke troskab dominerer i landet<<.} 
-
+//4 og ikke ved hjælp af sandhed
 er de blevet mægtige i landet,
 
 //3 for de går fra ondskab til ondskab, 
@@ -43,14 +42,14 @@ er de blevet mægtige i landet,
 //1 v3 Vogt jer enhver for sin ven,{T: Eller >>nabo<<, >>næste<<.}
 //0 
 
-//3 og stol ikke på nogen bror;{N: Bror}
+//3 og stol ikke på nogen bror;{N: Bror.}
 
 //2 for enhver bror efterstræber ustandseligt,{E: Ordret: >>griber/følger i hælene<<.} 
 
 //3 og enhver ven går og bagtaler. 
 
 //1 v4 Ja,
-//5 enhver snyder sin ven,
+//5 en mand snyder sin ven,
 //4
 
 //3 og sandhed taler de ikke.
@@ -62,7 +61,7 @@ er de blevet mægtige i landet,
 
 //3 v5 Din bolig {E: *šivtᵊxā* (*šebet*) er infinitiv construct af *yšb* og betyder >>din bolig<<, men *šebet* kan også være et feminint substantiv og betyde >>sæde<<, >>trone<<. Am 6,3 har >>volds sæde<<.} er midt i bedrag;
 
-//4 ved deres bedrag{T: >>Deres<< er tilføjet.} nægter de
+//4 ved deres bedrag nægter de
 //5 at kende{H: Jer 4,22.} mig
 
 //6 - det er HERRENS udsagn.{T: HERREN taler til og om folket i samme tale. Det er noget helt generelt i Jeremias’ bog at HERREN taler til flere og også direkte. Indimellem kan man være i tvivl om hvem der tales til, og hvem der taler, jf. Jer 5,5 og 8,5.}
@@ -100,17 +99,17 @@ er de blevet mægtige i landet,
 ==Jeremias græder over sit folk==
 
 
-//3 v9 Over bjergene vil jeg{T: Jeremias, men det kan også være HERREN der taler her.} løfte min gråd og min klage{H: Jer 7,29.}
+//3 v9 Over bjergene vil jeg{T: Jeremias, men det kan også være HERREN der taler her.} opløfte min gråd og min klage{H: Jer 7,29.}
 
 //6 og over ørkenens græsgange en sørgesang,  
 
 //5 for de er brændt af,
-//8 intet menneske går igennem,
+//8 ikke en mand går igennem,
 
 //7 og de hører heller ikke lyden af kvæg.
 
 //6 Lige fra himlens fugle
-og til de vilde dyr 
+og til dyrene 
 
 er de flygtet
 //7 og draget væk.
@@ -119,20 +118,20 @@ er de flygtet
 ==HEREREN profeterer om Jerusalem og Juda==
 
 
-//4 v10 >>Jeg vil gøre Jerusalem til stendynger,
+//4 v10 >>Jeg gør Jerusalem til stendynger,
 
 en bolig for sjakaler,
 
 //5 og Judas byer gør jeg til ødemark{H: Jer 4,27.}
 
-uden beboere.<<
+uden en beboer.<<
 
 
 ==Jeremias udtrykker sin afmagt==
 
 
 //0 v11 Hvem er den víse mand 
-//4 der forstår dette
+//4 der forstår dette,
 //3 og som HERRENS mund har talt til,
 //4 at han skal forkynde det?
 //2 Hvorfor er landet gået til grunde, 
@@ -147,15 +146,16 @@ uden beboere.<<
 //5 som jeg satte foran dem,
 //4 og ikke har adlydt min røst
 //4 og ikke vandret efter den,
-//5 v13 men i stedet fulgte deres hjertes forstokkethed og fulgte Ba’alerne 
+//5 v13 men i stedet fulgte deres hjertes forstokkethed{H: Jer 3,17.} og fulgte Ba’alerne 
 //6 som deres fædre havde lært dem. 
 
+
 //3 v14 Derfor, sådan siger Hærskarers HERRE, Israels Gud:
-//4 Se, jeg vil give dette mit folk malurt at spise
-//5 og jeg vil give dem forgiftet vand at drikke.{H: Jer 8,14; 23,15.}
-//5 v15 Jeg vil sprede dem blandt folkeslagene
+//4 Se, jeg giver dette mit folk malurt at spise
+//5 og jeg giver dem forgiftet vand at drikke.{H: Jer 8,14; 23,15.}
+//5 v15 Jeg spreder dem blandt folkeslagene,
 //7 som de ikke kender, hverken de eller deres fædre,
-//6 og jeg vil sende sværdet efter dem
+//6 og jeg sender sværdet efter dem
 //7 indtil jeg får gjort ende på dem.{T: Den litterære form med spørgsmål (vers 11), svar og forklaring (vers 12-13) og dommen (vers 14-15) går igen flere steder i Jeremias’ bog.}{H: Jer 5,19; 16,10-13. 5 Mos 28,15.21.}
 
 
@@ -185,7 +185,7 @@ uden beboere.<<
 
 //5 >>Hvor er vi ødelagt. 
 
-//7 Vi er blevet fuldstændig til skamme
+//7 Vi er blevet fuldstændig til skamme,
 //6 for vi har forladt et land
 
 //7 fordi de har brudt vores boliger ned.<< 
@@ -208,7 +208,7 @@ uden beboere.<<
 
 //6 for at udrydde barnet fra gaden,
 
-//7 de udvalgte unge mænd fra de åbne pladser.
+//7 de unge mænd fra de åbne pladser.
 
 ***
 
@@ -257,7 +257,7 @@ som gødning{H: Jer 8,1-2; 16,4; 25,33.} på markens overflade,
 //2 da jeg hjemsøger alle som er omskåret på forhuden,{H: 1 Mos 17,10-11.}
 //4 v25 Egypten, Juda, Edom, Ammons sønner, Moab,
 alle med klippede tindinger;{T: Ordret: >>klippet side, klippet hjørne<<. Arabere i ørkenen klippede deres hår på denne måde.}{H: Jer 25,23.} 
-//5 de som bor i ørkenen, 
-//3 for alle folkeslagene er uomskåret,
+//5 de som bor i ørkenen. 
+//3 For alle folkeslagene er uomskåret,
 //4 men hele Israels hus har uomskåret hjerte.<<{H: Jer 4,4; 6,10.}
 

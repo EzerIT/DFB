@@ -1,41 +1,40 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias’ bog, kapitel 28===
 
 ==Hananja, den falske profet==
 
-//0 v1 Og det skete i samme år, i begyndelsen af Sidkijas, Judas konges regering,
-//1 i det fjerde år og femte måned,{T: 594-593 f.Kr.} at profeten Hananja, Azzurs søn, 
+//0 v1 Det skete i det år, i begyndelsen af Sidkijas, Judas konges regering,
+//1 i det fjerde år, i den femte måned, at profeten Hananja, Azzurs søn, 
 //5 som var fra Gibeon, sagde til mig
 //4 i HERRENS hus for øjnene af præsterne og hele folket
 //3 :
 //4 v2 >>Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud
 //5 :
-//6 Jeg bryder Babylons konges åg.
-//7 v3 Inden for to år vil jeg bringe tilbage til dette sted alle de kar fra HERRENS hus
-//10 som Nebukadnesar, Babylons konge, tog fra dette sted
-//11 og bragte til Babylon,
+//6 Jeg har brudt{E: Verbet er her profetisk perfektum, dvs. det vil med sikkerhed ske. Men når profetien gentages i vers 4 og vers 11 anvendes imperfektum.} Babylons konges åg.
+//7 v3 Inden for to år bringer jeg tilbage til dette sted alle de kar fra HERRENS hus
+//10 som Nebukadnesar, Babylons konge, har taget fra dette sted
+//11 og bragt til Babylon,
 //9 v4 og Jekonja, Jojakims søn, Judas konge, og alle de bortførte fra Juda,
 //11 de som er kommet til Babylon,
 //10 bringer jeg tilbage til dette sted
 //11 – det er HERRENS udsagn -
-//8 for jeg bryder Babylons konges åg.<<
+//8 for jeg vil bryde Babylons konges åg.<<
 //2 v5 Da sagde profeten Jeremias til profeten Hananja for øjnene af præsterne og for øjnene af hele folket, 
 //4 de som stod i HERRENS hus.
-//3 v6 Og profeten Jeremias sagde:
-//4 >>Amen!{T: Ordret: >>det er sandt<<.}
-//6 Må HERREN gøre sådan!{T: Eller >>Sådan lade HERREN det ske!<<.}{H: 1 Kong 22,15.}
-//7 Må HERREN bekræfte dine ord
+//3 v6 Profeten Jeremias sagde:
+//4 >>Sandelig!
+//6 Må HERREN gøre sådan!
+//7 Må HERREN opfylde dine ord
 //9 som du har profeteret,
-//8 at karrene fra HERRENS hus og alle de bortførte bringes tilbage fra Babylon til dette sted.
-//5 v7 Sandelig, hør dog disse ord
-//7 som jeg nu taler i dine ører og i hele folkets ører:
+//8 at bringe karrene fra HERRENS hus og alle de bortførte tilbage fra Babylon til dette sted.
+//5 v7 Men hør dog disse ord
+//7 som jeg nu taler for dine ører og for hele folkets ører:
 //6 v8 De profeter
-//9 som var før mig og før dig fra gamle dage,
-//8 de profeterede angående mange lande og imod mægtige kongeriger om krig, ulykke og pest.
+//9 som var før mig og før dig fra gammel tid,
+//8 de profeterede angående mange lande og imod mægtige kongeriger om krig og om ulykke og om pest.
 //7 v9 Den profet
 //9 som profeterer om fred, bliver 
 //9 - ved at profetens ord indtræffer -
@@ -46,12 +45,12 @@
 //3 v11 Og Hananja sagde for øjnene af hele folket
 //4 :
 //5 >>Sådan siger HERREN:
-//6 Sådan vil jeg bryde Nebukadnesar, Babylons konges åg inden for to år på alle folkeslagenes nakke.<<
-//3 Men profeten Jeremias gik sin vej.
+//6 Sådan vil jeg bryde Nebukadnesars, Babylons konges åg om to år fra alle folkeslagenes nakke.<<
+//3 Så gik profeten Jeremias sin vej.
 
 ==HERRENS ord angående Hananja==
 
-//0 v12 Da kom HERRENS ord til Jeremias 
+//0 v12 HERRENS ord kom til Jeremias 
 //2 efter at profeten Hananja havde brækket stangen på profeten Jeremias’ nakke
 //3 :
 //4 v13 >>Gå,
@@ -61,17 +60,18 @@
 //9 Stænger af træ har du brækket,
 //10 men du har i stedet for dem lavet stænger af jern.
 //8 v14 For sådan siger Hærskarers HERRE, Israels Gud:
-//9 Et åg af jern{H: 5 Mos 28,48.} lægger jeg på alle disse folkeslags nakke
+//9 Et åg af jern{H: 5 Mos 28,48.} har jeg lagt{E: Profetisk perfektum, det vil med sikkerhed ske.} på alle disse folkeslags nakke
 //12 for at de skal tjene Nebukadnesar, Babylons konge,
 //11 og de skal tjene ham,
-//10 og også markens vilde dyr giver jeg ham.<<<
+//10 og også markens vilde dyr har jeg givet ham.<<<
 //1 v15 Så sagde profeten Jeremias til profeten Hananja:
 //3 >>Hør dog
 //5 Hananja,
 //4 HERREN har ikke sendt dig,
-//6 og du, ja, du har fået dette folk til at stole på løgn.
+//6 og du, du har fået dette folk til at stole på løgn.
 //5 v16 Derfor sådan siger HERREN:
-//6 >Se, jeg sender dig bort fra jordens overflade,
+//6 >Se, jeg sender dig bort{E: *mᵊšallēḥᵃxā* (piel) er her et ordspil med *šᵊlāḥᵃxā* (qal) >>har sendt<< i vers 15.} fra jordens overflade,
 //8 i år skal du dø,
-//7 for du har prædiket frafald{H: Jer 9,32.} over for HERREN.<<<
+//7 for du har prædiket ulydighed{T: Eller >>frafald over for<<.}{H: Jer 29,32.} imod HERREN.<<<
 //2 v17 Og profeten Hananja døde samme år i den syvende måned.
+

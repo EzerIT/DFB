@@ -1,22 +1,21 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
-
+!!<Dato for denne version: 02.09.2026>!!
 ===Jeremias’ bog, Kapitel 3===
 
 
 ==Israel, den troløse hustru==
 
 
-//0 v1
+//0 v1 
 
-//1 >>Se,{E: Verset indledes med ordet *lēˀmōr* (>>sigende<<), som er en infinitiv konstruktus, og som her og i Jer 1,4 ikke oversættes, men fungerer som et kolon før direkte tale. I Hag 2,11-12 forekommer samme konstruktion foran *hēn* >>se<< ligesom her. Det er også muligt at opfatte *lēˀmōr* som et forkortet udtryk for et underforstået >>HERRENS ord kom til mig<<.} skiller en mand sig fra sin hustru,
+//1 >>Se,{E: *lēˀmōr* >>sigende<< er en infinitiv konstruktus som her og i Jer 1,4 ikke oversættes, men fungerer som et kolon før direkte tale. I Hag 2,11-12 forekommer samme konstruktion foran *hēn* >>se<< ligesom her. Det er også muligt at opfatte *lēˀmōr* som et forkortet udtryk for et underforstået >>HERRENS ord kom til mig<<.} skiller en mand sig fra sin hustru,
 
 //5 og hun går fra ham
 
 //4 og bliver en anden mands,
 
-//5 kan han da vende tilbage til hende igen? 
+//5 kan han da vende tilbage til hende igen?
 
 //6 Vil dette land 
 
@@ -44,7 +43,7 @@ med dit hor og din ondskab.
 
 //9 og forårsregnen udeblev,{H: Jer 14,1-4. Am 4,7.}
 
-//6 men du havde en pande{T: Udtryk for hårdhjertethed. >>Pande<< bruges i Bibelen foruden om personligheden også om Guds udvælgelse idet han viser sin udvælgelse ved at et mærke sættes på nogle menneskers pande, jf. 2 Mos 28,36-38. Ez 9,4. Åb 7,3-4.}{H: Es 48,4. Ez 3,8.} som en skøge,
+//6 men du havde en pande{T: Udtryk for hårdhjertethed. >>Pande<< bruges i Bibelen foruden om personligheden også om Guds udvælgelse, idet han viser sin udvælgelse ved at et mærke sættes på nogle menneskers pande, jf. 2 Mos 28,36-38. Ez 9,4. Åb 7,3-4.}{H: Es 48,4. Ez 3,8.} som en skøge,
 
 //7 du nægtede
 //8 at skamme dig.
@@ -64,7 +63,7 @@ med dit hor og din ondskab.
 //7 du var i stand til!<<
 
 
-==HERREN beretter om Israel og Judas frafald==
+==HERREN fortæller Jeremias om Israel og Judas frafald==
 
 
 //0 v6 Da sagde HERREN til mig i de dage Josia var konge:
@@ -77,7 +76,7 @@ med dit hor og din ondskab.
 //6 vil hun vende tilbage til mig.<
 //5 Men hun vendte ikke tilbage,
 //6 og hendes troløse søster Juda så det. 
-//4 v8 Og jeg så.{T: LXX har >>hun så<<, og flere følger dette.}
+//4 v8 Og jeg så.{T: Den græske oversættelse har >>hun så<<, og flere følger dette.}
 //7 For på grund af alt dette, 
 //9 fordi frafaldne Israel havde brudt ægteskabet, 
 //8 sendte jeg hende bort{H: 2 Kong 17,6-7.}
@@ -85,7 +84,7 @@ med dit hor og din ondskab.
 //5 Og hendes søster Juda, den troløse, frygtede ikke, 
 //7 men også hun gik hen 
 //7 og horede.
-//8 v9 Ved sit letfærdige{E: *miqqōl*, >>letfærdighed<<, står i construct form og er knyttet til >>hor<<, men nogle oversætter *miqqōl* som et adverbium >>betød så lidt<<.} hor
+//8 v9 Og ved sit letfærdige{E: *miqqōl*, >>letfærdighed<<, står i construct form og er knyttet til >>hor<<, men nogle oversætter *miqqōl* som et adverbium >>betød så lidt<<.} hor
 //9 vanhelligede hun da landet
 //9 og begik ægteskabsbrud{T: Dvs. praktiserede afgudsdyrkelse.} med stenen og træet.
 //6 v10 Selv ved alt dette vendte hendes troløse søster Juda ikke om til mig af hele sit hjerte,
@@ -103,7 +102,7 @@ med dit hor og din ondskab.
 //4 og du skal sige:
 
 //5 >Vend om
-//10 du frafaldne Israel!<{T: Der er et ordspil mellem *šûvāʰ* (>>vend om<<)
+//10 du frafaldne Israel!<{E: Der er et ordspil mellem *šûvāʰ* (>>vend om<<)
  og *mᵊšuvāʰ* (>>frafaldne<<). Lignende ordspil i Jer 3,14.} 
 //9 Det er HERRENS udsagn.
 
@@ -137,7 +136,7 @@ under ethvert grønt træ,
 
 //8 og jeg vil tage jer, 
 
-en fra en by 
+én fra en by 
 
 og to fra en slægt,
 
@@ -148,7 +147,7 @@ og to fra en slægt,
 //11 og de skal vogte jer med kundskab og indsigt. 
 
 //10 v16 Og det vil ske
-//11 at I bliver talrige
+//11 at I bliver talrige,
 //14 og I vil bære frugt i landet; i de dage
 //15 - det er HERRENS udsagn -
 //13 skal de ikke mere sige:
@@ -159,7 +158,7 @@ og to fra en slægt,
 //14 og en anden vil ikke blive lavet.
 //12 v17 På dette tidspunkt vil de kalde Jerusalem HERRENS trone, 
 //14 og alle folkeslag vil samle sig der i HERRENS navn i Jerusalem,{H: Es 2,2-3. Zak 8,20-23.}
-//15 og de vil ikke længere følge deres onde hjertes forstokkethed.
+//15 og de vil ikke længere følge deres onde hjertes forstokkethed.{E: *šᵊrirût* >>forstokkethed<<, >>genstridighed<<, >>hårdnakkethed<<. Dette udtryk bruges næsten udelukkende i Jeremias’ bog, i alt 8 gange af 10 i GT.}{H: 5 Mos 29,18-20. Sl 81,13.}
 
 ***
 
@@ -169,14 +168,14 @@ og to fra en slægt,
 
 //2 v19 Og jeg, jeg sagde: 
 
-//5 Hvor vil jeg gerne sætte dig{T: >>Dig<< er femininum.} blandt sønnerne,
+//5 Hvor vil jeg gerne sætte dig{E: >>Dig<< er femininum.} blandt sønnerne,
 
 //6 og give dig et dejligt land,{H: 5 Mos 28,1-6; 30,9-10.19-20. Jer 31,20. Hos 11,8-9.}
 
 en herlig arvelod, den allerherligste blandt folkeslagene!
 
 //4 Og jeg sagde:
-//5 Du skal kalde mig min far{H: Jer 3,4.}
+//5 Du skal kalde mig >min far<{H: Jer 3,4.}
 
 //6 og ikke vende dig væk fra mig!
 
@@ -197,7 +196,7 @@ en herlig arvelod, den allerherligste blandt folkeslagene!
 
 //3 for de slog ind på afveje,
 
-//4 de glemte HERREN deres Gud.
+//4 de glemte HERREN deres Gud.{H: Jer 2,32.}
 
 //2 v22 >>Vend om,{H: Jer 3,14. Hos 14,2.}
 //4 I frafaldne sønner! 
@@ -226,7 +225,7 @@ fortærede vores fædres rigdom
 
 fra vores ungdom af,
 
-deres får
+deres får,
 og deres kvæg,
 
 deres sønner 

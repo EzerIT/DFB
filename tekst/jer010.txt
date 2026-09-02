@@ -1,11 +1,12 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
+
 
 ===Jeremias' bog, kapitel 10===
 
 
-==HERREN advarer mod at lære af folkeslagene==
+==HERREN advarer mod at lære af hedningerne==
 
 
 //0 v1 Hør det ord
@@ -93,9 +94,9 @@ og i alle deres kongeriger
 
 og en evig konge.
 
-//3 Ved hans vrede ryster jorden,
+//3 Ved hans vrede{E: *qeṣef* (>>Guds vrede<<, >>raseri<<), anvendt her om HERRENS vrede som dom.} ryster jorden,
 
-//5 og folkeslagene kan ikke udholde hans straffende vrede.{E: *zaʕmô* (>>raseri, straffende vrede<<) med betydningen forbandet af en krænket Gud.}
+//5 og folkeslagene kan ikke udholde hans straffende vrede.{E: *zaʕmô* (>>raseri, straffende vrede<<.) med betydningen forbandet af en krænket Gud.}
 
 ***
 
@@ -106,9 +107,9 @@ og en evig konge.
 
 ***
 
-//2 v12{T: Jer 10,12-16 er næsten ens med Jer 51,15-19.} Han er den som dannede jorden ved sin kraft,
+//2 v12 Han{T: Jer 10,12-16 er næsten enslydende med Jer 51,15-19.} er jordens skaber ved sin kraft,
 
-//3 grundlagde verden i sin visdom,
+//3 verdens grundlægger i sin visdom,
 
 //6 ved sin indsigt bredte han himlene ud.
 
@@ -124,9 +125,9 @@ og en evig konge.
 
 //4 v14 Ethvert menneske er en tåbe og uden kundskab,
 
-//4 enhver smed er blevet gjort til skamme på grund af et afgudsbillede,
+//4 enhver smed bliver gjort til skamme på grund af et afgudsbillede,
 
-//5 for hans smeltede billede{T: Singularis, kan evt. opfattes kollektivt.} er en løgn,
+//5 for hans støbte billede er en løgn,
 //6 og der er ingen ånd i dem.
 
 //7 v15 De er tomhed,{E: *hevel* betyder >>vindpust<<, >>tomhed<<, >>intet<<.}{H: Jer 14,22; 16,19.}
@@ -156,8 +157,8 @@ og en evig konge.
 
 //2 >>Se, jeg slynger landets indbyggere ud denne gang,
 
-//3 og jeg vil give dem trængsel 
-//4 så de kan finde ud af det.<<{T: Eller >>mærke det<<. Sætningen har intet objekt. En lignende uafsluttet sætning møder vi i 2 Mos 2,25: >>Og Gud vidste<<. LXX læser verbet som en passiv og oversætter >>så dit slag må opdages/erfares<<.} 
+//3 og jeg giver dem trængsel 
+//4 så de kan finde ud af det.<<{E: Eller >>mærke det<<. Sætningen har intet objekt. En lignende uafsluttet sætning møder vi i 2 Mos 2,25: >>Og Gud vidste<<. LXX læser verbet som en passiv og oversætter >>så dit slag må opdages/erfares<<.} 
 
 ***
 
@@ -186,7 +187,7 @@ og en evig konge.
 
 //3 og HERREN søger de ikke,
 
-//2 derfor klarer de sig ikke godt,{T: Eller >>handler de ikke klogt<<.}
+//2 derfor handler de ikke klogt
 
 //3 og hele deres hjord{T: Ordret: >>græsgang<<, her metaforisk om de bortførte.} er spredt.{H: Jer 23,2.}
 
@@ -208,15 +209,16 @@ til ødemark, en bolig for sjakaler.{H: Jer 9,10.}
 ==Jeremias' bøn til HERREN==
 
 
-//0 v23 Jeg har erkendt,
+//0 v23 Jeg ved,
 //3 HERRE,
 
-//2 at menneskets vej ikke beror på ham selv, 
+//2 at menneskets vej ikke beror på ham selv
 
 //3 og det beror ikke på en mand 
 //4 der vandrer,
 
-//5 at styre sine skridt. 
+
+//5 at styre sine skridt.{H: Sl 37,23. Ordsp 16,9; 20,24.}
 
 //1 v24 Tugt mig,
 //4 HERRE,

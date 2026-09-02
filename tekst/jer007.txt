@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 24.10.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' Bog, kapitel 7===
  
@@ -18,7 +18,6 @@
 //9 I som går ind ad disse porte 
 //10 for at tilbede HERREN!<
 
-***
 
 //7 v3 Sådan siger Hærskarers{N: Hærskarers} HERRE, Israels Gud: 
 //8 Gør jeres veje og jeres gerninger gode, 
@@ -48,7 +47,7 @@
 //12 og stå for mit ansigt i dette hus, 
 //13 som mit navn er udråbt over,
 //12 og sige: 
-//15 >Vi er frelst<, 
+//15 >Vi er frelst< 
 //14 - for så at kunne gøre alle disse vederstyggeligheder?{H: Jer 2,7.}
 //13 v11 Er dette hus som mit navn er udråbt over, blevet en røverhule{H: Matt 21,13. Mark 11,17.} 
 //15
@@ -70,7 +69,7 @@
 //11 fordi I har gjort alle disse gerninger
 //14 - det er HERRENS udsagn -
 //13 og jeg talte til jer; 
-//15 tidligt og ustandseligt{E:  Ordret: >>stående tidligt op og talende<<. Dette udtryk med to infinitiv absolut (intensiverende) anvendes talrige gange af Jeremias og er som en underskrift af profeten.}{H: Jer 25,4.}
+//15 tidligt og ustandseligt{E:  Ordret: >>stående tidligt op og talende<<. Dette idiomatiske udtryk opfattes som en vedvarende handling hvor et verbum er gentaget sammen med >>stående tidligt op<< og med to infinitiv absolut (intensiverende). Dette anvendes talrige gange (10 gange) af Jeremias og er som en underskrift af profeten.}{H: Jer 25,4.}
 //16 talte jeg,{T: Nogle oversættelser udelader >>talte jeg<<.} 
 //14 men I hørte ikke, 
 //13 jeg kaldte på jer, 
@@ -105,7 +104,6 @@
 //10 Det er HERRENS udsagn. 
 //9 Er det ikke til skam for sig selv?
 
-***
 
 //7 v20 Derfor, sådan siger den Herre HERREN:
 //9 Se, min vrede og min harme udøses imod dette sted, over menneskene og over dyrene og over markens træer og jordens frugt, 
@@ -114,9 +112,9 @@
  
 ==Jeremias skal tale forgæves til Israels folk== 
 
-//8 v21 Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud: 
+//8 v21 Sådan siger Hærskarers HERRE, Israels Gud: 
 //9 Føj jeres brændofre til jeres slagtofre 
-//11 og spis kødet! 
+//11 og spis kødet!{H: Am 4,4-5.} 
 //10 v22 For jeg talte ikke til jeres fædre 
 //13 og gav dem heller ikke befalinger 
 //12 på den dag
@@ -132,13 +130,13 @@
 //16 for at det må gå jer godt.
 //12 v24 Men de hørte ikke 
 //14 og bøjede ikke deres ører,
-//15 men de gik efter deres egne råd i deres onde hjerters forstokkethed, 
+//15 men de gik efter deres egne råd i deres onde hjerters forstokkethed,{H: Jer 3,17.} 
 //15 og de vendte ryggen 
-og ikke ansigtet til mig.{T: >>Til mig<< er tilføjet. Udtrykket findes kun her i GT, og der er forskellige oversættelser som >>de gik tilbage og ikke fremad<<. Lignende udtryk finder vi i Jer 2,27; 32,33.}
+//16 og ikke ansigtet til mig.{T: >>til mig<< er tilføjet. Udtrykket findes kun her i GT, og der er forskellige oversættelser som >>de gik tilbage og ikke fremad<<. Lignende udtryk finder vi i Jer 2,27; 32,33.}
 //13 v25 Fra den dag 
 //16 da jeres fædre drog ud af Egyptens land, 
 //15 og indtil denne dag 
-//14 sendte jeg alle mine tjenere, profeterne til jer, 
+//14 sendte jeg alle mine tjenere, profeterne, til jer, 
 //15 dagligt, tidligt og ustandseligt 
 //16 sendte jeg.
 //12 v26 Men de hørte ikke på mig 
@@ -162,39 +160,34 @@ og ikke ansigtet til mig.{T: >>Til mig<< er tilføjet. Udtrykket findes kun her 
 
 
 //8 v29 Klip dit hår af 
-//10 og kast det væk!{T: Tegn på sorg for både mænd og kvinder, men ikke tilladt for Israels folk.}{H: 5 Mos 14,1-2. 3 Mos 19,27-28; 21,5-6.}
+//10 og kast det væk!{T: Tegn på sorg for både mænd og kvinder, men ikke tilladt for Israels folk.}{H: 5 Mos 14,1-2. 3 Mos 19,28; 21,5-6.}
 
-//10 Opløft på de nøgne høje en dødsklage,  
-
+//10 Opløft på de nøgne høje en dødsklage, 
 //9 for HERREN har forkastet 
 //10 og forstødt 
 
-sin vredes slægt.
-
-***
+sin vredes{E: *ʕevrāʰ* >>voldsom vrede<<, >>raseri<<. I Jeremias’ bog optræder 6 forskellige udtryk for vrede som harme, glødende, straffende vrede til raseri.}{H: Jer 6,11; 4,8; 10,10; 21,5.} slægt.
 
 //6 v30 For Judas børn har gjort 
 //10 det der er ondt i mine øjne 
 //9 - det er HERRENS udsagn. 
-//8 De har sat deres vederstyggeligheder{H: Jer 4,1.} i det hus 
+//8 De har sat deres afskyeligheder{H: Jer 4,1.} i det hus 
 //11 som mit navn er udråbt over, 
 //10 for at gøre det urent.
 //9 v31 Og de har bygget Tofet-højene, 
 //12 som er i Ben-Hinnoms dal,{H: Jer 2,23.} 
 //11 for at brænde deres sønner og døtre op i ilden, 
 //10 hvad jeg ikke har befalet, 
-//11 og som heller ikke er faldet mig ind.{N: Hjerte}{H: Jer 19,5-6; 32,35.}
+//11 og det er heller ikke faldet mig ind.{N: Hjerte}{H: Jer 19,5-6; 32,35.}
 
-***
-
-//7 v32 Derfor, se, de dage kommer 
+//7 v32 Derfor, se, dage kommer 
 //9 - det er HERRENS udsagn -
-//8 hvor man ikke mere vil kalde det Tofet og Ben-Hinnoms dal, 
-//11 men slagtningens dal.{H: 2 Kong 23,10.} 
-//10 Og de vil begrave i Tofet af mangel på plads.
+//8 da man ikke mere skal sige Tofet og Ben-Hinnoms dal, 
+//11 men Slagtningens dal.{H: 2 Kong 23,10.} 
+//10 Og de vil begrave i Tofet selvom der ikke er plads.{H: Jer 19,11.}
 //11 v33 Og dette folks døde kroppe skal blive til føde for himlens fugle og jordens dyr, 
 //12 og ingen skræmmer dem bort.
-//9 v34 Og jeg vil i Judas byer og i Jerusalems gader bringe fryds røst og glædes røst, brudgoms røst og bruds røst, til ophør, 
+//9 v34 Og jeg bringer i Judas byer og i Jerusalems gader fryds røst og glædes røst, brudgoms røst og bruds røst til ophør, 
 //10 for landet skal blive til en ruin.<<
 
 

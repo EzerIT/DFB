@@ -1,6 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 24.10.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias' bog, kapitel 11===
 
@@ -49,7 +49,7 @@
 //8 >Hør min røst!<
 //6 v8 Men de hørte ikke
 //6 og bøjede ikke deres øre;
-//7 derimod fulgte de hver sit onde hjertes forstokkethed.
+//7 derimod fulgte de hver sit onde hjertes forstokkethed.{H: Jer 3,17.}
 //8 Jeg bragte dem alle denne pagts ord
 //9 som jeg befalede
 //11 at de skulle handle efter,
@@ -92,10 +92,10 @@
 
 ***
 
-//5 v15 Hvad vil min elskede i mit hus,{T: >>Min elskede<< er her maskulinum. Jeremias skifter frit mellem maskulinum- og femininumformer i omtalen af folket. Se Jer 2,2.}
+//5 v15 Hvad vil min elskede i mit hus,{E: >>Min elskede<< er her maskulinum. Jeremias skifter frit mellem maskulinum- og femininumformer i omtalen af folket. Se Jer 2,2.}
 
 //6 hun som har onde hensigter?{T: Ordret: >>hende gørende den onde plan, de mange<<.} 
-De er mange,{E: *rabbîm* er maskulinum pluralis og kan grammatisk set ikke knytte sig til >>den onde plan<< (se foregående note), der er femininum, alligevel oversætter flere >>mange onde gerninger<< eller >>de er mange<<. Teksten er vanskelig og uklar. Andre tolker >>de mange<< som lederne, præster og andre i templet og betragter >>de mange<< som subjekt i efterfølgende sætning. Andre igen ændrer vokaliseringen af *rabbîm* til *ḥᵃlāvîm* >>fedtstykker<<. Septuaginta ændrer vokaliseringen til *nᵊdārîm* >>løfter<< og ændrer verbet fra en qal til en hifil og oversætter >>Kan løfter og helligt kød ændre din ulykke<<.} 
+De er mange,{E: *rabbîm* er maskulinum pluralis og kan grammatisk set ikke knytte sig til >>den onde plan<< (se foregående note), der er femininum, alligevel oversætter flere >>mange onde gerninger<<. Teksten er vanskelig og uklar. Andre tolker >>de mange<< som lederne, præster og andre i templet og betragter >>de mange<< som subjekt i efterfølgende sætning. Andre igen ændrer vokaliseringen af *rabbîm* til *ḥᵃlāvîm* >>fedtstykker<<. Septuaginta ændrer vokaliseringen til *nᵊdārîm* >>løfter<< og ændrer verbet fra en qal til en hifil og oversætter >>Kan løfter og helligt kød ændre din ulykke<<.} 
 
 //7 og de frembærer helligt kød{T: >>offerkød<<.} fra dig 
 
@@ -106,26 +106,28 @@ De er mange,{E: *rabbîm* er maskulinum pluralis og kan grammatisk set ikke knyt
 
 //3 v16 Et grønt oliventræ, smukt i frugt og form,
 
-kaldte HERREN dit navn.{T: Eller >>dig<<.}
+kaldte HERREN dit navn.
 
 //5 Til lyden af en mægtig raslen
 
 har han sat ild til det,
 
-//6 og dets grene er brækket.{E: Verbet er et aramaisk låneord med en anden betydning end det samme hebraiske ord >>være ond<<.}
+//6 og dets grene brækkede.
+
+***
 
 //4 v17 Hærskarers{N: Hærskarers} HERRE,
 //6 han som plantede dig,{H: Jer 2,21.}
 //5 han har talt ulykke over dig på grund af den ondskab som Israels hus og Judas hus
 //6 gjorde mod sig selv
-//7 ved at krænke mig,{T: Eller >>gøre mig vred<<.}
+//7 ved at krænke mig,
 //8 ved at brænde røgelse for Ba'al.<<
 
 
 ==Jeremias' fjender lægger onde planer imod ham==
 
 
-//2 v18 HERREN kundgjorde mig det,
+//2 v18 HERREN forkyndte mig det,
 //7  så jeg vidste det
 
 //6 da han lod mig se deres handlinger.
@@ -137,7 +139,7 @@ har han sat ild til det,
 //6 Og jeg vidste ikke
 //7 at de udtænkte planer mod mig:
 
-//8 >>Lad os ødelægge træet med dets frugt{T: Ordret: >>dets brød<<.}
+//8 >>Lad os ødelægge træet med dets frugt,
 
 //9 og lad os skære ham af fra de levendes land,
 
@@ -161,8 +163,8 @@ har han sat ild til det,
 
 //3 v22 Derfor, sådan siger Hærskarers HERRE:
 //4 >>Se, jeg hjemsøger dem,
-//6 de udvalgte unge mænd vil dø ved sværdet;
+//6 de unge mænd vil dø ved sværdet;
 //7 deres sønner og deres døtre vil dø af hungersnød.
-//5 v23 Der vil ikke blive en rest tilbage af dem,
+//5 v23 Der skal ikke blive en rest tilbage af dem,
 //6 for jeg bringer ulykke over mændene i Anatot i året for deres hjemsøgelse.<<
 

@@ -1,92 +1,92 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias’ bog, kapitel 22===
 
-==HERREN udtaler dom over Judas konger og Jerusalem==
+==HERREN udtaler dom over Judas konge og Jerusalem==
 
 //0 v1 Sådan siger HERREN:
-//1 >>Gå ned til Judas konges hus
-//3 og du skal dér tale dette ord.
+//1 >>Gå ned til Judas konges hus,
+//3 og dér skal du tale dette ord.
 //3 v2 Og du skal sige:
 //4 >Hør HERRENS ord,
 //7 Judas konge
 //8 som sidder på Davids trone,
-//6 - du og dine tjenere og dit folk
+//6 du og dine tjenere og dit folk
 //7 som kommer ind gennem disse porte:
 
 //5 v3 Sådan siger HERREN:
 //7 Øv ret og retfærdighed,
-//10 og befri den berøvede fra undertrykkerens hånd!
-//9 Undertryk ikke den fremmede, den forældreløse og enken!
-//10 Vær ikke voldelig
+//10 og befri den udplyndrede fra undertrykkerens hånd!
+//9 Undertving ikke den fremmede, den forældreløse og enken!
+//10 Vær ikke voldelig,
 //11 og udgyd ikke uskyldigt blod på dette sted!
 //8 v4 For hvis I virkelig handler efter dette ord,
 //10 så skal der gennem dette hus’ porte drage konger
-//12 som sidder af David{T: Dvs. af Davids slægt.}{E: *lᵊ* står her som genitiv ligesom i 1 Sam 16,18.} på hans trone,
-//12 som farer afsted i stridsvogn og på heste –
+//12 som sidder for David{T: På vegne af David. Nogle opfatter >>David<< som genitiv til >>trone<< og oversætter >>på Davids trone<<.} på hans trone,
+//12 som farer af sted i stridsvogn og på heste,
 //11 han og hans tjenere og hans folk.
 //9 v5 Men hvis I ikke hører på disse ord, 
-//10 jeg sværger ved mig selv
+//10 jeg har svoret ved mig selv
 //12 – det er HERRENS udsagn - 
 //11 skal dette hus blive til en ruin.<<<
 
-
 //6 v6 For sådan siger HERREN angående Judas konges hus:
 
-//7 >>Som Gilead{H: Jer 50,19.} var du for mig,
+//7 >>Gilead{H: Jer 50,19.} var du for mig,
 
-//9 som Libanons tinde,
+//9 Libanons tinde,
 
 //8 sandelig jeg gør dig til ørken, 
 
 //10 byer
-//11 hvor ingen bor!
+//11 der ikke er beboet!
 
-//9 v7 Jeg vil hellige{T: Dvs. >>udtage<<, >>indvie<< til HERRENS krig.}{H: Jer 6,4; 21,4-5; 2 Mos 12,23; 2 Sam 24,16.} imod dig ødelæggere,
+//9 v7 Jeg vil indvie{T: Til HERRENS krig.}{H: Jer 6,4.} imod dig ødelæggere,
 
-enhver med sine våben. 
+hver med sine våben. 
 
-//11 De vil fælde de bedste{T: Ordret: >>udsøgte<<.} af dine cedertræer 
+//11 De vil fælde de udsøgte af dine cedertræer 
 
 //11 og kaste dem i ilden.
 
 //10 v8 Mange folkeslag vil drage forbi denne by,
 //11 og de vil sige
-//13 til hinanden:{T: Ordret: >>enhver til sin ven<<.}
+//13 til hinanden:
 //12 >Hvorfor har HERREN gjort sådan mod denne store by?<
 //11 v9 Og de vil svare:
 //12 >Fordi de forlod HERREN, deres Guds pagt
-//13 og bøjede sig ned og tilbad andre guder
-//14 og tjente{T: Eller >>dyrkede<<.} dem.<
+//13 og tilbad andre guder{H: Jer 13,10.}
+//14 og tjente dem.<
 
 ==Opfordring til sorg over den bortførte Shallum (Joakaz)==
 
-
-//2 v10 Græd ikke over den døde,{T: Kong Josija.}{H: 2 Kong 23,29-30.}
+//2 v10 Græd ikke over en død,{E: Kan opfattes generelt for hele folket i forhold til dem der er gået i eksil. Men LXX og Syr. ændrer vokaliseringen fra *lᵊmēt* (>>en død<<) til *lamēt* (>>den døde<<), kong Josija.}{H: 2 Kong 23,29-30.}
 
 //5 vis ikke sorg over ham,
 
-//4 græd hele tiden over ham{T: Josijas søn, Shallum (Joakaz).} der drager bort,
-//5 for han vil ikke vende tilbage igen
+//4 græd meget mere over ham{T: Josijas søn, Shallum (Joakaz).} der drager bort,
+
+//5 for han skal ikke vende tilbage igen
+
 //6 og se sit fædreland!<< 
 
+***
 
-//3 v11 For sådan siger HERREN angående{E: Præpositionen her er *ʔel* >>til<<, men oversættes ofte som *ʕal* >>imod<<, >>angående<<. Dette forekommer mange steder i Jeremias’ bog.}{H: Jer 11,21.23; 12,14.} Shallum,{T: Shallum er hans personlige navn, Joakaz hans kongenavn. Han regerede kun i 3 måneder og er ikke nævnt i Jer 1,1-3.}{H: 1 Krøn 3,15; 2 Kong 23,30-34; 2 Krøn 36,1-4} Josijas søn, konge af Juda,
+//3 v11 For sådan siger HERREN angående Shallum,{T: Shallum er hans personlige navn, Joakaz hans kongenavn. Han regerede kun i 3 måneder og er ikke nævnt i Jer 1,1-3.}{H: 1 Krøn 3,15. 2 Kong 23,30-34. 2 Krøn 36,1-4.} Josijas søn, konge af Juda,
 //6 han som blev konge efter sin far Josija,
 //5 han som er draget væk fra dette sted: 
-//4 >>Han vil ikke vende tilbage hertil igen.
+//4 >>Han skal ikke vende tilbage hertil igen.
 //6 v12 For på det sted
-//8 4 hvor de har ført ham hen i eksil,{T: Egypten.}
-//7 der vil han dø,
-//5 og dette land vil han ikke se mere.
+//8 4 hvortil{T: Egypten.} de har bortført ham,
+//7 dér skal han dø,
+//5 og dette land skal han ikke se mere.
 
 ==HERRENS budskab angående Jojakim==
 
 
-//2 v13 Ve den
+//2 v13 Ve den 
 //5 som bygger sit hus uden retfærdighed
 
 //8 og sine tagværelser uden ret,
@@ -95,7 +95,7 @@ enhver med sine våben.
 
 //8 og ikke belønner ham for hans arbejde!
 
-//6 v14 Ve den som siger:{T: >>Ve<< er tilføjet, er underforstået fra vers 13.}
+//6 v14 Ve den som siger:{T: >>Ve<< er underforstået fra vers 13.}
 //8 >Jeg vil bygge mig et hus af dimensioner
 
 og med rummelige tagværelser,< 
@@ -106,20 +106,20 @@ og med rummelige tagværelser,<
 
 //9 og maler det rødt.
 
-//4 v15 Er du en konge
+//4 v15 Er du konge
 //6 fordi du konkurrerer i cedertræ?{T: Dvs. bygger stort i cedertræ.}
 
-//5 Din far,{T: Josija.}{H: 2 Kong 22-23,30.}
+//5 Din far,{T: Josija.}
 //7 spiste han ikke
 //11 og drak
 
-//11 og øvede ret og retfærdighed?{H: Jer 22,3; 21,12.}
+//11 og øvede ret og retfærdighed?
 
 //10 Derfor gik det ham godt.{H: 5 Mos 4,40.}
 
-//9 v16 Han førte den fattiges og den hjælpeløses sag.
+//9 v16 Han førte den hjælpeløses og fattiges sag.
 
-//10 Dette{E: *ʔāz* har her betydningen >>når det er sådan<<. Verslinjen kan opfattes som en gentagelse af forudgående verslinje >>derfor gik det ham godt<<, selvom >>ham<< er udeladt her.} er godt!
+//10 Så det{E: *ʔāz* har her betydningen >>når det er sådan<<. Verslinjen kan opfattes som en gentagelse af forudgående verslinje >>derfor gik det ham godt<<, selvom >>ham<< er udeladt her.} var godt!
 
 //8 Er dette ikke at kende mig?
 
@@ -130,31 +130,31 @@ og med rummelige tagværelser,<
 //7 end mod din uretmæssige vinding og mod
 //9 at udgyde uskyldigt blod 
 
-//8 og mod at udføre afpresning og mod at stikke af.<<{E: *mmᵊrûṣāʰ* kan afledes enten fra verbet *raṣāʰ* >>knuse<< eller *ruṣ* >>løbe<<. Dette medfører forskellige oversættelser, i stedet for >>mod stikken af<< vælges >>mod vold<<. Se 2 Kong 23,31ff om Joakaz. Det kan også opfattes som en af Jeremias’ dobbeltheder, som ordspil hvor begge udsagn er gældende og ligger i det hebraiske ord.} 
+//8 og mod at udøve undertrykkelse og afpresning.<<{E: *mᵊrûṣāʰ* >>afpresning, vold<< findes kun her. Ordet kan afledes enten fra verbet *rṣṣ*(>>knuse<<) eller *ruṣ* (>>løbe<<). Dette medfører forskellige oversættelser. De fleste vælger >>afpresning<<, >>vold<<, men sammenholdt med Jer 8,6 og 23,10 kan ordet oversættes >>mod stikken af/løb<< (fra ansvar for onde handlinger), understøttet af Vulgata og Symmachus.} 
 //9
 
 ==HERREN opfordrer til ikke at sørge over Jojakim==
 
 
 //3 v18 Derfor,
-//4 sådan siger HERREN angående Jojakim,{T: Der efterfulgte Joakaz.}{H: 2 Kong 23,36-24,7.} Josijas søn, konge af Juda:
+//4 sådan siger HERREN angående Jojakim, Josijas søn, Judas konge:
 
-//5 >>Man skal ikke sørge over ham:
+//5 >>De skal ikke synge klagesang over ham:
 
 //6 >Ak, min bror!<
 
 //7 og: >Ak, søster!<
 
-//5 Man skal ikke sørge over ham:
+//5 De skal ikke synge klagesang{H: Jer 16,6.} over ham:
 
 //7 >Ak, herre!<
 
 //8 og: >Ak, hans majestæt!<
 
-//6 v19 En æselbegravelse vil man afholde,
+//6 v19 En æselbegravelse vil der blive afholdt,
 
-//7 man vil trække af sted
-//8 og kaste ham ud, uden for Jerusalems porte.{H: Jer 36,30.}
+//7 de vil trække af sted
+//8 og kaste ham ud, langt uden for Jerusalems porte.{H: Jer 36,30.}
 
 
 ==HERRENS dom over Jerusalem og Konja (Jojakin)==
@@ -163,9 +163,9 @@ og med rummelige tagværelser,<
 //0 v20 Gå op til Libanon
 //6 og skrig,
 
-//5 og i Bashan{T: Nord for Gilead.}{H: 2 Kong 10,33. Jer 50,19; Sl 68,16.} løft din røst
+//5 og i Bashan løft din røst
 
-//6 og skrig fra Abarim,{T: Bjergparti der omfatter bjerget Nebo i Moab.}{H: 4 Mos 33,47-48; 5 Mos 32,49.}
+//6 og skrig fra Abarim,{H: 4 Mos 33,47. 5 Mos 32,49.}
 
 //4 for alle dine elskere er knust.
 
@@ -192,44 +192,44 @@ på grund af al din ondskab.
 //3 du som har rede i cedertræerne,
 
 //2 hvor ynkværdig vil du være
-//3 når veerne kommer over dig,
+//3 når fødselssmerter kommer over dig,
 
-//4 veer ligesom hos den fødende.{H: Jer 6,24; Jer 13,21.}
+//4 veer ligesom hos den fødende.{H: Jer 6,24.}
 
 //0 v24 Så sandt jeg lever!
 //3 – Det er HERRENS udsagn.
-//2 Hvis Konja,{T: En forkortet form af Jojakin, se 2 Kong 24,5.12; Jer 37,1. Andre variationer af navnet er Jekonja (Jer 24,1)}.{H: Jer 27,20; 28,4; 29,2, 1 Krøn 3,16.} Jojakims søn, konge af Juda, er en seglring på min højre hånd,
-//3 så vil jeg rive dig bort derfra.
-//4 v25 Og jeg vil give dig i hånden på dem som stræber dig efter livet,{T: Ordret: >>søger din sjæl<<.} og i hånden 
-//7 på dem du er bange for,{T: Ordret: >>bange for deres ansigt<<.}
+//2 Selvom Konja,{T: En forkortet form af Jojakin, se 2 Kong 24,6.12, anvendes kun her og i Jer 37,1. En anden variation af navnet er Jekonja, se Jer 24,1, som anvendes i resten af Jeremias’ bog.}{H: 1 Krøn 3,16.} Jojakims søn, Judas konge, var en seglring på min højre hånd,
+//3 sandelig, jeg ville rive dig bort derfra.
+//4 v25 Jeg giver dig i hånden på dem som stræber dig efter livet,{N: Sjæl} og i hånden 
+//7 på dem du er bange for,
 //6 og i Nebukadnesars, Babylons konges hånd og i kaldæernes hånd. 
-//5 v26 Jeg vil kaste dig og din mor,{H: 2 kong 24,8-16.}
+//5 v26 Jeg slynger{H: Jer 16,13.} dig og din mor,
 //8 som fødte dig,
-//7 til et andet land,
-//8 der hvor I ikke blev født,
-//6 og der skal I dø.
-//7 v27 Og til det land
-//9 som de længes efter{H: Jer 44,14.}
+//7 bort til et andet land,
+//8 dér hvor I ikke er født,
+//6 og dér skal I dø.
+//7 v27 Og til det land,
+//9 som de dér længes efter{N: Sjæl}{H: Jer 44,14.}
 //10 at vende tilbage til,
-//8 dertil skal de ikke vende tilbage.
+//8 dértil skal de ikke vende tilbage.
 
 
 ==Konja, den foragtede, knuste og barnløse== 
 
 
-//1 v28 Er han et foragtet kar der er knust,
+//1 v28 Er han et foragtet kar der er sønderslået,
 
 denne mand Konja? 
 
-//4 Eller et krus
+//4 Er han et krus
 
-//5 ingen bryder sig om?
+//5 som ingen bryder sig om?
 
-//3 Hvorfor blev de kastet ud, han og hans afkom,
-//4 kastet bort til et land
-//5 som de ikke kendte?
+//3 Hvorfor er de blevet kylet ud, han og hans afkom,
+//4 og kastet bort til et land
+//5 som de ikke kender?
 
-//3 v29 Land, land, land
+//3 v29 Land, land, land,
 
 //2 hør HERRENS ord!
 
@@ -239,11 +239,12 @@ denne mand Konja?
 
 //4 Skriv: Denne mand bliver barnløs,
 
-//5 en ung, stærk mand, 
+//5 en ung stærk mand, 
 //7 som intet lykkes for i hans dage!
 
-//6 Sandelig, det vil ikke lykkes nogen af hans afkom
+//6 Sandelig, det vil ikke lykkes for nogen af hans afkom
 
 //7 at sidde på Davids trone
 
 //8 og regere igen i Juda!<<
+

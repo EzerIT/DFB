@@ -1,7 +1,6 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
-!!<Eksegetisk bearbejdning: Endnu ikke sket>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 09.09.2024>!!
+!!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
+!!<Dato for denne version: 02.09.2026>!!
 
 ===Jeremias’ bog, kapitel 48===
 
@@ -9,61 +8,61 @@
 ==Moabs fald==
 
 
-//0 v1 Til Moab:{H: 1 Mos 19,36-38; 5 Mos 23,3-6; Es 15-16; 25,10-12; Am 2,1-3; Sef 2,8-11; Ez 25,8-11; 2 Kong 3,4-5; 1 Krøn 5,26; 4 Mos 20,17; 2 Kong 24,2-3; Klag 1,2.}
+//0 v1 Om Moab:{H: 1 Mos 19,36-37. Es 15,1-16,14; 25,10-12. Am 2,1-3. Sef 2,8-11. Ez 25,8-11. 4 Mos 20,17; 2 Kong 24,1-2.}
 //1 >>Sådan siger Hærskarers{N: Hærskarers.} HERRE, Israels Gud:
 
-//2 Ve over Nebo!{H: 5 Mos 2,34-37; 3,12; 32,49; 34,1; 4 Mos 32,3.33-38; Es 15,2.}
+//2 Ve over Nebo!{H: Es 15,2.}
 
-//6 For den er ødelagt.{E: *htt* >>ødelagt<< eller >>grebet af rædsel<< og *bôš* >>blive til skamme<< står ofte sammen i Jeremias’ bog.}{H: Jer 48,20.39; 8,9; 14,3-4; 17,18; 50,2.}
+//6 For den er ødelagt, 
 
-//7 Den er virkelig blevet til skamme.
-//5 Kirjatajim{H: Jer 48,21-13; 4 Mos 32,37; Jos 13,19.} er indtaget,
+//7 er gjort til skamme,
+//5 indtaget er Kirjatajim!{H: 4 Mos 32,37. Jos 13,19.} 
 
-//5 tilflugtsstedet højt oppe{E: *mmiśgāv* er her knyttet til et feminint verbum og må da være et stednavn. De fleste oversætter *mmiśgāv* med >>fæstning<<, men det er maskulinum. Alligevel er meningen klar. *mmiśgāv* må være det velbefæstede Kirjatajim.} er virkelig blevet til skamme
-//6 og er fyldt med rædsel.
+//5 Tilflugtsstedet højt oppe{E: *miśgāv* (maskulinum) er her knyttet til et feminint verbum og kan da være et stednavn. De fleste oversætter *miśgāv* med >>fæstning<<, selvom det er maskulinum. Alligevel er meningen klar. *miśgāv* må være det velbefæstede Kirjatajim.} er gjort til skamme 
+//6 og er rædselsslagen.{H: Jer 8,9; Jer 48,20.39.}
 
-//4 v2 Det er forbi med lovprisning af Moab, 
+//4 v2 Det er forbi med lovprisning af Moab. 
 
-i Heshbon{H: 4 Mos 21,26-30; 32,33-37; Jos 13,17; Es 15,4; 16,8-9; Jer 48,34.} 
-//6 har de planlagt{E: Der er et ordspil mellem *ḥāšᵊvû* >>planlagt<< og ḥešbôn >>Heshbon<<, der lydmæssigt ligner hinanden og har samme rod *ḥsb*.}{H: Jer 11,19.} ondt imod hende:
+I Heshbon{H: 4 Mos 21,26. Jos 13,17. Es 15,4; 16,8-9. Jer 48,34.45.} 
+//6 har de planlagt{E: Der er et ordspil mellem *ḥāšᵊvû* (>>planlagt<<) og *ḥešbôn* (>>Heshbon<<), de har endog samme rod *ḥsb*.} ondt imod hende:
 
 //7 >Kom
-//8 lad os udrydde hende{T: Ordret >>skære hende af<<.} fra at være et folkeslag!<
+//8 lad os udrydde hende fra at være et folkeslag!<
 
-//5 Også du Madmen,{E: *madmēn* kan være en betegnelse for en by i Moab, selv om dette navn ikke er kendt i GT, eller være et fordrejet bynavn passende for et ordspil: *madmēna* betyder >>møddingpøl<<, anvendt om Moab i Es 25,10. Der er flere andre forslag til tolkning.}
+//5 Også du Madmen,{E: *madmēn* kan være en betegnelse for en by i Moab, selvom dette navn ikke er kendt i GT, eller være et fordrejet bynavn passende for et ordspil: *madmēna* betyder >>møddingpøl<<, anvendt om Moab i Es 25,10.}
 //6 skal omkomme!{H: Jer 8,14.}
 
-//7 Sværdet skal gå efter dig.
+//7 Efter dig skal sværdet gå.
 
-//3 v3 Der høres{T: Ordret >>lyd<<.} skrig fra Horonajim:{T: En by i Moab.}{H: Es 15,5; Jer 48,5.34.}
+//3 v3 Der høres skrig fra Horonajim:{H: Es 15,5. Jer 48,5.34.}
 
 //5 Ødelæggelse og et stort sammenbrud!
 
 //4 v4 Moab er knust,
 
-//5 de unge{H: Jer 14,3.} har opløftet et skrig om hjælp, 
+//5 hendes unge har opløftet et skrig om hjælp; 
 
-//7 v5 ja, ad stigningen til Luhit{T: Formentlig en hovedvej der løber fra Moabs højland ned til Jordandalen nær Det døde Hav.}{H: Es 15,5.} 
+//7 v5 ja, ad stigningen til Luhit{H: Es 15,5.} 
 
- - grædende hele tiden{T: Ordret: >>med gråd med gråd<<. Betydningen kan være at gråden kan høres overalt og hele vejen.} - går man op,
+ - grædende hele tiden{T: Ordret: >>med gråd med gråd<<. Betydningen kan også være at gråden kan høres overalt og hele vejen.} - går man op,
 
-//6 ja, ved nedstigningen{T: Ordret >>bjergside/skrænt<<.} fra Horonajim 
+//6 ja, ved nedstigningen fra Horonajim 
 
-har de hørt angstens skrig over sammenbruddet.
+har man hørt de fortvivledes skrig over sammenbruddet.
 
 //2 v6 Flygt,
-//2 red jeres liv
+//2 red jeres liv{N: Sjæl.}
 
 //4 og bliv som enebærbusken i ørkenen!
 
 //3 v7 Ja, 
 //7 fordi du stolede på 
 
-dine gerninger og på dine skatte,{H: Ez 28,4-7.}
+dine gerninger og på dine skatte,
 
 //6 skal også du blive indtaget. 
 
-//5 Og Kemosh{T: Moabs gud.}{H: Jer 48,13.46; 4 Mos 21,29; Dom 11,24 1 Kong 11,7.33; 2 Kong 23,13;Jer 43,12; 49,3; Es 46,1-2.} skal gå i eksil,
+//5 Og Kemosh{T: Moabs gud.}{H: Jer 48,13.46. 4 Mos 21,29. Dom 11,24. 1 Kong 11,7.33. 2 Kong 23,13.} skal gå i eksil,
 
 //6 hans præster sammen med hans ledere. 
 
@@ -73,27 +72,27 @@ dine gerninger og på dine skatte,{H: Ez 28,4-7.}
 
 //6 dalen skal gå til grunde,
 
-//6 og sletten blive lagt øde
+//6 og sletten blive tilintetgjort
 
 //7 - som HERREN siger.
 
-//2 v9 Lav en roset{T: Eller >>tegn<<.}{E: *ṣîṣ* betyder >>roset<<. Nogle oversættelser anvender >>vinger<<, der er betydningen af *ṣîṣ* på aramaisk. Der oversættes så >>giv Moab vinger<<. Her skal >>roset<< formentlig forstås som >>et tegn<<, måske et domstegn. Nogle oversætter >>tegn<< med >>vejsten/vejviser<<. *ṣîṣ* kan også betyde >>salt<<, dvs. salt der vil udelukke fremtidig beboelse. De forskellige oversættelser vælger frit.}{H: 2 Mos 28,36; 39,30; 1 Mos 4,15-16; Es 28,4; Sef 2,9; Dom 9,45; Jer 48,47; 31,21.} til Moab,
+//2 v9 Lav en roset{T: Eller >>tegn<<}{E: Oversættelsen er omdiskuteret. *ṣîṣ* skal formentlig forstås som et domstegn. LXX har >>tegn<<. På aramæisk betyder *ṣîṣ* >>vinger<<, så nogle oversætter med >>giv Moab vinger<<. De forskellige oversættelser vælger frit.}{H: 2 Mos 28,36; 39,30. 1 Mos 4,15. Es 28,4. Sef 2,9. Dom 9,45. Jer 31,21.} for Moab,
 
-//3 for hun skal helt sikkert drage ud,
+//3 for ødelagt skal hun drage ud,{E: *nṣʔ* (>>ødelægge<<) og * yṣʔ* (>>gå ud<<) er to forskellige verber, men nogle opfatter verberne som ens og oversætter: >>For hun skal helt sikkert drage ud,<< jf. lignende konstruktioner i Jer 8,13 og 42,10.}
 
-//4 og hendes byer skal blive til en ørken{T: >>Rædsel<< ligger også i ordet.}
+//4 og hendes byer skal blive øde
 
-//5 uden en indbygger i dem.
+//5 uden en beboer i dem.
 
 //2 v10 Forbandet være den
-//4 som gør HERRENS gerning med forsømmelse,{T: Eller >>sløvhed<<.}
+//4 som gør HERRENS gerning med forsømmelse,
 
 //3 og forbandet den
-//4 som holder sit sværd tilbage for blod!
+//4 som holder sit sværd tilbage fra blod!
 
 //2 v11 Tryg har Moab været fra sin ungdom,
 
-//6 og roligt ligger han{T: I omtalen af Moab skifter Jeremias frit mellem femininum og maskulinum.} stadig{T: Verbet er en participium, derfor tilføjet >>stadig<<.} på sine vinbærme,  
+//6 og stille ligger han{T: I omtalen af Moab skifter Jeremias frit mellem femininum og maskulinum.} stadig på sine vinbærme, 
 
 //7 og han er ikke blevet hældt om fra kar til kar,
 
@@ -116,24 +115,24 @@ dine gerninger og på dine skatte,{H: Ez 28,4-7.}
 
 //8 og hans kar skal de tømme,
 
-//9 og deres{T: Jeremias skifter her i verset frit mellem singularis >>han<< og pluralis >>deres<<.} kar skal de knuse.
+//9 og deres{T: Jeremias skifter her i verset frit mellem singularis >>han<< og pluralis >>deres<<, jf. Jer 48,44.} krukker skal de smadre.{H: Jer 51,20.}
 
-//6 v13 Moab vil blive til skamme på grund af Kemosh,
+//6 v13 Moab vil blive til skamme på grund af Kemosh,{H: Jer 48,7.}
 
 //7 ligesom Israels hus blev til skamme 
 
-på grund af Betel,{H: 1 Kong 12,28-29; Hos 4,15; 10,15; Am 3,14; 4,4; 5,5-6.} deres tillid.
+på grund af Betel,{H: 1 Kong 12,28-29. Hos 10,15. Am 3,14; 4,4; 5,5-6.} deres tillid.
 
 //3 v14 Hvordan kan I sige:
 
 //4 >Vi er krigere
 
-//5 og tapre{T: Ordret: >>styrke<<.} mænd til krig?<
+//5 og stærke mænd til krigen?<
 
 //2 v15 Moab er ødelagt,
-//5 og hendes byer har man besteget,{T: Eller >>gået op til<<.}
+//5 og hendes byer er man gået op til, 
 
-//4 og hans bedste{T: Ordret >>udsøgte<<.} unge mænd er gået ned til slagtning
+//4 og hans unge mænd er gået ned til slagtning
 
 //5 – det er kongens udsagn,
 
@@ -142,7 +141,7 @@ på grund af Betel,{H: 1 Kong 12,28-29; Hos 4,15; 10,15; Am 3,14; 4,4; 5,5-6.} d
 //3 v16 Moabs undergang er nært forestående, 
 //5 
 
-//4 hans ulykke kommer med stor hast. 
+//4 og hans ulykke kommer med stor hast. 
 
 //3 v17 Vis ham medynk, 
 //4 alle omkring ham
@@ -152,51 +151,51 @@ på grund af Betel,{H: 1 Kong 12,28-29; Hos 4,15; 10,15; Am 3,14; 4,4; 5,5-6.} d
 //3 Sig:
 //4 >Hvordan er et mægtigt scepter,
 
-en prægtig stav blevet brækket?<
+en prægtig stav, brækket?<
 
-//3 v18 Stig ned{H: Jer 13,18; Es 47,1.} fra herlighed
-//4 og bo i tørke,{T: Ordret: >>tørst<<.}
+//3 v18 Stig ned{H: Jer 13,18.} fra herligheden
+//4 og bo i tørke,
 
-//7 du der bor trygt,{E: *yōševet* >>sidende/boende<< er vanskeligt at oversætte. Det betyder ikke kun at være indbygger, men at bo i sikkerhed eller have en æresplads. Derfor er >>trygt<< tilføjet. Sml. Jer 46,19.} datter Dibon!{H: 4 Mos 32,34; 21,30; Jos 13,9.15-17; 2 Kong 3,4-27.}
+//7 du der bor trygt, datter Dibon!{H: 4 Mos 21,29-30.}
 
 //6 For Moabs ødelægger er draget op imod dig,
 
 //7 han har tilintetgjort dine fæstninger.
 
-//5 v19 Stil dig ved vejen{H: Jer 16,6.}
+//5 v19 Stil dig ved vejen
 //8 og hold udkig,
 
-//7 du trygge indbygger{E: Femininum er anvendt her om indbygger og også i imperativerne i hele verset. Se note til Jer 48,18.} i Aro’er!{H: 5 Mos 2,36; 3,12; 4,48; Jos 12,2; 13,9.15-16; 4 Mos 32,34.}
+//7 du indbygger{E: Femininum er anvendt her om indbygger og også i imperativerne i hele verset.} i Aro’er!{H: Jos 12,2.}
 
-//6 Spørg de flygtende og undslupne!
+//6 Spørg ham der flygter, og hende der slipper væk!
 
 //7 Sig:
 //8 >Hvad er der sket?<
 
-//2 v20 Moab er blevet virkelig til skamme,
-//6 ja, hun er rædselsslagen,
+//2 v20 Moab er gjort til skamme,
+//6 ja, hun er rædselsslagen,{H: Jer 8,9; 48,1.}
 
 //5 jamr,
 //6 råb om hjælp,
 
-//5 forkynd ved Arnon{T: Grænsefloden mellem ammoritterne og moabitterne.}{H: 4 Mos 21,13; 22,36; Dom 11,18.}
+//5 forkynd ved Arnon{H: 4 Mos 21,13.}
 
 //6 at Moab er ødelagt!
 
-//4 v21 Dom er kommet til{T: Eller >>over<<.} landets højslette; til Holon{T: Byens placering er ukendt.}{H: Jos 15,51; 21,15.} og til Jasa{T: Er det samme som >>Jahas<<, Es 15,4.}{H: 4 Mos 21,23; 5 Mos 2,32; Dom 11,20 Jos 13,18; 21,36; 1 Krøn 6,78.} og over Mepa’at{H: Jos 13,18; 21,37; 1 Krøn 6,79.}
-//5 v22 og over Dibon{H: Jer 48,18.} og over Nebo og over Bet-Diblatajim.{T: Ukendt område i Moab.}{H: 4 Mos 33,46-47.}
-//5 v23 Over Kirjatajim{H: Jer 48,1.} og over Bet-Gamul{T: Ukendt.} og over Bet-Meon.{T: By i Moab, også kaldt Ba’al-Meon.}{H: 4 Mos 32,38; Ez 25,9.}
-//5 v24 Over Kerijot{T: En befæstet by i Moab.}{H: Am 2,2.} og over Bosra,{T: Ukendt by i Moab. Det er ikke Bosra i Edom, Jer 49,13.} og over alle landet Moabs byer, de nærmeste og de fjerneste.{T: Formentlig set i forhold til Arnon floden.}
-//3 v25 Moabs horn er skåret af,
+//4 v21 Dommen er kommet til landets højslette; til Holon{H: Jos 21,15.} og til Jasa{T: Er det samme som >>Jahas<< i Es 15,4.}{H: 4 Mos 21,23. 5 Mos 2,32.} og over Mepa’at{H: Jos 21,37.}
+//5 v22 og over Dibon.{H: Jer 48,18.} og over Nebo og over Bet-Diblatajim.{H: 4 Mos 33,46-47.}
+//5 v23 Over Kirjatajim{H: Jer 48,1.} og over Bet-Gamul og over Bet-Meon.{T: Også kaldt Ba’al-Meon.}{H: 4 Mos 32,38. Ez 25,9.}
+//5 v24 Over Kerijot{H: Am 2,2.} og over Bosra,{T: Det er ikke Bosra i Edom i Jer 49,13.} og over alle byer i Moabs land, de fjerneste og de nærmeste.
+//3 v25 Moabs horn er hugget af,
 //4 og hans arm er brækket
 //5 – det er HERRENS udsagn.
 //2 v26 Drik ham beruset
 //4 - for han har ophøjet sig over HERREN -
-//3 og Moab skal vælte sig i sit opkast
-//3 og blive til latter – selv han.
-//4 v27 Sandelig, blev latteren ikke din, Israel,{T: De fleste oversættelser opfatter Moab som den tiltalte og oversætter >>var ikke Israel dig til latter?<< Grammatisk set er begge oversættelser mulige. Begrundelsen for oversættelsen her er Jer 2,26, at Israel allerede er blevet gjort til skamme.}
-//6 da han{T: Moab.} blev fundet blandt tyve?{H: Jer 48,39.}
-//5 For så ofte dine ord er om ham, ryster du på hovedet.{H: Jer 31,20; 18,16; Sl 64,9; Klag 2,15; Mark 15,29.}
+//3 og Moab skal vælte sig i sit opkast,
+//3 også han skal blive til latter!
+//4 v27 Men var ikke Israel dig til latter? 
+//6 Er han blevet fundet blandt tyve,
+//5 for så ofte som du taler om ham, ryster du på hovedet?{E: De fleste oversættelser opfatter Moab som den tiltalte, men det er også muligt at opfatte Israel som den tiltalte, jf. Jer 15,11 hvor *ʔim lôʔ* kan oversættes >>sandelig<<, og *ha* foran *śᵊḥôq* (>>latter<<) kan opfattes som den bestemte artikel: >>Sandelig, latteren er din, Israel, hvis han er blevet fundet blandt tyve! For mere end dine ord imod ham, vil du ryste på hovedet<<}{H: Jer 48,39; 31,20; 18,16. Sl 64,9. Mark 15,29.}
 
 //2 v28 Forlad byerne
 
@@ -213,77 +212,77 @@ en prægtig stav blevet brækket?<
 
  - meget hovmodig er han -
 
-//4 hans ophøjethed, hans hovmod og hans stolthed 
+//4 hans ophøjethed og hans hovmod og hans stolthed{E: Et femfoldigt bogstavrim med ord der alle begynder med *g* konsonanten, tydeligt forstærkende.} 
 
-og hans hjertes selvophøjelse.
+og hans hjertes selvophøjelse.{H: Ordsp 16,18.}
 
 //3 v30 Jeg, ja, jeg kender
 //7 – det er HERRENS udsagn -
-//6 hans overmod
-//5 og hans usande pralerier
-//6 – hvad de har gjort, er ikke ret.
+//6 hans overmod,
+//5 men det er ikke ret – hans pralerier,{H: Es 16,6.} 
+//6 det er ikke ret hvad de gør!
 //4 v31 Derfor jamrer jeg over Moab, 
 
 //7 og for hele Moab skriger jeg.
 
-//6 For mændene fra Kir-Heres{H: 2 Kong 3,23-25; Jer 48,36; Es 16,7.11.} klager han.{T: HERREN. Mange oversættelser ændrer til >>klager jeg<< som i Jer 48,36.}
+//6 For mændene fra Kir-Heres{H: Jer 48,36. Es 16,7.11.} klager han.{T: HERREN. Mange oversættelser ændrer til >>klager jeg<< som i Jer 48,36.}
 
-//5 v32 Mere end gråden over Jazer{H: 4 Mos 21,31; 32,1.3.35; Jos 13,25; 21,39.}
+//5 v32 Mere end Jazers gråd,{H: 4 Mos 32,1.3.35. Jos 13,25; 21,39.}
 
-græder jeg{T: HERREN.} over dig,{E: Teksten er uklar her. Det er bl.a. partiklen *min* foran >>gråd<< som volder problemer. Den kan opfattes som en komparativ eller som en præposition. Nogle oversætter >>HERREN græder mere over Sibma end Jazer græder<<. Andre oversætter efter Es 16,9: >>jeg vil græde med Jazers gråd over dig<<. Der findes endvidere flere variationer.}
+græder jeg over dig,{E: Teksten er uklar her. Det er bl.a. partiklen *min* foran >>gråd<< som volder problemer. Den kan opfattes som en komparativ eller som en præposition. Nogle oversætter >>HERREN græder mere over Sibma end Jazer græder<<. Andre oversætter efter Es 16,9: >>jeg vil græde med Jazers gråd over dig<<. Der findes flere variationer.}
 
-//8 du vinstokken Sibma,{H: Es 16,8-9; 4 Mos 32,37-38; Jos 13,17-19.}
+//8 du vinstokken Sibma,{H: Es 16,8-9. 4 Mos 32,37-38. Jos 13,17-19.}
 
-//7 dine ranker gik ud over havet,{T: Det døde Hav.}
+//7 dine ranker gik ud over havet,
 
-//8 de nåede{T: Ordret >>rører<<.} til Jazers hav.{T: Teksten er lidt vanskelig, de fleste læser den i lyset af Es 16,8: >>nåede til Jazer<<.}
+//8 de nåede til Jazers hav.{T: Teksten er lidt vanskelig, de fleste læser den i lyset af Es 16,8: >>nåede til Jazer<<.}
 
 //6 Over din sommerfrugt og over din vinhøst er ødelæggeren faldet.
 
-//7 v33 Glæde og jubel vil forsvinde{E: *neʔesfāʰ* kan både betyde >>blive samlet<< og >>blive taget væk<<, >>forsvinde<<.}
+//7 v33 Glæde og jubel er taget væk 
 
 fra frugthaven og fra Moabs land, 
 
-//8 og vin fra persekarrene bringer jeg til ophør,
+//8 og vin fra persekarrene har jeg gjort ende på,
 
-//10 ingen træder længere{T: >>Længere<< er tilføjet.} druer{T: >>Druer<< er tilføjet.} under jubelråb,{T: Eller >>høje råb<<.} 
+//10 ingen træder på druerne{T: >>På druer<< er tilføjet af hensyn til forståelsen.} under jubelråb; 
 
-//11 høje råb, jubelråb er der ikke.{T: Ordret: >>høje råb, ikke jubelråb<< eller >>det høje råb er ikke jubelråb<<.}{E: *hêdād* kan betyde både >>høje råb<< og >>jubelråb<<. I lyset af Es 16,10 kan udtrykket her opfattes som et idiomatisk udtryk der betyder >>der er ingen råb<< eller >>råbet har jeg bragt til ophør<<.}
+//11 råbet er ikke et jubelråb.{E: *hêdād* kan betyde både >>råb<< og >>jubelråb<<. I lyset af Es 16,10 kan udtrykket her opfattes som et idiomatisk udtryk der betyder >>der er ingen råb/jubelråb<<. Men det kan også forstås som råbet om hjælp i nød, der nu erstatter jubelråb, jf. >>råb om hjælp<< i vers 34, der høres langt væk.}{H: Jer 48,4-5.20.31-32.38-39.}
 
 
 ==Moabs ødelæggelse==
 
 
-//12 v34 Der var råb om hjælp fra Heshbon helt til El’ale,{T: By i Moab.}{H: 4 Mos 32,4.37; Es 15,4; 16,9.} 
+//12 v34 Der var råb om hjælp fra Heshbon helt til El’ale,{H: 4 Mos 32,37. Es 15,4; 16,9.} 
 
-til Jahas{H: Jer 48,21.} løftede de deres røst, 
+helt til Jahas{H: Jer 48,21.} opløftede de deres røst, 
 
-//14 fra Soar{H: 1 Mos 13,10; 19,22-23.30; Es 15,5.} helt til Horonajim, 
+//14 fra Soar{H: 1 Mos 13,10; 19,22-23.30.} helt til Horonajim, 
 
 Eglat-Shelishija;{H: Es 15,5.} 
 
-//13 sandelig, selv Nimrims {H: Es 15,6; 4 Mos 32,36; Jos 13,27; 2 Kong 3,25.} vande 
+//13 for også Nimrims {H: Es 15,6. Jos 13,27.} vande 
 
-skal blive til ørken.
+skal blive til ørkner.
 
-//9 v35 Jeg udrydder fra Moab
+//9 v35 Jeg får den til at forsvinde fra Moab
 //12 - det er HERRENS udsagn -
 
-//11 den der bringer ofre op til en høj,{T: Ordret: >>bringer op høj<<. Teksten er lidt uklar. >>Høj<< har ingen præposition, og >>bringer op<< har intet objekt. De fleste oversættelser tilføjer >>ofre<<.}
-//12 og den der brænder røgelse{T: Eller >>ofrer røgelse<<, >>bringer røgoffer<<.} til sine guder.
+//11 der bringer ofre op til en høj{T: Ordret: >>bringer op høj<<. Teksten er lidt uklar. >>Høj<< har ingen præposition, og >>bringer op<< har intet objekt. De fleste oversættelser tilføjer >>ofre<<.}
+//12 og der brænder røgelse for sine guder.
 
 //10 v36 Derfor klager mit hjerte 
 
-ligesom fløjterne{T: Fløjter bruges almindeligvis til glæde.}{H: 1 Kong 1,40; Es 5,12; 30,29; Es 16,11.} over Moab, 
+ligesom fløjterne{H: 1 Kong 1,40. Es 5,12; 30,29.} over Moab, 
 
-//12 og mit hjerte klager ligesom fløjterne
+//12 ja, mit hjerte klager ligesom fløjterne
 
-over mændene i Kir-Heres.{T: Antages at være en hovedstad i det gamle Moab.}{H: Jer 48,31; Es 16,11; 2 Kong 3,25.}
+over mændene i Kir-Heres.{H: Jer 48,31. Es 16,11. 2 Kong 3,25.}
 
-//11 Derfor, resterne{E: Singularis.} af det man har lavet
-//12 - de er tabt!{E: Moabs rigdomme er tabt. Verbets flertalsform volder problemer. >>det er tabt<< foreslås. Verbet kan læses som en piel pluralis imperativ: >>ødelæg<<, befaling fra HERREN til fjenderne. Der sammenlignes med Es 15,7, der har lignende udsagn om Moab.} 
+//11 Derfor, forråd man har skaffet sig
+//12 - de er tabt!{E: Verbets flertalsform volder problemer. Verbet kan læses som en piel pluralis imperativ: >>ødelæg<<, befaling fra HERREN til fjenderne. Oversættelsen her følger Es 15,7, der har lignende udsagn om Moab.} 
 
-//2 v37 Ja, enhvers hoved er skaldet,{T: Udført pga. sorg.}
+//2 v37 Ja, enhvers hoved er skaldet,
 
 //5 og enhvers skæg er klippet af,
 
@@ -295,7 +294,7 @@ over mændene i Kir-Heres.{T: Antages at være en hovedstad i det gamle Moab.}{H
 
 og på hendes åbne pladser,
 
-overalt er der sørgeceremonier.
+overalt er der klage.
 
 //3 For jeg har slået Moab i stykker
 
@@ -305,15 +304,15 @@ overalt er der sørgeceremonier.
 
 //2 v39 Hvor er det rædselsvækkende!
 
-//4 Jamr!{T: Eller >>de skal jamre<<! Verbet læses her som en imperativ. Det kan læses som en profetisk perfektum og oversættes så med futurum. Oversættelserne vælger frit.}
+//4 Jamr!{T: Eller >>de skal jamre<<!} 
 
-//3 Hvor har Moab vendt ryggen{T: >>Til mig<< (HERREN) er underforstået.}{E: *hifnāʰ* >>vende<< og >>gå bort<< ligger også i verbet.}{H: Jer 2,27; 32,33.}
+//3 Hvor har Moab vendt ryggen{T: >>Til mig<< (HERREN) er underforstået.}{H: Jer 2,27; 32,33.}
 
 //5 og er blevet til skamme!
 
 //4 Moab skal blive til latter{H: Jer 48,27.} 
 
-og til rædsel for alle der bor{T: >>Der bor<< er tilføjet.} omkring ham.
+og til rædsel for alle omkring ham.
 
 //3 v40 For sådan siger HERREN:
 
@@ -321,7 +320,7 @@ og til rædsel for alle der bor{T: >>Der bor<< er tilføjet.} omkring ham.
 
 //6 og spreder sine vinger hen imod Moab.
 
-//4 v41 Byerne{E: *qqᵊriyyôt* er ikke byen >>Kerijot<< i Jer 48,24. *qqᵊriyyôt* >>byer<< har bestemt artikel parallelt med >>fæstningerne<< i efterfølgende verslinje, og begge verber er singularis.} er indtaget,
+//4 v41 Byerne{E: *haqᵊriyyôt* er ikke byen >>Kerijot<< i Jer 48,24. *qᵊriyyôt* >>byer<< har bestemt artikel parallelt med >>fæstningerne<< i efterfølgende verslinje.} er indtaget,
 
 //6 og fæstningerne er erobret.
 
@@ -329,58 +328,59 @@ og til rædsel for alle der bor{T: >>Der bor<< er tilføjet.} omkring ham.
 
 på den dag være 
 
-som hjertet hos en fødende kvinde.{H: Jer 49,22; 6,24.}
+som hjertet hos en kvinde der er i svær fødsel.{H: Jer 6,24; 49,22.}
 
 //6 v42 Moab skal udslettes fra at være et folk,
 
-//7 for han har ophøjet sig over HERREN.{H: Sef 2,10.}
+//7 for det har ophøjet sig over HERREN.{H: Sef 2,8-10.}
 
-//3 v43 Gru, grube og garn{H: Es 24,17.}{E: Ordret: >>fælde<<. I den hebraiske tekst er der et fint ordspil: *paḥad* *faḥat* *fāḥ* - hvor lydene ligner hinanden.} skal komme{T: >>Skal komme<< er tilføjet.} over dig,
+//3 v43 Gru, grube og garn{H: Es 24,17.}{E: I den hebraiske tekst er der et fint ordspil lydmæssigt: *paḥad* *faḥat* *fāḥ* - og desuden begynder alle tre ord med den samme konsonant *pe*.} skal komme over dig,
 
-//4 du der bor trygt{T: Se note til Jer 48,18.} i Moab!
+//4 du der bor trygt,{T: Se note til Jer 48,18.} Moab!
 
 //5 – det er HERRENS udsagn.
 
-//4 v44 Den der flygter fra gru,{T: Eller >>rædsel<<.}
+//4 v44 Den der flygter fra gru,
 
-//3 vil falde i gruben,{T: Eller >>graven<<.}
+//3 vil falde i gruben,
 
 //5 og
-//7 den der stiger op af gruben,
+//7 den der kommer ud af gruben,
  
-//6 vil blive fanget i fælden.
+//6 vil blive fanget i garnet.
 
-//4 For jeg bringer over hende, over Moab
+//4 For jeg bringer over hende, over Moab,
 
-året for deres hjemsøgelse 
+året for deres hjemsøgelse
 
 //5 – det er HERRENS udsagn.
 
 //3 v45 I skyggen af Heshbon bliver de stående,
 
-//5 de som helt udmattet flygter, 
+//5 de som kraftesløse flygter, 
 
-//4 for ild fór{E: Verbet er maskulinum her til >>ild<<, der oftest er femininum, men maskulinum kan forekomme f. eks i Sl 104,4.} ud fra Heshbon{H: 4 Mos 21,28.}
+//4 for ild er faret ud fra Heshbon{H: 4 Mos 21,26-28.}
 
-//6 og en flamme inde fra{E: *mibbên* >>fra imellem<<, dvs. inde fra byen.} Sihon,{T: Dvs. amoritternes konge Sihons by. Hovedstaden var Heshbon.}
+//6 og en flamme inde fra Sihon,
 
-//5 og den har fortæret Moabs tindinger{H: 4 Mos 24,17; Jer 9,25; 25,23; 49,32.}
+//5 og den fortærede Moabs tindinger{H: 4 Mos 24,17.}
 
-og issen på de højrøstede sønner.
+og issen på de brølende sønner.
 
-//3 v46 Ve dig
+//3 v46 Ve dig,
 //7 Moab!
 
-//6 Gået til grunde er Kemosh’ folk,
+//6 Kemosh’ folk er gået til grunde,{H: 1 Kong 11,33.}
 
-//5 for dine sønner er taget til fange, 
+//5 for dine sønner er blevet taget til fange, 
 
-//6 og dine døtre er i fangenskab.{H: 4 Mos 21,29.}{E: Vers 46-47 rummer et overflødighedshorn af ordspil med små variationer: *ššivyāʰ* >>fangenskab<<, *šševî* >>til fange<< og *šᵊvût* >>fangenskab/livssituation<<.} 
+//6 og dine døtre er i fangenskab.{H: 4 Mos 21,29.}{E: Vers 46-47 rummer et overflødighedshorn af ordspil med små variationer: *šivyāʰ* >>fangenskab<<, *ševî* >>til fange/fanger<< og *šᵊvût* >>fangenskab/livssituation<<.} 
 
-//4 v47 Men jeg vil i de sidste dage{T: Eller >>ved tidernes ende<<. Ordret: >>ved dagenes ende<<.}{H: Jer 23,20; 30,24; 49,39.} 
+//4 v47 Men ved dagenes ende{H: Jer 23,20; 49,39.} 
 
-vende Moabs situation 
+vender jeg Moabs livssituation{T: Eller >>fangenskab<<.}{H: Jer 29,14; 31,23.} 
 
 //5 – det er HERRENS udsagn.<<
 
-//3 Så langt som hertil er dommen over Moab. 
+//3 Hertil går dommen over Moab. 
+

@@ -1,6 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
 !!<Redigering: Trine Tøndering og Jørgen Bækgaard Thomsen>!!
-!!<Dato for denne version: 17.09.2025>!!
+!!<Dato for denne version: 02.09.2026>!!
+
 
 ===Jeremias' Bog, kapitel 2===
 
@@ -16,9 +17,9 @@
  
 //6 Sådan siger HERREN:{T: Dette idiomatiske udtryk anvendes hyppigt af Jeremias som en understregning af at det er HERRENS ord han taler. Sml. Jer 1,8.}
 
-//7 Jeg husker dig{T: Femininum. Her i vers 2 omtales Israel med femininum, men i vers 3 med maskulinum. Denne vekslen mellem >>han<< og >>hun<< om Israel forekommer gennem hele Jeremias’ bog.} for din ungdoms hengivenhed{N: Nåde.}
+//7 Jeg husker dig{T: Her i vers 2 omtales Israel med femininum, men i vers 3 med maskulinum. Denne vekslen mellem >>han<< og >>hun<< om Israel forekommer gennem hele Jeremias’ bog.} for din ungdoms hengivenhed{N: Nåde.}
 
-og din trolovelsestids kærlighed,
+og din trolovelsestids{H: Matt 1,18-19.} kærlighed,
 
 //9 hvordan du fulgte mig i ørkenen i et land 
 
@@ -70,7 +71,7 @@ i et land
 
 //18 og hvor intet menneske har boet?<
 
-//12 v7 Jeg bragte jer til frugthavens land,
+//12 v7 Jeg bragte jer til frugthavens land
 
 //14 for at I skulle spise af dets frugt og dets goder. 
 
@@ -97,7 +98,7 @@ i et land
 
 //12 - det er HERRENS udsagn -
 
-//13 og mod jeres børnebørn må jeg rejse anklage.
+//13 og mod jeres sønners sønner{T: Hebraisk har ikke et ord for >>børnebørn<<. I nogle sammenhænge drejer det sig helt klart om mandkøn, i andre er det ikke så éntydigt.} må jeg rejse anklage.
 
 ***
 
@@ -118,7 +119,7 @@ i et land
 
 //15 med det som er til ingen nytte.
 
-//11 v12 Gys 
+//11 v12 Gys, 
 //15 I himle,{H: 5 Mos 32,1. Es 1,2.}{E: Et ordspil hvor >>gys<< (*šōmmû*) og >>himle<< (*šāmayim*) på hebraisk lydmæssigt ligner hinanden.}
 //14 over dette,
 
@@ -133,27 +134,27 @@ i et land
 
  //15 for at hugge sig cisterner, revnede cisterner, 
 
-//16 som ikke kan holde vandet.
+//16 som ikke kan holde vand.
 
 
 ==HERREN vil straffe Israels synd==
 
 
-//9 v14 Er Israel en slave,{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 39,10 HERRENS tjener og ligeledes Nebukadnezar i Jer 43,10.} 
+//9 v14 Er Israel en slave?{N: Slave}{T: Ordret: >>tjener<<. Israel (Jakob) kaldes i Jer 39,10 HERRENS tjener og ligeledes Nebukadnezar i Jer 43,10.} 
 
-//16 eller er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
+//16 Er han en hjemmefødt slave?{T: Dvs. født til slaveri.} 
 
-//12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: et >>spørgsmål<<, et >>eller<< og et >>hvorfor<< finder vi gentagne gange i Jeremias’ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 2,31; 8,4-5.19.22.}
+//12 Hvorfor er han blevet til rov?{E: Denne sætningskonstruktion i vers 14: to >>spørgsmål<< og et >>hvorfor<< finder vi gentagne gange i Jeremias’ bog, også kaldet Jeremias’ underskrift, f.eks. i Jer 2,31; 8,4-5.19.22.}
 
 //13 v15 Unge løver brøler mod ham, 
 
 //15 de lod deres røst høre. 
 
-//16 De gjorde hans land til rædsel, 
+//16 De lagde hans land øde, 
 
-//17 hans byer er brændt ned,{E: MT har fravalgt vokalisering af verbet, der derfor enten kan læses som afledt af verbet *yṣt* (>>brænde<<) eller af verbet *nṣh* (>>blive lagt øde<<).} så ingen bor i dem.
+//17 hans byer er brændt ned,{E: MT har fravalgt vokalisering af verbet, der enten kan læses som afledt af verbet *yṣt* (>>brænde<<) eller af verbet *nṣh* (>>blive lagt øde<<).} så ingen bor i dem.
 
-//14 v16 Også Nofs og Takpankes{T: Byer i Egypten.} sønner 
+//14 v16 Også Nofs og Takpankes’{T: Byer i Egypten.} sønner 
 
 gør din isse skaldet.{T: Eller >>gjorde<<. Reaktion på sorg. Det er uklart om det er en profeti (fremtid) eller om det refererer til fortiden.}
 
@@ -201,7 +202,7 @@ den tid
 //13 men du sagde: 
 //15 >Jeg vil ikke være slave!< 
 
-//14 For på enhver høj der var ophøjet, 
+//14 For på enhver høj, der var ophøjet, 
 
 og under ethvert grønt træ 
 
@@ -218,7 +219,7 @@ giver du dig selv hen
 
 til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 
-//12 v22 Selvom du så vasker dig med lud, 
+//12 v22 Selv om du så vasker dig med lud, 
 
 //14 og du bruger meget sæbe på dig selv, 
 
@@ -265,7 +266,7 @@ til vilde ranker af et fremmed vintræ?{H: 5 Mos 32,32-33.}
 //11 v26 Ligesom en tyv bliver til skamme 
 //13 når han opdages, 
 
-//12 sådan bliver Israels hus gjort til skamme, 
+//12 sådan bliver Israels hus gjort til skamme,{E: *hōvîšû* er en hifil af *bōš* (>>blive til skamme<<). Denne intensive form anvendes oftes i Jeremias’ bog. Kan også oversættes >>bliver virkelig til skamme<<.} 
 
 de, deres konger, deres ledere 
 
@@ -283,7 +284,7 @@ og deres præster og deres profeter,
 
 //15 Men i deres ulykkes tid siger de: 
 
-//16>Stå op 
+//16 >Stå op 
 //17 og frels os!<
 
 //13 v28 Hvor er dine guder 
@@ -310,7 +311,7 @@ er dine guder,{H: Jer 11,12-13.}
 
 //15 Det er HERRENS udsagn.
 
-//14 v30 Forgæves slog jeg jeres børn. 
+//14 v30 Forgæves slog jeg jeres sønner. 
 
 //15 De tog ikke imod tugt. 
 
@@ -362,7 +363,7 @@ de fattige, uskyldige sjæles blod.
 
 //16 Endog hans vrede har vendt sig fra mig!< 
 
-//11 Se, jeg vil gå i rette med dig, 
+//11 Se, jeg går i rette med dig, 
 
 //12 fordi du siger: 
 //13 >Jeg har ikke syndet!<
