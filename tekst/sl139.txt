@@ -1,121 +1,152 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
 !!<Eksegetisk bearbejdning: Lydia Nørrelykke Gad>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 22.05.2023>!!
+!!<Redaktion: Nicolai Winther-Nielsen og Trine Tøndering>!!
+!!<Dato for denne version: 04.09.2026>!!
 
-===Salme 139===
+ ===Salme 139===
+ ==Overskrift==
+//0 v1 Til korlederen.{H: Sl 4,1}
 
-==Overskrift==
-v1 Til korlederen.{E: Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder >>dirigere<<}
+//2 Af David. 
+//1 En salme.
 
-Af David. En salme.
+ ==HERREN er alvidende==
+//0 HERRE, 
+//3 du har udforsket mig 
+//5 og kender mig.
 
-==HERREN er alvidende{E: Verberne i v. 1-5 står i qatal og wayyiqtol, der normalt angiver fortid. Her angiver versene det som har været gældende indtil det aktuelle øjeblik, og som salmisten derfor ved, stadig gælder. Qatal/wayyiqtol understreger at det ikke drejer sig om teoretiske overvejelser.}==
-HERRE, du ransager{T: Kan også oversættes >>har ransaget mig<<.} mig og kender mig.
+//4 v2 Du ved 
+//7 om jeg sidder  
+//8 eller står,
 
-v2 Du ved om jeg sidder eller står,
+//6 du kender min tanke på lang afstand.
 
-du kender min tanke på lang afstand.
+//8 v3 Er jeg på tur 
+//9 eller hviler ud, 
+//7 har du registreret det,
 
-v3 Du har rede på{T: Ordret >>udmåler<< eller >>undersøger nøje<<.} om jeg går eller ligger,{T: Ordret: >>min gåen og min liggen ned<<.}
+//10 og alle mine veje er du fortrolig med.
 
-og alle mine veje er du fortrolig med.
+//9 v4 For der er ikke et ord på min tunge
 
-v4 For der er ikke et ord på min tunge
+//10 før du, 
+//12 HERRE, 
+//11 fuldt ud har kendskab til det.
 
-uden at{T: Ordret: >>se<<.} du, HERRE, kender det fuldt ud.
+//8 v5 Bagfra og forfra omslutter du mig,
 
-v5 Bagfra og forfra omslutter du mig,
+//9 du lægger din hånd på mig.
 
-du lægger din hånd på mig.
+//5 v6 Det er for vidunderligt til at jeg forstår det,
 
-v6 Det er for vidunderligt til at jeg forstår det,
+//7 det er så højt 
+//6 at jeg ikke magter det.
 
-det er så højt at jeg ikke kan fatte det.
+ ==Gud er allestedsnærværende==
 
-==Gud er allestedsnærværende==
-v7 Hvor skulle jeg gå hen fra din Ånd?
+//2 v7 Hvor skulle jeg gå hen fra din Ånd?
 
-Og hvor skulle jeg flygte hen fra dit ansigt?
+//7 Og hvor skulle jeg flygte hen fra dig{N: Ansigt}?
 
-v8 Hvis jeg stiger op til himlen, så er du dér,
+//6 v8 Hvis jeg stiger op til himlen, 
+//9 så er du dér,
 
-og reder jeg seng i dødsriget,{T: Ordret: >>gør jeg dødsriget til min seng<<.} se, så er du dér!
+//8 og skaffer jeg mig en seng i dødsriget,{N: Sheol} 
+//9 se, så er du dér!
 
-v9 Ville jeg tage morgenrødens vinger,
+//7 v9 Ville jeg tage morgenrødens vinger,
 
-slå mig ned ved havets ende,{T: Angiver det fjerneste vesten.}
+//7 slå mig ned ved havets ende,{T: Angiver det fjerneste vesten.}
 
-v10 så ville din hånd også lede mig{E: Nogle oversættere vælger at følge bl.a. Septuaginta, der i stedet for: *tanḥēnî* (>>lede mig<<) forudsætter: *tiqqāḥēnî*: >>gribe mig<<.} dér,
+//9 v10 så ville din hånd også lede mig{E: LXX forudsætter *tiqqāḥēnî* (>>gribe mig<<).} dér,
 
-og din højre hånd holde mig fast.
+//10 og din højre hånd holde mig fast.
 
-v11 Og ville jeg sige: >>Sandelig, mørke skal dække{E: Betydningen af grundtekstens sjældne verbum *šwp* er usikker. Oftest foreslås: >>snappe efter<< eller >>knuse<< (i den sidste betydning er det anvendt i 1 Mos 3,15). Men de passer dårligt i sammenhængen. Medmindre *šwp* kan betyde: >>dække<<, retter man som regel til verbet: *śkk*: >>dække<< (*yᵊśûkkēnî*).} mig
+//8 v11 Og ville jeg sige: 
+//10 >>I sandhed, mørke skal dække mig{E: Af hensyn til konteksten rettes verbet *šwp* (>>snappe efter<< eller >>knuse<<) til *yᵊśûkkēnî* fra verbet *śkk* (>>dække<<).}
 
-og lys omkring mig blive til nat,<<
+//11 og lys omkring mig blive til nat,<<
 
-v12 så ville mørke ikke være mørke for dig,
+//9 v12 så ville heller ikke mørket være mørke for dig,
 
-men nat være lys som dagen,
+//11 men natten lyse som dagen,
 
-mørket er for dig som lyset.
+//10 mørket være for dig som lyset.
 
-== Gud er den almægtige skaber==
-v13 Ja, det var dig der dannede mine nyrer,
+ == Gud er den almægtige skaber==
+//5 v13 Ja, det var dig der dannede mine nyrer,
 
-du vævede mig i min mors liv.
+//6 du vævede mig i min mors liv.
 
-v14 Jeg vil takke dig fordi jeg er så forbavsende{E: *nôrāʔôt* (>>forbavsende<<) betyder normalt: >>forfærdende<<. Mange oversættere udelader det, men det skal formodentlig forstærke det følgende: >>vidunderligt skabt<<.} vidunderligt skabt,{T: Ordret blot: >>er vidunderlig<<. Men i sammenhængen er der tale om skabelsen.}
+//4 v14 Jeg vil takke dig 
+//9 fordi jeg er så overvældende vidunderlig skabt,{E: *nôrāʔôt* (>>forfærdende<<) er her brugt til forstærkning af verbet >>jeg er blevet vidunderlig<<, og verbet >>skabt<< er tilføjet.}
 
-vidunderlige er dine gerninger,
+//8 vidunderlige er dine gerninger,
 
-og min sjæl ved det fuldt ud.
+//9 og jeg selv{N: Sjæl} ved det fuldt ud.
 
-v15 Mine knogler{T: Grundteksten har singularis. Det må opfattes kollektivt eller måske som understregning af at det gælder hver eneste knogle.} var ikke skjult for dig
+//7 v15 Mine knogler var ikke skjult for dig
 
-da jeg blev dannet i det skjulte,
+//9 da jeg blev dannet i det skjulte,
 
-blev formet i jordens dybder.{T: Dvs. i moderlivet.}
+//10 blev formet fra den dybe jord{T: Ordret >>i jordens dybder<< som en poetisk henvisning til Adams skabelse i 1 Mos 2,7.}
 
-v16 Da jeg var foster, så dine øjne mig,{T: Ordret blot: >>Dine øjne så mit foster<<.}
+//8 v16 Da jeg var foster, så dine øjne mig,
 
-og i din bog var de alle skrevet,
+//9 og i din bog var de alle skrevet,
 
-dagene var fastsatte,
+//11 dagene 
+//12 var fastsatte,
 
-da endnu ikke én blandt dem var kommet.{E: Oversættelsen af denne linje er usikker. Ordret blot: >>og ikke én blandt dem<<. Undertiden forstås det som udtryk for at >>ikke én blandt dem mangler<<. Der er foreslået forskellige tekstrettelser, men der er ingen afvigelser i håndskrifterne.}
+//10 hver eneste uden undtagelse.{T: Ordret >>og ikke én blandt dem<<.}
 
-v17 Og hvad mig angår - hvor vanskelige at fatte{T: Andre oversætter: >>dyrebare<<.} er dine tanker, Gud,
+//6 v17 Og 
+//10 for mit vedkommende, 
+//9 hvor vanskelige at fatte{T: Kan også oversættes >>dyrebare<<.} er dine tanker, 
+//10 Gud,
 
-hvor mægtig er dog deres sum!
+//8 hvor mægtig er dog deres sum!	
 
-v18 Vil jeg tælle dem, er de flere end sand,
+//7 v18 Vil jeg tælle dem, 
+//8 er de flere end sand,
 
-vågner jeg,{E: Mange oversættere følger et forslag om at ændre vokaliseringen af: *hᵉqîṣōtî* (>>vågnede jeg<<) til: *hᵃqîṣṣōtî*: >>blev jeg færdig<<.} er jeg stadig hos dig. 
+//5 vågner jeg,{E: Verbet kan omvokaliseres til *hᵃqîṣṣōtî* (>>blev jeg færdig<<).} 
+//6 er jeg stadig hos dig. 
 
-==Bøn om hjælp mod onde mennesker==
-v19 Gid du, Gud, ville dræbe den ugudelige,{T: Kan også oversættes >>synderen<<.}
+ ==Bøn om hjælp mod onde mennesker==
 
-og I drabsmænd,{T: Ordret: >>blodets mænd<<. Det kan formodentlig dække over både mordere, hævntørstige og blodtørstige mennesker.} vig fra mig!
+//3 v19 Gid du ville dræbe, 
+//8 Gud, 
+//7 den ugudelige,
 
-v20 De som taler om dig med ond hensigt,
+//6 og I drabsmænd,{T: Ordret >>blodets mænd<<. Det kan også bruges om hævngerrige og blodtørstige mennesker.} 
+//7 vig fra mig!
 
-bruger dit navn til falskhed, dine fjender,{E: Linjen er sprogligt og tekstmæssig vanskelig. Verbet: *nāśu* er participium passiv (egentlig: >>løftet/rejst<<). Det skal formodentlig – med støtte i bl.a. Septuaginta – læses som: *nāśᵊʔu*: >>rejser/løfter/bruger<<. Andre oversætter: >>og som fór/farer med løgn imod dig<<.
-Sætningens sidste ord er: *ʕāreʸxā*: >>(imod) dine byer<<. I sammenhængen virker det meget lidt oplagt – om end måske ikke helt umuligt. Som regel går man ud fra at *ʕāreʸxā* (>>dine byer<<) ikke er afledt af singularis: *ʕîr* (>>by<<), men af: *ʕār*, som er en aramaisk form for: *ṣār*: >>fjende<<. Andre foreslår, at der skulle stå: *ʕāleʸxā*: >>imod dig<< (som forgæves har rejst sig mod dig). Oversættelsen er omstridt og usikker.}
+//5 v20 De som taler om dig med onde planer,
 
-v21 skulle jeg ikke hade dem som hader dig, HERRE,
+//6 bruger dit navn til falskhed, dine fjender,{E: Verbet *nāśu* i participium passiv læses med LXX som *nāśᵊʔu*: >>rejser/løfter/bruger<<. Ordet *ʕāreʸxā* er ikke >>dine byer<<, men skal afledes af aramæisk *ʕār* (fjende).}
+	
+//4 v21 dem som hader dig, 
+//8 HERRE, 
+//7 skulle jeg ikke hade
 
-og væmmes ved dem som rejser sig mod dig?
+//6 og væmmes ved dem som rejser sig mod dig?
 
-v22 Med fuldendt had hader jeg dem,
+//5 v22 Med fuldendt had hader jeg dem,
 
-de er blevet mine fjender.
+//6 de er blevet mine fjender.
 
-==Skriftemålsbøn==
-v23 Ransag mig, Gud, og kend mit hjerte,
+ ==Skriftemålsbøn==
+//1 v23 Udforsk mig, 
+//3 Gud, 
+//2 og kend mit hjerte,
 
-prøv mig, og kend mine tanker!
+//1 prøv mig, 
+//2 og kend mine urovækkende tanker!
 
-v24 Og se om jeg er på afgudsvej,{E: Ordret: >>om der er en afgudsvej hos mig<<. Ordet: *ʕōṣev* (>>afgud<<) kan dog også betyde: >>smerte<< (>>og se, om jeg er på smertens vej<<). Der kan være tænkt på en vej til straf eller fortabelse, eller på en smertende syndsbekendelse og helliggørelse.}
+//2 v24 Og se 
+//4 om der er en afguds{E: Ordet *ʕōṣev* (>>afgud<<) kan også betyde >>smerte<<.} vej i mig,
 
-og led mig på evigheds vej!
+//3 og led mig på evigheds vej!
+
+
