@@ -268,6 +268,7 @@ $style['sl'][ 27] = $modenhed['med indrykning'];
 $style['sl'][ 30] = $modenhed['med indrykning'];
 $style['sl'][ 31] = $modenhed['med indrykning'];
 $style['sl'][ 39] = $modenhed['med indrykning'];
+$style['sl'][ 40] = $modenhed['med indrykning'];
 $style['sl'][ 46] = $modenhed['med indrykning'];
 $style['sl'][ 73] = $modenhed['med indrykning'];
 $style['sl'][ 90] = $modenhed['med indrykning'];
