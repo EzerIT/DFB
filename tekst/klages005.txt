@@ -1,6 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 24.10.2025>!!
+!!<Dato for denne version: 08.10.2026>!!
 
 ===Klagesangene, Kapitel 5===
 
@@ -24,13 +25,13 @@
 
 //7 vores mødre er som enker.
 
-//6 v4 Vandet vi drikker, køber vi for penge,
+//6 v4 Vores vand har vi drukket for penge,
 
-//8 vores træ får vi mod betaling.
+//8 vores træ får vi{T: Ordret: >>Vores træer kommer<<.} mod betaling.
 
-//7 v5 Vi forfølges, de står på{E: Nogle foreslår præpositionen *ʕal* (>>på<<) ændret til *ʕōl* (>>åg<<). Symmakus oversætter >>et åg på vores nakke, vi er forfulgt<<.} nakken af os,
+//7 v5 Vi er forfulgte, de står på{E: Nogle foreslår præpositionen *ʕal* (>>på<<) ændret til *ʕōl* (>>åg<<). Symm. oversætter >>et åg på vores nakke, vi er forfulgt<<.} nakken af os,
 
-//9 vi er udmattet; 
+//9 vi er udmattede; 
 //10 der gives os ingen hvile.
 
 //8 v6 Til Egypten har vi givet hånd, 
@@ -41,7 +42,7 @@
 //4 v7 Vores fædre syndede;
 //7 de er ikke mere,
 
-//6 vi, vi bærer deres skyld.
+//6 men vi har båret deres skyld.{T: Sml. Klages 5,16.}
 
 //5 v8 Slaver hersker over os,
 
@@ -53,27 +54,27 @@ på grund af ørkenens sværd.
 
 //8 v10 Vores hud er ophedet{T: Eller >>rynket<<.} som ved en ovn
 
-på grund af hungersnødens feberanfald.{H: Klages 4,7-8.} 
+på grund af hungersnødens gløder.{H: Klages 4,7-8.} 
 
 //6 v11 Kvinder har de voldtaget i Zion,
 
 //8 jomfruer i Judas byer.
 
-//7 v12 Ledere er hængt op i deres hænder,
+//7 v12 Ledere er blevet hængt op i deres hænder,
 
-//9 de ældste bliver ikke æret.
+//9 ældste er ikke blevet æret.
 
-//8 v13 Udvalgte unge mænd{H: Klages 1,15.} må trække kværnen,{E: Ordret: >>må bære håndmøllen/kværnen<<. *ṭᵊḥôn* (>>håndmølle<<) findes kun her, og oversættelsen er usikker.}
+//8 v13 Unge mænd{H: Klag 1,15.} har måttet trække håndkværnen,
 
-//10 og unge segner under byrden af træ.
+//10 og unge er segnet under byrden af træ.
 
-//9 v14 Ældste sidder ikke længere i porten,
+//9 v14 Ældste er holdt op med at sidde i porten,
 
-//10 udvalgte unge mænd er hørt op med deres strengespil.
+//10 unge mænd er holdt op med deres strengespil.
 
-//3 v15 Vores hjertes glæde er hørt op,
+//3 v15 Vores hjertes glæde er holdt op,
 
-//5 vores ringdans er forvandlet til sorg.
+//5 vores ringdans er forvandlet til klage.
 
 //4 v16 Faldet er vores hoveds krone.{H: Klages 4,20.}
 
@@ -85,7 +86,7 @@ på grund af hungersnødens feberanfald.{H: Klages 4,7-8.}
 //6 over disse ting er vores øjne formørket.{H: Klages 1,16.}
 
 //7 v18 Fordi Zions bjerg
-//8 er lagt øde,{H: Klages 1,4.}
+//8 er øde,{H: Klages 1,4.}
 
 //9 strejfer sjakaler{T: Eller >>ræve<<.} omkring på det.
 
@@ -97,17 +98,18 @@ på grund af hungersnødens feberanfald.{H: Klages 4,7-8.}
 
 //4 din trone er fra slægt til slægt.
 
-//3 v20 Hvorfor vil du glemme os for altid,
+//3 v20 Hvorfor vil du glemme os for altid, 
 
-//4 forlade os hele livet?
+//4 forlade os for evigt? 
+
 
 //2 v21 Omvend os,{T: Eller >>bring os tilbage<<.}
 //6 HERRE,
 //5 til dig,
-//4 så vil vi vende om!{H: Jer 31,18.}
+//4 så vi vender om!{H: Jer 31,18.}
 
-//3 Forny vores dage så de bliver som tidligere!
+//3 Forny vores dage så de bliver som i gamle dage!
 
-//4 v22 Selvom du fuldstændigt havde forkastet os
+//4 v22 Selvom{E: Oversættelsen af vers 22 er omdiskuteret. Både LXX og Syr. undlader helt at oversætte *ʔim* (>>hvis<< når det står alene) og oversætter >>for du har fuldstændig forkastet os<<. I Klages 3,32 optræder samme dobbelte partikel *kî ʔim* (>>selvom<<) som her, og i lyset af at LXX og Syr. udelader *ʔim*, sammenholdt med løfterne i Klag 3,22-23.32 og 4,22, vælges den vanskeligere læsning som den originale, altså >>selvom<<.} du fuldstændigt havde forkastet os
 
-//5 og havde været særdeles vred på os.{E: Oversættelsen af vers 22 er omdiskuteret. Mange oversætter det som en hypotese eller et spørgsmål. Men LXX eller Syr. undlader helt at oversætte *ʔim*, der betyder >>hvis<< når det står alene, og oversætter >>for du har fuldstændig forkastet os<<. Dertil kommer at i Klages 3,32 optræder samme dobbelte partikel *kî ʔim* (>>selvom<<) som her, og dette, sammenholdt med løfterne i Klages 3,22-23.32 og 4,22, medfører at den vanskeligere læsning må vælges som den originale.}{H: 3 Mos 26,14-16.18.21.40-45. Jer 31,37; 33,26. Es 57,14-21.}
+//5 og havde været særdeles vred på os.{H: 3 Mos 26,14-16.18.21.40-45. Jer 31,37; 33,26. Es 57,14-21.}

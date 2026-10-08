@@ -1,6 +1,7 @@
 !!<Oversættelse: Lydia Nørrelykke Gad>!!
+!!<Eksegetisk bearbejdning: Jørgen Bækgaard Thomsen>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 24.10.2025>!!
+!!<Dato for denne version: 08.10.2026>!!
 
 ===Klagesangene, Kapitel 4===
 
@@ -8,11 +9,11 @@
 ==Zion er straffet==
 
 
-//0 v1 Hvor er guldet blevet formørket,
+//0 v1 Hvor er guldet formørket,
 
-//5 det fine guld forandret!{E: Flere oversættelser ændrer vokaliseringen af *yûʕam* (>>blevet mørk<<) til *yûʕav* (>>gjort mørk<<, >>foragtet<<) og *yišneˀ* (>>være forandret<<) til *yiśāneˀ* (>>være hadet/forkastet<<).}
+//5 det fine guld forandret!
 
-//4 Hellige sten{T: Der er uvished om hvilke sten der henvises til.} er smidt ud 
+//4 Hellige sten smides ud 
 
 på hvert gadehjørne!{H: Klages 2,19.}
 
@@ -32,7 +33,7 @@ en pottemagers hænders værk!
 
 //6 de ammer deres unger;
 
-//5 men mit folks datter er grusom
+//5 mit folks datter er grusom
 
 som strudse i ørkenen.
 
@@ -50,11 +51,11 @@ til ganen af tørst,
 
 //4 v5 De som ellers spiste lækkerier,
 
-//3 omkom på gaderne.
+//3 ligger forkomne{T: Eller >>skrækslagne<<.} på gaderne.
 
-//4 De der plejede at blive opfostret{T: Eller >> båret<<.} på karmoisin,{T: Dvs. dyre stoffer med denne farve.}{H: Es 1,18.}
+//4 De der plejede at blive opfostret på karmoisin,{H: Es 1,18.}
 
-//3 omfavnede møgbunker.
+//3 omfavner møgbunker.
 
 ***
 
@@ -62,27 +63,27 @@ til ganen af tørst,
 
 end synden i Sodoma,
 
-//6 der blev styrtet på et øjeblik,
+//6 der blev omstyrtet på et øjeblik,
 
-//7 og uden at nogen løftede hænder mod den.
+//7 og uden at nogen løftede hænderne mod den.
 
 ***
 
-//5 v7 Hendes{T: Mit folks datter.} nasiræere{T: Jf. 4 Mos 6,1-8. Mange oversætter ordet med >>fyrste<< ud fra sammenhængen.} var renere end sne,
+//5 v7 Hendes nasiræere{H: 4 Mos 6,1-8.}{T: I lyset af 1 Mos 49,26 og 5 Mos 33,16 oversætter mange ordet her med >>fyrster/udvalgte<<. >>Nasiræere<< er valgt her af hensyn til sammenhængen.} var renere end sne,
 
-//8 hvidere end mælk;
+//8 de var hvidere end mælk;
 
-//8 de selv{T: Eller >>deres krop<<, ordret: >>knogle<<.} var rødere end koraller,
+//8 deres kroppe var rødere end koraller,{T: Tegn på sundhed.}
 
 //9 som safir var deres skikkelse.
 
 ***
 
-//7 v8 Mørkere end sod{T: Eller >>det sorte<<, findes kun her, og oversættelsen er usikker.} er nu deres udseende,
+//7 v8 Mørkere end sod er deres udseende,
 
-//8 de bliver ikke genkendt i gaderne,
+//8 de bliver ikke genkendt i gaderne.
 
-//7 deres hud er skrumpet ind på deres knogler,
+//7 Deres hud er skrumpet ind på deres knogler,
 
 //8 den er tørret ind ligesom træ.
 
@@ -90,17 +91,17 @@ end synden i Sodoma,
 
 //6 v9 De der blev stukket ned med sværd, havde det bedre  
 
-end dem der blev slået ned af hungersnød, 
+end dem der bliver slået ned af hungersnød; 
 
-//8 dem som sygner hen,
+//8 de som sygner hen,
 
-//9 gennemboret af mangel på markens afgrøder.
+//9 gennembores af mangel på markens afgrøder.
 
 ***
 
 //7 v10 Medlidende kvinder 
 
-kogte selv deres børn;
+kogte egenhændigt deres børn;{H: Jer 19,9.}
 
 //8 de var til føde for dem 
 
@@ -130,9 +131,9 @@ gennem Jerusalems porte.
 
 ***
 
-//3 v13 Det skete på grund af hendes profeters synder,
+//3 v13 Det er på grund af hendes profeters synder,
 
-hendes præsters ugerninger,
+hendes præsters ugerninger;
 
 //5 de som udgyder retfærdiges blod
 
@@ -140,9 +141,9 @@ i hendes midte.
 
 ***
 
-//4 v14 De vakler som blinde omkring i gaderne,
+//4 v14 De vakler blinde omkring i gaderne,
 
-//9 besmittet med blodet
+//9 er besmittet med blodet
 
 //9 så man ikke kan 
 
@@ -152,16 +153,16 @@ i hendes midte.
 
 //7 v15 >>Gå til side,
 //8 en uren!<<
-//6 råber man til dem.
+//6 råbte man til dem.
 
 //8 >>Gå til side!
 //8 Gå til side!
-//9 Rør dem ikke!<<
+//9 Rør ikke!<<
 
-//7 Ja, de flygter,{E: *nāṣû* (>>flygte<<) findes kun her, og betydningen af ordet er usikker. Det er uklart om verbets rod er *nṣh* (>>flygte<<) eller *nwṣ* (>>være ødelagt<<). Nogle ændrer verbet til *nādû* >>vandre<<.}
-//8 de flakker endog omkring.
+//7 Da de flygtede{E: *nāṣû* (>>flygte<<) findes kun her i GT, og betydningen af ordet er usikker. Det er uklart om verbets rod er *nṣh* (>>flygte<<) eller *nwṣ* (>>være ødelagt<<). Nogle ændrer verbet til *nādû* >>vandre<<.}
+//8 og også flakkede omkring,
 
-//6 Man siger blandt folkeslagene:
+//6 sagde man blandt folkeslagene:
 
 //7 >>De må ikke længere 
 //8 bo som fremmede!<<
@@ -173,7 +174,7 @@ i hendes midte.
 //7 han ser ikke længere{T: Parallellen med >>må ikke længere bo<< i forudgående vers danner et ordspil der forstærker udtrykket.} ned til dem.
 //8
 
-//6 Præster{T: Ordret: >>præsters ansigt<<, står parallelt med >>HERRENS ansigt<< i verset.} viste de ikke respekt,
+//6 Præster viste de ikke respekt,{T: Ordret >>Præsternes ansigt løftede de ikke<<.}
 
 //7 ældste viste de ingen nåde.
 
@@ -196,10 +197,10 @@ forgæves at se efter vores hjælp.
 
 //6 så vi ikke kunne gå på vores åbne pladser.
 
-//5 Vores ende var nær,
-//7 vores dages tal var fuldt,
+//5 Vores ende er nær,
+//7 vores dages tal er fuldt,
 
-//6 for vores ende var kommet.
+//6 ja, vores ende er kommet.
 
 ***
 
@@ -213,7 +214,7 @@ end himlens ørne.
 
 ***
 
-//5 v20 Vores livsånde,{T: Ordret: >>vores næses ånd<<.} HERRENS salvede,{T:  Kongen, Sidkija.}{H: 2 Kong 25,1-55. Jer 39,4-7.}
+//5 v20 Vores livsånde, HERRENS salvede,{H: 2 Kong 25,1-7. Jer 39,4-7.}
 
 blev fanget i deres gruber,
 
@@ -236,13 +237,13 @@ blev fanget i deres gruber,
 
 ***
 
-//2 v22 Til ende er din skyld,
+//2 v22 Til ende er din skyld,{E: *ʕāwōn* har en bred vifte af betydninger som >>synd<<, >>skyld<< og >>straf for synd<<. De fleste oversættelser vælger >>din straf<<.} 
 //5 Zions datter,
 
-//4 han vil ikke længere 
-//5 føre dig bort!
+//4 han vil ikke igen
+//5 føre dig i eksil!{H: Klages 1,3.}
 
 //3 Han hjemsøger dig for din skyld,
 //4 Edoms datter,
 
-//3 han afslører{H: Klages 2,14} dine synder.
+//3 han afslører{H: Klages 2,14.} dine synder.
