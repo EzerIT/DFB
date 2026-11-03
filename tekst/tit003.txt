@@ -29,6 +29,6 @@ v8 Troværdigt er ordet, og jeg vil at du skal insistere på dette, for at de so
 
 v12 Når jeg sender Artemas eller Tykikos til dig, så skynd dig at komme til mig i Nikopolis, for dér har jeg besluttet at overvintre. v13 Hjælp Zenas, den lovkyndige, og Apollos bedst muligt med henblik på deres rejse for at de ikke skal mangle noget. v14 Men også vores folk skal lære at engagere sig i gode gerninger hvor det er nødvendigt, for at de ikke skal være uden frugt.
 
-v13 Alle som er hos mig, hilser. Hils dem som elsker os i troen.
+v15 Alle som er hos mig, hilser. Hils dem som elsker os i troen.
 
-v14 Nåden være med jer alle.
+Nåden være med jer alle.
