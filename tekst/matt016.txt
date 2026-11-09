@@ -1,7 +1,7 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 28.05.2021>!!
+!!<Dato for denne version: 09.11.2026>!!
 ===Matthæusevangeliet, kapitel 16===
 
 ==Kravet om tegn==
@@ -14,7 +14,7 @@ v5 Da disciplene var kommet over til den anden bred, havde de glemt at tage brø
 
 ==Peters bekendelse==
 
-v13 Men da Jesus kom til egnen ved Cæsarea Filippi, spurgte han sine disciple: >>Hvem siger mennesker at Menneskesønnen er?<< v14 De sagde: >>Nogle siger Johannes Døber, andre siger Elias, og andre igen siger Jeremias eller en af profeterne.<< v15 Han sagde til dem: >>Hvem siger I at jeg er?<< v16 Simon Peter svarede: >>Du er Kristus, den levende Guds Søn.<< v17 Jesus sagde til ham: >>Lykkelig er du, Simon, Jonas’ søn, for det har kød og blod ikke åbenbaret dig, men min himmelske Far. v18 Og jeg siger dig: Du er Peter, og på den klippe vil jeg bygge min kirke, og dødsrigets porte skal ikke få magt over den. v19 Jeg vil give dig nøglerne til Himlenes rige, og det som du binder på jorden, skal være bundet i himlen, og det som du løser på jorden, skal være løst i himlen.<< v20 Så befalede han disciplene at de ikke måtte sige til nogen at han var Kristus.
+v13 Men da Jesus kom til egnen ved Cæsarea Filippi, spurgte han sine disciple: >>Hvem siger mennesker at Menneskesønnen er?<< v14 De sagde: >>Nogle siger Johannes Døber, andre siger Elias, og andre igen siger Jeremias eller en af profeterne.<< v15 Han siger til dem: >>Hvem siger I at jeg er?<< v16 Simon Peter svarede: >>Du er Kristus, den levende Guds søn.<< v17 Jesus sagde til ham: >>Velsignet er du, Simon, Jonas’ søn, for det har kød og blod ikke åbenbaret dig, men min himmelske far. v18 Og jeg siger dig: Du er Peter, og på den klippe vil jeg bygge min kirke, og dødsrigets porte skal ikke få magt over den. v19 Jeg vil give dig nøglerne til Himlenes rige, og det som du binder på jorden, skal være bundet i himlen, og det som du løser på jorden, skal være løst i himlen.<< v20 Så befalede han disciplene at de ikke måtte sige til nogen at han var Kristus.
 
 ==Den første lidelsesforudsigelse==
 
@@ -22,5 +22,6 @@ v21 Fra da af begyndte Jesus at gøre det klart for sine disciple at han skal g�
 
 ==Om efterfølgelse==
 
-v24 Da sagde Jesus til sine disciple: >>Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og følge mig. v25 For den som vil frelse sig selv, skal miste sig selv. Og den som mister sig selv for min skyld, skal finde sig selv. v26 For hvad gavner det et menneske hvis han vinder hele verden, men mister sig selv? Eller: Hvad kan et menneske give som erstatning for sig selv? v27 For Menneskesønnen skal komme i sin Fars herlighed sammen med sine engle, og da skal han gengælde enhver efter hans gerning. v28 Sandelig siger jeg jer: Nogle af dem som står her, skal ikke smage døden før de ser Menneskesønnen komme i sit rige.<<    
+v24 Da sagde Jesus til sine disciple: >>Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og følge mig. v25 For den som vil frelse sig selv, vil miste sig selv. Og den som mister sig selv for min skyld, vil finde sig selv. v26 For hvad gavner det et menneske hvis han vinder hele verden, men mister sig selv? Eller: Hvad kan et menneske give som erstatning for sig selv? v27 For Menneskesønnen vil komme i sin fars herlighed sammen med sine engle, og da vil han gengælde enhver efter hans gerning. v28 Sandelig siger jeg jer: Nogle af dem som står her, vil ikke smage døden før de ser Menneskesønnen komme i sit rige.<<    
+
 

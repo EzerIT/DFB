@@ -1,12 +1,12 @@
 !!<Oversættelse: Torben Kjær>!!
 !!<Eksegetisk bearbejdning: Endnu ikke sket>!!
 !!<Litterært tjek: Trine Tøndering>!!
-!!<Dato for denne version: 03.11.2026>!!
+!!<Dato for denne version: 09.11.2026>!!
 ===Matthæusevangeliet, kapitel 28===
 
 ==Opstandelsen==
 
-v1 Men efter sabbatten, da det gryede på den første dag i ugen, kom Maria Magdalene og en anden Maria for at se til graven. v2 Og se, der kom et stort jordskælv, for Herrens engel steg ned fra himlen og gik hen og væltede stenen og satte sig på den. v3 Hans udseende var som lynet og hans klæder hvide som sne. v4 Og de som holdt vagt, skælvede af frygt for ham og blev som døde. v5 Men englen tog til orde og sagde til kvinderne: >>I skal ikke frygte, for jeg ved at I søger efter Jesus, den korsfæstede. v6 Han er ikke her, for han er blevet oprejst som han har sagt. Kom og se stedet hvor han lå. v7 Og skynd jer hen og sig til hans disciple at han er blevet oprejst fra de døde, og se, han går forud for jer til Galilæa, og dér skal I se ham. Se, jeg har sagt jer det.<< v8 Og de skyndte sig bort fra graven med frygt og stor glæde og løb hen for at fortælle det til hans disciple. v9 Og se, Jesus mødte dem og sagde: >>Vær hilset!<< De gik hen til ham, omfavnede hans fødder og tilbad ham. v10 Da sagde Jesus til dem: >>Frygt ikke! Gå og fortæl mine disciple at de skal gå til Galilæa, og dér skal de se mig.<<
+v1 Men efter sabbatten, da det gryede på den første dag i ugen, kom Maria Magdalene og en anden Maria for at se til graven. v2 Og se, der kom et stort jordskælv, for Herrens engel steg ned fra himlen og gik hen og væltede stenen og satte sig på den. v3 Hans udseende var som lynet og hans klæder hvide som sne. v4 Og de som holdt vagt, skælvede af frygt for ham og blev som døde. v5 Men englen tog til orde og sagde til kvinderne: >>I skal ikke frygte, for jeg ved at I søger efter Jesus, den korsfæstede. v6 Han er ikke her, for han er blevet oprejst som han har sagt. Kom og se stedet hvor han lå. v7 Og skynd jer hen og sig til hans disciple at han er blevet oprejst fra de døde, og se, han går forud for jer til Galilæa, og dér skal I se ham. Se, jeg har sagt jer det.<< v8 Og de skyndte sig bort fra graven med frygt og stor glæde og løb hen for at fortælle det til hans disciple. v9 Og se, Jesus mødte dem og sagde: >>Vær hilset!<< De gik hen til ham, omfavnede hans fødder og tilbad ham. v10 Da siger Jesus til dem: >>Frygt ikke! Gå og fortæl mine disciple at de skal gå til Galilæa, og dér vil de se mig.<<
 
 ==Bestikkelse af gravvagten==
 
@@ -15,4 +15,5 @@ v11 Mens de gik bort, se, da kom nogle fra vagtmandskabet til byen og fortalte y
 ==Missionsbefalingen==
 
 v16 De elleve disciple drog til Galilæa til det bjerg hvor Jesus havde befalet dem at gå hen, v17 og da de så ham, tilbad de ham, men nogle tvivlede. v18 Og Jesus trådte frem og talte til dem: >>Mig er blevet givet al magt i himlen og på jorden. v19 Gå derfor hen og gør alle folk til mine disciple, idet I døber dem i Faderens, og Sønnens og Helligåndens navn, v20 og idet I lærer dem at holde alt det, jeg har befalet jer. Og se, jeg er med jer alle dage indtil verdens afslutning.<< 
+
 
