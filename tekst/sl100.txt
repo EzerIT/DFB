@@ -1,36 +1,34 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Litterært tjek: Trine Tøndering>!!
-!!<Eksegetisk bearbejdning: Nicolai Winther-Nielsen>!!
-!!<Dato for denne version: 17.07.2017>!!
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.11.2026>!!
 
 ===Salme 100===
-
 ==Overskrift==
-v1 En salme til taksigelse.{E: Ordet: *tôdāʰ* betyder normalt: >>tak, taksigelse<<. Sammen med verbet/substantivet *zbḥ* (>>ofre/offer<<) eller andre offertermer angiver det >>takoffer<<. Det er omdiskuteret om ordet her, uden tilknyttet offerterm, kan betyde >>takoffer<<, som det ofte oversættes. Det ville være eneste sted i GT.}
+//0 v1 En salme til taksigelse.
+ ==Lovsyng HERREN, Israels skaber og vogter==
+//0 Bryd ud i fryderåb for HERREN, //1 hele landet!{N: Jord}
 
-==Lovsyng HERREN, Israels skaber og vogter==
-Bryd ud i fryderåb for HERREN, hele landet!{E: Langt de fleste oversættere oversætter: *kol-hāʔāreṣ* ved: >>hele jorden<<, som det oftest betyder i salmerne. Men >>hele jordens<< folkeslag synes slet ikke inde i synsfeltet i denne salme. *hāʔāreṣ* kan både betyde: >>landet<< og >>jorden<<. Da vi ikke kan gengive denne dobbelthed på dansk, må oversætteren vælge. Ud fra sammenhængen vælger jeg >>landet<<.}
+//0 v2 Tjen HERREN med glæde,
 
-v2 Tjen HERREN med glæde,
+//0 kom for hans ansigt med jubel!
 
-kom for hans ansigt med jubel!
+//0 v3 Erkend //1 at HERREN, //3 han er Gud,
 
-v3 Erkend at HERREN er Gud,
+//2 han har skabt os, //3 og ikke vi selv,{E: Således konsonantteksten. Vokaliseringen forudsætter at *lōʔ* (>>ikke<<) skulle have været *lô* (>>for ham<<), dvs. >>og ham hører vi til<<.}
 
-han har skabt os, og ikke vi selv,{E: Således konsonantteksten. Vokaliseringen forudsætter at *lōʔ* (>>ikke<<) skulle have været: *lô*: >>for ham<<, så sidste halvlinje skal oversættes: >>og ham hører vi til<<.}
+ vi er hans folk og de får han sørger for.{T: Ordret: >>lader gå på græs<<.}
 
-vi er hans folk og de får han vogter.{T: Ordret: >>lader gå på græs<<.}
+ ==Lovsyng HERREN, for han er god!==
+//0 v4 Gå ind ad hans porte med takkesang,
 
-==Lovsyng HERREN, for han er god!==
-v4 Gå ind ad hans porte med takkesang,
+//1 i hans forgårde med lovsang;
 
-i hans forgårde med lovsang;
+//0 tak ham, 
+//0 pris hans navn!
 
-tak ham, pris{T: Kan også oversættes: >>velsign<<.} hans navn!
+//1 v5 For HERREN er god,
 
-v5 For HERREN er god,
+//2 hans nåde{N: nåde} varer til evig tid,
 
-hans nåde{N: nåde} varer til evig tid,
-
-og hans troskab{T: Kan også oversættes: >>sandhed<<.} fra slægt til slægt.
+//3 og hans troskab{T: Kan også oversættes: >>sandhed<<.} fra slægt til slægt.
 

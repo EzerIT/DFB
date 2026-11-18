@@ -1,65 +1,70 @@
 !!<Oversættelse: Jørgen Bækgaard Thomsen>!!
-!!<Eksegetisk bearbejdning: Christian Højgaard>!!
-!!<Dato for denne version: 17.06.2016>!!
-
+!!<Redaktion: Trine Tøndering og Nicolai Winther-Nielsen>!!
+!!<Dato for denne version: 18.11.2026>!!
 ===Salme 24===
-
 ==Overskrift==
+===Salme 24===
+//0 v1 Af David, 
+//1 en salme. 
+ ==David lovpriser HERREN, som er herre over alle ting== 
+//0 Jorden og dens fylde er HERRENS, 
 
-v1 En salme af David.
+//4 den beboede verden  
+//5 og dens indbyggere. 
 
-==David lovpriser HERREN, som er herre over alle ting==
+//3 v2 For han grundlagde den ved havene, 
 
-HERRENS er jorden og dens fylde,
+//4 grundfæstede den ved strømmene.{T: Ud fra et nærorientalsk verdensbillede kan der være tænkt på et stort underjordisk urhav.}
 
-verden{T: Der er især tænkt på det dyrkede land} og dens beboere.
- 
-v2 For han grundlagde den på havene;
+==Betingelsen for at et menneske kan træde ind i Guds tempel== 
+//2 v3 Hvem kan gå op på HERRENS bjerg? 
 
-gjorde den fast på strømmene{T: I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.}.
+//4 Hvem kan stå på hans hellige sted? 
 
-==Betingelsen for at et menneske kan træde ind i Guds tempel==
+//4 v4 Den som har uskyldige hænder og et rent hjerte; 
 
-v3 Hvem kan gå op på HERRENS bjerg?
+//5 den som ikke har rettet sit sind{N: Sjæl} mod falskhed 
 
-Hvem kan stå på hans hellige sted?
+//6 og ikke har svoret i bedrag. 
 
-v4 Den som har uskyldige hænder og et rent hjerte;
+//3 v5 Han vil række op efter velsignelse fra HERREN; 
 
-den som ikke har rettet sin sjæl mod falskhed
+//5 retfærdighed fra sin frelses Gud. 
 
-og ikke har svoret bedragerisk.
+//4 v6 Dette er den slægt som søger ham, 
 
-v5 Han skal få velsignelse fra HERREN;
+//5 de som søger dig,{N: Ansigt} er som Jakob.{E: To håndskrifter og LXX tilføjer >>Gud<<, så oversættelsen bliver >>de som søger dit ansigt, Jakobs Gud<<}  
+//6 Sela{N: Sela} 
 
-retfærdighed fra sin frelses Gud.
+==HERREN holder sejrrigt indtog i helligdommen== 
+//1 v7 Løft,  
+//4 I porte, 
+//3 jeres hoveder; 
 
-v6 Dette er den slægt som spørger efter ham,
+//2 lad jer løfte op, 
+//4 I ældgamle portaler, 
 
-de som søger dit ansigt, Jakobs Gud{E: Oversættelsen er usikker, for ordet >>Gud<< mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: >>de som søger dit ansigt, er Jakob<<. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)}. Sela{N: Sela}
+//3 så ærens konge kan drage ind! 
 
-==HERREN holder sejrrigt indtog i helligdommen==
+//4 v8 Hvem er denne ærens konge? 
 
-v7 Løft, I porte, jeres hoveder;
+//5 HERREN, stærk og mægtig, 
 
-løft jer, I ældgamle døre,
+//5 HERREN, mægtig i krig. 
 
-så ærens konge kan drage ind!
+//1 v9 Løft,  
+//4 I porte, 
+//3 jeres hoveder; 
 
-v8 Hvem er denne ærens konge?
+//2 løft{E: Grundteksten har: >>og løft (dem), I ældgamle døre<<, men enkelte håndskrifter og LXX forudsætter verbalformen *nif’al* som i v.7.} jer, 
+//4 I ældgamle 	portaler, 
 
-HERREN, stærk og mægtig,
+//3 så ærens konge kan drage ind! 
 
-HERREN, mægtig i krig.
+//4 v10 Hvem er han,  
+//6 den ærens konge? 
 
-v9 Løft, I porte, jeres hoveder;
+//5 Hærskarers {N: Hærskarers} HERRE, 
+//6 han er ærens konge! 
+//7 Sela 
 
-løft{E: Grundteksten har: >>og løft (dem), I ældgamle døre<<. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.} jer, I ældgamle døre,
-
-så ærens konge kan drage ind!
-
-v10 Hvem er han, den ærens konge?
-
-Hærskarers {T: I ældre tid oversat: >>Zebaoth<<.} HERRE,
-
-han er ærens konge! Sela
