@@ -48,6 +48,23 @@ $find_bibleref = <<<'END'
 
 END;
 
+function update_blog_feed_cache($filename) {
+    $feed_url = 'https://brugbibelen.dk/blog/feed?show=link&title&date&blog_tag=den-frie-bibel';
+
+    $ch = curl_init($feed_url);
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_TIMEOUT => 10,
+        CURLOPT_USERAGENT => 'Den Frie Bibel RSS Reader'
+    ]);
+
+    $xml = curl_exec($ch);
+
+    if ($xml !== false)
+        file_put_contents($filename, $xml);
+}
+
 ?>
 
 <script>
@@ -78,6 +95,7 @@ END;
           <img class="img-fluid float-right" style="margin-left: 5px; margin-bottom: 5px;" src="img/pexels-tima-miroshnichenko-5199809-mod.jpg" alt="">
     
           <h1>Vel&shy;kom&shy;men til Den Frie Bibel</h1>
+
 
           <p>Den Frie Bibel udspringer af ønsket om at skabe en tekstnær dansk bibeloversættelse som
               er fri for enhver form for copyright. Altså en tekst som alle og enhver har lov til at
@@ -208,6 +226,43 @@ END;
           <p><progress value="<?= $ntcount ?>" max="<?= $total_chap_nt ?>"></progress> <?= round($ntcount*100/$total_chap_nt) ?>%</p>
         </div>
       </div>
+
+      <div class="card mt-3">
+        <h1 class="card-header bg-success text-light">Indblik</h1>
+        <div class="card-body">
+            <?php
+            $filename = '/tmp/blog_feed_cache.xml';
+            
+            if (!file_exists($filename) || (time() - filemtime($filename) > 3600)) {
+                update_blog_feed_cache($filename);
+            }
+
+            $xml = file_get_contents($filename);
+            
+            if ($xml !== false) {
+                $feed = simplexml_load_string($xml, 'SimpleXMLElement', LIBXML_NONET);
+
+                if ($feed !== false) {
+                    echo '<ul style="padding-left:0">';
+
+                    foreach ($feed->channel->item as $item) {
+                        $title = htmlspecialchars((string)$item->title, ENT_QUOTES, 'UTF-8');
+                        $link  = htmlspecialchars((string)$item->link, ENT_QUOTES, 'UTF-8');
+                        $pubDate  = htmlspecialchars((string)$item->pubDate, ENT_QUOTES, 'UTF-8');
+
+                        $pubDate = date('d.m.Y', strtotime($pubDate));
+                        
+                        echo "<li><a target=\"_blank\" href=\"$link\">$title</a> <small>($pubDate)</small></li>\n";
+                    }
+
+                    echo '</ul>';
+                }
+            }
+            ?>
+
+        </div>
+      </div>
+
     </div>
 
   </div><!--End of row-->
