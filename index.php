@@ -49,7 +49,7 @@ $find_bibleref = <<<'END'
 END;
 
 function update_blog_feed_cache($filename) {
-    $feed_url = 'https://brugbibelen.dk/blog/feed?show=link&title&date&blog_tag=den-frie-bibel';
+    $feed_url = 'https://brugbibelen.dk/indblik/feed?show=link,title,date&blog_tag=den-frie-bibel';
 
     $ch = curl_init($feed_url);
     curl_setopt_array($ch, [
